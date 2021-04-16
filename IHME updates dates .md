@@ -5,21 +5,21 @@ IHME updates dates
 Download page: http://www.healthdata.org/covid/data-downloads
 
 
- | up_no |   up_date            |    up_file         |   up_url
- |-------|----------------------|--------------------|-----------------------------------------------------------------------------------------------|
+ | up_no        |   up_date                |    up_file         |   up_url
+ |--------------|--------------------------|--------------------|-----------------------------------------------------------------------------------------------|
  | 	1	| 	March 25, 2020     |	ihme-covid19	| 	https://ihmecovid19storage.blob.core.windows.net/archive/2020-03-25/ihme-covid19.zip	    | 
  | 	2	| 	March 26, 2020     |	2020_03_26	    | 	https://ihmecovid19storage.blob.core.windows.net/archive/2020-03-26/ihme-covid19.zip	    | 
  | 	3	| 	March 27, 2020     |	2020_03_27	    | 	https://ihmecovid19storage.blob.core.windows.net/archive/2020-03-27/ihme-covid19.zip	    | 
-	| 	4	| 	March 29, 2020     |	2020_03_29	    | 	https://ihmecovid19storage.blob.core.windows.net/archive/2020-03-29/ihme-covid19.zip	    | 
-	| 	5	| 	March 30, 2020     |	2020_03_30	    | 	https://ihmecovid19storage.blob.core.windows.net/archive/2020-03-30/ihme-covid19.zip	    | 
-	| 	6	| 	March 31, 2020     |	2020_03_31.1	| 	https://ihmecovid19storage.blob.core.windows.net/archive/2020-03-31/ihme-covid19.zip	    | 
-	| 	7	| 	April 1, 2020      |	2020_04_01.2	| 	https://ihmecovid19storage.blob.core.windows.net/archive/2020-04-01/ihme-covid19.zip	    | 
-	| 	8	| 	April 5, 2020      |	2020_04_05.05.us| 	https://ihmecovid19storage.blob.core.windows.net/archive/2020-04-05/ihme-covid19.zip	    | 
-	| 	9	| 	April 7, 2020      |	2020_04_05.08	| 	https://ihmecovid19storage.blob.core.windows.net/archive/2020-04-07/ihme-covid19.zip	    | 
-	| 	10	| 	April 8, 2020      |	2020_04_07.06	| 	https://ihmecovid19storage.blob.core.windows.net/archive/2020-04-08/ihme-covid19.zip	    | 
-	| 	11	| 	April 10, 2020     |	2020_04_09.04	| 	https://ihmecovid19storage.blob.core.windows.net/archive/2020-04-10/ihme-covid19.zip	    | 
-	| 	12	| 	April 13, 2020     |	2020_04_12.02	| 	https://ihmecovid19storage.blob.core.windows.net/archive/2020-04-13/ihme-covid19.zip	    | 
-	| 	13	| 	April 17, 2020     |	2020_04_16.05	| 	https://ihmecovid19storage.blob.core.windows.net/archive/2020-04-17/ihme-covid19.zip	    | 
+ | 	4	| 	March 29, 2020     |	2020_03_29	    | 	https://ihmecovid19storage.blob.core.windows.net/archive/2020-03-29/ihme-covid19.zip	    | 
+ | 	5	| 	March 30, 2020     |	2020_03_30	    | 	https://ihmecovid19storage.blob.core.windows.net/archive/2020-03-30/ihme-covid19.zip	    | 
+ | 	6	| 	March 31, 2020     |	2020_03_31.1	| 	https://ihmecovid19storage.blob.core.windows.net/archive/2020-03-31/ihme-covid19.zip	    | 
+ | 	7	| 	April 1, 2020      |	2020_04_01.2	| 	https://ihmecovid19storage.blob.core.windows.net/archive/2020-04-01/ihme-covid19.zip	    | 
+ | 	8	| 	April 5, 2020      |	2020_04_05.05.us| 	https://ihmecovid19storage.blob.core.windows.net/archive/2020-04-05/ihme-covid19.zip	    | 
+ | 	9	| 	April 7, 2020      |	2020_04_05.08	| 	https://ihmecovid19storage.blob.core.windows.net/archive/2020-04-07/ihme-covid19.zip	    | 
+ | 	10	| 	April 8, 2020      |	2020_04_07.06	| 	https://ihmecovid19storage.blob.core.windows.net/archive/2020-04-08/ihme-covid19.zip	    | 
+ | 	11	| 	April 10, 2020     |	2020_04_09.04	| 	https://ihmecovid19storage.blob.core.windows.net/archive/2020-04-10/ihme-covid19.zip	    | 
+ | 	12	| 	April 13, 2020     |	2020_04_12.02	| 	https://ihmecovid19storage.blob.core.windows.net/archive/2020-04-13/ihme-covid19.zip	    | 
+ | 	13	| 	April 17, 2020     |	2020_04_16.05	| 	https://ihmecovid19storage.blob.core.windows.net/archive/2020-04-17/ihme-covid19.zip	    | 
 	| 	14	| 	April 21, 2020     |	2020_04_20.02	| 	https://ihmecovid19storage.blob.core.windows.net/archive/2020-04-21/ihme-covid19.zip	    | 
 	| 	15	| 	April 22, 2020     |	2020_04_21.08	| 	http://www.healthdata.org/sites/default/files/files/Projects/COVID/ihme-covid19-0422.zip	| 
 	| 	16	| 	April 27, 2020     |	2020_04_26.08	| 	http://www.healthdata.org/sites/default/files/files/Projects/COVID/downloads_0427.zip	    | 
