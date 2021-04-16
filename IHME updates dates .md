@@ -73,9 +73,8 @@ Download page: http://www.healthdata.org/covid/data-downloads
  |	64	| 	March 25, 2021     |	2021_03_25	      | 	https://ihmecovid19storage.blob.core.windows.net/archive/2021-03-25/ihme-covid19.zip	    | 
  |	65	| 	April 1, 2021      |	2021_04_01	      | 	https://ihmecovid19storage.blob.core.windows.net/archive/2021-04-01/ihme-covid19.zip	    | 
  |	66	| 	April 9, 2021      |	2021_04_09	      | 	https://ihmecovid19storage.blob.core.windows.net/latest/ihme-covid19.zip	                | 
- |    |                     |                  |                                                                                           |
- |    |                     |                  |                                                                                           |
- |    |                     |                  |                                                                                           |
- |    |                     |                  |                                                                                           |
- |    |                     |                  |                                                                                           |
+ | 67 |                     |                  |                                                                                           |
+ | 68 |                     |                  |                                                                                           |
+ | 69 |                     |                  |                                                                                           |
+ | 70 |                     |                  |                                                                                           |
 
