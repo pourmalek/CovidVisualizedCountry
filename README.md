@@ -1,2 +1,3 @@
 # globalcovid2
-Longitudinal review of international estimates of global COVID-19
+Combine and visualize international periodically updating estimates of COVID-19 at the country level
+
