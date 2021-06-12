@@ -12,6 +12,8 @@ DELP 20210604, IHME **20210604**, IMPE 20210527, LANL 20210602, SRIV 20210604
 
 <embed src="https://belovanna.github.io/assets/download/sample.pdf" type="application/pdf" />
 
+ {% pdf "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf" %}
+
 ****
 
 
