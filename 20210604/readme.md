@@ -4,7 +4,11 @@ DELP 20210604, IHME **20210604**, IMPE 20210527, LANL 20210602, SRIV 20210604
 
 ****
 
-[embed]https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/readme.md#selected-graphs---canada-1[/embed]
+[embed]https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/readme.md#selected-graphs---canada-1.pdf[/embed]
+
+*****
+
+<embed src="https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/readme.md#selected-graphs---canada-1.pdff" type="application/pdf" />
 
 ****
 
