@@ -4,7 +4,7 @@ DELP 20210604, IHME **20210604**, IMPE 20210527, LANL 20210602, SRIV 20210604
 
 ****
 
-[embed]http://example.com/file.pdf[/embed]
+[embed]https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/readme.md#selected-graphs---canada-1[/embed]
 
 ****
 
