@@ -4,7 +4,7 @@ DELP 20210604, IHME **20210604**, IMPE 20210527, LANL 20210602, SRIV 20210604
 
 ****
 
-https://github.com/noopkat/robots-conf-2014-3DP-pres/blob/94eca35a3d0eda5d87ac9c71fe46926816c12376/Robots-Conf-2014-3D-Printing.pdf
+[embed]http://example.com/file.pdf[/embed]
 
 ****
 
