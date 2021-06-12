@@ -11,9 +11,19 @@ DELP 20210604, IHME **20210604**, IMPE 20210527, LANL 20210602, SRIV 20210604
 ****
 
 
-### Selected graphs
+## Selected graphs
+
+### Selected graphs - Canada
+
+### Selected graphs - British Columbia
+
+### Selected graphs - Ontario
+
+### Selected graphs - Quebec
 
 ****
+
+### Selected graphs - Canada
 
 (1) [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/graph%2012%20COVID-19%20daily%20deaths%2C%20global%2C%20reference%20scenarios%2C%20all%20time%2C%20without%20JOHN.pdf)
 
