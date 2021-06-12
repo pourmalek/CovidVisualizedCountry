@@ -19,7 +19,7 @@ DELP 20210604, IHME **20210604**, IMPE 20210527, LANL 20210602, SRIV 20210604
 
 ### Selected graphs - [Ontario](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/readme.md#selected-graphs---ontario-1)
 
-### Selected graphs - [Quebec]()
+### Selected graphs - [Quebec](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/readme.md#selected-graphs---quebec-1)
 
 ****
 
