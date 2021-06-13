@@ -49,7 +49,7 @@
     . To examine the main (aka. status quo) scenario, and alternative (better and worse) scenarios 
   
   
-6. Models: Different models within each graph (for which model estimates update release dates are maximally synchronized), plus official reports of the country to WHO (curated by Johns Hopkins university)
+(6) Models: Different models _within_ each graph (for which model estimates update release dates are maximally synchronized), plus official reports of the country to WHO (curated by Johns Hopkins university)
 
      . To examine how heterogeneity in methods used by different models results in heterogenous results for the same outcome (same time-place-person aggregated units)
   
