@@ -193,18 +193,21 @@ DELP 20210604, **_IHME 20210604_**, IMPE 20210527, LANL 20210602, SRIV 20210604
 
 ****
 
-(8) Ontario [Hospital-related outcomes, 2021, without IHME Bed need and IMPE Hospital demand]()
+(8) Ontario [Hospital-related outcomes, 2021, without IHME Bed need and IMPE Hospital demand](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/CAN%20SUB/SUB8%2073bDayHosMERGsub%202021%20woextremes%20Ontario%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20Ontario%2C%20wo%20extremes%2C%202021.pdf)
 
-
-****
-
-(9) Ontario [Daily deaths estimated to reported, reference scenarios, 2021]()
-
+![image](https://user-images.githubusercontent.com/30849720/121795590-08b5e180-cbc7-11eb-96c7-43cb638f7ccb.png)
 
 ****
 
-(10) Ontario [Daily cases estimated to reported, reference scenarios, 2021]()
+(9) Ontario [Daily deaths estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/CAN%20SUB/SUB9%2092bDayDERMERGsub%202021%20Ontario%20-%20COVID-19%20daily%20deaths%20estimated%20to%20reported%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/121795605-271bdd00-cbc7-11eb-9a46-4b8d692bc38d.png)
+
+****
+
+(10) Ontario [Daily cases estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/CAN%20SUB/SUB10%2094bDayCERMERGsub%202021%20Ontario%20-%20COVID-19%20daily%20cases%20estimated%20to%20reported%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202021.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/121795625-487cc900-cbc7-11eb-948e-6f9c053be6ea.png)
 
 ****
 ****
