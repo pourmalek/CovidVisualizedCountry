@@ -207,7 +207,7 @@ graph (5) Canada [Daily cases, reference scenarios, 2021](https://github.com/pou
 
 ****
 
-#### graph
+#### graph (2) British Columbia - Daily deaths, reference scenarios, 2011
   
 (2) British Columbia [Daily deaths, reference scenarios, 2011](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/CAN%20SUB/SUB2%2012bDayDeaMERGsub%202021%20British%20Columbia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%202021.pdf)
 
@@ -215,7 +215,7 @@ graph (5) Canada [Daily cases, reference scenarios, 2021](https://github.com/pou
 
 ****
   
-#### graph  
+#### graph (3) British Columbia - Daily deaths, 3 scenarios, 2011 
 
 (3) British Columbia [Daily deaths, 3 scenarios, 2011](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/CAN%20SUB/SUB3%2014bDayDeaMERGsub%202021%203%20scenarios%20British%20Columbia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20British%20Columbia%2C%203%20scenarios%2C%202021.pdf)
 
@@ -223,7 +223,7 @@ graph (5) Canada [Daily cases, reference scenarios, 2021](https://github.com/pou
 
 ****
   
-#### graph  
+#### graph (4) British Columbia - Daily cases, reference scenarios, all time
 
 (4) British Columbia [Daily cases, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/CAN%20SUB/SUB4%2031bDayCasMERGsub%20alltime%20British%20Columbia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios.pdf)
 
@@ -231,7 +231,7 @@ graph (5) Canada [Daily cases, reference scenarios, 2021](https://github.com/pou
 
 ****
   
-#### graph  
+#### graph (5) British Columbia - Daily cases, reference scenarios, 2021 
 
 (5) British Columbia [Daily cases, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/CAN%20SUB/SUB5%2032bDayCasMERGsub%202021%20British%20Columbia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%202021.pdf)
 
@@ -239,7 +239,7 @@ graph (5) Canada [Daily cases, reference scenarios, 2021](https://github.com/pou
 
 ****
   
-#### graph  
+#### graph (6) British Columbia - Daily cases, 3 scenarios, 2011
 
 (6) British Columbia [Daily cases, 3 scenarios, 2011](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/CAN%20SUB/SUB6%2034bDayCasMERGsub%202021%203scen%20British%20Columbia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20British%20Columbia%2C%203%20scenarios%2C%202021%2C%20uncertainty.pdf)
 
@@ -247,7 +247,7 @@ graph (5) Canada [Daily cases, reference scenarios, 2021](https://github.com/pou
 
 ****
   
-#### graph  
+#### graph (7) British Columbia - Hospital-related outcomes, all time 
 
 (7) British Columbia [Hospital-related outcomes, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/CAN%20SUB/SUB7%2071bDayHosMERGsub%20alltime%20British%20Columbia%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20British%20Columbia.pdf)
 
@@ -255,9 +255,9 @@ graph (5) Canada [Daily cases, reference scenarios, 2021](https://github.com/pou
 
 ****
   
-#### graph  
+#### graph (8) British Columbia - Hospital-related outcomes, 2021, without IHME Bed need and IMPE Hospital demand
 
-(8) British Columbia [Hospital-related outcomes, 2021, without IHME Bed need and IMPE Hospital demand]()
+(8) British Columbia [Hospital-related outcomes, 2021, without IHME Bed need and IMPE Hospital demand](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/CAN%20SUB/SUB8%2073bDayHosMERGsub%202021%20woextremes%20British%20Columbia%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20British%20Columbia%2C%20wo%20extremes%2C%202021.pdf)
 
 ![image](https://user-images.githubusercontent.com/30849720/121795299-55e48400-cbc4-11eb-8f3f-234de7b21fe9.png)
 
