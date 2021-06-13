@@ -132,16 +132,19 @@ DELP 20210604, **_IHME 20210604_**, IMPE 20210527, LANL 20210602, SRIV 20210604
 
 (8) British Columbia [Hospital-related outcomes, 2021, without IHME Bed need and IMPE Hospital demand]()
 
+![image](https://user-images.githubusercontent.com/30849720/121795299-55e48400-cbc4-11eb-8f3f-234de7b21fe9.png)
 
 ****
 
-(9) British Columbia [Daily deaths estimated to reported, reference scenarios, 2021]()
+(9) British Columbia [Daily deaths estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/CAN%20SUB/SUB9%2092bDayDERMERGsub%202021%20British%20Columbia%20-%20COVID-19%20daily%20deaths%20estimated%20to%20reported%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/121795313-714f8f00-cbc4-11eb-85c9-5a385bd3191d.png)
 
 ****
 
-(10) British Columbia [Daily cases estimated to reported, reference scenarios, 2021]()
+(10) British Columbia [Daily cases estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/CAN%20SUB/SUB10%2094bDayCERMERGsub%202021%20British%20Columbia%20-%20COVID-19%20daily%20cases%20estimated%20to%20reported%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/121795335-98a65c00-cbc4-11eb-97ce-d2437cb4ec9a.png)
 
 ****
 ****
