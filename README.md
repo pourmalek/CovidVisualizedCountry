@@ -58,7 +58,17 @@ Scenarios: Reference scenarios, followed by alternative scenarios
   
 #### graph (1) Canada - Daily deaths, reference scenarios, all time
   
+  
+  
 *  
+  
+**uptake 20210605**: DELP 20210604, IHME 20210604, **_IMPE 20210604**_, LANL 20210602, SRIV 20210604
+  
+(1) Canada [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210605/output/merge/CAN%20SUB/CAN1%2011aDayDeaMERGnat%20alltime%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%20all%20time.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/121808788-04151b80-cc0f-11eb-82d5-902f03288e50.png)
+  
+*     
   
 **uptake 20210604**: DELP 20210604, **_IHME 20210604_**, IMPE 20210527, LANL 20210602, SRIV 20210604  
 
@@ -68,13 +78,7 @@ Scenarios: Reference scenarios, followed by alternative scenarios
   
 *  
 
-**uptake 20210605**: DELP 20210604, IHME 20210604, **_IMPE 20210604**_, LANL 20210602, SRIV 20210604
-  
-(1) Canada [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210605/output/merge/CAN%20SUB/CAN1%2011aDayDeaMERGnat%20alltime%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/121808788-04151b80-cc0f-11eb-82d5-902f03288e50.png)
-  
-*   
 
 ****
 ****  
