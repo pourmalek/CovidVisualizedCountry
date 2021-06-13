@@ -156,6 +156,7 @@ This uptake is actually uptake 20210604 number 2, because IMPE update 20210604 (
 
 (1) Ontario [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210605/output/merge/CAN%20SUB/SUB1%2011bDayDeaMERGsub%20alltime%20Ontario%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/121809466-c239a480-cc11-11eb-89a5-537e68a9bb05.png)
 
 ****
 
