@@ -30,9 +30,11 @@
 
 1. Location level: National, followed by 3 select provinces (two most affected, and BC) 
   
-    1. To further examine if province-level increases are predicted
+    i. To further examine if province-level increases are predicted
 
 2. Uptake date: Most recent uptake, followed by less recent uptakes
+  
+    i. To examine changes in predictions across calendar time
 
 3. Outcomes: Daily deaths, Daily cases, Hospital-related outcomes, Daily deaths estimated to reported, Daily cases estimated to reported
 
