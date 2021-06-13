@@ -92,6 +92,12 @@ Scenarios: Reference scenarios, followed by alternative scenarios
   
   
 *
+  
+**uptake 20210610**: DELP 20210610, **_IHME 20210610_**, IMPE 20210604, LANL 20210606, SRIV 20210610  
+  
+.  
+  
+* 
 
 **uptake 20210605**: DELP 20210604, IHME 20210604, **_IMPE 20210604_**, LANL 20210602, SRIV 20210604
   
@@ -119,6 +125,12 @@ Scenarios: Reference scenarios, followed by alternative scenarios
   
 *
   
+**uptake 20210610**: DELP 20210610, **_IHME 20210610_**, IMPE 20210604, LANL 20210606, SRIV 20210610  
+  
+.  
+  
+* 
+  
 **uptake 20210605**: DELP 20210604, IHME 20210604, **_IMPE 20210604_**, LANL 20210602, SRIV 20210604
   
 (3) Canada [Daily deaths, 3 scenarios, 2011](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210605/output/merge/CAN%20SUB/CAN3%2014aDayDeaMERGnat%202021%203%20scenarios%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20National%2C%203%20scenarios%2C%202021.pdf)
@@ -145,6 +157,12 @@ Scenarios: Reference scenarios, followed by alternative scenarios
   
 *
   
+**uptake 20210610**: DELP 20210610, **_IHME 20210610_**, IMPE 20210604, LANL 20210606, SRIV 20210610  
+  
+.  
+  
+* 
+  
 **uptake 20210605**: DELP 20210604, IHME 20210604, **_IMPE 20210604_**, LANL 20210602, SRIV 20210604
   
 (4) Canada [Daily cases, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210605/output/merge/CAN%20SUB/CAN4%2031aDayCasMERGnat%20alltime%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20National%2C%20reference%20scenarios.pdf)
@@ -170,6 +188,12 @@ Scenarios: Reference scenarios, followed by alternative scenarios
   
   
 *
+  
+**uptake 20210610**: DELP 20210610, **_IHME 20210610_**, IMPE 20210604, LANL 20210606, SRIV 20210610  
+  
+.  
+  
+* 
 
 **uptake 20210605**: DELP 20210604, IHME 20210604, **_IMPE 20210604_**, LANL 20210602, SRIV 20210604
   
@@ -193,7 +217,13 @@ graph (5) Canada [Daily cases, reference scenarios, 2021](https://github.com/pou
 #### graph (6) Canada - Daily cases, 3 scenarios, 2011
   
   
-*  
+*
+  
+**uptake 20210610**: DELP 20210610, **_IHME 20210610_**, IMPE 20210604, LANL 20210606, SRIV 20210610  
+  
+.  
+  
+* 
 
 **uptake 20210605**: DELP 20210604, IHME 20210604, **_IMPE 20210604_**, LANL 20210602, SRIV 20210604
   
@@ -220,6 +250,12 @@ graph (5) Canada [Daily cases, reference scenarios, 2021](https://github.com/pou
 
 *
   
+**uptake 20210610**: DELP 20210610, **_IHME 20210610_**, IMPE 20210604, LANL 20210606, SRIV 20210610  
+  
+.  
+  
+* 
+  
 **uptake 20210605**: DELP 20210604, IHME 20210604, **_IMPE 20210604_**, LANL 20210602, SRIV 20210604
   
 (7) Canada [Hospital-related outcomes, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210605/output/merge/CAN%20SUB/CAN7%2071aDayHosMERGnat%20%20alltime%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20National.pdf)
@@ -245,6 +281,12 @@ graph (5) Canada [Daily cases, reference scenarios, 2021](https://github.com/pou
   
   
 *
+  
+**uptake 20210610**: DELP 20210610, **_IHME 20210610_**, IMPE 20210604, LANL 20210606, SRIV 20210610  
+  
+.  
+  
+* 
 
 **uptake 20210605**: DELP 20210604, IHME 20210604, **_IMPE 20210604_**, LANL 20210602, SRIV 20210604
   
@@ -270,6 +312,12 @@ graph (5) Canada [Daily cases, reference scenarios, 2021](https://github.com/pou
   
 *
   
+**uptake 20210610**: DELP 20210610, **_IHME 20210610_**, IMPE 20210604, LANL 20210606, SRIV 20210610  
+  
+.  
+  
+* 
+  
 **uptake 20210605**: DELP 20210604, IHME 20210604, **_IMPE 20210604_**, LANL 20210602, SRIV 20210604
   
 (9) Canada [Daily deaths estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210605/output/merge/CAN%20SUB/CAN9%2092aDayDERMERGnat%202021%20-%20COVID-19%20daily%20deaths%20estimated%20to%20reported%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%202021.pdf)
@@ -294,6 +342,12 @@ graph (5) Canada [Daily cases, reference scenarios, 2021](https://github.com/pou
   
   
 *
+  
+**uptake 20210610**: DELP 20210610, **_IHME 20210610_**, IMPE 20210604, LANL 20210606, SRIV 20210610  
+  
+.  
+  
+* 
   
 **uptake 20210605**: DELP 20210604, IHME 20210604, **_IMPE 20210604_**, LANL 20210602, SRIV 20210604
   
@@ -330,7 +384,13 @@ graph (5) Canada [Daily cases, reference scenarios, 2021](https://github.com/pou
 ****
   
   
-*  
+*
+  
+**uptake 20210610**: DELP 20210610, **_IHME 20210610_**, IMPE 20210604, LANL 20210606, SRIV 20210610  
+  
+.  
+  
+* 
   
 **uptake 20210605**: DELP 20210604, IHME 20210604, **_IMPE 20210604_**, LANL 20210602, SRIV 20210604
   
@@ -357,7 +417,13 @@ graph (5) Canada [Daily cases, reference scenarios, 2021](https://github.com/pou
   
   
   
-*  
+*
+  
+**uptake 20210610**: DELP 20210610, **_IHME 20210610_**, IMPE 20210604, LANL 20210606, SRIV 20210610  
+  
+.  
+  
+* 
   
 **uptake 20210605**: DELP 20210604, IHME 20210604, **_IMPE 20210604_**, LANL 20210602, SRIV 20210604
   
@@ -384,7 +450,13 @@ graph (5) Canada [Daily cases, reference scenarios, 2021](https://github.com/pou
   
   
   
-*  
+*
+  
+**uptake 20210610**: DELP 20210610, **_IHME 20210610_**, IMPE 20210604, LANL 20210606, SRIV 20210610  
+  
+.  
+  
+* 
   
 **uptake 20210605**: DELP 20210604, IHME 20210604, **_IMPE 20210604_**, LANL 20210602, SRIV 20210604
   
@@ -411,7 +483,13 @@ graph (5) Canada [Daily cases, reference scenarios, 2021](https://github.com/pou
   
   
   
-*  
+*
+  
+**uptake 20210610**: DELP 20210610, **_IHME 20210610_**, IMPE 20210604, LANL 20210606, SRIV 20210610  
+  
+.  
+  
+* 
   
 **uptake 20210605**: DELP 20210604, IHME 20210604, **_IMPE 20210604_**, LANL 20210602, SRIV 20210604
   
@@ -464,7 +542,13 @@ graph (5) Canada [Daily cases, reference scenarios, 2021](https://github.com/pou
   
   
   
-*  
+*
+  
+**uptake 20210610**: DELP 20210610, **_IHME 20210610_**, IMPE 20210604, LANL 20210606, SRIV 20210610  
+  
+.  
+  
+*   
   
 **uptake 20210605**: DELP 20210604, IHME 20210604, **_IMPE 20210604_**, LANL 20210602, SRIV 20210604
   
@@ -490,6 +574,12 @@ graph (5) Canada [Daily cases, reference scenarios, 2021](https://github.com/pou
 #### graph (7) British Columbia - Hospital-related outcomes, all time 
   
   
+  
+*
+  
+**uptake 20210610**: DELP 20210610, **_IHME 20210610_**, IMPE 20210604, LANL 20210606, SRIV 20210610  
+  
+.  
   
 *  
   
@@ -518,7 +608,13 @@ graph (5) Canada [Daily cases, reference scenarios, 2021](https://github.com/pou
   
   
   
-*  
+*
+  
+**uptake 20210610**: DELP 20210610, **_IHME 20210610_**, IMPE 20210604, LANL 20210606, SRIV 20210610  
+  
+.  
+  
+* 
   
 **uptake 20210605**: DELP 20210604, IHME 20210604, **_IMPE 20210604_**, LANL 20210602, SRIV 20210604
   
@@ -545,7 +641,13 @@ graph (5) Canada [Daily cases, reference scenarios, 2021](https://github.com/pou
   
   
   
-*  
+*
+  
+**uptake 20210610**: DELP 20210610, **_IHME 20210610_**, IMPE 20210604, LANL 20210606, SRIV 20210610  
+  
+.  
+  
+*   
   
 **uptake 20210605**: DELP 20210604, IHME 20210604, **_IMPE 20210604_**, LANL 20210602, SRIV 20210604
   
@@ -572,7 +674,13 @@ graph (5) Canada [Daily cases, reference scenarios, 2021](https://github.com/pou
   
   
   
-*  
+*
+  
+**uptake 20210610**: DELP 20210610, **_IHME 20210610_**, IMPE 20210604, LANL 20210606, SRIV 20210610  
+  
+.  
+  
+*   
   
 **uptake 20210605**: DELP 20210604, IHME 20210604, **_IMPE 20210604_**, LANL 20210602, SRIV 20210604
   
@@ -606,7 +714,13 @@ graph (5) Canada [Daily cases, reference scenarios, 2021](https://github.com/pou
  
   
   
-*  
+*
+  
+**uptake 20210610**: DELP 20210610, **_IHME 20210610_**, IMPE 20210604, LANL 20210606, SRIV 20210610  
+  
+.  
+  
+*   
 
 **uptake 20210605**: DELP 20210604, IHME 20210604, **_IMPE 20210604_**, LANL 20210602, SRIV 20210604
   
@@ -658,6 +772,12 @@ graph (5) Canada [Daily cases, reference scenarios, 2021](https://github.com/pou
   
   
   
+*
+  
+**uptake 20210610**: DELP 20210610, **_IHME 20210610_**, IMPE 20210604, LANL 20210606, SRIV 20210610  
+  
+.  
+  
 *  
   
 **uptake 20210605**: DELP 20210604, IHME 20210604, **_IMPE 20210604_**, LANL 20210602, SRIV 20210604
@@ -684,7 +804,13 @@ graph (5) Canada [Daily cases, reference scenarios, 2021](https://github.com/pou
 #### graph (4) Ontario - Daily cases, reference scenarios, all time
   
   
-*  
+*
+  
+**uptake 20210610**: DELP 20210610, **_IHME 20210610_**, IMPE 20210604, LANL 20210606, SRIV 20210610  
+  
+.  
+  
+* 
   
 **uptake 20210605**: DELP 20210604, IHME 20210604, **_IMPE 20210604_**, LANL 20210602, SRIV 20210604
   
@@ -710,7 +836,13 @@ graph (5) Canada [Daily cases, reference scenarios, 2021](https://github.com/pou
 #### graph (5) Ontario - Daily cases, reference scenarios, 2021
   
 
-*  
+*
+  
+**uptake 20210610**: DELP 20210610, **_IHME 20210610_**, IMPE 20210604, LANL 20210606, SRIV 20210610  
+  
+.  
+  
+* 
   
 **uptake 20210605**: DELP 20210604, IHME 20210604, **_IMPE 20210604_**, LANL 20210602, SRIV 20210604
   
@@ -737,7 +869,13 @@ graph (5) Canada [Daily cases, reference scenarios, 2021](https://github.com/pou
   
   
   
-*  
+*
+  
+**uptake 20210610**: DELP 20210610, **_IHME 20210610_**, IMPE 20210604, LANL 20210606, SRIV 20210610  
+  
+.  
+  
+*   
   
 **uptake 20210605**: DELP 20210604, IHME 20210604, **_IMPE 20210604_**, LANL 20210602, SRIV 20210604
   
@@ -764,7 +902,13 @@ graph (5) Canada [Daily cases, reference scenarios, 2021](https://github.com/pou
   
   
   
-*  
+*
+  
+**uptake 20210610**: DELP 20210610, **_IHME 20210610_**, IMPE 20210604, LANL 20210606, SRIV 20210610  
+  
+.  
+  
+* 
   
 **uptake 20210605**: DELP 20210604, IHME 20210604, **_IMPE 20210604_**, LANL 20210602, SRIV 20210604
   
@@ -791,7 +935,13 @@ graph (5) Canada [Daily cases, reference scenarios, 2021](https://github.com/pou
   
   
   
-*  
+*
+  
+**uptake 20210610**: DELP 20210610, **_IHME 20210610_**, IMPE 20210604, LANL 20210606, SRIV 20210610  
+  
+.  
+  
+* 
   
 **uptake 20210605**: DELP 20210604, IHME 20210604, **_IMPE 20210604_**, LANL 20210602, SRIV 20210604
   
@@ -818,7 +968,13 @@ graph (5) Canada [Daily cases, reference scenarios, 2021](https://github.com/pou
   
   
   
-*  
+*
+  
+**uptake 20210610**: DELP 20210610, **_IHME 20210610_**, IMPE 20210604, LANL 20210606, SRIV 20210610  
+  
+.  
+  
+*   
   
 **uptake 20210605**: DELP 20210604, IHME 20210604, **_IMPE 20210604_**, LANL 20210602, SRIV 20210604
   
@@ -845,7 +1001,13 @@ graph (5) Canada [Daily cases, reference scenarios, 2021](https://github.com/pou
   
   
   
-*  
+*
+  
+**uptake 20210610**: DELP 20210610, **_IHME 20210610_**, IMPE 20210604, LANL 20210606, SRIV 20210610  
+  
+.  
+  
+*   
   
 **uptake 20210605**: DELP 20210604, IHME 20210604, **_IMPE 20210604_**, LANL 20210602, SRIV 20210604
   
@@ -879,7 +1041,13 @@ graph (5) Canada [Daily cases, reference scenarios, 2021](https://github.com/pou
   
   
   
-*  
+*
+  
+**uptake 20210610**: DELP 20210610, **_IHME 20210610_**, IMPE 20210604, LANL 20210606, SRIV 20210610  
+  
+.  
+  
+*   
   
 **uptake 20210605**: DELP 20210604, IHME 20210604, **_IMPE 20210604_**, LANL 20210602, SRIV 20210604
   
@@ -905,6 +1073,12 @@ graph (5) Canada [Daily cases, reference scenarios, 2021](https://github.com/pou
 #### graph (2) Quebec - Daily deaths, reference scenarios, 2011
   
   
+  
+*
+  
+**uptake 20210610**: DELP 20210610, **_IHME 20210610_**, IMPE 20210604, LANL 20210606, SRIV 20210610  
+  
+.  
   
 *   
   
@@ -933,7 +1107,13 @@ graph (5) Canada [Daily cases, reference scenarios, 2021](https://github.com/pou
   
   
   
-*  
+*
+  
+**uptake 20210610**: DELP 20210610, **_IHME 20210610_**, IMPE 20210604, LANL 20210606, SRIV 20210610  
+  
+.  
+  
+*   
    
 **uptake 20210605**: DELP 20210604, IHME 20210604, **_IMPE 20210604_**, LANL 20210602, SRIV 20210604
   
@@ -960,7 +1140,13 @@ Quebec [Daily deaths, 3 scenarios, 2011](https://github.com/pourmalek/CovidVisua
   
   
   
-*  
+*
+  
+**uptake 20210610**: DELP 20210610, **_IHME 20210610_**, IMPE 20210604, LANL 20210606, SRIV 20210610  
+  
+.  
+  
+*   
   
 **uptake 20210605**: DELP 20210604, IHME 20210604, **_IMPE 20210604_**, LANL 20210602, SRIV 20210604
   
@@ -985,6 +1171,12 @@ Quebec [Daily deaths, 3 scenarios, 2011](https://github.com/pourmalek/CovidVisua
   
 #### graph (5) Quebec - Daily cases, reference scenarios, 2021
   
+  
+*
+  
+**uptake 20210610**: DELP 20210610, **_IHME 20210610_**, IMPE 20210604, LANL 20210606, SRIV 20210610  
+  
+.  
   
 *  
   
@@ -1013,6 +1205,12 @@ Quebec [Daily deaths, 3 scenarios, 2011](https://github.com/pourmalek/CovidVisua
   
   
   
+*
+  
+**uptake 20210610**: DELP 20210610, **_IHME 20210610_**, IMPE 20210604, LANL 20210606, SRIV 20210610  
+  
+.  
+  
 *  
   
 **uptake 20210605**: DELP 20210604, IHME 20210604, **_IMPE 20210604_**, LANL 20210602, SRIV 20210604
@@ -1040,7 +1238,13 @@ Quebec [Daily deaths, 3 scenarios, 2011](https://github.com/pourmalek/CovidVisua
   
   
   
-*  
+*
+  
+**uptake 20210610**: DELP 20210610, **_IHME 20210610_**, IMPE 20210604, LANL 20210606, SRIV 20210610  
+  
+.  
+  
+*   
   
 **uptake 20210605**: DELP 20210604, IHME 20210604, **_IMPE 20210604_**, LANL 20210602, SRIV 20210604
   
@@ -1066,7 +1270,13 @@ Quebec [Daily deaths, 3 scenarios, 2011](https://github.com/pourmalek/CovidVisua
 #### graph (8) Quebec - Hospital-related outcomes, 2021, without IHME Bed need and IMPE Hospital demand
   
   
-*  
+*
+  
+**uptake 20210610**: DELP 20210610, **_IHME 20210610_**, IMPE 20210604, LANL 20210606, SRIV 20210610  
+  
+.  
+  
+*   
   
 **uptake 20210605**: DELP 20210604, IHME 20210604, **_IMPE 20210604_**, LANL 20210602, SRIV 20210604
   
@@ -1092,7 +1302,13 @@ Quebec [Daily deaths, 3 scenarios, 2011](https://github.com/pourmalek/CovidVisua
   
   
   
-*  
+*
+  
+**uptake 20210610**: DELP 20210610, **_IHME 20210610_**, IMPE 20210604, LANL 20210606, SRIV 20210610  
+  
+.  
+  
+* 
   
 **uptake 20210605**: DELP 20210604, IHME 20210604, **_IMPE 20210604_**, LANL 20210602, SRIV 20210604
   
@@ -1118,6 +1334,12 @@ Quebec [Daily deaths, 3 scenarios, 2011](https://github.com/pourmalek/CovidVisua
 #### graph (10) Quebec - Daily cases estimated to reported, reference scenarios, 2021 
   
   
+  
+*
+  
+**uptake 20210610**: DELP 20210610, **_IHME 20210610_**, IMPE 20210604, LANL 20210606, SRIV 20210610  
+  
+.  
   
 *  
   
