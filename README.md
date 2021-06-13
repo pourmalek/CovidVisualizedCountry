@@ -59,6 +59,11 @@ Scenarios: Reference scenarios, followed by alternative scenarios
 #### graph (1) Canada - Daily deaths, reference scenarios, all time
   
   
+*
+  
+**uptake 20210610**: DELP 20210610, **_IHME 20210610_**, IMPE 20210604, LANL 20210606, SRIV 20210610  
+  
+.  
   
 *  
   
