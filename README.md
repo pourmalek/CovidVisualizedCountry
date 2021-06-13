@@ -339,7 +339,7 @@ graph (5) Canada [Daily cases, reference scenarios, 2021](https://github.com/pou
 ****
 ****
   
-#### graph  
+#### graph (1) Ontario - Daily deaths, reference scenarios, all time
   
 *  
   
@@ -352,7 +352,7 @@ graph (5) Canada [Daily cases, reference scenarios, 2021](https://github.com/pou
 ****
 ****
   
-#### graph  
+#### graph (2) Ontario  - Daily deaths, reference scenarios, 2011
   
 *  
   
@@ -365,7 +365,7 @@ graph (5) Canada [Daily cases, reference scenarios, 2021](https://github.com/pou
 ****
 ****
   
-#### graph  
+#### graph (3) Ontario - Daily deaths, 3 scenarios, 2011 
   
 *  
   
@@ -378,7 +378,7 @@ graph (5) Canada [Daily cases, reference scenarios, 2021](https://github.com/pou
 ****
 ****
   
-#### graph  
+#### graph (4) Ontario - Daily cases, reference scenarios, all time
   
 *  
   
@@ -391,7 +391,7 @@ graph (5) Canada [Daily cases, reference scenarios, 2021](https://github.com/pou
 ****
 ****
   
-#### graph  
+#### graph (5) Ontario - Daily cases, reference scenarios, 2021
   
 *  
   
@@ -404,7 +404,7 @@ graph (5) Canada [Daily cases, reference scenarios, 2021](https://github.com/pou
 ****
 ****
   
-#### graph  
+#### graph (6) Ontario - Daily cases, 3 scenarios, 2011 
   
 *  
   
@@ -417,7 +417,7 @@ graph (5) Canada [Daily cases, reference scenarios, 2021](https://github.com/pou
 ****
 ****
   
-#### graph  
+#### graph (7) Ontario - Hospital-related outcomes, all time
   
 *  
   
@@ -430,7 +430,7 @@ graph (5) Canada [Daily cases, reference scenarios, 2021](https://github.com/pou
 ****
 ****
   
-#### graph  
+#### graph (8) Ontario - Hospital-related outcomes, 2021, without IHME Bed need and IMPE Hospital demand
   
 *  
   
@@ -443,7 +443,7 @@ graph (5) Canada [Daily cases, reference scenarios, 2021](https://github.com/pou
 ****
 ****
   
-#### graph  
+#### graph (9) Ontario - Daily deaths estimated to reported, reference scenarios, 2021
   
 *  
   
@@ -456,7 +456,7 @@ graph (5) Canada [Daily cases, reference scenarios, 2021](https://github.com/pou
 ****
 ****
   
-#### graph  
+#### graph (10) Ontario - Daily cases estimated to reported, reference scenarios, 2021
   
 *  
   
@@ -476,7 +476,7 @@ graph (5) Canada [Daily cases, reference scenarios, 2021](https://github.com/pou
 ****
 ****
     
-#### graph  
+#### graph (1) Quebec - Daily deaths, reference scenarios, all time
   
 *  
   
@@ -489,7 +489,7 @@ graph (5) Canada [Daily cases, reference scenarios, 2021](https://github.com/pou
 ****
 ****
   
-#### graph  
+#### graph (2) Quebec - Daily deaths, reference scenarios, 2011
   
 *  
   
@@ -502,7 +502,7 @@ graph (5) Canada [Daily cases, reference scenarios, 2021](https://github.com/pou
 ****
 ****
   
-#### graph  
+#### graph (3) Quebec - Daily deaths, 3 scenarios, 2011
   
 *  
   
@@ -515,7 +515,7 @@ graph (5) Canada [Daily cases, reference scenarios, 2021](https://github.com/pou
 ****
 ****
   
-#### graph  
+#### graph (4) Quebec - Daily cases, reference scenarios, all time
   
 *  
   
@@ -528,7 +528,7 @@ graph (5) Canada [Daily cases, reference scenarios, 2021](https://github.com/pou
 ****
 ****
   
-#### graph  
+#### graph (5) Quebec - Daily cases, reference scenarios, 2021
   
 *  
   
@@ -541,7 +541,7 @@ graph (5) Canada [Daily cases, reference scenarios, 2021](https://github.com/pou
 ****
 ****
   
-#### graph  
+#### graph (6) Quebec - Daily cases, 3 scenarios, 2011
   
 *  
   
@@ -554,7 +554,7 @@ graph (5) Canada [Daily cases, reference scenarios, 2021](https://github.com/pou
 ****
 ****
   
-#### graph  
+#### graph (7) Quebec - Hospital-related outcomes, all time
   
 *  
   
@@ -567,7 +567,7 @@ graph (5) Canada [Daily cases, reference scenarios, 2021](https://github.com/pou
 ****
 ****
   
-#### graph  
+#### graph (8) Quebec - Hospital-related outcomes, 2021, without IHME Bed need and IMPE Hospital demand
   
 *  
   
@@ -580,7 +580,7 @@ graph (5) Canada [Daily cases, reference scenarios, 2021](https://github.com/pou
 ****
 ****
   
-#### graph  
+#### graph (9) Quebec - Daily deaths estimated to reported, reference scenarios, 2021
   
 *  
   
@@ -593,7 +593,7 @@ graph (5) Canada [Daily cases, reference scenarios, 2021](https://github.com/pou
 ****
 ****
   
-#### graph  
+#### graph (10) Quebec - Daily cases estimated to reported, reference scenarios, 2021 
   
 *  
   
