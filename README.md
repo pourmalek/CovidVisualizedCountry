@@ -62,7 +62,7 @@ Scenarios: Reference scenarios, followed by alternative scenarios
   
 *  
   
-**uptake 20210605**: DELP 20210604, IHME 20210604, **_IMPE 20210604**_, LANL 20210602, SRIV 20210604
+**uptake 20210605**: DELP 20210604, IHME 20210604, **_IMPE 20210604_**, LANL 20210602, SRIV 20210604
   
 (1) Canada [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210605/output/merge/CAN%20SUB/CAN1%2011aDayDeaMERGnat%20alltime%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
