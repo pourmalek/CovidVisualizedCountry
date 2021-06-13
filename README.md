@@ -369,7 +369,7 @@ graph (5) Canada [Daily cases, reference scenarios, 2021](https://github.com/pou
 ****
 ****  
 
-#### graph (10) Canada [Daily cases estimated to reported, reference scenarios, 2021]
+#### graph (10) Canada - Daily cases estimated to reported, reference scenarios, 2021
   
   
 *
@@ -626,7 +626,7 @@ no IHME update added from previous uptake to this uptake; therefore the graphs a
   
 **uptake 20210605**: DELP 20210604, IHME 20210604, **_IMPE 20210604_**, LANL 20210602, SRIV 20210604
   
-no IHME update added from previous uptake to this uptake; therefore the graphs are identical
+no IHME update added from previous uptake to this uptake; therefore the graphs are basically similar
   
 *     
   
@@ -659,7 +659,7 @@ no IHME update added from previous uptake to this uptake; therefore the graphs a
   
 **uptake 20210605**: DELP 20210604, IHME 20210604, **_IMPE 20210604_**, LANL 20210602, SRIV 20210604
   
-no IHME update added from previous uptake to this uptake; therefore the graphs are identical
+no IHME update added from previous uptake to this uptake; therefore the graphs are basically similar
   
 *   
   
@@ -692,7 +692,7 @@ no IHME update added from previous uptake to this uptake; therefore the graphs a
   
 **uptake 20210605**: DELP 20210604, IHME 20210604, **_IMPE 20210604_**, LANL 20210602, SRIV 20210604
   
-no IHME update added from previous uptake to this uptake; therefore the graphs are identical
+no IHME update added from previous uptake to this uptake; therefore the graphs are basically similar
   
 *   
   
@@ -725,7 +725,7 @@ no IHME update added from previous uptake to this uptake; therefore the graphs a
   
 **uptake 20210605**: DELP 20210604, IHME 20210604, **_IMPE 20210604_**, LANL 20210602, SRIV 20210604
   
-no IHME update added from previous uptake to this uptake; therefore the graphs are identical
+no IHME update added from previous uptake to this uptake; therefore the graphs are basically similar
   
 *    
   
@@ -959,7 +959,7 @@ no IHME update added from previous uptake to this uptake; therefore the graphs a
   
 **uptake 20210605**: DELP 20210604, IHME 20210604, **_IMPE 20210604_**, LANL 20210602, SRIV 20210604
   
-no IHME update added from previous uptake to this uptake; therefore the graphs are identical
+no IHME update added from previous uptake to this uptake; therefore the graphs are basically similar
   
 *  
   
@@ -992,7 +992,7 @@ no IHME update added from previous uptake to this uptake; therefore the graphs a
   
 **uptake 20210605**: DELP 20210604, IHME 20210604, **_IMPE 20210604_**, LANL 20210602, SRIV 20210604
   
-no IHME update added from previous uptake to this uptake; therefore the graphs are identical
+no IHME update added from previous uptake to this uptake; therefore the graphs are basically similar
   
 * 
   
@@ -1025,7 +1025,7 @@ no IHME update added from previous uptake to this uptake; therefore the graphs a
   
 **uptake 20210605**: DELP 20210604, IHME 20210604, **_IMPE 20210604_**, LANL 20210602, SRIV 20210604
   
-no IHME update added from previous uptake to this uptake; therefore the graphs are identical
+no IHME update added from previous uptake to this uptake; therefore the graphs are basically similar
   
 *    
   
@@ -1058,7 +1058,7 @@ no IHME update added from previous uptake to this uptake; therefore the graphs a
   
 **uptake 20210605**: DELP 20210604, IHME 20210604, **_IMPE 20210604_**, LANL 20210602, SRIV 20210604
   
-no IHME update added from previous uptake to this uptake; therefore the graphs are identical
+no IHME update added from previous uptake to this uptake; therefore the graphs are basically similar
   
 * 
   
@@ -1295,7 +1295,7 @@ no IHME update added from previous uptake to this uptake; therefore the graphs a
   
 **uptake 20210605**: DELP 20210604, IHME 20210604, **_IMPE 20210604_**, LANL 20210602, SRIV 20210604
   
-no IHME update added from previous uptake to this uptake; therefore the graphs are identical
+no IHME update added from previous uptake to this uptake; therefore the graphs are basically similar
   
 *      
   
@@ -1327,7 +1327,7 @@ no IHME update added from previous uptake to this uptake; therefore the graphs a
   
 **uptake 20210605**: DELP 20210604, IHME 20210604, **_IMPE 20210604_**, LANL 20210602, SRIV 20210604
   
-no IHME update added from previous uptake to this uptake; therefore the graphs are identical
+no IHME update added from previous uptake to this uptake; therefore the graphs are basically similar
   
 *      
   
@@ -1359,7 +1359,7 @@ no IHME update added from previous uptake to this uptake; therefore the graphs a
   
 **uptake 20210605**: DELP 20210604, IHME 20210604, **_IMPE 20210604_**, LANL 20210602, SRIV 20210604
   
-no IHME update added from previous uptake to this uptake; therefore the graphs are identical
+no IHME update added from previous uptake to this uptake; therefore the graphs are basically similar
   
 *     
   
@@ -1392,7 +1392,7 @@ no IHME update added from previous uptake to this uptake; therefore the graphs a
   
 **uptake 20210605**: DELP 20210604, IHME 20210604, **_IMPE 20210604_**, LANL 20210602, SRIV 20210604
   
-no IHME update added from previous uptake to this uptake; therefore the graphs are identical
+no IHME update added from previous uptake to this uptake; therefore the graphs are basically similar
   
 *    
   
