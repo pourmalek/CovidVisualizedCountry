@@ -175,18 +175,21 @@ DELP 20210604, **_IHME 20210604_**, IMPE 20210527, LANL 20210602, SRIV 20210604
 
 ****
 
-(5) Ontario [Daily cases, reference scenarios, 2021]()
+(5) Ontario [Daily cases, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/CAN%20SUB/SUB5%2032bDayCasMERGsub%202021%20Ontario%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202021.pdf)
 
-
-****
-
-(6) Ontario [Daily cases, 3 scenarios, 2011]()
-
+![image](https://user-images.githubusercontent.com/30849720/121795477-39e1e200-cbc6-11eb-9a05-853b0a3c6130.png)
 
 ****
 
-(7) Ontario [Hospital-related outcomes, all time]()
+(6) Ontario [Daily cases, 3 scenarios, 2011](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/CAN%20SUB/SUB6%2034bDayCasMERGsub%202021%203scen%20Ontario%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Ontario%2C%203%20scenarios%2C%202021%2C%20uncertainty.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/121795502-60078200-cbc6-11eb-8812-c5ef3af92d19.png)
+
+****
+
+(7) Ontario [Hospital-related outcomes, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/CAN%20SUB/SUB7%2071bDayHosMERGsub%20alltime%20Ontario%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20Ontario.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/121795524-81686e00-cbc6-11eb-924f-f0dd6be5e8c8.png)
 
 ****
 
