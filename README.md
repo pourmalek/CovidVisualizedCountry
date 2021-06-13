@@ -23,6 +23,22 @@
 ****
 
 ## Selected graphs
+  
+<br/><br/>  
+  
+### Order of graphs
+
+Location level: National, followed by 3 select provinces  
+
+Uptake date: Most recent uptake, followed by less recent uptakes
+
+Outcomes: Daily deaths, Daily cases, Hospital-related outcomes, Daily deaths estimated to reported, Daily cases estimated to reported
+
+Calendar time of estimates coverage: All-time, followed by 2021 
+
+Scenarios: Reference scenarios, followed by alternative scenarios
+  
+<br/><br/>
 
 ### Selected graphs - [Canada](https://github.com/pourmalek/CovidVisualizedCountry#selected-graphs---canada-1)
 
