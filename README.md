@@ -3,7 +3,7 @@
 ### Combine and visualize international periodically updating estimates of COVID-19 
 
 <p align="center">
-  <b> ### at the country level </b><br>
+### at the country level
 </p>
   
 ### at the country level
