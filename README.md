@@ -34,13 +34,19 @@
 
 2. Uptake date: Most recent uptake, followed by less recent uptakes
   
-    i. To examine changes in predictions across calendar time
+    . To examine changes in predictions across calendar time
 
 3. Outcomes: Daily deaths, Daily cases, Hospital-related outcomes, Daily deaths estimated to reported, Daily cases estimated to reported
+  
+    . To examine different outcomes with different public health consequences and model performance implications
 
 4. Calendar time of estimates coverage: All-time, followed by 2021 
+  
+    . To view the whole epidemic trajectory, and further focus on near future
 
 5. Scenarios: Reference scenarios, followed by alternative scenarios
+  
+    . To examine the main (aka. status quo) scenario, and alternative (better and worse) scenarios  
   
   
 <br/><br/>
