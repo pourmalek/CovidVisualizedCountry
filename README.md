@@ -2,9 +2,11 @@
 
 ### Combine and visualize international periodically updating estimates of COVID-19 
 
-<p align="center">
+<l align="center">
+  
 ### at the country level
-</p>
+  
+</l>
 
 ### Canada: national level, provinces and territories
 
