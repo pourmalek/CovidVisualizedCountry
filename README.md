@@ -30,7 +30,7 @@
 
 1. Location level: National, followed by 3 select provinces (two most affected, and BC) 
   
-    i. To further examine if province-level increases are predicted
+    . To further examine if province-level increases are predicted
 
 2. Uptake date: Most recent uptake, followed by less recent uptakes
   
