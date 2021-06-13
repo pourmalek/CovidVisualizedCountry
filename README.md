@@ -28,7 +28,7 @@
   
 ### Order of graphs
 
-Location level: National, followed by 3 select provinces  
+Location level: National, followed by 3 select provinces (two most affected, and BC)
 
 Uptake date: Most recent uptake, followed by less recent uptakes
 
