@@ -40,7 +40,7 @@
   
     . To examine different outcomes with different public health consequences and model performance implications
   
-    . Graphs for other outcomes located in https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210610/graphs%20merge%2020210610.pdf and similar files, and in https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20210610/output/merge, where 2021610 denotes the uptake date. They include all the provinces and territories available in JOHN, DELP, and IHME. 
+    . Graphs for other outcomes located in https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20210610/output/merge, and in https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210610/graphs%20merge%2020210610.pdf (and similar files), where 2021610 denotes the uptake date. Graphs include all the provinces and territories available in JOHN, DELP, and IHME. 
   
 4.	Calendar time of estimates coverage: All-time, followed by 2021
   
