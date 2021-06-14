@@ -40,8 +40,6 @@
   
     . To examine different outcomes with different public health consequences and model performance implications
   
-    . Graphs for other outcomes and other locations are stored in https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20210610/output/merge, and in https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210610/graphs%20merge%2020210610.pdf (and similar files), where 2021610 denotes the uptake date. Graphs include all the provinces and territories available in JOHN, DELP, and IHME. 
-  
 4.	Calendar time of estimates coverage: All-time, followed by 2021
   
     . To view the whole epidemic trajectory, and further focus on near future
@@ -53,6 +51,8 @@
 6.	Models: Different models within each graph (for which model estimates update release dates are maximally synchronized), plus official reports of the country to WHO (curated by Johns Hopkins university) as under-reported benchmark for trends 
   
     . To examine how heterogeneity in methods used by different models results in heterogenous results for the same outcome (same time-place-person aggregated units)
+  
+7. Graphs for other locations (e.g. Alberta) and other outcomes (e.g., Total deaths) are stored in https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20210610/output/merge, and in https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210610/graphs%20merge%2020210610.pdf (and similar files, e.g., with /20210604/), where /2021610/ denotes the uptake date. Graphs include all the provinces and territories available in JOHN, DELP, and IHME.   
 
   
   
