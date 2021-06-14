@@ -52,7 +52,7 @@
   
     . To examine how heterogeneity in methods used by different models results in heterogenous results for the same outcome (same time-place-person aggregated units)
   
-7. Graphs for other locations (e.g. Alberta) and other outcomes (e.g., Total deaths) are stored in https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20210610/output/merge, and in https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210610/graphs%20merge%2020210610.pdf (and similar files, e.g., with /20210604/), where /2021610/ denotes the uptake date. Graphs include all the provinces and territories available in JOHN, DELP, and IHME.   
+7. Graphs for other locations (e.g. Alberta) and other outcomes (e.g., Total deaths) are stored in https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20210610/output/merge, and in https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210610/graphs%20merge%2020210610.pdf (and similar files, e.g., with /[20210604](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/graphs%20merge%2020210604.pdf)/), where /2021610/ denotes the uptake date. Graphs include all the provinces and territories available in JOHN, DELP, and IHME.   
 
   
   
