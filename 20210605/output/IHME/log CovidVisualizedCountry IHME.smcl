@@ -1,0 +1,2415 @@
+{smcl}
+{com}{sf}{ul off}{txt}{.-}
+      name:  {res}<unnamed>
+       {txt}log:  {res}/Users/farshadpourmalek/Downloads/CovidVisualizedCountry-main/20210605/code/IHME/log CovidVisualizedCountry IHME.smcl
+  {txt}log type:  {res}smcl
+ {txt}opened on:  {res}19 Jun 2021, 10:58:41
+{txt}
+{com}. 
+. ***************************************************************************
+. * This is "do CovidVisualizedCountry IHME.do"
+. 
+. * Project: Combine and visualize international periodically updating 
+. * estimates of COVID-19 at the country level (CovidVisualizedCountry)
+. * Person: Farshad Pourmalek pourmalek_farshad@yahoo.com
+. * Time (initial): 2021-04-14
+. ***************************************************************************
+. 
+. 
+. clear 
+{txt}
+{com}.  
+. *****************************
+. 
+. * get IHME estimates
+. 
+. copy https://ihmecovid19storage.blob.core.windows.net/archive/2021-06-04/ihme-covid19.zip ihme-covid19.zip
+{txt}
+{com}. unzipfile ihme-covid19.zip, replace
+{res}{txt}    inflating: best_masks_hospitalization_all_locs.csv
+    inflating: IHME_COVID_19_Data_Release_Information_Sheet.pdf
+    inflating: reference_hospitalization_all_locs.csv
+    inflating: Summary_stats_all_locs.csv
+    inflating: worse_hospitalization_all_locs.csv
+successfully unzipped ihme-covid19.zip to current directory
+
+{com}. erase ihme-covid19.zip
+{txt}
+{com}. 
+. 
+. 
+. ******************************
+. 
+. * import csv files
+. 
+. import delimited using reference_hospitalization_all_locs.csv, clear varnames(1)
+{res}{text}(84 vars, 218,158 obs)
+
+{com}. save Reference_hospitalization_all_locs.dta, replace
+{txt}file Reference_hospitalization_all_locs.dta saved
+
+{com}.         
+. import delimited using best_masks_hospitalization_all_locs.csv, clear varnames(1)
+{res}{text}(71 vars, 218,158 obs)
+
+{com}. save Best_masks_hospitalization_all_locs.dta, replace
+{txt}file Best_masks_hospitalization_all_locs.dta saved
+
+{com}.         
+. import delimited using worse_hospitalization_all_locs.csv, clear varnames(1)
+{res}{text}(71 vars, 218,158 obs)
+
+{com}. save Worse_hospitalization_all_locs.dta, replace
+{txt}file Worse_hospitalization_all_locs.dta saved
+
+{com}. 
+. 
+. ******************************
+. 
+. * read scenario files
+. 
+. 
+. /*
+> Scenarios:
+> 
+> S1 Reference [Current projection]
+> S2 Best [Universal masks]
+> S3 Worse [Mandates easing]
+> */
+. 
+. 
+. **********************
+. 
+. * S1 Reference
+. 
+. use "Reference_hospitalization_all_locs.dta", clear
+{txt}
+{com}. 
+. keep if location_name == "$country" | ///
+>         location_name == "Alberta" | /// provincestate names for "$country"
+>         location_name == "British Columbia" | ///
+>         location_name == "Manitoba" | ///
+>         location_name == "Nova Scotia" | ///
+>         location_name == "Ontario" | ///
+>         location_name == "Quebec" | ///
+>         location_name == "Saskatchewan" 
+{txt}(213,612 observations deleted)
+
+{com}. 
+. * rename variables
+. 
+. * Total Deaths not smoothed
+. rename totdea_mean  TotDeaMeRaA02S01
+{res}{txt}
+{com}. rename totdea_lower TotDeaLoRaA02S01
+{res}{txt}
+{com}. rename totdea_upper TotDeaUpRaA02S01
+{res}{txt}
+{com}. label var TotDeaMeRaA02S01 "Total Deaths Mean not smoothed IHME S1"
+{txt}
+{com}. label var TotDeaLoRaA02S01 "Total Deaths Lower not smoothed IHME S1"
+{txt}
+{com}. label var TotDeaUpRaA02S01 "Total Deaths Upper not smoothed IHME S1"
+{txt}
+{com}. 
+. * Daily Deaths not smoothed
+. rename deaths_mean  DayDeaMeRaA02S01
+{res}{txt}
+{com}. rename deaths_lower DayDeaLoRaA02S01
+{res}{txt}
+{com}. rename deaths_upper DayDeaUpRaA02S01
+{res}{txt}
+{com}. label var DayDeaMeRaA02S01 "Daily Deaths Mean not smoothed IHME S1"
+{txt}
+{com}. label var DayDeaLoRaA02S01 "Daily Deaths Lower not smoothed IHME S1"
+{txt}
+{com}. label var DayDeaUpRaA02S01 "Daily Deaths Upper not smoothed IHME S1"
+{txt}
+{com}.         
+. * Total Cases not smoothed
+. rename inf_cuml_mean  TotCasMeRaA02S01
+{res}{txt}
+{com}. rename inf_cuml_lower TotCasLoRaA02S01
+{res}{txt}
+{com}. rename inf_cuml_upper TotCasUpRaA02S01
+{res}{txt}
+{com}. label var TotCasMeRaA02S01 "Total Cases Mean not smoothed IHME S1"
+{txt}
+{com}. label var TotCasLoRaA02S01 "Total Cases Lower not smoothed IHME S1"
+{txt}
+{com}. label var TotCasUpRaA02S01 "Total Cases Upper not smoothed IHME S1"
+{txt}
+{com}. 
+. * Daily Cases not smoothed
+. rename est_infections_mean  DayCasMeRaA02S01
+{res}{txt}
+{com}. rename est_infections_lower DayCasLoRaA02S01
+{res}{txt}
+{com}. rename est_infections_upper DayCasUpRaA02S01
+{res}{txt}
+{com}. label var DayCasMeRaA02S01 "Daily Cases Mean not smoothed IHME S1"
+{txt}
+{com}. label var DayCasLoRaA02S01 "Daily Cases Lower not smoothed IHME S1"
+{txt}
+{com}. label var DayCasUpRaA02S01 "Daily Cases Upper not smoothed IHME S1"
+{txt}
+{com}. 
+. * Total Deaths smoothed
+. rename totdea_mean_smoothed   TotDeaMeSmA02S01
+{res}{txt}
+{com}. rename totdea_lower_smoothed  TotDeaLoSmA02S01
+{res}{txt}
+{com}. rename totdea_upper_smoothed  TotDeaUpSmA02S01
+{res}{txt}
+{com}. label var TotDeaMeSmA02S01 "Total Deaths Mean smoothed IHME S1"
+{txt}
+{com}. label var TotDeaLoSmA02S01 "Total Deaths Lower smoothed IHME S1"
+{txt}
+{com}. label var TotDeaUpSmA02S01 "Total Deaths Upper smoothed IHME S1"
+{txt}
+{com}. 
+. * Daily Deaths smoothed
+. rename deaths_mean_smoothed  DayDeaMeSmA02S01           
+{res}{txt}
+{com}. rename deaths_lower_smoothed DayDeaLoSmA02S01           
+{res}{txt}
+{com}. rename deaths_upper_smoothed DayDeaUpSmA02S01  
+{res}{txt}
+{com}. label var DayDeaMeSmA02S01 "Daily Deaths Mean smoothed IHME S1"
+{txt}
+{com}. label var DayDeaLoSmA02S01 "Daily Deaths Lower smoothed IHME S1"
+{txt}
+{com}. label var DayDeaUpSmA02S01 "Daily Deaths Upper smoothed IHME S1"
+{txt}
+{com}. 
+. 
+. 
+. 
+. * other outcomes 
+. 
+. /*
+> allbed_mean             Mean covid beds needed by day
+> allbed_lower    Lower uncertainty bound of covid beds needed by day
+> allbed_upper    Upper uncertainty bound of covid beds needed by day
+> icubed_mean             Mean ICU covid beds needed by day
+> icubed_lower    Lower uncertainty bound of ICU covid beds needed by day
+> icubed_upper    Upper uncertainty bound of ICU covid beds needed by day
+> invven_mean             Mean invasive ventilation needed by day
+> invven_lower    Lower uncertainty bound of invasive ventilation needed by day
+> invven_upper    Upper uncertainty bound of invasive ventilation needed by day
+> admis_mean              Mean hospital admissions by day
+> admis_lower             Lower uncertainty bound of hospital admissions by day
+> admis_upper             Upper uncertainty bound of hospital admissions by day
+> newicu_mean             Mean number of new people going to the ICU by day
+> newicu_lower    Lower uncertainty bound of the number of new people going to the ICU by day
+> newicu_upper    Upper uncertainty bound of the number of new people going to the ICU by day
+> bedover_mean    [covid all beds needed] - ([total bed capacity] - [average all bed usage]) (* has been retired by IHME)
+> bedover_lower   Lower uncertainty bound of bedover (above)
+> bedover_upper   Upper uncertainty bound of bedover (above)
+> icuover_mean    [covid ICU beds needed] - ([total ICU capacity] - [average ICU bed usage]) (* has been retired by IHME)
+> icuover_lower   Lower uncertainty bound of icuover (above)
+> icuover_upper   Upper uncertainty bound of icuover (above)
+> 
+> total_tests             Total tests
+> 
+> seroprev_mean
+> seroprev_lower
+> seroprev_upper  
+> 
+> 
+> ***********************
+> * rename convention
+> 
+> allbed          Bed     covid beds needed by day
+> icubed          Icu     ICU covid beds needed by day
+> invven          Ven     invasive ventilation needed by day
+> admis           Adm     hospital admissions by day
+> newicu          Icn             number of new people going to the ICU by day
+> bedover         Beo             [covid all beds needed] - ([total bed capacity] - [average all bed usage]) (* has been retired by IHME)
+> icuover         Ico             [covid ICU beds needed] - ([total ICU capacity] - [average ICU bed usage]) (* has been retired by IHME)
+> 
+> total_tests             Tes     tests
+> 
+> seroprev_mean   Ser seroprevalence 
+> 
+> */
+. 
+. 
+. rename allbed_mean              DayBedMeSmA02S01
+{res}{txt}
+{com}. rename allbed_lower             DayBedLoSmA02S01
+{res}{txt}
+{com}. rename allbed_upper             DayBedUpSmA02S01
+{res}{txt}
+{com}. 
+. label var DayBedMeSmA02S01 "Daily Beds needed Mean IHME S1"
+{txt}
+{com}. label var DayBedLoSmA02S01 "Daily Beds needed Lower IHME S1"
+{txt}
+{com}. label var DayBedUpSmA02S01 "Daily Beds needed Upper IHME S1"
+{txt}
+{com}. 
+. 
+. 
+. rename icubed_mean              DayIcuMeSmA02S01
+{res}{txt}
+{com}. rename icubed_lower             DayIcuLoSmA02S01
+{res}{txt}
+{com}. rename icubed_upper             DayIcuUpSmA02S01
+{res}{txt}
+{com}. 
+. label var DayIcuMeSmA02S01 "Daily ICU beds needed Mean IHME S1"
+{txt}
+{com}. label var DayIcuLoSmA02S01 "Daily ICU beds needed Lower IHME S1"
+{txt}
+{com}. label var DayIcuUpSmA02S01 "Daily ICU beds needed Upper IHME S1"
+{txt}
+{com}. 
+. 
+. /*
+> rename invven_mean              DayVenMeSmA02S01
+> rename invven_lower             DayVenLoSmA02S01
+> rename invven_upper             DayVenUpSmA02S01
+> 
+> label var DayVenMeSmA02S01 "Daily invasive Ventilation needed Mean IHME S1"
+> label var DayVenLoSmA02S01 "Daily invasive Ventilation needed Lower IHME S1"
+> label var DayVenUpSmA02S01 "Daily invasive Ventilation needed Upper IHME S1"
+> */
+. 
+. 
+. rename admis_mean               DayAdmMeSmA02S01
+{res}{txt}
+{com}. rename admis_lower              DayAdmLoSmA02S01
+{res}{txt}
+{com}. rename admis_upper              DayAdmUpSmA02S01
+{res}{txt}
+{com}. 
+. label var DayAdmMeSmA02S01 "Daily hospital admissions Mean IHME S1"
+{txt}
+{com}. label var DayAdmLoSmA02S01 "Daily hospital admissions Lower IHME S1"
+{txt}
+{com}. label var DayAdmUpSmA02S01 "Daily hospital admissions Upper IHME S1"
+{txt}
+{com}. 
+. 
+. 
+. rename newicu_mean              DayIcnMeSmA02S01
+{res}{txt}
+{com}. rename newicu_lower             DayIcnLoSmA02S01
+{res}{txt}
+{com}. rename newicu_upper             DayIcnUpSmA02S01
+{res}{txt}
+{com}. 
+. label var DayIcnMeSmA02S01 "Daily new people going to ICU Mean IHME S1"
+{txt}
+{com}. label var DayIcnLoSmA02S01 "Daily new people going to ICU Lower IHME S1"
+{txt}
+{com}. label var DayIcnUpSmA02S01 "Daily new people going to ICU Upper IHME S1"
+{txt}
+{com}. 
+. 
+. 
+. rename total_tests TotTesMeSmA02S01
+{res}{txt}
+{com}. 
+. label var TotTesMeSmA02S01 "Total Tests Mean IHME S1"
+{txt}
+{com}. 
+. 
+. /* using IHME's seroprev_mean in these codes is retired, 
+> after a number of on-and-offs of existence of this variable in released estimates files. 
+> 
+> rename seroprev_mean            TotSerMeSmA02S01
+> rename seroprev_upper           TotSerLoSmA02S01
+> rename seroprev_lower           TotSerUpSmA02S01
+> 
+> label var TotSerMeSmA02S01 "Total seroprevalence Mean IHME S1"
+> label var TotSerLoSmA02S01 "Total seroprevalence Lower IHME S1"
+> label var TotSerUpSmA02S01 "Total seroprevalence Upper IHME S1"
+> */
+. 
+. save "Reference Canada.dta", replace
+{txt}file Reference Canada.dta saved
+
+{com}. 
+. 
+. 
+. 
+. 
+. 
+. 
+. **********************
+. 
+. * S2 Best
+. 
+. use "Best_masks_hospitalization_all_locs.dta", clear
+{txt}
+{com}. 
+. keep if location_name == "Canada" | ///
+>         location_name == "Alberta" | ///
+>         location_name == "British Columbia" | ///
+>         location_name == "Manitoba" | ///
+>         location_name == "Nova Scotia" | ///
+>         location_name == "Ontario" | ///
+>         location_name == "Quebec" | ///
+>         location_name == "Saskatchewan" 
+{txt}(213,612 observations deleted)
+
+{com}. 
+. * rename variables
+. 
+. 
+. * Total Deaths not smoothed
+. rename totdea_mean  TotDeaMeRaA02S02
+{res}{txt}
+{com}. rename totdea_lower TotDeaLoRaA02S02
+{res}{txt}
+{com}. rename totdea_upper TotDeaUpRaA02S02
+{res}{txt}
+{com}. label var TotDeaMeRaA02S02 "Total Deaths Mean not smoothed IHME S2"
+{txt}
+{com}. label var TotDeaLoRaA02S02 "Total Deaths Lower not smoothed IHME S2"
+{txt}
+{com}. label var TotDeaUpRaA02S02 "Total Deaths Upper not smoothed IHME S2"
+{txt}
+{com}. 
+. * Daily Deaths not smoothed
+. rename deaths_mean  DayDeaMeRaA02S02
+{res}{txt}
+{com}. rename deaths_lower DayDeaLoRaA02S02
+{res}{txt}
+{com}. rename deaths_upper DayDeaUpRaA02S02
+{res}{txt}
+{com}. label var DayDeaMeRaA02S02 "Daily Deaths Mean not smoothed IHME S2"
+{txt}
+{com}. label var DayDeaLoRaA02S02 "Daily Deaths Lower not smoothed IHME S2"
+{txt}
+{com}. label var DayDeaUpRaA02S02 "Daily Deaths Upper not smoothed IHME S2"
+{txt}
+{com}.         
+. * Total Cases not smoothed
+. rename inf_cuml_mean  TotCasMeRaA02S02
+{res}{txt}
+{com}. rename inf_cuml_lower TotCasLoRaA02S02
+{res}{txt}
+{com}. rename inf_cuml_upper TotCasUpRaA02S02
+{res}{txt}
+{com}. label var TotCasMeRaA02S02 "Total Cases Mean not smoothed IHME S2"
+{txt}
+{com}. label var TotCasLoRaA02S02 "Total Cases Lower not smoothed IHME S2"
+{txt}
+{com}. label var TotCasUpRaA02S02 "Total Cases Upper not smoothed IHME S2"
+{txt}
+{com}. 
+. * Daily Cases not smoothed
+. rename est_infections_mean  DayCasMeRaA02S02
+{res}{txt}
+{com}. rename est_infections_lower DayCasLoRaA02S02
+{res}{txt}
+{com}. rename est_infections_upper DayCasUpRaA02S02
+{res}{txt}
+{com}. label var DayCasMeRaA02S02 "Daily Cases Mean not smoothed IHME S2"
+{txt}
+{com}. label var DayCasLoRaA02S02 "Daily Cases Lower not smoothed IHME S2"
+{txt}
+{com}. label var DayCasUpRaA02S02 "Daily Cases Upper not smoothed IHME S2"
+{txt}
+{com}. 
+. * Total Deaths smoothed
+. rename totdea_mean_smoothed   TotDeaMeSmA02S02
+{res}{txt}
+{com}. rename totdea_lower_smoothed  TotDeaLoSmA02S02
+{res}{txt}
+{com}. rename totdea_upper_smoothed  TotDeaUpSmA02S02
+{res}{txt}
+{com}. label var TotDeaMeSmA02S02 "Total Deaths Mean smoothed IHME S2"
+{txt}
+{com}. label var TotDeaLoSmA02S02 "Total Deaths Lower smoothed IHME S2"
+{txt}
+{com}. label var TotDeaUpSmA02S02 "Total Deaths Upper smoothed IHME S2"
+{txt}
+{com}. 
+. * Daily Deaths smoothed
+. rename deaths_mean_smoothed  DayDeaMeSmA02S02           
+{res}{txt}
+{com}. rename deaths_lower_smoothed DayDeaLoSmA02S02           
+{res}{txt}
+{com}. rename deaths_upper_smoothed DayDeaUpSmA02S02  
+{res}{txt}
+{com}. label var DayDeaMeSmA02S02 "Daily Deaths Mean smoothed IHME S2"
+{txt}
+{com}. label var DayDeaLoSmA02S02 "Daily Deaths Lower smoothed IHME S2"
+{txt}
+{com}. label var DayDeaUpSmA02S02 "Daily Deaths Upper smoothed IHME S2"
+{txt}
+{com}. 
+. 
+. 
+. 
+. * other outcomes
+. 
+. 
+. rename total_tests TotTesMeSmA02S02
+{res}{txt}
+{com}. 
+. label var TotTesMeSmA02S02 "Total Tests Mean IHME S2"
+{txt}
+{com}. 
+. 
+. /* using IHME's seroprev_mean in these codes is retired, 
+> after a number of on-and-offs of existence of this variable in released estimates files. 
+> 
+> rename seroprev_mean            TotSerMeSmA02S02
+> rename seroprev_upper           TotSerLoSmA02S02
+> rename seroprev_lower           TotSerUpSmA02S02
+> 
+> label var TotSerMeSmA02S02 "Total seroprevalence Mean IHME S2"
+> label var TotSerLoSmA02S02 "Total seroprevalence Lower IHME S2"
+> label var TotSerUpSmA02S02 "Total seroprevalence Upper IHME S2"
+> */
+. 
+. save "Best Canada.dta", replace
+{txt}file Best Canada.dta saved
+
+{com}. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. **********************
+. 
+. * S3 Worse
+. 
+. use "Worse_hospitalization_all_locs.dta", clear
+{txt}
+{com}. 
+. keep if location_name == "Canada" | ///
+>         location_name == "Alberta" | ///
+>         location_name == "British Columbia" | ///
+>         location_name == "Manitoba" | ///
+>         location_name == "Nova Scotia" | ///
+>         location_name == "Ontario" | ///
+>         location_name == "Quebec" | ///
+>         location_name == "Saskatchewan" 
+{txt}(213,612 observations deleted)
+
+{com}. 
+. * Total Deaths not smoothed
+. rename totdea_mean  TotDeaMeRaA02S03
+{res}{txt}
+{com}. rename totdea_lower TotDeaLoRaA02S03
+{res}{txt}
+{com}. rename totdea_upper TotDeaUpRaA02S03
+{res}{txt}
+{com}. label var TotDeaMeRaA02S03 "Total Deaths Mean not smoothed IHME S3"
+{txt}
+{com}. label var TotDeaLoRaA02S03 "Total Deaths Lower not smoothed IHME S3"
+{txt}
+{com}. label var TotDeaUpRaA02S03 "Total Deaths Upper not smoothed IHME S3"
+{txt}
+{com}. 
+. * Daily Deaths not smoothed
+. rename deaths_mean  DayDeaMeRaA02S03
+{res}{txt}
+{com}. rename deaths_lower DayDeaLoRaA02S03
+{res}{txt}
+{com}. rename deaths_upper DayDeaUpRaA02S03
+{res}{txt}
+{com}. label var DayDeaMeRaA02S03 "Daily Deaths Mean not smoothed IHME S3"
+{txt}
+{com}. label var DayDeaLoRaA02S03 "Daily Deaths Lower not smoothed IHME S3"
+{txt}
+{com}. label var DayDeaUpRaA02S03 "Daily Deaths Upper not smoothed IHME S3"
+{txt}
+{com}.         
+. * Total Cases not smoothed
+. rename inf_cuml_mean  TotCasMeRaA02S03
+{res}{txt}
+{com}. rename inf_cuml_lower TotCasLoRaA02S03
+{res}{txt}
+{com}. rename inf_cuml_upper TotCasUpRaA02S03
+{res}{txt}
+{com}. label var TotCasMeRaA02S03 "Total Cases Mean not smoothed IHME S3"
+{txt}
+{com}. label var TotCasLoRaA02S03 "Total Cases Lower not smoothed IHME S3"
+{txt}
+{com}. label var TotCasUpRaA02S03 "Total Cases Upper not smoothed IHME S3"
+{txt}
+{com}. 
+. * Daily Cases not smoothed
+. rename est_infections_mean  DayCasMeRaA02S03
+{res}{txt}
+{com}. rename est_infections_lower DayCasLoRaA02S03
+{res}{txt}
+{com}. rename est_infections_upper DayCasUpRaA02S03
+{res}{txt}
+{com}. label var DayCasMeRaA02S03 "Daily Cases Mean not smoothed IHME S3"
+{txt}
+{com}. label var DayCasLoRaA02S03 "Daily Cases Lower not smoothed IHME S3"
+{txt}
+{com}. label var DayCasUpRaA02S03 "Daily Cases Upper not smoothed IHME S3"
+{txt}
+{com}. 
+. * Total Deaths smoothed
+. rename totdea_mean_smoothed   TotDeaMeSmA02S03
+{res}{txt}
+{com}. rename totdea_lower_smoothed  TotDeaLoSmA02S03
+{res}{txt}
+{com}. rename totdea_upper_smoothed  TotDeaUpSmA02S03
+{res}{txt}
+{com}. label var TotDeaMeSmA02S03 "Total Deaths Mean smoothed IHME S3"
+{txt}
+{com}. label var TotDeaLoSmA02S03 "Total Deaths Lower smoothed IHME S3"
+{txt}
+{com}. label var TotDeaUpSmA02S03 "Total Deaths Upper smoothed IHME S3"
+{txt}
+{com}. 
+. * Daily Deaths smoothed
+. rename deaths_mean_smoothed  DayDeaMeSmA02S03           
+{res}{txt}
+{com}. rename deaths_lower_smoothed DayDeaLoSmA02S03           
+{res}{txt}
+{com}. rename deaths_upper_smoothed DayDeaUpSmA02S03  
+{res}{txt}
+{com}. label var DayDeaMeSmA02S03 "Daily Deaths Mean smoothed IHME S3"
+{txt}
+{com}. label var DayDeaLoSmA02S03 "Daily Deaths Lower smoothed IHME S3"
+{txt}
+{com}. label var DayDeaUpSmA02S03 "Daily Deaths Upper smoothed IHME S3"
+{txt}
+{com}. 
+. 
+. * other outcomes
+. 
+. rename total_tests TotTesMeSmA02S03
+{res}{txt}
+{com}. 
+. label var TotTesMeSmA02S03 "Total Tests Mean IHME S3"
+{txt}
+{com}. 
+. 
+. /* using IHME's seroprev_mean in these codes is retired, 
+> after a number of on-and-offs of existence of this variable in released estimates files. 
+> 
+> rename seroprev_mean            TotSerMeSmA02S03
+> rename seroprev_upper           TotSerLoSmA02S03
+> rename seroprev_lower           TotSerUpSmA02S03
+> 
+> label var TotSerMeSmA02S03 "Total seroprevalence Mean IHME S3"
+> label var TotSerLoSmA02S03 "Total seroprevalence Lower IHME S3"
+> label var TotSerUpSmA02S03 "Total seroprevalence Upper IHME S3"
+> */
+. 
+. 
+. save "Worse Canada.dta", replace
+{txt}file Worse Canada.dta saved
+
+{com}. 
+. 
+.  
+.  
+.  
+.  
+. **********************
+. 
+.  
+. * merge scenario files
+. 
+. 
+. use "Reference Canada.dta", clear
+{txt}
+{com}. merge 1:1 location_name date using "Best Canada.dta"
+{res}
+{txt}{col 5}Result{col 38}# of obs.
+{col 5}{hline 41}
+{col 5}not matched{col 30}{res}               0
+{txt}{col 5}matched{col 30}{res}           4,546{txt}  (_merge==3)
+{col 5}{hline 41}
+
+{com}. drop _merge
+{txt}
+{com}. merge 1:1 location_name date using "Worse Canada.dta"
+{res}
+{txt}{col 5}Result{col 38}# of obs.
+{col 5}{hline 41}
+{col 5}not matched{col 30}{res}               0
+{txt}{col 5}matched{col 30}{res}           4,546{txt}  (_merge==3)
+{col 5}{hline 41}
+
+{com}. drop _merge
+{txt}
+{com}. 
+. 
+. rename date date_original
+{res}{txt}
+{com}. gen year = substr(date_original,1,4) 
+{txt}
+{com}. gen month = substr(date_original,6,2) 
+{txt}
+{com}. gen day = substr(date_original,9,2) 
+{txt}
+{com}. egen date2 = concat(day month year)
+{txt}
+{com}. gen date = date(date2, "DMY", 2050)
+{txt}
+{com}. format date %tdDDMonCCYY
+{txt}
+{com}. codebook date
+
+{txt}{hline}
+{res}date{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric daily date ({res}float{txt})
+
+{col 18}range:  [{res}21949{txt},{res}22524{txt}]{col 55}units:  {res}1
+{col 8}{txt}or equivalently:  [{res}04feb2020{txt},{res}01sep2021{txt}]{col 55}units:  {res}days
+{col 10}{txt}unique values:  {res}576{col 51}{txt}missing .:  {res}0{txt}/{res}4,546
+
+{txt}{col 19}mean:{res}{col 26} 22240.3{txt} = {res}21nov2020{txt} (+ 8 hours)
+{col 15}std. dev:{res}{col 26} 164.127
+
+{txt}{col 12}percentiles:{col 32}10%{col 42}25%{col 52}50%{col 62}75%{col 72}90%
+{res}{col 27}   22013{col 37}   22098{col 47}   22240{col 57}   22382{col 67}   22468
+{col 26}08apr2020{col 36}02jul2020{col 46}21nov2020{col 56}12apr2021{col 66}07jul2021
+{txt}
+{com}. drop year month day date2
+{txt}
+{com}. 
+. 
+. 
+. rename location_name provincestate
+{res}{txt}
+{com}. 
+. gen loc_grand_name = "Canada"
+{txt}
+{com}. 
+. replace provincestate = " National" if provincestate == "Canada"
+{txt}(576 real changes made)
+
+{com}. 
+. 
+. 
+. 
+. drop date_original v1 hosp_data_type deaths_data_type ///
+> mobility_data_type mobility_composite ///
+> confirmed_infections_data_type confirmed_infections est_infections_data_type ///
+> // total_pop // seroprev_data_type
+{txt}
+{com}. 
+. order deaths_mean_p100k_rate-est_infections_upper_p100k_rate, last
+{txt}
+{com}. 
+. order loc_grand_name provincestate date
+{txt}
+{com}. 
+. sort loc_grand_name provincestate date
+{txt}
+{com}. 
+. 
+. 
+. * gen cfr
+. 
+. gen DayCfrMeRaA02S01 = 100 * DayDeaMeRaA02S01 / DayCasMeRaA02S01
+{txt}(5 missing values generated)
+
+{com}. gen DayCfrLoRaA02S01 = 100 * DayDeaLoRaA02S01 / DayCasLoRaA02S01
+{txt}(3,802 missing values generated)
+
+{com}. gen DayCfrUpRaA02S01 = 100 * DayDeaUpRaA02S01 / DayCasUpRaA02S01
+{txt}(3,802 missing values generated)
+
+{com}. gen DayCfrMeRaA02S02 = 100 * DayDeaMeRaA02S02 / DayCasMeRaA02S02
+{txt}(3,802 missing values generated)
+
+{com}. gen DayCfrLoRaA02S02 = 100 * DayDeaLoRaA02S02 / DayCasLoRaA02S02
+{txt}(3,802 missing values generated)
+
+{com}. gen DayCfrUpRaA02S02 = 100 * DayDeaUpRaA02S02 / DayCasUpRaA02S02
+{txt}(3,802 missing values generated)
+
+{com}. gen DayCfrMeRaA02S03 = 100 * DayDeaMeRaA02S03 / DayCasMeRaA02S03
+{txt}(3,802 missing values generated)
+
+{com}. gen DayCfrLoRaA02S03 = 100 * DayDeaLoRaA02S03 / DayCasLoRaA02S03
+{txt}(3,802 missing values generated)
+
+{com}. gen DayCfrUpRaA02S03 = 100 * DayDeaUpRaA02S03 / DayCasUpRaA02S03
+{txt}(3,802 missing values generated)
+
+{com}. 
+. label var DayCfrMeRaA02S01 "Daily CFR Mean Raw IHME S1" 
+{txt}
+{com}. label var DayCfrLoRaA02S01 "Daily CFR Lower Raw IHME S1" 
+{txt}
+{com}. label var DayCfrUpRaA02S01 "Daily CFR Upper Raw IHME S1" 
+{txt}
+{com}. label var DayCfrMeRaA02S02 "Daily CFR Mean Raw IHME S2" 
+{txt}
+{com}. label var DayCfrLoRaA02S02 "Daily CFR Lower Raw IHME S2" 
+{txt}
+{com}. label var DayCfrUpRaA02S02 "Daily CFR Upper Raw IHME S2" 
+{txt}
+{com}. label var DayCfrMeRaA02S03 "Daily CFR Mean Raw IHME S3" 
+{txt}
+{com}. label var DayCfrLoRaA02S03 "Daily CFR Lower Raw IHME S3" 
+{txt}
+{com}. label var DayCfrUpRaA02S03 "Daily CFR Upper Raw IHME S3" 
+{txt}
+{com}. 
+. 
+. 
+. label var deaths_mean_p100k_rate "Daily deaths mean raw per 100k rate IHME"
+{txt}
+{com}. 
+. label var deaths_lower_p100k_rate "Daily deaths lower raw per 100k rate IHME"
+{txt}
+{com}. 
+. label var deaths_upper_p100k_rate "Daily deaths upper raw per 100k rate IHME"
+{txt}
+{com}. 
+. label var totdea_mean_p100k_rate "Total deaths mean per raw 100k rate IHME"
+{txt}
+{com}. 
+. label var totdea_lower_p100k_rate "Total deaths mean per raw 100k rate IHME"
+{txt}
+{com}. 
+. label var totdea_upper_p100k_rate "Total deaths upper per raw 100k rate IHME"
+{txt}
+{com}. 
+. label var deaths_mean_smoothed_p100k_rate "Daily deaths mean smoothed per 100k rate IHME"
+{txt}
+{com}. 
+. label var deaths_lower_smoothed_p100k_rate "Daily deaths lower smoothed per 100k rate IHME"
+{txt}
+{com}. 
+. label var deaths_upper_smoothed_p100k_rate "Daily deaths upper smoothed per 100k rate IHME"
+{txt}
+{com}. 
+. label var totdea_mean_smoothed_p100k_rate "Total deaths mean smoothed per 100k rate IHME"
+{txt}
+{com}. 
+. label var totdea_lower_smoothed_p100k_rate "Total deaths lower smoothed per 100k rate IHME"
+{txt}
+{com}. 
+. label var totdea_upper_smoothed_p100k_rate "Total deaths upper smoothed per 100k rate IHME"
+{txt}
+{com}. 
+. label var confirmed_infections_p100k_rate  "confirmed infections per 100k rate IHME"
+{txt}
+{com}. 
+. label var est_infections_mean_p100k_rate "estimated infections mean per 100k rate IHME"
+{txt}
+{com}. 
+. label var est_infections_lower_p100k_rate "estimated infections lower per 100k rate IHME"
+{txt}
+{com}. 
+. label var est_infections_upper_p100k_rate "estimated infections upper per 100k rate IHME"
+{txt}
+{com}. 
+. 
+. 
+. label var location_id "location id IHME"
+{txt}
+{com}. 
+. 
+. label var deaths_reported_mean  "deaths reported mean IHME"
+{txt}
+{com}. label var deaths_reported_lower "deaths reported lower IHME"
+{txt}
+{com}. label var deaths_reported_upper "deaths reported upper IHME"
+{txt}
+{com}. label var totdea_reported_mean  "total deaaths reported mean IHME"
+{txt}
+{com}. label var totdea_reported_lower "total deaaths reported lower IHME"
+{txt}
+{com}. label var totdea_reported_upper "total deaaths reported upper IHME"
+{txt}
+{com}. /* label var deaths_reported_me_sm "deaths reported mean smoothed IHME"
+> label var deaths_reported_lo_sm "deaths reported lower smoothed IHME"
+> label var deaths_reported_up_sm "deaths reported upper smoothed IHME"
+> label var totdea_reported_me_sm "total deaaths reported mean smoothed IHME"
+> label var totdea_reported_lo_sm "total deaaths reported lower smoothed IHME"
+> label var totdea_reported_up_sm "total deaaths reported upper smoothed IHME" */
+. label var total_tests_data_type "total tests data type IHME"
+{txt}
+{com}. 
+. label var total_pop "total population IHME"
+{txt}
+{com}. 
+. 
+. /*label var dea_rep_me_rate "deaths reported mean rate IHME"
+> label var dea_rep_lo_rate "deaths reported lower rate IHME"
+> label var dea_rep_up_rate "deaths reported upper rate IHME"
+> label var totdea_rep_me_rate "total deaaths reported mean rate IHME"
+> label var totdea_rep_lo_rate "total deaaths reported lower rate IHME"
+> label var totdea_rep_up_rate "total deaaths reported upper rate IHME"*/
+. 
+. 
+. 
+. * gen "Daily cases mean div by daily deaths mean IHME DayCbD" for visulization of temporal relation of deaths and cases peaks 
+. 
+. 
+. summ DayDeaMeSmA02S01 
+
+{txt}    Variable {c |}        Obs        Mean    Std. Dev.       Min        Max
+{hline 13}{c +}{hline 57}
+DayDeaMeS~01 {c |}{res}      4,546    18.67527    40.62819          0    289.952
+{txt}
+{com}. gen DayDeMMeSmA02S01 = r(mean)
+{txt}
+{com}. label var DayDeMMeSmA02S01 "Daily deaths mean IHME DayDeM"
+{txt}
+{com}. 
+. summ DayCasMeRaA02S01 
+
+{txt}    Variable {c |}        Obs        Mean    Std. Dev.       Min        Max
+{hline 13}{c +}{hline 57}
+DayCasMeR~01 {c |}{res}      4,546    1866.295     3463.75          0   22396.01
+{txt}
+{com}. gen DayCaMMeRaA02S01 = r(mean)
+{txt}
+{com}. label var DayCaMMeRaA02S01 "Daily cases mean IHME DayCaM"
+{txt}
+{com}.                            
+. gen DayCbDMeRaA02S01 = DayCaMMeRaA02S01 / DayDeMMeSmA02S01
+{txt}
+{com}. label var DayCbDMeRaA02S01 "Daily cases mean div by daily deaths mean IHME DayCbD"
+{txt}
+{com}. summ DayCbDMeRaA02S01
+
+{txt}    Variable {c |}        Obs        Mean    Std. Dev.       Min        Max
+{hline 13}{c +}{hline 57}
+DayCbDMeR~01 {c |}{res}      4,546    99.93405           0   99.93405   99.93405
+{txt}
+{com}.                                               
+. gen DayDMuMeRaA02S01 = DayDeaMeRaA02S01 * DayCbDMeRaA02S01
+{txt}
+{com}. label var DayDMuMeRaA02S01 "Daily deaths scaled (times means of cases by deaths) IHME"
+{txt}
+{com}. summ DayDMuMeRaA02S01
+
+{txt}    Variable {c |}        Obs        Mean    Std. Dev.       Min        Max
+{hline 13}{c +}{hline 57}
+DayDMuMeR~01 {c |}{res}      4,546    1871.163    4229.974   -322.828   34704.02
+{txt}
+{com}. 
+. 
+. 
+. * shorten long varnames
+. 
+. rename deaths_reported_mean_smoothed  deaths_reported_me_sm
+{res}{txt}
+{com}. 
+. rename deaths_reported_lower_smoothed deaths_reported_lo_sm
+{res}{txt}
+{com}. 
+. rename deaths_reported_upper_smoothed deaths_reported_up_sm
+{res}{txt}
+{com}. 
+. rename totdea_reported_mean_smoothed  totdea_reported_me_sm
+{res}{txt}
+{com}. 
+. rename totdea_reported_lower_smoothed totdea_reported_lo_sm
+{res}{txt}
+{com}. 
+. rename totdea_reported_upper_smoothed totdea_reported_up_sm
+{res}{txt}
+{com}. 
+. rename deaths_mean_p100k_rate dea_me_rate
+{res}{txt}
+{com}. 
+. rename deaths_lower_p100k_rate dea_lo_rate
+{res}{txt}
+{com}. 
+. rename deaths_upper_p100k_rate dea_up_rate
+{res}{txt}
+{com}. 
+. rename totdea_mean_p100k_rate totdea_me_rate
+{res}{txt}
+{com}. 
+. rename totdea_lower_p100k_rate totdea_lo_rate
+{res}{txt}
+{com}. 
+. rename totdea_upper_p100k_rate totdea_up_rate
+{res}{txt}
+{com}. 
+. rename deaths_mean_smoothed_p100k_rate dea_me_sm_rate
+{res}{txt}
+{com}. 
+. rename deaths_lower_smoothed_p100k_rate dea_lo_sm_rate
+{res}{txt}
+{com}. 
+. rename deaths_upper_smoothed_p100k_rate dea_up_sm_rate
+{res}{txt}
+{com}. 
+. rename totdea_mean_smoothed_p100k_rate totdea_me_sm_rate
+{res}{txt}
+{com}. 
+. rename totdea_lower_smoothed_p100k_rate totdea_lo_sm_rate
+{res}{txt}
+{com}. 
+. rename totdea_upper_smoothed_p100k_rate totdea_up_sm_rate
+{res}{txt}
+{com}. 
+. rename confirmed_infections_p100k_rate conf_inf_rate 
+{res}{txt}
+{com}. 
+. rename est_infections_mean_p100k_rate est_inf_me_rate
+{res}{txt}
+{com}. 
+. rename est_infections_lower_p100k_rate est_inf_lo_rate
+{res}{txt}
+{com}. 
+. rename est_infections_upper_p100k_rate est_inf_up_rate
+{res}{txt}
+{com}. 
+. rename deaths_reported_mean_p100k_rate  dea_rep_me_rate
+{res}{txt}
+{com}. 
+. rename deaths_reported_lower_p100k_rate dea_rep_lo_rate
+{res}{txt}
+{com}. 
+. rename deaths_reported_upper_p100k_rate dea_rep_up_rate
+{res}{txt}
+{com}. 
+. rename totdea_reported_mean_p100k_rate  totdea_rep_me_rate
+{res}{txt}
+{com}. 
+. rename totdea_reported_lower_p100k_rate totdea_rep_lo_rate
+{res}{txt}
+{com}. 
+. rename totdea_reported_upper_p100k_rate totdea_rep_up_rate
+{res}{txt}
+{com}. 
+. rename deaths_reported_mean_smoothed_p1 dea_rep_me_sm_rate
+{res}{txt}
+{com}. 
+. rename deaths_reported_lower_smoothed_p dea_rep_lo_sm_rate
+{res}{txt}
+{com}. 
+. rename deaths_reported_upper_smoothed_p dea_rep_up_sm_rate
+{res}{txt}
+{com}. 
+. rename totdea_reported_mean_smoothed_p1 totdea_rep_me_sm_rate
+{res}{txt}
+{com}. 
+. rename totdea_reported_lower_smoothed_p totdea_rep_lo_sm_rate
+{res}{txt}
+{com}. 
+. rename totdea_reported_upper_smoothed_p totdea_rep_up_sm_rate
+{res}{txt}
+{com}. 
+. *
+. 
+. 
+. 
+. 
+. * gen vars by provincestate 
+. 
+. foreach var of varlist ///
+> DayBedMeSmA02S01        DayBedUpSmA02S01        DayBedLoSmA02S01        DayIcuMeSmA02S01        DayIcuUpSmA02S01        DayIcuLoSmA02S01        ///
+> DayAdmMeSmA02S01        DayAdmUpSmA02S01        DayAdmLoSmA02S01        DayIcnMeSmA02S01        DayIcnUpSmA02S01        DayIcnLoSmA02S01        ///
+> DayDeaMeRaA02S01        DayDeaLoRaA02S01        DayDeaUpRaA02S01        TotDeaMeRaA02S01        TotDeaLoRaA02S01        TotDeaUpRaA02S01        ///
+> DayDeaMeSmA02S01        DayDeaLoSmA02S01        DayDeaUpSmA02S01        TotDeaMeSmA02S01        TotDeaLoSmA02S01        TotDeaUpSmA02S01        ///
+> deaths_reported_mean    deaths_reported_lower   deaths_reported_upper   totdea_reported_mean    totdea_reported_lower   totdea_reported_upper   ///
+> deaths_reported_me_sm   deaths_reported_lo_sm   deaths_reported_up_sm   totdea_reported_me_sm   totdea_reported_lo_sm   totdea_reported_up_sm   ///
+> TotTesMeSmA02S01        DayCasMeRaA02S01        DayCasLoRaA02S01        DayCasUpRaA02S01        total_pop       ///
+> TotCasMeRaA02S01        TotCasUpRaA02S01        TotCasLoRaA02S01        DayDeaMeRaA02S02        DayDeaLoRaA02S02        DayDeaUpRaA02S02        ///
+> TotDeaMeRaA02S02        TotDeaLoRaA02S02        TotDeaUpRaA02S02        DayDeaMeSmA02S02        DayDeaLoSmA02S02        DayDeaUpSmA02S02        ///
+> TotDeaMeSmA02S02        TotDeaLoSmA02S02        TotDeaUpSmA02S02        TotTesMeSmA02S02        DayCasMeRaA02S02        DayCasLoRaA02S02        ///
+> DayCasUpRaA02S02        TotCasMeRaA02S02        TotCasUpRaA02S02        TotCasLoRaA02S02        DayDeaMeRaA02S03        DayDeaLoRaA02S03        ///
+> DayDeaUpRaA02S03        TotDeaMeRaA02S03        TotDeaLoRaA02S03        TotDeaUpRaA02S03        DayDeaMeSmA02S03        DayDeaLoSmA02S03        ///
+> DayDeaUpSmA02S03        TotDeaMeSmA02S03        TotDeaLoSmA02S03        TotDeaUpSmA02S03        TotTesMeSmA02S03        DayCasMeRaA02S03        ///
+> DayCasLoRaA02S03        DayCasUpRaA02S03        TotCasMeRaA02S03        TotCasUpRaA02S03        TotCasLoRaA02S03        ///
+> dea_me_rate     dea_lo_rate     dea_up_rate     totdea_me_rate  totdea_lo_rate  totdea_up_rate  dea_me_sm_rate  dea_lo_sm_rate  dea_up_sm_rate  ///
+> totdea_me_sm_rate       totdea_lo_sm_rate       totdea_up_sm_rate dea_rep_me_rate dea_rep_lo_rate dea_rep_up_rate ///
+> totdea_rep_me_rate totdea_rep_lo_rate totdea_rep_up_rate dea_rep_me_sm_rate dea_rep_lo_sm_rate dea_rep_up_sm_rate ///
+> totdea_rep_me_sm_rate totdea_rep_lo_sm_rate totdea_rep_up_sm_rate ///
+> conf_inf_rate   est_inf_me_rate est_inf_lo_rate est_inf_up_rate ///
+> DayCfrMeRaA02S01        DayCfrLoRaA02S01        DayCfrUpRaA02S01        DayCfrMeRaA02S02        DayCfrLoRaA02S02        DayCfrUpRaA02S02        ///
+> DayCfrMeRaA02S03        DayCfrLoRaA02S03        DayCfrUpRaA02S03        DayDeMMeSmA02S01        DayCaMMeRaA02S01        DayCbDMeRaA02S01        DayDMuMeRaA02S01 {c -(}
+{txt}  2{com}. 
+. *
+.                          
+. qui gen `var'XAB = `var' 
+{txt}  3{com}. qui replace `var'XAB = . if provincestate != "Alberta"
+{txt}  4{com}. 
+. qui gen `var'XBC = `var'
+{txt}  5{com}. qui replace `var'XBC = . if provincestate != "British Columbia"
+{txt}  6{com}. 
+. qui gen `var'XMB = `var'
+{txt}  7{com}. qui replace `var'XMB = . if provincestate != "Manitoba"
+{txt}  8{com}. 
+. qui gen `var'XXX = `var'
+{txt}  9{com}. qui replace `var'XXX = . if provincestate != " National"
+{txt} 10{com}. 
+. qui gen `var'XNB = `var'
+{txt} 11{com}. qui replace `var'XNB = . if provincestate != "New Brunswick"
+{txt} 12{com}. 
+. qui gen `var'XNL = `var'
+{txt} 13{com}. qui replace `var'XNL = . if provincestate != "Newfoundland and Labrador"
+{txt} 14{com}. 
+. qui gen `var'XNS = `var'
+{txt} 15{com}. qui replace `var'XNS = . if provincestate != "Nova Scotia"
+{txt} 16{com}. 
+. qui gen `var'XON = `var'
+{txt} 17{com}. qui replace `var'XON = . if provincestate != "Ontario"
+{txt} 18{com}. 
+. qui gen `var'XQC = `var'
+{txt} 19{com}. qui replace `var'XQC = . if provincestate != "Quebec"
+{txt} 20{com}. 
+. qui gen `var'XSK = `var'
+{txt} 21{com}. qui replace `var'XSK = . if provincestate != "Saskatchewan"
+{txt} 22{com}. 
+. 
+. label var `var'XAB "`var' Alberta"
+{txt} 23{com}. label var `var'XBC "`var' British Columbia"
+{txt} 24{com}. label var `var'XMB "`var' Manitoba"
+{txt} 25{com}. label var `var'XXX "`var' National"
+{txt} 26{com}. label var `var'XNB "`var' New Brunswick"
+{txt} 27{com}. label var `var'XNL "`var' Newfoundland and Labrador"
+{txt} 28{com}. label var `var'XNS "`var' Nova Scotia"
+{txt} 29{com}. label var `var'XON "`var' Ontario"
+{txt} 30{com}. label var `var'XQC "`var' Quebec"
+{txt} 31{com}. label var `var'XSK "`var' Saskatchewan"
+{txt} 32{com}. 
+. 
+.                 
+. {c )-}
+{txt}
+{com}. *
+. 
+. 
+. 
+. 
+. 
+. qui compress
+{txt}
+{com}. 
+. save "CovidVisualizedCountry IHME.dta", replace
+{txt}file CovidVisualizedCountry IHME.dta saved
+
+{com}. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. ***********************
+. 
+. 
+. * graphs
+. 
+. 
+. grstyle init
+{res}{txt}
+{com}. 
+. grstyle color background white
+{txt}
+{com}. 
+. 
+. 
+. 
+. 
+. *****************
+. * daily deaths, reference scenario = S1  (graph numbers starting with 11)
+. 
+. 
+. ****
+. * 11 a daily deaths, national, all subnational, reference scenario = S1 
+. 
+. twoway ///
+> (line DayDeaMeSmA02S01XAB date, sort lwidth(medium) lcolor(cyan)) /// 1 "AB" cyan
+> (line DayDeaMeSmA02S01XBC date, sort lwidth(medium) lcolor(blue)) /// 2 "BC" blue
+> (line DayDeaMeSmA02S01XMB date, sort lwidth(medium) lcolor(lime)) /// 3 "MB" lime
+> (line DayDeaMeSmA02S01XNS date, sort lwidth(medium) lcolor(magenta)) /// 4 "NS" magenta
+> (line DayDeaMeSmA02S01XNL date, sort lwidth(medium) lcolor(gray)) /// 5 "NL"
+> (line DayDeaMeSmA02S01XNS date, sort lwidth(medium) lcolor(magenta)) /// 6 "NS" magenta
+> (line DayDeaMeSmA02S01XON date, sort lwidth(medium) lcolor(red)) /// 7 "ON" red
+> (line DayDeaMeSmA02S01XQC date, sort lwidth(medium) lcolor(black)) /// 8 "QC" black
+> (line DayDeaMeSmA02S01XSK date, sort lwidth(medium) lcolor(orange)) /// 9 "SK" orange
+> (line DayDeaMeSmA02S01XXX date, sort lwidth(thick) lcolor(gray)) /// 10 "CAN" 
+> , xtitle(Date) xlabel(#20, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+> xlabel(, angle(forty_five)) ylabel(, format(%9.0fc) labsize(small))  ylabel(, labsize(small) angle(forty_five)) ///
+> ytitle(Daily deaths) title("COVID-19 daily deaths, $country, IHME, reference scenario", size(medium)) ///
+> xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
+> legend(order(1 "AB" 2 "BC" 3 "MB" 5 "NL" 6 "NS" 7 "ON" 8 "QC" 9 "SK" 10 "CAN") rows(2) size(small)) ///
+> subtitle("All provinces avilable in IHME", size(small)) 
+{res}{txt}
+{com}. 
+. qui graph save "graph 11 a COVID-19 daily deaths, $country, subnational, IHME, reference scenario.gph", replace
+{txt}
+{com}. qui graph export "graph 11 a COVID-19 daily deaths, $country, subnational, IHME, reference scenario.pdf", replace
+{txt}
+{com}. 
+. 
+. 
+. 
+. ****
+. * 11 b daily deaths, subnational, most affected, reference scenario = S1 
+. * Alberta (AB), British Columbia (BC), Manitoba (MB), Ontario (ON), Quebec (QC)
+. 
+. twoway ///
+> (line DayDeaMeSmA02S01XAB date, sort lwidth(medium) lcolor(cyan)) /// 1 "AB" cyan
+> (line DayDeaMeSmA02S01XBC date, sort lwidth(medium) lcolor(blue)) /// 2 "BC" blue
+> (line DayDeaMeSmA02S01XMB date, sort lwidth(medium) lcolor(lime)) /// 3 "MB" lime
+> (line DayDeaMeSmA02S01XON date, sort lwidth(medium) lcolor(red)) /// 4 "ON" red
+> (line DayDeaMeSmA02S01XQC date, sort lwidth(medium) lcolor(black)) /// 5 "QC" black
+> (line DayDeaMeSmA02S01XXX date, sort lwidth(thick) lcolor(gray)) /// 6 "CAN" 
+> , xtitle(Date) xlabel(#20, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+> xlabel(, angle(forty_five)) ylabel(, format(%9.0fc) labsize(small))  ylabel(, labsize(small) angle(forty_five)) ///
+> ytitle(Daily deaths) title("COVID-19 daily deaths, $country, IHME, reference scenario", size(medium)) ///
+> xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
+> legend(order(1 "AB" 2 "BC" 3 "MB" 4 "ON" 5 "QC" 6 "CAN") rows(1) size(small)) ///
+> subtitle("5 most affected provinces", size(small)) 
+{res}{txt}
+{com}. 
+. qui graph save "graph 11 b COVID-19 daily deaths, $country, subnational, most affected, IHME, reference scenario.gph", replace
+{txt}
+{com}. qui graph export "graph 11 b COVID-19 daily deaths, $country, subnational, most affected, IHME, reference scenario.pdf", replace
+{txt}
+{com}. 
+. 
+. 
+. 
+. ****
+. * 11 c daily deaths, national, subnational, separate, reference scenario = S1 
+. 
+. levelsof provincestate, local(levels)
+{txt}`" National"' `"Alberta"' `"British Columbia"' `"Manitoba"' `"Nova Scotia"' `"Ontario"' `"Quebec"' `"Saskatchewan"'
+
+{com}. 
+. foreach l of local levels {c -(}
+{txt}  2{com}. 
+. twoway (rarea DayDeaLoSmA02S01 DayDeaUpSmA02S01 date, sort color(green*.2)) ///
+> (line DayDeaMeSmA02S01 date, sort lcolor(green)) ///
+> if provincestate == "`l'" & DayDeaMeSmA02S01 != ., legend(off) ///         
+> xtitle(Date) xlabel(#20, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+> xlabel(, angle(forty_five)) ylabel(, format(%9.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
+> ytitle(Daily deaths) title("COVID-19 daily deaths, $country, `l', IHME, reference scenario", size(medium)) ///
+> xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
+> subtitle("with confidence limits", size(small)) 
+{txt}  3{com}.            
+. qui qui graph save "graph 11 c COVID-19 daily deaths, $country, `l', IHME, reference scenario.gph", replace
+{txt}  4{com}. qui qui graph export "graph 11 c COVID-19 daily deaths, $country, `l', IHME, reference scenario.pdf", replace
+{txt}  5{com}. 
+. {c )-}
+{res}{txt}
+{com}. *
+. 
+. 
+. 
+. 
+. ****
+. * 11 d daily death rate, national, all subnational, reference scenario = S1 
+. 
+. twoway ///
+> (line dea_me_sm_rateXAB date, sort lwidth(medium) lcolor(cyan)) /// 1 "AB" cyan
+> (line dea_me_sm_rateXBC date, sort lwidth(medium) lcolor(blue)) /// 2 "BC" blue
+> (line dea_me_sm_rateXMB date, sort lwidth(medium) lcolor(lime)) /// 3 "MB" lime
+> (line dea_me_sm_rateXNS date, sort lwidth(medium) lcolor(magenta)) /// 4 "NS" magenta
+> (line dea_me_sm_rateXNL date, sort lwidth(medium) lcolor(gray)) /// 5 "NL"
+> (line dea_me_sm_rateXNS date, sort lwidth(medium) lcolor(magenta)) /// 6 "NS" magenta
+> (line dea_me_sm_rateXON date, sort lwidth(medium) lcolor(red)) /// 7 "ON" red
+> (line dea_me_sm_rateXQC date, sort lwidth(medium) lcolor(black)) /// 8 "QC" black
+> (line dea_me_sm_rateXSK date, sort lwidth(medium) lcolor(orange)) /// 9 "SK" orange
+> (line dea_me_sm_rateXXX date, sort lwidth(thick) lcolor(gray)) /// 10 "CAN" 
+> , xtitle(Date) xlabel(#20, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+> xlabel(, angle(forty_five)) ylabel(, format(%9.1fc) labsize(small))  ylabel(, labsize(small) angle(forty_five)) ///
+> ytitle("Daily death rate in 100,000") title("COVID-19 daily death rate, $country, IHME, reference scenario", size(medium)) ///
+> xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
+> legend(order(1 "AB" 2 "BC" 3 "MB" 5 "NL" 6 "NS" 7 "ON" 8 "QC" 9 "SK" 10 "CAN") rows(2) size(small)) ///
+> subtitle("All provinces avilable in IHME, Daily death rate in 100,000 smoothed", size(small)) 
+{res}{txt}
+{com}. 
+. qui graph save "graph 11 d COVID-19 daily death rate, $country, subnational, IHME, reference scenario.gph", replace
+{txt}
+{com}. qui graph export "graph 11 d COVID-19 daily death rate, $country, subnational, IHME, reference scenario.pdf", replace
+{txt}
+{com}. 
+. 
+. 
+. 
+. 
+. *****************
+. * daily deaths, 3 scenarios
+. 
+. 
+. ****
+. * 12 daily deaths, national, subnational, separate, 3 scenarios 
+. 
+. levelsof provincestate, local(levels)
+{txt}`" National"' `"Alberta"' `"British Columbia"' `"Manitoba"' `"Nova Scotia"' `"Ontario"' `"Quebec"' `"Saskatchewan"'
+
+{com}. 
+. foreach l of local levels {c -(}
+{txt}  2{com}. 
+. twoway ///
+> (line DayDeaMeSmA02S01 date, sort lcolor(black) lwidth(vthick) lpattern(tight_dot)) ///
+> (line DayDeaMeSmA02S02 date, sort lcolor(green)) ///
+> (line DayDeaMeSmA02S03 date, sort lcolor(red)) ///
+> if date >= td(01jan2020) & provincestate == "`l'" ///
+> , xtitle(Date) xlabel(#20, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+> xlabel(, angle(forty_five)) ylabel(, format(%12.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
+> ytitle(Daily deaths) title("COVID-19 daily deaths, $country, `l', IHME, 3 scenarios", size(medium)) ///
+> xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
+> legend(order(1 "S1" 2 "S2" 3 "S3") rows(1)) 
+{txt}  3{com}. 
+. qui qui graph save "graph 12 COVID-19 daily deaths, $country, `l', IHME, reference scenario.gph", replace
+{txt}  4{com}. qui qui graph export "graph 12 COVID-19 daily deaths, $country, `l', IHME, reference scenario.pdf", replace
+{txt}  5{com}. 
+. {c )-}
+{res}{txt}
+{com}. *
+. 
+. 
+. 
+. 
+. 
+. *****************
+. * 13 daily deaths, national, subnational, separate, best scenario = S2
+. 
+. levelsof provincestate, local(levels)
+{txt}`" National"' `"Alberta"' `"British Columbia"' `"Manitoba"' `"Nova Scotia"' `"Ontario"' `"Quebec"' `"Saskatchewan"'
+
+{com}. 
+. foreach l of local levels {c -(}
+{txt}  2{com}. 
+. twoway (rarea DayDeaLoSmA02S02 DayDeaUpSmA02S02 date, sort color(green*.2)) ///
+> (line DayDeaMeSmA02S02 date, sort lcolor(green)) ///
+> if provincestate == "`l'" & DayDeaMeSmA02S01 != ., legend(off) ///         
+> xtitle(Date) xlabel(#20, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+> xlabel(, angle(forty_five)) ylabel(, format(%9.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
+> ytitle(Daily deaths) title("COVID-19 daily deaths, $country, `l', IHME, best scenario", size(medium)) ///
+> xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
+> subtitle("with confidence limits", size(small)) 
+{txt}  3{com}.            
+. qui qui graph save "graph 13 COVID-19 daily deaths, $country, `l', IHME, best scenario.gph", replace
+{txt}  4{com}. qui qui graph export "graph 13 COVID-19 daily deaths, $country, `l', IHME, best scenario.pdf", replace
+{txt}  5{com}. 
+. {c )-}
+{res}{txt}
+{com}. *
+. 
+. 
+. 
+. 
+. 
+. 
+. *****************
+. * 14 daily deaths, national, subnational, separate, worse scenario = S3
+. 
+. levelsof provincestate, local(levels)
+{txt}`" National"' `"Alberta"' `"British Columbia"' `"Manitoba"' `"Nova Scotia"' `"Ontario"' `"Quebec"' `"Saskatchewan"'
+
+{com}. 
+. foreach l of local levels {c -(}
+{txt}  2{com}. 
+. twoway (rarea DayDeaLoSmA02S03 DayDeaUpSmA02S03 date, sort color(green*.2)) ///
+> (line DayDeaMeSmA02S03 date, sort lcolor(green)) ///
+> if provincestate == "`l'" & DayDeaMeSmA02S01 != ., legend(off) ///         
+> xtitle(Date) xlabel(#20, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+> xlabel(, angle(forty_five)) ylabel(, format(%9.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
+> ytitle(Daily deaths) title("COVID-19 daily deaths, $country, `l', IHME, worse scenario", size(medium)) ///
+> xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
+> subtitle("with confidence limits", size(small)) 
+{txt}  3{com}.            
+. qui qui graph save "graph 14 COVID-19 daily deaths, $country, `l', IHME, worse scenario.gph", replace
+{txt}  4{com}. qui qui graph export "graph 14 COVID-19 daily deaths, $country, `l', IHME, worse scenario.pdf", replace
+{txt}  5{com}. 
+. {c )-}
+{res}{txt}
+{com}. *
+. 
+. 
+. 
+. 
+. *****************
+. * daily cases, reference scenario = S1  (graph numbers starting with 21)
+. 
+. 
+. ****
+. * 21 a daily cases, national, all subnational, reference scenario = S1 
+. 
+. twoway ///
+> (line DayCasMeRaA02S01XAB date, sort lwidth(medium) lcolor(cyan)) /// 1 "AB" cyan
+> (line DayCasMeRaA02S01XBC date, sort lwidth(medium) lcolor(blue)) /// 2 "BC" blue
+> (line DayCasMeRaA02S01XMB date, sort lwidth(medium) lcolor(lime)) /// 3 "MB" lime
+> (line DayCasMeRaA02S01XNS date, sort lwidth(medium) lcolor(magenta)) /// 4 "NS" magenta
+> (line DayCasMeRaA02S01XNL date, sort lwidth(medium) lcolor(gray)) /// 5 "NL"
+> (line DayCasMeRaA02S01XNS date, sort lwidth(medium) lcolor(magenta)) /// 6 "NS" magenta
+> (line DayCasMeRaA02S01XON date, sort lwidth(medium) lcolor(red)) /// 7 "ON" red
+> (line DayCasMeRaA02S01XQC date, sort lwidth(medium) lcolor(black)) /// 8 "QC" black
+> (line DayCasMeRaA02S01XSK date, sort lwidth(medium) lcolor(orange)) /// 9 "SK" orange
+> (line DayCasMeRaA02S01XXX date, sort lwidth(thick) lcolor(gray)) /// 10 "CAN" 
+> , xtitle(Date) xlabel(#20, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+> xlabel(, angle(forty_five)) ylabel(, format(%9.0fc) labsize(small))  ylabel(, labsize(small) angle(forty_five)) ///
+> ytitle(Daily cases) title("COVID-19 daily cases, $country, IHME, reference scenario", size(medium)) ///
+> xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
+> legend(order(1 "AB" 2 "BC" 3 "MB" 5 "NL" 6 "NS" 7 "ON" 8 "QC" 9 "SK" 10 "CAN") rows(2) size(small)) ///
+> subtitle("All provinces avilable in IHME", size(small)) 
+{res}{txt}
+{com}. 
+. qui graph save "graph 21 a COVID-19 daily cases, $country, subnational, IHME, reference scenario.gph", replace
+{txt}
+{com}. qui graph export "graph 21 a COVID-19 daily cases, $country, subnational, IHME, reference scenario.pdf", replace
+{txt}
+{com}. 
+. 
+. 
+. 
+. ****
+. * 21 b daily cases, subnational, most affected, reference scenario = S1 
+. * Alberta (AB), British Columbia (BC), Manitoba (MB), Ontario (ON), Quebec (QC)
+. 
+. twoway ///
+> (line DayCasMeRaA02S01XAB date, sort lwidth(medium) lcolor(cyan)) /// 1 "AB" cyan
+> (line DayCasMeRaA02S01XBC date, sort lwidth(medium) lcolor(blue)) /// 2 "BC" blue
+> (line DayCasMeRaA02S01XMB date, sort lwidth(medium) lcolor(lime)) /// 3 "MB" lime
+> (line DayCasMeRaA02S01XON date, sort lwidth(medium) lcolor(red)) /// 4 "ON" red
+> (line DayCasMeRaA02S01XQC date, sort lwidth(medium) lcolor(black)) /// 5 "QC" black
+> (line DayCasMeRaA02S01XXX date, sort lwidth(thick) lcolor(gray)) /// 6 "CAN" 
+> , xtitle(Date) xlabel(#20, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+> xlabel(, angle(forty_five)) ylabel(, format(%9.0fc) labsize(small))  ylabel(, labsize(small) angle(forty_five)) ///
+> ytitle(Daily cases) title("COVID-19 daily cases, $country, IHME, reference scenario", size(medium)) ///
+> xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
+> legend(order(1 "AB" 2 "BC" 3 "MB" 4 "ON" 5 "QC" 6 "CAN") rows(1) size(small)) ///
+> subtitle("5 most affected provinces", size(small)) 
+{res}{txt}
+{com}. 
+. qui graph save "graph 21 b COVID-19 daily cases, $country, subnational, most affected, IHME, reference scenario.gph", replace
+{txt}
+{com}. qui graph export "graph 21 b COVID-19 daily cases, $country, subnational, most affected, IHME, reference scenario.pdf", replace
+{txt}
+{com}. 
+. 
+. 
+. 
+. ****
+. * 21 c daily cases, national, subnational, separate, reference scenario = S1 
+. 
+. levelsof provincestate, local(levels)
+{txt}`" National"' `"Alberta"' `"British Columbia"' `"Manitoba"' `"Nova Scotia"' `"Ontario"' `"Quebec"' `"Saskatchewan"'
+
+{com}. 
+. foreach l of local levels {c -(}
+{txt}  2{com}. 
+. twoway (rarea DayCasLoRaA02S01 DayCasUpRaA02S01 date, sort color(green*.2)) ///
+> (line DayCasMeRaA02S01 date, sort lcolor(green)) ///
+> if provincestate == "`l'" & DayCasMeRaA02S01 != ., legend(off) ///         
+> xtitle(Date) xlabel(#20, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+> xlabel(, angle(forty_five)) ylabel(, format(%9.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
+> ytitle(Daily cases) title("COVID-19 daily cases, $country, `l', IHME, reference scenario", size(medium)) ///
+> xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
+> subtitle("with confidence limits", size(small)) 
+{txt}  3{com}.            
+. qui qui graph save "graph 21 c COVID-19 daily cases, $country, `l', IHME, reference scenario.gph", replace
+{txt}  4{com}. qui qui graph export "graph 21 c COVID-19 daily cases, $country, `l', IHME, reference scenario.pdf", replace
+{txt}  5{com}. 
+. {c )-}
+{res}{txt}
+{com}. *
+. 
+. 
+. 
+. 
+. *****************
+. * daily cases, 3 scenarios
+. 
+. 
+. ****
+. * 22 daily cases, national, subnational, separate, 3 scenarios 
+. 
+. levelsof provincestate, local(levels)
+{txt}`" National"' `"Alberta"' `"British Columbia"' `"Manitoba"' `"Nova Scotia"' `"Ontario"' `"Quebec"' `"Saskatchewan"'
+
+{com}. 
+. foreach l of local levels {c -(}
+{txt}  2{com}. 
+. twoway ///
+> (line DayCasMeRaA02S01 date, sort lcolor(black) lwidth(vthick) lpattern(tight_dot)) ///
+> (line DayCasMeRaA02S02 date, sort lcolor(green)) ///
+> (line DayCasMeRaA02S03 date, sort lcolor(red)) ///
+> if date >= td(01jan2020) & provincestate == "`l'" ///
+> , xtitle(Date) xlabel(#20, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+> xlabel(, angle(forty_five)) ylabel(, format(%12.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
+> ytitle(Daily cases) title("COVID-19 daily cases, $country, `l', IHME, 3 scenarios", size(medium)) ///
+> xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
+> legend(order(1 "S1" 2 "S2" 3 "S3") rows(1)) 
+{txt}  3{com}. 
+. qui qui graph save "graph 22 COVID-19 daily cases, $country, `l', IHME, reference scenario.gph", replace
+{txt}  4{com}. qui qui graph export "graph 22 COVID-19 daily cases, $country, `l', IHME, reference scenario.pdf", replace
+{txt}  5{com}. 
+. {c )-}
+{res}{txt}
+{com}. *
+. 
+. 
+. 
+. 
+. 
+. *****************
+. * 23 daily cases, national, subnational, separate, best scenario = S2
+. 
+. levelsof provincestate, local(levels)
+{txt}`" National"' `"Alberta"' `"British Columbia"' `"Manitoba"' `"Nova Scotia"' `"Ontario"' `"Quebec"' `"Saskatchewan"'
+
+{com}. 
+. foreach l of local levels {c -(}
+{txt}  2{com}. 
+. twoway (rarea DayCasLoRaA02S02 DayCasUpRaA02S02 date, sort color(green*.2)) ///
+> (line DayCasMeRaA02S02 date, sort lcolor(green)) ///
+> if provincestate == "`l'" & DayCasMeRaA02S01 != ., legend(off) ///         
+> xtitle(Date) xlabel(#20, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+> xlabel(, angle(forty_five)) ylabel(, format(%9.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
+> ytitle(Daily cases) title("COVID-19 daily cases, $country, `l', IHME, best scenario", size(medium)) ///
+> xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
+> subtitle("with confidence limits", size(small)) 
+{txt}  3{com}.            
+. qui qui graph save "graph 23 COVID-19 daily cases, $country, `l', IHME, best scenario.gph", replace
+{txt}  4{com}. qui qui graph export "graph 23 COVID-19 daily cases, $country, `l', IHME, best scenario.pdf", replace
+{txt}  5{com}. 
+. {c )-}
+{res}{txt}
+{com}. *
+. 
+. 
+. 
+. 
+. 
+. 
+. *****************
+. * 24 daily cases, national, subnational, separate, worse scenario = S3
+. 
+. levelsof provincestate, local(levels)
+{txt}`" National"' `"Alberta"' `"British Columbia"' `"Manitoba"' `"Nova Scotia"' `"Ontario"' `"Quebec"' `"Saskatchewan"'
+
+{com}. 
+. foreach l of local levels {c -(}
+{txt}  2{com}. 
+. twoway (rarea DayCasLoRaA02S03 DayCasUpRaA02S03 date, sort color(green*.2)) ///
+> (line DayCasMeRaA02S03 date, sort lcolor(green)) ///
+> if provincestate == "`l'" & DayCasMeRaA02S01 != ., legend(off) ///         
+> xtitle(Date) xlabel(#20, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+> xlabel(, angle(forty_five)) ylabel(, format(%9.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
+> ytitle(Daily cases) title("COVID-19 daily cases, $country, `l', IHME, worse scenario", size(medium)) ///
+> xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
+> subtitle("with confidence limits", size(small)) 
+{txt}  3{com}.            
+. qui qui graph save "graph 24 COVID-19 daily cases, $country, `l', IHME, worse scenario.gph", replace
+{txt}  4{com}. qui qui graph export "graph 24 COVID-19 daily cases, $country, `l', IHME, worse scenario.pdf", replace
+{txt}  5{com}. 
+. {c )-}
+{res}{txt}
+{com}. *
+. 
+. 
+. 
+. 
+. 
+. 
+. *****************
+. * total deaths, reference scenario = S1  (graph numbers starting with 31)
+. 
+. 
+. ****
+. * 31 a total deaths, national, all subnational, reference scenario = S1 
+. 
+. twoway ///
+> (line TotDeaMeSmA02S01XAB date, sort lwidth(medium) lcolor(cyan)) /// 1 "AB" cyan
+> (line TotDeaMeSmA02S01XBC date, sort lwidth(medium) lcolor(blue)) /// 2 "BC" blue
+> (line TotDeaMeSmA02S01XMB date, sort lwidth(medium) lcolor(lime)) /// 3 "MB" lime
+> (line TotDeaMeSmA02S01XNS date, sort lwidth(medium) lcolor(magenta)) /// 4 "NS" magenta
+> (line TotDeaMeSmA02S01XNL date, sort lwidth(medium) lcolor(gray)) /// 5 "NL"
+> (line TotDeaMeSmA02S01XNS date, sort lwidth(medium) lcolor(magenta)) /// 6 "NS" magenta
+> (line TotDeaMeSmA02S01XON date, sort lwidth(medium) lcolor(red)) /// 7 "ON" red
+> (line TotDeaMeSmA02S01XQC date, sort lwidth(medium) lcolor(black)) /// 8 "QC" black
+> (line TotDeaMeSmA02S01XSK date, sort lwidth(medium) lcolor(orange)) /// 9 "SK" orange
+> (line TotDeaMeSmA02S01XXX date, sort lwidth(thick) lcolor(gray)) /// 10 "CAN" 
+> , xtitle(Date) xlabel(#20, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+> xlabel(, angle(forty_five)) ylabel(, format(%9.0fc) labsize(small))  ylabel(, labsize(small) angle(forty_five)) ///
+> ytitle(Total deaths) title("COVID-19 total deaths, $country, IHME, reference scenario", size(medium)) ///
+> xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
+> legend(order(1 "AB" 2 "BC" 3 "MB" 5 "NL" 6 "NS" 7 "ON" 8 "QC" 9 "SK" 10 "CAN") rows(2) size(small)) ///
+> subtitle("All provinces avilable in IHME", size(small)) 
+{res}{txt}
+{com}. 
+. qui graph save "graph 31 a COVID-19 total deaths, $country, subnational, IHME, reference scenario.gph", replace
+{txt}
+{com}. qui graph export "graph 31 a COVID-19 total deaths, $country, subnational, IHME, reference scenario.pdf", replace
+{txt}
+{com}. 
+. 
+. 
+. 
+. ****
+. * 31 b total deaths, subnational, most affected, reference scenario = S1 
+. * Alberta (AB), British Columbia (BC), Manitoba (MB), Ontario (ON), Quebec (QC)
+. 
+. twoway ///
+> (line TotDeaMeSmA02S01XAB date, sort lwidth(medium) lcolor(cyan)) /// 1 "AB" cyan
+> (line TotDeaMeSmA02S01XBC date, sort lwidth(medium) lcolor(blue)) /// 2 "BC" blue
+> (line TotDeaMeSmA02S01XMB date, sort lwidth(medium) lcolor(lime)) /// 3 "MB" lime
+> (line TotDeaMeSmA02S01XON date, sort lwidth(medium) lcolor(red)) /// 4 "ON" red
+> (line TotDeaMeSmA02S01XQC date, sort lwidth(medium) lcolor(black)) /// 5 "QC" black
+> (line TotDeaMeSmA02S01XXX date, sort lwidth(thick) lcolor(gray)) /// 6 "CAN" 
+> , xtitle(Date) xlabel(#20, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+> xlabel(, angle(forty_five)) ylabel(, format(%9.0fc) labsize(small))  ylabel(, labsize(small) angle(forty_five)) ///
+> ytitle(Total deaths) title("COVID-19 total deaths, $country, IHME, reference scenario", size(medium)) ///
+> xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
+> legend(order(1 "AB" 2 "BC" 3 "MB" 4 "ON" 5 "QC" 6 "CAN") rows(1) size(small)) ///
+> subtitle("5 most affected provinces", size(small)) 
+{res}{txt}
+{com}. 
+. qui graph save "graph 31 b COVID-19 total deaths, $country, subnational, most affected, IHME, reference scenario.gph", replace
+{txt}
+{com}. qui graph export "graph 31 b COVID-19 total deaths, $country, subnational, most affected, IHME, reference scenario.pdf", replace
+{txt}
+{com}. 
+. 
+. 
+. 
+. ****
+. * 31 c total deaths, national, subnational, separate, reference scenario = S1 
+. 
+. levelsof provincestate, local(levels)
+{txt}`" National"' `"Alberta"' `"British Columbia"' `"Manitoba"' `"Nova Scotia"' `"Ontario"' `"Quebec"' `"Saskatchewan"'
+
+{com}. 
+. foreach l of local levels {c -(}
+{txt}  2{com}. 
+. twoway (rarea TotDeaLoSmA02S01 TotDeaUpSmA02S01 date, sort color(green*.2)) ///
+> (line TotDeaMeSmA02S01 date, sort lcolor(green)) ///
+> if provincestate == "`l'" & TotDeaMeSmA02S01 != ., legend(off) ///         
+> xtitle(Date) xlabel(#20, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+> xlabel(, angle(forty_five)) ylabel(, format(%9.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
+> ytitle(Total deaths) title("COVID-19 total deaths, $country, `l', IHME, reference scenario", size(medium)) ///
+> xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
+> subtitle("with confidence limits", size(small)) 
+{txt}  3{com}.            
+. qui qui graph save "graph 31 c COVID-19 total deaths, $country, `l', IHME, reference scenario.gph", replace
+{txt}  4{com}. qui qui graph export "graph 31 c COVID-19 total deaths, $country, `l', IHME, reference scenario.pdf", replace
+{txt}  5{com}. 
+. {c )-}
+{res}{txt}
+{com}. *
+. 
+. 
+. 
+. 
+. ****
+. * 31 d total death rate, national, all subnational, reference scenario = S1 
+. 
+. twoway ///
+> (line totdea_me_rateXAB date, sort lwidth(medium) lcolor(cyan)) /// 1 "AB" cyan
+> (line totdea_me_rateXBC date, sort lwidth(medium) lcolor(blue)) /// 2 "BC" blue
+> (line totdea_me_rateXMB date, sort lwidth(medium) lcolor(lime)) /// 3 "MB" lime
+> (line totdea_me_rateXNS date, sort lwidth(medium) lcolor(magenta)) /// 4 "NS" magenta
+> (line totdea_me_rateXNL date, sort lwidth(medium) lcolor(gray)) /// 5 "NL"
+> (line totdea_me_rateXNS date, sort lwidth(medium) lcolor(magenta)) /// 6 "NS" magenta
+> (line totdea_me_rateXON date, sort lwidth(medium) lcolor(red)) /// 7 "ON" red
+> (line totdea_me_rateXQC date, sort lwidth(medium) lcolor(black)) /// 8 "QC" black
+> (line totdea_me_rateXSK date, sort lwidth(medium) lcolor(orange)) /// 9 "SK" orange
+> (line totdea_me_rateXXX date, sort lwidth(thick) lcolor(gray)) /// 10 "CAN" 
+> , xtitle(Date) xlabel(#20, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+> xlabel(, angle(forty_five)) ylabel(, format(%9.0fc) labsize(small))  ylabel(, labsize(small) angle(forty_five)) ///
+> ytitle("Total death rate in 100,000") title("COVID-19 total death rate, $country, IHME, reference scenario", size(medium)) ///
+> xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
+> legend(order(1 "AB" 2 "BC" 3 "MB" 5 "NL" 6 "NS" 7 "ON" 8 "QC" 9 "SK" 10 "CAN") rows(2) size(small)) ///
+> subtitle("All provinces avilable in IHME", size(small)) 
+{res}{txt}
+{com}. 
+. qui graph save "graph 31 d COVID-19 total death rate, $country, subnational, IHME, reference scenario.gph", replace
+{txt}
+{com}. qui graph export "graph 31 d COVID-19 total death rate, $country, subnational, IHME, reference scenario.pdf", replace
+{txt}
+{com}. 
+. 
+. 
+. 
+. *****************
+. * total deaths, 3 scenarios
+. 
+. 
+. ****
+. * 32 total deaths, national, subnational, separate, 3 scenarios 
+. 
+. levelsof provincestate, local(levels)
+{txt}`" National"' `"Alberta"' `"British Columbia"' `"Manitoba"' `"Nova Scotia"' `"Ontario"' `"Quebec"' `"Saskatchewan"'
+
+{com}. 
+. foreach l of local levels {c -(}
+{txt}  2{com}. 
+. twoway ///
+> (line TotDeaMeSmA02S01 date, sort lcolor(black) lwidth(vthick) lpattern(tight_dot)) ///
+> (line TotDeaMeSmA02S02 date, sort lcolor(green)) ///
+> (line TotDeaMeSmA02S03 date, sort lcolor(red)) ///
+> if date >= td(01jan2020) & provincestate == "`l'" ///
+> , xtitle(Date) xlabel(#20, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+> xlabel(, angle(forty_five)) ylabel(, format(%12.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
+> ytitle(Total deaths) title("COVID-19 total deaths, $country, `l', IHME, 3 scenarios", size(medium)) ///
+> xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
+> legend(order(1 "S1" 2 "S2" 3 "S3") rows(1)) 
+{txt}  3{com}. 
+. qui qui graph save "graph 32 COVID-19 total deaths, $country, `l', IHME, reference scenario.gph", replace
+{txt}  4{com}. qui qui graph export "graph 32 COVID-19 total deaths, $country, `l', IHME, reference scenario.pdf", replace
+{txt}  5{com}. 
+. {c )-}
+{res}{txt}
+{com}. *
+. 
+. 
+. 
+. 
+. 
+. *****************
+. * 33 total deaths, national, subnational, separate, best scenario = S2
+. 
+. levelsof provincestate, local(levels)
+{txt}`" National"' `"Alberta"' `"British Columbia"' `"Manitoba"' `"Nova Scotia"' `"Ontario"' `"Quebec"' `"Saskatchewan"'
+
+{com}. 
+. foreach l of local levels {c -(}
+{txt}  2{com}. 
+. twoway (rarea TotDeaLoSmA02S02 TotDeaUpSmA02S02 date, sort color(green*.2)) ///
+> (line TotDeaMeSmA02S02 date, sort lcolor(green)) ///
+> if provincestate == "`l'" & TotDeaMeSmA02S01 != ., legend(off) ///         
+> xtitle(Date) xlabel(#20, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+> xlabel(, angle(forty_five)) ylabel(, format(%9.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
+> ytitle(total deaths) title("COVID-19 total deaths, $country, `l', IHME, best scenario", size(medium)) ///
+> xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
+> subtitle("with confidence limits", size(small)) 
+{txt}  3{com}.            
+. qui qui graph save "graph 33 COVID-19 total deaths, $country, `l', IHME, best scenario.gph", replace
+{txt}  4{com}. qui qui graph export "graph 33 COVID-19 total deaths, $country, `l', IHME, best scenario.pdf", replace
+{txt}  5{com}. 
+. {c )-}
+{res}{txt}
+{com}. *
+. 
+. 
+. 
+. 
+. 
+. 
+. *****************
+. * 34 total deaths, national, subnational, separate, worse scenario = S3
+. 
+. levelsof provincestate, local(levels)
+{txt}`" National"' `"Alberta"' `"British Columbia"' `"Manitoba"' `"Nova Scotia"' `"Ontario"' `"Quebec"' `"Saskatchewan"'
+
+{com}. 
+. foreach l of local levels {c -(}
+{txt}  2{com}. 
+. twoway (rarea TotDeaLoSmA02S03 TotDeaUpSmA02S03 date, sort color(green*.2)) ///
+> (line TotDeaMeSmA02S03 date, sort lcolor(green)) ///
+> if provincestate == "`l'" & TotDeaMeSmA02S01 != ., legend(off) ///         
+> xtitle(Date) xlabel(#20, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+> xlabel(, angle(forty_five)) ylabel(, format(%9.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
+> ytitle(total deaths) title("COVID-19 total deaths, $country, `l', IHME, worse scenario", size(medium)) ///
+> xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
+> subtitle("with confidence limits", size(small)) 
+{txt}  3{com}.            
+. qui qui graph save "graph 34 COVID-19 total deaths, $country, `l', IHME, worse scenario.gph", replace
+{txt}  4{com}. qui qui graph export "graph 34 COVID-19 total deaths, $country, `l', IHME, worse scenario.pdf", replace
+{txt}  5{com}. 
+. {c )-}
+{res}{txt}
+{com}. *
+. 
+. 
+. 
+. 
+. 
+. 
+. *****************
+. * total cases, reference scenario = S1  (graph numbers starting with 41)
+. 
+. 
+. ****
+. * 41 a total cases, national, all subnational, reference scenario = S1 
+. 
+. twoway ///
+> (line TotCasMeRaA02S01XAB date, sort lwidth(medium) lcolor(cyan)) /// 1 "AB" cyan
+> (line TotCasMeRaA02S01XBC date, sort lwidth(medium) lcolor(blue)) /// 2 "BC" blue
+> (line TotCasMeRaA02S01XMB date, sort lwidth(medium) lcolor(lime)) /// 3 "MB" lime
+> (line TotCasMeRaA02S01XNS date, sort lwidth(medium) lcolor(magenta)) /// 4 "NS" magenta
+> (line TotCasMeRaA02S01XNL date, sort lwidth(medium) lcolor(gray)) /// 5 "NL"
+> (line TotCasMeRaA02S01XNS date, sort lwidth(medium) lcolor(magenta)) /// 6 "NS" magenta
+> (line TotCasMeRaA02S01XON date, sort lwidth(medium) lcolor(red)) /// 7 "ON" red
+> (line TotCasMeRaA02S01XQC date, sort lwidth(medium) lcolor(black)) /// 8 "QC" black
+> (line TotCasMeRaA02S01XSK date, sort lwidth(medium) lcolor(orange)) /// 9 "SK" orange
+> (line TotCasMeRaA02S01XXX date, sort lwidth(thick) lcolor(gray)) /// 10 "CAN" 
+> , xtitle(Date) xlabel(#20, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+> xlabel(, angle(forty_five)) ylabel(, format(%9.0fc) labsize(small))  ylabel(, labsize(small) angle(forty_five)) ///
+> ytitle(Total cases) title("COVID-19 total cases, $country, IHME, reference scenario", size(medium)) ///
+> xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
+> legend(order(1 "AB" 2 "BC" 3 "MB" 5 "NL" 6 "NS" 7 "ON" 8 "QC" 9 "SK" 10 "CAN") rows(2) size(small)) ///
+> subtitle("All provinces avilable in IHME", size(small)) 
+{res}{txt}
+{com}. 
+. qui graph save "graph 41 a COVID-19 total cases, $country, subnational, IHME, reference scenario.gph", replace
+{txt}
+{com}. qui graph export "graph 41 a COVID-19 total cases, $country, subnational, IHME, reference scenario.pdf", replace
+{txt}
+{com}. 
+. 
+. 
+. 
+. ****
+. * 41 b total cases, subnational, most affected, reference scenario = S1 
+. * Alberta (AB), British Columbia (BC), Manitoba (MB), Ontario (ON), Quebec (QC)
+. 
+. twoway ///
+> (line TotCasMeRaA02S01XAB date, sort lwidth(medium) lcolor(cyan)) /// 1 "AB" cyan
+> (line TotCasMeRaA02S01XBC date, sort lwidth(medium) lcolor(blue)) /// 2 "BC" blue
+> (line TotCasMeRaA02S01XMB date, sort lwidth(medium) lcolor(lime)) /// 3 "MB" lime
+> (line TotCasMeRaA02S01XON date, sort lwidth(medium) lcolor(red)) /// 4 "ON" red
+> (line TotCasMeRaA02S01XQC date, sort lwidth(medium) lcolor(black)) /// 5 "QC" black
+> (line TotCasMeRaA02S01XXX date, sort lwidth(thick) lcolor(gray)) /// 6 "CAN" 
+> , xtitle(Date) xlabel(#20, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+> xlabel(, angle(forty_five)) ylabel(, format(%9.0fc) labsize(small))  ylabel(, labsize(small) angle(forty_five)) ///
+> ytitle(Total cases) title("COVID-19 total cases, $country, IHME, reference scenario", size(medium)) ///
+> xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
+> legend(order(1 "AB" 2 "BC" 3 "MB" 4 "ON" 5 "QC" 6 "CAN") rows(1) size(small)) ///
+> subtitle("5 most affected provinces", size(small)) 
+{res}{txt}
+{com}. 
+. qui graph save "graph 41 b COVID-19 total cases, $country, subnational, most affected, IHME, reference scenario.gph", replace
+{txt}
+{com}. qui graph export "graph 41 b COVID-19 total cases, $country, subnational, most affected, IHME, reference scenario.pdf", replace
+{txt}
+{com}. 
+. 
+. 
+. 
+. ****
+. * 41 c total cases, national, subnational, separate, reference scenario = S1 
+. 
+. levelsof provincestate, local(levels)
+{txt}`" National"' `"Alberta"' `"British Columbia"' `"Manitoba"' `"Nova Scotia"' `"Ontario"' `"Quebec"' `"Saskatchewan"'
+
+{com}. 
+. foreach l of local levels {c -(}
+{txt}  2{com}. 
+. twoway (rarea TotCasLoRaA02S01 TotCasUpRaA02S01 date, sort color(green*.2)) ///
+> (line TotCasMeRaA02S01 date, sort lcolor(green)) ///
+> if provincestate == "`l'" & TotCasMeRaA02S01 != ., legend(off) ///         
+> xtitle(Date) xlabel(#20, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+> xlabel(, angle(forty_five)) ylabel(, format(%9.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
+> ytitle(Total cases) title("COVID-19 total cases, $country, `l', IHME, reference scenario", size(medium)) ///
+> xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
+> subtitle("with confidence limits", size(small)) 
+{txt}  3{com}.            
+. qui qui graph save "graph 41 c COVID-19 total cases, $country, `l', IHME, reference scenario.gph", replace
+{txt}  4{com}. qui qui graph export "graph 41 c COVID-19 total cases, $country, `l', IHME, reference scenario.pdf", replace
+{txt}  5{com}. 
+. {c )-}
+{res}{txt}
+{com}. *
+. 
+. 
+. 
+. * total cases, best scenario = S2, CI, not available
+.  
+. 
+. * total cases, worse scenario = S3, CI, not available
+. 
+. 
+. 
+. 
+. 
+. 
+.   
+. 
+. *****************
+. * daily CFR, reference scenario = S1  (graph numbers starting with 51)
+. 
+. 
+. ****
+. * 51 a daily CFR, national, all subnational, reference scenario = S1 
+. 
+. twoway ///
+> (line DayCfrMeRaA02S01XAB date, sort lwidth(medium) lcolor(cyan)) /// 1 "AB" cyan
+> (line DayCfrMeRaA02S01XBC date, sort lwidth(medium) lcolor(blue)) /// 2 "BC" blue
+> (line DayCfrMeRaA02S01XMB date, sort lwidth(medium) lcolor(lime)) /// 3 "MB" lime
+> (line DayCfrMeRaA02S01XNS date, sort lwidth(medium) lcolor(magenta)) /// 4 "NS" magenta
+> (line DayCfrMeRaA02S01XNL date, sort lwidth(medium) lcolor(gray)) /// 5 "NL"
+> (line DayCfrMeRaA02S01XNS date, sort lwidth(medium) lcolor(magenta)) /// 6 "NS" magenta
+> (line DayCfrMeRaA02S01XON date, sort lwidth(medium) lcolor(red)) /// 7 "ON" red
+> (line DayCfrMeRaA02S01XQC date, sort lwidth(medium) lcolor(black)) /// 8 "QC" black
+> (line DayCfrMeRaA02S01XSK date, sort lwidth(medium) lcolor(orange)) /// 9 "SK" orange
+> (line DayCfrMeRaA02S01XXX date, sort lwidth(thick) lcolor(gray)) /// 10 "CAN" 
+> if DayCfrMeRaA02S01XAB >= 0 ///
+> , xtitle(Date) xlabel(#20, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+> xlabel(, angle(forty_five)) ylabel(, format(%9.0fc) labsize(small))  ylabel(, labsize(small) angle(forty_five)) ///
+> ytitle(Daily CFR) title("COVID-19 daily CFR, $country, IHME, reference scenario", size(medium)) ///
+> xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
+> legend(order(1 "AB" 2 "BC" 3 "MB" 5 "NL" 6 "NS" 7 "ON" 8 "QC" 9 "SK" 10 "CAN") rows(2) size(small)) ///
+> subtitle("All provinces avilable in IHME", size(small)) 
+{res}{txt}
+{com}. 
+. qui graph save "graph 51 a COVID-19 daily CFR, $country, subnational, IHME, reference scenario.gph", replace
+{txt}
+{com}. qui graph export "graph 51 a COVID-19 daily CFR, $country, subnational, IHME, reference scenario.pdf", replace
+{txt}
+{com}. 
+. 
+. 
+. 
+. ****
+. * 51 b daily CFR, subnational, most affected, reference scenario = S1 
+. * Alberta (AB), British Columbia (BC), Manitoba (MB), Ontario (ON), Quebec (QC)
+. 
+. twoway ///
+> (line DayCfrMeRaA02S01XAB date, sort lwidth(medium) lcolor(cyan)) /// 1 "AB" cyan
+> (line DayCfrMeRaA02S01XBC date, sort lwidth(medium) lcolor(blue)) /// 2 "BC" blue
+> (line DayCfrMeRaA02S01XMB date, sort lwidth(medium) lcolor(lime)) /// 3 "MB" lime
+> (line DayCfrMeRaA02S01XON date, sort lwidth(medium) lcolor(red)) /// 4 "ON" red
+> (line DayCfrMeRaA02S01XQC date, sort lwidth(medium) lcolor(black)) /// 5 "QC" black
+> (line DayCfrMeRaA02S01XXX date, sort lwidth(thick) lcolor(gray)) /// 6 "CAN" 
+> if DayCfrMeRaA02S01XAB >= 0 ///
+> , xtitle(Date) xlabel(#20, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+> xlabel(, angle(forty_five)) ylabel(, format(%9.0fc) labsize(small))  ylabel(, labsize(small) angle(forty_five)) ///
+> ytitle(Daily CFR) title("COVID-19 daily CFR, $country, IHME, reference scenario", size(medium)) ///
+> xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
+> legend(order(1 "AB" 2 "BC" 3 "MB" 4 "ON" 5 "QC"  6 "CAN") rows(1) size(small)) ///
+> subtitle("5 most affected provinces", size(small)) 
+{res}{txt}
+{com}. 
+. qui graph save "graph 51 b COVID-19 daily CFR, $country, subnational, most affected, IHME, reference scenario.gph", replace
+{txt}
+{com}. qui graph export "graph 51 b COVID-19 daily CFR, $country, subnational, most affected, IHME, reference scenario.pdf", replace
+{txt}
+{com}. 
+. 
+. 
+. 
+. ****
+. * 51 c daily CFR, national, subnational, separate, 3 scenarios
+. 
+. levelsof provincestate, local(levels)
+{txt}`" National"' `"Alberta"' `"British Columbia"' `"Manitoba"' `"Nova Scotia"' `"Ontario"' `"Quebec"' `"Saskatchewan"'
+
+{com}. 
+. foreach l of local levels {c -(}
+{txt}  2{com}. 
+. twoway ///
+> (line DayCfrMeRaA02S01 date, sort lcolor(black)) ///
+> (line DayCfrMeRaA02S02 date, sort lcolor(green)) ///
+> (line DayCfrMeRaA02S03 date, sort lcolor(red)) ///
+> if provincestate == "`l'" & DayCfrMeRaA02S01 >= 0 & DayCfrLoRaA02S01 >= 0 & DayCfrUpRaA02S01 >= 0, legend(off) ///         
+> xtitle(Date) xlabel(#20, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+> xlabel(, angle(forty_five)) ylabel(, format(%9.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
+> ytitle(Daily CFR) title("COVID-19 daily CFR, $country, `l', IHME, 3 scenarios", size(medium)) ///
+> xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
+> legend(order(1 "S1" 2 "S2" 3 "S3") rows(1)) 
+{txt}  3{com}.            
+. qui qui graph save "graph 51 c COVID-19 daily CFR, $country, `l', IHME, 3 scenarios.gph", replace
+{txt}  4{com}. qui qui graph export "graph 51 c COVID-19 daily CFR, $country, `l', IHME, 3 scenarios.pdf", replace
+{txt}  5{com}. 
+. {c )-}
+{res}{txt}
+{com}. *
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. * other outcomes 
+. 
+. 
+. ******
+. * 61 daily beds needed, only in S1
+. 
+. levelsof provincestate, local(levels)
+{txt}`" National"' `"Alberta"' `"British Columbia"' `"Manitoba"' `"Nova Scotia"' `"Ontario"' `"Quebec"' `"Saskatchewan"'
+
+{com}. 
+. foreach l of local levels {c -(}
+{txt}  2{com}. 
+. twoway (rarea DayBedLoSmA02S01 DayBedUpSmA02S01 date, sort color(black*.2)) ///
+> (line DayBedMeSmA02S01 date, sort lcolor(black)) ///
+> if provincestate == "`l'" & date >= td(01jan2020) ///
+> , xtitle(Date) xlabel(#20, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+> xlabel(, angle(forty_five)) ylabel(, format(%12.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
+> ytitle(Daily beds needed) title("COVID-19 daily beds needed, $country, `l', IHME, S1", size(medium)) ///
+> xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(off) ///
+> subtitle("Reference scenario (S1)", size(small))  
+{txt}  3{com}. 
+. qui graph save "graph 61 COVID-19 daily beds needed, $country, `l', IHME, reference scenario", replace
+{txt}  4{com}. qui graph export "graph 61 COVID-19 daily beds needed, $country, `l', IHME, reference scenario.pdf", replace
+{txt}  5{com}. 
+. {c )-}
+{res}{txt}
+{com}. *
+. 
+. 
+. 
+. 
+. ******
+. * 62 daily ICU beds needed, only in S1
+. 
+. levelsof provincestate, local(levels)
+{txt}`" National"' `"Alberta"' `"British Columbia"' `"Manitoba"' `"Nova Scotia"' `"Ontario"' `"Quebec"' `"Saskatchewan"'
+
+{com}. 
+. foreach l of local levels {c -(}
+{txt}  2{com}. 
+. twoway (rarea DayIcuLoSmA02S01 DayIcuUpSmA02S01 date, sort color(black*.2)) ///
+> (line DayIcuMeSmA02S01 date, sort lcolor(black)) ///
+> if provincestate == "`l'" & date >= td(01jan2020) ///
+> , xtitle(Date) xlabel(#20, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+> xlabel(, angle(forty_five)) ylabel(, format(%12.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
+> ytitle(Daily beds needed) title("COVID-19 ICU beds needed, $country, `l', IHME, S1", size(medium)) ///
+> xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(off) ///
+> subtitle("Reference scenario (S1)", size(small))  
+{txt}  3{com}. 
+. qui graph save "graph 62 COVID-19 daily beds needed, $country, `l', IHME, reference scenario", replace
+{txt}  4{com}. qui graph export "graph 62 COVID-19 daily beds needed, $country, `l', IHME, reference scenario.pdf", replace
+{txt}  5{com}. 
+. {c )-}
+{res}{txt}
+{com}. *
+. 
+. 
+. 
+. /*
+> 
+> ******
+> * 63 daily Invasive ventilation needed, only in S1
+> 
+> levelsof provincestate, local(levels)
+> 
+> foreach l of local levels {c -(}
+> 
+> twoway (rarea DayVenLoSmA02S01 DayVenUpSmA02S01 date, sort color(black*.2)) ///
+> (line DayVenMeSmA02S01 date, sort lcolor(black)) ///
+> if provincestate == "`l'" & date >= td(01jan2020) ///
+> , xtitle(Date) xlabel(#20, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+> xlabel(, angle(forty_five)) ylabel(, format(%12.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
+> ytitle(Daily beds needed) title("COVID-19 invasive ventilation needed, $country, `l', IHME, S1", size(medium)) ///
+> xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(off) ///
+> subtitle("Reference scenario (S1)", size(small))  
+> 
+> qui graph save "graph 63 COVID-19 daily invasive ventilation needed, $country, `l', IHME, reference scenario", replace
+> qui graph export "graph 63 COVID-19 daily invasive ventilation needed, $country, `l', IHME, reference scenario".pdf", replace
+> 
+> {c )-}
+> *
+> */
+. 
+. 
+. 
+. 
+. * 64 daily hospital admissions, only in S1
+. 
+. levelsof provincestate, local(levels)
+{txt}`" National"' `"Alberta"' `"British Columbia"' `"Manitoba"' `"Nova Scotia"' `"Ontario"' `"Quebec"' `"Saskatchewan"'
+
+{com}. 
+. foreach l of local levels {c -(}
+{txt}  2{com}. 
+. twoway (rarea DayAdmLoSmA02S01 DayAdmUpSmA02S01 date, sort color(black*.2)) ///
+> (line DayAdmMeSmA02S01 date, sort lcolor(black)) ///
+> if provincestate == "`l'" & date >= td(01jan2020) ///
+> , xtitle(Date) xlabel(#20, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+> xlabel(, angle(forty_five)) ylabel(, format(%12.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
+> ytitle(Daily hospital admissions) title("COVID-19 daily hospital admissions, $country, `l', IHME, S1", size(medium)) ///
+> xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(off) ///
+> subtitle("Reference scenario (S1)", size(small))  
+{txt}  3{com}.            
+. qui graph save "graph 64 COVID-19 daily hospital admissions, $country, `l', IHME, reference scenario.gph", replace
+{txt}  4{com}. qui graph export "graph 64 COVID-19 daily hospital admissions, $country, `l', IHME, reference scenario.pdf", replace
+{txt}  5{com}. 
+. {c )-}
+{res}{txt}
+{com}. *
+. 
+. 
+. 
+. 
+. 
+. 
+. * 65 daily new people going to ICU
+. 
+. levelsof provincestate, local(levels)
+{txt}`" National"' `"Alberta"' `"British Columbia"' `"Manitoba"' `"Nova Scotia"' `"Ontario"' `"Quebec"' `"Saskatchewan"'
+
+{com}. 
+. foreach l of local levels {c -(}
+{txt}  2{com}. 
+. twoway (rarea DayIcnLoSmA02S01 DayIcnUpSmA02S01 date, sort color(black*.2)) ///
+> (line DayIcnMeSmA02S01 date, sort lcolor(black)) ///
+> if provincestate == "`l'" & date >= td(01jan2020) ///
+> , xtitle(Date) xlabel(#20, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+> xlabel(, angle(forty_five)) ylabel(, format(%12.0fc) labsize(small)) ylabel(, labsize(small) angle(horizontal)) ///
+> ytitle(Daily new people going to ICU) title("COVID-19 daily new people to ICU $country, `l', IHME, S1", size(medium)) ///
+> xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(off) ///
+> subtitle("Reference scenario (S1)", size(small))  
+{txt}  3{com}. 
+. qui graph save "graph 65 COVID-19 daily new people going to ICU, $country, `l', IHME, reference scenario.gph", replace
+{txt}  4{com}. qui graph export "graph 65 COVID-19 daily new people going to ICU, $country, `l', IHME, reference scenario.pdf", replace
+{txt}  5{com}. 
+. {c )-}
+{res}{txt}
+{com}. *
+. 
+. 
+. 
+. 
+. 
+. * 66 total tests
+. 
+. levelsof provincestate, local(levels)
+{txt}`" National"' `"Alberta"' `"British Columbia"' `"Manitoba"' `"Nova Scotia"' `"Ontario"' `"Quebec"' `"Saskatchewan"'
+
+{com}. 
+. foreach l of local levels {c -(}
+{txt}  2{com}. 
+. twoway ///
+> (line TotTesMeSmA02S01 date, sort lcolor(black)) ///
+> (line TotTesMeSmA02S02 date, sort lcolor(green)) ///
+> (line TotTesMeSmA02S03 date, sort lcolor(red)) ///
+> if provincestate == "`l'" & date >= td(01jan2020) ///
+> , xtitle(Date) xlabel(#20, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+> xlabel(, angle(forty_five)) ylabel(, format(%12.2fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
+> ytitle(Total tests) title("COVID-19 total tests, $country, `l', IHME, 3 scenarios", size(medium)) ///
+> xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
+> legend(order(1 "S1" 2 "S2" 3 "S3") rows(1)) 
+{txt}  3{com}. 
+. qui graph save "graph 66 COVID-19 total tests, $country, `l', 3 scenarios, IHME.gph", replace
+{txt}  4{com}. qui graph export "graph 66 COVID-19 total tests, $country, `l', 3 scenarios, IHME.pdf", replace
+{txt}  5{com}. 
+. {c )-}
+{res}{txt}
+{com}. *
+. 
+. 
+. 
+. 
+. * 67 daily hospital-related outcomes
+. 
+. levelsof provincestate, local(levels)
+{txt}`" National"' `"Alberta"' `"British Columbia"' `"Manitoba"' `"Nova Scotia"' `"Ontario"' `"Quebec"' `"Saskatchewan"'
+
+{com}. 
+. foreach l of local levels {c -(}
+{txt}  2{com}. 
+. twoway ///
+> (line DayBedMeSmA02S01 date, sort lcolor(black)) ///
+> (line DayIcuMeSmA02S01 date, sort lcolor(green)) ///
+> (line DayAdmMeSmA02S01 date, sort lcolor(yellow)) ///
+> (line DayIcnMeSmA02S01 date, sort lcolor(blue)) ///
+> if provincestate == "`l'" & date >= td(01jan2020) ///
+> , xtitle(Date) xlabel(#20, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+> xlabel(, angle(forty_five)) ylabel(, format(%12.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
+> ytitle(Daily outcomes) title("COVID-19 hospital-rel. outcomes, $country, `l', IHME, S1", size(medium)) ///
+> xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
+> legend(order(1 "COVID beds needed" 2 "ICU COVID beds needed" 3 "Admissions" 4 "New people to ICU") rows(2)) ///
+> subtitle("Hospital-related outcomes, reference scenario (S1)", size(small))  
+{txt}  3{com}. 
+. qui graph save "graph 67 COVID-19 daily hospital-related outcomes, $country, `l', reference scenario, IHME.gph", replace
+{txt}  4{com}. qui graph export "graph 67 COVID-19 daily hospital-related outcomes, $country, `l', reference scenario, IHME.pdf", replace
+{txt}  5{com}. 
+. {c )-}
+{res}{txt}
+{com}. *
+. 
+. 
+. 
+. 
+. 
+. * 68 daily hospital-related outcomes, wo beds needed 
+. 
+. levelsof provincestate, local(levels)
+{txt}`" National"' `"Alberta"' `"British Columbia"' `"Manitoba"' `"Nova Scotia"' `"Ontario"' `"Quebec"' `"Saskatchewan"'
+
+{com}. 
+. foreach l of local levels {c -(}
+{txt}  2{com}. 
+. twoway ///
+> (line DayIcuMeSmA02S01 date, sort lcolor(green)) ///
+> (line DayAdmMeSmA02S01 date, sort lcolor(yellow)) ///
+> (line DayIcnMeSmA02S01 date, sort lcolor(blue)) ///
+> if provincestate == "`l'" & date >= td(01jan2020) ///
+> , xtitle(Date) xlabel(#20, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+> xlabel(, angle(forty_five)) ylabel(, format(%12.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
+> ytitle(Daily outcomes) title("COVID-19 hospital-rel. outcomes, $country, `l', IHME, S1", size(medium)) ///
+> xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
+> legend(order(1 "ICU COVID beds needed" 2 "Admissions" 3 "New people to ICU") rows(1)) ///
+> subtitle("Hospital-related outcomes, without beds needed, reference scenario (S1)", size(small)) 
+{txt}  3{com}. 
+. qui graph save "graph 68 COVID-19 daily hospital-related outcomes, $country, `l', reference scenario, IHME, wo beds needed.gph", replace
+{txt}  4{com}. qui graph export "graph 68 COVID-19 daily hospital-related outcomes, $country, `l', reference scenario, IHME, wo beds needed.pdf", replace
+{txt}  5{com}. 
+. {c )-}
+{res}{txt}
+{com}. *
+. 
+. 
+. 
+. 
+. 
+. * rates
+. 
+. * 70 daily deaths raw per 100k rate
+. 
+. levelsof provincestate, local(levels)
+{txt}`" National"' `"Alberta"' `"British Columbia"' `"Manitoba"' `"Nova Scotia"' `"Ontario"' `"Quebec"' `"Saskatchewan"'
+
+{com}. 
+. foreach l of local levels {c -(}
+{txt}  2{com}. 
+. twoway ///
+> (line dea_me_rate date, sort lcolor(black)) /// deaths_mean_p100k_rate
+> (line dea_lo_rate date, sort lcolor(green)) /// deaths_lower_p100k_rate
+> (line dea_up_rate date, sort lcolor(red)) /// deaths_upper_p100k_rate
+> if provincestate == "`l'" & date >= td(01jan2020) ///
+> , xtitle(Date) xlabel(#20, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+> xlabel(, angle(forty_five)) ylabel(, format(%9.2fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
+> ytitle(Daily deaths per 100k rate) title("COVID-19 daily deaths raw / 100k rate, $country, `l', IHME", size(medium)) ///
+> xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
+> legend(order(1 "Mean" 2 "Lower" 3 "Upper") rows(1))
+{txt}  3{com}. 
+. qui graph save "graph 70 COVID-19 daily deaths raw per 100k rate, $country, `l', IHME.gph", replace
+{txt}  4{com}. qui graph export "graph 70 COVID-19 daily deaths raw per 100k rate, $country, `l', IHME.pdf", replace
+{txt}  5{com}. 
+. {c )-}
+{res}{txt}
+{com}. *
+. 
+. 
+. 
+. 
+. 
+. * 71 daily deaths smoothed per 100k rate
+. 
+. levelsof provincestate, local(levels)
+{txt}`" National"' `"Alberta"' `"British Columbia"' `"Manitoba"' `"Nova Scotia"' `"Ontario"' `"Quebec"' `"Saskatchewan"'
+
+{com}. 
+. foreach l of local levels {c -(}
+{txt}  2{com}. 
+. twoway ///
+> (line dea_me_sm_rate date, sort lcolor(black)) /// deaths_mean_smoothed_p100k_rate
+> (line dea_lo_sm_rate date, sort lcolor(green)) /// deaths_lower_smoothed_p100k_rate
+> (line dea_up_sm_rate date, sort lcolor(red)) /// deaths_upper_smoothed_p100k_rate
+> if provincestate == "`l'" & date >= td(01jan2020) ///
+> , xtitle(Date) xlabel(#20, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+> xlabel(, angle(forty_five)) ylabel(, format(%9.2fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
+> ytitle(Daily deaths per 100k rate) title("COVID-19 daily deaths smoothed / 100k rate, $country, `l', IHME", size(medium)) ///
+> xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
+> legend(order(1 "Mean" 2 "Lower" 3 "Upper") rows(1))
+{txt}  3{com}. 
+. qui graph save "graph 71 COVID-19 daily deaths smoothed per 100k rate, $country, `l', IHME.gph", replace
+{txt}  4{com}. qui graph export "graph 71 COVID-19 daily deaths smoothed per 100k rate, $country, `l', IHME.pdf", replace
+{txt}  5{com}. 
+. {c )-}
+{res}{txt}
+{com}. *
+. 
+. 
+. 
+. 
+. 
+. * 72 total deaths raw per 100k rate
+. 
+. levelsof provincestate, local(levels)
+{txt}`" National"' `"Alberta"' `"British Columbia"' `"Manitoba"' `"Nova Scotia"' `"Ontario"' `"Quebec"' `"Saskatchewan"'
+
+{com}. 
+. foreach l of local levels {c -(}
+{txt}  2{com}. 
+. twoway ///
+> (line totdea_me_rate date, sort lcolor(black)) /// totdea_mean_p100k_rate
+> (line totdea_lo_rate date, sort lcolor(green)) /// totdea_lower_p100k_rate
+> (line totdea_up_rate date, sort lcolor(red)) /// totdea_upper_p100k_rate
+> if provincestate == "`l'" & date >= td(01jan2020) ///
+> , xtitle(Date) xlabel(#20, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+> xlabel(, angle(forty_five)) ylabel(, format(%12.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
+> ytitle(Total deaths per 100k rate) title("COVID-19 total deaths raw / 100k rate, $country, `l', IHME", size(medium)) ///
+> xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
+> legend(order(1 "Mean" 2 "Lower" 3 "Upper") rows(1))
+{txt}  3{com}. 
+. qui graph save "graph 72 COVID-19 total deaths raw per 100k rate, $country, `l', IHME.gph", replace
+{txt}  4{com}. qui graph export "graph 72 COVID-19 total deaths raw per 100k rate, $country, `l', IHME.pdf", replace
+{txt}  5{com}. 
+. {c )-}
+{res}{txt}
+{com}. *
+. 
+. 
+. 
+. 
+. 
+. * 73 total deaths smoothed per 100k rate
+. 
+. levelsof provincestate, local(levels)
+{txt}`" National"' `"Alberta"' `"British Columbia"' `"Manitoba"' `"Nova Scotia"' `"Ontario"' `"Quebec"' `"Saskatchewan"'
+
+{com}. 
+. foreach l of local levels {c -(}
+{txt}  2{com}. 
+. twoway ///
+> (line totdea_me_sm_rate date, sort lcolor(black)) /// totdea_mean_smoothed_p100k_rate
+> (line totdea_lo_sm_rate date, sort lcolor(green)) /// totdea_lower_smoothed_p100k_rate
+> (line totdea_up_sm_rate date, sort lcolor(red)) /// totdea_upper_smoothed_p100k_rate
+> if provincestate == "`l'" & date >= td(01jan2020) ///
+> , xtitle(Date) xlabel(#20, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+> xlabel(, angle(forty_five)) ylabel(, format(%12.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
+> ytitle(Total deaths per 100k rate) title("COVID-19 total deaths smoothed / 100k rate, $country, `l', IHME", size(medium)) ///
+> xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
+> legend(order(1 "Mean" 2 "Lower" 3 "Upper") rows(1))
+{txt}  3{com}. 
+. qui graph save "graph 73 COVID-19 total deaths smoothed per 100k rate, $country, `l', IHME.gph", replace
+{txt}  4{com}. qui graph export "graph 73 COVID-19 total deaths smoothed per 100k rate, $country, `l', IHME.pdf", replace
+{txt}  5{com}. 
+. {c )-}
+{res}{txt}
+{com}. *
+. 
+. 
+. 
+. 
+. 
+. * 74 estimated infections per 100k rate
+. 
+. levelsof provincestate, local(levels)
+{txt}`" National"' `"Alberta"' `"British Columbia"' `"Manitoba"' `"Nova Scotia"' `"Ontario"' `"Quebec"' `"Saskatchewan"'
+
+{com}. 
+. foreach l of local levels {c -(}
+{txt}  2{com}. 
+. twoway ///
+> (line est_inf_me_rate date, sort lcolor(black)) /// est_infections_mean_p100k_rate
+> (line est_inf_lo_rate date, sort lcolor(green)) /// est_infections_lower_p100k_rate
+> (line est_inf_up_rate date, sort lcolor(red)) /// est_infections_upper_p100k_rate
+> if provincestate == "`l'" & date >= td(01jan2020) ///
+> , xtitle(Date) xlabel(#20, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+> xlabel(, angle(forty_five)) ylabel(, format(%12.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
+> ytitle(Estimated infections per 100k rate) title("COVID-19 estimated infections / 100k rate, $country, `l', IHME", size(medium)) ///
+> xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
+> legend(order(1 "Mean" 2 "Lower" 3 "Upper") rows(1)) 
+{txt}  3{com}. 
+. qui graph save "graph 74 COVID-19 estimated infections per 100k rate, $country, `l', IHME.gph", replace
+{txt}  4{com}. qui graph export "graph 74 COVID-19 estimated infections per 100k rate, $country, `l', IHME.pdf", replace
+{txt}  5{com}. 
+. {c )-}
+{res}{txt}
+{com}. *
+. 
+. 
+. 
+. 
+. 
+. * 75 confirmed infections per 100k rate
+. 
+. levelsof provincestate, local(levels)
+{txt}`" National"' `"Alberta"' `"British Columbia"' `"Manitoba"' `"Nova Scotia"' `"Ontario"' `"Quebec"' `"Saskatchewan"'
+
+{com}. 
+. foreach l of local levels {c -(}
+{txt}  2{com}. 
+. twoway ///
+> (line conf_inf_rate date, sort lcolor(black)) /// confirmed_infections_p100k_rate
+> if provincestate == "`l'" & date >= td(01jan2020) ///
+> , xtitle(Date) xlabel(#20, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+> xlabel(, angle(forty_five)) ylabel(, format(%12.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
+> ytitle(Confirmed infections per 100k rate) title("COVID-19 confirmed infections / 100k rate, $country, `l', IHME", size(medium)) ///
+> xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
+> legend(off)
+{txt}  3{com}. 
+. qui graph save "graph 75 COVID-19 confirmed per 100k rate, $country, `l', IHME.gph", replace
+{txt}  4{com}. qui graph export "graph 75 COVID-19 confirmed per 100k rate, $country, `l', IHME.pdf", replace
+{txt}  5{com}. 
+. {c )-}
+{res}{txt}
+{com}. *
+. 
+. 
+. 
+. 
+. 
+. * 76 DayCas DayDea Dea_multip
+. 
+. levelsof provincestate, local(levels)
+{txt}`" National"' `"Alberta"' `"British Columbia"' `"Manitoba"' `"Nova Scotia"' `"Ontario"' `"Quebec"' `"Saskatchewan"'
+
+{com}. 
+. foreach l of local levels {c -(}
+{txt}  2{com}. 
+. twoway ///
+> (line DayCasMeRaA02S01 date, sort lcolor(blue)) ///
+> (line DayDeaMeRaA02S01 date, sort lcolor(red)) ///
+> (line DayDMuMeRaA02S01 date, sort lpattern(dot) lcolor(red)) ///
+> if provincestate == "`l'" & date >= td(01jan2020) ///
+> , xtitle(Date) xlabel(, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+> xlabel(, angle(forty_five)) ylabel(, format(%12.0fc) labsize(small)) ylabel(, labsize(small) angle(horizontal)) ///
+> ytitle(Daily cases and deaths) title("COVID-19 daily cases and deaths, $country, `l', IHME", size(medium)) ///
+> xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) yscale(titlegap(4)) legend(region(lcolor(none)))  ///
+> legend(order(1 "Daily cases" 2 "Daily deaths" 3 "Daily deaths scaled for visualization") size(small)) ///
+> subtitle("Daily deaths, scaled = times (means of cases divided by deaths) for visualization only", size(small)) ///
+> note("Reference scenario, mean estimate")
+{txt}  3{com}. 
+. qui graph save "graph 76 COVID-19 daily deaths and cases $country, `l', IHME.gph", replace
+{txt}  4{com}. qui graph export "graph 76 COVID-19 daily deaths and cases $country, `l', IHME.pdf", replace
+{txt}  5{com}. 
+. {c )-}
+{res}{txt}
+{com}. *
+. 
+. 
+. 
+. 
+. 
+. ****************
+. 
+. 
+. /*
+> 
+> population numbers used in death rates:
+> 
+> tab total_pop provincestate
+> 
+> Alberta                         4,253,022
+> British Columbia        4,925,475
+> Manitoba                        1,327,536
+> Nova Scotia                     941,991.4
+> Ontario                         14,200,000
+> Quebec                          8,227,897
+> Saskatchewan            1,138,791
+> National                        36,500,000
+> 
+> */
+. 
+. 
+. 
+. view "log CovidVisualizedCountry IHME.smcl"
+{txt}
+{com}. 
+. log close
+      {txt}name:  {res}<unnamed>
+       {txt}log:  {res}/Users/farshadpourmalek/Downloads/CovidVisualizedCountry-main/20210605/code/IHME/log CovidVisualizedCountry IHME.smcl
+  {txt}log type:  {res}smcl
+ {txt}closed on:  {res}19 Jun 2021, 11:02:59
+{txt}{.-}
+{smcl}
+{txt}{sf}{ul off}
