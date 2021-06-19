@@ -106,10 +106,9 @@
   
 **uptake 20210604**: DELP 20210604, **_IHME 20210604_**, IMPE 20210527, LANL 20210602, SRIV 20210604  
 
-(1) Canada [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/CAN%20SUB/CAN1%2011aDayDeaMERGnat%20alltime%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%20all%20time.pdf)
+(1) Canada [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/main/CAN1%2011aDayDeaMERGnat%20alltime%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/121780443-2ba7ad80-cb55-11eb-814d-3031f0df7b7f.png)
-  
+![image](https://user-images.githubusercontent.com/30849720/122648487-61f9a580-d0de-11eb-86fb-9b9e6eb4b926.png)
 *  
   
 **uptake 20210603**: DELP 20210602, IHME 20210528, **_IMPE 20210527_**, LANL 20210526, SRIV 20210603
@@ -158,9 +157,9 @@
   
 **uptake 20210604**: DELP 20210604, **_IHME 20210604_**, IMPE 20210527, LANL 20210602, SRIV 20210604  
 
-(2) Canada [Daily deaths, reference scenarios, 2011](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/CAN%20SUB/CAN2%2012aDayDeaMERGnat%202021%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%202021.pdf)
+(2) Canada [Daily deaths, reference scenarios, 2011](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/main/CAN2%2012aDayDeaMERGnat%202021%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%202021.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/121780520-922ccb80-cb55-11eb-9f7f-11eb1574b27e.png)
+![image](https://user-images.githubusercontent.com/30849720/122648521-7ccc1a00-d0de-11eb-8acc-02ad0a0e337c.png)
   
 *  
   
@@ -211,9 +210,9 @@
   
 **uptake 20210604**: DELP 20210604, **_IHME 20210604_**, IMPE 20210527, LANL 20210602, SRIV 20210604    
 
-(3) Canada [Daily deaths, 3 scenarios, 2011](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/CAN%20SUB/CAN3%2014aDayDeaMERGnat%202021%203%20scenarios%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20National%2C%203%20scenarios%2C%202021.pdf)
+(3) Canada [Daily deaths, 3 scenarios, 2011](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/main/CAN3%2014aDayDeaMERGnat%202021%203%20scenarios%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20National%2C%203%20scenarios%2C%202021.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/121780570-d15b1c80-cb55-11eb-99ab-d6dc0c17c910.png)
+![image](https://user-images.githubusercontent.com/30849720/122648535-94a39e00-d0de-11eb-9507-4b69edff2358.png)
   
 *  
   
@@ -261,11 +260,11 @@
   
 *  
   
-**uptake 20210604**: DELP 20210604, **_IHME 20210604_**, IMPE 20210527, LANL 20210602, SRIV 20210604      
+**uptake 20210604**: DELP 20210604, **_IHME 20210604_**, IMPE 20210527, LANL 20210602, SRIV 20210604   
+  
+(4) Canada [Daily cases, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/main/CAN4%2031aDayCasMERGnat%20alltime%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20National%2C%20reference%20scenarios.pdf)
 
-(4) Canada [Daily cases, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/CAN%20SUB/CAN4%2031aDayCasMERGnat%20alltime%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20National%2C%20reference%20scenarios.pdf)
-
-![image](https://user-images.githubusercontent.com/30849720/121780622-0d8e7d00-cb56-11eb-90cb-6b44f816af48.png)
+![image](https://user-images.githubusercontent.com/30849720/122648565-aedd7c00-d0de-11eb-8d49-a940dc385294.png)
   
 *  
   
@@ -317,9 +316,9 @@
   
 **uptake 20210604**: DELP 20210604, **_IHME 20210604_**, IMPE 20210527, LANL 20210602, SRIV 20210604        
 
-graph (5) Canada [Daily cases, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/CAN%20SUB/CAN5%2032aDayCasMERGnat%202021%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%202021.pdf)
+(5) Canada [Daily cases, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/main/CAN5%2032aDayCasMERGnat%202021%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%202021.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/121780660-37e03a80-cb56-11eb-8b31-30b230a5f4c3.png)
+![image](https://user-images.githubusercontent.com/30849720/122648592-c74d9680-d0de-11eb-8d59-57b63d9796d7.png)
   
 *  
   
@@ -372,9 +371,9 @@ graph (5) Canada [Daily cases, reference scenarios, 2021](https://github.com/pou
   
 **uptake 20210604**: DELP 20210604, **_IHME 20210604_**, IMPE 20210527, LANL 20210602, SRIV 20210604          
 
-(6) Canada [Daily cases, 3 scenarios, 2011](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/CAN%20SUB/CAN6%2034aDayCasMERGnat%202021%203scen%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20National%2C%203%20scenarios%2C%202021%2C%20uncertainty.pdf)
+(6) Canada [Daily cases, 3 scenarios, 2011](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/main/CAN6%2034aDayCasMERGnat%202021%203scen%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20National%2C%203%20scenarios%2C%202021%2C%20uncertainty.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/121780700-6231f800-cb56-11eb-89d0-0b5a8438142e.png)
+![image](https://user-images.githubusercontent.com/30849720/122648613-dfbdb100-d0de-11eb-992e-7c7bb32beb85.png)
   
 *  
   
@@ -426,9 +425,9 @@ graph (5) Canada [Daily cases, reference scenarios, 2021](https://github.com/pou
   
 **uptake 20210604**: DELP 20210604, **_IHME 20210604_**, IMPE 20210527, LANL 20210602, SRIV 20210604          
 
-(7) Canada [Hospital-related outcomes, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/CAN%20SUB/CAN7%2071aDayHosMERGnat%20%20alltime%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20National.pdf)
+(7) Canada [Hospital-related outcomes, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/main/CAN7%2071aDayHosMERGnat%20%20alltime%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20National.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/121780866-16cc1980-cb57-11eb-815d-438fb01b3bd4.png)
+![image](https://user-images.githubusercontent.com/30849720/122648639-f8c66200-d0de-11eb-930b-e81562d459db.png)
   
 *  
   
@@ -480,9 +479,9 @@ graph (5) Canada [Daily cases, reference scenarios, 2021](https://github.com/pou
   
 **uptake 20210604**: DELP 20210604, **_IHME 20210604_**, IMPE 20210527, LANL 20210602, SRIV 20210604          
 
-(8) Canada [Hospital-related outcomes, 2021, without IHME Bed need and IMPE Hospital demand](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/CAN%20SUB/CAN8%2073aDayHosMERGnat%202021%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20National%2C%20wo%20extremes%2C%202021.pdf)
+(8) Canada [Hospital-related outcomes, 2021, without IHME Bed need and IMPE Hospital demand](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/main/CAN8%2073aDayHosMERGnat%202021%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20National%2C%20wo%20extremes%2C%202021.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/121780943-6c082b00-cb57-11eb-978d-f7cb4b1b28f7.png)
+![image](https://user-images.githubusercontent.com/30849720/122648684-1693c700-d0df-11eb-8122-7b6afdd98bb4.png)
   
 *  
   
@@ -535,9 +534,9 @@ graph (5) Canada [Daily cases, reference scenarios, 2021](https://github.com/pou
   
 **uptake 20210604**: DELP 20210604, **_IHME 20210604_**, IMPE 20210527, LANL 20210602, SRIV 20210604          
   
-(9) Canada [Daily deaths estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/CAN%20SUB/CAN9%2092aDayDERMERGnat%202021%20-%20COVID-19%20daily%20deaths%20estimated%20to%20reported%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%202021.pdf)
+(9) Canada [Daily deaths estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/main/CAN9%2092aDayDERMERGnat%202021%20-%20COVID-19%20daily%20deaths%20estimated%20to%20reported%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%202021.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/121780989-a1ad1400-cb57-11eb-8664-fb04b10294bc.png)
+![image](https://user-images.githubusercontent.com/30849720/122648709-31663b80-d0df-11eb-826b-513b8caf2779.png)
   
 *  
   
@@ -589,9 +588,9 @@ graph (5) Canada [Daily cases, reference scenarios, 2021](https://github.com/pou
   
 **uptake 20210604**: DELP 20210604, **_IHME 20210604_**, IMPE 20210527, LANL 20210602, SRIV 20210604          
   
-(10) Canada [Daily cases estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/CAN%20SUB/CAN10%2094aDayCERMERGnat%202021%20-%20COVID-19%20daily%20cases%20estimated%20to%20reported%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%202021.pdf)
+(10) Canada [Daily cases estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/main/CAN10%2094aDayCERMERGnat%202021%20-%20COVID-19%20daily%20cases%20estimated%20to%20reported%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%202021.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/121781037-e042ce80-cb57-11eb-95b3-7a4874048f76.png)
+![image](https://user-images.githubusercontent.com/30849720/122648736-5b1f6280-d0df-11eb-9f2d-c6131f3bdead.png)
   
 *  
   
@@ -611,6 +610,14 @@ graph (5) Canada [Daily cases, reference scenarios, 2021](https://github.com/pou
 
 #### graph (11) Canada and provinces - Daily death rates, reference scenario, all time, IHME
   
+  
+*
+  
+**uptake 20210604**: DELP 20210604, **_IHME 20210604_**, IMPE 20210527, LANL 20210602, SRIV 20210604          
+  
+(11) Canada and provinces [Daily death rates, reference scenario, all time, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/main/CAN11%2019aDayDeaRATE%20alltime%20IHME%20-%20COVID-19%20daily%20death%20rate%2C%20Canada%2C%20subnational%2C%20IHME%2C%20reference%20scenario.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/122648768-74281380-d0df-11eb-9d1a-9c07ffde5ae1.png)
   
 *  
   
@@ -670,9 +677,9 @@ no IHME update added from previous uptake to this uptake; therefore the graphs a
   
 **uptake 20210604**: DELP 20210604, **_IHME 20210604_**, IMPE 20210527, LANL 20210602, SRIV 20210604    
 
-(1) British Columbia [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/CAN%20SUB/SUB1%2011bDayDeaMERGsub%20alltime%20British%20Columbia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%20all%20time.pdf)
+(1) British Columbia [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/main/SUB1%2011bDayDeaMERGsub%20alltime%20British%20Columbia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/121788297-0d57a700-cb81-11eb-8853-de4a7eebe656.png)
+![image](https://user-images.githubusercontent.com/30849720/122649025-bc940100-d0e0-11eb-8ced-4dbe830c8bd1.png)
   
 *  
   
@@ -724,9 +731,9 @@ no IHME update added from previous uptake to this uptake; therefore the graphs a
   
 **uptake 20210604**: DELP 20210604, **_IHME 20210604_**, IMPE 20210527, LANL 20210602, SRIV 20210604    
   
-(2) British Columbia [Daily deaths, reference scenarios, 2011](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/CAN%20SUB/SUB2%2012bDayDeaMERGsub%202021%20British%20Columbia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%202021.pdf)
+(2) British Columbia [Daily deaths, reference scenarios, 2011](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/main/SUB2%2012bDayDeaMERGsub%202021%20British%20Columbia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%202021.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/121788329-47c14400-cb81-11eb-9cab-c3923b66e92a.png)
+![image](https://user-images.githubusercontent.com/30849720/122649044-d5041b80-d0e0-11eb-9e2c-3b73ce15084f.png)
   
 *  
   
@@ -779,9 +786,9 @@ no IHME update added from previous uptake to this uptake; therefore the graphs a
   
 **uptake 20210604**: DELP 20210604, **_IHME 20210604_**, IMPE 20210527, LANL 20210602, SRIV 20210604    
 
-(3) British Columbia [Daily deaths, 3 scenarios, 2011](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/CAN%20SUB/SUB3%2014bDayDeaMERGsub%202021%203%20scenarios%20British%20Columbia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20British%20Columbia%2C%203%20scenarios%2C%202021.pdf)
+(3) British Columbia [Daily deaths, 3 scenarios, 2011](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/main/SUB3%2014bDayDeaMERGsub%202021%203%20scenarios%20British%20Columbia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20British%20Columbia%2C%203%20scenarios%2C%202021.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/121788360-7d662d00-cb81-11eb-8ee3-da8ae1835c11.png)
+![image](https://user-images.githubusercontent.com/30849720/122649060-ecdb9f80-d0e0-11eb-81a9-f20861038dd9.png)
   
 *  
   
@@ -833,9 +840,9 @@ no IHME update added from previous uptake to this uptake; therefore the graphs a
   
 **uptake 20210604**: DELP 20210604, **_IHME 20210604_**, IMPE 20210527, LANL 20210602, SRIV 20210604    
 
-(4) British Columbia [Daily cases, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/CAN%20SUB/SUB4%2031bDayCasMERGsub%20alltime%20British%20Columbia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios.pdf)
+(4) British Columbia [Daily cases, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/main/SUB4%2031bDayCasMERGsub%20alltime%20British%20Columbia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/121788454-47757880-cb82-11eb-8cb0-4d15afdec3aa.png)
+![image](https://user-images.githubusercontent.com/30849720/122649087-0846aa80-d0e1-11eb-902b-b74a59f5d70a.png)
   
 *  
   
@@ -886,9 +893,9 @@ no IHME update added from previous uptake to this uptake; therefore the graphs a
   
 **uptake 20210604**: DELP 20210604, **_IHME 20210604_**, IMPE 20210527, LANL 20210602, SRIV 20210604    
 
-(5) British Columbia [Daily cases, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/CAN%20SUB/SUB5%2032bDayCasMERGsub%202021%20British%20Columbia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%202021.pdf)
+(5) British Columbia [Daily cases, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/main/SUB5%2032bDayCasMERGsub%202021%20British%20Columbia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%202021.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/121795075-1b79e780-cbc2-11eb-8a7d-95623b4cb6cf.png)
+![image](https://user-images.githubusercontent.com/30849720/122649098-201e2e80-d0e1-11eb-8bc4-e55d40f6c263.png)
   
 *  
   
@@ -940,9 +947,9 @@ no IHME update added from previous uptake to this uptake; therefore the graphs a
   
 **uptake 20210604**: DELP 20210604, **_IHME 20210604_**, IMPE 20210527, LANL 20210602, SRIV 20210604    
 
-(6) British Columbia [Daily cases, 3 scenarios, 2011](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/CAN%20SUB/SUB6%2034bDayCasMERGsub%202021%203scen%20British%20Columbia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20British%20Columbia%2C%203%20scenarios%2C%202021%2C%20uncertainty.pdf)
+(6) British Columbia [Daily cases, 3 scenarios, 2011](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/main/SUB6%2034bDayCasMERGsub%202021%203scen%20British%20Columbia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20British%20Columbia%2C%203%20scenarios%2C%202021%2C%20uncertainty.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/121795257-0736ea00-cbc4-11eb-8421-18478f0caea5.png)
+![image](https://user-images.githubusercontent.com/30849720/122649117-37f5b280-d0e1-11eb-8463-af1d02684630.png)
   
 *  
   
@@ -994,9 +1001,9 @@ no IHME update added from previous uptake to this uptake; therefore the graphs a
   
 **uptake 20210604**: DELP 20210604, **_IHME 20210604_**, IMPE 20210527, LANL 20210602, SRIV 20210604    
 
-(7) British Columbia [Hospital-related outcomes, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/CAN%20SUB/SUB7%2071bDayHosMERGsub%20alltime%20British%20Columbia%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20British%20Columbia.pdf)
+(7) British Columbia [Hospital-related outcomes, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/main/SUB7%2071bDayHosMERGsub%20alltime%20British%20Columbia%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20British%20Columbia.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/121795251-f71f0a80-cbc3-11eb-955a-24e0b72f9fc9.png)
+![image](https://user-images.githubusercontent.com/30849720/122649137-5196fa00-d0e1-11eb-91a2-c602223e2163.png)
   
 *  
   
@@ -1048,9 +1055,9 @@ no IHME update added from previous uptake to this uptake; therefore the graphs a
   
 **uptake 20210604**: DELP 20210604, **_IHME 20210604_**, IMPE 20210527, LANL 20210602, SRIV 20210604    
 
-(8) British Columbia [Hospital-related outcomes, 2021, without IHME Bed need and IMPE Hospital demand](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/CAN%20SUB/SUB8%2073bDayHosMERGsub%202021%20woextremes%20British%20Columbia%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20British%20Columbia%2C%20wo%20extremes%2C%202021.pdf)
+(8) British Columbia [Hospital-related outcomes, 2021, without IHME Bed need and IMPE Hospital demand](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/main/SUB8%2073bDayHosMERGsub%202021%20woextremes%20British%20Columbia%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20British%20Columbia%2C%20wo%20extremes%2C%202021.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/121795299-55e48400-cbc4-11eb-8f3f-234de7b21fe9.png)
+![image](https://user-images.githubusercontent.com/30849720/122649155-6bd0d800-d0e1-11eb-9cf3-12c6b122ef81.png)
   
 *  
   
@@ -1103,9 +1110,9 @@ no IHME update added from previous uptake to this uptake; therefore the graphs a
   
 **uptake 20210604**: DELP 20210604, **_IHME 20210604_**, IMPE 20210527, LANL 20210602, SRIV 20210604    
 
-(9) British Columbia [Daily deaths estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/CAN%20SUB/SUB9%2092bDayDERMERGsub%202021%20British%20Columbia%20-%20COVID-19%20daily%20deaths%20estimated%20to%20reported%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%202021.pdf)
+(9) British Columbia [Daily deaths estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/main/SUB9%2092bDayDERMERGsub%202021%20British%20Columbia%20-%20COVID-19%20daily%20deaths%20estimated%20to%20reported%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%202021.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/121795313-714f8f00-cbc4-11eb-85c9-5a385bd3191d.png)
+![image](https://user-images.githubusercontent.com/30849720/122649177-830fc580-d0e1-11eb-8cd5-8e78b31f4da9.png)
   
 *  
   
@@ -1158,9 +1165,9 @@ no IHME update added from previous uptake to this uptake; therefore the graphs a
   
 **uptake 20210604**: DELP 20210604, **_IHME 20210604_**, IMPE 20210527, LANL 20210602, SRIV 20210604    
 
-(10) British Columbia [Daily cases estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/CAN%20SUB/SUB10%2094bDayCERMERGsub%202021%20British%20Columbia%20-%20COVID-19%20daily%20cases%20estimated%20to%20reported%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%202021.pdf)
+(10) British Columbia [Daily cases estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/main/SUB10%2094bDayCERMERGsub%202021%20British%20Columbia%20-%20COVID-19%20daily%20cases%20estimated%20to%20reported%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%202021.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/121795335-98a65c00-cbc4-11eb-97ce-d2437cb4ec9a.png)
+![image](https://user-images.githubusercontent.com/30849720/122649192-9fabfd80-d0e1-11eb-962d-fb8b134809a2.png)
   
 *  
   
@@ -1220,9 +1227,9 @@ no IHME update added from previous uptake to this uptake; therefore the graphs a
   
 **uptake 20210604**: DELP 20210604, **_IHME 20210604_**, IMPE 20210527, LANL 20210602, SRIV 20210604    
 
-(1) Ontario [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/CAN%20SUB/SUB1%2011bDayDeaMERGsub%20alltime%20Ontario%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%20all%20time.pdf)
+(1) Ontario [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/main/SUB1%2011bDayDeaMERGsub%20alltime%20Ontario%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/121795356-c25f8300-cbc4-11eb-80fd-dae9bd6938eb.png)
+![image](https://user-images.githubusercontent.com/30849720/122649219-b8b4ae80-d0e1-11eb-825a-1b3922d5a28f.png)
   
 *  
   
@@ -1274,9 +1281,9 @@ no IHME update added from previous uptake to this uptake; therefore the graphs a
   
 **uptake 20210604**: DELP 20210604, **_IHME 20210604_**, IMPE 20210527, LANL 20210602, SRIV 20210604    
 
-(2) Ontario [Daily deaths, reference scenarios, 2011](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/CAN%20SUB/SUB2%2012bDayDeaMERGsub%202021%20Ontario%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202021.pdf)
+(2) Ontario [Daily deaths, reference scenarios, 2011](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/main/SUB2%2012bDayDeaMERGsub%202021%20Ontario%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202021.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/121795372-e327d880-cbc4-11eb-8965-49018825f78f.png)
+![image](https://user-images.githubusercontent.com/30849720/122649244-cec26f00-d0e1-11eb-8c06-fdee5c148cd5.png)
   
 *  
   
@@ -1329,9 +1336,9 @@ no IHME update added from previous uptake to this uptake; therefore the graphs a
   
 **uptake 20210604**: DELP 20210604, **_IHME 20210604_**, IMPE 20210527, LANL 20210602, SRIV 20210604    
 
-(3) Ontario [Daily deaths, 3 scenarios, 2011](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/CAN%20SUB/SUB3%2014bDayDeaMERGsub%202021%203%20scenarios%20Ontario%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Ontario%2C%203%20scenarios%2C%202021.pdf)
+(3) Ontario [Daily deaths, 3 scenarios, 2011](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/main/SUB3%2014bDayDeaMERGsub%202021%203%20scenarios%20Ontario%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Ontario%2C%203%20scenarios%2C%202021.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/121795385-03f02e00-cbc5-11eb-8798-3c23b245fa17.png)
+![image](https://user-images.githubusercontent.com/30849720/122649269-e7328980-d0e1-11eb-8243-a2731784eb14.png)
   
 *  
   
@@ -1383,9 +1390,9 @@ no IHME update added from previous uptake to this uptake; therefore the graphs a
   
 **uptake 20210604**: DELP 20210604, **_IHME 20210604_**, IMPE 20210527, LANL 20210602, SRIV 20210604    
 
-(4) Ontario [Daily cases, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/CAN%20SUB/SUB4%2031bDayCasMERGsub%20alltime%20Ontario%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios.pdf)
+(4) Ontario [Daily cases, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/main/SUB4%2031bDayCasMERGsub%20alltime%20Ontario%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/121795390-21bd9300-cbc5-11eb-818e-3ff44f959e74.png)
+![image](https://user-images.githubusercontent.com/30849720/122649282-fd404a00-d0e1-11eb-9bcb-89f50bff838e.png)
   
 *  
   
@@ -1438,9 +1445,9 @@ no IHME update added from previous uptake to this uptake; therefore the graphs a
   
 **uptake 20210604**: DELP 20210604, **_IHME 20210604_**, IMPE 20210527, LANL 20210602, SRIV 20210604    
 
-(5) Ontario [Daily cases, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/CAN%20SUB/SUB5%2032bDayCasMERGsub%202021%20Ontario%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202021.pdf)
+(5) Ontario [Daily cases, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/main/SUB5%2032bDayCasMERGsub%202021%20Ontario%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202021.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/121795477-39e1e200-cbc6-11eb-9a05-853b0a3c6130.png)
+![image](https://user-images.githubusercontent.com/30849720/122649326-2a8cf800-d0e2-11eb-96fd-def094e00d53.png)
   
 *  
   
@@ -1491,11 +1498,11 @@ no IHME update added from previous uptake to this uptake; therefore the graphs a
   
 *     
   
-**uptake 20210604**: DELP 20210604, **_IHME 20210604_**, IMPE 20210527, LANL 20210602, SRIV 20210604    
+**uptake 20210604**: DELP 20210604, **_IHME 20210604_**, IMPE 20210527, LANL 20210602, SRIV 20210604 
+  
+(6) Ontario [Daily cases, 3 scenarios, 2011](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/main/SUB6%2034bDayCasMERGsub%202021%203scen%20Ontario%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Ontario%2C%203%20scenarios%2C%202021%2C%20uncertainty.pdf)
 
-(6) Ontario [Daily cases, 3 scenarios, 2011](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/CAN%20SUB/SUB6%2034bDayCasMERGsub%202021%203scen%20Ontario%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Ontario%2C%203%20scenarios%2C%202021%2C%20uncertainty.pdf)
-
-![image](https://user-images.githubusercontent.com/30849720/121795502-60078200-cbc6-11eb-8812-c5ef3af92d19.png)
+![image](https://user-images.githubusercontent.com/30849720/122649342-41cbe580-d0e2-11eb-80b2-b7e82faec993.png)
   
 *  
   
@@ -1548,9 +1555,9 @@ no IHME update added from previous uptake to this uptake; therefore the graphs a
   
 **uptake 20210604**: DELP 20210604, **_IHME 20210604_**, IMPE 20210527, LANL 20210602, SRIV 20210604    
 
-(7) Ontario [Hospital-related outcomes, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/CAN%20SUB/SUB7%2071bDayHosMERGsub%20alltime%20Ontario%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20Ontario.pdf)
+(7) Ontario [Hospital-related outcomes, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/main/SUB7%2071bDayHosMERGsub%20alltime%20Ontario%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20Ontario.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/121795524-81686e00-cbc6-11eb-924f-f0dd6be5e8c8.png)
+![image](https://user-images.githubusercontent.com/30849720/122649366-5ad49680-d0e2-11eb-8d33-4d373e6f6c85.png)
   
 *  
   
@@ -1603,9 +1610,9 @@ no IHME update added from previous uptake to this uptake; therefore the graphs a
   
 **uptake 20210604**: DELP 20210604, **_IHME 20210604_**, IMPE 20210527, LANL 20210602, SRIV 20210604    
 
-(8) Ontario [Hospital-related outcomes, 2021, without IHME Bed need and IMPE Hospital demand](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/CAN%20SUB/SUB8%2073bDayHosMERGsub%202021%20woextremes%20Ontario%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20Ontario%2C%20wo%20extremes%2C%202021.pdf)
+(8) Ontario [Hospital-related outcomes, 2021, without IHME Bed need and IMPE Hospital demand](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/main/SUB8%2073bDayHosMERGsub%202021%20woextremes%20Ontario%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20Ontario%2C%20wo%20extremes%2C%202021.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/121795590-08b5e180-cbc7-11eb-96c7-43cb638f7ccb.png)
+![image](https://user-images.githubusercontent.com/30849720/122649392-7344b100-d0e2-11eb-9dc5-c6cd433895aa.png)
   
 *  
   
@@ -1658,9 +1665,9 @@ no IHME update added from previous uptake to this uptake; therefore the graphs a
   
 **uptake 20210604**: DELP 20210604, **_IHME 20210604_**, IMPE 20210527, LANL 20210602, SRIV 20210604    
 
-(9) Ontario [Daily deaths estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/CAN%20SUB/SUB9%2092bDayDERMERGsub%202021%20Ontario%20-%20COVID-19%20daily%20deaths%20estimated%20to%20reported%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202021.pdf)
+(9) Ontario [Daily deaths estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/main/SUB9%2092bDayDERMERGsub%202021%20Ontario%20-%20COVID-19%20daily%20deaths%20estimated%20to%20reported%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202021.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/121795605-271bdd00-cbc7-11eb-9a46-4b8d692bc38d.png)
+![image](https://user-images.githubusercontent.com/30849720/122649406-8bb4cb80-d0e2-11eb-9b6f-9d954ee889a8.png)
   
 *  
   
@@ -1713,9 +1720,9 @@ no IHME update added from previous uptake to this uptake; therefore the graphs a
   
 **uptake 20210604**: DELP 20210604, **_IHME 20210604_**, IMPE 20210527, LANL 20210602, SRIV 20210604    
 
-(10) Ontario [Daily cases estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/CAN%20SUB/SUB10%2094bDayCERMERGsub%202021%20Ontario%20-%20COVID-19%20daily%20cases%20estimated%20to%20reported%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202021.pdf)
+(10) Ontario [Daily cases estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/main/SUB10%2094bDayCERMERGsub%202021%20Ontario%20-%20COVID-19%20daily%20cases%20estimated%20to%20reported%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202021.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/121795625-487cc900-cbc7-11eb-948e-6f9c053be6ea.png)
+![image](https://user-images.githubusercontent.com/30849720/122649420-a1c28c00-d0e2-11eb-9744-5ce322f633a8.png)
   
 *  
   
@@ -1776,9 +1783,9 @@ no IHME update added from previous uptake to this uptake; therefore the graphs a
   
 **uptake 20210604**: DELP 20210604, **_IHME 20210604_**, IMPE 20210527, LANL 20210602, SRIV 20210604    
 
-(1) Quebec [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/CAN%20SUB/SUB1%2011bDayDeaMERGsub%20alltime%20Quebec%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%20all%20time.pdf)
+(1) Quebec [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/main/SUB1%2011bDayDeaMERGsub%20alltime%20Quebec%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/121795635-706c2c80-cbc7-11eb-8a49-0d981bb614a9.png)
+![image](https://user-images.githubusercontent.com/30849720/122649437-b9017980-d0e2-11eb-8902-f824ca80985b.png)
   
 *  
   
@@ -1831,9 +1838,9 @@ no IHME update added from previous uptake to this uptake; therefore the graphs a
   
 **uptake 20210604**: DELP 20210604, **_IHME 20210604_**, IMPE 20210527, LANL 20210602, SRIV 20210604    
 
-(2) Quebec [Daily deaths, reference scenarios, 2011](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/CAN%20SUB/SUB2%2012bDayDeaMERGsub%202021%20Quebec%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%202021.pdf)
+(2) Quebec [Daily deaths, reference scenarios, 2011](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/main/SUB2%2012bDayDeaMERGsub%202021%20Quebec%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%202021.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/121795649-95609f80-cbc7-11eb-9c40-2d660e6cae78.png)
+![image](https://user-images.githubusercontent.com/30849720/122649459-d0d8fd80-d0e2-11eb-97bb-b3ec0630686f.png)
   
 *  
   
@@ -1886,9 +1893,9 @@ no IHME update added from previous uptake to this uptake; therefore the graphs a
   
 **uptake 20210604**: DELP 20210604, **_IHME 20210604_**, IMPE 20210527, LANL 20210602, SRIV 20210604    
 
-(3) Quebec [Daily deaths, 3 scenarios, 2011](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/CAN%20SUB/SUB3%2014bDayDeaMERGsub%202021%203%20scenarios%20Quebec%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Quebec%2C%203%20scenarios%2C%202021.pdf)
+(3) Quebec [Daily deaths, 3 scenarios, 2011](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/main/SUB3%2014bDayDeaMERGsub%202021%203%20scenarios%20Quebec%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Quebec%2C%203%20scenarios%2C%202021.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/121795664-b5905e80-cbc7-11eb-9679-f6e5189ab0c8.png)
+![image](https://user-images.githubusercontent.com/30849720/122649500-ebab7200-d0e2-11eb-9f3c-b9b7e349e567.png)
   
 *  
   
@@ -1941,9 +1948,9 @@ no IHME update added from previous uptake to this uptake; therefore the graphs a
   
 **uptake 20210604**: DELP 20210604, **_IHME 20210604_**, IMPE 20210527, LANL 20210602, SRIV 20210604    
 
-(4) Quebec [Daily cases, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/CAN%20SUB/SUB4%2031bDayCasMERGsub%20alltime%20Quebec%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios.pdf)
+(4) Quebec [Daily cases, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/main/SUB4%2031bDayCasMERGsub%20alltime%20Quebec%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/121795681-d6f14a80-cbc7-11eb-9806-51e2d92cbc7a.png)
+![image](https://user-images.githubusercontent.com/30849720/122649525-04b42300-d0e3-11eb-8cbf-35551b564a3a.png)
   
 *  
   
@@ -1996,9 +2003,9 @@ no IHME update added from previous uptake to this uptake; therefore the graphs a
   
 **uptake 20210604**: DELP 20210604, **_IHME 20210604_**, IMPE 20210527, LANL 20210602, SRIV 20210604    
 
-(5) Quebec [Daily cases, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/CAN%20SUB/SUB5%2032bDayCasMERGsub%202021%20Quebec%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%202021.pdf)
+(5) Quebec [Daily cases, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/main/SUB5%2032bDayCasMERGsub%202021%20Quebec%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%202021.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/121795687-f4beaf80-cbc7-11eb-9800-da4047a2cb02.png)
+![image](https://user-images.githubusercontent.com/30849720/122649542-1eee0100-d0e3-11eb-858a-8347238f5ab3.png)
   
 *  
   
@@ -2051,9 +2058,9 @@ no IHME update added from previous uptake to this uptake; therefore the graphs a
   
 **uptake 20210604**: DELP 20210604, **_IHME 20210604_**, IMPE 20210527, LANL 20210602, SRIV 20210604    
 
-(6) Quebec [Daily cases, 3 scenarios, 2011](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/CAN%20SUB/SUB6%2034bDayCasMERGsub%202021%203scen%20Quebec%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Quebec%2C%203%20scenarios%2C%202021%2C%20uncertainty.pdf)
+(6) Quebec [Daily cases, 3 scenarios, 2011](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/main/SUB6%2034bDayCasMERGsub%202021%203scen%20Quebec%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Quebec%2C%203%20scenarios%2C%202021%2C%20uncertainty.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/121795698-161f9b80-cbc8-11eb-8c9a-ec87f1ff3274.png)
+![image](https://user-images.githubusercontent.com/30849720/122649554-34fbc180-d0e3-11eb-820f-77c006df720a.png)
   
 *  
   
@@ -2106,9 +2113,9 @@ no IHME update added from previous uptake to this uptake; therefore the graphs a
   
 **uptake 20210604**: DELP 20210604, **_IHME 20210604_**, IMPE 20210527, LANL 20210602, SRIV 20210604    
 
-(7) Quebec [Hospital-related outcomes, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/CAN%20SUB/SUB7%2071bDayHosMERGsub%20alltime%20Quebec%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20Quebec.pdf)
+(7) Quebec [Hospital-related outcomes, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/main/SUB7%2071bDayHosMERGsub%20alltime%20Quebec%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20Quebec.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/121795714-36e7f100-cbc8-11eb-931b-ea59474a71cd.png)
+![image](https://user-images.githubusercontent.com/30849720/122649586-4fce3600-d0e3-11eb-946c-dd4e5ca5e0ce.png)
   
 *  
   
@@ -2161,9 +2168,9 @@ no IHME update added from previous uptake to this uptake; therefore the graphs a
   
 **uptake 20210604**: DELP 20210604, **_IHME 20210604_**, IMPE 20210527, LANL 20210602, SRIV 20210604    
 
-(8) Quebec [Hospital-related outcomes, 2021, without IHME Bed need and IMPE Hospital demand](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/CAN%20SUB/SUB8%2073bDayHosMERGsub%202021%20woextremes%20Quebec%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20Quebec%2C%20wo%20extremes%2C%202021.pdf)
+(8) Quebec [Hospital-related outcomes, 2021, without IHME Bed need and IMPE Hospital demand](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/main/SUB8%2073bDayHosMERGsub%202021%20woextremes%20Quebec%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20Quebec%2C%20wo%20extremes%2C%202021.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/121795730-5848dd00-cbc8-11eb-97bf-d520d3752e09.png)
+![image](https://user-images.githubusercontent.com/30849720/122649602-67a5ba00-d0e3-11eb-9dc4-85a4e655bd7c.png)
   
 *  
   
@@ -2215,9 +2222,9 @@ no IHME update added from previous uptake to this uptake; therefore the graphs a
   
 **uptake 20210604**: DELP 20210604, **_IHME 20210604_**, IMPE 20210527, LANL 20210602, SRIV 20210604    
 
-(9) Quebec [Daily deaths estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/CAN%20SUB/SUB9%2092bDayDERMERGsub%202021%20Quebec%20-%20COVID-19%20daily%20deaths%20estimated%20to%20reported%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%202021.pdf)
+(9) Quebec [Daily deaths estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/main/SUB9%2092bDayDERMERGsub%202021%20Quebec%20-%20COVID-19%20daily%20deaths%20estimated%20to%20reported%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%202021.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/121795750-7ca4b980-cbc8-11eb-889a-838bc801b3c9.png)
+![image](https://user-images.githubusercontent.com/30849720/122649629-7ee4a780-d0e3-11eb-87a7-63d8fdbc8a59.png)
   
 *  
   
@@ -2267,9 +2274,9 @@ no IHME update added from previous uptake to this uptake; therefore the graphs a
   
 **uptake 20210604**: DELP 20210604, **_IHME 20210604_**, IMPE 20210527, LANL 20210602, SRIV 20210604    
 
-(10) Quebec [Daily cases estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/CAN%20SUB/SUB10%2094bDayCERMERGsub%202021%20Quebec%20-%20COVID-19%20daily%20cases%20estimated%20to%20reported%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%202021.pdf)
+(10) Quebec [Daily cases estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/main/SUB10%2094bDayCERMERGsub%202021%20Quebec%20-%20COVID-19%20daily%20cases%20estimated%20to%20reported%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%202021.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/121795758-9d6d0f00-cbc8-11eb-8121-2e4c3509d07f.png)
+![image](https://user-images.githubusercontent.com/30849720/122649644-96239500-d0e3-11eb-85e5-123ed3b3bb30.png)
   
 *  
   
