@@ -216,13 +216,13 @@ DELP 20210603, IHME 20210528, **_IMPE 20210527_**, LANL 20210526, SRIV 20210603
 
 (1) Quebec [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210603/output/merge/main/SUB1%2011bDayDeaMERGsub%20alltime%20Quebec%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/122627290-50bf8300-d063-11eb-88db-73b19ada1e14.png)
+![image](https://user-images.githubusercontent.com/30849720/122643143-0241d100-d0c3-11eb-8e54-3193c12ba5e9.png)
 
 ****
 
 (2) Quebec [Daily deaths, reference scenarios, 2011](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210603/output/merge/main/SUB2%2012bDayDeaMERGsub%202021%20Quebec%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%202021.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/122627322-8b292000-d063-11eb-9396-b581132d9ee5.png)
+![image](https://user-images.githubusercontent.com/30849720/122643159-1e457280-d0c3-11eb-9476-0857e23f42c9.png)
 
 ****
 
@@ -234,13 +234,13 @@ DELP 20210603, IHME 20210528, **_IMPE 20210527_**, LANL 20210526, SRIV 20210603
 
 (4) Quebec [Daily cases, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210603/output/merge/main/SUB4%2031bDayCasMERGsub%20alltime%20Quebec%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/122627373-ca577100-d063-11eb-9460-7c882cc912cb.png)
+![image](https://user-images.githubusercontent.com/30849720/122643192-51880180-d0c3-11eb-8480-6d0f6fc820cf.png)
 
 ****
 
 (5) Quebec [Daily cases, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210603/output/merge/main/SUB5%2032bDayCasMERGsub%202021%20Quebec%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%202021.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/122627391-e6f3a900-d063-11eb-9cf6-e615e059619c.png)
+![image](https://user-images.githubusercontent.com/30849720/122643215-71b7c080-d0c3-11eb-89e3-70129f70b3e4.png)
 
 ****
 
@@ -252,24 +252,24 @@ DELP 20210603, IHME 20210528, **_IMPE 20210527_**, LANL 20210526, SRIV 20210603
 
 (7) Quebec [Hospital-related outcomes, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210603/output/merge/main/SUB7%2071bDayHosMERGsub%20alltime%20Quebec%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20Quebec.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/122627422-21f5dc80-d064-11eb-941f-eec9b4995d6d.png)
+![image](https://user-images.githubusercontent.com/30849720/122643236-91e77f80-d0c3-11eb-9c02-082b5031025d.png)
 
 ****
 
 (8) Quebec [Hospital-related outcomes, 2021, without IHME Bed need and IMPE Hospital demand](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210603/output/merge/main/SUB8%2073bDayHosMERGsub%202021%20woextremes%20Quebec%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20Quebec%2C%20wo%20extremes%2C%202021.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/122627439-3d60e780-d064-11eb-95be-c543d62e2466.png)
+![image](https://user-images.githubusercontent.com/30849720/122643260-b0e61180-d0c3-11eb-9465-3f34ca40ab2c.png)
 
 ****
 
 (9) Quebec [Daily deaths estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210603/output/merge/main/SUB9%2092bDayDERMERGsub%202021%20Quebec%20-%20COVID-19%20daily%20deaths%20estimated%20to%20reported%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%202021.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/122627452-57022f00-d064-11eb-94f8-a23035b8ef26.png)
+![image](https://user-images.githubusercontent.com/30849720/122643276-cbb88600-d0c3-11eb-9b7e-4b4563778dff.png)
 
 ****
 
 (10) Quebec [Daily cases estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210603/output/merge/main/SUB10%2094bDayCERMERGsub%202021%20Quebec%20-%20COVID-19%20daily%20cases%20estimated%20to%20reported%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%202021.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/122627464-726d3a00-d064-11eb-98ef-94bad6bbfbbc.png)
+![image](https://user-images.githubusercontent.com/30849720/122643303-e7bc2780-d0c3-11eb-8545-d4bb548018b2.png)
 
 ****
