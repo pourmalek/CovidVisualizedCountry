@@ -25,9 +25,9 @@ DELP 20210602, IHME 20210528, **IMPE 20210527**, LANL 20210526, SRIV 20210603, U
 
 ### Selected graphs - Canada
 
-(1) Canada [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210603/output/merge/CAN%20SUB/CAN1%2011aDayDeaMERGnat%20alltime%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%20all%20time.pdf)
+(1) Canada [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210603/output/merge/main/CAN1%2011aDayDeaMERGnat%20alltime%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/121821790-27ac8600-cc50-11eb-915f-38d8a9b96bcc.png)
+![image](https://user-images.githubusercontent.com/30849720/122626059-25d23080-d05d-11eb-9e5d-5547df57582c.png)
 
 ****
 
