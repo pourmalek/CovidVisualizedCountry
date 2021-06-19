@@ -2,7 +2,7 @@
 
 DELP 20210611, IHME 20210610, **_IMPE 20210611_**, LANL 20210606, SRIV 20210611
 
-IMPE update 20210611 (2021-06-11_v8.csv.zip) released on 20210615
+IMPE update 20210611 (2021-06-11_v8.csv.zip) released on 20210615.
 
 ****
 ****
