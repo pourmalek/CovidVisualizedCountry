@@ -161,51 +161,61 @@ This uptake is actually uptake 20210604 number 2, because IMPE update 20210604 (
 
 (1) Ontario [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/main/SUB1%2011bDayDeaMERGsub%20alltime%20Ontario%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/122653376-d93c3300-d0f8-11eb-9599-57d900513107.png)
 
 ****
 
 (2) Ontario [Daily deaths, reference scenarios, 2011](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/main/SUB2%2012bDayDeaMERGsub%202021%20Ontario%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/122653393-f7a22e80-d0f8-11eb-912e-e72e4600a8d5.png)
 
 ****
 
 (3) Ontario [Daily deaths, 3 scenarios, 2011](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/main/SUB3%2014bDayDeaMERGsub%202021%203%20scenarios%20Ontario%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Ontario%2C%203%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/122653407-1274a300-d0f9-11eb-9b28-bf0a9634a62f.png)
 
 ****
 
 (4) Ontario [Daily cases, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/main/SUB4%2031bDayCasMERGsub%20alltime%20Ontario%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/122653421-2c15ea80-d0f9-11eb-8236-126ade04f54b.png)
 
 ****
 
 (5) Ontario [Daily cases, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/main/SUB5%2032bDayCasMERGsub%202021%20Ontario%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/122653437-4780f580-d0f9-11eb-9a59-896eda5e89e0.png)
 
 ****
 
 (6) Ontario [Daily cases, 3 scenarios, 2011](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/main/SUB6%2034bDayCasMERGsub%202021%203scen%20Ontario%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Ontario%2C%203%20scenarios%2C%202021%2C%20uncertainty.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/122653456-5ff11000-d0f9-11eb-918d-ebaa25bb5f90.png)
 
 ****
 
 (7) Ontario [Hospital-related outcomes, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/main/SUB7%2071bDayHosMERGsub%20alltime%20Ontario%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20Ontario.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/122653478-8f078180-d0f9-11eb-972d-de226c7c8176.png)
 
 ****
 
 (8) Ontario [Hospital-related outcomes, 2021, without IHME Bed need and IMPE Hospital demand](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/main/SUB8%2073bDayHosMERGsub%202021%20woextremes%20Ontario%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20Ontario%2C%20wo%20extremes%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/122653487-a9415f80-d0f9-11eb-9023-3adaeaa0ef89.png)
 
 ****
 
 (9) Ontario [Daily deaths estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/main/SUB9%2092bDayDERMERGsub%202021%20Ontario%20-%20COVID-19%20daily%20deaths%20estimated%20to%20reported%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/122653503-c9711e80-d0f9-11eb-9c82-5c7bf1f9bcfa.png)
 
 ****
 
 (10) Ontario [Daily cases estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/main/SUB10%2094bDayCERMERGsub%202021%20Ontario%20-%20COVID-19%20daily%20cases%20estimated%20to%20reported%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/122653510-dee64880-d0f9-11eb-9747-137f94a09491.png)
 
 ****
 ****
@@ -214,50 +224,60 @@ This uptake is actually uptake 20210604 number 2, because IMPE update 20210604 (
 
 (1) Quebec [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/main/SUB1%2011bDayDeaMERGsub%20alltime%20Quebec%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/122653518-f6253600-d0f9-11eb-91b7-cad43484159e.png)
 
 ****
 
 (2) Quebec [Daily deaths, reference scenarios, 2011](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/main/SUB2%2012bDayDeaMERGsub%202021%20Quebec%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/122653528-0d642380-d0fa-11eb-8012-ac492020ee65.png)
 
 ****
 
 (3) Quebec [Daily deaths, 3 scenarios, 2011](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/main/SUB3%2014bDayDeaMERGsub%202021%203%20scenarios%20Quebec%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Quebec%2C%203%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/122653545-22d94d80-d0fa-11eb-9254-5a8c7a7fb73a.png)
 
 ****
 
 (4) Quebec [Daily cases, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/main/SUB4%2031bDayCasMERGsub%20alltime%20Quebec%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/122653562-3be1fe80-d0fa-11eb-9d6d-0fa5c33ac39e.png)
 
 ****
 
 (5) Quebec [Daily cases, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/main/SUB5%2032bDayCasMERGsub%202021%20Quebec%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/122653574-51572880-d0fa-11eb-9efd-26555c3d30ad.png)
 
 ****
 
 (6) Quebec [Daily cases, 3 scenarios, 2011](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/main/SUB6%2034bDayCasMERGsub%202021%203scen%20Quebec%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Quebec%2C%203%20scenarios%2C%202021%2C%20uncertainty.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/122653589-68961600-d0fa-11eb-88ee-2a576023ef03.png)
 
 ****
 
 (7) Quebec [Hospital-related outcomes, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/main/SUB7%2071bDayHosMERGsub%20alltime%20Quebec%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20Quebec.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/122653606-7fd50380-d0fa-11eb-9fa5-797a2ea52021.png)
 
 ****
 
 (8) Quebec [Hospital-related outcomes, 2021, without IHME Bed need and IMPE Hospital demand](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/main/SUB8%2073bDayHosMERGsub%202021%20woextremes%20Quebec%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20Quebec%2C%20wo%20extremes%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/122653616-9b400e80-d0fa-11eb-8f37-79e1ce293aaf.png)
 
 ****
 
 (9) Quebec [Daily deaths estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/main/SUB9%2092bDayDERMERGsub%202021%20Quebec%20-%20COVID-19%20daily%20deaths%20estimated%20to%20reported%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/122653637-bd399100-d0fa-11eb-9a32-3fed3081dc90.png)
 
 ****
 
 (10) Quebec [Daily cases estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/main/SUB10%2094bDayCERMERGsub%202021%20Quebec%20-%20COVID-19%20daily%20cases%20estimated%20to%20reported%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/122653648-d5111500-d0fa-11eb-8baa-7abbec8b16f4.png)
 
 ****
