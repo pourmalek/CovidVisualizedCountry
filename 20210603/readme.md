@@ -84,6 +84,12 @@ DELP 20210603, IHME 20210528, **_IMPE 20210527_**, LANL 20210526, SRIV 20210603
 ![image](https://user-images.githubusercontent.com/30849720/122642566-ef79cd00-d0bf-11eb-84a1-b1764faf4339.png)
 
 ****
+
+(11) Canada and provinces [Daily death rates, reference scenario, all time, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210603/output/merge/main/CAN11%2019aDayDeaRATE%20alltime%20IHME%20-%20COVID-19%20daily%20death%20rate%2C%20Canada%2C%20subnational%2C%20IHME%2C%20reference%20scenario.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/122645729-a41bea80-d0d0-11eb-9202-61545636d7bc.png)
+
+****
 ****
 
 ### Selected graphs - British Columbia
