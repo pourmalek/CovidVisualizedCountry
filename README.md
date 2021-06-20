@@ -325,7 +325,7 @@
 
 **SUMMARY**
   
-Five international and periodically updating models of COVID-19 pandemic are identified and the results of their estimates are gathered, combined, and graphs for the progression of the pandemic at the global level. Periodical releases of these studies’ estimates undergo processing and visualization in this repository. A longitudinal visualization component is also present.   
+Five international and periodically updating models of COVID-19 pandemic are identified and the results of their estimates are gathered, combined, and graphed for the progression of the pandemic at the country level. Periodical releases of these studies’ estimates undergo processing and visualization in this repository.  
 <br/><br/>
 
   
