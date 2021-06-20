@@ -569,23 +569,23 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
 [(1) Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry#1-daily-deaths-reference-scenarios-all-time)
 
-[(2) Daily deaths, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry#2-daily-deaths-reference-scenarios-2021)
+[(2) Daily deaths, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry#graph-2-canada---daily-deaths-reference-scenarios-2011)
   
-[(3) Daily deaths, 3 scenarios, 2011](https://github.com/pourmalek/CovidVisualizedCountry#3-daily-deaths-3-scenarios-2011)
+[(3) Daily deaths, 3 scenarios, 2011](https://github.com/pourmalek/CovidVisualizedCountry#graph-3-canada---daily-deaths-3-scenarios-2011)
   
-[(4) Daily cases, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry#4-daily-cases-reference-scenarios-all-time)
+[(4) Daily cases, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry#graph-4-canada---daily-cases-reference-scenarios-all-time)
   
-[(5) Daily cases, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry#5-daily-cases-reference-scenarios-2021)
+[(5) Daily cases, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry#graph-5-canada---daily-cases-reference-scenarios-2021)
   
-[(6) Daily cases, 3 scenarios, 2011](https://github.com/pourmalek/CovidVisualizedCountry#6-daily-cases-3-scenarios-2011)
+[(6) Daily cases, 3 scenarios, 2011](https://github.com/pourmalek/CovidVisualizedCountry#graph-6-canada---daily-cases-3-scenarios-2011)
   
-[(7) Hospital-related outcomes, all time](https://github.com/pourmalek/CovidVisualizedCountry#7-hospital-related-outcomes-all-time)
+[(7) Hospital-related outcomes, all time](https://github.com/pourmalek/CovidVisualizedCountry#graph-7-canada---hospital-related-outcomes-all-time)
   
-[(8) Hospital-related outcomes, 2021, without IHME Bed need and IMPE Hospital demand](https://github.com/pourmalek/CovidVisualizedCountry#8-hospital-related-outcomes-2021-without-ihme-bed-need-and-impe-hospital-demand)
+[(8) Hospital-related outcomes, 2021, without IHME Bed need and IMPE Hospital demand](https://github.com/pourmalek/CovidVisualizedCountry#graph-8-canada---hospital-related-outcomes-2021-without-ihme-bed-need-and-impe-hospital-demand)
   
-[(9) Daily deaths estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry#9-daily-deaths-estimated-to-reported-reference-scenarios-2021)
+[(9) Daily deaths estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry#graph-9-canada---daily-deaths-estimated-to-reported-reference-scenarios-2021)
   
-[(10) Daily cases estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry#10-daily-cases-estimated-to-reported-reference-scenarios-2021)
+[(10) Daily cases estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry#graph-10-canada---daily-cases-estimated-to-reported-reference-scenarios-2021)
 
 ****
 
