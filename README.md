@@ -1,12 +1,343 @@
 # CovidVisualizedCountry
 
 ### Combine and visualize international periodically updating estimates of COVID-19 
+
 ### <div align="center"> at the country level 
 ## <div align="center"> :canada: Canada: national level, provinces and territories
 
 
+********************************************************************************************************************************************
+********************************************************************************************************************************************
+* Project: Combine and visualize international periodically updating estimates of COVID-19 at the country level (CovidVisualizedCountry)
+* Person: Farshad Pourmalek pourmalek_farshad at yahoo dot com
+* Time (initial): 2021-04-14
+********************************************************************************************************************************************
+********************************************************************************************************************************************  
   
   
+### TOC
+
+[I. SELCTED GRAPHS FROM LATEST UPTAKE](https://github.com/pourmalek/CovidVisualizedGlobal#i-selcted-graphs-from-latest-uptake)
+
+[II. METHODS AND RESULTS OF THIS WORK](https://github.com/pourmalek/CovidVisualizedGlobal#ii-methods-and-results-of-this-work)
+
+[III. INNER WORKS OF THIS REPOSITORY](https://github.com/pourmalek/CovidVisualizedGlobal#iii-inner-works-of-this-repository)
+
+[IV. SELCTED GRAPHS FROM PREVIOUS UPTAKES](https://github.com/pourmalek/CovidVisualizedGlobal#iv-selcted-graphs-from-previous-uptakes)
+
+********************************************************************************************************************************************
+
+********************************************************************************************************************************************
+  
+********************************************************************************************************************************************
+  
+********************************************************************************************************************************************
+
+## I. SELCTED GRAPHS FROM LATEST UPTAKE
+
+********************************************************************************************************************************************
+********************************************************************************************************************************************
+
+#### LATEST UPTAKE: uptake 20210618
+
+#### DELP 20210618, **_IHME 20210618_**, IMPE 20210611, LANL 20210613, SRIV 20210618
+  
+****
+  
+  
+  
+
+********************************************************************************************************************************************
+********************************************************************************************************************************************
+********************************************************************************************************************************************
+********************************************************************************************************************************************
+
+
+## II. METHODS AND RESULTS OF THIS WORK
+<br/><br/>
+
+
+**SUMMARY**
+  
+Five international and periodically updating models of COVID-19 pandemic are identified and the results of their estimates are gathered, combined, and graphs for the progression of the pandemic at the global level. Periodical releases of these studies’ estimates undergo processing and visualization in this repository. A longitudinal visualization component is also present.   
+<br/><br/>
+
+  
+**BACKGROUND**
+
+The idea put to work here is to combine and visualize international periodically updating studies / models of COVID-19 pandemic, for the global level. The end result being sharable codes and outputs, for estimates files and graphs, for individual studies, and for combination of them, and repeat the process periodically. 
+<br/><br/>
+  
+**METHODS**
+
+Eligibility for target (component) studies (models) of COVID-19 pandemic, are set as those that (1) provide estimates for at least one of the four outcomes of interests, i.e., daily deaths, daily incident cases, cumulative (total) deaths, and cumulative (total) incident cases, (2) at the global level, (3) as sum of estimates at the country level, (4) periodically updating into 2021, (5) provide a list of input data and their sources, and (6) provide explanation on methods of using input data and generation of model outputs. 
+
+Target studies were found via hand search using google. After “Additional file 1 of Rapid review of COVID-19 epidemic estimation studies for Iran”, Page 39, [here](https://s3-eu-west-1.amazonaws.com/pstorage-npg-968563215/26271814/12889_2021_10183_MOESM1_ESM.docx)
+
+Methods generally follow, with alterations, this article: Pourmalek F, Rezaei Hemami M, Janani L, Moradi-Lakeh M. Rapid review of COVID-19 epidemic estimation studies for Iran. BMC Public Health. 2021 Feb 1;21(1):257. doi: 10.1186/s12889-021-10183-3. https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-021-10183-3
+<br/><br/>
+
+**RESULTS**
+<br/><br/>
+
+
+**RESULTS, (A) Studies:**
+<br/><br/>
+
+Five studies (models) meeting the eligibility criteria: DELP, IHME, IMPE, LANL, SRIV, details below. Results of estimates for each study are stored in Stata data files and graphs. Results for combination of all five studies’ estimates are also are stored in data files and combined graphs. 
+<br/><br/>
+
+(1) DELP  
+. DELP = DELPHI: Differential Equations Lead to Predictions of Hospitalizations and Infections  
+. Citation: COVID Analytics. DELPHI epidemiological case predictions. Cambridge: Operations Research Center, Massachusetts Institute of Technology. https://www.covidanalytics.io/projections  
+. Study website: https://www.covidanalytics.io/projections  
+. Estimates web site: https://www.covidanalytics.io/projections, down the page, link that reads, "Download Most Recent Predictions"  
+. License: https://github.com/COVIDAnalytics/DELPHI/blob/master/LICENSE  
+. Institution: Operations Research Center, Massachusetts Institute of Technology, Cambridge  
+. Among articles: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7883965/ , https://www.medrxiv.org/content/10.1101/2020.06.23.20138693v1, https://www.covidanalytics.io/DELPHI_documentation_pdf  
+. Periodically updating: Yes   
+. Periodical updates accessible: No  
+  
+(2) IHME
+. IHME = Institute for Health Metrics and Evaluation  
+. Citation: Institute for Health Metrics and Evaluation (IHME). COVID-19 mortality, infection, testing, hospital resource use, and social distancing projections. Seattle: Institute for Health Metrics and Evaluation (IHME), University of Washington. http://www.healthdata.org/covid  
+. Study web site: http://www.healthdata.org/covid  
+. Estimates web site: http://www.healthdata.org/covid/data-downloads  
+. License: http://www.healthdata.org/about/terms-and-conditions  
+. Institution: IHME, University of Washington, Seattle   
+. Among articles: https://www.nature.com/articles/s41591-020-1132-9  
+. Periodically updating: Yes  
+. Periodical updates accessible: Yes  
+  
+(3) IMPE  
+. IMPE = Imperial College  
+. Citation: MRC Centre for Global Infectious Disease Analysis (MRC GIDA). Future scenarios of the healthcare burden of COVID-19 in low- or middle-income countries. London: MRC Centre for Global Infectious Disease Analysis, Imperial College London. https://mrc-ide.github.io/global-lmic-reports/  
+. Study web site: https://mrc-ide.github.io/global-lmic-reports/  
+. Estimates web site: https://github.com/mrc-ide/global-lmic-reports/tree/master/data  
+. License: https://github.com/mrc-ide/global-lmic-reports  
+. Institution: Imperial College, London  
+. Among articles: https://science.sciencemag.org/content/369/6502/413  
+. Periodically updating: Yes  
+. Periodical updates accessible: Yes  
+  
+(4) LANL  
+. LANL = Los Alamos National Laboratories  
+. Citation: Los Alamos National Laboratory (LANL). COVID-19 cases and deaths forecasts. Los Alamos: Los Alamos National Laboratory (LANL). https://covid-19.bsvgateway.org  
+. Study web site: https://covid-19.bsvgateway.org  
+. Estimates web site: https://covid-19.bsvgateway.org, Model Outputs, Global  
+. License: https://covid-19.bsvgateway.org  
+. Institution: Los Alamos National Laboratories, Los Alamos  
+. Among documents: https://covid-19.bsvgateway.org/static/COFFEE-methodology.pdf  
+. Periodically updating: Yes  
+. Periodical updates accessible: Yes  
+  
+(5) SRIV  
+. SRIV = Srivastava, Ajitesh  
+. Citation: University of Southern California (USC). COVID-19 forecast. Los Angeles: University of Southern California. https://scc-usc.github.io/ReCOVER-COVID-19  
+. Study web site: https://scc-usc.github.io/ReCOVER-COVID-19/  
+. Estimates web site: https://github.com/scc-usc/ReCOVER-COVID-19/tree/master/results/historical_forecasts  
+. License: https://github.com/scc-usc/ReCOVER-COVID-19/blob/master/LICENSE  
+. Institution: University of Southern California, Los Angeles  
+. Among articles: https://arxiv.org/abs/2007.05180  
+. Periodically updating: Yes  
+. Periodical updates accessible: Yes  
+  
+(0) JOHN  
+. JOHN = Johns Hopkins University. Coronavirus resource center. https://coronavirus.jhu.edu  
+. Not a target study, but a benchmark for comparison.  
+. Citation: "COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University"  
+. Study web site: https://coronavirus.jhu.edu  
+. Estimates web site: https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series , "COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University"  
+. License: https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series  
+. Institution: Johns Hopkins University, Baltimore  
+. Among articles: Dong E, Du H, Gardner L. An interactive web-based dashboard to track COVID-19 in real time. Lancet Infect Dis. 2020 May;20(5):533-534. doi: 10.1016/S1473-3099(20)30120-1. Epub 2020 Feb 19.  
+. Periodically updating: Yes   
+. Periodical updates accessible: Yes  
+<br/><br/>
+
+  
+**RESULTS, (B) Periodical updates of component studies:** 
+<br/><br/>
+
+Periodical updates of component studies are performed here according to release of new estimates updates by the two studies with less frequent estimates updates releases, i.e., IHME and IMPE. LANL updates every 3-4 days, SRIV every day, and DELP updates frequency is not discoverable to me. With each update release by IHME or IMPE, the whole set of five studies’ estimates updates are processed (updated here) and the results are stored in a directory named after the calendar date on which update was performed. 
+<br/><br/>
+  
+**RESULTS, (C) Longitudinal visualization of component studies’ estimates updates:**
+
+Within each study, estimates for any given person-place-time unit – that is any specific outcome (e.g., daily deaths), any given location (e.g., the global level), and given calendar time period (e.g., May 2021) – might vary (in terms of height and trajectory of outcome estimates), across consecutive releases of updated estimates. Analysis of such variations should – based on my understanding – reflect that the largest proportion of variance originates from the use of new data input to the model. This is true across all-time variations. Other sources of variation include input of new data types to the model, and less frequently, major and minor updates in the modeling process, that are known as “model version”, and are quite distinct from “model estimates updates”. Based on such variation of model estimates updates for any given person-place-time unit, looking at the estimates of the same person-place-time unit across consecutive model estimates updates of any given model might be expected to provide additional insight about how model estimates evolve along with progression of the pandemic. This leads to longitudinal view of component studies’ estimates updates: e.g., look at IHME estimates for daily global deaths for May 2021 across consecutive IHME estimates releases. Timing of longitudinal visualization is set for the end of each calendar month, to minimize the role of calendar time as source of the above-described variation. 
+<br/><br/>
+
+**LIMITATIONS**
+<br/><br/>
+
+The search for target studies is not performed in a replicable method. A systematic review might reveal more target studies that meet the eligibility criteria. Software codes use a propriety software package. Use of  R or Phyton are preferable in terms of user accessibility. 
+
+<br/><br/>
+  
+**FUTURE DIRECTIONS AND COLLABOATIONS** 
+<br/><br/>
+
+The idea of this work originated from looking at estimates for COVID-19 epidemic in one location, Iran, in repository covir2. Then I thought about creating a template that can be used for any location and its sub-locations – from global level, to regional (e.g., continents, WHO regions, GBD regions, etc.), national, and subnational levels (where available). Also thought about a visualization hub, that creates (combined results and) graphs for all locations for which COVID-19 estimates are available via the international periodically updating models. For writing the code, I lack the knowledge and experience with Python to do the job. I am looking for suggestions, collaboration, and help; please e-mail me (pourmalek_farshad@yahoo.com)
+<br/><br/>
+
+********************************************************************************************************************************************
+********************************************************************************************************************************************
+
+## III. INNER WORKS OF THIS REPOSITORY 
+
+The Stata _codes_ can be executed on local machines:
+
+Run in Stata "Users|local-user-name|Downloads|GlobalCovidCombineVisualizeCombineVisualize-main|20210428|code|master|do GlobalCovidCombineVisualizeCombineVisualizemaster.do" on local machine after the directory |GlobalCovidCombineVisualizeCombineVisualize-main| is downloaded into and is located in the root of |Downloads| folder of your local machine, for update 20210428; and later instances of 202YMMDD for later updates.  
+
+Preproduced _outputs_ are stored for each update, e.g., [`20210428`](https://github.com/pourmalek/ GlobalCovidCombineVisualizeCombineVisualize /tree/main/20210428), in folder [`output`](https://github.com/pourmalek/ GlobalCovidCombineVisualizeCombineVisualize /tree/main/20210428/output), for each component study, i.e. [`DELP`](https://github.com/pourmalek/ GlobalCovidCombineVisualizeCombineVisualize /tree/main/20210428/output/DELP), [`IHME`](https://github.com/pourmalek/GlobalCovidCombineVisualize/tree/main/20210428/output/IHME), [`IMPE`](https://github.com/pourmalek/ GlobalCovidCombineVisualizeCombineVisualize /tree/main/20210428/output/IMPE), [`LANL`](https://github.com/pourmalek/GlobalCovidCombineVisualize/tree/main/20210428/output/LANL), and [`SRIV`](https://github.com/pourmalek/GlobalCovidCombineVisualize/tree/main/20210428/output/SRIV), plus [`JOHN`](https://github.com/pourmalek/GlobalCovidCombineVisualize/tree/main/20210428/output/JOHN) as benchmark. Combined results stored in [`merge`](https://github.com/pourmalek/GlobalCovidCombineVisualize/tree/main/20210428/output/merge). 
+
+[`longitudinal`](https://github.com/pourmalek/GlobalCovidCombineVisualize/tree/main/longitudinal) assessment of models will be added later. 
+
+Selected _graphs_ are shown below. 
+
+_Component studies and their scenarios_ are mentioned below after the selected _graphs_.
+
+[`Variable name structure`](https://github.com/pourmalek/GlobalCovidCombineVisualize/blob/main/Variable%20name%20structure.md)
+
+[`Troubleshooting`](https://github.com/pourmalek/GlobalCovidCombineVisualize/blob/main/Troubleshooting.md)
+
+
+
+### Scenario number within component study
+
+
+[Names within brackets assigned by this review study.]
+
+#### A00 JOHN
+* S00 = [Not Applicable]
+<br/><br/>
+
+#### A01 DELP
+* S00 = [Single scenario]
+<br/><br/>
+
+#### A02 IHME
+* S01 = Reference scenario [Status Quo] 
+* S02 = Best scenario (Universal masks) [Best]
+* S03 = Worse scenario (Mandates easing) [Worst] 
+<br/><br/>
+
+#### A03 IMPE
+* S01 = Additional 50% Reduction [Best]	
+* S02 = Current level of interventions [Reference] 			
+* S03 = Relax Interventions 50% [Worst]
+* S04 = Surged Additional 50% Reduction [Best, Surged]
+* S05 = Surged Maintain Status Quo [Reference, Surged] 	
+* S06 = Surged Relax Interventions 50% [Worst, Surged]	
+<br/><br/>
+
+#### A04 LANL
+* S00 = [Single scenario]
+<br/><br/>
+
+#### A05 SRIV
+* S00 = [current]
+* Note: SRIV has 3 sets of scenrios, here (add). 
+<br/><br/>
+
+
+
+### uptakes in this repository, since April 2021 
+
+
+**bold fonts** show the uptake was triggered by IHME or IMPE. 
+
+.
+
+(uptake number) uptake date: study update date, study update date
+
+.
+  
+  
+(20) uptake 20210618: DELP 20210618, **_IHME 20210618_**, IMPE 20210611, LANL 20210613, SRIV 20210618  
+  
+(19) uptake 20210611: DELP 20210611, IHME 20210610, **_IMPE 20210611_**, LANL 20210606, SRIV 20210611  
+
+(18) uptake 20210610: DELP 20210610, **_IHME 20210610_**, IMPE 20210604, LANL 20210606, SRIV 20210610
+
+(17) uptake 20210605: DELP 20210603, IHME 20210604, **I_MPE 20210604_**, LANL 20210602, SRIV 20210604
+
+(16) uptake 20210604: DELP 20210604, **_IHME 20210604_**, IMPE 20210527, LANL 20210602, SRIV 20210604
+
+(15) uptake 20210603: DELP 20210602, IHME 20210528, **_IMPE 20210527_**, LANL 20210526, SRIV 20210603
+
+(14) uptake 20210528: DELP 20210528, **_IHME 20210528_**, IMPE 20210522, LANL 20210526, SRIV 20210528
+
+(13) uptake 20210522: DELP 20210522, IHME 20210521, **_IMPE 20210522_**, LANL 20210519, SRIV 20210522
+
+(12) uptake 20210521: DELP 20210521, **_IHME 20210521_**, IMPE 20210516, LANL 20210519, SRIV 20210521
+
+(11) uptake 20210516: DELP 20210516, IHME 20210514, **_IMPE 20210516_**, LANL 20210516, SRIV 20210516
+
+(10) uptake 20210515: DELP 20210515, IHME 20210514, **_IMPE 20210510_**, LANL 20210512, SRIV 20210515
+
+(9) uptake 20210514: DELP 20210514, **_IHME 20210514_**, IMPE 20210424, LANL 20210512, SRIV 20210514 
+
+(8) uptake 20210506: DELP 20210506, **_IHME 20210506_**, IMPE 20210424, LANL 20210505, SRIV 20210506 
+
+(7) uptake 20210424: DELP 20210424, IHME 20210422, **_IMPE 20210424_**, LANL 20210421, SRIV 20210424 
+
+(6) uptake 20210422: DELP N20210422, **_IHME 20210422_**, IMPE 2010417, LANL 20210421, SRIV 20210422
+
+(5) uptake 20210417: DELP 20210417, IHME 20210416, **_IMPE 20210417_**, LANL 20210414, SRIV 20210417
+
+(4) uptake 20210416: DELP 20210416, **_IHME 20210416_**, IMPE 20210406, LANL 20210414, SRIV 20210416
+
+(3) uptake 20210409: DELP 20210409, **_IHME 20210409_**, IMPE 20210406, LANL 20210407, SRIV 20210409
+
+(2) uptake 20210406: DELP 20210406, IHME 20210401, **_IMPE 20210406-**, LANL 20210404, SRIV 20210406 
+
+(1) uptake 20210401: DELP 20210401, **_IHME 20210401_**, IMPE 20210329, LANL 20210331, SRIV 20210401 
+
+
+********************************************************************************************************************************************
+********************************************************************************************************************************************
+
+## IV. SELCTED GRAPHS FROM PREVIOUS UPTAKES
+  
+  
+[(1) Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedGlobal#1-daily-deaths-reference-scenarios-all-time)
+
+[(2) Daily deaths, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedGlobal#2-daily-deaths-reference-scenarios-2021)
+  
+[(3) Daily deaths, 3 scenarios, 2011](https://github.com/pourmalek/CovidVisualizedGlobal#3-daily-deaths-3-scenarios-2011)
+  
+[(4) Daily cases, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedGlobal#4-daily-cases-reference-scenarios-all-time)
+  
+[(5) Daily cases, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedGlobal#5-daily-cases-reference-scenarios-2021)
+  
+[(6) Daily cases, 3 scenarios, 2011](https://github.com/pourmalek/CovidVisualizedGlobal#6-daily-cases-3-scenarios-2011)
+  
+[(7) Hospital-related outcomes, all time](https://github.com/pourmalek/CovidVisualizedGlobal#7-hospital-related-outcomes-all-time)
+  
+[(8) Hospital-related outcomes, 2021, without IHME Bed need and IMPE Hospital demand](https://github.com/pourmalek/CovidVisualizedGlobal#8-hospital-related-outcomes-2021-without-ihme-bed-need-and-impe-hospital-demand)
+  
+[(9) Daily deaths estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedGlobal#9-daily-deaths-estimated-to-reported-reference-scenarios-2021)
+  
+[(10) Daily cases estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedGlobal#10-daily-cases-estimated-to-reported-reference-scenarios-2021)
+
+****
+
+### (1) Daily deaths, reference scenarios, all time
+  
+  
+*
+  
+**uptake 20210618**: DELP 20210618, **_IHME 20210618_**, IMPE 20210611, LANL 20210613, SRIV 20210618  
+  
+(1) [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20210618/output/merge/graph%2011%20COVID-19%20daily%20deaths%2C%20global%2C%20reference%20scenarios%2C%20all%20time.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/122677174-0c80cf80-d196-11eb-8e4a-1cb5225206db.png)
+
+*
+  
+**uptake 20210611**: DELP 20210611, IHME 20210610, **_IMPE 20210611_**, LANL 20210606, SRIV 20210611 
+    
   
   
   
