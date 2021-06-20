@@ -568,7 +568,7 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
 ### List of graphs  
   
-[(1) Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry#1-daily-deaths-reference-scenarios-all-time)
+[(1) Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry#graph-1-canada---daily-deaths-reference-scenarios-all-time)
 
 [(2) Daily deaths, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry#graph-2-canada---daily-deaths-reference-scenarios-2011)
   
