@@ -43,15 +43,13 @@
 
 #### DELP 20210618, **_IHME 20210618_**, IMPE 20210611, LANL 20210613, SRIV 20210618
   
-## Selected graphs
+#### Selected graphs - [Canada](https://github.com/pourmalek/CovidVisualizedCountry#selected-graphs---canada-1)
 
-### Selected graphs - [Canada](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210618/readme.md#selected-graphs---canada-1)
+#### Selected graphs - [British Columbia](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210618/readme.md#selected-graphs---british-columbia-1)
 
-### Selected graphs - [British Columbia](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210618/readme.md#selected-graphs---british-columbia-1)
+#### Selected graphs - [Ontario](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210618/readme.md#selected-graphs---ontario-1)
 
-### Selected graphs - [Ontario](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210618/readme.md#selected-graphs---ontario-1)
-
-### Selected graphs - [Quebec](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210618/readme.md#selected-graphs---quebec-1)
+#### Selected graphs - [Quebec](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210618/readme.md#selected-graphs---quebec-1)
 
 ****
 
