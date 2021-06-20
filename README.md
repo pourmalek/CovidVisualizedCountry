@@ -566,6 +566,7 @@ _Component studies and their scenarios_ are mentioned below after the selected _
 
 ## IV. SELCTED GRAPHS FROM PREVIOUS UPTAKES
   
+### List of graphs  
   
 [(1) Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry#1-daily-deaths-reference-scenarios-all-time)
 
@@ -588,42 +589,8 @@ _Component studies and their scenarios_ are mentioned below after the selected _
 [(10) Daily cases estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry#graph-10-canada---daily-cases-estimated-to-reported-reference-scenarios-2021)
 
 ****
-
-### (1) Daily deaths, reference scenarios, all time
-  
-  
-*
-  
-**uptake 20210618**: DELP 20210618, **_IHME 20210618_**, IMPE 20210611, LANL 20210613, SRIV 20210618  
-  
-(1) [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20210618/output/merge/graph%2011%20COVID-19%20daily%20deaths%2C%20global%2C%20reference%20scenarios%2C%20all%20time.pdf)
-
-![image](https://user-images.githubusercontent.com/30849720/122677174-0c80cf80-d196-11eb-8e4a-1cb5225206db.png)
-
-*
-  
-**uptake 20210611**: DELP 20210611, IHME 20210610, **_IMPE 20210611_**, LANL 20210606, SRIV 20210611 
     
-  
-  
-  
-  
-  
-
-
-****
-****
-
-
-
-
-****
-
-## Selected graphs
-  
-<br/><br/>  
-  
-### Order of graphs
+### Logical order of graphs
 
 1.	Location level: National, followed by 3 select provinces (two most affected, and BC)
   
