@@ -17,9 +17,7 @@
   
 ********************************************************************************************************************************************  
   *
-  
 #### Nomenclature CORRECTION to be applied: Case Fatality Ratio (CFR) applies to symptomatic cases, Infection Fatality ratio (CFR) applies to all infections, comprised of symptomatic and asymptomatic cases. 
-
   *
 ********************************************************************************************************************************************  
 
