@@ -3244,6 +3244,6 @@ no IHME update added from previous uptake to this uptake; therefore the graphs a
 <br/><br/>
   
   
-Pourmalek, F. CovidVisualizedCountry: Combine and visualize international periodically updating estimates of COVID-19 at the country level: Canada, national level, provinces, and territories. Version 1.1, Released June 23, 2021. https://zenodo.org/badge/latestdoi/358416574 https://github.com/pourmalek/CovidVisualizedCountry
+Pourmalek, F. CovidVisualizedCountry: Combine and visualize international periodically updating estimates of COVID-19 at the country level: Canada, national level, provinces, and territories. Version 1.1, Released June 23, 2021.http://doi.org/10.5281/zenodo.5019482 https://github.com/pourmalek/CovidVisualizedCountry
   
   
