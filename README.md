@@ -15,7 +15,14 @@
 ********************************************************************************************************************************************
 ********************************************************************************************************************************************  
   
+********************************************************************************************************************************************  
+  *
   
+#### Nomenclature CORRECTION to be applied: Case Fatality Ratio (CFR) applies to symptomatic cases, Infection Fatality ratio (CFR) applies to all infections, comprised of symptomatic and asymptomatic cases. 
+
+  *
+********************************************************************************************************************************************  
+
 ### TOC
 
 [I. SELCTED GRAPHS FROM LATEST UPTAKE](https://github.com/pourmalek/CovidVisualizedCountry#i-selcted-graphs-from-latest-uptake)
