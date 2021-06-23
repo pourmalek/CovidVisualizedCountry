@@ -1,5 +1,9 @@
 # CovidVisualizedCountry
 
+
+[![DOI](https://zenodo.org/badge/358416574.svg)](https://zenodo.org/badge/latestdoi/358416574)
+
+
 ### Combine and visualize international periodically updating estimates of COVID-19 
 
 ### <div align="center"> at the country level 
