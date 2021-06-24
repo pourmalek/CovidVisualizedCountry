@@ -18,7 +18,7 @@
   
   [![Orcid](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-2134-0771) 
   
-    [![Orcid](https://info.orcid.org/wp-content/uploads/2019/11/orcid_128x128.png)](https://orcid.org/0000-0002-2134-0771) 
+    [![Orcid](https://info.orcid.org/wp-content/uploads/2019/11/orcid_24x24.png)](https://orcid.org/0000-0002-2134-0771) 
 
 
   
