@@ -15,9 +15,15 @@
 * Project: Combine and visualize international periodically updating estimates of COVID-19 at the country level (CovidVisualizedCountry)
   Countries with subnational estimates: Canada
 * Person: Farshad Pourmalek pourmalek_farshad at yahoo dot com 
-[[/covir2/sandbox/other/orcid_16x16.gif|orcid]](https://orcid.org/0000-0002-2134-0771)  
+  
+[[/covir2/sandbox/other/orcid_16x16.gif|orcid]](https://orcid.org/0000-0002-2134-0771)
+  
 [[/images/path/to/image.ext|ALT TEXT]]  covir2/sandbox/other/orcid_16x16.gif
+  
 [https://github.com/pourmalek/covir2/blob/main/sandbox/other/orcid_16x16.gif](https://orcid.org/0000-0002-2134-0771)
+  
+  <iframe src="https://widgets.figshare.com/articles/5008697/embed?show_title=1" width="568" height="351" allowfullscreen frameborder="0"></iframe>
+  
 * Time (initial): 2021-04-14
 ********************************************************************************************************************************************
 ********************************************************************************************************************************************  
