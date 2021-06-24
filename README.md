@@ -3233,7 +3233,7 @@ no IHME update added from previous uptake to this uptake; therefore the graphs a
 ********************************************************************************************************************************************
  
  
-## Licences / Copyrights of data and / or graphs used in this repository:
+## Licenses / Copyrights of data and / or graphs used in this repository:
 
 .
 
