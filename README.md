@@ -385,11 +385,11 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
 [(3) Daily deaths, 3 scenarios, 2011](https://github.com/pourmalek/CovidVisualizedCountry#graph-3-canada---daily-deaths-3-scenarios-2011)
   
-[(4) Daily cases, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry#graph-4-canada---daily-cases-reference-scenarios-all-time)
+[(4) Daily cases or infections, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry#graph-4-canada---daily-cases-reference-scenarios-all-time)
   
-[(5) Daily cases, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry#graph-5-canada---daily-cases-reference-scenarios-2021)
+[(5) Daily cases or infections, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry#graph-5-canada---daily-cases-reference-scenarios-2021)
   
-[(6) Daily cases, 3 scenarios, 2011](https://github.com/pourmalek/CovidVisualizedCountry#graph-6-canada---daily-cases-3-scenarios-2011)
+[(6) Daily cases or infections, 3 scenarios, 2011](https://github.com/pourmalek/CovidVisualizedCountry#graph-6-canada---daily-cases-3-scenarios-2011)
   
 [(7) Hospital-related outcomes, all time](https://github.com/pourmalek/CovidVisualizedCountry#graph-7-canada---hospital-related-outcomes-all-time)
   
@@ -397,7 +397,7 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
 [(9) Daily deaths estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry#graph-9-canada---daily-deaths-estimated-to-reported-reference-scenarios-2021)
   
-[(10) Daily cases estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry#graph-10-canada---daily-cases-estimated-to-reported-reference-scenarios-2021)
+[(10) Daily cases or infections estimated to reported cases, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry#graph-10-canada---daily-cases-estimated-to-reported-reference-scenarios-2021)
 
 ****
     
@@ -411,7 +411,7 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
     . To examine changes in predictions across consecutive uptakes
   
-3.	Outcomes: Daily deaths, Daily cases, Hospital-related outcomes, Daily deaths estimated to reported, Daily cases estimated to reported.
+3.	Outcomes: Daily deaths, Daily cases or infections, Hospital-related outcomes, Daily deaths estimated to reported, Daily cases or infections estimated to reported cases.
   
     . To examine different outcomes with different public health consequences and model performance implications
   
@@ -648,7 +648,7 @@ _Component studies and their scenarios_ are mentioned below after the selected _
 ****
 ****  
   
-#### graph (4) Canada - Daily cases, reference scenarios, all time
+#### graph (4) Canada - Daily cases or infections, reference scenarios, all time
   
   
   
@@ -717,7 +717,7 @@ _Component studies and their scenarios_ are mentioned below after the selected _
 ****
 ****  
   
-#### graph (5) Canada - Daily cases, reference scenarios, 2021
+#### graph (5) Canada - Daily cases or infections, reference scenarios, 2021
   
   
   
@@ -787,7 +787,7 @@ _Component studies and their scenarios_ are mentioned below after the selected _
 ****
 ****  
   
-#### graph (6) Canada - Daily cases, 3 scenarios, 2011
+#### graph (6) Canada - Daily cases or infections, 3 scenarios, 2011
   
   
   
@@ -1064,7 +1064,7 @@ _Component studies and their scenarios_ are mentioned below after the selected _
 ****
 ****  
 
-#### graph (10) Canada - Daily cases estimated to reported, reference scenarios, 2021
+#### graph (10) Canada - Daily cases or infections estimated to reported cases, reference scenarios, 2021
   
   
   
@@ -1412,7 +1412,7 @@ _Component studies and their scenarios_ are mentioned below after the selected _
 ****
 ****
   
-#### graph (4) British Columbia - Daily cases, reference scenarios, all time
+#### graph (4) British Columbia - Daily cases or infections, reference scenarios, all time
   
   
 *  
@@ -1481,7 +1481,7 @@ _Component studies and their scenarios_ are mentioned below after the selected _
 ****
 ****
   
-#### graph (5) British Columbia - Daily cases, reference scenarios, 2021 
+#### graph (5) British Columbia - Daily cases or infections, reference scenarios, 2021 
   
 
   
@@ -1551,7 +1551,7 @@ _Component studies and their scenarios_ are mentioned below after the selected _
 ****
 ****
   
-#### graph (6) British Columbia - Daily cases, 3 scenarios, 2011
+#### graph (6) British Columbia - Daily cases or infections, 3 scenarios, 2011
   
   
   
@@ -1825,7 +1825,7 @@ no IHME update added from previous uptake to this uptake; therefore the graphs a
 ****
 ****
   
-#### graph (10) British Columbia - Daily cases estimated to reported, reference scenarios, 2021
+#### graph (10) British Columbia - Daily cases or infections estimated to reported cases, reference scenarios, 2021
   
   
   
@@ -2107,7 +2107,7 @@ no IHME update added from previous uptake to this uptake; therefore the graphs a
 ****
 ****
   
-#### graph (4) Ontario - Daily cases, reference scenarios, all time
+#### graph (4) Ontario - Daily cases or infections, reference scenarios, all time
   
   
   
@@ -2176,7 +2176,7 @@ no IHME update added from previous uptake to this uptake; therefore the graphs a
 ****
 ****
   
-#### graph (5) Ontario - Daily cases, reference scenarios, 2021
+#### graph (5) Ontario - Daily cases or infections, reference scenarios, 2021
   
 
   
@@ -2245,7 +2245,7 @@ no IHME update added from previous uptake to this uptake; therefore the graphs a
 ****
 ****
   
-#### graph (6) Ontario - Daily cases, 3 scenarios, 2011 
+#### graph (6) Ontario - Daily cases or infections, 3 scenarios, 2011 
   
   
   
@@ -2521,7 +2521,7 @@ no IHME update added from previous uptake to this uptake; therefore the graphs a
 ****
 ****
   
-#### graph (10) Ontario - Daily cases estimated to reported, reference scenarios, 2021
+#### graph (10) Ontario - Daily cases or infections estimated to reported cases, reference scenarios, 2021
   
   
   
@@ -2805,7 +2805,7 @@ no IHME update added from previous uptake to this uptake; therefore the graphs a
 ****
 ****
   
-#### graph (4) Quebec - Daily cases, reference scenarios, all time
+#### graph (4) Quebec - Daily cases or infections, reference scenarios, all time
   
   
   
@@ -2874,7 +2874,7 @@ no IHME update added from previous uptake to this uptake; therefore the graphs a
 ****
 ****
   
-#### graph (5) Quebec - Daily cases, reference scenarios, 2021
+#### graph (5) Quebec - Daily cases or infections, reference scenarios, 2021
   
   
   
@@ -2943,7 +2943,7 @@ no IHME update added from previous uptake to this uptake; therefore the graphs a
 ****
 ****
   
-#### graph (6) Quebec - Daily cases, 3 scenarios, 2011
+#### graph (6) Quebec - Daily cases or infections, 3 scenarios, 2011
   
   
   
@@ -3215,7 +3215,7 @@ no IHME update added from previous uptake to this uptake; therefore the graphs a
 ****
 ****
   
-#### graph (10) Quebec - Daily cases estimated to reported, reference scenarios, 2021 
+#### graph (10) Quebec - Daily cases or infections estimated to reported cases, reference scenarios, 2021 
   
   
   
