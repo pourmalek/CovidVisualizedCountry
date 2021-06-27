@@ -57,6 +57,8 @@ The codes in these repositories can be adapted for use for any country or region
 ### IHME and IMPE estimate INFECTIONS (not CASES). 
   
 #### Their Case Fatality Ratio (CFR) -> Infection Fatality ratio (IFR).
+  
+  This cirrection has been mde for updatkes 20210624 abd 20210525.
 
   *
 ********************************************************************************************************************************************   
