@@ -105,9 +105,7 @@ DELP 20210610, **_IHME 20210610_**, IMPE 20210604, LANL 20210606, SRIV 20210610
 
 (2) British Columbia [Daily deaths, reference scenarios, 2011](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210610/output/merge/main/SUB2%2012bDayDeaMERGsub%202021%20British%20Columbia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%202021.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/123668273-ccea6100-d7ef-11eb-9e83-9ed75b8170ba.png)
-
-![image](https://user-images.githubusercontent.com/30849720/123668537-0cb14880-d7f0-11eb-9cfb-cdb08faa7529.png)
+![image](https://user-images.githubusercontent.com/30849720/123691129-15167d00-d80a-11eb-82bc-ba16e4d25f60.png)
 
 ****
 
