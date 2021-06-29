@@ -13,13 +13,13 @@
   
 #### :eyes: SEE :chart_with_upwards_trend: graphs, `< >` code, and :floppy_disk: data of :clock10: periodical updates of COVID-19 epidemic models’ estimates: 
   
-#### Delphi, IHME, Imperial college, Los Alamos, and Srivastava, 
+#### [Delphi](https://covidanalytics.io/projections), [IHME](https://covid19.healthdata.org/canada?view=daily-deaths&tab=trend), [Imperial college](https://github.com/mrc-ide/global-lmic-reports/blob/master/CAN/2021-06-18/index.pdf), [Los Alamos](https://covid-19.bsvgateway.org), and [Srivastava](https://scc-usc.github.io/ReCOVER-COVID-19/#/), 
   
-#### for daily (and total) cases, infections, deaths, and hospitalizations,
+#### for daily (and total) [deaths](https://github.com/pourmalek/CovidVisualizedCountry#graph-3-canada---daily-deaths-3-scenarios-2011, [cases](), [infections](), and [hospitalizations](),
   
-#### for Canada: National level, British Columbia, Ontario, Quebec, and other provinces and territories
+#### for Canada: [National level](), [British Columbia](), [Ontario](), [Quebec,]() and [other provinces and territories]()
   
-#### or other countries via code adjustment  
+#### or [other countries via code adjustment]()  
 
 
 
