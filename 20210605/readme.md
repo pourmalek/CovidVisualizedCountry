@@ -238,9 +238,7 @@ This uptake is actually uptake 20210604 number 2, because IMPE update 20210604 (
 
 (3) Quebec [Daily deaths, 3 scenarios, 2011](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210605/output/merge/main/SUB3%2014bDayDeaMERGsub%202021%203%20scenarios%20Quebec%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Quebec%2C%203%20scenarios%2C%202021.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/123736637-516fca80-d856-11eb-8b0a-9399e8d582c0.png)
-
-![image](https://user-images.githubusercontent.com/30849720/123738202-36eb2080-d859-11eb-9cf8-447996de1332.png)
+![image](https://user-images.githubusercontent.com/30849720/123739796-1a9cb300-d85c-11eb-87bb-db18f30dc928.png)
 
 ****
 
