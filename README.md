@@ -589,9 +589,7 @@ _Component studies and their scenarios_ are mentioned below after the selected _
 
 **uptake 20210605**: DELP 20210604, IHME 20210604, **_IMPE 20210604_**, LANL 20210602, SRIV 20210604
   
-(2) Canada [Daily deaths, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/main/CAN2%2012aDayDeaMERGnat%202021%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%202021.pdf)
-
-![image](https://user-images.githubusercontent.com/30849720/122652570-5ca75580-d0f4-11eb-844b-e50a784dea9d.png)
+.
   
 *  
   
@@ -667,9 +665,7 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
 **uptake 20210605**: DELP 20210604, IHME 20210604, **_IMPE 20210604_**, LANL 20210602, SRIV 20210604
   
-(3) Canada [Daily deaths, 3 scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/main/CAN3%2014aDayDeaMERGnat%202021%203%20scenarios%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20National%2C%203%20scenarios%2C%202021.pdf)
-
-![image](https://user-images.githubusercontent.com/30849720/122652591-7a74ba80-d0f4-11eb-885d-39d6a010fc5d.png)
+.
   
 * 
   
@@ -744,9 +740,7 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
 **uptake 20210605**: DELP 20210604, IHME 20210604, **_IMPE 20210604_**, LANL 20210602, SRIV 20210604
   
-(4) Canada [Daily cases, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/main/CAN4%2031aDayCasMERGnat%20alltime%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20National%2C%20reference%20scenarios.pdf)
-
-![image](https://user-images.githubusercontent.com/30849720/122652636-a859ff00-d0f4-11eb-8f4d-757f6517e88c.png)
+.
   
 *  
   
@@ -823,9 +817,7 @@ _Component studies and their scenarios_ are mentioned below after the selected _
 
 **uptake 20210605**: DELP 20210604, IHME 20210604, **_IMPE 20210604_**, LANL 20210602, SRIV 20210604
   
-(5) Canada [Daily cases, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/main/CAN5%2032aDayCasMERGnat%202021%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%202021.pdf)
-
-![image](https://user-images.githubusercontent.com/30849720/122652683-d50e1680-d0f4-11eb-9412-af9c01397cf3.png) 
+.
   
 *
   
@@ -903,9 +895,7 @@ _Component studies and their scenarios_ are mentioned below after the selected _
 
 **uptake 20210605**: DELP 20210604, IHME 20210604, **_IMPE 20210604_**, LANL 20210602, SRIV 20210604
   
-(6) Canada [Daily cases, 3 scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/main/CAN6%2034aDayCasMERGnat%202021%203scen%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20National%2C%203%20scenarios%2C%202021%2C%20uncertainty.pdf)
-
-![image](https://user-images.githubusercontent.com/30849720/122652707-f3741200-d0f4-11eb-8587-f14473a0cabe.png)
+.
     
 *  
   
@@ -982,9 +972,7 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
 **uptake 20210605**: DELP 20210604, IHME 20210604, **_IMPE 20210604_**, LANL 20210602, SRIV 20210604
   
-(7) Canada [Hospital-related outcomes, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/main/CAN7%2071aDayHosMERGnat%20%20alltime%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20National.pdf)
-
-![image](https://user-images.githubusercontent.com/30849720/122652823-c116e480-d0f5-11eb-926e-8f3422c666b0.png)
+.
   
 *  
   
@@ -1061,9 +1049,7 @@ _Component studies and their scenarios_ are mentioned below after the selected _
 
 **uptake 20210605**: DELP 20210604, IHME 20210604, **_IMPE 20210604_**, LANL 20210602, SRIV 20210604
   
-(8) Canada [Hospital-related outcomes, 2021, without IHME Bed need and IMPE Hospital demand](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/main/CAN8%2073aDayHosMERGnat%202021%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20National%2C%20wo%20extremes%2C%202021.pdf)
-
-![image](https://user-images.githubusercontent.com/30849720/122652842-dab82c00-d0f5-11eb-82f5-ddf4f3c90700.png)
+.
   
 *
   
@@ -1141,9 +1127,7 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
 **uptake 20210605**: DELP 20210604, IHME 20210604, **_IMPE 20210604_**, LANL 20210602, SRIV 20210604
   
-(9) Canada [Daily deaths estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/main/CAN9%2092aDayDERMERGnat%202021%20-%20COVID-19%20daily%20deaths%20estimated%20to%20reported%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%202021.pdf)
-
-![image](https://user-images.githubusercontent.com/30849720/122652861-f58aa080-d0f5-11eb-9f5f-f1b9e99b2d54.png)
+.
   
 *
   
@@ -1220,9 +1204,7 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
 **uptake 20210605**: DELP 20210604, IHME 20210604, **_IMPE 20210604_**, LANL 20210602, SRIV 20210604
   
-(10) Canada [Daily cases estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/main/CAN10%2094aDayCERMERGnat%202021%20-%20COVID-19%20daily%20cases%20estimated%20to%20reported%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%202021.pdf)
-
-![image](https://user-images.githubusercontent.com/30849720/122652877-0dfabb00-d0f6-11eb-9579-ac155c3dd255.png)
+.
     
 *
   
@@ -1296,9 +1278,7 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
 **uptake 20210605**: DELP 20210604, IHME 20210604, **_IMPE 20210604_**, LANL 20210602, SRIV 20210604
   
-(11) Canada and provinces [Daily death rates, reference scenario, all time, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/main/CAN11%2019aDayDeaRATE%20alltime%20IHME%20-%20COVID-19%20daily%20death%20rate%2C%20Canada%2C%20subnational%2C%20IHME%2C%20reference%20scenario.pdf)
-
-![image](https://user-images.githubusercontent.com/30849720/122652894-28cd2f80-d0f6-11eb-8146-10b191572f66.png)
+.
     
 *
   
@@ -1385,9 +1365,7 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
 **uptake 20210605**: DELP 20210604, IHME 20210604, **_IMPE 20210604_**, LANL 20210602, SRIV 20210604
   
-(1) British Columbia [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/main/SUB1%2021bDayDeaMERGsub%20alltime%20British%20Columbia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%20all%20time.pdf)
-
-![image](https://user-images.githubusercontent.com/30849720/122652916-53b78380-d0f6-11eb-990f-6abd23884a8e.png)
+.
   
 *     
   
@@ -1465,9 +1443,7 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
 **uptake 20210605**: DELP 20210604, IHME 20210604, **_IMPE 20210604_**, LANL 20210602, SRIV 20210604
   
-(2) British Columbia [Daily deaths, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/main/SUB2%2012bDayDeaMERGsub%202021%20British%20Columbia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%202021.pdf)
-
-![image](https://user-images.githubusercontent.com/30849720/122652948-6d58cb00-d0f6-11eb-9302-fbad9a201c73.png)
+.
   
 *    
   
@@ -1546,9 +1522,7 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
 **uptake 20210605**: DELP 20210604, IHME 20210604, **_IMPE 20210604_**, LANL 20210602, SRIV 20210604
   
-(3) British Columbia [Daily deaths, 3 scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/main/SUB3%2014bDayDeaMERGsub%202021%203%20scenarios%20British%20Columbia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20British%20Columbia%2C%203%20scenarios%2C%202021.pdf)
-
-![image](https://user-images.githubusercontent.com/30849720/122652967-89f50300-d0f6-11eb-864c-98c366296741.png)
+.
   
 *   
   
@@ -1626,9 +1600,7 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
 **uptake 20210605**: DELP 20210604, IHME 20210604, **_IMPE 20210604_**, LANL 20210602, SRIV 20210604
   
-(4) British Columbia [Daily cases, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/main/SUB4%2031bDayCasMERGsub%20alltime%20British%20Columbia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios.pdf)
-
-![image](https://user-images.githubusercontent.com/30849720/122652993-a4c77780-d0f6-11eb-8256-eedf2870a903.png)
+.
   
 *   
   
@@ -1704,11 +1676,7 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
 * 
   
-**uptake 20210605**: DELP 20210604, IHME 20210604, **_IMPE 20210604_**, LANL 20210602, SRIV 20210604
-  
-(5) British Columbia [Daily cases, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/main/SUB5%2032bDayCasMERGsub%202021%20British%20Columbia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%202021.pdf)
-
-![image](https://user-images.githubusercontent.com/30849720/122653003-bdd02880-d0f6-11eb-980e-e6b8220b8ac4.png)
+.
   
 *      
   
@@ -1786,9 +1754,7 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
 **uptake 20210605**: DELP 20210604, IHME 20210604, **_IMPE 20210604_**, LANL 20210602, SRIV 20210604
   
-(6) British Columbia [Daily cases, 3 scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/main/SUB6%2034bDayCasMERGsub%202021%203scen%20British%20Columbia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20British%20Columbia%2C%203%20scenarios%2C%202021%2C%20uncertainty.pdf)
-
-![image](https://user-images.githubusercontent.com/30849720/122653033-d8a29d00-d0f6-11eb-80e1-15747e6c82fa.png)
+.
   
 *      
   
@@ -1866,7 +1832,7 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
 **uptake 20210605**: DELP 20210604, IHME 20210604, **_IMPE 20210604_**, LANL 20210602, SRIV 20210604
   
-no IHME update added from previous uptake to this uptake; therefore the graphs are identical
+.
 
   
 *     
@@ -1945,8 +1911,7 @@ no IHME update added from previous uptake to this uptake; therefore the graphs a
   
 **uptake 20210605**: DELP 20210604, IHME 20210604, **_IMPE 20210604_**, LANL 20210602, SRIV 20210604
   
-no IHME update added from previous uptake to this uptake; therefore the graphs are identical
-
+.
   
 *   
   
@@ -2025,8 +1990,7 @@ no IHME update added from previous uptake to this uptake; therefore the graphs a
   
 **uptake 20210605**: DELP 20210604, IHME 20210604, **_IMPE 20210604_**, LANL 20210602, SRIV 20210604
   
-no IHME update added from previous uptake to this uptake; therefore the graphs are identical
-
+.
   
 *   
   
@@ -2106,8 +2070,7 @@ no IHME update added from previous uptake to this uptake; therefore the graphs a
   
 **uptake 20210605**: DELP 20210604, IHME 20210604, **_IMPE 20210604_**, LANL 20210602, SRIV 20210604
 
-no IHME update added from previous uptake to this uptake; therefore the graphs are identical
-
+.
   
 *    
   
@@ -2193,7 +2156,7 @@ no IHME update added from previous uptake to this uptake; therefore the graphs a
 
 **uptake 20210605**: DELP 20210604, IHME 20210604, **_IMPE 20210604_**, LANL 20210602, SRIV 20210604
   
-no IHME update added from previous uptake to this uptake; therefore the graphs are identical
+.
   
 *   
   
@@ -2271,7 +2234,7 @@ no IHME update added from previous uptake to this uptake; therefore the graphs a
   
 **uptake 20210605**: DELP 20210604, IHME 20210604, **_IMPE 20210604_**, LANL 20210602, SRIV 20210604
   
-no IHME update added from previous uptake to this uptake; therefore the graphs are identical
+.
   
 *    
   
@@ -2350,7 +2313,7 @@ no IHME update added from previous uptake to this uptake; therefore the graphs a
   
 **uptake 20210605**: DELP 20210604, IHME 20210604, **_IMPE 20210604_**, LANL 20210602, SRIV 20210604
   
-no IHME update added from previous uptake to this uptake; therefore the graphs are identical
+.
   
 * 
   
@@ -2428,7 +2391,7 @@ no IHME update added from previous uptake to this uptake; therefore the graphs a
   
 **uptake 20210605**: DELP 20210604, IHME 20210604, **_IMPE 20210604_**, LANL 20210602, SRIV 20210604
   
-no IHME update added from previous uptake to this uptake; therefore the graphs are identical
+.
   
 *   
   
@@ -2507,7 +2470,7 @@ no IHME update added from previous uptake to this uptake; therefore the graphs a
   
 **uptake 20210605**: DELP 20210604, IHME 20210604, **_IMPE 20210604_**, LANL 20210602, SRIV 20210604
   
-no IHME update added from previous uptake to this uptake; therefore the graphs are identical
+.
   
 *   
   
@@ -2586,7 +2549,7 @@ no IHME update added from previous uptake to this uptake; therefore the graphs a
   
 **uptake 20210605**: DELP 20210604, IHME 20210604, **_IMPE 20210604_**, LANL 20210602, SRIV 20210604
   
-no IHME update added from previous uptake to this uptake; therefore the graphs are identical
+.
   
 *     
   
@@ -2665,7 +2628,7 @@ no IHME update added from previous uptake to this uptake; therefore the graphs a
   
 **uptake 20210605**: DELP 20210604, IHME 20210604, **_IMPE 20210604_**, LANL 20210602, SRIV 20210604
   
-no IHME update added from previous uptake to this uptake; therefore the graphs are basically similar
+.
   
 *  
   
@@ -2744,7 +2707,7 @@ no IHME update added from previous uptake to this uptake; therefore the graphs a
   
 **uptake 20210605**: DELP 20210604, IHME 20210604, **_IMPE 20210604_**, LANL 20210602, SRIV 20210604
   
-no IHME update added from previous uptake to this uptake; therefore the graphs are basically similar
+.
   
 * 
   
@@ -2823,7 +2786,7 @@ no IHME update added from previous uptake to this uptake; therefore the graphs a
   
 **uptake 20210605**: DELP 20210604, IHME 20210604, **_IMPE 20210604_**, LANL 20210602, SRIV 20210604
   
-no IHME update added from previous uptake to this uptake; therefore the graphs are basically similar
+.
   
 *    
   
@@ -2902,7 +2865,7 @@ no IHME update added from previous uptake to this uptake; therefore the graphs a
   
 **uptake 20210605**: DELP 20210604, IHME 20210604, **_IMPE 20210604_**, LANL 20210602, SRIV 20210604
   
-no IHME update added from previous uptake to this uptake; therefore the graphs are basically similar
+.
   
 * 
   
@@ -2989,7 +2952,7 @@ no IHME update added from previous uptake to this uptake; therefore the graphs a
   
 **uptake 20210605**: DELP 20210604, IHME 20210604, **_IMPE 20210604_**, LANL 20210602, SRIV 20210604
   
-no IHME update added from previous uptake to this uptake; therefore the graphs are identical
+.
   
 *   
   
@@ -3068,7 +3031,7 @@ no IHME update added from previous uptake to this uptake; therefore the graphs a
   
 **uptake 20210605**: DELP 20210604, IHME 20210604, **_IMPE 20210604_**, LANL 20210602, SRIV 20210604
   
-no IHME update added from previous uptake to this uptake; therefore the graphs are identical
+.
   
 * 
   
@@ -3147,7 +3110,7 @@ no IHME update added from previous uptake to this uptake; therefore the graphs a
    
 **uptake 20210605**: DELP 20210604, IHME 20210604, **_IMPE 20210604_**, LANL 20210602, SRIV 20210604
   
-no IHME update added from previous uptake to this uptake; therefore the graphs are identical
+.
   
 *  
   
@@ -3227,7 +3190,7 @@ no IHME update added from previous uptake to this uptake; therefore the graphs a
   
 **uptake 20210605**: DELP 20210604, IHME 20210604, **_IMPE 20210604_**, LANL 20210602, SRIV 20210604
   
-no IHME update added from previous uptake to this uptake; therefore the graphs are identical
+.
   
 *     
   
@@ -3306,7 +3269,7 @@ no IHME update added from previous uptake to this uptake; therefore the graphs a
   
 **uptake 20210605**: DELP 20210604, IHME 20210604, **_IMPE 20210604_**, LANL 20210602, SRIV 20210604
   
-no IHME update added from previous uptake to this uptake; therefore the graphs are identical
+.
   
 *  
   
@@ -3385,7 +3348,7 @@ no IHME update added from previous uptake to this uptake; therefore the graphs a
   
 **uptake 20210605**: DELP 20210604, IHME 20210604, **_IMPE 20210604_**, LANL 20210602, SRIV 20210604
   
-no IHME update added from previous uptake to this uptake; therefore the graphs are identical
+.
   
 *  
   
@@ -3464,7 +3427,7 @@ no IHME update added from previous uptake to this uptake; therefore the graphs a
   
 **uptake 20210605**: DELP 20210604, IHME 20210604, **_IMPE 20210604_**, LANL 20210602, SRIV 20210604
   
-no IHME update added from previous uptake to this uptake; therefore the graphs are basically similar
+.
   
 *      
   
@@ -3543,7 +3506,7 @@ no IHME update added from previous uptake to this uptake; therefore the graphs a
   
 **uptake 20210605**: DELP 20210604, IHME 20210604, **_IMPE 20210604_**, LANL 20210602, SRIV 20210604
   
-no IHME update added from previous uptake to this uptake; therefore the graphs are basically similar
+.
   
 *      
   
@@ -3621,7 +3584,7 @@ no IHME update added from previous uptake to this uptake; therefore the graphs a
   
 **uptake 20210605**: DELP 20210604, IHME 20210604, **_IMPE 20210604_**, LANL 20210602, SRIV 20210604
   
-no IHME update added from previous uptake to this uptake; therefore the graphs are basically similar
+.
   
 *     
   
@@ -3697,7 +3660,7 @@ no IHME update added from previous uptake to this uptake; therefore the graphs a
   
 **uptake 20210605**: DELP 20210604, IHME 20210604, **_IMPE 20210604_**, LANL 20210602, SRIV 20210604
   
-no IHME update added from previous uptake to this uptake; therefore the graphs are basically similar
+.
   
 *    
   
