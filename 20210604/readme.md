@@ -161,51 +161,61 @@ DELP 20210604, **_IHME 20210604_**, IMPE 20210527, LANL 20210602, SRIV 20210604
 
 (1) Ontario [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/main/SUB1%2011bDayDeaMERGsub%20alltime%20Ontario%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/123799069-afbf9c00-d89c-11eb-989b-7226ff2506a5.png)
 
 ****
 
 (2) Ontario [Daily deaths, reference scenarios, 2011](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/main/SUB2%2012bDayDeaMERGsub%202021%20Ontario%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/123799169-c8c84d00-d89c-11eb-94fb-393530819852.png)
 
 ****
 
 (3) Ontario [Daily deaths, 3 scenarios, 2011](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/main/SUB3%2014bDayDeaMERGsub%202021%203%20scenarios%20Ontario%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Ontario%2C%203%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/123799236-de3d7700-d89c-11eb-8a4e-5ebfb44aa780.png)
 
 ****
 
 (4) Ontario [Daily cases or infections, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/main/SUB4%2031bDayCasMERGsub%20alltime%20Ontario%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/123799323-f614fb00-d89c-11eb-92ca-0a41d64d57d4.png)
 
 ****
 
 (5) Ontario [Daily cases or infections, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/main/SUB5%2032bDayCasMERGsub%202021%20Ontario%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/123799407-0c22bb80-d89d-11eb-8e0b-795d526b08f4.png)
 
 ****
 
 (6) Ontario [Daily cases or infections, 3 scenarios, 2011](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/main/SUB6%2034bDayCasMERGsub%202021%203scen%20Ontario%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Ontario%2C%203%20scenarios%2C%202021%2C%20uncertainty.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/123799495-22c91280-d89d-11eb-8ca0-2370b7934e5d.png)
 
 ****
 
 (7) Ontario [Hospital-related outcomes, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/main/SUB7%2071bDayHosMERGsub%20alltime%20Ontario%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20Ontario.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/123799570-383e3c80-d89d-11eb-8f1a-068c80fd079c.png)
 
 ****
 
 (8) Ontario [Hospital-related outcomes, 2021, without IHME Bed need and IMPE Hospital demand](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/main/SUB8%2073bDayHosMERGsub%202021%20woextremes%20Ontario%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20Ontario%2C%20wo%20extremes%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/123799682-4e4bfd00-d89d-11eb-8601-c37873d2286a.png)
 
 ****
 
 (9) Ontario [Daily deaths estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/main/SUB9%2092bDayDERMERGsub%202021%20Ontario%20-%20COVID-19%20daily%20deaths%20estimated%20to%20reported%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/123799777-6754ae00-d89d-11eb-90c1-f9e7d47adda9.png)
 
 ****
 
 (10) Ontario [Daily cases or infections estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/output/merge/main/SUB10%2094bDayCERMERGsub%202021%20Ontario%20-%20COVID-19%20daily%20cases%20estimated%20to%20reported%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/123799853-7d626e80-d89d-11eb-8fc8-6cc4d72c12e6.png)
 
 ****
 ****
