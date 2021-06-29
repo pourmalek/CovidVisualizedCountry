@@ -1,0 +1,47 @@
+{smcl}
+{com}{sf}{ul off}{txt}{.-}
+      name:  {res}<unnamed>
+       {txt}log:  {res}/Users/farshadpourmalek/Downloads/CovidVisualizedCountry-main/20210604/code/IMPE/log CovidVisualizedCountry IMPE.smcl
+  {txt}log type:  {res}smcl
+ {txt}opened on:  {res}29 Jun 2021, 09:36:38
+{txt}
+{com}. 
+. ***************************************************************************
+. * This is "do CovidVisualizedCountry IMPE.do"
+. 
+. * Project: Combine and visualize international periodically updating 
+. * estimates of COVID-19 at the country level (CovidVisualizedCountry)
+. * Person: Farshad Pourmalek pourmalek_farshad at yahoo dotcom
+. * Time (initial): 2021-04-14
+. ***************************************************************************
+. 
+. 
+.                                                                                                          ***************************
+. * To change update date, find and replace all, 2021-05-27 (old), with 2021-05-27 (new) <<--       <<<--- * change update date here *
+.                                                                                                          ***************************
+. 
+. 
+. clear all
+{txt}
+{com}. 
+. 
+. *****************************
+. 
+. * get IMPE estimates
+. 
+. copy https://raw.githubusercontent.com/mrc-ide/global-lmic-reports/master/data/2021-05-27_v8.csv.zip 2021-05-27_v8.csv.zip
+{txt}
+{com}. unzipfile 2021-05-27_v8.csv.zip, replace
+{res}{txt}    inflating: 2021-05-27_v8.csv
+successfully unzipped 2021-05-27_v8.csv.zip to current directory
+
+{com}. erase 2021-05-27_v8.csv.zip
+{txt}
+{com}. 
+. 
+.  
+. ******************************
+. 
+. * import csv file
+. 
+. import delimited "2021-05-27_v8.csv", clear varnames(1) // * Wait Note: large file size, takes a while ...
