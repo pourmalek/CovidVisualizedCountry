@@ -11,13 +11,13 @@
   
   *****************************
   
-#### :eyes: SEE :chart_with_upwards_trend: graphs, `< >` code, and :floppy_disk: data of :clock10: periodical updates of COVID-19 epidemic models’ estimates: 
+#### :eyes: SEE graphs, code, and data of periodical updates of COVID-19 epidemic models’ estimates: 
   
 #### [Delphi](https://covidanalytics.io/projections), [IHME](https://covid19.healthdata.org/canada?view=daily-deaths&tab=trend), [Imperial college](https://github.com/mrc-ide/global-lmic-reports/blob/master/CAN/2021-06-18/index.pdf), [Los Alamos](https://covid-19.bsvgateway.org), and [Srivastava](https://scc-usc.github.io/ReCOVER-COVID-19/#/), 
   
-#### for daily (and total) [deaths](https://github.com/pourmalek/CovidVisualizedCountry#graph-3-canada---daily-deaths-3-scenarios-2021), [cases](), [infections](), and [hospitalizations](),
+#### for daily (and total) [deaths](https://github.com/pourmalek/CovidVisualizedCountry#graph-3-canada---daily-deaths-3-scenarios-2021), [cases]https://github.com/pourmalek/CovidVisualizedCountry/blob/main/README.md#graph-5-canada---daily-cases-or-infections-reference-scenarios-2021), [infections](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/README.md#graph-4-canada---daily-cases-or-infections-reference-scenarios-all-time), and [hospitalizations](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/README.md#graph-8-canada---hospital-related-outcomes-2021-without-ihme-bed-need-and-impe-hospital-demand),
   
-#### for Canada: [National level](), [British Columbia](), [Ontario](), [Quebec,]() and [other provinces and territories]()
+#### for Canada: [National level](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/README.md#graph-1-canada---daily-deaths-reference-scenarios-all-time), [British Columbia](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/README.md#graph-1-british-columbia---daily-deaths-reference-scenarios-all-time), [Ontario](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/README.md#graph-1-ontario---daily-deaths-reference-scenarios-all-time), [Quebec,](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/README.md#graph-1-quebec---daily-deaths-reference-scenarios-all-time) and [other provinces and territories](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20210625/output/merge/main)
   
 #### or [other countries via code adjustment]()  
 
