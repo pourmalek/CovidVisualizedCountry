@@ -96,9 +96,9 @@ The codes in these repositories can be adapted for use for any country or region
 
 #### Selected graphs from latest uptake - [British Columbia](https://github.com/pourmalek/CovidVisualizedCountry#selected-graphs---british-columbia)
 
-#### Selected graphs from latest uptake - [Ontario](https://github.com/pourmalek/CovidVisualizedCountry#selected-graphs-from-latest-uptake---ontario)
+#### Selected graphs from latest uptake - [Ontario](https://github.com/pourmalek/CovidVisualizedCountry#selected-graphs---ontario)
 
-#### Selected graphsfrom latest uptake - [Quebec](https://github.com/pourmalek/CovidVisualizedCountry#selected-graphs-from-latest-uptake---quebec)
+#### Selected graphsfrom latest uptake - [Quebec](https://github.com/pourmalek/CovidVisualizedCountry#selected-graphs---quebec)
 
 ****
 
