@@ -11,7 +11,7 @@
   
   *****************************
   
-### SEE the periodical updates of COVID-19 epidemic models’ estimates: 
+### :eyes: SEE :chart_with_upwards_trend: graphs and :floppy_disk: data of periodical updates of COVID-19 epidemic models’ estimates: 
   
 ### Delphi, IHME, Imperial college, Los Alamos, and Srivastava, 
   
