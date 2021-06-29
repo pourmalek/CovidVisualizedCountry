@@ -226,41 +226,51 @@ This uptake is actually uptake 20210604 number 2, because IMPE update 20210604 (
 
 (1) Quebec [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210605/output/merge/main/SUB1%2011bDayDeaMERGsub%20alltime%20Quebec%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/123736449-fb028c00-d855-11eb-8519-b48748041eed.png)
 
 ****
 
 (2) Quebec [Daily deaths, reference scenarios, 2011](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210605/output/merge/main/SUB2%2012bDayDeaMERGsub%202021%20Quebec%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/123736580-3a30dd00-d856-11eb-81fa-e1bd61f552ef.png)
 
 ****
 
 (3) Quebec [Daily deaths, 3 scenarios, 2011](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210605/output/merge/main/SUB3%2014bDayDeaMERGsub%202021%203%20scenarios%20Quebec%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Quebec%2C%203%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/123736637-516fca80-d856-11eb-8b0a-9399e8d582c0.png)
+
+![image](https://user-images.githubusercontent.com/30849720/123738202-36eb2080-d859-11eb-9cf8-447996de1332.png)
 
 ****
 
 (4) Quebec [Daily cases or infections, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210605/output/merge/main/SUB4%2031bDayCasMERGsub%20alltime%20Quebec%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/123738257-508c6800-d859-11eb-8242-61439ff9dfa2.png)
 
 ****
 
 (5) Quebec [Daily cases or infections, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210605/output/merge/main/SUB5%2032bDayCasMERGsub%202021%20Quebec%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/123738317-6ef26380-d859-11eb-93e8-c84c7394485c.png)
 
 ****
 
 (6) Quebec [Daily cases or infections, 3 scenarios, 2011](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210605/output/merge/main/SUB6%2034bDayCasMERGsub%202021%203scen%20Quebec%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Quebec%2C%203%20scenarios%2C%202021%2C%20uncertainty.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/123738364-8598ba80-d859-11eb-8dda-3f5678d8bd61.png)
 
 ****
 
 (7) Quebec [Hospital-related outcomes, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210605/output/merge/main/SUB7%2071bDayHosMERGsub%20alltime%20Quebec%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20Quebec.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/123738417-9d703e80-d859-11eb-8ad0-42a368e6cf80.png)
 
 ****
 
 (8) Quebec [Hospital-related outcomes, 2021, without IHME Bed need and IMPE Hospital demand](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210605/output/merge/main/SUB8%2073bDayHosMERGsub%202021%20woextremes%20Quebec%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20Quebec%2C%20wo%20extremes%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/123738471-b37dff00-d859-11eb-87ff-4e0381949a64.png)
 
 ****
 
@@ -271,5 +281,6 @@ This uptake is actually uptake 20210604 number 2, because IMPE update 20210604 (
 
 (10) Quebec [Daily cases or infections estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210605/output/merge/main/SUB10%2094bDayCERMERGsub%202021%20Quebec%20-%20COVID-19%20daily%20cases%20estimated%20to%20reported%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/123738528-cee90a00-d859-11eb-9ac0-6e9f69cdb1da.png)
 
 ****
