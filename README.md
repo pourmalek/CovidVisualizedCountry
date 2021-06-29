@@ -92,11 +92,11 @@ The codes in these repositories can be adapted for use for any country or region
 
 #### DELP 20210625, **_IHME 20210625_**, IMPE 20210618, LANL 20210613, SRIV 20210624
   
-#### Selected graphs from latest uptake - [Canada](https://github.com/pourmalek/CovidVisualizedCountry#selected-graphs-from-latest-uptake---canada-1)
+#### Selected graphs from latest uptake - [Canada](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/README.md#selected-graphs---canada)
 
-#### Selected graphs from latest uptake - [British Columbia](https://github.com/pourmalek/CovidVisualizedCountry#selected-graphs-from-latest-uptake---british-columbia-1)
+#### Selected graphs from latest uptake - [British Columbia](https://github.com/pourmalek/CovidVisualizedCountry#selected-graphs---british-columbia)
 
-#### Selected graphs from latest uptake - [Ontario](https://github.com/pourmalek/CovidVisualizedCountry#selected-graphs-from-latest-uptake---ontario-1)
+#### Selected graphs from latest uptake - [Ontario](https://github.com/pourmalek/CovidVisualizedCountry#selected-graphs-from-latest-uptake---ontario)
 
 #### Selected graphsfrom latest uptake - [Quebec](https://github.com/pourmalek/CovidVisualizedCountry#selected-graphs-from-latest-uptake---quebec)
 
