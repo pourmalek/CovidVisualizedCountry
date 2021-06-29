@@ -8,6 +8,17 @@
 
 ### <div align="center"> at the country level, countries with subnational level estimates
 ## <div align="center"> :canada: Canada: national level, provinces and territories
+  
+  *****************************
+  
+SEE the periodical updates of COVID-19 epidemic models’ estimates: 
+  
+Delphi, IHME, Imperial college, Los Alamos, and Srivastava, 
+  
+for daily (and total) cases, infections, deaths, and hospitalizations
+  
+for Canada: National level, British Columbia, Ontario, Quebec, and other provinces and territories
+
 
 
 ********************************************************************************************************************************************
