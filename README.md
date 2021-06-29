@@ -11,15 +11,15 @@
   
   *****************************
   
-### :eyes: SEE :chart_with_upwards_trend: graphs, `< >` code, and :floppy_disk: data of :clock10: periodical updates of COVID-19 epidemic models’ estimates: 
+#### :eyes: SEE :chart_with_upwards_trend: graphs, `< >` code, and :floppy_disk: data of :clock10: periodical updates of COVID-19 epidemic models’ estimates: 
   
-### Delphi, IHME, Imperial college, Los Alamos, and Srivastava, 
+#### Delphi, IHME, Imperial college, Los Alamos, and Srivastava, 
   
-### for daily (and total) cases, infections, deaths, and hospitalizations,
+#### for daily (and total) cases, infections, deaths, and hospitalizations,
   
-### for Canada: National level, British Columbia, Ontario, Quebec, and other provinces and territories
+#### for Canada: National level, British Columbia, Ontario, Quebec, and other provinces and territories
   
-### or other countries via code adjustment  
+#### or other countries via code adjustment  
 
 
 
