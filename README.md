@@ -2430,7 +2430,9 @@ _Component studies and their scenarios_ are mentioned below after the selected _
 
 **uptake 20210703**: DELP 20210703, **_IHME 20210702_**, IMPE 20210618, LANL 20210627, SRIV 20210703
   
-.
+(10) British Columbia [Daily cases or infections estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210703/output/merge/main/SUB10%2094bDayCERMERGsub%202021%20British%20Columbia%20-%20COVID-19%20daily%20cases%20estimated%20to%20reported%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%202021.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/124375879-1e17ac00-dc59-11eb-8e00-e542501e0644.png)
   
 * 
   
@@ -2525,7 +2527,9 @@ _Component studies and their scenarios_ are mentioned below after the selected _
 
 **uptake 20210703**: DELP 20210703, **_IHME 20210702_**, IMPE 20210618, LANL 20210627, SRIV 20210703
   
-.
+(1) Ontario [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210703/output/merge/main/SUB1%2011bDayDeaMERGsub%20alltime%20Ontario%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%20all%20time.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/124375910-456e7900-dc59-11eb-93fb-6b3ab8c5989f.png)
   
 * 
   
@@ -2611,7 +2615,9 @@ _Component studies and their scenarios_ are mentioned below after the selected _
 
 **uptake 20210703**: DELP 20210703, **_IHME 20210702_**, IMPE 20210618, LANL 20210627, SRIV 20210703
   
-.
+(2) Ontario [Daily deaths, reference scenarios, 2011](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210703/output/merge/main/SUB2%2012bDayDeaMERGsub%202021%20Ontario%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202021.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/124375923-5cad6680-dc59-11eb-8030-f2337f3246f4.png)
   
 * 
   
@@ -2698,7 +2704,9 @@ _Component studies and their scenarios_ are mentioned below after the selected _
 
 **uptake 20210703**: DELP 20210703, **_IHME 20210702_**, IMPE 20210618, LANL 20210627, SRIV 20210703
   
-.
+(3) Ontario [Daily deaths, 3 scenarios, 2011](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210703/output/merge/main/SUB3%2014bDayDeaMERGsub%202021%203%20scenarios%20Ontario%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Ontario%2C%203%20scenarios%2C%202021.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/124375940-76e74480-dc59-11eb-9d84-3530e10caa0d.png)
   
 * 
   
@@ -2784,7 +2792,9 @@ _Component studies and their scenarios_ are mentioned below after the selected _
 
 **uptake 20210703**: DELP 20210703, **_IHME 20210702_**, IMPE 20210618, LANL 20210627, SRIV 20210703
   
-.
+(4) Ontario [Daily cases or infections, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210703/output/merge/main/SUB4%2031bDayCasMERGsub%20alltime%20Ontario%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/124375963-8ebec880-dc59-11eb-9937-b17898639687.png)
   
 * 
   
@@ -2871,7 +2881,9 @@ _Component studies and their scenarios_ are mentioned below after the selected _
 
 **uptake 20210703**: DELP 20210703, **_IHME 20210702_**, IMPE 20210618, LANL 20210627, SRIV 20210703
   
-.
+(5) Ontario [Daily cases or infections, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210703/output/merge/main/SUB5%2032bDayCasMERGsub%202021%20Ontario%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202021.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/124376002-b150e180-dc59-11eb-9da3-cf804748b178.png)
   
 * 
   
@@ -2958,7 +2970,9 @@ _Component studies and their scenarios_ are mentioned below after the selected _
 
 **uptake 20210703**: DELP 20210703, **_IHME 20210702_**, IMPE 20210618, LANL 20210627, SRIV 20210703
   
-.
+(6) Ontario [Daily cases or infections, 3 scenarios, 2011](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210703/output/merge/main/SUB6%2034bDayCasMERGsub%202021%203scen%20Ontario%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Ontario%2C%203%20scenarios%2C%202021%2C%20uncertainty.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/124376024-ca599280-dc59-11eb-8a86-58dc9809d79f.png)
   
 * 
   
@@ -3045,7 +3059,9 @@ _Component studies and their scenarios_ are mentioned below after the selected _
 
 **uptake 20210703**: DELP 20210703, **_IHME 20210702_**, IMPE 20210618, LANL 20210627, SRIV 20210703
   
-.
+(7) Ontario [Hospital-related outcomes, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210703/output/merge/main/SUB7%2071bDayHosMERGsub%20alltime%20Ontario%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20Ontario.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/124376046-e2c9ad00-dc59-11eb-99cf-6849c4081180.png)
   
 * 
   
@@ -3132,7 +3148,9 @@ _Component studies and their scenarios_ are mentioned below after the selected _
 
 **uptake 20210703**: DELP 20210703, **_IHME 20210702_**, IMPE 20210618, LANL 20210627, SRIV 20210703
   
-.
+(8) Ontario [Hospital-related outcomes, 2021, without IHME Bed need and IMPE Hospital demand](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210703/output/merge/main/SUB8%2073bDayHosMERGsub%202021%20woextremes%20Ontario%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20Ontario%2C%20wo%20extremes%2C%202021.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/124376064-faa13100-dc59-11eb-97ed-d578a8495a62.png)
   
 * 
   
@@ -3219,7 +3237,9 @@ _Component studies and their scenarios_ are mentioned below after the selected _
 
 **uptake 20210703**: DELP 20210703, **_IHME 20210702_**, IMPE 20210618, LANL 20210627, SRIV 20210703
   
-.
+(9) Ontario [Daily deaths estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210703/output/merge/main/SUB9%2092bDayDERMERGsub%202021%20Ontario%20-%20COVID-19%20daily%20deaths%20estimated%20to%20reported%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202021.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/124376076-13114b80-dc5a-11eb-898d-f55880f2cf75.png)
   
 * 
   
@@ -3306,7 +3326,9 @@ _Component studies and their scenarios_ are mentioned below after the selected _
 
 **uptake 20210703**: DELP 20210703, **_IHME 20210702_**, IMPE 20210618, LANL 20210627, SRIV 20210703
   
-.
+(10) Ontario [Daily cases or infections estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210703/output/merge/main/SUB10%2094bDayCERMERGsub%202021%20Ontario%20-%20COVID-19%20daily%20cases%20estimated%20to%20reported%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202021.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/124376132-523f9c80-dc5a-11eb-9289-ff35ff905bc0.png)
   
 *  
   
@@ -3401,7 +3423,9 @@ _Component studies and their scenarios_ are mentioned below after the selected _
 
 **uptake 20210703**: DELP 20210703, **_IHME 20210702_**, IMPE 20210618, LANL 20210627, SRIV 20210703
   
-.
+(1) Quebec [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210703/output/merge/main/SUB1%2011bDayDeaMERGsub%20alltime%20Quebec%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%20all%20time.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/124376176-8915b280-dc5a-11eb-8b6f-05a6117898a0.png)
   
 *  
   
@@ -3488,7 +3512,9 @@ _Component studies and their scenarios_ are mentioned below after the selected _
 
 **uptake 20210703**: DELP 20210703, **_IHME 20210702_**, IMPE 20210618, LANL 20210627, SRIV 20210703
   
-.
+(2) Quebec [Daily deaths, reference scenarios, 2011](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210703/output/merge/main/SUB2%2012bDayDeaMERGsub%202021%20Quebec%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%202021.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/124376195-9fbc0980-dc5a-11eb-9f54-9783178b3c1e.png)
   
 *   
   
@@ -3575,7 +3601,9 @@ _Component studies and their scenarios_ are mentioned below after the selected _
 
 **uptake 20210703**: DELP 20210703, **_IHME 20210702_**, IMPE 20210618, LANL 20210627, SRIV 20210703
   
-.
+(3) Quebec [Daily deaths, 3 scenarios, 2011](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210703/output/merge/main/SUB3%2014bDayDeaMERGsub%202021%203%20scenarios%20Quebec%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Quebec%2C%203%20scenarios%2C%202021.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/124376213-b5c9ca00-dc5a-11eb-8623-5c42dce701fd.png)
   
 * 
   
@@ -3662,7 +3690,9 @@ _Component studies and their scenarios_ are mentioned below after the selected _
 
 **uptake 20210703**: DELP 20210703, **_IHME 20210702_**, IMPE 20210618, LANL 20210627, SRIV 20210703
   
-.
+(4) Quebec [Daily cases or infections, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210703/output/merge/main/SUB4%2031bDayCasMERGsub%20alltime%20Quebec%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/124376231-ce39e480-dc5a-11eb-951e-d6c32adc1417.png)
   
 *  
   
@@ -3750,7 +3780,9 @@ _Component studies and their scenarios_ are mentioned below after the selected _
 
 **uptake 20210703**: DELP 20210703, **_IHME 20210702_**, IMPE 20210618, LANL 20210627, SRIV 20210703
   
-.
+(5) Quebec [Daily cases or infections, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210703/output/merge/main/SUB5%2032bDayCasMERGsub%202021%20Quebec%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%202021.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/124376246-e7db2c00-dc5a-11eb-90a5-29901da8e1dc.png)
   
 * 
   
@@ -3837,7 +3869,9 @@ _Component studies and their scenarios_ are mentioned below after the selected _
 
 **uptake 20210703**: DELP 20210703, **_IHME 20210702_**, IMPE 20210618, LANL 20210627, SRIV 20210703
   
-.
+(6) Quebec [Daily cases or infections, 3 scenarios, 2011](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210703/output/merge/main/SUB6%2034bDayCasMERGsub%202021%203scen%20Quebec%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Quebec%2C%203%20scenarios%2C%202021%2C%20uncertainty.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/124376269-050ffa80-dc5b-11eb-8815-87b8bcc89165.png)
   
 * 
   
@@ -3924,7 +3958,9 @@ _Component studies and their scenarios_ are mentioned below after the selected _
 
 **uptake 20210703**: DELP 20210703, **_IHME 20210702_**, IMPE 20210618, LANL 20210627, SRIV 20210703
   
-.
+(7) Quebec [Hospital-related outcomes, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210703/output/merge/main/SUB7%2071bDayHosMERGsub%20alltime%20Quebec%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20Quebec.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/124376293-1bb65180-dc5b-11eb-9a01-cb6c4dd33b2b.png)
   
 * 
   
@@ -4010,8 +4046,10 @@ _Component studies and their scenarios_ are mentioned below after the selected _
 *  
 
 **uptake 20210703**: DELP 20210703, **_IHME 20210702_**, IMPE 20210618, LANL 20210627, SRIV 20210703
-  
-.
+
+(8) Quebec [Hospital-related outcomes, 2021, without IHME Bed need and IMPE Hospital demand](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210703/output/merge/main/SUB8%2073bDayHosMERGsub%202021%20woextremes%20Quebec%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20Quebec%2C%20wo%20extremes%2C%202021.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/124376299-37b9f300-dc5b-11eb-8728-c70e9ea35daa.png)
   
 * 
   
@@ -4097,7 +4135,9 @@ _Component studies and their scenarios_ are mentioned below after the selected _
 
 **uptake 20210703**: DELP 20210703, **_IHME 20210702_**, IMPE 20210618, LANL 20210627, SRIV 20210703
   
-.
+(9) Quebec [Daily deaths estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210703/output/merge/main/SUB9%2092bDayDERMERGsub%202021%20Quebec%20-%20COVID-19%20daily%20deaths%20estimated%20to%20reported%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%202021.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/124376315-502a0d80-dc5b-11eb-91ee-96ed3e560c1a.png)
   
 * 
   
@@ -4179,7 +4219,9 @@ _Component studies and their scenarios_ are mentioned below after the selected _
 
 **uptake 20210703**: DELP 20210703, **_IHME 20210702_**, IMPE 20210618, LANL 20210627, SRIV 20210703
   
-.
+(10) Quebec [Daily cases or infections estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210703/output/merge/main/SUB10%2094bDayCERMERGsub%202021%20Quebec%20-%20COVID-19%20daily%20cases%20estimated%20to%20reported%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%202021.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/124376347-75b71700-dc5b-11eb-832b-bfdde714af4f.png)
   
 * 
   
