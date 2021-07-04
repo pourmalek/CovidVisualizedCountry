@@ -571,6 +571,8 @@ _Component studies and their scenarios_ are mentioned below after the selected _
 
 .
   
+(09) uptake 20210703: DELP 20210703, **_IHME 20210702_**, IMPE 20210618, LANL 20210627, SRIV 20210703
+  
 (08) uptake 20210625: DELP 20210625, **_IHME 20210625_**, IMPE 20210618, LANL 20210613, SRIV 20210624   
   
 (07) uptake 20210624: DELP 20210624, IHME 20210618, **_IMPE 20210618_**, LANL 20210613, SRIV 20210624  
@@ -668,7 +670,13 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
 #### graph (1) Canada - Daily deaths, reference scenarios, all time
   
+  
+  
+*  
 
+**uptake 20210703**: DELP 20210703, **_IHME 20210702_**, IMPE 20210618, LANL 20210627, SRIV 20210703
+  
+.
   
 *  
   
@@ -748,6 +756,12 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
   
 *  
+
+**uptake 20210703**: DELP 20210703, **_IHME 20210702_**, IMPE 20210618, LANL 20210627, SRIV 20210703
+  
+.
+  
+*   
   
 **uptake 20210625**: DELP 20210625, **_IHME 20210625_**, IMPE 20210618, LANL 20210613, SRIV 20210624   
   
@@ -826,6 +840,12 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
   
 *  
+
+**uptake 20210703**: DELP 20210703, **_IHME 20210702_**, IMPE 20210618, LANL 20210627, SRIV 20210703
+  
+.
+  
+* 
   
 **uptake 20210625**: DELP 20210625, **_IHME 20210625_**, IMPE 20210618, LANL 20210613, SRIV 20210624   
   
@@ -982,6 +1002,12 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
   
 *  
+
+**uptake 20210703**: DELP 20210703, **_IHME 20210702_**, IMPE 20210618, LANL 20210627, SRIV 20210703
+  
+.
+  
+*  
   
 **uptake 20210625**: DELP 20210625, **_IHME 20210625_**, IMPE 20210618, LANL 20210613, SRIV 20210624   
   
@@ -1062,6 +1088,12 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
   
 *  
+
+**uptake 20210703**: DELP 20210703, **_IHME 20210702_**, IMPE 20210618, LANL 20210627, SRIV 20210703
+  
+.
+  
+* 
   
 **uptake 20210625**: DELP 20210625, **_IHME 20210625_**, IMPE 20210618, LANL 20210613, SRIV 20210624   
   
@@ -1141,6 +1173,12 @@ _Component studies and their scenarios_ are mentioned below after the selected _
 
   
 *  
+
+**uptake 20210703**: DELP 20210703, **_IHME 20210702_**, IMPE 20210618, LANL 20210627, SRIV 20210703
+  
+.
+  
+* 
   
 **uptake 20210625**: DELP 20210625, **_IHME 20210625_**, IMPE 20210618, LANL 20210613, SRIV 20210624   
   
@@ -1218,6 +1256,12 @@ _Component studies and their scenarios_ are mentioned below after the selected _
 #### graph (8) Canada - Hospital-related outcomes, 2021, without IHME Bed need and IMPE Hospital demand  
   
   
+  
+*  
+
+**uptake 20210703**: DELP 20210703, **_IHME 20210702_**, IMPE 20210618, LANL 20210627, SRIV 20210703
+  
+.
   
 *  
   
@@ -1379,6 +1423,12 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
   
 *  
+
+**uptake 20210703**: DELP 20210703, **_IHME 20210702_**, IMPE 20210618, LANL 20210627, SRIV 20210703
+  
+.
+  
+* 
   
 **uptake 20210625**: DELP 20210625, **_IHME 20210625_**, IMPE 20210618, LANL 20210613, SRIV 20210624   
   
@@ -1455,6 +1505,12 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
   
 *  
+
+**uptake 20210703**: DELP 20210703, **_IHME 20210702_**, IMPE 20210618, LANL 20210627, SRIV 20210703
+  
+.
+  
+* 
   
 **uptake 20210625**: DELP 20210625, **_IHME 20210625_**, IMPE 20210618, LANL 20210613, SRIV 20210624   
   
@@ -1544,6 +1600,12 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
   
 *  
+
+**uptake 20210703**: DELP 20210703, **_IHME 20210702_**, IMPE 20210618, LANL 20210627, SRIV 20210703
+  
+.
+  
+* 
   
 **uptake 20210625**: DELP 20210625, **_IHME 20210625_**, IMPE 20210618, LANL 20210613, SRIV 20210624   
   
@@ -1624,6 +1686,12 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
   
 *  
+
+**uptake 20210703**: DELP 20210703, **_IHME 20210702_**, IMPE 20210618, LANL 20210627, SRIV 20210703
+  
+.
+  
+* 
   
 **uptake 20210625**: DELP 20210625, **_IHME 20210625_**, IMPE 20210618, LANL 20210613, SRIV 20210624   
   
@@ -1705,6 +1773,12 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
   
 *  
+
+**uptake 20210703**: DELP 20210703, **_IHME 20210702_**, IMPE 20210618, LANL 20210627, SRIV 20210703
+  
+.
+  
+* 
   
 **uptake 20210625**: DELP 20210625, **_IHME 20210625_**, IMPE 20210618, LANL 20210613, SRIV 20210624   
   
@@ -1785,6 +1859,12 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
   
 *  
+
+**uptake 20210703**: DELP 20210703, **_IHME 20210702_**, IMPE 20210618, LANL 20210627, SRIV 20210703
+  
+.
+  
+* 
   
 **uptake 20210625**: DELP 20210625, **_IHME 20210625_**, IMPE 20210618, LANL 20210613, SRIV 20210624   
   
@@ -1864,7 +1944,13 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
 
   
-*
+*  
+
+**uptake 20210703**: DELP 20210703, **_IHME 20210702_**, IMPE 20210618, LANL 20210627, SRIV 20210703
+  
+.
+  
+* 
   
 **uptake 20210625**: DELP 20210625, **_IHME 20210625_**, IMPE 20210618, LANL 20210613, SRIV 20210624   
   
@@ -1943,6 +2029,12 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
   
 *  
+
+**uptake 20210703**: DELP 20210703, **_IHME 20210702_**, IMPE 20210618, LANL 20210627, SRIV 20210703
+  
+.
+  
+* 
   
 **uptake 20210625**: DELP 20210625, **_IHME 20210625_**, IMPE 20210618, LANL 20210613, SRIV 20210624   
   
@@ -2023,6 +2115,12 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
   
 *  
+
+**uptake 20210703**: DELP 20210703, **_IHME 20210702_**, IMPE 20210618, LANL 20210627, SRIV 20210703
+  
+.
+  
+* 
   
 **uptake 20210625**: DELP 20210625, **_IHME 20210625_**, IMPE 20210618, LANL 20210613, SRIV 20210624   
   
@@ -2103,6 +2201,12 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
   
 *  
+
+**uptake 20210703**: DELP 20210703, **_IHME 20210702_**, IMPE 20210618, LANL 20210627, SRIV 20210703
+  
+.
+  
+* 
   
 **uptake 20210625**: DELP 20210625, **_IHME 20210625_**, IMPE 20210618, LANL 20210613, SRIV 20210624   
   
@@ -2184,6 +2288,12 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
   
 *  
+
+**uptake 20210703**: DELP 20210703, **_IHME 20210702_**, IMPE 20210618, LANL 20210627, SRIV 20210703
+  
+.
+  
+* 
   
 **uptake 20210625**: DELP 20210625, **_IHME 20210625_**, IMPE 20210618, LANL 20210613, SRIV 20210624   
   
@@ -2265,6 +2375,12 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
   
 *  
+
+**uptake 20210703**: DELP 20210703, **_IHME 20210702_**, IMPE 20210618, LANL 20210627, SRIV 20210703
+  
+.
+  
+* 
   
 **uptake 20210625**: DELP 20210625, **_IHME 20210625_**, IMPE 20210618, LANL 20210613, SRIV 20210624   
   
@@ -2354,6 +2470,12 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
   
 *  
+
+**uptake 20210703**: DELP 20210703, **_IHME 20210702_**, IMPE 20210618, LANL 20210627, SRIV 20210703
+  
+.
+  
+* 
   
 **uptake 20210625**: DELP 20210625, **_IHME 20210625_**, IMPE 20210618, LANL 20210613, SRIV 20210624   
   
@@ -2434,6 +2556,12 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
   
 *  
+
+**uptake 20210703**: DELP 20210703, **_IHME 20210702_**, IMPE 20210618, LANL 20210627, SRIV 20210703
+  
+.
+  
+* 
   
 **uptake 20210625**: DELP 20210625, **_IHME 20210625_**, IMPE 20210618, LANL 20210613, SRIV 20210624   
   
@@ -2515,6 +2643,12 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
   
 *  
+
+**uptake 20210703**: DELP 20210703, **_IHME 20210702_**, IMPE 20210618, LANL 20210627, SRIV 20210703
+  
+.
+  
+* 
   
 **uptake 20210625**: DELP 20210625, **_IHME 20210625_**, IMPE 20210618, LANL 20210613, SRIV 20210624   
   
@@ -2595,6 +2729,12 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
   
 *  
+
+**uptake 20210703**: DELP 20210703, **_IHME 20210702_**, IMPE 20210618, LANL 20210627, SRIV 20210703
+  
+.
+  
+* 
   
 **uptake 20210625**: DELP 20210625, **_IHME 20210625_**, IMPE 20210618, LANL 20210613, SRIV 20210624   
   
@@ -2676,6 +2816,12 @@ _Component studies and their scenarios_ are mentioned below after the selected _
 
   
 *  
+
+**uptake 20210703**: DELP 20210703, **_IHME 20210702_**, IMPE 20210618, LANL 20210627, SRIV 20210703
+  
+.
+  
+* 
   
 **uptake 20210625**: DELP 20210625, **_IHME 20210625_**, IMPE 20210618, LANL 20210613, SRIV 20210624   
   
@@ -2757,6 +2903,12 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
   
 *  
+
+**uptake 20210703**: DELP 20210703, **_IHME 20210702_**, IMPE 20210618, LANL 20210627, SRIV 20210703
+  
+.
+  
+* 
   
 **uptake 20210625**: DELP 20210625, **_IHME 20210625_**, IMPE 20210618, LANL 20210613, SRIV 20210624   
   
@@ -2838,6 +2990,12 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
   
 *  
+
+**uptake 20210703**: DELP 20210703, **_IHME 20210702_**, IMPE 20210618, LANL 20210627, SRIV 20210703
+  
+.
+  
+* 
   
 **uptake 20210625**: DELP 20210625, **_IHME 20210625_**, IMPE 20210618, LANL 20210613, SRIV 20210624   
   
@@ -2919,6 +3077,12 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
   
 *  
+
+**uptake 20210703**: DELP 20210703, **_IHME 20210702_**, IMPE 20210618, LANL 20210627, SRIV 20210703
+  
+.
+  
+* 
   
 **uptake 20210625**: DELP 20210625, **_IHME 20210625_**, IMPE 20210618, LANL 20210613, SRIV 20210624   
   
@@ -3000,6 +3164,12 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
   
 *  
+
+**uptake 20210703**: DELP 20210703, **_IHME 20210702_**, IMPE 20210618, LANL 20210627, SRIV 20210703
+  
+.
+  
+* 
   
 **uptake 20210625**: DELP 20210625, **_IHME 20210625_**, IMPE 20210618, LANL 20210613, SRIV 20210624   
   
@@ -3079,6 +3249,12 @@ _Component studies and their scenarios_ are mentioned below after the selected _
 #### graph (10) Ontario - Daily cases or infections estimated to reported cases, reference scenarios, 2021
   
   
+  
+*  
+
+**uptake 20210703**: DELP 20210703, **_IHME 20210702_**, IMPE 20210618, LANL 20210627, SRIV 20210703
+  
+.
   
 *  
   
@@ -3170,6 +3346,12 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
   
 *  
+
+**uptake 20210703**: DELP 20210703, **_IHME 20210702_**, IMPE 20210618, LANL 20210627, SRIV 20210703
+  
+.
+  
+*  
   
 **uptake 20210625**: DELP 20210625, **_IHME 20210625_**, IMPE 20210618, LANL 20210613, SRIV 20210624   
   
@@ -3251,6 +3433,12 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
   
 *  
+
+**uptake 20210703**: DELP 20210703, **_IHME 20210702_**, IMPE 20210618, LANL 20210627, SRIV 20210703
+  
+.
+  
+*   
   
 **uptake 20210625**: DELP 20210625, **_IHME 20210625_**, IMPE 20210618, LANL 20210613, SRIV 20210624   
   
@@ -3332,6 +3520,12 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
   
 *  
+
+**uptake 20210703**: DELP 20210703, **_IHME 20210702_**, IMPE 20210618, LANL 20210627, SRIV 20210703
+  
+.
+  
+* 
   
 **uptake 20210625**: DELP 20210625, **_IHME 20210625_**, IMPE 20210618, LANL 20210613, SRIV 20210624   
   
@@ -3411,6 +3605,12 @@ _Component studies and their scenarios_ are mentioned below after the selected _
 #### graph (4) Quebec - Daily cases or infections, reference scenarios, all time
   
   
+  
+*  
+
+**uptake 20210703**: DELP 20210703, **_IHME 20210702_**, IMPE 20210618, LANL 20210627, SRIV 20210703
+  
+.
   
 *  
   
@@ -3495,6 +3695,12 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
   
 *  
+
+**uptake 20210703**: DELP 20210703, **_IHME 20210702_**, IMPE 20210618, LANL 20210627, SRIV 20210703
+  
+.
+  
+* 
   
 **uptake 20210625**: DELP 20210625, **_IHME 20210625_**, IMPE 20210618, LANL 20210613, SRIV 20210624   
   
@@ -3576,6 +3782,12 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
   
 *  
+
+**uptake 20210703**: DELP 20210703, **_IHME 20210702_**, IMPE 20210618, LANL 20210627, SRIV 20210703
+  
+.
+  
+* 
   
 **uptake 20210625**: DELP 20210625, **_IHME 20210625_**, IMPE 20210618, LANL 20210613, SRIV 20210624   
   
@@ -3657,6 +3869,12 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
   
 *  
+
+**uptake 20210703**: DELP 20210703, **_IHME 20210702_**, IMPE 20210618, LANL 20210627, SRIV 20210703
+  
+.
+  
+* 
   
 **uptake 20210625**: DELP 20210625, **_IHME 20210625_**, IMPE 20210618, LANL 20210613, SRIV 20210624   
   
@@ -3738,6 +3956,12 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
   
 *  
+
+**uptake 20210703**: DELP 20210703, **_IHME 20210702_**, IMPE 20210618, LANL 20210627, SRIV 20210703
+  
+.
+  
+* 
   
 **uptake 20210625**: DELP 20210625, **_IHME 20210625_**, IMPE 20210618, LANL 20210613, SRIV 20210624   
   
@@ -3818,6 +4042,12 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
   
 *  
+
+**uptake 20210703**: DELP 20210703, **_IHME 20210702_**, IMPE 20210618, LANL 20210627, SRIV 20210703
+  
+.
+  
+* 
   
 **uptake 20210625**: DELP 20210625, **_IHME 20210625_**, IMPE 20210618, LANL 20210613, SRIV 20210624   
   
@@ -3894,6 +4124,12 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
   
 *  
+
+**uptake 20210703**: DELP 20210703, **_IHME 20210702_**, IMPE 20210618, LANL 20210627, SRIV 20210703
+  
+.
+  
+* 
   
 **uptake 20210625**: DELP 20210625, **_IHME 20210625_**, IMPE 20210618, LANL 20210613, SRIV 20210624   
   
