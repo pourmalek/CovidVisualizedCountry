@@ -65,7 +65,7 @@ The codes in these repositories can be adapted for use for any country or region
 
   
   
-### TOC
+# TOC
 
 [I. SELCTED GRAPHS FROM LATEST UPTAKE](https://github.com/pourmalek/CovidVisualizedCountry#i-selcted-graphs-from-latest-uptake)
 
