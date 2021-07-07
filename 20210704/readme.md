@@ -12,6 +12,18 @@ IMPE update 20210626 (2021-06-26_v8.csv.zip) released on 20210704.
 
 ### Merged graphs of this uptake [here](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210704/graphs%20merge%2020210704.pdf)
 
+single file of all graphs in this uptake of [DELP](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210704/output/DELP/graphs%20DELP.pdf)
+
+single file of all graphs in this uptake of [IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210704/output/IHME/graphs%20IHME.pdf)
+
+single file of all graphs in this uptake of [IMPE](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210704/output/IMPE/graphs%20IMPE.pdf)
+
+single file of all graphs in this uptake of [JOHN](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210704/output/JOHN/graphs%20JOHN.pdf)
+
+single file of all graphs in this uptake of [LANL](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210704/output/LANL/graphs%20LANL.pdf)
+
+single file of all graphs in this uptake of [SRIV](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210704/output/SRIV/graphs%20SRIV.pdf)
+
 
 ****
 
