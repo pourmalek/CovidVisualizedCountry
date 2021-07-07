@@ -88,9 +88,9 @@ The codes in these repositories can be adapted for use for any country or region
 ********************************************************************************************************************************************
 ********************************************************************************************************************************************
 
-#### LATEST UPTAKE: uptake 20210703
-
-#### DELP 20210703, **_IHME 20210702_**, IMPE 20210618, LANL 20210627, SRIV 20210703
+#### LATEST UPTAKE: uptake 20210704
+  
+#### DELP 20210704, IHME 20210702, **_IMPE 20210626_**, LANL 20210704, SRIV 20210704
 
 
   
@@ -571,6 +571,8 @@ _Component studies and their scenarios_ are mentioned below after the selected _
 
 .
   
+(10) uptake 20210704: DELP 20210704, IHME 20210702, **_IMPE 20210626_**, LANL 20210704, SRIV 20210704  
+  
 (09) uptake 20210703: DELP 20210703, **_IHME 20210702_**, IMPE 20210618, LANL 20210627, SRIV 20210703
   
 (08) uptake 20210625: DELP 20210625, **_IHME 20210625_**, IMPE 20210618, LANL 20210613, SRIV 20210624   
@@ -673,6 +675,12 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
   
 *  
+  
+**uptake 20210704**: DELP 20210704, IHME 20210702, **_IMPE 20210626_**, LANL 20210704, SRIV 20210704  
+  
+.
+  
+*  
 
 **uptake 20210703**: DELP 20210703, **_IHME 20210702_**, IMPE 20210618, LANL 20210627, SRIV 20210703
   
@@ -758,6 +766,12 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
   
 *  
+  
+**uptake 20210704**: DELP 20210704, IHME 20210702, **_IMPE 20210626_**, LANL 20210704, SRIV 20210704  
+  
+.
+  
+*    
 
 **uptake 20210703**: DELP 20210703, **_IHME 20210702_**, IMPE 20210618, LANL 20210627, SRIV 20210703
   
@@ -842,6 +856,12 @@ _Component studies and their scenarios_ are mentioned below after the selected _
 #### graph (3) Canada - Daily deaths, 3 scenarios, 2021
   
   
+  
+*  
+  
+**uptake 20210704**: DELP 20210704, IHME 20210702, **_IMPE 20210626_**, LANL 20210704, SRIV 20210704  
+  
+.
   
 *  
 
@@ -929,6 +949,12 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
   
 *  
+  
+**uptake 20210704**: DELP 20210704, IHME 20210702, **_IMPE 20210626_**, LANL 20210704, SRIV 20210704  
+  
+.
+  
+*   
 
 **uptake 20210703**: DELP 20210703, **_IHME 20210702_**, IMPE 20210618, LANL 20210627, SRIV 20210703
   
@@ -1016,6 +1042,12 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
   
 *  
+  
+**uptake 20210704**: DELP 20210704, IHME 20210702, **_IMPE 20210626_**, LANL 20210704, SRIV 20210704  
+  
+.
+  
+*   
 
 **uptake 20210703**: DELP 20210703, **_IHME 20210702_**, IMPE 20210618, LANL 20210627, SRIV 20210703
   
@@ -1102,6 +1134,12 @@ _Component studies and their scenarios_ are mentioned below after the selected _
 #### graph (6) Canada - Daily cases or infections, 3 scenarios, 2021
   
   
+  
+*  
+  
+**uptake 20210704**: DELP 20210704, IHME 20210702, **_IMPE 20210626_**, LANL 20210704, SRIV 20210704  
+  
+.
   
 *  
 
@@ -1191,6 +1229,12 @@ _Component studies and their scenarios_ are mentioned below after the selected _
 
   
 *  
+  
+**uptake 20210704**: DELP 20210704, IHME 20210702, **_IMPE 20210626_**, LANL 20210704, SRIV 20210704  
+  
+.
+  
+*  
 
 **uptake 20210703**: DELP 20210703, **_IHME 20210702_**, IMPE 20210618, LANL 20210627, SRIV 20210703
   
@@ -1278,6 +1322,12 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
   
 *  
+  
+**uptake 20210704**: DELP 20210704, IHME 20210702, **_IMPE 20210626_**, LANL 20210704, SRIV 20210704  
+  
+.
+  
+*    
 
 **uptake 20210703**: DELP 20210703, **_IHME 20210702_**, IMPE 20210618, LANL 20210627, SRIV 20210703
   
@@ -1366,6 +1416,12 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
   
 *  
+  
+**uptake 20210704**: DELP 20210704, IHME 20210702, **_IMPE 20210626_**, LANL 20210704, SRIV 20210704  
+  
+.
+  
+*   
 
 **uptake 20210703**: DELP 20210703, **_IHME 20210702_**, IMPE 20210618, LANL 20210627, SRIV 20210703
   
@@ -1453,6 +1509,12 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
   
 *  
+  
+**uptake 20210704**: DELP 20210704, IHME 20210702, **_IMPE 20210626_**, LANL 20210704, SRIV 20210704  
+  
+.
+  
+*   
 
 **uptake 20210703**: DELP 20210703, **_IHME 20210702_**, IMPE 20210618, LANL 20210627, SRIV 20210703
   
@@ -1537,6 +1599,12 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
   
 *  
+  
+**uptake 20210704**: DELP 20210704, IHME 20210702, **_IMPE 20210626_**, LANL 20210704, SRIV 20210704  
+  
+.
+  
+*   
 
 **uptake 20210703**: DELP 20210703, **_IHME 20210702_**, IMPE 20210618, LANL 20210627, SRIV 20210703
   
@@ -1634,6 +1702,12 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
   
 *  
+  
+**uptake 20210704**: DELP 20210704, IHME 20210702, **_IMPE 20210626_**, LANL 20210704, SRIV 20210704  
+  
+.
+  
+*  
 
 **uptake 20210703**: DELP 20210703, **_IHME 20210702_**, IMPE 20210618, LANL 20210627, SRIV 20210703
   
@@ -1722,6 +1796,12 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
   
 *  
+  
+**uptake 20210704**: DELP 20210704, IHME 20210702, **_IMPE 20210626_**, LANL 20210704, SRIV 20210704  
+  
+.
+  
+*   
 
 **uptake 20210703**: DELP 20210703, **_IHME 20210702_**, IMPE 20210618, LANL 20210627, SRIV 20210703
   
@@ -1811,6 +1891,12 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
   
 *  
+  
+**uptake 20210704**: DELP 20210704, IHME 20210702, **_IMPE 20210626_**, LANL 20210704, SRIV 20210704  
+  
+.
+  
+*   
 
 **uptake 20210703**: DELP 20210703, **_IHME 20210702_**, IMPE 20210618, LANL 20210627, SRIV 20210703
   
@@ -1897,6 +1983,12 @@ _Component studies and their scenarios_ are mentioned below after the selected _
 #### graph (4) British Columbia - Daily cases or infections, reference scenarios, all time
   
   
+  
+*  
+  
+**uptake 20210704**: DELP 20210704, IHME 20210702, **_IMPE 20210626_**, LANL 20210704, SRIV 20210704  
+  
+.
   
 *  
 
@@ -1987,6 +2079,12 @@ _Component studies and their scenarios_ are mentioned below after the selected _
 
   
 *  
+  
+**uptake 20210704**: DELP 20210704, IHME 20210702, **_IMPE 20210626_**, LANL 20210704, SRIV 20210704  
+  
+.
+  
+*    
 
 **uptake 20210703**: DELP 20210703, **_IHME 20210702_**, IMPE 20210618, LANL 20210627, SRIV 20210703
   
@@ -2071,6 +2169,12 @@ _Component studies and their scenarios_ are mentioned below after the selected _
 #### graph (6) British Columbia - Daily cases or infections, 3 scenarios, 2021
   
   
+  
+*  
+  
+**uptake 20210704**: DELP 20210704, IHME 20210702, **_IMPE 20210626_**, LANL 20210704, SRIV 20210704  
+  
+.
   
 *  
 
@@ -2161,6 +2265,12 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
   
 *  
+  
+**uptake 20210704**: DELP 20210704, IHME 20210702, **_IMPE 20210626_**, LANL 20210704, SRIV 20210704  
+  
+.
+  
+*  
 
 **uptake 20210703**: DELP 20210703, **_IHME 20210702_**, IMPE 20210618, LANL 20210627, SRIV 20210703
   
@@ -2249,6 +2359,12 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
   
 *  
+  
+**uptake 20210704**: DELP 20210704, IHME 20210702, **_IMPE 20210626_**, LANL 20210704, SRIV 20210704  
+  
+.
+  
+*   
 
 **uptake 20210703**: DELP 20210703, **_IHME 20210702_**, IMPE 20210618, LANL 20210627, SRIV 20210703
   
@@ -2338,6 +2454,12 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
   
 *  
+  
+**uptake 20210704**: DELP 20210704, IHME 20210702, **_IMPE 20210626_**, LANL 20210704, SRIV 20210704  
+  
+.
+  
+*  
 
 **uptake 20210703**: DELP 20210703, **_IHME 20210702_**, IMPE 20210618, LANL 20210627, SRIV 20210703
   
@@ -2425,6 +2547,12 @@ _Component studies and their scenarios_ are mentioned below after the selected _
 #### graph (10) British Columbia - Daily cases or infections estimated to reported cases, reference scenarios, 2021
   
   
+  
+*  
+  
+**uptake 20210704**: DELP 20210704, IHME 20210702, **_IMPE 20210626_**, LANL 20210704, SRIV 20210704  
+  
+.
   
 *  
 
@@ -2524,6 +2652,12 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
   
 *  
+  
+**uptake 20210704**: DELP 20210704, IHME 20210702, **_IMPE 20210626_**, LANL 20210704, SRIV 20210704  
+  
+.
+  
+*  
 
 **uptake 20210703**: DELP 20210703, **_IHME 20210702_**, IMPE 20210618, LANL 20210627, SRIV 20210703
   
@@ -2610,6 +2744,12 @@ _Component studies and their scenarios_ are mentioned below after the selected _
 #### graph (2) Ontario  - Daily deaths, reference scenarios, 2021
   
   
+  
+*  
+  
+**uptake 20210704**: DELP 20210704, IHME 20210702, **_IMPE 20210626_**, LANL 20210704, SRIV 20210704  
+  
+.
   
 *  
 
@@ -2701,6 +2841,12 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
   
 *  
+  
+**uptake 20210704**: DELP 20210704, IHME 20210702, **_IMPE 20210626_**, LANL 20210704, SRIV 20210704  
+  
+.
+  
+*   
 
 **uptake 20210703**: DELP 20210703, **_IHME 20210702_**, IMPE 20210618, LANL 20210627, SRIV 20210703
   
@@ -2789,6 +2935,12 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
   
 *  
+  
+**uptake 20210704**: DELP 20210704, IHME 20210702, **_IMPE 20210626_**, LANL 20210704, SRIV 20210704  
+  
+.
+  
+*   
 
 **uptake 20210703**: DELP 20210703, **_IHME 20210702_**, IMPE 20210618, LANL 20210627, SRIV 20210703
   
@@ -2878,6 +3030,12 @@ _Component studies and their scenarios_ are mentioned below after the selected _
 
   
 *  
+  
+**uptake 20210704**: DELP 20210704, IHME 20210702, **_IMPE 20210626_**, LANL 20210704, SRIV 20210704  
+  
+.
+  
+*    
 
 **uptake 20210703**: DELP 20210703, **_IHME 20210702_**, IMPE 20210618, LANL 20210627, SRIV 20210703
   
@@ -2965,6 +3123,12 @@ _Component studies and their scenarios_ are mentioned below after the selected _
 #### graph (6) Ontario - Daily cases or infections, 3 scenarios, 2021 
   
   
+  
+*  
+  
+**uptake 20210704**: DELP 20210704, IHME 20210702, **_IMPE 20210626_**, LANL 20210704, SRIV 20210704  
+  
+.
   
 *  
 
@@ -3056,6 +3220,12 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
   
 *  
+  
+**uptake 20210704**: DELP 20210704, IHME 20210702, **_IMPE 20210626_**, LANL 20210704, SRIV 20210704  
+  
+.
+  
+*   
 
 **uptake 20210703**: DELP 20210703, **_IHME 20210702_**, IMPE 20210618, LANL 20210627, SRIV 20210703
   
@@ -3145,6 +3315,12 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
   
 *  
+  
+**uptake 20210704**: DELP 20210704, IHME 20210702, **_IMPE 20210626_**, LANL 20210704, SRIV 20210704  
+  
+.
+  
+*   
 
 **uptake 20210703**: DELP 20210703, **_IHME 20210702_**, IMPE 20210618, LANL 20210627, SRIV 20210703
   
@@ -3234,6 +3410,12 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
   
 *  
+  
+**uptake 20210704**: DELP 20210704, IHME 20210702, **_IMPE 20210626_**, LANL 20210704, SRIV 20210704  
+  
+.
+  
+*  
 
 **uptake 20210703**: DELP 20210703, **_IHME 20210702_**, IMPE 20210618, LANL 20210627, SRIV 20210703
   
@@ -3321,6 +3503,12 @@ _Component studies and their scenarios_ are mentioned below after the selected _
 #### graph (10) Ontario - Daily cases or infections estimated to reported cases, reference scenarios, 2021
   
   
+  
+*  
+  
+**uptake 20210704**: DELP 20210704, IHME 20210702, **_IMPE 20210626_**, LANL 20210704, SRIV 20210704  
+  
+.
   
 *  
 
@@ -3420,6 +3608,12 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
   
 *  
+  
+**uptake 20210704**: DELP 20210704, IHME 20210702, **_IMPE 20210626_**, LANL 20210704, SRIV 20210704  
+  
+.
+  
+*  
 
 **uptake 20210703**: DELP 20210703, **_IHME 20210702_**, IMPE 20210618, LANL 20210627, SRIV 20210703
   
@@ -3507,6 +3701,12 @@ _Component studies and their scenarios_ are mentioned below after the selected _
 #### graph (2) Quebec - Daily deaths, reference scenarios, 2021
   
   
+  
+*  
+  
+**uptake 20210704**: DELP 20210704, IHME 20210702, **_IMPE 20210626_**, LANL 20210704, SRIV 20210704  
+  
+.
   
 *  
 
@@ -3598,6 +3798,12 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
   
 *  
+  
+**uptake 20210704**: DELP 20210704, IHME 20210702, **_IMPE 20210626_**, LANL 20210704, SRIV 20210704  
+  
+.
+  
+*   
 
 **uptake 20210703**: DELP 20210703, **_IHME 20210702_**, IMPE 20210618, LANL 20210627, SRIV 20210703
   
@@ -3687,6 +3893,12 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
   
 *  
+  
+**uptake 20210704**: DELP 20210704, IHME 20210702, **_IMPE 20210626_**, LANL 20210704, SRIV 20210704  
+  
+.
+  
+*   
 
 **uptake 20210703**: DELP 20210703, **_IHME 20210702_**, IMPE 20210618, LANL 20210627, SRIV 20210703
   
@@ -3775,6 +3987,12 @@ _Component studies and their scenarios_ are mentioned below after the selected _
 #### graph (5) Quebec - Daily cases or infections, reference scenarios, 2021
   
   
+  
+*  
+  
+**uptake 20210704**: DELP 20210704, IHME 20210702, **_IMPE 20210626_**, LANL 20210704, SRIV 20210704  
+  
+.
   
 *  
 
@@ -3866,6 +4084,12 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
   
 *  
+  
+**uptake 20210704**: DELP 20210704, IHME 20210702, **_IMPE 20210626_**, LANL 20210704, SRIV 20210704  
+  
+.
+  
+*   
 
 **uptake 20210703**: DELP 20210703, **_IHME 20210702_**, IMPE 20210618, LANL 20210627, SRIV 20210703
   
@@ -3953,6 +4177,12 @@ _Component studies and their scenarios_ are mentioned below after the selected _
 #### graph (7) Quebec - Hospital-related outcomes, all time
   
   
+  
+*  
+  
+**uptake 20210704**: DELP 20210704, IHME 20210702, **_IMPE 20210626_**, LANL 20210704, SRIV 20210704  
+  
+.
   
 *  
 
@@ -4044,6 +4274,12 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
   
 *  
+  
+**uptake 20210704**: DELP 20210704, IHME 20210702, **_IMPE 20210626_**, LANL 20210704, SRIV 20210704  
+  
+.
+  
+*  
 
 **uptake 20210703**: DELP 20210703, **_IHME 20210702_**, IMPE 20210618, LANL 20210627, SRIV 20210703
 
@@ -4132,6 +4368,12 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
   
 *  
+  
+**uptake 20210704**: DELP 20210704, IHME 20210702, **_IMPE 20210626_**, LANL 20210704, SRIV 20210704  
+  
+.
+  
+*  
 
 **uptake 20210703**: DELP 20210703, **_IHME 20210702_**, IMPE 20210618, LANL 20210627, SRIV 20210703
   
@@ -4216,6 +4458,12 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
   
 *  
+  
+**uptake 20210704**: DELP 20210704, IHME 20210702, **_IMPE 20210626_**, LANL 20210704, SRIV 20210704  
+  
+.
+  
+*    
 
 **uptake 20210703**: DELP 20210703, **_IHME 20210702_**, IMPE 20210618, LANL 20210627, SRIV 20210703
   
