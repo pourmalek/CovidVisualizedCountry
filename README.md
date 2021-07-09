@@ -687,7 +687,7 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
 (1) Canada [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210703/output/merge/main/CAN1%2011aDayDeaMERGnat%20alltime%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/124375219-ef4c0680-dc55-11eb-93f6-3e4d7598b2cf.png)
+![image](https://user-images.githubusercontent.com/30849720/125133261-72d48000-e0ba-11eb-8621-839eb9b8028e.png)
   
 *  
   
@@ -780,7 +780,7 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
 (2) Canada [Daily deaths, reference scenarios, 2011](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210703/output/merge/main/CAN2%2012aDayDeaMERGnat%202021%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%202021.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/124375228-07238a80-dc56-11eb-8f45-afe18d70cd7f.png)
+![image](https://user-images.githubusercontent.com/30849720/125133899-6270d500-e0bb-11eb-8902-cca2e8ce12eb.png)
   
 *   
   
@@ -874,7 +874,7 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
 (3) Canada [Daily deaths, 3 scenarios, 2011](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210703/output/merge/main/CAN3%2014aDayDeaMERGnat%202021%203%20scenarios%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20National%2C%203%20scenarios%2C%202021.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/124375246-1efb0e80-dc56-11eb-8683-92752b628e3c.png)
+![image](https://user-images.githubusercontent.com/30849720/125133983-7a485900-e0bb-11eb-8a5c-e23cd499ddd4.png)
   
 * 
   
@@ -967,7 +967,7 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
 (4) Canada [Daily cases or infections, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210703/output/merge/main/CAN4%2031aDayCasMERGnat%20alltime%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20National%2C%20reference%20scenarios.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/124375262-36d29280-dc56-11eb-8e06-9ae3e2e50e55.png)
+![image](https://user-images.githubusercontent.com/30849720/125134036-93510a00-e0bb-11eb-9166-9a9cd2a66c9f.png)
   
 * 
   
@@ -1062,7 +1062,7 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
 (5) Canada [Daily cases or infections, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210703/output/merge/main/CAN5%2032aDayCasMERGnat%202021%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%202021.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/124375286-5bc70580-dc56-11eb-8c7f-af6ff708cbc6.png)
+![image](https://user-images.githubusercontent.com/30849720/125134081-acf25180-e0bb-11eb-8e41-153f38298dab.png)
   
 *  
   
@@ -1158,7 +1158,7 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
 (6) Canada [Daily cases or infections, 3 scenarios, 2011](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210703/output/merge/main/CAN6%2034aDayCasMERGnat%202021%203scen%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20National%2C%203%20scenarios%2C%202021%2C%20uncertainty.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/124375317-75684d00-dc56-11eb-82c4-b9bbf19e4613.png)
+![image](https://user-images.githubusercontent.com/30849720/125134120-c4c9d580-e0bb-11eb-9437-814f6ff5f2e5.png)
   
 * 
   
@@ -1253,7 +1253,7 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
 (7) Canada [Hospital-related outcomes, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210703/output/merge/main/CAN7%2071aDayHosMERGnat%20%20alltime%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20National.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/124375343-8e70fe00-dc56-11eb-8d71-10490c1e470a.png)
+![image](https://user-images.githubusercontent.com/30849720/125134181-db702c80-e0bb-11eb-8c64-3ee75e7cde57.png)
   
 * 
   
@@ -1348,7 +1348,7 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
 (8) Canada [Hospital-related outcomes, 2021, without IHME Bed need and IMPE Hospital demand](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210703/output/merge/main/CAN8%2073aDayHosMERGnat%202021%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20National%2C%20wo%20extremes%2C%202021.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/124375376-b2ccda80-dc56-11eb-8fa5-c6416184feda.png)
+![image](https://user-images.githubusercontent.com/30849720/125134253-f478dd80-e0bb-11eb-8780-c9f9a36f2b06.png)
   
 *  
   
@@ -1444,7 +1444,7 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
 (9) Canada [Daily deaths estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210703/output/merge/main/CAN9%2092aDayDERMERGnat%202021%20-%20COVID-19%20daily%20deaths%20estimated%20to%20reported%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%202021.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/124375395-d55ef380-dc56-11eb-9e23-36884de4bb52.png)
+![image](https://user-images.githubusercontent.com/30849720/125134309-0c506180-e0bc-11eb-9856-c76f041f85a2.png)
   
 * 
   
@@ -1539,7 +1539,7 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
 (10) Canada [Daily cases or infections estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210703/output/merge/main/CAN10%2094aDayCERMERGnat%202021%20-%20COVID-19%20daily%20cases%20estimated%20to%20reported%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%202021.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/124375415-f0316800-dc56-11eb-90af-86165d667b52.png)
+![image](https://user-images.githubusercontent.com/30849720/125134366-2427e580-e0bc-11eb-9f6b-9be0c02f776a.png)
   
 * 
   
@@ -1631,7 +1631,7 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
 (11) Canada and provinces [Daily death rates, reference scenario, all time, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210703/output/merge/main/CAN11%2019aDayDeaRATE%20alltime%20IHME%20-%20COVID-19%20daily%20death%20rate%2C%20Canada%2C%20subnational%2C%20IHME%2C%20reference%20scenario.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/124375435-0808ec00-dc57-11eb-984c-10eb770babc5.png)
+![image](https://user-images.githubusercontent.com/30849720/125134444-3bff6980-e0bc-11eb-8040-1a70c46a7ea2.png)
   
 * 
   
@@ -1736,7 +1736,7 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
 (1) British Columbia [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210703/output/merge/main/SUB1%2011bDayDeaMERGsub%20alltime%20British%20Columbia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/124375653-320ede00-dc58-11eb-8292-19a2e91c8476.png)
+![image](https://user-images.githubusercontent.com/30849720/125134540-605b4600-e0bc-11eb-9168-2a722ce6fc66.png)
   
 * 
   
@@ -1832,7 +1832,7 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
 (2) British Columbia [Daily deaths, reference scenarios, 2011](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210703/output/merge/main/SUB2%2012bDayDeaMERGsub%202021%20British%20Columbia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%202021.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/124375682-4e127f80-dc58-11eb-97bb-65779d6128d9.png)
+![image](https://user-images.githubusercontent.com/30849720/125134613-7832ca00-e0bc-11eb-845c-66bd23c15799.png)
   
 * 
   
@@ -1929,7 +1929,7 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
 (3) British Columbia [Daily deaths, 3 scenarios, 2011](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210703/output/merge/main/SUB3%2014bDayDeaMERGsub%202021%203%20scenarios%20British%20Columbia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20British%20Columbia%2C%203%20scenarios%2C%202021.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/124375705-6e423e80-dc58-11eb-84b3-51bde514d1f4.png)
+![image](https://user-images.githubusercontent.com/30849720/125134660-93053e80-e0bc-11eb-9618-69b5ef1e1831.png)
   
 * 
   
@@ -2025,7 +2025,7 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
 (4) British Columbia [Daily cases or infections, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210703/output/merge/main/SUB4%2031bDayCasMERGsub%20alltime%20British%20Columbia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/124375728-844fff00-dc58-11eb-93b0-6cb73617b3d6.png)
+![image](https://user-images.githubusercontent.com/30849720/125134711-aa442c00-e0bc-11eb-9762-eec2781680e4.png)
   
 * 
   
@@ -2121,7 +2121,7 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
 (5) British Columbia [Daily cases or infections, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210703/output/merge/main/SUB5%2032bDayCasMERGsub%202021%20British%20Columbia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%202021.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/124375749-a47fbe00-dc58-11eb-8194-90a1dcd7572b.png)
+![image](https://user-images.githubusercontent.com/30849720/125134762-c1831980-e0bc-11eb-832f-1ff94e6055d7.png)
   
 * 
   
@@ -2215,7 +2215,7 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
 (6) British Columbia [Daily cases or infections, 3 scenarios, 2011](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210703/output/merge/main/SUB6%2034bDayCasMERGsub%202021%203scen%20British%20Columbia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20British%20Columbia%2C%203%20scenarios%2C%202021%2C%20uncertainty.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/124375769-b95c5180-dc58-11eb-85d9-81f82875041e.png)
+![image](https://user-images.githubusercontent.com/30849720/125134827-de1f5180-e0bc-11eb-9421-d0c9ea65ca9e.png)
   
 * 
   
@@ -2311,7 +2311,7 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
 (7) British Columbia [Hospital-related outcomes, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210703/output/merge/main/SUB7%2071bDayHosMERGsub%20alltime%20British%20Columbia%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20British%20Columbia.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/124375797-d42ec600-dc58-11eb-94ff-88053cf1cacf.png)
+![image](https://user-images.githubusercontent.com/30849720/125134893-f55e3f00-e0bc-11eb-8c91-fba3abd349be.png)
   
 * 
   
@@ -2407,7 +2407,7 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
 (8) British Columbia [Hospital-related outcomes, 2021, without IHME Bed need and IMPE Hospital demand](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210703/output/merge/main/SUB8%2073bDayHosMERGsub%202021%20woextremes%20British%20Columbia%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20British%20Columbia%2C%20wo%20extremes%2C%202021.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/124375829-ead51d00-dc58-11eb-9c81-28b62f9d8f58.png)
+![image](https://user-images.githubusercontent.com/30849720/125134944-0d35c300-e0bd-11eb-8a2f-0d830083988f.png)
   
 * 
   
@@ -2504,7 +2504,7 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
 (9) British Columbia [Daily deaths estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210703/output/merge/main/SUB9%2092bDayDERMERGsub%202021%20British%20Columbia%20-%20COVID-19%20daily%20deaths%20estimated%20to%20reported%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%202021.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/124375851-02140a80-dc59-11eb-9822-04070dc100e0.png)
+![image](https://user-images.githubusercontent.com/30849720/125134996-2474b080-e0bd-11eb-87d5-54e00ab02c02.png)
   
 * 
   
@@ -2601,7 +2601,7 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
 (10) British Columbia [Daily cases or infections estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210703/output/merge/main/SUB10%2094bDayCERMERGsub%202021%20British%20Columbia%20-%20COVID-19%20daily%20cases%20estimated%20to%20reported%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%202021.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/124375879-1e17ac00-dc59-11eb-8e00-e542501e0644.png)
+![image](https://user-images.githubusercontent.com/30849720/125135047-3b1b0780-e0bd-11eb-98ae-cee8c5080454.png)
   
 * 
   
@@ -2706,7 +2706,7 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
 (1) Ontario [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210703/output/merge/main/SUB1%2011bDayDeaMERGsub%20alltime%20Ontario%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/124375910-456e7900-dc59-11eb-93fb-6b3ab8c5989f.png)
+![image](https://user-images.githubusercontent.com/30849720/125136542-df9e4900-e0bf-11eb-896f-fa0dad1febf9.png)
   
 * 
   
@@ -2802,7 +2802,7 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
 (2) Ontario [Daily deaths, reference scenarios, 2011](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210703/output/merge/main/SUB2%2012bDayDeaMERGsub%202021%20Ontario%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202021.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/124375923-5cad6680-dc59-11eb-8030-f2337f3246f4.png)
+![image](https://user-images.githubusercontent.com/30849720/125136593-fcd31780-e0bf-11eb-8737-3348ca8427a3.png)
   
 * 
   
@@ -2899,7 +2899,7 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
 (3) Ontario [Daily deaths, 3 scenarios, 2011](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210703/output/merge/main/SUB3%2014bDayDeaMERGsub%202021%203%20scenarios%20Ontario%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Ontario%2C%203%20scenarios%2C%202021.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/124375940-76e74480-dc59-11eb-9d84-3530e10caa0d.png)
+![image](https://user-images.githubusercontent.com/30849720/125136648-170cf580-e0c0-11eb-9337-e9085f089670.png)
   
 * 
   
@@ -2995,7 +2995,7 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
 (4) Ontario [Daily cases or infections, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210703/output/merge/main/SUB4%2031bDayCasMERGsub%20alltime%20Ontario%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/124375963-8ebec880-dc59-11eb-9937-b17898639687.png)
+![image](https://user-images.githubusercontent.com/30849720/125136699-2e4be300-e0c0-11eb-9e9d-17385dea3033.png)
   
 * 
   
@@ -3092,7 +3092,7 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
 (5) Ontario [Daily cases or infections, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210703/output/merge/main/SUB5%2032bDayCasMERGsub%202021%20Ontario%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202021.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/124376002-b150e180-dc59-11eb-9da3-cf804748b178.png)
+![image](https://user-images.githubusercontent.com/30849720/125136826-65ba8f80-e0c0-11eb-8eb5-4025646d0f8e.png)
   
 * 
   
@@ -3189,7 +3189,7 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
 (6) Ontario [Daily cases or infections, 3 scenarios, 2011](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210703/output/merge/main/SUB6%2034bDayCasMERGsub%202021%203scen%20Ontario%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Ontario%2C%203%20scenarios%2C%202021%2C%20uncertainty.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/124376024-ca599280-dc59-11eb-8a86-58dc9809d79f.png)
+![image](https://user-images.githubusercontent.com/30849720/125136888-7d921380-e0c0-11eb-83b3-20cd6f9af74b.png)
   
 * 
   
@@ -3286,7 +3286,7 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
 (7) Ontario [Hospital-related outcomes, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210703/output/merge/main/SUB7%2071bDayHosMERGsub%20alltime%20Ontario%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20Ontario.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/124376046-e2c9ad00-dc59-11eb-99cf-6849c4081180.png)
+![image](https://user-images.githubusercontent.com/30849720/125136942-94d10100-e0c0-11eb-868e-4d8cee795e7f.png)
   
 * 
   
@@ -3383,7 +3383,7 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
 (8) Ontario [Hospital-related outcomes, 2021, without IHME Bed need and IMPE Hospital demand](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210703/output/merge/main/SUB8%2073bDayHosMERGsub%202021%20woextremes%20Ontario%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20Ontario%2C%20wo%20extremes%2C%202021.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/124376064-faa13100-dc59-11eb-97ed-d578a8495a62.png)
+![image](https://user-images.githubusercontent.com/30849720/125137002-af0adf00-e0c0-11eb-8a9b-8cd2faca5166.png)
   
 * 
   
@@ -3480,7 +3480,7 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
 (9) Ontario [Daily deaths estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210703/output/merge/main/SUB9%2092bDayDERMERGsub%202021%20Ontario%20-%20COVID-19%20daily%20deaths%20estimated%20to%20reported%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202021.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/124376076-13114b80-dc5a-11eb-898d-f55880f2cf75.png)
+![image](https://user-images.githubusercontent.com/30849720/125137148-f72a0180-e0c0-11eb-8958-f2a73bbe8d70.png)
   
 * 
   
@@ -3577,7 +3577,7 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
 (10) Ontario [Daily cases or infections estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210703/output/merge/main/SUB10%2094bDayCERMERGsub%202021%20Ontario%20-%20COVID-19%20daily%20cases%20estimated%20to%20reported%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202021.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/124376132-523f9c80-dc5a-11eb-9289-ff35ff905bc0.png)
+![image](https://user-images.githubusercontent.com/30849720/125137075-d06bcb00-e0c0-11eb-8550-203eb48e4594.png)
   
 *  
   
@@ -3682,7 +3682,7 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
 (1) Quebec [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210703/output/merge/main/SUB1%2011bDayDeaMERGsub%20alltime%20Quebec%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/124376176-8915b280-dc5a-11eb-8b6f-05a6117898a0.png)
+![image](https://user-images.githubusercontent.com/30849720/125137296-3fe1ba80-e0c1-11eb-835b-afcb7ffb08a3.png)
   
 *  
   
@@ -3779,7 +3779,7 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
 (2) Quebec [Daily deaths, reference scenarios, 2011](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210703/output/merge/main/SUB2%2012bDayDeaMERGsub%202021%20Quebec%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%202021.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/124376195-9fbc0980-dc5a-11eb-9f54-9783178b3c1e.png)
+![image](https://user-images.githubusercontent.com/30849720/125137338-56881180-e0c1-11eb-85ca-be419a7248e8.png)
   
 *   
   
@@ -3876,7 +3876,7 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
 (3) Quebec [Daily deaths, 3 scenarios, 2011](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210703/output/merge/main/SUB3%2014bDayDeaMERGsub%202021%203%20scenarios%20Quebec%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Quebec%2C%203%20scenarios%2C%202021.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/124376213-b5c9ca00-dc5a-11eb-8623-5c42dce701fd.png)
+![image](https://user-images.githubusercontent.com/30849720/125137382-6bfd3b80-e0c1-11eb-95b5-481069861271.png)
   
 * 
   
@@ -3973,7 +3973,7 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
 (4) Quebec [Daily cases or infections, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210703/output/merge/main/SUB4%2031bDayCasMERGsub%20alltime%20Quebec%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/124376231-ce39e480-dc5a-11eb-951e-d6c32adc1417.png)
+![image](https://user-images.githubusercontent.com/30849720/125137425-820afc00-e0c1-11eb-8fd8-d8cc8b53b414.png)
   
 *  
   
@@ -4071,7 +4071,7 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
 (5) Quebec [Daily cases or infections, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210703/output/merge/main/SUB5%2032bDayCasMERGsub%202021%20Quebec%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%202021.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/124376246-e7db2c00-dc5a-11eb-90a5-29901da8e1dc.png)
+![image](https://user-images.githubusercontent.com/30849720/125137587-dc0bc180-e0c1-11eb-9914-1f31169eee34.png)
   
 * 
   
@@ -4168,7 +4168,7 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
 (6) Quebec [Daily cases or infections, 3 scenarios, 2011](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210703/output/merge/main/SUB6%2034bDayCasMERGsub%202021%203scen%20Quebec%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Quebec%2C%203%20scenarios%2C%202021%2C%20uncertainty.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/124376269-050ffa80-dc5b-11eb-8815-87b8bcc89165.png)
+![image](https://user-images.githubusercontent.com/30849720/125137714-1a08e580-e0c2-11eb-8d8d-b877f597213d.png)
   
 * 
   
@@ -4265,7 +4265,7 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
 (7) Quebec [Hospital-related outcomes, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210703/output/merge/main/SUB7%2071bDayHosMERGsub%20alltime%20Quebec%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20Quebec.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/124376293-1bb65180-dc5b-11eb-9a01-cb6c4dd33b2b.png)
+![image](https://user-images.githubusercontent.com/30849720/125137761-3016a600-e0c2-11eb-8d5c-b574470e0d54.png)
   
 * 
   
@@ -4362,7 +4362,7 @@ _Component studies and their scenarios_ are mentioned below after the selected _
 
 (8) Quebec [Hospital-related outcomes, 2021, without IHME Bed need and IMPE Hospital demand](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210703/output/merge/main/SUB8%2073bDayHosMERGsub%202021%20woextremes%20Quebec%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20Quebec%2C%20wo%20extremes%2C%202021.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/124376299-37b9f300-dc5b-11eb-8728-c70e9ea35daa.png)
+![image](https://user-images.githubusercontent.com/30849720/125137814-47559380-e0c2-11eb-9760-ee5cf158255d.png)
   
 * 
   
@@ -4458,7 +4458,7 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
 (9) Quebec [Daily deaths estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210703/output/merge/main/SUB9%2092bDayDERMERGsub%202021%20Quebec%20-%20COVID-19%20daily%20deaths%20estimated%20to%20reported%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%202021.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/124376315-502a0d80-dc5b-11eb-91ee-96ed3e560c1a.png)
+![image](https://user-images.githubusercontent.com/30849720/125137853-5d635400-e0c2-11eb-90c4-308229476a38.png)
   
 * 
   
@@ -4550,7 +4550,7 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
 (10) Quebec [Daily cases or infections estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210703/output/merge/main/SUB10%2094bDayCERMERGsub%202021%20Quebec%20-%20COVID-19%20daily%20cases%20estimated%20to%20reported%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%202021.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/124376347-75b71700-dc5b-11eb-832b-bfdde714af4f.png)
+![image](https://user-images.githubusercontent.com/30849720/125137888-72d87e00-e0c2-11eb-8366-92bb60728bd3.png)
   
 * 
   
