@@ -563,6 +563,8 @@ _Component studies and their scenarios_ are mentioned below after the selected _
 
 .
   
+(12) uptake 20210714: DELP 20210714, IHME 20210702, **_IMPE 20210709_**, LANL 20210711, SRIV 20210714  
+  
 (11) uptake 20210709: DELP 20210708, IHME 20210702, **_IMPE 20210702_**, LANL 20210704, SRIV 20210709  
   
 (10) uptake 20210704: DELP 20210704, IHME 20210702, **_IMPE 20210626_**, LANL 20210704, SRIV 20210704  
@@ -667,6 +669,12 @@ _Component studies and their scenarios_ are mentioned below after the selected _
 #### graph (1) Canada - Daily deaths, reference scenarios, all time
   
   
+  
+*  
+  
+**uptake 20210714**: DELP 20210714, IHME 20210702, **_IMPE 20210709_**, LANL 20210711, SRIV 20210714  
+  
+.
   
 *  
   
