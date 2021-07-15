@@ -31,11 +31,13 @@ IMPE update 20210702 (2021-07-02_v8.csv.zip) released on 20210709.
 
 (1) Canada [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210709/output/merge/main/CAN1%2011aDayDeaMERGnat%20alltime%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/125726823-49a5bfcc-8758-41fa-9b3d-0bcaa72aa98c.png)
 
 ****
 
 (2) Canada [Daily deaths, reference scenarios, 2011](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210709/output/merge/main/CAN2%2012aDayDeaMERGnat%202021%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/125726873-f5877feb-7c47-4248-b053-9a1079921a1f.png)
 
 ****
 
@@ -52,6 +54,7 @@ IMPE update 20210702 (2021-07-02_v8.csv.zip) released on 20210709.
 
 (5) Canada [Daily cases or infections, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210709/output/merge/main/CAN5%2032aDayCasMERGnat%202021%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/125726934-caeddcca-9c45-4401-b436-292f5410e2b8.png)
 
 ****
 
@@ -75,17 +78,19 @@ IMPE update 20210702 (2021-07-02_v8.csv.zip) released on 20210709.
 
 (9) Canada [Daily deaths estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210709/output/merge/main/CAN9%2092aDayDERMERGnat%202021%20-%20COVID-19%20daily%20deaths%20estimated%20to%20reported%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%202021.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/125147991-12f2cf00-e0e4-11eb-9a5c-ea3343b21777.png)
+![image](https://user-images.githubusercontent.com/30849720/125727236-62d95419-fac0-4adc-8fa8-2988afcde36b.png)
 
 ****
 
 (10) Canada [Daily cases or infections estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210709/output/merge/main/CAN10%2094aDayCERMERGnat%202021%20-%20COVID-19%20daily%20cases%20estimated%20to%20reported%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/125727096-4e09e623-a4ca-4222-bf6d-2b1fec27b18a.png)
 
 ****
 
 (11) Canada and provinces [Daily death rates, reference scenario, all time, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210709/output/merge/main/CAN11%2019aDayDeaRATE%20alltime%20IHME%20-%20COVID-19%20daily%20death%20rate%2C%20Canada%2C%20subnational%2C%20IHME%2C%20reference%20scenario.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/125727185-640db6ed-6dcc-4353-bd8d-278570806e49.png)
 
 ****
 ****
