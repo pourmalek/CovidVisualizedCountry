@@ -2081,7 +2081,9 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
 **uptake 20210723**: DELP 20210723, **_IHME 20210723_**, IMPE 20210709, LANL 20210718, SRIV 20210723  
   
-.
+(1) British Columbia [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210723/output/merge/main/SUB1%2011bDayDeaMERGsub%20alltime%20British%20Columbia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%20all%20time.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/126878033-3d3d9f37-e9e0-4e2b-8ae5-e02326093a23.png)
   
 *    
   
@@ -2207,7 +2209,9 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
 **uptake 20210723**: DELP 20210723, **_IHME 20210723_**, IMPE 20210709, LANL 20210718, SRIV 20210723  
   
-.
+(2) British Columbia [Daily deaths, reference scenarios, 2011](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210723/output/merge/main/SUB2%2012bDayDeaMERGsub%202021%20British%20Columbia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%202021.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/126878057-e20802ec-68a0-4745-be1c-beeec7f14589.png)
   
 *    
   
@@ -2334,7 +2338,9 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
 **uptake 20210723**: DELP 20210723, **_IHME 20210723_**, IMPE 20210709, LANL 20210718, SRIV 20210723  
   
-.
+(3) British Columbia [Daily deaths, 3 scenarios, 2011](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210723/output/merge/main/SUB3%2014bDayDeaMERGsub%202021%203%20scenarios%20British%20Columbia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20British%20Columbia%2C%203%20scenarios%2C%202021.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/126878073-260f00b0-6210-432f-ae4f-9df6db048d36.png)
   
 *    
   
@@ -2460,7 +2466,9 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
 **uptake 20210723**: DELP 20210723, **_IHME 20210723_**, IMPE 20210709, LANL 20210718, SRIV 20210723  
   
-.
+(4) British Columbia [Daily cases or infections, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210723/output/merge/main/SUB4%2031bDayCasMERGsub%20alltime%20British%20Columbia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/126878082-063b3967-4a78-426b-a3d3-f2e6c7e55e1d.png)
   
 *   
   
@@ -2586,7 +2594,9 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
 **uptake 20210723**: DELP 20210723, **_IHME 20210723_**, IMPE 20210709, LANL 20210718, SRIV 20210723  
   
-.
+(5) British Columbia [Daily cases or infections, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210723/output/merge/main/SUB5%2032bDayCasMERGsub%202021%20British%20Columbia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%202021.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/126878162-36e7ff40-558e-43da-bdcc-2558ecf1755b.png)
   
 *    
   
@@ -2710,7 +2720,9 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
 **uptake 20210723**: DELP 20210723, **_IHME 20210723_**, IMPE 20210709, LANL 20210718, SRIV 20210723  
   
-.
+(6) British Columbia [Daily cases or infections, 3 scenarios, 2011](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210723/output/merge/main/SUB6%2034bDayCasMERGsub%202021%203scen%20British%20Columbia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20British%20Columbia%2C%203%20scenarios%2C%202021%2C%20uncertainty.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/126878175-779ba68e-5376-4b1a-9016-334358fa2965.png)
   
 *    
   
@@ -2836,7 +2848,9 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
 **uptake 20210723**: DELP 20210723, **_IHME 20210723_**, IMPE 20210709, LANL 20210718, SRIV 20210723  
   
-.
+(7) British Columbia [Hospital-related outcomes, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210723/output/merge/main/SUB7%2071bDayHosMERGsub%20alltime%20British%20Columbia%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20British%20Columbia.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/126878192-4f355d53-36c0-4466-827c-69208950c8b0.png)
   
 *    
   
@@ -2962,7 +2976,9 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
 **uptake 20210723**: DELP 20210723, **_IHME 20210723_**, IMPE 20210709, LANL 20210718, SRIV 20210723  
   
-.
+(8) British Columbia [Hospital-related outcomes, 2021, without IHME Bed need and IMPE Hospital demand](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210723/output/merge/main/SUB8%2073bDayHosMERGsub%202021%20woextremes%20British%20Columbia%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20British%20Columbia%2C%20wo%20extremes%2C%202021.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/126878208-ff8c047f-c946-44ca-a82a-36e08d962ffa.png)
   
 *    
   
@@ -3089,7 +3105,9 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
 **uptake 20210723**: DELP 20210723, **_IHME 20210723_**, IMPE 20210709, LANL 20210718, SRIV 20210723  
   
-.
+(9) British Columbia [Daily deaths estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210723/output/merge/main/SUB9%2092bDayDERMERGsub%202021%20British%20Columbia%20-%20COVID-19%20daily%20deaths%20estimated%20to%20reported%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%202021.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/126878221-15335104-4441-4b0a-9fac-a0b07ec2a697.png)
   
 *   
   
@@ -3216,7 +3234,9 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
 **uptake 20210723**: DELP 20210723, **_IHME 20210723_**, IMPE 20210709, LANL 20210718, SRIV 20210723  
   
-.
+(10) British Columbia [Daily cases or infections estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210723/output/merge/main/SUB10%2094bDayCERMERGsub%202021%20British%20Columbia%20-%20COVID-19%20daily%20cases%20estimated%20to%20reported%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%202021.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/126878241-64e17e5f-2a8b-4c95-a19e-ed1cdfa3efba.png)
   
 *    
   
