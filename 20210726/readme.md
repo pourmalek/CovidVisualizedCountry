@@ -44,7 +44,7 @@ mmm
 
 ### Selected graphs - [Ontario](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210726/readme.md#selected-graphs---ontario-1)
 
-### Selected graphs - [Prince Edward Island](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210726/readme.md#selected-graphs---prince-edward-island)
+### Selected graphs - [Prince Edward Island](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210726/readme.md#selected-graphs---prince-edward-island-1)
 
 ### Selected graphs - [Quebec](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210726/readme.md#selected-graphs---quebec-1)
 
