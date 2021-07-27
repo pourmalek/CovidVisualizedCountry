@@ -2161,7 +2161,9 @@ _Component studies and their scenarios_ are mentioned below after the selected _
 ****
 ****  
 
-#### graph (12) Canada and provinces - Daily death rates, reference scenario, 2011 IHME
+#### graph (12) Canada and provinces - Daily death rates, reference scenario, 2021 IHME
+  
+This graph was added here starting with uptake 20210726.    
   
   
 *  
