@@ -132,6 +132,16 @@ mmm
 ****
 ****
 
+
+### Selected graphs - Alberta
+
+(1) Alberta [Daily deaths, reference scenarios, all time]()
+
+.
+
+****
+****
+
 ### Selected graphs - British Columbia
 
 (1) British Columbia [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210726/output/merge/main/SUB1%2011bDayDeaMERGsub%20alltime%20British%20Columbia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%20all%20time.pdf)
@@ -194,6 +204,57 @@ mmm
 
 ****
 ****
+
+
+### Selected graphs - New Brunswick
+
+(1) New Brunswick [Daily deaths, reference scenarios, all time]()
+
+.
+
+****
+****
+
+
+### Selected graphs - Newfoundland and Labrador
+
+(1) Newfoundland and Labrador [Daily deaths, reference scenarios, all time]()
+
+.
+
+****
+****
+
+
+### Selected graphs - Northwest Territories
+
+(1) Northwest Territories [Daily deaths, reference scenarios, all time]()
+
+.
+
+****
+****
+
+
+### Selected graphs - Nova Scotia
+
+(1) Nova Scotia [Daily deaths, reference scenarios, all time]()
+
+.
+
+****
+****
+
+
+### Selected graphs - Nunavut
+
+(1) Nunavut [Daily deaths, reference scenarios, all time]()
+
+.
+
+****
+****
+
 
 ### Selected graphs - Ontario
 
@@ -258,6 +319,16 @@ mmm
 ****
 ****
 
+
+### Selected graphs - Prince Edward Island
+
+(1) Prince Edward Island [Daily deaths, reference scenarios, all time]()
+
+.
+
+****
+****
+
 ### Selected graphs - Quebec
 
 (1) Quebec [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210726/output/merge/main/SUB1%2011bDayDeaMERGsub%20alltime%20Quebec%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%20all%20time.pdf)
@@ -318,4 +389,26 @@ mmm
 
 ![image](https://user-images.githubusercontent.com/30849720/127090100-0cd12665-94b0-4c3a-84e8-f8eaad775acb.png)
 
+
+****
+****
+
+
+### Selected graphs - Saskatchewan
+
+(1) Saskatchewan [Daily deaths, reference scenarios, all time]()
+
+.
+
+****
+****
+
+
+### Selected graphs - Yukon
+
+(1) Yukon [Daily deaths, reference scenarios, all time]()
+
+.
+
+****
 ****
