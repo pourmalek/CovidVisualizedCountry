@@ -22,8 +22,6 @@ DELP 20210726, **_IHME 20210723 version 2_**, IMPE 20210709, LANL 20210718, SRIV
 
 
 
-mmm
-
 ### Selected graphs - [Canada](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210726/readme.md#selected-graphs---canada-1)
 
 ### Selected graphs - [Alberta](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210726/readme.md#selected-graphs---alberta-1)
