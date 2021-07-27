@@ -943,13 +943,22 @@ _Component studies and their scenarios_ are mentioned below after the selected _
 <br/><br/>
 
 ### Selected graphs - [Canada](https://github.com/pourmalek/CovidVisualizedCountry#selected-graphs---canada-1)
+  
+### Selected graphs - [Alberta](https://github.com/pourmalek/CovidVisualizedCountry#selected-graphs---alberta-1)
+    
+### Selected graphs - [British Columbia](https://github.com/pourmalek/CovidVisualizedCountry#selected-graphs---british-columbia-1)  
+  
+### Selected graphs - [Manitoba](https://github.com/pourmalek/CovidVisualizedCountry#selected-graphs---manitoba-1)
 
-### Selected graphs - [British Columbia](https://github.com/pourmalek/CovidVisualizedCountry#selected-graphs---british-columbia-1)
-
+### Selected graphs - [Nova Scotia](https://github.com/pourmalek/CovidVisualizedCountry#selected-graphs---nova-scotia-1)
+  
 ### Selected graphs - [Ontario](https://github.com/pourmalek/CovidVisualizedCountry#selected-graphs---ontario-1)
 
 ### Selected graphs - [Quebec](https://github.com/pourmalek/CovidVisualizedCountry#selected-graphs---quebec-1)
-
+  
+### Selected graphs - [Saskatchewan](https://github.com/pourmalek/CovidVisualizedCountry#selected-graphs---saskatchewan-1)
+  
+  
 ****
 ****
 
