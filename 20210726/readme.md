@@ -36,7 +36,7 @@ mmm
 
 ### Selected graphs - [Newfoundland and Labrador](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210726/readme.md#selected-graphs---newfoundland-and-labrador-1)
 
-### Selected graphs - [Northwest Territories](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210726/readme.md#selected-graphs---northwest territories-1)
+### Selected graphs - [Northwest Territories](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210726/readme.md#selected-graphs---northwest-territories)
 
 ### Selected graphs - [Nova Scotia](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210726/readme.md#selected-graphs---nova-scotia-1)
 
