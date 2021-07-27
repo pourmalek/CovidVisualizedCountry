@@ -95,14 +95,25 @@ The codes in these repositories can be adapted for use for any country or region
 ### 20210726: IHME estimates for Canada in update 20210723 and in update 20210715 WERE identical UPON FIRST RELEASE OF update 20210723, with numerical value difference of zero. As of 20210726, update 20210723 has been replaced by IHME and is not identical with update 20210715. See [`20210723`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20210723)
   
 .
+ 
   
-#### Selected graphs from latest uptake - [Canada](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/README.md#selected-graphs---canada)
+  
+### Selected graphs from latest uptake - [Canada](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/README.md#selected-graphs---canada)
 
-#### Selected graphs from latest uptake - [British Columbia](https://github.com/pourmalek/CovidVisualizedCountry#selected-graphs---british-columbia)
+### Selected graphs from latest uptake - [Alberta](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210726/readme.md#selected-graphs---alberta-1)
 
-#### Selected graphs from latest uptake - [Ontario](https://github.com/pourmalek/CovidVisualizedCountry#selected-graphs---ontario)
+### Selected graphs from latest uptake - [British Columbia](British Columbia](https://github.com/pourmalek/CovidVisualizedCountry#selected-graphs---british-columbia)
 
-#### Selected graphsfrom latest uptake - [Quebec](https://github.com/pourmalek/CovidVisualizedCountry#selected-graphs---quebec)
+### Selected graphs from latest uptake - [Manitoba](https://github.com/pourmalek/CovidVisualizedCountry#selected-graphs---manitoba)
+
+### Selected graphs from latest uptake - [Nova Scotia](https://github.com/pourmalek/CovidVisualizedCountry#selected-graphs---nova-scotia)
+
+### Selected graphs from latest uptake - [Ontario](https://github.com/pourmalek/CovidVisualizedCountry#selected-graphs---ontario) 
+
+### Selected graphs from latest uptake - [Quebec]((https://github.com/pourmalek/CovidVisualizedCountry#selected-graphs---quebec)
+
+### Selected graphs from latest uptake - [Saskatchewan](https://github.com/pourmalek/CovidVisualizedCountry#selected-graphs---Saskatchewan)  
+  
 
 ****
 
