@@ -141,55 +141,55 @@ mmm
 
 *
 
-(2) Alberta [Daily deaths, reference scenarios, 2011]
+(2) Alberta [Daily deaths, reference scenarios, 2011]()
 
 .
 
 *
 
-(3) Alberta [Daily deaths, 3 scenarios, 2011]
+(3) Alberta [Daily deaths, 3 scenarios, 2011]()
 
 .
 
 *
 
-(4) Alberta [Daily cases or infections, reference scenarios, all time]
+(4) Alberta [Daily cases or infections, reference scenarios, all time]()
 
 .
 
 *
 
-(5) Alberta [Daily cases or infections, reference scenarios, 2021]
+(5) Alberta [Daily cases or infections, reference scenarios, 2021]()
 
 .
 
 *
 
-(6) Alberta [Daily cases or infections, 3 scenarios, 2011]
+(6) Alberta [Daily cases or infections, 3 scenarios, 2011]()
 
 .
 
 *
 
-(7) Alberta [Hospital-related outcomes, all time]
+(7) Alberta [Hospital-related outcomes, all time]()
 
 .
 
 *
 
-(8) Alberta [Hospital-related outcomes, 2021, without IHME Bed need and IMPE Hospital demand]
+(8) Alberta [Hospital-related outcomes, 2021, without IHME Bed need and IMPE Hospital demand]()
 
 .
 
 *
 
-(9) Alberta [Daily deaths estimated to reported, reference scenarios, 2021]
+(9) Alberta [Daily deaths estimated to reported, reference scenarios, 2021]()
 
 .
 
 *
 
-(10) Alberta [Daily cases or infections estimated to reported, reference scenarios, 2021]
+(10) Alberta [Daily cases or infections estimated to reported, reference scenarios, 2021]()
 
 .
 
@@ -261,11 +261,131 @@ mmm
 ****
 
 
+### Selected graphs - Manitoba
+
+(1) Manitoba [Daily deaths, reference scenarios, all time]()
+
+.
+
+*
+
+(2) Manitoba [Daily deaths, reference scenarios, 2011]()
+
+.
+
+*
+
+(3) Manitoba [Daily deaths, 3 scenarios, 2011]()
+
+.
+
+*
+
+(4) Manitoba [Daily cases or infections, reference scenarios, all time]()
+
+.
+
+*
+
+(5) Manitoba [Daily cases or infections, reference scenarios, 2021]()
+
+.
+
+*
+
+(6) Manitoba [Daily cases or infections, 3 scenarios, 2011]()
+
+.
+
+*
+
+(7) Manitoba [Hospital-related outcomes, all time]()
+
+.
+
+*
+
+(8) Manitoba [Hospital-related outcomes, 2021, without IHME Bed need and IMPE Hospital demand]()
+
+.
+
+*
+
+(9) Manitoba [Daily deaths estimated to reported, reference scenarios, 2021]()
+
+.
+
+*
+
+(10) Manitoba [Daily cases or infections estimated to reported, reference scenarios, 2021]()
+
+.
+
+
+****
+****
+
+
 ### Selected graphs - New Brunswick
 
 (1) New Brunswick [Daily deaths, reference scenarios, all time]()
 
 .
+
+*
+
+(2) New Brunswick [Daily deaths, reference scenarios, 2011]()
+
+.
+
+*
+
+(3) New Brunswick [Daily deaths, 3 scenarios, 2011]()
+
+.
+
+*
+
+(4) New Brunswick [Daily cases or infections, reference scenarios, all time]()
+
+.
+
+*
+
+(5) New Brunswick [Daily cases or infections, reference scenarios, 2021]()
+
+.
+
+*
+
+(6) New Brunswick [Daily cases or infections, 3 scenarios, 2011]()
+
+.
+
+*
+
+(7) New Brunswick [Hospital-related outcomes, all time]()
+
+.
+
+*
+
+(8) New Brunswick [Hospital-related outcomes, 2021, without IHME Bed need and IMPE Hospital demand]()
+
+.
+
+*
+
+(9) New Brunswick [Daily deaths estimated to reported, reference scenarios, 2021]()
+
+.
+
+*
+
+(10) New Brunswick [Daily cases or infections estimated to reported, reference scenarios, 2021]()
+
+.
+
 
 ****
 ****
@@ -277,6 +397,61 @@ mmm
 
 .
 
+*
+
+(2) Newfoundland and Labrador [Daily deaths, reference scenarios, 2011]()
+
+.
+
+*
+
+(3) Newfoundland and Labrador [Daily deaths, 3 scenarios, 2011]()
+
+.
+
+*
+
+(4) Newfoundland and Labrador [Daily cases or infections, reference scenarios, all time]()
+
+.
+
+*
+
+(5) Newfoundland and Labrador [Daily cases or infections, reference scenarios, 2021]()
+
+.
+
+*
+
+(6) Newfoundland and Labrador [Daily cases or infections, 3 scenarios, 2011]()
+
+.
+
+*
+
+(7) Newfoundland and Labrador [Hospital-related outcomes, all time]()
+
+.
+
+*
+
+(8) Newfoundland and Labrador [Hospital-related outcomes, 2021, without IHME Bed need and IMPE Hospital demand]()
+
+.
+
+*
+
+(9) Newfoundland and Labrador [Daily deaths estimated to reported, reference scenarios, 2021]()
+
+.
+
+*
+
+(10) Newfoundland and Labrador [Daily cases or infections estimated to reported, reference scenarios, 2021]()
+
+.
+
+
 ****
 ****
 
@@ -286,6 +461,61 @@ mmm
 (1) Northwest Territories [Daily deaths, reference scenarios, all time]()
 
 .
+
+*
+
+(2) Northwest Territories [Daily deaths, reference scenarios, 2011]()
+
+.
+
+*
+
+(3) Northwest Territories [Daily deaths, 3 scenarios, 2011]()
+
+.
+
+*
+
+(4) Northwest Territories [Daily cases or infections, reference scenarios, all time]()
+
+.
+
+*
+
+(5) Northwest Territories [Daily cases or infections, reference scenarios, 2021]()
+
+.
+
+*
+
+(6) Northwest Territories [Daily cases or infections, 3 scenarios, 2011]()
+
+.
+
+*
+
+(7) Northwest Territories [Hospital-related outcomes, all time]()
+
+.
+
+*
+
+(8) Northwest Territories [Hospital-related outcomes, 2021, without IHME Bed need and IMPE Hospital demand]()
+
+.
+
+*
+
+(9) Northwest Territories [Daily deaths estimated to reported, reference scenarios, 2021]()
+
+.
+
+*
+
+(10) Northwest Territories [Daily cases or infections estimated to reported, reference scenarios, 2021]()
+
+.
+
 
 ****
 ****
@@ -297,6 +527,61 @@ mmm
 
 .
 
+*
+
+(2) Nova Scotia [Daily deaths, reference scenarios, 2011]()
+
+.
+
+*
+
+(3) Nova Scotia [Daily deaths, 3 scenarios, 2011]()
+
+.
+
+*
+
+(4) Nova Scotia [Daily cases or infections, reference scenarios, all time]()
+
+.
+
+*
+
+(5) Nova Scotia [Daily cases or infections, reference scenarios, 2021]()
+
+.
+
+*
+
+(6) Nova Scotia [Daily cases or infections, 3 scenarios, 2011]()
+
+.
+
+*
+
+(7) Nova Scotia [Hospital-related outcomes, all time]()
+
+.
+
+*
+
+(8) Nova Scotia [Hospital-related outcomes, 2021, without IHME Bed need and IMPE Hospital demand]()
+
+.
+
+*
+
+(9) Nova Scotia [Daily deaths estimated to reported, reference scenarios, 2021]()
+
+.
+
+*
+
+(10) Nova Scotia [Daily cases or infections estimated to reported, reference scenarios, 2021]()
+
+.
+
+
 ****
 ****
 
@@ -306,6 +591,61 @@ mmm
 (1) Nunavut [Daily deaths, reference scenarios, all time]()
 
 .
+
+*
+
+(2) Nunavut [Daily deaths, reference scenarios, 2011]()
+
+.
+
+*
+
+(3) Nunavut [Daily deaths, 3 scenarios, 2011]()
+
+.
+
+*
+
+(4) Nunavut [Daily cases or infections, reference scenarios, all time]()
+
+.
+
+*
+
+(5) Nunavut [Daily cases or infections, reference scenarios, 2021]()
+
+.
+
+*
+
+(6) Nunavut [Daily cases or infections, 3 scenarios, 2011]()
+
+.
+
+*
+
+(7) Nunavut [Hospital-related outcomes, all time]()
+
+.
+
+*
+
+(8) Nunavut [Hospital-related outcomes, 2021, without IHME Bed need and IMPE Hospital demand]()
+
+.
+
+*
+
+(9) Nunavut [Daily deaths estimated to reported, reference scenarios, 2021]()
+
+.
+
+*
+
+(10) Nunavut [Daily cases or infections estimated to reported, reference scenarios, 2021]()
+
+.
+
 
 ****
 ****
@@ -381,6 +721,61 @@ mmm
 
 .
 
+*
+
+(2) Prince Edward Island [Daily deaths, reference scenarios, 2011]()
+
+.
+
+*
+
+(3) Prince Edward Island [Daily deaths, 3 scenarios, 2011]()
+
+.
+
+*
+
+(4) Prince Edward Island [Daily cases or infections, reference scenarios, all time]()
+
+.
+
+*
+
+(5) Prince Edward Island [Daily cases or infections, reference scenarios, 2021]()
+
+.
+
+*
+
+(6) Prince Edward Island [Daily cases or infections, 3 scenarios, 2011]()
+
+.
+
+*
+
+(7) Prince Edward Island [Hospital-related outcomes, all time]()
+
+.
+
+*
+
+(8) Prince Edward Island [Hospital-related outcomes, 2021, without IHME Bed need and IMPE Hospital demand]()
+
+.
+
+*
+
+(9) Prince Edward Island [Daily deaths estimated to reported, reference scenarios, 2021]()
+
+.
+
+*
+
+(10) Prince Edward Island [Daily cases or infections estimated to reported, reference scenarios, 2021]()
+
+.
+
+
 ****
 ****
 
@@ -455,6 +850,61 @@ mmm
 
 .
 
+*
+
+(2) Saskatchewan [Daily deaths, reference scenarios, 2011]()
+
+.
+
+*
+
+(3) Saskatchewan [Daily deaths, 3 scenarios, 2011]()
+
+.
+
+*
+
+(4) Saskatchewan [Daily cases or infections, reference scenarios, all time]()
+
+.
+
+*
+
+(5) Saskatchewan [Daily cases or infections, reference scenarios, 2021]()
+
+.
+
+*
+
+(6) Saskatchewan [Daily cases or infections, 3 scenarios, 2011]()
+
+.
+
+*
+
+(7) Saskatchewan [Hospital-related outcomes, all time]()
+
+.
+
+*
+
+(8) Saskatchewan [Hospital-related outcomes, 2021, without IHME Bed need and IMPE Hospital demand]()
+
+.
+
+*
+
+(9) Saskatchewan [Daily deaths estimated to reported, reference scenarios, 2021]()
+
+.
+
+*
+
+(10) Saskatchewan [Daily cases or infections estimated to reported, reference scenarios, 2021]()
+
+.
+
+
 ****
 ****
 
@@ -464,6 +914,61 @@ mmm
 (1) Yukon [Daily deaths, reference scenarios, all time]()
 
 .
+
+*
+
+(2) Yukon [Daily deaths, reference scenarios, 2011]()
+
+.
+
+*
+
+(3) Yukon [Daily deaths, 3 scenarios, 2011]()
+
+.
+
+*
+
+(4) Yukon [Daily cases or infections, reference scenarios, all time]()
+
+.
+
+*
+
+(5) Yukon [Daily cases or infections, reference scenarios, 2021]()
+
+.
+
+*
+
+(6) Yukon [Daily cases or infections, 3 scenarios, 2011]()
+
+.
+
+*
+
+(7) Yukon [Hospital-related outcomes, all time]()
+
+.
+
+*
+
+(8) Yukon [Hospital-related outcomes, 2021, without IHME Bed need and IMPE Hospital demand]()
+
+.
+
+*
+
+(9) Yukon [Daily deaths estimated to reported, reference scenarios, 2021]()
+
+.
+
+*
+
+(10) Yukon [Daily cases or infections estimated to reported, reference scenarios, 2021]()
+
+.
+
 
 ****
 ****
