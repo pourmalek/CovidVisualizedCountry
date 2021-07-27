@@ -312,82 +312,17 @@ DELP 20210726, **_IHME 20210723 version 2_**, IMPE 20210709, LANL 20210718, SRIV
 ****
 
 
-### Selected graphs - Northwest Territories
-
-(1) Northwest Territories [Daily deaths, reference scenarios, all time]()
-
-.
-
-*
-
-(2) Northwest Territories [Daily deaths, reference scenarios, 2011]()
-
-.
-
-*
-
-(3) Northwest Territories [Daily deaths, 3 scenarios, 2011]()
-
-.
-
-*
-
-(4) Northwest Territories [Daily cases or infections, reference scenarios, all time]()
-
-.
-
-*
-
-(5) Northwest Territories [Daily cases or infections, reference scenarios, 2021]()
-
-.
-
-*
-
-(6) Northwest Territories [Daily cases or infections, 3 scenarios, 2011]()
-
-.
-
-*
-
-(7) Northwest Territories [Hospital-related outcomes, all time]()
-
-.
-
-*
-
-(8) Northwest Territories [Hospital-related outcomes, 2021, without IHME Bed need and IMPE Hospital demand]()
-
-.
-
-*
-
-(9) Northwest Territories [Daily deaths estimated to reported, reference scenarios, 2021]()
-
-.
-
-*
-
-(10) Northwest Territories [Daily cases or infections estimated to reported, reference scenarios, 2021]()
-
-.
-
-
-****
-****
-
-
 ### Selected graphs - Nova Scotia
 
-(1) Nova Scotia [Daily deaths, reference scenarios, all time]()
+(1) Nova Scotia [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210726/output/merge/main/SUB1%2011bDayDeaMERGsub%20alltime%20Nova%20Scotia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Nova%20Scotia%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
-.
+![image](https://user-images.githubusercontent.com/30849720/127105908-fb2cdccb-6720-4a75-9c4f-936616c9abd0.png)
 
 *
 
-(2) Nova Scotia [Daily deaths, reference scenarios, 2011]()
+(2) Nova Scotia [Daily deaths, reference scenarios, 2011](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210726/output/merge/main/SUB2%2012bDayDeaMERGsub%202021%20Nova%20Scotia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Nova%20Scotia%2C%20reference%20scenarios%2C%202021.pdf)
 
-.
+![image](https://user-images.githubusercontent.com/30849720/127106163-87b7012d-f304-4f58-bf69-dbbc801c7a6e.png)
 
 *
 
