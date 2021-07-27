@@ -135,9 +135,64 @@ mmm
 
 ### Selected graphs - Alberta
 
-(1) Alberta [Daily deaths, reference scenarios, all time]()
+(1) Alberta [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210726/output/merge/main/SUB1%2011bDayDeaMERGsub%20alltime%20Alberta%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios%2C%20all%20time.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/127097540-b78e11da-01c9-459c-9890-b3f8c9e234ba.png)
+
+*
+
+(2) Alberta
 
 .
+
+*
+
+(3) Alberta
+
+.
+
+*
+
+(4) Alberta
+
+.
+
+*
+
+(5) Alberta
+
+.
+
+*
+
+(6) Alberta
+
+.
+
+*
+
+(7) Alberta
+
+.
+
+*
+
+(8) Alberta
+
+.
+
+*
+
+(9) Alberta
+
+.
+
+*
+
+(10) Alberta
+
+.
+
 
 ****
 ****
