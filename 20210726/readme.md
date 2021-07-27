@@ -362,15 +362,15 @@ DELP 20210726, **_IHME 20210723 version 2_**, IMPE 20210709, LANL 20210718, SRIV
 
 *
 
-(9) Nova Scotia [Daily deaths estimated to reported, reference scenarios, 2021]()
+(9) Nova Scotia [Daily deaths estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210726/output/merge/main/SUB9%2092bDayDERMERGsub%202021%20Nova%20Scotia%20-%20COVID-19%20daily%20deaths%20estimated%20to%20reported%2C%20Canada%2C%20Nova%20Scotia%2C%20reference%20scenarios%2C%202021.pdf)
 
 ![image](https://user-images.githubusercontent.com/30849720/127110089-827727f5-ac35-4e28-be80-706bd9c2816e.png)
 
 *
 
-(10) Nova Scotia [Daily cases or infections estimated to reported, reference scenarios, 2021]()
+(10) Nova Scotia [Daily cases or infections estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210726/output/merge/main/SUB10%2094bDayCERMERGsub%202021%20Nova%20Scotia%20-%20COVID-19%20daily%20cases%20estimated%20to%20reported%2C%20Canada%2C%20Nova%20Scotia%2C%20reference%20scenarios%2C%202021.pdf)
 
-.
+![image](https://user-images.githubusercontent.com/30849720/127196539-aeca3d90-93d2-48e2-821e-4bafc715dc74.png)
 
 
 ****
@@ -437,73 +437,10 @@ DELP 20210726, **_IHME 20210723 version 2_**, IMPE 20210709, LANL 20210718, SRIV
 
 ![image](https://user-images.githubusercontent.com/30849720/127089496-1f00f44c-1c9c-4d74-b421-4d190de974bd.png)
 
-****
-****
-
-
-### Selected graphs - Prince Edward Island
-
-(1) Prince Edward Island [Daily deaths, reference scenarios, all time]()
-
-.
-
-*
-
-(2) Prince Edward Island [Daily deaths, reference scenarios, 2021]()
-
-.
-
-*
-
-(3) Prince Edward Island [Daily deaths, 3 scenarios, 2021]()
-
-.
-
-*
-
-(4) Prince Edward Island [Daily cases or infections, reference scenarios, all time]()
-
-.
-
-*
-
-(5) Prince Edward Island [Daily cases or infections, reference scenarios, 2021]()
-
-.
-
-*
-
-(6) Prince Edward Island [Daily cases or infections, 3 scenarios, 2021]()
-
-.
-
-*
-
-(7) Prince Edward Island [Hospital-related outcomes, all time]()
-
-.
-
-*
-
-(8) Prince Edward Island [Hospital-related outcomes, 2021, without IHME Bed need and IMPE Hospital demand]()
-
-.
-
-*
-
-(9) Prince Edward Island [Daily deaths estimated to reported, reference scenarios, 2021]()
-
-.
-
-*
-
-(10) Prince Edward Island [Daily cases or infections estimated to reported, reference scenarios, 2021]()
-
-.
-
 
 ****
 ****
+
 
 ### Selected graphs - Quebec
 
