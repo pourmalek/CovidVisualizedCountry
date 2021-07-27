@@ -187,9 +187,9 @@ DELP 20210726, **_IHME 20210723 version 2_**, IMPE 20210709, LANL 20210718, SRIV
 
 *
 
-(10) Alberta [Daily cases or infections estimated to reported, reference scenarios, 2021]()
+(10) Alberta [Daily cases or infections estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210726/output/merge/main/SUB10%2094bDayCERMERGsub%202021%20Alberta%20-%20COVID-19%20daily%20cases%20estimated%20to%20reported%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios%2C%202021.pdf)
 
-.
+![image](https://user-images.githubusercontent.com/30849720/127103759-51e88788-b597-4353-9f32-39fa8922b853.png)
 
 
 ****
