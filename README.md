@@ -19,7 +19,7 @@
   
 #### for Canada: [National level](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/README.md#graph-1-canada---daily-deaths-reference-scenarios-all-time), [British Columbia](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/README.md#graph-1-british-columbia---daily-deaths-reference-scenarios-all-time), [Ontario](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/README.md#graph-1-ontario---daily-deaths-reference-scenarios-all-time), [Quebec,](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/README.md#graph-1-quebec---daily-deaths-reference-scenarios-all-time) and [other provinces and territories](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20210625/output/merge/main)
   
-#### or [other countries via code adjustment]()  
+#### or [other countries via code adjustment](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/ADAPTATIONS_EXAMPLES)  
 
 
 
