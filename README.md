@@ -141,7 +141,7 @@ The codes in these repositories can be adapted for use for any country or region
 
 ****
 
-(6) Canada [Daily cases or infections, 3 scenarios, 2011](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210726/output/merge/main/CAN6%2034aDayCasMERGnat%202021%203scen%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20National%2C%203%20scenarios%2C%202021%2C%20uncertainty.pdf)
+(6) Canada [Daily cases or infections, 3 scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210726/output/merge/main/CAN6%2034aDayCasMERGnat%202021%203scen%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20National%2C%203%20scenarios%2C%202021%2C%20uncertainty.pdf)
 
 ![image](https://user-images.githubusercontent.com/30849720/127082041-d1294d4f-cc2d-4c51-b28c-87fd44c28b94.png)
 
