@@ -119,7 +119,7 @@ The codes in these repositories can be adapted for use for any country or region
 
 ****
 
-### Selected graphs - Canada
+### Selected graphs from latest uptake - Canada
 
 (1) Canada [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210726/output/merge/main/CAN1%2011aDayDeaMERGnat%20alltime%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
@@ -194,7 +194,7 @@ The codes in these repositories can be adapted for use for any country or region
 ****
 ****
 
-### Selected graphs - British Columbia
+### Selected graphs from latest uptake - British Columbia
 
 (1) British Columbia [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210726/output/merge/main/SUB1%2011bDayDeaMERGsub%20alltime%20British%20Columbia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
@@ -257,7 +257,7 @@ The codes in these repositories can be adapted for use for any country or region
 ****
 ****
 
-### Selected graphs - Ontario
+### Selected graphs from latest uptake - Ontario
 
 (1) Ontario [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210726/output/merge/main/SUB1%2011bDayDeaMERGsub%20alltime%20Ontario%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
@@ -320,7 +320,7 @@ The codes in these repositories can be adapted for use for any country or region
 ****
 ****
 
-### Selected graphs - Quebec
+### Selected graphs from latest uptake - Quebec
 
 (1) Quebec [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210726/output/merge/main/SUB1%2011bDayDeaMERGsub%20alltime%20Quebec%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
