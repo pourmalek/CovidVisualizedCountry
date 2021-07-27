@@ -169,21 +169,21 @@ DELP 20210726, **_IHME 20210723 version 2_**, IMPE 20210709, LANL 20210718, SRIV
 
 *
 
-(7) Alberta [Hospital-related outcomes, all time]()
+(7) Alberta [Hospital-related outcomes, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210726/output/merge/main/SUB7%2071bDayHosMERGsub%20alltime%20Alberta%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20Alberta.pdf)
 
-.
-
-*
-
-(8) Alberta [Hospital-related outcomes, 2021, without IHME Bed need and IMPE Hospital demand]()
-
-.
+![image](https://user-images.githubusercontent.com/30849720/127103241-f27adaeb-8d2a-4e43-8077-a8ac6484564a.png)
 
 *
 
-(9) Alberta [Daily deaths estimated to reported, reference scenarios, 2021]()
+(8) Alberta [Hospital-related outcomes, 2021, without IHME Bed need and IMPE Hospital demand](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210726/output/merge/main/SUB8%2073bDayHosMERGsub%202021%20woextremes%20Alberta%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20Alberta%2C%20wo%20extremes%2C%202021.pdf)
 
-.
+![image](https://user-images.githubusercontent.com/30849720/127103347-6b35f2ca-9d81-429d-a52a-0da74e8a7b75.png)
+
+*
+
+(9) Alberta [Daily deaths estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210726/output/merge/main/SUB9%2092bDayDERMERGsub%202021%20Alberta%20-%20COVID-19%20daily%20deaths%20estimated%20to%20reported%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios%2C%202021.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/127103465-d7dd588b-9b23-4af6-ac5c-f99a3071c62b.png)
 
 *
 
