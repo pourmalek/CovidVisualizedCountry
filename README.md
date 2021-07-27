@@ -942,7 +942,7 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
 <br/><br/>
 
-### Selected graphs - [Canada]https://github.com/pourmalek/CovidVisualizedCountry#selected-graphs---canada-2)
+### Selected graphs - [Canada](https://github.com/pourmalek/CovidVisualizedCountry#selected-graphs---canada-2)
   
 ### Selected graphs - [Alberta](https://github.com/pourmalek/CovidVisualizedCountry#selected-graphs---alberta-2)
     
