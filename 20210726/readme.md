@@ -344,96 +344,31 @@ DELP 20210726, **_IHME 20210723 version 2_**, IMPE 20210709, LANL 20210718, SRIV
 
 *
 
-(6) Nova Scotia [Daily cases or infections, 3 scenarios, 2021]()
+(6) Nova Scotia [Daily cases or infections, 3 scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210726/output/merge/main/SUB6%2034bDayCasMERGsub%202021%203scen%20Nova%20Scotia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Nova%20Scotia%2C%203%20scenarios%2C%202021%2C%20uncertainty.pdf)
 
-.
-
-*
-
-(7) Nova Scotia [Hospital-related outcomes, all time]()
-
-.
+![image](https://user-images.githubusercontent.com/30849720/127109750-3caba07a-c5ae-46dd-86d4-9b55275ad7d0.png)
 
 *
 
-(8) Nova Scotia [Hospital-related outcomes, 2021, without IHME Bed need and IMPE Hospital demand]()
+(7) Nova Scotia [Hospital-related outcomes, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210726/output/merge/main/SUB7%2071bDayHosMERGsub%20alltime%20Nova%20Scotia%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20Nova%20Scotia.pdf)
 
-.
+![image](https://user-images.githubusercontent.com/30849720/127109868-7b6f0bfc-7bb6-4f3a-9d0a-d95774faed66.png)
+
+*
+
+(8) Nova Scotia [Hospital-related outcomes, 2021, without IHME Bed need and IMPE Hospital demand]https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210726/output/merge/main/SUB8%2073bDayHosMERGsub%202021%20woextremes%20Nova%20Scotia%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20Nova%20Scotia%2C%20wo%20extremes%2C%202021.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/127110238-f6a9a53c-40c9-4ab3-837e-4a12b7df0e42.png)
 
 *
 
 (9) Nova Scotia [Daily deaths estimated to reported, reference scenarios, 2021]()
 
-.
+![image](https://user-images.githubusercontent.com/30849720/127110089-827727f5-ac35-4e28-be80-706bd9c2816e.png)
 
 *
 
 (10) Nova Scotia [Daily cases or infections estimated to reported, reference scenarios, 2021]()
-
-.
-
-
-****
-****
-
-
-### Selected graphs - Nunavut
-
-(1) Nunavut [Daily deaths, reference scenarios, all time]()
-
-.
-
-*
-
-(2) Nunavut [Daily deaths, reference scenarios, 2021]()
-
-.
-
-*
-
-(3) Nunavut [Daily deaths, 3 scenarios, 2021]()
-
-.
-
-*
-
-(4) Nunavut [Daily cases or infections, reference scenarios, all time]()
-
-.
-
-*
-
-(5) Nunavut [Daily cases or infections, reference scenarios, 2021]()
-
-.
-
-*
-
-(6) Nunavut [Daily cases or infections, 3 scenarios, 2021]()
-
-.
-
-*
-
-(7) Nunavut [Hospital-related outcomes, all time]()
-
-.
-
-*
-
-(8) Nunavut [Hospital-related outcomes, 2021, without IHME Bed need and IMPE Hospital demand]()
-
-.
-
-*
-
-(9) Nunavut [Daily deaths estimated to reported, reference scenarios, 2021]()
-
-.
-
-*
-
-(10) Nunavut [Daily cases or infections estimated to reported, reference scenarios, 2021]()
 
 .
 
