@@ -4330,6 +4330,254 @@ This graph was added here starting with uptake 20210726.
   
     
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+****
+****
+****
+  
+
+
+
+### Selected graphs - Nova Scotia
+  
+**** 
+****  
+****
+  
+  
+#### graph (1) Nova Scotia - Daily deaths, reference scenarios, all time
+  
+****
+****
+  
+  
+  
+*  
+  
+**uptake 20210726**: DELP 20210726, **_IHME 20210723 version 2_**, IMPE 20210709, LANL 20210718, SRIV 20210726  
+  
+(1) Nova Scotia [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210726/output/merge/main/SUB1%2011bDayDeaMERGsub%20alltime%20Nova%20Scotia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Nova%20Scotia%2C%20reference%20scenarios%2C%20all%20time.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/127105908-fb2cdccb-6720-4a75-9c4f-936616c9abd0.png)
+  
+*   
+  
+
+
+
+
+****
+****
+
+#### graph (2) Nova Scotia - Daily deaths, reference scenarios, 2021
+  
+  
+  
+*  
+  
+**uptake 20210726**: DELP 20210726, **_IHME 20210723 version 2_**, IMPE 20210709, LANL 20210718, SRIV 20210726  
+
+(2) Nova Scotia [Daily deaths, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210726/output/merge/main/SUB2%2012bDayDeaMERGsub%202021%20Nova%20Scotia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Nova%20Scotia%2C%20reference%20scenarios%2C%202021.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/127106163-87b7012d-f304-4f58-bf69-dbbc801c7a6e.png)
+  
+*  
+ 
+ 
+ 
+  
+
+****
+****
+  
+#### graph (3) Nova Scotia - Daily deaths, 3 scenarios, 2021 
+  
+  
+  
+*  
+  
+**uptake 20210726**: DELP 20210726, **_IHME 20210723 version 2_**, IMPE 20210709, LANL 20210718, SRIV 20210726  
+  
+(3) Nova Scotia [Daily deaths, 3 scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210726/output/merge/main/SUB3%2014bDayDeaMERGsub%202021%203%20scenarios%20Nova%20Scotia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Nova%20Scotia%2C%203%20scenarios%2C%202021.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/127106294-c3f76aea-6b0d-44e8-84b6-5faface15c08.png)
+  
+*   
+
+
+
+
+****
+****
+  
+#### graph (4) Nova Scotia - Daily cases or infections, reference scenarios, all time
+  
+  
+  
+*  
+  
+**uptake 20210726**: DELP 20210726, **_IHME 20210723 version 2_**, IMPE 20210709, LANL 20210718, SRIV 20210726  
+  
+(4) Nova Scotia [Daily cases or infections, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210726/output/merge/main/SUB4%2031bDayCasMERGsub%20alltime%20Nova%20Scotia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Nova%20Scotia%2C%20reference%20scenarios.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/127106384-3e50f71c-5482-42cb-977a-36996860838f.png)
+  
+*   
+  
+  
+  
+  
+****
+****
+  
+#### graph (5) Nova Scotia - Daily cases or infections, reference scenarios, 2021 
+  
+
+  
+*  
+  
+**uptake 20210726**: DELP 20210726, **_IHME 20210723 version 2_**, IMPE 20210709, LANL 20210718, SRIV 20210726  
+  
+(5) Nova Scotia [Daily cases or infections, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210726/output/merge/main/SUB5%2032bDayCasMERGsub%202021%20Nova%20Scotia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Nova%20Scotia%2C%20reference%20scenarios%2C%202021.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/127106482-42c27fac-823a-4f60-bfd0-bc0b6837545f.png)
+  
+*   
+  
+ 
+  
+  
+
+
+
+****
+****
+  
+#### graph (6) Nova Scotia - Daily cases or infections, 3 scenarios, 2021
+  
+  
+  
+*  
+  
+**uptake 20210726**: DELP 20210726, **_IHME 20210723 version 2_**, IMPE 20210709, LANL 20210718, SRIV 20210726  
+  
+
+(6) Nova Scotia [Daily cases or infections, 3 scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210726/output/merge/main/SUB6%2034bDayCasMERGsub%202021%203scen%20Nova%20Scotia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Nova%20Scotia%2C%203%20scenarios%2C%202021%2C%20uncertainty.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/127109750-3caba07a-c5ae-46dd-86d4-9b55275ad7d0.png)
+  
+*  
+  
+  
+  
+
+  
+  
+  
+
+
+****
+****
+  
+#### graph (7) Nova Scotia - Hospital-related outcomes, all time 
+  
+  
+  
+*  
+  
+**uptake 20210726**: DELP 20210726, **_IHME 20210723 version 2_**, IMPE 20210709, LANL 20210718, SRIV 20210726  
+  
+(7) Nova Scotia [Hospital-related outcomes, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210726/output/merge/main/SUB7%2071bDayHosMERGsub%20alltime%20Nova%20Scotia%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20Nova%20Scotia.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/127109868-7b6f0bfc-7bb6-4f3a-9d0a-d95774faed66.png)
+  
+* 
+  
+  
+  
+ 
+  
+  
+
+ 
+
+****
+****
+  
+#### graph (8) Nova Scotia - Hospital-related outcomes, 2021, without IHME Bed need and IMPE Hospital demand
+  
+  
+  
+*  
+  
+**uptake 20210726**: DELP 20210726, **_IHME 20210723 version 2_**, IMPE 20210709, LANL 20210718, SRIV 20210726  
+  
+(8) Nova Scotia [Hospital-related outcomes, 2021, without IHME Bed need and IMPE Hospital demand](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210726/output/merge/main/SUB8%2073bDayHosMERGsub%202021%20woextremes%20Nova%20Scotia%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20Nova%20Scotia%2C%20wo%20extremes%2C%202021.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/127110238-f6a9a53c-40c9-4ab3-837e-4a12b7df0e42.png)
+  
+*   
+  
+  
+  
+  
+  
+
+   
+
+****
+****
+  
+#### graph (9) Nova Scotia - Daily deaths estimated to reported, reference scenarios, 2021
+  
+  
+  
+*  
+  
+**uptake 20210726**: DELP 20210726, **_IHME 20210723 version 2_**, IMPE 20210709, LANL 20210718, SRIV 20210726  
+
+(9) Nova Scotia [Daily deaths estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210726/output/merge/main/SUB9%2092bDayDERMERGsub%202021%20Nova%20Scotia%20-%20COVID-19%20daily%20deaths%20estimated%20to%20reported%2C%20Canada%2C%20Nova%20Scotia%2C%20reference%20scenarios%2C%202021.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/127110089-827727f5-ac35-4e28-be80-706bd9c2816e.png)
+  
+*   
+  
+  
+ 
+  
+  
+  
+
+   
+
+****
+****
+  
+#### graph (10) Nova Scotia - Daily cases or infections estimated to reported cases, reference scenarios, 2021
+  
+  
+  
+*  
+  
+**uptake 20210726**: DELP 20210726, **_IHME 20210723 version 2_**, IMPE 20210709, LANL 20210718, SRIV 20210726  
+  
+(10) Nova Scotia [Daily cases or infections estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210726/output/merge/main/SUB10%2094bDayCERMERGsub%202021%20Nova%20Scotia%20-%20COVID-19%20daily%20cases%20estimated%20to%20reported%2C%20Canada%2C%20Nova%20Scotia%2C%20reference%20scenarios%2C%202021.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/127196539-aeca3d90-93d2-48e2-821e-4bafc715dc74.png)
+  
+*   
+  
+  
+  
+    
 
   
   
