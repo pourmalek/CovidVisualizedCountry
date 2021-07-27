@@ -141,55 +141,55 @@ mmm
 
 *
 
-(2) Alberta
+(2) Alberta [Daily deaths, reference scenarios, 2011]
 
 .
 
 *
 
-(3) Alberta
+(3) Alberta [Daily deaths, 3 scenarios, 2011]
 
 .
 
 *
 
-(4) Alberta
+(4) Alberta [Daily cases or infections, reference scenarios, all time]
 
 .
 
 *
 
-(5) Alberta
+(5) Alberta [Daily cases or infections, reference scenarios, 2021]
 
 .
 
 *
 
-(6) Alberta
+(6) Alberta [Daily cases or infections, 3 scenarios, 2011]
 
 .
 
 *
 
-(7) Alberta
+(7) Alberta [Hospital-related outcomes, all time]
 
 .
 
 *
 
-(8) Alberta
+(8) Alberta [Hospital-related outcomes, 2021, without IHME Bed need and IMPE Hospital demand]
 
 .
 
 *
 
-(9) Alberta
+(9) Alberta [Daily deaths estimated to reported, reference scenarios, 2021]
 
 .
 
 *
 
-(10) Alberta
+(10) Alberta [Daily cases or infections estimated to reported, reference scenarios, 2021]
 
 .
 
