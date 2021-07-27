@@ -100,9 +100,9 @@ The codes in these repositories can be adapted for use for any country or region
   
 ### Selected graphs from latest uptake - [Canada](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/README.md#selected-graphs---canada)
 
-### Selected graphs from latest uptake - [Alberta](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210726/readme.md#selected-graphs---alberta-1)
+### Selected graphs from latest uptake - [Alberta](https://github.com/pourmalek/CovidVisualizedCountry#selected-graphs---alberta)
 
-### Selected graphs from latest uptake - [British Columbia](British Columbia](https://github.com/pourmalek/CovidVisualizedCountry#selected-graphs---british-columbia)
+### Selected graphs from latest uptake - [British Columbia](https://github.com/pourmalek/CovidVisualizedCountry#selected-graphs---british-columbia)
 
 ### Selected graphs from latest uptake - [Manitoba](https://github.com/pourmalek/CovidVisualizedCountry#selected-graphs---manitoba)
 
@@ -110,7 +110,7 @@ The codes in these repositories can be adapted for use for any country or region
 
 ### Selected graphs from latest uptake - [Ontario](https://github.com/pourmalek/CovidVisualizedCountry#selected-graphs---ontario) 
 
-### Selected graphs from latest uptake - [Quebec]((https://github.com/pourmalek/CovidVisualizedCountry#selected-graphs---quebec)
+### Selected graphs from latest uptake - [Quebec](https://github.com/pourmalek/CovidVisualizedCountry#selected-graphs---quebec)
 
 ### Selected graphs from latest uptake - [Saskatchewan](https://github.com/pourmalek/CovidVisualizedCountry#selected-graphs---Saskatchewan)  
   
