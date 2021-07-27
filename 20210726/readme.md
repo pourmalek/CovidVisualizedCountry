@@ -509,63 +509,63 @@ DELP 20210726, **_IHME 20210723 version 2_**, IMPE 20210709, LANL 20210718, SRIV
 
 ### Selected graphs - Saskatchewan
 
-(1) Saskatchewan [Daily deaths, reference scenarios, all time]()
+(1) Saskatchewan [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210726/output/merge/main/SUB1%2011bDayDeaMERGsub%20alltime%20Saskatchewan%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Saskatchewan%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
-.
-
-*
-
-(2) Saskatchewan [Daily deaths, reference scenarios, 2021]()
-
-.
+![image](https://user-images.githubusercontent.com/30849720/127200400-e0d432a7-546f-42b3-be4b-8ac1996a2733.png)
 
 *
 
-(3) Saskatchewan [Daily deaths, 3 scenarios, 2021]()
+(2) Saskatchewan [Daily deaths, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210726/output/merge/main/SUB2%2012bDayDeaMERGsub%202021%20Saskatchewan%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Saskatchewan%2C%20reference%20scenarios%2C%202021.pdf)
 
-.
-
-*
-
-(4) Saskatchewan [Daily cases or infections, reference scenarios, all time]()
-
-.
+![image](https://user-images.githubusercontent.com/30849720/127200584-8469d6c8-e9e5-4df1-a65a-f727bcf05ba3.png)
 
 *
 
-(5) Saskatchewan [Daily cases or infections, reference scenarios, 2021]()
+(3) Saskatchewan [Daily deaths, 3 scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210726/output/merge/main/SUB3%2014bDayDeaMERGsub%202021%203%20scenarios%20Saskatchewan%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Saskatchewan%2C%203%20scenarios%2C%202021.pdf)
 
-.
-
-*
-
-(6) Saskatchewan [Daily cases or infections, 3 scenarios, 2021]()
-
-.
+![image](https://user-images.githubusercontent.com/30849720/127200796-a8f42aa6-1450-4144-a92f-771e0c8ca337.png)
 
 *
 
-(7) Saskatchewan [Hospital-related outcomes, all time]()
+(4) Saskatchewan [Daily cases or infections, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210726/output/merge/main/SUB4%2031bDayCasMERGsub%20alltime%20Saskatchewan%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Saskatchewan%2C%20reference%20scenarios.pdf)
 
-.
-
-*
-
-(8) Saskatchewan [Hospital-related outcomes, 2021, without IHME Bed need and IMPE Hospital demand]()
-
-.
+![image](https://user-images.githubusercontent.com/30849720/127200993-30d6473f-949d-4e27-b02f-630ffbf732d8.png)
 
 *
 
-(9) Saskatchewan [Daily deaths estimated to reported, reference scenarios, 2021]()
+(5) Saskatchewan [Daily cases or infections, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210726/output/merge/main/SUB5%2032bDayCasMERGsub%202021%20Saskatchewan%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Saskatchewan%2C%20reference%20scenarios%2C%202021.pdf)
 
-.
+![image](https://user-images.githubusercontent.com/30849720/127201131-83c031ef-6ee0-42df-a9b8-ad6da48a84df.png)
 
 *
 
-(10) Saskatchewan [Daily cases or infections estimated to reported, reference scenarios, 2021]()
+(6) Saskatchewan [Daily cases or infections, 3 scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210726/output/merge/main/SUB6%2034bDayCasMERGsub%202021%203scen%20Saskatchewan%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Saskatchewan%2C%203%20scenarios%2C%202021%2C%20uncertainty.pdf)
 
-.
+![image](https://user-images.githubusercontent.com/30849720/127201709-5ae03229-7925-4bfd-9bc1-5d6a3afeb555.png)
+
+*
+
+(7) Saskatchewan [Hospital-related outcomes, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210726/output/merge/main/SUB7%2071bDayHosMERGsub%20alltime%20Saskatchewan%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20Saskatchewan.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/127201871-d7345ac0-9acd-41c8-8cf3-6e1eeb6c4241.png)
+
+*
+
+(8) Saskatchewan [Hospital-related outcomes, 2021, without IHME Bed need and IMPE Hospital demand](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210726/output/merge/main/SUB8%2073bDayHosMERGsub%202021%20woextremes%20Saskatchewan%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20Saskatchewan%2C%20wo%20extremes%2C%202021.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/127202004-231adb37-4b75-4edc-8af7-c292badd5ef9.png)
+
+*
+
+(9) Saskatchewan [Daily deaths estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210726/output/merge/main/SUB9%2092bDayDERMERGsub%202021%20Saskatchewan%20-%20COVID-19%20daily%20deaths%20estimated%20to%20reported%2C%20Canada%2C%20Saskatchewan%2C%20reference%20scenarios%2C%202021.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/127202119-bea3ac7a-9a1d-4265-b2d1-b282dcc1a3ad.png)
+
+*
+
+(10) Saskatchewan [Daily cases or infections estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210726/output/merge/main/SUB10%2094bDayCERMERGsub%202021%20Saskatchewan%20-%20COVID-19%20daily%20cases%20estimated%20to%20reported%2C%20Canada%2C%20Saskatchewan%2C%20reference%20scenarios%2C%202021.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/127205029-666e8ccd-4cf5-4849-920c-c6caa19f09cc.png)
 
 ****
 ****
