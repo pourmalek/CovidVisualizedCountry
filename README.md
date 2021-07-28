@@ -4401,7 +4401,9 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
   
 **uptake 20210727**: DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727  
   
+(1) Manitoba [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210727/output/merge/main/SUB1%2011bDayDeaMERGsub%20alltime%20Manitoba%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/127245414-deee0792-d111-4a3b-a0d1-c5ba1463b3f9.png)
   
 *  
   
@@ -4428,7 +4430,9 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
   
 **uptake 20210727**: DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727  
   
+(2) Manitoba [Daily deaths, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210727/output/merge/main/SUB2%2012bDayDeaMERGsub%202021%20Manitoba%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/127245457-331ddb8c-25a3-4d9a-8542-f0280b949020.png)
   
 *   
   
@@ -4455,7 +4459,9 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
   
 **uptake 20210727**: DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727  
   
+(3) Manitoba [Daily deaths, 3 scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210727/output/merge/main/SUB3%2014bDayDeaMERGsub%202021%203%20scenarios%20Manitoba%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Manitoba%2C%203%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/127245529-f807056a-5b95-44de-980c-7dd4abe4e4db.png)
   
 *    
   
@@ -4481,7 +4487,9 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
   
 **uptake 20210727**: DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727  
   
+(4) Manitoba [Daily cases or infections, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210727/output/merge/main/SUB4%2031bDayCasMERGsub%20alltime%20Manitoba%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/127245557-5f0893f1-d863-4ecc-b0c9-8c999f137626.png)
   
 *    
   
@@ -4507,7 +4515,9 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
   
 **uptake 20210727**: DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727  
   
+(5) Manitoba [Daily cases or infections, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210727/output/merge/main/SUB5%2032bDayCasMERGsub%202021%20Manitoba%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/127245599-a9f32716-86d7-4d3d-8a16-2a7ab04085cf.png)
   
 *    
   
@@ -4536,7 +4546,9 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
   
 **uptake 20210727**: DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727  
   
+(6) Manitoba [Daily cases or infections, 3 scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210727/output/merge/main/SUB6%2034bDayCasMERGsub%202021%203scen%20Manitoba%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Manitoba%2C%203%20scenarios%2C%202021%2C%20uncertainty.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/127245649-791cdcbf-16a6-425a-880c-0eb32c9c9af6.png)
   
 *    
   
@@ -4568,7 +4580,9 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
   
 **uptake 20210727**: DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727  
   
+(7) Manitoba [Hospital-related outcomes, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210727/output/merge/main/SUB7%2071bDayHosMERGsub%20alltime%20Manitoba%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20Manitoba.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/127245701-f1cd6657-7a89-4661-88b4-3f1ef21896e7.png)
   
 *    
   
@@ -4599,7 +4613,9 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
   
 **uptake 20210727**: DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727  
   
+(7) Manitoba [Hospital-related outcomes, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210727/output/merge/main/SUB7%2071bDayHosMERGsub%20alltime%20Manitoba%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20Manitoba.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/127245701-f1cd6657-7a89-4661-88b4-3f1ef21896e7.png)
   
 *   
   
@@ -4629,7 +4645,9 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
   
 **uptake 20210727**: DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727  
   
+(9) Manitoba [Daily deaths estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210727/output/merge/main/SUB9%2092bDayDERMERGsub%202021%20Manitoba%20-%20COVID-19%20daily%20deaths%20estimated%20to%20reported%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/127245798-478c7b1f-6db7-4ac6-8c72-6086f79df97e.png)
   
 *   
   
@@ -4660,7 +4678,9 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
   
 **uptake 20210727**: DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727  
   
+(10) Manitoba [Daily cases or infections estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210727/output/merge/main/SUB10%2094bDayCERMERGsub%202021%20Manitoba%20-%20COVID-19%20daily%20cases%20estimated%20to%20reported%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/127245841-3bb2ff53-cc18-443f-bc20-7927840edd1b.png)
   
 *    
   
@@ -4704,13 +4724,16 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
 ****
 ****
   
+Graphs for Nova Scotia were added here starting from uptake 20210726 onwards. 
   
   
 *  
   
 **uptake 20210727**: DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727  
   
+(1) Nova Scotia [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210727/output/merge/main/SUB1%2011bDayDeaMERGsub%20alltime%20Nova%20Scotia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Nova%20Scotia%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/127245942-71c04d02-b3be-4e2c-99d6-550301fa5ffb.png)
   
 *    
   
@@ -4737,7 +4760,9 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
   
 **uptake 20210727**: DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727  
   
+(2) Nova Scotia [Daily deaths, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210727/output/merge/main/SUB2%2012bDayDeaMERGsub%202021%20Nova%20Scotia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Nova%20Scotia%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/127246011-c5f36849-deb4-4b74-a2c3-953695064465.png)
   
 *   
   
@@ -4764,7 +4789,9 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
   
 **uptake 20210727**: DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727  
   
+(3) Nova Scotia [Daily deaths, 3 scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210727/output/merge/main/SUB3%2014bDayDeaMERGsub%202021%203%20scenarios%20Nova%20Scotia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Nova%20Scotia%2C%203%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/127246063-c64435da-87f0-4326-b4fe-40d275b3af67.png)
   
 *    
   
@@ -4790,7 +4817,9 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
   
 **uptake 20210727**: DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727  
   
+(4) Nova Scotia [Daily cases or infections, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210727/output/merge/main/SUB4%2031bDayCasMERGsub%20alltime%20Nova%20Scotia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Nova%20Scotia%2C%20reference%20scenarios.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/127246116-c7abe070-413e-44e5-b7a5-1473d8521a10.png)
   
 *    
   
@@ -4816,7 +4845,9 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
   
 **uptake 20210727**: DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727  
   
+(5) Nova Scotia [Daily cases or infections, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210727/output/merge/main/SUB5%2032bDayCasMERGsub%202021%20Nova%20Scotia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Nova%20Scotia%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/127246168-fee53241-ebe7-45ef-8bf6-5e232fd195e7.png)
   
 *    
   
@@ -4845,7 +4876,9 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
   
 **uptake 20210727**: DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727  
   
+(6) Nova Scotia [Daily cases or infections, 3 scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210727/output/merge/main/SUB6%2034bDayCasMERGsub%202021%203scen%20Nova%20Scotia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Nova%20Scotia%2C%203%20scenarios%2C%202021%2C%20uncertainty.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/127246238-7eac358c-3259-48f5-8cc4-3e321c217413.png)
   
 *    
   
@@ -4877,7 +4910,9 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
   
 **uptake 20210727**: DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727  
   
+(7) Nova Scotia [Hospital-related outcomes, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210727/output/merge/main/SUB7%2071bDayHosMERGsub%20alltime%20Nova%20Scotia%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20Nova%20Scotia.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/127246287-60e05eb0-9a6f-43db-b598-8a30f709eb78.png)
   
 *   
   
@@ -4908,7 +4943,9 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
   
 **uptake 20210727**: DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727  
   
+(8) Nova Scotia [Hospital-related outcomes, 2021, without IHME Bed need and IMPE Hospital demand](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210727/output/merge/main/SUB8%2073bDayHosMERGsub%202021%20woextremes%20Nova%20Scotia%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20Nova%20Scotia%2C%20wo%20extremes%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/127246343-987454f4-653c-4f6d-98ab-d4eb1dc1646b.png)
   
 *    
   
@@ -4938,7 +4975,9 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
   
 **uptake 20210727**: DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727  
   
+(9) Nova Scotia [Daily deaths estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210727/output/merge/main/SUB9%2092bDayDERMERGsub%202021%20Nova%20Scotia%20-%20COVID-19%20daily%20deaths%20estimated%20to%20reported%2C%20Canada%2C%20Nova%20Scotia%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/127246396-09d9414a-a97d-455c-bb38-9d695336e729.png)
   
 *    
   
@@ -4969,7 +5008,9 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
   
 **uptake 20210727**: DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727  
   
+(10) Nova Scotia [Daily cases or infections estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210727/output/merge/main/SUB10%2094bDayCERMERGsub%202021%20Nova%20Scotia%20-%20COVID-19%20daily%20cases%20estimated%20to%20reported%2C%20Canada%2C%20Nova%20Scotia%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/127246448-29c81d25-30eb-4034-b87f-61cd00020891.png)
   
 *    
   
@@ -5015,7 +5056,9 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
   
 **uptake 20210727**: DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727  
   
+(1) Ontario [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210727/output/merge/main/SUB1%2011bDayDeaMERGsub%20alltime%20Ontario%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/127246530-22aea1e1-101d-4899-8f58-1285f8234d27.png)
   
 *    
   
@@ -5158,7 +5201,9 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
   
 **uptake 20210727**: DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727  
   
+(2) Ontario [Daily deaths, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210727/output/merge/main/SUB2%2012bDayDeaMERGsub%202021%20Ontario%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/127246817-0c539c97-80d6-46f3-bfc7-897268d53e6d.png)
   
 *    
   
@@ -5301,7 +5346,9 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
   
 **uptake 20210727**: DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727  
   
+(3) Ontario [Daily deaths, 3 scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210727/output/merge/main/SUB3%2014bDayDeaMERGsub%202021%203%20scenarios%20Ontario%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Ontario%2C%203%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/127246873-dbc59259-d4b5-4430-80c8-ccb5dcf9db35.png)
   
 *    
   
@@ -5443,7 +5490,9 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
   
 **uptake 20210727**: DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727  
   
+(4) Ontario [Daily cases or infections, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210727/output/merge/main/SUB4%2031bDayCasMERGsub%20alltime%20Ontario%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/127246929-a237ece0-37b1-4861-8912-b0bfd3bc7fd3.png)
   
 *    
   
@@ -5586,7 +5635,9 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
   
 **uptake 20210727**: DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727  
   
+(5) Ontario [Daily cases or infections, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210727/output/merge/main/SUB5%2032bDayCasMERGsub%202021%20Ontario%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/127246985-de9cb638-e28e-47b0-b948-25045c8e44d2.png)
   
 *    
   
@@ -5729,7 +5780,9 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
   
 **uptake 20210727**: DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727  
   
+(6) Ontario [Daily cases or infections, 3 scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210727/output/merge/main/SUB6%2034bDayCasMERGsub%202021%203scen%20Ontario%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Ontario%2C%203%20scenarios%2C%202021%2C%20uncertainty.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/127247059-2df15f05-40b7-4933-b448-0162c011937a.png)
   
 *    
   
@@ -5872,7 +5925,9 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
   
 **uptake 20210727**: DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727  
   
+(7) Ontario [Hospital-related outcomes, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210727/output/merge/main/SUB7%2071bDayHosMERGsub%20alltime%20Ontario%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20Ontario.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/127247115-61f11f9f-64c7-477e-8cfd-727b6377d4fb.png)
   
 *    
   
@@ -6015,7 +6070,9 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
   
 **uptake 20210727**: DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727  
   
+(8) Ontario [Hospital-related outcomes, 2021, without IHME Bed need and IMPE Hospital demand](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210727/output/merge/main/SUB8%2073bDayHosMERGsub%202021%20woextremes%20Ontario%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20Ontario%2C%20wo%20extremes%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/127247168-197817cb-c8b7-42ac-889a-bd2390821ca0.png)
   
 *    
   
@@ -6158,7 +6215,9 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
   
 **uptake 20210727**: DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727  
   
+(9) Ontario [Daily deaths estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210727/output/merge/main/SUB9%2092bDayDERMERGsub%202021%20Ontario%20-%20COVID-19%20daily%20deaths%20estimated%20to%20reported%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/127247215-a13755ba-35ae-4e60-8741-217945e435e9.png)
   
 *    
   
@@ -6301,7 +6360,9 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
   
 **uptake 20210727**: DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727  
   
+(10) Ontario [Daily cases or infections estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210727/output/merge/main/SUB10%2094bDayCERMERGsub%202021%20Ontario%20-%20COVID-19%20daily%20cases%20estimated%20to%20reported%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/127247276-3e34f2e9-2b5d-48ce-ba10-a825b9187d78.png)
   
 *    
   
@@ -6452,7 +6513,9 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
   
 **uptake 20210727**: DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727  
   
+(1) Quebec [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210727/output/merge/main/SUB1%2011bDayDeaMERGsub%20alltime%20Quebec%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/127248503-23c80773-1ed8-4799-abd2-0305dbf5c403.png)
   
 *    
   
@@ -6595,7 +6658,9 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
   
 **uptake 20210727**: DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727  
   
+(2) Quebec [Daily deaths, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210727/output/merge/main/SUB2%2012bDayDeaMERGsub%202021%20Quebec%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/127248546-22f60d21-054a-4042-ab74-a1fe1dbe12f0.png)
   
 *   
   
@@ -6738,7 +6803,9 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
   
 **uptake 20210727**: DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727  
   
+(3) Quebec [Daily deaths, 3 scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210727/output/merge/main/SUB3%2014bDayDeaMERGsub%202021%203%20scenarios%20Quebec%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Quebec%2C%203%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/127248628-b6c8d54f-c45b-473b-be64-a90040d25f29.png)
   
 *  
   
@@ -6881,7 +6948,9 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
   
 **uptake 20210727**: DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727  
   
+(4) Quebec [Daily cases or infections, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210727/output/merge/main/SUB4%2031bDayCasMERGsub%20alltime%20Quebec%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/127248734-168d7ba9-17aa-47bc-ae0d-41671e9d3b0a.png)
   
 *    
   
@@ -7025,7 +7094,9 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
   
 **uptake 20210727**: DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727  
   
+(5) Quebec [Daily cases or infections, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210727/output/merge/main/SUB5%2032bDayCasMERGsub%202021%20Quebec%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/127248789-80a9cb96-4f8f-48f1-bde8-96f56b84fbad.png)
   
 *    
   
@@ -7168,7 +7239,9 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
   
 **uptake 20210727**: DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727  
   
+(6) Quebec [Daily cases or infections, 3 scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210727/output/merge/main/SUB6%2034bDayCasMERGsub%202021%203scen%20Quebec%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Quebec%2C%203%20scenarios%2C%202021%2C%20uncertainty.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/127248826-4616d24f-0bc7-4d2a-9cc0-149afd054102.png)
   
 *    
   
@@ -7311,7 +7384,9 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
   
 **uptake 20210727**: DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727  
   
+(7) Quebec [Hospital-related outcomes, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210727/output/merge/main/SUB7%2071bDayHosMERGsub%20alltime%20Quebec%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20Quebec.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/127248877-b5b37311-e434-48c7-9066-090cda212d1a.png)
   
 *  
   
@@ -7454,7 +7529,9 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
   
 **uptake 20210727**: DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727  
   
+(8) Quebec [Hospital-related outcomes, 2021, without IHME Bed need and IMPE Hospital demand](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210727/output/merge/main/SUB8%2073bDayHosMERGsub%202021%20woextremes%20Quebec%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20Quebec%2C%20wo%20extremes%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/127248915-df091852-7d7a-43d1-bca4-4b07ac557bc6.png)
   
 *    
   
@@ -7596,7 +7673,9 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
   
 **uptake 20210727**: DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727  
   
+(9) Quebec [Daily deaths estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210727/output/merge/main/SUB9%2092bDayDERMERGsub%202021%20Quebec%20-%20COVID-19%20daily%20deaths%20estimated%20to%20reported%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/127248974-4f609c17-4d12-4f8d-a0d7-373864fda182.png)
   
 *    
   
@@ -7734,7 +7813,9 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
   
 **uptake 20210727**: DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727  
   
+(10) Quebec [Daily cases or infections estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210727/output/merge/main/SUB10%2094bDayCERMERGsub%202021%20Quebec%20-%20COVID-19%20daily%20cases%20estimated%20to%20reported%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/127249020-f82f1971-25c5-4a9a-853f-79b59d6068b8.png)
   
 *  
   
@@ -7891,13 +7972,16 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
 ****
 ****
   
+Graphs for Saskatchewan were added here starting from uptake 20210726 onwards. 
   
   
 *  
   
 **uptake 20210727**: DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727  
   
+(1) Saskatchewan [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210727/output/merge/main/SUB1%2011bDayDeaMERGsub%20alltime%20Saskatchewan%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Saskatchewan%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/127249738-b19a3b28-0cfe-4ace-8ab2-469ac989dcc9.png)
   
 *  
   
@@ -7924,7 +8008,9 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
   
 **uptake 20210727**: DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727  
   
+(2) Saskatchewan [Daily deaths, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210727/output/merge/main/SUB2%2012bDayDeaMERGsub%202021%20Saskatchewan%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Saskatchewan%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/127249824-fc4dcd87-29ae-4c12-971b-8fe0eb91e356.png)
   
 *    
   
@@ -7951,7 +8037,9 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
   
 **uptake 20210727**: DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727  
   
+(3) Saskatchewan [Daily deaths, 3 scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210727/output/merge/main/SUB3%2014bDayDeaMERGsub%202021%203%20scenarios%20Saskatchewan%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Saskatchewan%2C%203%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/127249898-612385c2-c105-4c5c-bbe0-ec2bf44af62d.png)
   
 *  
   
@@ -7977,7 +8065,9 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
   
 **uptake 20210727**: DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727  
   
+(4) Saskatchewan [Daily cases or infections, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210727/output/merge/main/SUB4%2031bDayCasMERGsub%20alltime%20Saskatchewan%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Saskatchewan%2C%20reference%20scenarios.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/127249943-90cf55f9-0970-4ade-be83-c6cae669ab78.png)
   
 *    
   
@@ -8003,7 +8093,9 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
   
 **uptake 20210727**: DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727  
   
+(5) Saskatchewan [Daily cases or infections, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210727/output/merge/main/SUB5%2032bDayCasMERGsub%202021%20Saskatchewan%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Saskatchewan%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/127249995-e0c36971-e266-4462-92ac-170c38038204.png)
   
 *  
   
@@ -8032,7 +8124,9 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
   
 **uptake 20210727**: DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727  
   
+(6) Saskatchewan [Daily cases or infections, 3 scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210727/output/merge/main/SUB6%2034bDayCasMERGsub%202021%203scen%20Saskatchewan%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Saskatchewan%2C%203%20scenarios%2C%202021%2C%20uncertainty.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/127250055-a83cbb78-bd91-47b3-94d1-394732e9c5e9.png)
   
 *  
   
@@ -8064,7 +8158,9 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
   
 **uptake 20210727**: DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727  
   
+(7) Saskatchewan [Hospital-related outcomes, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210727/output/merge/main/SUB7%2071bDayHosMERGsub%20alltime%20Saskatchewan%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20Saskatchewan.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/127250100-ea0ac4af-4cc5-489a-b67d-1ec3cf6d0ffc.png)
   
 *   
   
@@ -8095,7 +8191,9 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
   
 **uptake 20210727**: DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727  
   
+(8) Saskatchewan [Hospital-related outcomes, 2021, without IHME Bed need and IMPE Hospital demand](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210727/output/merge/main/SUB8%2073bDayHosMERGsub%202021%20woextremes%20Saskatchewan%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20Saskatchewan%2C%20wo%20extremes%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/127250140-c9daa56e-da31-4627-a2d8-5ccd97300881.png)
   
 *   
   
@@ -8125,7 +8223,9 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
   
 **uptake 20210727**: DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727  
   
+(9) Saskatchewan [Daily deaths estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210727/output/merge/main/SUB9%2092bDayDERMERGsub%202021%20Saskatchewan%20-%20COVID-19%20daily%20deaths%20estimated%20to%20reported%2C%20Canada%2C%20Saskatchewan%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/127250177-678578d9-4dd5-46df-8997-584df8ec4c4d.png)
   
 *    
   
@@ -8156,7 +8256,9 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
   
 **uptake 20210727**: DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727  
   
+(10) Saskatchewan [Daily cases or infections estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210727/output/merge/main/SUB10%2094bDayCERMERGsub%202021%20Saskatchewan%20-%20COVID-19%20daily%20cases%20estimated%20to%20reported%2C%20Canada%2C%20Saskatchewan%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/127250226-7b51fac0-62ac-4146-a78e-6920e31ed0ae.png)
   
 *   
   
