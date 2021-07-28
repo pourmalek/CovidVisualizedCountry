@@ -947,6 +947,12 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
   
 <br/><br/>
+  
+  
+### Among the 5 available international periodically updating studies or models of COVID-19 pandemic, only TWO studies, DELP and IHME, provide subnational level estimates for some countries. 
+
+### For Canada, DELP and IHME models provide subnational estimates for SEVEN provinces: Alberta, British Columbia, Manitoba, Nova Scotia, Ontario, Quebec, and Saskatchewan.  
+  
 
 ### Selected graphs - [Canada](https://github.com/pourmalek/CovidVisualizedCountry#selected-graphs---canada-2)
   
