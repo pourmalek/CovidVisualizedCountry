@@ -15,7 +15,7 @@
   
 #### [Delphi](https://covidanalytics.io/projections), [IHME](https://covid19.healthdata.org/canada?view=daily-deaths&tab=trend), [Imperial college](https://github.com/mrc-ide/global-lmic-reports/blob/master/CAN/2021-06-18/index.pdf), [Los Alamos](https://covid-19.bsvgateway.org), and [Srivastava](https://scc-usc.github.io/ReCOVER-COVID-19/#/), 
   
-#### for [daily deaths](), [daily cases](), [hospitalizations](), [total deaths](), [total cases]()
+#### for [daily deaths](https://github.com/pourmalek/CovidVisualizedCountry#graph-3-canada---daily-deaths-3-scenarios-2021), [daily cases](https://github.com/pourmalek/CovidVisualizedCountry#graph-5-canada---daily-cases-or-infections-reference-scenarios-2021), [hospitalizations](https://github.com/pourmalek/CovidVisualizedCountry#graph-8-british-columbia---hospital-related-outcomes-2021-without-ihme-bed-need-and-impe-hospital-demand)
   
 #### for Canada: [National level](https://github.com/pourmalek/CovidVisualizedCountry#selected-graphs---canada-2), [Alberta](https://github.com/pourmalek/CovidVisualizedCountry#selected-graphs---alberta-2), [British Columbia](https://github.com/pourmalek/CovidVisualizedCountry#selected-graphs---british-columbia-2), [Manitoba](https://github.com/pourmalek/CovidVisualizedCountry#selected-graphs---manitoba-2), [Nova Scotia](https://github.com/pourmalek/CovidVisualizedCountry#selected-graphs---[nova-scotia-2), [Ontario](https://github.com/pourmalek/CovidVisualizedCountry#selected-graphs---ontario-2), [Quebec](https://github.com/pourmalek/CovidVisualizedCountry#selected-graphs---quebec-2), [Saskatchewan](https://github.com/pourmalek/CovidVisualizedCountry#selected-graphs---saskatchewan-2)
   
