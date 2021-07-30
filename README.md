@@ -93,6 +93,12 @@ The codes in these repositories can be adapted for use for any country or region
 ********************************************************************************************************************************************
 ********************************************************************************************************************************************
 
+#### LATEST UPTAKE: uptake 20210730
+
+#### DELP 20210730, **_IHME 20210730_**, IMPE 20210719, LANL 20210725, SRIV 20210730 
+  
+ .
+  
 #### LATEST UPTAKE: uptake 20210727
 
 #### DELP 20210727, IHME 20210723 version 2, IMPE 20210719, LANL 20210725, SRIV 20210727
@@ -866,6 +872,8 @@ _Component studies and their scenarios_ are mentioned below after the selected _
 
 .
   
+(17) uptake [`20210730`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20210730): DELP 20210730, **_IHME 20210730_**, IMPE 20210719, LANL 20210725, SRIV 20210730
+  
 (16) uptake [`20210727`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20210727): DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727  
   
 (15) uptake [`20210726`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20210726): DELP 20210726, **_IHME 20210723 version 2_**, IMPE 20210709, LANL 20210718, SRIV 20210726
@@ -1000,6 +1008,12 @@ _Component studies and their scenarios_ are mentioned below after the selected _
 #### graph (1) Canada - Daily deaths, reference scenarios, all time
   
   
+  
+*  
+  
+**uptake 20210730**: DELP 20210730, **_IHME 20210730_**, IMPE 20210719, LANL 20210725, SRIV 20210730  
+
+.
   
 *  
   
@@ -1144,6 +1158,12 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
 *  
   
+**uptake 20210730**: DELP 20210730, **_IHME 20210730_**, IMPE 20210719, LANL 20210725, SRIV 20210730  
+
+.
+  
+* 
+  
 **uptake 20210727**: DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727  
   
 (2) Canada [Daily deaths, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210727/output/merge/main/CAN2%2012aDayDeaMERGnat%202021%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%202021.pdf)
@@ -1283,6 +1303,12 @@ _Component studies and their scenarios_ are mentioned below after the selected _
 #### graph (3) Canada - Daily deaths, 3 scenarios, 2021
   
   
+  
+*  
+  
+**uptake 20210730**: DELP 20210730, **_IHME 20210730_**, IMPE 20210719, LANL 20210725, SRIV 20210730  
+
+.
   
 *  
   
@@ -1427,6 +1453,12 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
 *  
   
+**uptake 20210730**: DELP 20210730, **_IHME 20210730_**, IMPE 20210719, LANL 20210725, SRIV 20210730  
+
+.
+  
+*  
+  
 **uptake 20210727**: DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727  
   
 (4) Canada [Daily cases or infections, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210727/output/merge/main/CAN4%2031aDayCasMERGnat%20alltime%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20National%2C%20reference%20scenarios.pdf)
@@ -1567,6 +1599,12 @@ _Component studies and their scenarios_ are mentioned below after the selected _
 #### graph (5) Canada - Daily cases or infections, reference scenarios, 2021
   
   
+  
+*  
+  
+**uptake 20210730**: DELP 20210730, **_IHME 20210730_**, IMPE 20210719, LANL 20210725, SRIV 20210730  
+
+.
   
 *  
   
@@ -1714,6 +1752,12 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
 *  
   
+**uptake 20210730**: DELP 20210730, **_IHME 20210730_**, IMPE 20210719, LANL 20210725, SRIV 20210730  
+
+.
+  
+*  
+  
 **uptake 20210727**: DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727  
   
 (6) Canada [Daily cases or infections, 3 scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210727/output/merge/main/CAN6%2034aDayCasMERGnat%202021%203scen%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20National%2C%203%20scenarios%2C%202021%2C%20uncertainty.pdf)
@@ -1857,6 +1901,12 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
 *  
   
+**uptake 20210730**: DELP 20210730, **_IHME 20210730_**, IMPE 20210719, LANL 20210725, SRIV 20210730  
+
+.
+  
+*  
+  
 **uptake 20210727**: DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727  
   
 (7) Canada [Hospital-related outcomes, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210727/output/merge/main/CAN7%2071aDayHosMERGnat%20%20alltime%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20National.pdf)
@@ -1997,6 +2047,12 @@ _Component studies and their scenarios_ are mentioned below after the selected _
 #### graph (8) Canada - Hospital-related outcomes, 2021, without IHME Bed need and IMPE Hospital demand  
   
   
+  
+*  
+  
+**uptake 20210730**: DELP 20210730, **_IHME 20210730_**, IMPE 20210719, LANL 20210725, SRIV 20210730  
+
+.
   
 *  
   
@@ -2144,6 +2200,12 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
 *  
   
+**uptake 20210730**: DELP 20210730, **_IHME 20210730_**, IMPE 20210719, LANL 20210725, SRIV 20210730  
+
+.
+  
+*  
+  
 **uptake 20210727**: DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727  
   
 (9) Canada [Daily deaths estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210727/output/merge/main/CAN9%2092aDayDERMERGnat%202021%20-%20COVID-19%20daily%20deaths%20estimated%20to%20reported%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%202021.pdf)
@@ -2287,6 +2349,12 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
 *  
   
+**uptake 20210730**: DELP 20210730, **_IHME 20210730_**, IMPE 20210719, LANL 20210725, SRIV 20210730  
+
+.
+  
+*  
+  
 **uptake 20210727**: DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727  
   
 (10) Canada [Daily cases or infections estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210727/output/merge/main/CAN10%2094aDayCERMERGnat%202021%20-%20COVID-19%20daily%20cases%20estimated%20to%20reported%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%202021.pdf)
@@ -2424,6 +2492,12 @@ _Component studies and their scenarios_ are mentioned below after the selected _
 #### graph (11) Canada and provinces - Daily death rates, reference scenario, all time, IHME
   
   
+  
+*  
+  
+**uptake 20210730**: DELP 20210730, **_IHME 20210730_**, IMPE 20210719, LANL 20210725, SRIV 20210730  
+
+.
   
 *  
   
@@ -2568,6 +2642,12 @@ This graph was added here starting with uptake 20210726.
   
 *  
   
+**uptake 20210730**: DELP 20210730, **_IHME 20210730_**, IMPE 20210719, LANL 20210725, SRIV 20210730  
+
+.
+  
+*  
+  
 **uptake 20210727**: DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727  
   
 (12) Canada and provinces [Daily death rates, reference scenario, 2021 IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210727/output/merge/main/CAN12%2019aDayDeaRATE%2001jul2021%20on%20IHME%20-%20COVID-19%20daily%20death%20rate%2C%20Canada%2C%20subnational%2C%20IHME%2C%20reference%20scenario.pdf)
@@ -2641,6 +2721,12 @@ Graphs for Alberta were added here starting from uptake 20210726 onwards.
   
 *  
   
+**uptake 20210730**: DELP 20210730, **_IHME 20210730_**, IMPE 20210719, LANL 20210725, SRIV 20210730  
+
+.
+  
+*  
+  
 **uptake 20210727**: DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727  
   
 (2) Alberta [Daily deaths, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210727/output/merge/main/SUB2%2012bDayDeaMERGsub%202021%20Alberta%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios%2C%202021.pdf)
@@ -2667,6 +2753,12 @@ Graphs for Alberta were added here starting from uptake 20210726 onwards.
 #### graph (3) Alberta - Daily deaths, 3 scenarios, 2021 
   
   
+  
+*  
+  
+**uptake 20210730**: DELP 20210730, **_IHME 20210730_**, IMPE 20210719, LANL 20210725, SRIV 20210730  
+
+.
   
 *  
   
@@ -2726,6 +2818,12 @@ Graphs for Alberta were added here starting from uptake 20210726 onwards.
   
 *  
   
+**uptake 20210730**: DELP 20210730, **_IHME 20210730_**, IMPE 20210719, LANL 20210725, SRIV 20210730  
+
+.
+  
+*  
+  
 **uptake 20210727**: DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727  
   
 (5) Alberta [Daily cases or infections, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210727/output/merge/main/SUB5%2032bDayCasMERGsub%202021%20Alberta%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios%2C%202021.pdf)
@@ -2754,6 +2852,12 @@ Graphs for Alberta were added here starting from uptake 20210726 onwards.
 #### graph (6) Alberta - Daily cases or infections, 3 scenarios, 2021
   
   
+  
+*  
+  
+**uptake 20210730**: DELP 20210730, **_IHME 20210730_**, IMPE 20210719, LANL 20210725, SRIV 20210730  
+
+.
   
 *  
   
@@ -2790,6 +2894,12 @@ Graphs for Alberta were added here starting from uptake 20210726 onwards.
   
 *  
   
+**uptake 20210730**: DELP 20210730, **_IHME 20210730_**, IMPE 20210719, LANL 20210725, SRIV 20210730  
+
+.
+  
+*  
+  
 **uptake 20210727**: DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727  
   
 (7) Alberta [Hospital-related outcomes, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210727/output/merge/main/SUB7%2071bDayHosMERGsub%20alltime%20Alberta%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20Alberta.pdf)
@@ -2820,6 +2930,12 @@ Graphs for Alberta were added here starting from uptake 20210726 onwards.
 #### graph (8) Alberta - Hospital-related outcomes, 2021, without IHME Bed need and IMPE Hospital demand
   
   
+  
+*  
+  
+**uptake 20210730**: DELP 20210730, **_IHME 20210730_**, IMPE 20210719, LANL 20210725, SRIV 20210730  
+
+.
   
 *  
   
@@ -2855,6 +2971,12 @@ Graphs for Alberta were added here starting from uptake 20210726 onwards.
   
 *  
   
+**uptake 20210730**: DELP 20210730, **_IHME 20210730_**, IMPE 20210719, LANL 20210725, SRIV 20210730  
+
+.
+  
+*  
+  
 **uptake 20210727**: DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727  
   
 (9) Alberta [Daily deaths estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210727/output/merge/main/SUB9%2092bDayDERMERGsub%202021%20Alberta%20-%20COVID-19%20daily%20deaths%20estimated%20to%20reported%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios%2C%202021.pdf)
@@ -2885,6 +3007,12 @@ Graphs for Alberta were added here starting from uptake 20210726 onwards.
 #### graph (10) Alberta - Daily cases or infections estimated to reported cases, reference scenarios, 2021
   
   
+  
+*  
+  
+**uptake 20210730**: DELP 20210730, **_IHME 20210730_**, IMPE 20210719, LANL 20210725, SRIV 20210730  
+
+.
   
 *  
   
@@ -2936,6 +3064,12 @@ Graphs for Alberta were added here starting from uptake 20210726 onwards.
 ****
   
   
+  
+*  
+  
+**uptake 20210730**: DELP 20210730, **_IHME 20210730_**, IMPE 20210719, LANL 20210725, SRIV 20210730  
+
+.
   
 *  
   
@@ -3085,6 +3219,12 @@ Graphs for Alberta were added here starting from uptake 20210726 onwards.
   
 *  
   
+**uptake 20210730**: DELP 20210730, **_IHME 20210730_**, IMPE 20210719, LANL 20210725, SRIV 20210730  
+
+.
+  
+*  
+  
 **uptake 20210727**: DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727  
   
 (2) British Columbia [Daily deaths, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210727/output/merge/main/SUB2%2012bDayDeaMERGsub%202021%20British%20Columbia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%202021.pdf)
@@ -3227,6 +3367,12 @@ Graphs for Alberta were added here starting from uptake 20210726 onwards.
 #### graph (3) British Columbia - Daily deaths, 3 scenarios, 2021 
   
   
+  
+*  
+  
+**uptake 20210730**: DELP 20210730, **_IHME 20210730_**, IMPE 20210719, LANL 20210725, SRIV 20210730  
+
+.
   
 *  
   
@@ -3374,6 +3520,12 @@ Graphs for Alberta were added here starting from uptake 20210726 onwards.
   
 *  
   
+**uptake 20210730**: DELP 20210730, **_IHME 20210730_**, IMPE 20210719, LANL 20210725, SRIV 20210730  
+
+.
+  
+*  
+  
 **uptake 20210727**: DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727  
   
 (4) British Columbia [Daily cases or infections, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210727/output/merge/main/SUB4%2031bDayCasMERGsub%20alltime%20British%20Columbia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios.pdf)
@@ -3515,6 +3667,12 @@ Graphs for Alberta were added here starting from uptake 20210726 onwards.
 #### graph (5) British Columbia - Daily cases or infections, reference scenarios, 2021 
   
 
+  
+*  
+  
+**uptake 20210730**: DELP 20210730, **_IHME 20210730_**, IMPE 20210719, LANL 20210725, SRIV 20210730  
+
+.
   
 *  
   
@@ -3660,6 +3818,12 @@ Graphs for Alberta were added here starting from uptake 20210726 onwards.
   
 *  
   
+**uptake 20210730**: DELP 20210730, **_IHME 20210730_**, IMPE 20210719, LANL 20210725, SRIV 20210730  
+
+.
+  
+* 
+  
 **uptake 20210727**: DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727  
   
 (6) British Columbia [Daily cases or infections, 3 scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210727/output/merge/main/SUB6%2034bDayCasMERGsub%202021%203scen%20British%20Columbia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20British%20Columbia%2C%203%20scenarios%2C%202021%2C%20uncertainty.pdf)
@@ -3804,6 +3968,12 @@ Graphs for Alberta were added here starting from uptake 20210726 onwards.
   
 *  
   
+**uptake 20210730**: DELP 20210730, **_IHME 20210730_**, IMPE 20210719, LANL 20210725, SRIV 20210730  
+
+.
+  
+*  
+  
 **uptake 20210727**: DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727  
   
 (7) British Columbia [Hospital-related outcomes, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210727/output/merge/main/SUB7%2071bDayHosMERGsub%20alltime%20British%20Columbia%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20British%20Columbia.pdf)
@@ -3945,6 +4115,12 @@ Graphs for Alberta were added here starting from uptake 20210726 onwards.
 #### graph (8) British Columbia - Hospital-related outcomes, 2021, without IHME Bed need and IMPE Hospital demand
   
   
+  
+*  
+  
+**uptake 20210730**: DELP 20210730, **_IHME 20210730_**, IMPE 20210719, LANL 20210725, SRIV 20210730  
+
+.
   
 *  
   
@@ -4093,6 +4269,12 @@ Graphs for Alberta were added here starting from uptake 20210726 onwards.
   
 *  
   
+**uptake 20210730**: DELP 20210730, **_IHME 20210730_**, IMPE 20210719, LANL 20210725, SRIV 20210730  
+
+.
+  
+*  
+  
 **uptake 20210727**: DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727  
   
 (9) British Columbia [Daily deaths estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210727/output/merge/main/SUB9%2092bDayDERMERGsub%202021%20British%20Columbia%20-%20COVID-19%20daily%20deaths%20estimated%20to%20reported%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%202021.pdf)
@@ -4235,6 +4417,12 @@ Graphs for Alberta were added here starting from uptake 20210726 onwards.
 #### graph (10) British Columbia - Daily cases or infections estimated to reported cases, reference scenarios, 2021
   
   
+  
+*  
+  
+**uptake 20210730**: DELP 20210730, **_IHME 20210730_**, IMPE 20210719, LANL 20210725, SRIV 20210730  
+
+.
   
 *  
   
@@ -4396,6 +4584,13 @@ Graphs for Alberta were added here starting from uptake 20210726 onwards.
   
 Graphs for Manitoba were added here starting from uptake 20210726 onwards.  
   
+ 
+  
+*  
+  
+**uptake 20210730**: DELP 20210730, **_IHME 20210730_**, IMPE 20210719, LANL 20210725, SRIV 20210730  
+
+.
   
 *  
   
@@ -4426,6 +4621,13 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
   
   
   
+  
+*  
+  
+**uptake 20210730**: DELP 20210730, **_IHME 20210730_**, IMPE 20210719, LANL 20210725, SRIV 20210730  
+
+.
+  
 *  
   
 **uptake 20210727**: DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727  
@@ -4454,6 +4656,13 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
 #### graph (3) Manitoba - Daily deaths, 3 scenarios, 2021 
   
   
+  
+  
+*  
+  
+**uptake 20210730**: DELP 20210730, **_IHME 20210730_**, IMPE 20210719, LANL 20210725, SRIV 20210730  
+
+.
   
 *  
   
@@ -4511,6 +4720,13 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
   
 
   
+  
+*  
+  
+**uptake 20210730**: DELP 20210730, **_IHME 20210730_**, IMPE 20210719, LANL 20210725, SRIV 20210730  
+
+.
+  
 *  
   
 **uptake 20210727**: DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727  
@@ -4541,6 +4757,13 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
 #### graph (6) Manitoba - Daily cases or infections, 3 scenarios, 2021
   
   
+  
+  
+*  
+  
+**uptake 20210730**: DELP 20210730, **_IHME 20210730_**, IMPE 20210719, LANL 20210725, SRIV 20210730  
+
+.
   
 *  
   
@@ -4576,6 +4799,13 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
   
   
   
+  
+*  
+  
+**uptake 20210730**: DELP 20210730, **_IHME 20210730_**, IMPE 20210719, LANL 20210725, SRIV 20210730  
+
+.
+  
 *  
   
 **uptake 20210727**: DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727  
@@ -4609,6 +4839,13 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
   
   
   
+  
+*  
+  
+**uptake 20210730**: DELP 20210730, **_IHME 20210730_**, IMPE 20210719, LANL 20210725, SRIV 20210730  
+
+.
+  
 *  
   
 **uptake 20210727**: DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727  
@@ -4640,6 +4877,13 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
 #### graph (9) Manitoba - Daily deaths estimated to reported, reference scenarios, 2021
   
   
+  
+  
+*  
+  
+**uptake 20210730**: DELP 20210730, **_IHME 20210730_**, IMPE 20210719, LANL 20210725, SRIV 20210730  
+
+.
   
 *  
   
@@ -4673,6 +4917,13 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
 #### graph (10) Manitoba - Daily cases or infections estimated to reported cases, reference scenarios, 2021
   
   
+  
+  
+*  
+  
+**uptake 20210730**: DELP 20210730, **_IHME 20210730_**, IMPE 20210719, LANL 20210725, SRIV 20210730  
+
+.
   
 *  
   
@@ -4727,6 +4978,14 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
 Graphs for Nova Scotia were added here starting from uptake 20210726 onwards. 
   
   
+  
+  
+*  
+  
+**uptake 20210730**: DELP 20210730, **_IHME 20210730_**, IMPE 20210719, LANL 20210725, SRIV 20210730  
+
+.
+  
 *  
   
 **uptake 20210727**: DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727  
@@ -4755,6 +5014,13 @@ Graphs for Nova Scotia were added here starting from uptake 20210726 onwards.
 #### graph (2) Nova Scotia - Daily deaths, reference scenarios, 2021
   
   
+  
+  
+*  
+  
+**uptake 20210730**: DELP 20210730, **_IHME 20210730_**, IMPE 20210719, LANL 20210725, SRIV 20210730  
+
+.
   
 *  
   
@@ -4785,6 +5051,13 @@ Graphs for Nova Scotia were added here starting from uptake 20210726 onwards.
   
   
   
+  
+*  
+  
+**uptake 20210730**: DELP 20210730, **_IHME 20210730_**, IMPE 20210719, LANL 20210725, SRIV 20210730  
+
+.
+  
 *  
   
 **uptake 20210727**: DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727  
@@ -4813,6 +5086,13 @@ Graphs for Nova Scotia were added here starting from uptake 20210726 onwards.
   
   
   
+  
+*  
+  
+**uptake 20210730**: DELP 20210730, **_IHME 20210730_**, IMPE 20210719, LANL 20210725, SRIV 20210730  
+
+.
+  
 *  
   
 **uptake 20210727**: DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727  
@@ -4840,6 +5120,13 @@ Graphs for Nova Scotia were added here starting from uptake 20210726 onwards.
 #### graph (5) Nova Scotia - Daily cases or infections, reference scenarios, 2021 
   
 
+  
+  
+*  
+  
+**uptake 20210730**: DELP 20210730, **_IHME 20210730_**, IMPE 20210719, LANL 20210725, SRIV 20210730  
+
+.
   
 *  
   
@@ -4871,6 +5158,13 @@ Graphs for Nova Scotia were added here starting from uptake 20210726 onwards.
 #### graph (6) Nova Scotia - Daily cases or infections, 3 scenarios, 2021
   
   
+  
+  
+*  
+  
+**uptake 20210730**: DELP 20210730, **_IHME 20210730_**, IMPE 20210719, LANL 20210725, SRIV 20210730  
+
+.
   
 *  
   
@@ -4906,6 +5200,13 @@ Graphs for Nova Scotia were added here starting from uptake 20210726 onwards.
   
   
   
+  
+*  
+  
+**uptake 20210730**: DELP 20210730, **_IHME 20210730_**, IMPE 20210719, LANL 20210725, SRIV 20210730  
+
+.
+  
 *  
   
 **uptake 20210727**: DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727  
@@ -4939,6 +5240,13 @@ Graphs for Nova Scotia were added here starting from uptake 20210726 onwards.
   
   
   
+  
+*  
+  
+**uptake 20210730**: DELP 20210730, **_IHME 20210730_**, IMPE 20210719, LANL 20210725, SRIV 20210730  
+
+.
+  
 *  
   
 **uptake 20210727**: DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727  
@@ -4970,6 +5278,13 @@ Graphs for Nova Scotia were added here starting from uptake 20210726 onwards.
 #### graph (9) Nova Scotia - Daily deaths estimated to reported, reference scenarios, 2021
   
   
+  
+  
+*  
+  
+**uptake 20210730**: DELP 20210730, **_IHME 20210730_**, IMPE 20210719, LANL 20210725, SRIV 20210730  
+
+.
   
 *  
   
@@ -5003,6 +5318,13 @@ Graphs for Nova Scotia were added here starting from uptake 20210726 onwards.
 #### graph (10) Nova Scotia - Daily cases or infections estimated to reported cases, reference scenarios, 2021
   
   
+  
+  
+*  
+  
+**uptake 20210730**: DELP 20210730, **_IHME 20210730_**, IMPE 20210719, LANL 20210725, SRIV 20210730  
+
+.
   
 *  
   
@@ -5052,7 +5374,14 @@ Graphs for Nova Scotia were added here starting from uptake 20210726 onwards.
  
   
   
+  
 *  
+  
+**uptake 20210730**: DELP 20210730, **_IHME 20210730_**, IMPE 20210719, LANL 20210725, SRIV 20210730  
+
+.
+  
+* 
   
 **uptake 20210727**: DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727  
   
@@ -5196,6 +5525,13 @@ Graphs for Nova Scotia were added here starting from uptake 20210726 onwards.
 #### graph (2) Ontario  - Daily deaths, reference scenarios, 2021
   
   
+  
+  
+*  
+  
+**uptake 20210730**: DELP 20210730, **_IHME 20210730_**, IMPE 20210719, LANL 20210725, SRIV 20210730  
+
+.
   
 *  
   
@@ -5342,7 +5678,14 @@ Graphs for Nova Scotia were added here starting from uptake 20210726 onwards.
   
   
   
+  
 *  
+  
+**uptake 20210730**: DELP 20210730, **_IHME 20210730_**, IMPE 20210719, LANL 20210725, SRIV 20210730  
+
+.
+  
+* 
   
 **uptake 20210727**: DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727  
   
@@ -5485,6 +5828,13 @@ Graphs for Nova Scotia were added here starting from uptake 20210726 onwards.
 #### graph (4) Ontario - Daily cases or infections, reference scenarios, all time
   
   
+  
+  
+*  
+  
+**uptake 20210730**: DELP 20210730, **_IHME 20210730_**, IMPE 20210719, LANL 20210725, SRIV 20210730  
+
+.
   
 *  
   
@@ -5631,6 +5981,13 @@ Graphs for Nova Scotia were added here starting from uptake 20210726 onwards.
   
 
   
+  
+*  
+  
+**uptake 20210730**: DELP 20210730, **_IHME 20210730_**, IMPE 20210719, LANL 20210725, SRIV 20210730  
+
+.
+  
 *  
   
 **uptake 20210727**: DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727  
@@ -5776,7 +6133,14 @@ Graphs for Nova Scotia were added here starting from uptake 20210726 onwards.
   
   
   
+  
 *  
+  
+**uptake 20210730**: DELP 20210730, **_IHME 20210730_**, IMPE 20210719, LANL 20210725, SRIV 20210730  
+
+.
+  
+* 
   
 **uptake 20210727**: DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727  
   
@@ -5921,7 +6285,14 @@ Graphs for Nova Scotia were added here starting from uptake 20210726 onwards.
   
   
   
+  
 *  
+  
+**uptake 20210730**: DELP 20210730, **_IHME 20210730_**, IMPE 20210719, LANL 20210725, SRIV 20210730  
+
+.
+  
+* 
   
 **uptake 20210727**: DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727  
   
@@ -6066,7 +6437,14 @@ Graphs for Nova Scotia were added here starting from uptake 20210726 onwards.
   
   
   
+  
 *  
+  
+**uptake 20210730**: DELP 20210730, **_IHME 20210730_**, IMPE 20210719, LANL 20210725, SRIV 20210730  
+
+.
+  
+* 
   
 **uptake 20210727**: DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727  
   
@@ -6210,6 +6588,13 @@ Graphs for Nova Scotia were added here starting from uptake 20210726 onwards.
 #### graph (9) Ontario - Daily deaths estimated to reported, reference scenarios, 2021
   
   
+  
+  
+*  
+  
+**uptake 20210730**: DELP 20210730, **_IHME 20210730_**, IMPE 20210719, LANL 20210725, SRIV 20210730  
+
+.
   
 *  
   
@@ -6356,7 +6741,14 @@ Graphs for Nova Scotia were added here starting from uptake 20210726 onwards.
   
   
   
+  
 *  
+  
+**uptake 20210730**: DELP 20210730, **_IHME 20210730_**, IMPE 20210719, LANL 20210725, SRIV 20210730  
+
+.
+  
+* 
   
 **uptake 20210727**: DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727  
   
@@ -6509,7 +6901,14 @@ Graphs for Nova Scotia were added here starting from uptake 20210726 onwards.
   
   
   
+  
 *  
+  
+**uptake 20210730**: DELP 20210730, **_IHME 20210730_**, IMPE 20210719, LANL 20210725, SRIV 20210730  
+
+.
+  
+*
   
 **uptake 20210727**: DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727  
   
@@ -6654,7 +7053,14 @@ Graphs for Nova Scotia were added here starting from uptake 20210726 onwards.
   
   
   
+  
 *  
+  
+**uptake 20210730**: DELP 20210730, **_IHME 20210730_**, IMPE 20210719, LANL 20210725, SRIV 20210730  
+
+.
+  
+* 
   
 **uptake 20210727**: DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727  
   
@@ -6798,6 +7204,13 @@ Graphs for Nova Scotia were added here starting from uptake 20210726 onwards.
 #### graph (3) Quebec - Daily deaths, 3 scenarios, 2021
   
   
+  
+
+*  
+  
+**uptake 20210730**: DELP 20210730, **_IHME 20210730_**, IMPE 20210719, LANL 20210725, SRIV 20210730  
+
+.
   
 *  
   
@@ -6944,7 +7357,14 @@ Graphs for Nova Scotia were added here starting from uptake 20210726 onwards.
   
   
   
+
 *  
+  
+**uptake 20210730**: DELP 20210730, **_IHME 20210730_**, IMPE 20210719, LANL 20210725, SRIV 20210730  
+
+.
+  
+* 
   
 **uptake 20210727**: DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727  
   
@@ -7089,6 +7509,13 @@ Graphs for Nova Scotia were added here starting from uptake 20210726 onwards.
 #### graph (5) Quebec - Daily cases or infections, reference scenarios, 2021
   
   
+  
+  
+*  
+  
+**uptake 20210730**: DELP 20210730, **_IHME 20210730_**, IMPE 20210719, LANL 20210725, SRIV 20210730  
+
+.
   
 *  
   
@@ -7235,6 +7662,13 @@ Graphs for Nova Scotia were added here starting from uptake 20210726 onwards.
   
   
   
+  
+*  
+  
+**uptake 20210730**: DELP 20210730, **_IHME 20210730_**, IMPE 20210719, LANL 20210725, SRIV 20210730  
+
+.
+  
 *  
   
 **uptake 20210727**: DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727  
@@ -7379,6 +7813,13 @@ Graphs for Nova Scotia were added here starting from uptake 20210726 onwards.
 #### graph (7) Quebec - Hospital-related outcomes, all time
   
   
+  
+  
+*  
+  
+**uptake 20210730**: DELP 20210730, **_IHME 20210730_**, IMPE 20210719, LANL 20210725, SRIV 20210730  
+
+.
   
 *  
   
@@ -7525,6 +7966,13 @@ Graphs for Nova Scotia were added here starting from uptake 20210726 onwards.
   
   
   
+
+*  
+  
+**uptake 20210730**: DELP 20210730, **_IHME 20210730_**, IMPE 20210719, LANL 20210725, SRIV 20210730  
+
+.
+  
 *  
   
 **uptake 20210727**: DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727  
@@ -7669,6 +8117,13 @@ Graphs for Nova Scotia were added here starting from uptake 20210726 onwards.
   
   
   
+  
+*  
+  
+**uptake 20210730**: DELP 20210730, **_IHME 20210730_**, IMPE 20210719, LANL 20210725, SRIV 20210730  
+
+.
+  
 *  
   
 **uptake 20210727**: DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727  
@@ -7808,6 +8263,13 @@ Graphs for Nova Scotia were added here starting from uptake 20210726 onwards.
 #### graph (10) Quebec - Daily cases or infections estimated to reported cases, reference scenarios, 2021 
   
   
+  
+  
+*  
+  
+**uptake 20210730**: DELP 20210730, **_IHME 20210730_**, IMPE 20210719, LANL 20210725, SRIV 20210730  
+
+.
   
 *  
   
@@ -7975,7 +8437,15 @@ Graphs for Nova Scotia were added here starting from uptake 20210726 onwards.
 Graphs for Saskatchewan were added here starting from uptake 20210726 onwards. 
   
   
+  
+  
 *  
+  
+**uptake 20210730**: DELP 20210730, **_IHME 20210730_**, IMPE 20210719, LANL 20210725, SRIV 20210730  
+
+.
+  
+* 
   
 **uptake 20210727**: DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727  
   
@@ -8004,7 +8474,14 @@ Graphs for Saskatchewan were added here starting from uptake 20210726 onwards.
   
   
   
+  
 *  
+  
+**uptake 20210730**: DELP 20210730, **_IHME 20210730_**, IMPE 20210719, LANL 20210725, SRIV 20210730  
+
+.
+  
+*
   
 **uptake 20210727**: DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727  
   
@@ -8033,7 +8510,14 @@ Graphs for Saskatchewan were added here starting from uptake 20210726 onwards.
   
   
   
+  
 *  
+  
+**uptake 20210730**: DELP 20210730, **_IHME 20210730_**, IMPE 20210719, LANL 20210725, SRIV 20210730  
+
+.
+  
+* 
   
 **uptake 20210727**: DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727  
   
@@ -8061,7 +8545,15 @@ Graphs for Saskatchewan were added here starting from uptake 20210726 onwards.
   
   
   
+  
+  
 *  
+  
+**uptake 20210730**: DELP 20210730, **_IHME 20210730_**, IMPE 20210719, LANL 20210725, SRIV 20210730  
+
+.
+  
+* 
   
 **uptake 20210727**: DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727  
   
@@ -8088,6 +8580,14 @@ Graphs for Saskatchewan were added here starting from uptake 20210726 onwards.
 #### graph (5) Saskatchewan - Daily cases or infections, reference scenarios, 2021 
   
 
+  
+  
+  
+*  
+  
+**uptake 20210730**: DELP 20210730, **_IHME 20210730_**, IMPE 20210719, LANL 20210725, SRIV 20210730  
+
+.
   
 *  
   
@@ -8120,7 +8620,15 @@ Graphs for Saskatchewan were added here starting from uptake 20210726 onwards.
   
   
   
+  
+  
 *  
+  
+**uptake 20210730**: DELP 20210730, **_IHME 20210730_**, IMPE 20210719, LANL 20210725, SRIV 20210730  
+
+.
+  
+* 
   
 **uptake 20210727**: DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727  
   
@@ -8154,7 +8662,15 @@ Graphs for Saskatchewan were added here starting from uptake 20210726 onwards.
   
   
   
+  
+  
 *  
+  
+**uptake 20210730**: DELP 20210730, **_IHME 20210730_**, IMPE 20210719, LANL 20210725, SRIV 20210730  
+
+.
+  
+* 
   
 **uptake 20210727**: DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727  
   
@@ -8187,6 +8703,13 @@ Graphs for Saskatchewan were added here starting from uptake 20210726 onwards.
   
   
   
+  
+*  
+  
+**uptake 20210730**: DELP 20210730, **_IHME 20210730_**, IMPE 20210719, LANL 20210725, SRIV 20210730  
+
+.
+  
 *  
   
 **uptake 20210727**: DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727  
@@ -8218,6 +8741,13 @@ Graphs for Saskatchewan were added here starting from uptake 20210726 onwards.
 #### graph (9) Saskatchewan - Daily deaths estimated to reported, reference scenarios, 2021
   
   
+  
+  
+*  
+  
+**uptake 20210730**: DELP 20210730, **_IHME 20210730_**, IMPE 20210719, LANL 20210725, SRIV 20210730  
+
+.
   
 *  
   
@@ -8252,7 +8782,14 @@ Graphs for Saskatchewan were added here starting from uptake 20210726 onwards.
   
   
   
+  
 *  
+  
+**uptake 20210730**: DELP 20210730, **_IHME 20210730_**, IMPE 20210719, LANL 20210725, SRIV 20210730  
+
+.
+  
+* 
   
 **uptake 20210727**: DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727  
   
