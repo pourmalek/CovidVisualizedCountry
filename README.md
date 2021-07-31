@@ -954,7 +954,7 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
 5.	Scenarios: Reference scenarios, followed by alternative scenarios
   
-    . To examine the main (aka. status quo) scenario, and alternative (better and worse) scenarios
+    . To examine the main (aka. status quo) scenario, and alternative (better and worse) scenarios; scenarios mentioned [here](https://github.com/pourmalek/CovidVisualizedCountry#scenario-number-within-component-study)
   
 6.	Models: Different models within each graph (for which model estimates update release dates are maximally synchronized), plus official reports of the country to WHO (curated by Johns Hopkins university) as under-reported benchmark for trends 
   
