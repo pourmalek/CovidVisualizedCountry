@@ -936,31 +936,31 @@ _Component studies and their scenarios_ are mentioned below after the selected _
     
 ### Logical order of graphs
 
-1.	Location level: National, followed by provinces for which estimations are available:  Alberta, British Columbia, Manitoba, Nova Scotia, Ontario, Quebec, and Saskatchewan
+1.	_Location levels_: National, followed by provinces for which estimations are available:  Alberta, British Columbia, Manitoba, Nova Scotia, Ontario, Quebec, and Saskatchewan
   
     . To follow prediction for the national level, and further examine if province-level increases are predicted
   
-2.	Uptake date: Most recent uptake, followed by less recent uptakes
+2.	_Uptake date_: Most recent uptake, followed by less recent uptakes
   
     . To examine changes in predictions across consecutive uptakes
   
-3.	Outcomes: Daily deaths, Daily cases or infections, Hospital-related outcomes, Daily deaths estimated to reported, Daily cases or infections estimated to reported cases.
+3.	_Outcomes_: Daily deaths, Daily cases or infections, Hospital-related outcomes, Daily deaths estimated to reported, Daily cases or infections estimated to reported cases.
   
     . To examine different outcomes with different public health consequences and model performance implications
   
-4.	Calendar time of estimates coverage: All-time, followed by 2021
+4.	_Calendar time of estimates coverage_: All-time, followed by 2021
   
     . To view the whole epidemic trajectory, and further focus on near future
   
-5.	Scenarios: Reference scenarios, followed by alternative scenarios
+5.	_Scenarios_: Reference scenarios, followed by alternative scenarios
   
     . To examine the main (aka. status quo) scenario, and alternative (better and worse) scenarios; scenarios mentioned [here](https://github.com/pourmalek/CovidVisualizedCountry#scenario-number-within-component-study)
   
-6.	Models: Different models within each graph (for which model estimates update release dates are maximally synchronized), plus official reports of the country to WHO (curated by Johns Hopkins university) as under-reported benchmark for trends 
+6.	_Five models_: Different models _within_ each graph (for which model estimates update release dates are maximally synchronized), plus official reports of the country to WHO (curated by Johns Hopkins university) as under-reported benchmark for trends 
   
     . To examine how heterogeneity in methods used by different models results in heterogenous results for the same outcome (same time-place-person aggregated units)
   
-7. Graphs for other locations (e.g. Alberta) and other outcomes (e.g., Total deaths) are stored individually in [`/merge/`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20210610/output/merge) directory  https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20210610/output/merge, and stored in a single file ["graphs merge 20210610.pdf"](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210610/graphs%20merge%2020210610.pdf)  https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210610/graphs%20merge%2020210610.pdf (and similar files, e.g., with /[`20210604`](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210604/graphs%20merge%2020210604.pdf)/), where /2021610/ denotes the uptake date. Graphs include all the provinces and territories available in JOHN, DELP, and IHME. Graphs from individual models are stored in study namesake directories, e.g., [`20210610/output/IHME`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20210610/output/IHME)  
+
 
   
   
