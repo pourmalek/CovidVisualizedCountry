@@ -936,7 +936,7 @@ _Component studies and their scenarios_ are mentioned below after the selected _
     
 ### Logical order of graphs
 
-1.	Location level: National, followed by 3 select provinces (two most affected, and BC)
+1.	Location level: National, followed by provinces for which estimations are available:  Alberta, British Columbia, Manitoba, Nova Scotia, Ontario, Quebec, and Saskatchewan
   
     . To follow prediction for the national level, and further examine if province-level increases are predicted
   
