@@ -50,6 +50,7 @@ As of 20210801, the replaced (or version 2) of the IHME update 20210730 has chan
 
 (1) Canada [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210730/output/merge/main/CAN1%2011aDayDeaMERGnat%20alltime%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/127782109-1e1fb2b1-296e-45c7-b69e-6c149cf31dda.png)
 
 ****
 
