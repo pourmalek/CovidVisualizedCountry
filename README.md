@@ -4,7 +4,7 @@
 [![DOI](https://zenodo.org/badge/358416574.svg)](https://zenodo.org/badge/latestdoi/358416574)
 
 
-### Combine and visualize international periodically updating estimates of COVID-19 
+### Combine and visualize international periodically updated estimates of COVID-19 
 
 ### <div align="center"> at the country level, countries with subnational level estimates
 ## <div align="center"> :canada: Canada: national level, provinces and territories
@@ -25,7 +25,7 @@
 
 ********************************************************************************************************************************************
 ********************************************************************************************************************************************
-* Project: Combine and visualize international periodically updating estimates of COVID-19 at the country level (CovidVisualizedCountry)
+* Project: Combine and visualize international periodically updated estimates of COVID-19 at the country level (CovidVisualizedCountry)
   Countries with subnational estimates: Canada
 * Person: Farshad Pourmalek (pourmalek_farshad at yahoo dot com) || [![ORCIDID](https://user-images.githubusercontent.com/30849720/127926326-89321742-cb08-4c18-bbdd-9b0c12e4ab2f.png)](https://orcid.org/0000-0002-2134-0771) || [`PubMed`](https://pubmed.ncbi.nlm.nih.gov/?term=Pourmalek+F&sort=pubdate&size=200)
 * Time (initial): 2021-04-14
@@ -44,7 +44,7 @@
  
 ### Related repositories:
 
-THREE “CovidVisualized” repositories, use a common template and logic for visualization of the results of estimates of FIVE international and periodically updating COVID-19 models for the future of the epidemic:
+THREE “CovidVisualized” repositories, use a common template and logic for visualization of the results of estimates of FIVE international and periodically updated COVID-19 models for the future of the epidemic:
 
 [`CovidVisualizedGlobal`]( https://github.com/pourmalek/CovidVisualizedGlobal) for the [`GLOBAL`](https://github.com/pourmalek/CovidVisualizedGlobal#covidvisualizedglobal) level
 
@@ -83,7 +83,7 @@ The codes in these repositories can be adapted for use for any country or region
 
 ********************************************************************************************************************************************
   
-### Among the 5 available international periodically updating studies or models of COVID-19 pandemic, only TWO studies, DELP and IHME, provide subnational level estimates for some countries. 
+### Among the 5 available international periodically updated studies or models of COVID-19 pandemic, only TWO studies, DELP and IHME, provide subnational level estimates for some countries. 
 
 ### For Canada, DELP and IHME models provide subnational estimates for SEVEN provinces: Alberta, British Columbia, Manitoba, Nova Scotia, Ontario, Quebec, and Saskatchewan.  
   
@@ -692,18 +692,18 @@ The codes in these repositories can be adapted for use for any country or region
 
 **SUMMARY**
   
-Five international and periodically updating models of COVID-19 pandemic are identified and the results of their estimates are gathered, combined, and graphed for the progression of the pandemic at the country level. Periodical releases of these studies’ estimates undergo processing and visualization in this repository.  
+Five international and periodically updated models of COVID-19 pandemic are identified and the results of their estimates are gathered, combined, and graphed for the progression of the pandemic at the country level. Periodical releases of these studies’ estimates undergo processing and visualization in this repository.  
 <br/><br/>
 
   
 **BACKGROUND**
 
-The idea put to work here is to combine and visualize international periodically updating studies / models of COVID-19 pandemic, for the global level. The end result being sharable codes and outputs, for estimates files and graphs, for individual studies, and for combination of them, and repeat the process periodically. 
+The idea put to work here is to combine and visualize international periodically updated studies / models of COVID-19 pandemic, for the global level. The end result being sharable codes and outputs, for estimates files and graphs, for individual studies, and for combination of them, and repeat the process periodically. 
 <br/><br/>
   
 **METHODS**
 
-Eligibility for target (component) studies (models) of COVID-19 pandemic, are set as those that (1) provide estimates for at least one of the four outcomes of interests, i.e., daily deaths, daily incident cases, cumulative (total) deaths, and cumulative (total) incident cases, (2) at the global level, (3) as sum of estimates at the country level, (4) periodically updating into 2021, (5) provide a list of input data and their sources, and (6) provide explanation on methods of using input data and generation of model outputs. 
+Eligibility for target (component) studies (models) of COVID-19 pandemic, are set as those that (1) provide estimates for at least one of the four outcomes of interests, i.e., daily deaths, daily incident cases, cumulative (total) deaths, and cumulative (total) incident cases, (2) at the global level, (3) as sum of estimates at the country level, (4) periodically updated into 2021, (5) provide a list of input data and their sources, and (6) provide explanation on methods of using input data and generation of model outputs. 
 
 Target studies were found via hand search using google. After “Additional file 1 of Rapid review of COVID-19 epidemic estimation studies for Iran”, Page 39, [here](https://s3-eu-west-1.amazonaws.com/pstorage-npg-968563215/26271814/12889_2021_10183_MOESM1_ESM.docx)
 
@@ -728,7 +728,7 @@ Five studies (models) meeting the eligibility criteria: DELP, IHME, IMPE, LANL, 
 . License: https://github.com/COVIDAnalytics/DELPHI/blob/master/LICENSE  
 . Institution: Operations Research Center, Massachusetts Institute of Technology, Cambridge  
 . Among articles: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7883965/ , https://www.medrxiv.org/content/10.1101/2020.06.23.20138693v1, https://www.covidanalytics.io/DELPHI_documentation_pdf  
-. Periodically updating: Yes   
+. Periodically updated: Yes   
 . Periodical updates accessible: No  
   
 (2) IHME
@@ -739,7 +739,7 @@ Five studies (models) meeting the eligibility criteria: DELP, IHME, IMPE, LANL, 
 . License: http://www.healthdata.org/about/terms-and-conditions  
 . Institution: IHME, University of Washington, Seattle   
 . Among articles: https://www.nature.com/articles/s41591-020-1132-9  
-. Periodically updating: Yes  
+. Periodically updated: Yes  
 . Periodical updates accessible: Yes  
   
 (3) IMPE  
@@ -750,7 +750,7 @@ Five studies (models) meeting the eligibility criteria: DELP, IHME, IMPE, LANL, 
 . License: https://github.com/mrc-ide/global-lmic-reports  
 . Institution: Imperial College, London  
 . Among articles: https://science.sciencemag.org/content/369/6502/413  
-. Periodically updating: Yes  
+. Periodically updated: Yes  
 . Periodical updates accessible: Yes  
   
 (4) LANL  
@@ -761,7 +761,7 @@ Five studies (models) meeting the eligibility criteria: DELP, IHME, IMPE, LANL, 
 . License: https://covid-19.bsvgateway.org  
 . Institution: Los Alamos National Laboratories, Los Alamos  
 . Among documents: https://covid-19.bsvgateway.org/static/COFFEE-methodology.pdf  
-. Periodically updating: Yes  
+. Periodically updated: Yes  
 . Periodical updates accessible: Yes  
   
 (5) SRIV  
@@ -772,7 +772,7 @@ Five studies (models) meeting the eligibility criteria: DELP, IHME, IMPE, LANL, 
 . License: https://github.com/scc-usc/ReCOVER-COVID-19/blob/master/LICENSE  
 . Institution: University of Southern California, Los Angeles  
 . Among articles: https://arxiv.org/abs/2007.05180  
-. Periodically updating: Yes  
+. Periodically updated: Yes  
 . Periodical updates accessible: Yes  
   
 (0) JOHN  
@@ -784,7 +784,7 @@ Five studies (models) meeting the eligibility criteria: DELP, IHME, IMPE, LANL, 
 . License: https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series  
 . Institution: Johns Hopkins University, Baltimore  
 . Among articles: Dong E, Du H, Gardner L. An interactive web-based dashboard to track COVID-19 in real time. Lancet Infect Dis. 2020 May;20(5):533-534. doi: 10.1016/S1473-3099(20)30120-1. Epub 2020 Feb 19.  
-. Periodically updating: Yes   
+. Periodically updated: Yes   
 . Periodical updates accessible: Yes  
 <br/><br/>
 
