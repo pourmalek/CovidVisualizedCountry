@@ -10,9 +10,10 @@ If IHME changes its update 20210730, in a way that they are not the same as the 
 
 Predictions of IHME update 20210806 and IHME update 20210730 for global level and for Iran are NOT identical. 
 
-It has been observed recently when IHME releases a new update, the predictions are identical with its previous update, across locations (global, Canada, Iran). After a few days, the same last released update, when processed, is not the same as the previous update. Predications has been really updated. 
+It has been observed recently when IHME releases a new update, the predictions are identical with its previous update, across locations (global, Canada, Iran). After a few days, the same last released update, when processed, is not the same as the previous update, i.e., predications have been _really_ updated. 
 
-This is the first time that a released update is the same as the previous update in one location, and is not the same in other locations. 
+This is the first time that a released IHME update is the same as the previous update in one location (Canada) and is not the same in other locations (global, Iran). 
+
 
 
 <br/><br/>
