@@ -2,6 +2,18 @@
 
 DELP 20210806, **_IHME 20210806_**, IMPE 20210719, LANL 20210801, SRIV 20210801
 
+
+Note: Predictions of IHME update 20210806 and IHME update 20210730 for Canada and its provinces are identical. 
+
+If IHME changes its update 20210730, in a way that they are not the same as the previous update 20210730, they will be processed here. 
+
+Predictions of IHME update 20210806 and IHME update 20210730 for global level and for Iran are NOT identical. 
+
+It has been observed recently when IHME releases a new update, the predictions are identical with its previous update, across locations (global, Canada, Iran). After a few days, the same last released update, when processed, is not the same as the previous update. Predications has been really updated. 
+
+This is the first time that a released update is the same as the previous update in one location, and is not the same in other locations. 
+
+
 <br/><br/>
 
 
