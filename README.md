@@ -106,8 +106,20 @@ The codes in these repositories can be adapted for use for any country or region
 
 #### DELP 20210806 , **_IHME 20210806_**, IMPE 20210719, LANL 20210801, SRIV 20210801
   
-<br/><br/>  
- 
+<br/><br/>
+
+Note: Predictions of IHME update 20210806 and IHME update 20210730 for Canada and its provinces are identical. 
+
+If IHME changes its update 20210730, in a way that they are not the same as the previous update 20210730, they will be processed here. 
+
+Predictions of IHME update 20210806 and IHME update 20210730 for global level and for Iran are NOT identical. 
+
+It has been observed recently when IHME releases a new update, the predictions are identical with its previous update, across locations (global, Canada, Iran). After a few days, the same last released update, when processed, is not the same as the previous update. Predications has been really updated. 
+
+This is the first time that a released update is the same as the previous update in one location, and is not the same in other locations. 
+
+
+<br/><br/> 
 
   
 # :eyes: SEE: [Canada COVID-19 epidemic models situation report No 01 on 20210731](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2001%20on%2020210731.pdf)  
