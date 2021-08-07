@@ -123,7 +123,7 @@ This is the first time that a released IHME update is the same as the previous u
 <br/><br/> 
 
   
-# :eyes: SEE: [Canada COVID-19 epidemic models situation report No 01 on 20210731](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2001%20on%2020210731.pdf)  
+# :eyes: SEE: [Canada COVID-19 epidemic models situation report No 02 on 20210801](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2002%20on%2020210801.pdf)  
   
   
   
