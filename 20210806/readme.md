@@ -2,6 +2,7 @@
 
 DELP 20210806, **_IHME 20210806_**, IMPE 20210719, LANL 20210801, SRIV 20210801
 
+<br/><br/>
 
 Note: Predictions of IHME update 20210806 and IHME update 20210730 for Canada and its provinces are identical. 
 
