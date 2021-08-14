@@ -1163,7 +1163,10 @@ _Component studies and their scenarios_ are mentioned below after the selected _
 <br/><br/>  
   
   
-
+### Selected graphs for Canada national level and provinces are displayed in separate web pages. This facilitates side-by-side comparisons. 
+  
+  
+  
 ### Selected graphs - [Canada](https://github.com/pourmalek/CovidVisualizedCountry#selected-graphs---canada-2)
   
 ### Selected graphs - [Alberta](https://github.com/pourmalek/CovidVisualizedCountry#selected-graphs---alberta-2)
@@ -1181,34 +1184,7 @@ _Component studies and their scenarios_ are mentioned below after the selected _
 ### Selected graphs - [Saskatchewan](https://github.com/pourmalek/CovidVisualizedCountry#selected-graphs---saskatchewan-2)
   
   
-****
-****
-  
-  
-  
 
-### Selected graphs - Canada
-  
-
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-
-
-
-
-
-  
-
-
-  
   
   
 
