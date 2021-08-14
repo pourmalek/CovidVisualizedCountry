@@ -1,8 +1,3 @@
-RESULTS CANADA  
-
-
-
-
 
 ### Selected graphs - Canada
   
