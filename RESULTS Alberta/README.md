@@ -1,10 +1,10 @@
-.
+
 
 ### Selected graphs - Alberta
   
 **** 
 ****  
-****
+
   
   
 #### graph (1) Alberta - Daily deaths, reference scenarios, all time
