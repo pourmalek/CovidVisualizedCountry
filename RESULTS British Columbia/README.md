@@ -3,7 +3,7 @@
   
 **** 
 ****  
-****
+
   
   
 #### graph (1) British Columbia - Daily deaths, reference scenarios, all time
