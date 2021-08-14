@@ -1,6 +1,9 @@
 
 
 ### Selected graphs - Alberta
+
+Graphs for Alberta were added here starting from uptake 20210726 onwards.   
+
   
 **** 
 ****  
@@ -8,13 +11,7 @@
   
   
 #### graph (1) Alberta - Daily deaths, reference scenarios, all time
-  
-****
-****
-  
-Graphs for Alberta were added here starting from uptake 20210726 onwards.   
-  
-  
+
   
 *  
   
