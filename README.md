@@ -1101,25 +1101,25 @@ _Component studies and their scenarios_ are mentioned below after the selected _
   
 ### List of graphs  
   
-[(1) Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry#graph-1-canada---daily-deaths-reference-scenarios-all-time)
+(1) Daily deaths, reference scenarios, all time
 
-[(2) Daily deaths, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry#graph-2-canada---daily-deaths-reference-scenarios-2021)
+(2) Daily deaths, reference scenarios, 2021
   
-[(3) Daily deaths, 3 scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry#graph-3-canada---daily-deaths-3-scenarios-2021)
+(3) Daily deaths, 3 scenarios, 2021
   
-[(4) Daily cases or infections, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry#graph-4-canada---daily-cases-or-infections-reference-scenarios-all-time)
+(4) Daily cases or infections, reference scenarios, all time
+
+(5) Daily cases or infections, reference scenarios, 2021
   
-[(5) Daily cases or infections, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry#graph-5-canada---daily-cases-or-infections-reference-scenarios-2021)
+(6) Daily cases or infections, 3 scenarios, 2021
   
-[(6) Daily cases or infections, 3 scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry#graph-6-british-columbia---daily-cases-or-infections-3-scenarios-2021)
+(7) Hospital-related outcomes, all time
   
-[(7) Hospital-related outcomes, all time](https://github.com/pourmalek/CovidVisualizedCountry#graph-7-british-columbia---hospital-related-outcomes-all-time)
+(8) Hospital-related outcomes, 2021, without IHME Bed need and IMPE Hospital demand
   
-[(8) Hospital-related outcomes, 2021, without IHME Bed need and IMPE Hospital demand](https://github.com/pourmalek/CovidVisualizedCountry#graph-8-british-columbia---hospital-related-outcomes-2021-without-ihme-bed-need-and-impe-hospital-demand)
+(9) Daily deaths estimated to reported, reference scenarios, 2021
   
-[(9) Daily deaths estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry#graph-9-british-columbia---daily-deaths-estimated-to-reported-reference-scenarios-2021)
-  
-[(10) Daily cases or infections estimated to reported cases, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry#graph-10-british-columbia---daily-cases-or-infections-estimated-to-reported-cases-reference-scenarios-2021)
+(10) Daily cases or infections estimated to reported cases, reference scenarios, 2021
 
 ****
     
@@ -1160,16 +1160,19 @@ _Component studies and their scenarios_ are mentioned below after the selected _
 
 ### For Canada, DELP and IHME models provide subnational estimates for SEVEN provinces: Alberta, British Columbia, Manitoba, Nova Scotia, Ontario, Quebec, and Saskatchewan.  
   
+  
 <br/><br/>  
   
   
 ### Selected graphs for Canada national level and provinces are displayed in separate web pages. This facilitates side-by-side comparisons. 
   
-  
+  <br/><br/>  
+
   
 ### Selected graphs - [CANADA](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20CANADA)
   
-  .
+ <br/><br/>  
+
   
 ### Selected graphs - [Alberta](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20Alberta)
     
