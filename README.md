@@ -152,6 +152,19 @@ IMPE update 20210806 (2021-08-06_v8.csv.zip) released on 20210813.
 
 ****
 
+##DELP##: DELPHI. Differential Equations Lead to Predictions of Hospitalizations and Infections. COVID-19 pandemic model named DELPHI developed by Massachusetts Institute of Technology, Cambridge
+  
+##IHME##: Institute for Health Metrics and Evaluation. COVID-19 pandemic model by developed Institute for Health Metrics and Evaluation, Seattle
+  
+##IMPE##: Imperial. COVID-19 pandemic model developed by Imperial College, London
+  
+##JOHN##: Johns Hopkins. Coronavirus resource center, Johns Hopkins University, Baltimore
+  
+##LANL##: Los Alamos National Laboratories. COVID-19 pandemic model developed by Los Alamos National Laboratories, Los Alamos
+  
+##SRIV##: Srivastava, Ajitesh. COVID-19 pandemic model developed by Ajitesh Srivastava, University of Southern California, Los Angeles
+  
+  
 ****
 
 ****
