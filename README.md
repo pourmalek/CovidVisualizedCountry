@@ -153,6 +153,8 @@ IMPE update 20210806 (2021-08-06_v8.csv.zip) released on 20210813.
 ****
   
 Abbreviations used in graphs:  
+  
+(See [Methods and Results](https://github.com/pourmalek/CovidVisualizedCountry#ii-methods-and-results-of-this-work-1) for full details.)
 
 **DELP**: DELPHI. Differential Equations Lead to Predictions of Hospitalizations and Infections. COVID-19 pandemic model named DELPHI developed by Massachusetts Institute of Technology, Cambridge
   
