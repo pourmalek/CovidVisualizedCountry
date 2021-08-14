@@ -21,7 +21,9 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
 
 **uptake 20210813**: DELP 20210813, IHME 20210806, **_IMPE 20210806_**, LANL 20210808, SRIV 20210813  
 
-.
+(1) Manitoba [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210813/output/merge/main/SUB1%2011bDayDeaMERGsub%20alltime%20Manitoba%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios%2C%20all%20time.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/129431352-9ea046db-0745-4327-abaa-784d6b62bd1c.png)
 
 *  
   
@@ -73,7 +75,9 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
 
 **uptake 20210813**: DELP 20210813, IHME 20210806, **_IMPE 20210806_**, LANL 20210808, SRIV 20210813  
 
-.
+(2) Manitoba [Daily deaths, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210813/output/merge/main/SUB2%2012bDayDeaMERGsub%202021%20Manitoba%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios%2C%202021.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/129431366-abfc882c-f213-43a3-b3b2-372ce3485115.png)
 
 *   
   
@@ -125,7 +129,9 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
 
 **uptake 20210813**: DELP 20210813, IHME 20210806, **_IMPE 20210806_**, LANL 20210808, SRIV 20210813  
 
-.
+(3) Manitoba [Daily deaths, 3 scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210813/output/merge/main/SUB3%2014bDayDeaMERGsub%202021%203%20scenarios%20Manitoba%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Manitoba%2C%203%20scenarios%2C%202021.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/129431378-f63a4bfb-80b2-4c25-8d0a-a49ba6a05189.png)
 
 *   
   
@@ -175,7 +181,9 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
 
 **uptake 20210813**: DELP 20210813, IHME 20210806, **_IMPE 20210806_**, LANL 20210808, SRIV 20210813  
 
-.
+(4) Manitoba [Daily cases or infections, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210813/output/merge/main/SUB4%2031bDayCasMERGsub%20alltime%20Manitoba%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/129431393-9535c4b6-1f67-47fc-9995-5b12fe6435bb.png)
 
 *  
   
@@ -226,7 +234,9 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
 
 **uptake 20210813**: DELP 20210813, IHME 20210806, **_IMPE 20210806_**, LANL 20210808, SRIV 20210813  
 
-.
+(5) Manitoba [Daily cases or infections, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210813/output/merge/main/SUB5%2032bDayCasMERGsub%202021%20Manitoba%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios%2C%202021.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/129431405-7b760c97-40e5-4d43-adcb-fd4a5a82e45e.png)
 
 *   
   
@@ -280,7 +290,9 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
 
 **uptake 20210813**: DELP 20210813, IHME 20210806, **_IMPE 20210806_**, LANL 20210808, SRIV 20210813  
 
-.
+(6) Manitoba [Daily cases or infections, 3 scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210813/output/merge/main/SUB6%2034bDayCasMERGsub%202021%203scen%20Manitoba%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Manitoba%2C%203%20scenarios%2C%202021%2C%20uncertainty.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/129433004-3a924405-77a5-483f-8330-cfaa077abdf8.png)
 
 *  
   
@@ -337,7 +349,9 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
 
 **uptake 20210813**: DELP 20210813, IHME 20210806, **_IMPE 20210806_**, LANL 20210808, SRIV 20210813  
 
-.
+(7) Manitoba [Hospital-related outcomes, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210813/output/merge/main/SUB7%2071bDayHosMERGsub%20alltime%20Manitoba%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20Manitoba.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/129433020-676a0461-c0c4-43b7-90c1-b92c202d97a9.png)
 
 *   
   
@@ -393,7 +407,9 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
 
 **uptake 20210813**: DELP 20210813, IHME 20210806, **_IMPE 20210806_**, LANL 20210808, SRIV 20210813  
 
-.
+(8) Manitoba [Hospital-related outcomes, 2021, without IHME Bed need and IMPE Hospital demand](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210813/output/merge/main/SUB8%2073bDayHosMERGsub%202021%20woextremes%20Manitoba%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20Manitoba%2C%20wo%20extremes%2C%202021.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/129433438-bc0f1c0c-fc41-4dad-9883-8bf166155563.png)
 
 *   
   
@@ -448,7 +464,9 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
 
 **uptake 20210813**: DELP 20210813, IHME 20210806, **_IMPE 20210806_**, LANL 20210808, SRIV 20210813  
 
-.
+(9) Manitoba [Daily deaths estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210813/output/merge/main/SUB9%2092bDayDERMERGsub%202021%20Manitoba%20-%20COVID-19%20daily%20deaths%20estimated%20to%20reported%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios%2C%202021.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/129433453-e39d2b91-9d09-4949-ad45-d2947be4446d.png)
 
 *   
   
@@ -504,7 +522,10 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
 
 **uptake 20210813**: DELP 20210813, IHME 20210806, **_IMPE 20210806_**, LANL 20210808, SRIV 20210813  
 
-.
+(10) Manitoba [Daily cases or infections estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210813/output/merge/main/SUB10%2094bDayCERMERGsub%202021%20Manitoba%20-%20COVID-19%20daily%20cases%20estimated%20to%20reported%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios%2C%202021.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/129433460-b2eb89da-724c-4a4b-928d-138d2e2b895f.png)
+
 
 *   
   
