@@ -1,0 +1,233 @@
+{smcl}
+{com}{sf}{ul off}{txt}{.-}
+      name:  {res}<unnamed>
+       {txt}log:  {res}/Users/farshadpourmalek/Downloads/CovidVisualizedCountry-main/20210806/code/IMPE/log CovidVisualizedCountry IMPE.smcl
+  {txt}log type:  {res}smcl
+ {txt}opened on:  {res} 9 Aug 2021, 17:58:52
+{txt}
+{com}. 
+. ***************************************************************************
+. * This is "do CovidVisualizedCountry IMPE.do"
+. 
+. * Project: Combine and visualize international periodically updating 
+. * estimates of COVID-19 at the country level (CovidVisualizedCountry)
+. * Person: Farshad Pourmalek pourmalek_farshad at yahoo dotcom
+. * Time (initial): 2021-04-14
+. ***************************************************************************
+. 
+. 
+.                                                                                                          ***************************
+. * To change update date, find and replace all, 2021-07-19 (old), with 2021-07-19 (new) <<--       <<<--- * change update date here *
+.                                                                                                          ***************************
+. 
+. 
+. clear all
+{txt}
+{com}. 
+. 
+. *****************************
+. 
+. * get IMPE estimates
+. 
+. copy https://raw.githubusercontent.com/mrc-ide/global-lmic-reports/master/data/2021-07-19_v8.csv.zip 2021-07-19_v8.csv.zip
+{txt}
+{com}. unzipfile 2021-07-19_v8.csv.zip, replace
+{res}{txt}    inflating: 2021-07-19_v8.csv
+successfully unzipped 2021-07-19_v8.csv.zip to current directory
+
+{com}. erase 2021-07-19_v8.csv.zip
+{txt}
+{com}. 
+. 
+.  
+. ******************************
+. 
+. * import csv file
+. 
+. import delimited "2021-07-19_v8.csv", clear varnames(1) // * Wait Note: large file size, takes a while ...
+{res}{err}{hline 2}Break{hline 2}
+{txt}{search r(1), local:r(1);}
+
+end of do-file
+{err}{hline 2}Break{hline 2}
+{txt}{search r(1), local:r(1);}
+
+end of do-file
+
+{err}{hline 2}Break{hline 2}
+{txt}{search r(1), local:r(1);}
+
+{com}. do "/Users/farshadpourmalek/Downloads/CovidVisualizedGlobal-main/20210806/code/master/do CovidVisualizedGlobal master.do"
+{txt}
+{com}. 
+. ***************************************************************************
+. * This is "do CovidVisualizedGlobal master.do"
+.                                                                                                           *******************
+. * Project: Combine and visualize international periodically updating                                      * uptake 20210806 *
+. * estimates of COVID-19 at the global level (CovidVisualizedGlobal)                                       *******************
+. * Person: Farshad Pourmalek pourmalek_farshad at yahoo dot com
+. * Time (initial): 2021-04-14
+. ***************************************************************************
+. 
+. 
+.                                                                                                          ***************************
+. * To change uptake date, find and replace all, 20210806 (old), with 20210806 (new) <<--           <<<--- * change uptake date here *
+.                                                                                                          ***************************
+. 
+. 
+. 
+. /* 
+> 
+> This file "do CovidVisualizedGlobal master.do" was set up to be run from:
+>   |Users|local-user-name|Downloads|CovidVisualizedGlobal-main|202YMMDD|code|master|do CovidVisualizedGlobal master.do
+>   where 2021MMDD is the udpate date, e.g. update 20210806
+> 
+> If the first run does not go thru due to directory path clash, edit the contents within " " of the line _59_ or _62_ below, located beneath ****** set path based on local operating system ****** ,,, 
+> ,,, to reflect the location of directory /CovidVisualizedGlobal-main/ or \CovidVisualizedGlobal-main\ on your local machine. Path should be:
+> 
+> 
+> global pathCovidVisualizedGlobal "/Users/`usrnam'/Downloads/CovidVisualizedGlobal-main/202YMMDD/code/" [for Mac]
+> 
+> global pathCovidVisualizedGlobal = "C:\Users\\`usrnam'\Downloads\CovidVisualizedGlobal-main\202YMMDD\code\" [for Windows]
+> 
+> 
+> 
+> It can be moved to and run from anywhere else as far as path requirements are adjusted. 
+> 
+> This code was developed and run using Stata SE 14.2 on MacOS Big Sur 11.2.2 (also ran on same flavour of Stata on Windows 10).
+> 
+> */
+. 
+. 
+. 
+. * setup Stata path by operating system 
+. 
+. set more off 
+{txt}
+{com}. 
+. set mem 1000m // for older versions of Stata
+{txt}{bf:set memory} ignored.
+{p 4 4 2}
+Memory no longer
+needs to be set in modern Statas;
+memory adjustments are performed on the fly
+automatically.
+{p_end}
+
+{com}. 
+. clear all
+{txt}
+{com}. 
+. dis "`c(username)'"
+{res}farshadpourmalek
+{txt}
+{com}. 
+. local usrnam = "`c(username)'"
+{txt}
+{com}. 
+. di "`usrnam'"
+{res}farshadpourmalek
+{txt}
+{com}. 
+. ****** set path based on local operating system ******
+. 
+. if regexm(c(os),"Mac") == 1 {c -(}
+.         global pathCovidVisualizedGlobal "/Users/`usrnam'/Downloads/CovidVisualizedGlobal-main/20210806/code/" 
+. {c )-}
+{txt}
+{com}. else if regexm(c(os),"Windows") {c -(}
+.         global pathCovidVisualizedGlobal = "C:\Users\\`usrnam'\Downloads\CovidVisualizedGlobal-main\20210806\code\"
+. {c )-}
+{txt}
+{com}. *
+. 
+. 
+. cd "$pathCovidVisualizedGlobal"
+{res}/Users/farshadpourmalek/Downloads/CovidVisualizedGlobal-main/20210806/code
+{txt}
+{com}.  
+. cd master
+{res}/Users/farshadpourmalek/Downloads/CovidVisualizedGlobal-main/20210806/code/master
+{txt}
+{com}. 
+. 
+. 
+. 
+. 
+. * preserve native scheme (of the local machine; will be eventually restored at the end of "do CovidVisualizedGlobal merge.do")
+. 
+. di c(scheme)
+{res}_GRSTYLE_
+{txt}
+{com}. 
+. global nativescheme `c(scheme)'
+{txt}
+{com}. 
+. di "$nativescheme"
+{res}_GRSTYLE_
+{txt}
+{com}. 
+. 
+. 
+. * get grstyle for graphs and its dependencies
+. 
+. ssc install grstyle, replace
+{txt}checking {hilite:grstyle} consistency and verifying not already installed...
+all files already exist and are up to date.
+
+{com}. ssc install palettes, replace
+{txt}checking {hilite:palettes} consistency and verifying not already installed...
+all files already exist and are up to date.
+
+{com}. ssc install colrspace, replace
+{txt}checking {hilite:colrspace} consistency and verifying not already installed...
+all files already exist and are up to date.
+
+{com}. 
+. grstyle init
+{res}{txt}
+{com}. set scheme _GRSTYLE_ 
+{txt}
+{com}. grstyle color background white
+{txt}
+{com}. 
+. 
+. 
+. 
+. /* 
+> 
+> List of component studies:
+> 
+> JOHN
+> DELP
+> IHME
+> IMPE
+> LANL
+> SRIV
+> */
+. 
+. 
+. 
+. 
+. * runs the do files for each study and merge them. 
+. 
+. * IF the target server for a given study is temp down, the respective line can be commented out. Edits would then be needed in merge.do, however. 
+. 
+. 
+. do "$pathCovidVisualizedGlobal/JOHN/do CovidVisualizedGlobal JOHN.do" 
+{txt}
+{com}. 
+. clear all
+{txt}
+{com}. 
+. cd "$pathCovidVisualizedGlobal"
+{res}/Users/farshadpourmalek/Downloads/CovidVisualizedGlobal-main/20210806/code
+{txt}
+{com}. 
+. cd JOHN
+{res}/Users/farshadpourmalek/Downloads/CovidVisualizedGlobal-main/20210806/code/JOHN
+{txt}
+{com}. 
+. capture log close 
+{smcl}
+{com}{sf}{ul off}
