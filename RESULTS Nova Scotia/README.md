@@ -18,7 +18,13 @@ Graphs for Nova Scotia were added here starting from uptake 20210726 onwards.
   
   
   
-*  
+*
+
+**uptake 20210813**: DELP 20210813, IHME 20210806, **_IMPE 20210806_**, LANL 20210808, SRIV 20210813  
+
+.
+
+*   
   
 **uptake 20210806**: DELP 20210806 , **_IHME 20210806_**, IMPE 20210719, LANL 20210801, SRIV 20210801  
 
@@ -64,7 +70,13 @@ Graphs for Nova Scotia were added here starting from uptake 20210726 onwards.
   
   
   
-*  
+*
+
+**uptake 20210813**: DELP 20210813, IHME 20210806, **_IMPE 20210806_**, LANL 20210808, SRIV 20210813  
+
+.
+
+*   
   
 **uptake 20210806**: DELP 20210806 , **_IHME 20210806_**, IMPE 20210719, LANL 20210801, SRIV 20210801  
 
@@ -110,6 +122,12 @@ Graphs for Nova Scotia were added here starting from uptake 20210726 onwards.
   
   
   
+*
+
+**uptake 20210813**: DELP 20210813, IHME 20210806, **_IMPE 20210806_**, LANL 20210808, SRIV 20210813  
+
+.
+
 *  
   
 **uptake 20210806**: DELP 20210806 , **_IHME 20210806_**, IMPE 20210719, LANL 20210801, SRIV 20210801  
@@ -155,7 +173,13 @@ Graphs for Nova Scotia were added here starting from uptake 20210726 onwards.
   
   
   
-*  
+*
+
+**uptake 20210813**: DELP 20210813, IHME 20210806, **_IMPE 20210806_**, LANL 20210808, SRIV 20210813  
+
+.
+
+*   
   
 **uptake 20210806**: DELP 20210806 , **_IHME 20210806_**, IMPE 20210719, LANL 20210801, SRIV 20210801  
 
@@ -200,7 +224,13 @@ Graphs for Nova Scotia were added here starting from uptake 20210726 onwards.
 
   
   
-*  
+*
+
+**uptake 20210813**: DELP 20210813, IHME 20210806, **_IMPE 20210806_**, LANL 20210808, SRIV 20210813  
+
+.
+
+*   
   
 **uptake 20210806**: DELP 20210806 , **_IHME 20210806_**, IMPE 20210719, LANL 20210801, SRIV 20210801  
 
@@ -248,7 +278,13 @@ Graphs for Nova Scotia were added here starting from uptake 20210726 onwards.
   
   
   
-*  
+*
+
+**uptake 20210813**: DELP 20210813, IHME 20210806, **_IMPE 20210806_**, LANL 20210808, SRIV 20210813  
+
+.
+
+*   
   
 **uptake 20210806**: DELP 20210806 , **_IHME 20210806_**, IMPE 20210719, LANL 20210801, SRIV 20210801  
 
@@ -299,7 +335,13 @@ Graphs for Nova Scotia were added here starting from uptake 20210726 onwards.
   
   
   
-*  
+*
+
+**uptake 20210813**: DELP 20210813, IHME 20210806, **_IMPE 20210806_**, LANL 20210808, SRIV 20210813  
+
+.
+
+*   
   
 **uptake 20210806**: DELP 20210806 , **_IHME 20210806_**, IMPE 20210719, LANL 20210801, SRIV 20210801  
 
@@ -349,7 +391,13 @@ Graphs for Nova Scotia were added here starting from uptake 20210726 onwards.
   
   
   
-*  
+*
+
+**uptake 20210813**: DELP 20210813, IHME 20210806, **_IMPE 20210806_**, LANL 20210808, SRIV 20210813  
+
+.
+
+*   
   
 **uptake 20210806**: DELP 20210806 , **_IHME 20210806_**, IMPE 20210719, LANL 20210801, SRIV 20210801  
 
@@ -398,7 +446,13 @@ Graphs for Nova Scotia were added here starting from uptake 20210726 onwards.
   
   
   
-*  
+*
+
+**uptake 20210813**: DELP 20210813, IHME 20210806, **_IMPE 20210806_**, LANL 20210808, SRIV 20210813  
+
+.
+
+*   
   
 **uptake 20210806**: DELP 20210806 , **_IHME 20210806_**, IMPE 20210719, LANL 20210801, SRIV 20210801  
 
@@ -449,7 +503,13 @@ Graphs for Nova Scotia were added here starting from uptake 20210726 onwards.
   
   
   
-*  
+*
+
+**uptake 20210813**: DELP 20210813, IHME 20210806, **_IMPE 20210806_**, LANL 20210808, SRIV 20210813  
+
+.
+
+*   
   
 **uptake 20210806**: DELP 20210806 , **_IHME 20210806_**, IMPE 20210719, LANL 20210801, SRIV 20210801  
 
