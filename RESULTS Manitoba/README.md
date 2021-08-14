@@ -1,9 +1,11 @@
 
 ### Selected graphs - Manitoba
+
+Graphs for Manitoba were added here starting from uptake 20210726 onwards. 
   
 **** 
 ****  
-****
+
   
   
 #### graph (1) Manitoba - Daily deaths, reference scenarios, all time
