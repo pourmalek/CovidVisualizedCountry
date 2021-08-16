@@ -15,7 +15,7 @@
   
 #### [Delphi](https://covidanalytics.io/projections), [IHME](https://covid19.healthdata.org/canada?view=daily-deaths&tab=trend), [Imperial college](https://github.com/mrc-ide/global-lmic-reports/tree/master/CAN), [Los Alamos](https://covid-19.bsvgateway.org), and [Srivastava](https://scc-usc.github.io/ReCOVER-COVID-19/#/), 
   
-#### for [daily deaths](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/README.md#2-canada-daily-deaths-reference-scenarios-2021), [daily casesor infections](https://github.com/pourmalek/CovidVisualizedCountry#graph-5-canada---daily-cases-or-infections-reference-scenarios-2021), [hospitalizations](https://github.com/pourmalek/CovidVisualizedCountry#graph-8-british-columbia---hospital-related-outcomes-2021-without-ihme-bed-need-and-impe-hospital-demand)
+#### for [daily deaths](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/README.md#2-canada-daily-deaths-reference-scenarios-2021), [daily cases or infections](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/README.md#5-canada-daily-cases-or-infections-reference-scenarios-2021), [hospitalizations](https://github.com/pourmalek/CovidVisualizedCountry#graph-8-british-columbia---hospital-related-outcomes-2021-without-ihme-bed-need-and-impe-hospital-demand)
   
 #### for Canada: [National level](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20CANADA), [Alberta](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20Alberta), [British Columbia](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20British%20Columbia), [Manitoba](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20Manitoba), [Nova Scotia](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20Nova%20Scotia), [Ontario](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20Ontario), [Quebec](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20Quebec), [Saskatchewan](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20Saskatchewan)
   
@@ -195,13 +195,13 @@ Abbreviations used in graphs:
 
 ****
 
-(4) Canada [Daily cases or infections, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210813/output/merge/main/CAN4%2031aDayCasMERGnat%20alltime%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20National%2C%20reference%20scenarios.pdf)
+#### (4) Canada [Daily cases or infections, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210813/output/merge/main/CAN4%2031aDayCasMERGnat%20alltime%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20National%2C%20reference%20scenarios.pdf)
 
 ![image](https://user-images.githubusercontent.com/30849720/129430852-5f73c42f-9f4f-4f84-8f16-4d82f0bc36a6.png)
 
 ****
 
-#### (5) Canada [Daily cases or infections, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210813/output/merge/main/CAN5%2032aDayCasMERGnat%202021%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%202021.pdf)
+(5) Canada [Daily cases or infections, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210813/output/merge/main/CAN5%2032aDayCasMERGnat%202021%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%202021.pdf)
 
 ![image](https://user-images.githubusercontent.com/30849720/129430878-7d20affa-3f50-4b33-a2fe-121361ad5356.png)
 
