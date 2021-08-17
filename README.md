@@ -1040,7 +1040,7 @@ _Component studies and their scenarios_ are mentioned below after the selected _
 ### Scenario number within component study
 
 
-[Names within brackets assigned by this review study.]
+[Names within brackets assigned by this project.]
 
 #### A00 JOHN
 * S00 = [Not Applicable]
@@ -1079,7 +1079,7 @@ _Component studies and their scenarios_ are mentioned below after the selected _
 ### uptakes in this repository, since April 2021 
 
 
-**bold fonts** show the uptake was triggered by IHME or IMPE. 
+**_bold italic fonts_** show the uptake was triggered by either IHME or IMPE. 
 
 .
 
