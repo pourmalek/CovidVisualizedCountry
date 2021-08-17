@@ -1060,6 +1060,7 @@ _Component studies and their scenarios_ are mentioned below.
 * S01 = Additional 50% Reduction [Best]	
 * S02 = Current level of interventions [Reference] 			
 * S03 = Relax Interventions 50% [Worst]
+  
   . additional alternate scenarios:
 * S04 = Surged Additional 50% Reduction [Best, Surged]
 * S05 = Surged Maintain Status Quo [Reference, Surged] 	
