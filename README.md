@@ -798,10 +798,10 @@ Five international and periodically updated models of the COVID-19 pandemic were
 . Among articles: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7883965/ , https://www.medrxiv.org/content/10.1101/2020.06.23.20138693v1, https://www.covidanalytics.io/DELPHI_documentation_pdf  
 . Periodically updated: Yes   
 . Periodical updates accessible: Yes
-  
 <br/><br/>
   
 (2) IHME
+  
 . IHME = Institute for Health Metrics and Evaluation  
 . Citation: Institute for Health Metrics and Evaluation (IHME). COVID-19 mortality, infection, testing, hospital resource use, and social distancing projections. Seattle: Institute for Health Metrics and Evaluation (IHME), University of Washington. http://www.healthdata.org/covid  
 . Study web site: http://www.healthdata.org/covid  
@@ -811,7 +811,6 @@ Five international and periodically updated models of the COVID-19 pandemic were
 . Among articles: https://www.nature.com/articles/s41591-020-1132-9  
 . Periodically updated: Yes  
 . Periodical updates accessible: Yes  
-  
 <br/><br/>
   
 (3) IMPE  
@@ -824,7 +823,6 @@ Five international and periodically updated models of the COVID-19 pandemic were
 . Among articles: https://science.sciencemag.org/content/369/6502/413  
 . Periodically updated: Yes  
 . Periodical updates accessible: Yes    
-  
 <br/><br/>
   
 (4) LANL  
@@ -837,7 +835,6 @@ Five international and periodically updated models of the COVID-19 pandemic were
 . Among documents: https://covid-19.bsvgateway.org/static/COFFEE-methodology.pdf  
 . Periodically updated: Yes  
 . Periodical updates accessible: Yes  
-  
 <br/><br/>
   
 (5) SRIV  
@@ -850,7 +847,6 @@ Five international and periodically updated models of the COVID-19 pandemic were
 . Among articles: https://arxiv.org/abs/2007.05180  
 . Periodically updated: Yes  
 . Periodical updates accessible: Yes  
-  
 <br/><br/>
   
 (0) JOHN  
