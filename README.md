@@ -7,7 +7,7 @@
 ### Combine and visualize international periodically updated estimates of COVID-19 
 
 ### <div align="center"> at the country level, countries with subnational level estimates
-## <div align="center"> :canada: Canada: national level, provinces and territories
+## <div align="center"> :canada: Canada: national level and provinces
   
   *****************************
   
