@@ -1119,6 +1119,9 @@ _Component studies and their scenarios_ are mentioned below.
 ********************************************************************************************************************************************
 
 ## IV. SELECTED GRAPHS FROM PREVIOUS UPTAKES
+
+## Selected graphs for Canada national level and provinces are displayed in separate web pages, _links to which are also provided below_. This facilitates side-by-side comparisons across provinces and the national level.   
+  
   
 ### List of graphs  
   
@@ -1184,10 +1187,7 @@ _Component studies and their scenarios_ are mentioned below.
   
 <br/><br/>  
   
-  
-## Selected graphs for Canada national level and provinces are displayed in separate web pages, _links to which are also provided below_. This facilitates side-by-side comparisons across provinces and the national level. 
-  
-  <br/><br/>  
+
 
   
 ### Selected graphs - [CANADA](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20CANADA)
