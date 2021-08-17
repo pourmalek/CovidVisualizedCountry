@@ -1029,7 +1029,7 @@ Preproduced _outputs_ are stored for each uptake, e.g., [`20210709`](https://git
 
 Selected _graphs_ are shown below. 
 
-_Component studies and their scenarios_ are mentioned below after the selected _graphs_.
+_Component studies and their scenarios_ are mentioned below.
 
 [`Variable name structure`](https://github.com/pourmalek/covir2/blob/main/Variable%20name%20structure.md)
 
