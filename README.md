@@ -1185,7 +1185,7 @@ _Component studies and their scenarios_ are mentioned below.
 <br/><br/>  
   
   
-## Selected graphs for Canada national level and provinces are displayed in separate web pages, _links to which are provided below_. This facilitates side-by-side comparisons across provinces and the national level. 
+## Selected graphs for Canada national level and provinces are displayed in separate web pages, _links to which are also provided below_. This facilitates side-by-side comparisons across provinces and the national level. 
   
   <br/><br/>  
 
