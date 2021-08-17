@@ -789,6 +789,7 @@ Five international and periodically updated models of the COVID-19 pandemic were
 <br/><br/>
  
 (1) DELP  
+  
 . DELP = DELPHI: Differential Equations Lead to Predictions of Hospitalizations and Infections  
 . Citation: COVID Analytics. DELPHI epidemiological case predictions. Cambridge: Operations Research Center, Massachusetts Institute of Technology. https://www.covidanalytics.io/projections  
 . Study website: https://www.covidanalytics.io/projections  
@@ -814,6 +815,7 @@ Five international and periodically updated models of the COVID-19 pandemic were
 <br/><br/>
   
 (3) IMPE  
+  
 . IMPE = Imperial College  
 . Citation: MRC Centre for Global Infectious Disease Analysis (MRC GIDA). Future scenarios of the healthcare burden of COVID-19 in low- or middle-income countries. London: MRC Centre for Global Infectious Disease Analysis, Imperial College London. https://mrc-ide.github.io/global-lmic-reports/  
 . Study web site: https://mrc-ide.github.io/global-lmic-reports/  
@@ -826,6 +828,7 @@ Five international and periodically updated models of the COVID-19 pandemic were
 <br/><br/>
   
 (4) LANL  
+  
 . LANL = Los Alamos National Laboratories  
 . Citation: Los Alamos National Laboratory (LANL). COVID-19 cases and deaths forecasts. Los Alamos: Los Alamos National Laboratory (LANL). https://covid-19.bsvgateway.org  
 . Study web site: https://covid-19.bsvgateway.org  
@@ -838,6 +841,7 @@ Five international and periodically updated models of the COVID-19 pandemic were
 <br/><br/>
   
 (5) SRIV  
+  
 . SRIV = Srivastava, Ajitesh  
 . Citation: University of Southern California (USC). COVID-19 forecast. Los Angeles: University of Southern California. https://scc-usc.github.io/ReCOVER-COVID-19  
 . Study web site: https://scc-usc.github.io/ReCOVER-COVID-19/  
@@ -850,6 +854,7 @@ Five international and periodically updated models of the COVID-19 pandemic were
 <br/><br/>
   
 (0) JOHN  
+  
 . JOHN = Johns Hopkins University. Coronavirus resource center. https://coronavirus.jhu.edu  
 . Not a target study, but a benchmark for comparison.  
 . Citation: "COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University"  
