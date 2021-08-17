@@ -797,8 +797,10 @@ Five international and periodically updated models of the COVID-19 pandemic were
 . Institution: Operations Research Center, Massachusetts Institute of Technology, Cambridge  
 . Among articles: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7883965/ , https://www.medrxiv.org/content/10.1101/2020.06.23.20138693v1, https://www.covidanalytics.io/DELPHI_documentation_pdf  
 . Periodically updated: Yes   
-. Periodical updates accessible: Yes    
+. Periodical updates accessible: Yes
+  
 <br/><br/>
+  
 (2) IHME
 . IHME = Institute for Health Metrics and Evaluation  
 . Citation: Institute for Health Metrics and Evaluation (IHME). COVID-19 mortality, infection, testing, hospital resource use, and social distancing projections. Seattle: Institute for Health Metrics and Evaluation (IHME), University of Washington. http://www.healthdata.org/covid  
@@ -809,7 +811,9 @@ Five international and periodically updated models of the COVID-19 pandemic were
 . Among articles: https://www.nature.com/articles/s41591-020-1132-9  
 . Periodically updated: Yes  
 . Periodical updates accessible: Yes  
+  
 <br/><br/>
+  
 (3) IMPE  
 . IMPE = Imperial College  
 . Citation: MRC Centre for Global Infectious Disease Analysis (MRC GIDA). Future scenarios of the healthcare burden of COVID-19 in low- or middle-income countries. London: MRC Centre for Global Infectious Disease Analysis, Imperial College London. https://mrc-ide.github.io/global-lmic-reports/  
@@ -820,7 +824,9 @@ Five international and periodically updated models of the COVID-19 pandemic were
 . Among articles: https://science.sciencemag.org/content/369/6502/413  
 . Periodically updated: Yes  
 . Periodical updates accessible: Yes    
+  
 <br/><br/>
+  
 (4) LANL  
 . LANL = Los Alamos National Laboratories  
 . Citation: Los Alamos National Laboratory (LANL). COVID-19 cases and deaths forecasts. Los Alamos: Los Alamos National Laboratory (LANL). https://covid-19.bsvgateway.org  
@@ -830,8 +836,10 @@ Five international and periodically updated models of the COVID-19 pandemic were
 . Institution: Los Alamos National Laboratories, Los Alamos  
 . Among documents: https://covid-19.bsvgateway.org/static/COFFEE-methodology.pdf  
 . Periodically updated: Yes  
-. Periodical updates accessible: Yes    
+. Periodical updates accessible: Yes  
+  
 <br/><br/>
+  
 (5) SRIV  
 . SRIV = Srivastava, Ajitesh  
 . Citation: University of Southern California (USC). COVID-19 forecast. Los Angeles: University of Southern California. https://scc-usc.github.io/ReCOVER-COVID-19  
@@ -841,8 +849,10 @@ Five international and periodically updated models of the COVID-19 pandemic were
 . Institution: University of Southern California, Los Angeles  
 . Among articles: https://arxiv.org/abs/2007.05180  
 . Periodically updated: Yes  
-. Periodical updates accessible: Yes    
+. Periodical updates accessible: Yes  
+  
 <br/><br/>
+  
 (0) JOHN  
 . JOHN = Johns Hopkins University. Coronavirus resource center. https://coronavirus.jhu.edu  
 . Not a target study, but a benchmark for comparison.  
