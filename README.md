@@ -81,7 +81,7 @@ The codes in these repositories can be adapted for use for any country or region
 
 ### [III. INNER WORKS OF THIS REPOSITORY](https://github.com/pourmalek/CovidVisualizedCountry#iii-inner-works-of-this-repository-1)
 
-### [IV. SELCTED GRAPHS FROM PREVIOUS UPTAKES](https://github.com/pourmalek/CovidVisualizedCountry#iv-selcted-graphs-from-previous-uptakes-1)
+### [IV. SELECTED GRAPHS FROM PREVIOUS UPTAKES](https://github.com/pourmalek/CovidVisualizedCountry#iv-selcted-graphs-from-previous-uptakes-1)
 
 ********************************************************************************************************************************************
 
@@ -1130,7 +1130,7 @@ _Component studies and their scenarios_ are mentioned below.
 ********************************************************************************************************************************************
 ********************************************************************************************************************************************
 
-## IV. SELCTED GRAPHS FROM PREVIOUS UPTAKES
+## IV. SELECTED GRAPHS FROM PREVIOUS UPTAKES
   
 ### List of graphs  
   
@@ -1197,7 +1197,7 @@ _Component studies and their scenarios_ are mentioned below.
 <br/><br/>  
   
   
-### Selected graphs for Canada national level and provinces are displayed in separate web pages, links to which are provided below. This facilitates side-by-side comparisons across provinces and the national level. 
+## Selected graphs for Canada national level and provinces are displayed in separate web pages, links to which are provided below. This facilitates side-by-side comparisons across provinces and the national level. 
   
   <br/><br/>  
 
