@@ -1183,7 +1183,6 @@ _Component studies and their scenarios_ are mentioned below.
   
 ### Selected graphs - [CANADA](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20CANADA)
   
- <br/><br/>  
  
 ### Selected graphs - [Alberta](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20Alberta)
     
