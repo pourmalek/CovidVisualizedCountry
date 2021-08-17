@@ -1120,8 +1120,13 @@ _Component studies and their scenarios_ are mentioned below.
 
 ## IV. SELECTED GRAPHS FROM PREVIOUS UPTAKES
 
-## Selected graphs for Canada national level and provinces are displayed in separate web pages, _links to which are also provided below_. This facilitates side-by-side comparisons across provinces and the national level.   
+## Selected graphs for Canada national level and provinces are displayed in separate web pages, _links to which are provided below_. This facilitates side-by-side comparisons across provinces and the national level.   
   
+### Among the 5 available international periodically updated studies or models of COVID-19 pandemic, only TWO studies, DELP and IHME, provide subnational level estimates for some countries. 
+
+### For Canada, DELP and IHME models provide subnational estimates for SEVEN provinces: Alberta, British Columbia, Manitoba, Nova Scotia, Ontario, Quebec, and Saskatchewan.    
+  
+****
   
 ### List of graphs  
   
@@ -1173,28 +1178,13 @@ _Component studies and their scenarios_ are mentioned below.
   
     . To examine how heterogeneity in methods used by different models results in heterogenous results for the same outcome (same time-place-person aggregated units)
   
-
-
-  
-  
-  
-<br/><br/>
-  
-### Among the 5 available international periodically updated studies or models of COVID-19 pandemic, only TWO studies, DELP and IHME, provide subnational level estimates for some countries. 
-
-### For Canada, DELP and IHME models provide subnational estimates for SEVEN provinces: Alberta, British Columbia, Manitoba, Nova Scotia, Ontario, Quebec, and Saskatchewan.  
-  
-  
-<br/><br/>  
-  
-
+****
 
   
 ### Selected graphs - [CANADA](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20CANADA)
   
  <br/><br/>  
-
-  
+ 
 ### Selected graphs - [Alberta](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20Alberta)
     
 ### Selected graphs - [British Columbia](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20British%20Columbia)  
