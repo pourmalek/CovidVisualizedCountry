@@ -950,6 +950,48 @@ _Automatized data acquisition_: The Stata codes in these repositories automatica
 
  
 <br/><br/>
+  
+  
+<br/><br/>
+  
+  
+**DELERATIONS**  
+  
+<br/><br/>
+  
+  
+**Ethics approval and consent to participate**
+
+All the used and produced data are at non-individual and aggregate level; publicly available on the Internet; and under pertinent licenses and copyrights for non-commercial use, reproduction, and distribution for scientific research, provided that the conditions mentioned in their respective licenses and copyrights are met, as provided in [23]. Therefore, no ethics approval or consent to participate were applicable.  
+  
+<br/><br/>
+  
+**Consent for publication**
+
+Not applicable.
+  
+<br/><br/>
+
+**Availability of data and materials**
+
+The data described in this Data note can be freely and openly accessed on (1) GitHub repository “CovidVisualizedGlobal” under (http://doi.org/10.5281/zenodo.5019030) [13], (2) GitHub repository “CovidVisualizedCountry” under (http://doi.org/10.5281/zenodo.5019482) [14], and (3) GitHub repository “covir2” under (http://doi.org/10.5281/zenodo.5020797) [15]. Please see table 1 and references [13-15] for details and links to the data.  
+
+<br/><br/>
+  
+**Competing interests**
+
+The author worked as a [post-graduate research fellow in Institute for Health Metrics and Evaluation](http://www.healthdata.org/about/farshad-pourmalek) from 2009 to 2011 and continues voluntary collaboration as a Global Burden of Disease study collaborator without employment or financial relation. The author declares that he has no competing interests.  
+  
+<br/><br/>
+  
+**Funding**
+
+There were no sources of funding for this research.  
+
+<br/><br/>
+  
+  
+  
  
 **References**
 
@@ -1000,12 +1042,6 @@ _Automatized data acquisition_: The Stata codes in these repositories automatica
 23. Pourmalek, F. GitHub repository “covir2”: Combine and visualize international periodically updated estimates of COVID-19 at the country level, countries without subnational level estimates: Iran. Version 2.2, Released June 23, 2021. Licenses / Copyrights of data and/or graphs used in this repository. http://doi.org/10.5281/zenodo.5020797 https://github.com/pourmalek/covir2#licenses--copyrights-of-data-and--or-graphs-used-in-this-repository Accessed 23 June 2021.
   
   
-<br/><br/>
-  
-  
-**Competing interests**
-
-The author worked as a [post-graduate research fellow in Institute for Health Metrics and Evaluation](http://www.healthdata.org/about/farshad-pourmalek) from 2009 to 2011 and continues voluntary collaboration as a Global Burden of Disease study collaborator without employment or financial relation. The author declares that he has no competing interests.  
 
 
 ********************************************************************************************************************************************
