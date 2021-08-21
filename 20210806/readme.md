@@ -14,6 +14,8 @@ It has been observed recently when IHME releases a new update, the predictions a
 
 This is the first time that a released IHME update is the same as the previous update in one location (Canada) and is not the same in other locations (global, Iran). 
 
+IHME update 20210806 creates directory 2021_08_04 with web address https://ihmecovid19storage.blob.core.windows.net/latest/ihme-covid19.zip when downloaded on 20210820 1800 PST.
+
 
 
 <br/><br/>
