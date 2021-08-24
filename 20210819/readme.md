@@ -112,11 +112,13 @@ This update 20210806 of IMPE is dead at birth FOR IRAN. See graph for Iran here:
 
 (11) Canada and provinces [Daily death rates, reference scenario, all time, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210819/output/merge/main/CAN11%2019aDayDeaRATE%20alltime%20IHME%20-%20COVID-19%20daily%20death%20rate%2C%20Canada%2C%20subnational%2C%20IHME%2C%20reference%20scenario.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/130560039-6f6ae4a3-3e67-4096-8dd9-99fea467611d.png)
 
 ****
 
 (12) Canada and provinces [Daily death rates, reference scenario, 2021 IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210819/output/merge/main/CAN12%2019aDayDeaRATE%2001jul2021%20on%20IHME%20-%20COVID-19%20daily%20death%20rate%2C%20Canada%2C%20subnational%2C%20IHME%2C%20reference%20scenario.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/130560064-62faa0e2-4a2d-473f-b8d8-cdb0a04604dd.png)
 
 
 
