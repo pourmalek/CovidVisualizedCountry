@@ -22,7 +22,9 @@ Graphs for Nova Scotia were added here starting from uptake 20210726 onwards.
 
 **uptake 20210824**: DELP 20210824, IHME 20210819, **_IMPE 20210819_**, LANL 20210822, SRIV 20210824
 
-.
+(1) British Columbia [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210824/output/merge/main/SUB1%2011bDayDeaMERGsub%20alltime%20British%20Columbia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%20all%20time.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/130874214-849d746e-f6f7-4bc5-8bc3-b634d687b442.png)
 
 *
 
@@ -90,7 +92,7 @@ Graphs for Nova Scotia were added here starting from uptake 20210726 onwards.
 
 **uptake 20210824**: DELP 20210824, IHME 20210819, **_IMPE 20210819_**, LANL 20210822, SRIV 20210824
 
-.
+
 
 *
 
@@ -158,7 +160,7 @@ Graphs for Nova Scotia were added here starting from uptake 20210726 onwards.
 
 **uptake 20210824**: DELP 20210824, IHME 20210819, **_IMPE 20210819_**, LANL 20210822, SRIV 20210824
 
-.
+
 
 *
 
