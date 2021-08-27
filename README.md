@@ -9,7 +9,21 @@
 ### <div align="center"> at the country level, countries with subnational level estimates
 ## <div align="center"> :canada: Canada: national level and provinces
   
-  *****************************
+  
+*****************************
+  
+  
+## TOC
+
+### [I. SELECTED GRAPHS FROM LATEST UPTAKE](https://github.com/pourmalek/CovidVisualizedCountry#i-selcted-graphs-from-latest-uptake)
+
+### [II. METHODS AND RESULTS OF THIS WORK](https://github.com/pourmalek/CovidVisualizedCountry#ii-methods-and-results-of-this-work-1)
+
+### [III. INNER WORKS OF THIS REPOSITORY](https://github.com/pourmalek/CovidVisualizedCountry#iii-inner-works-of-this-repository-1)
+
+### [IV. SELECTED GRAPHS FROM PREVIOUS UPTAKES](https://github.com/pourmalek/CovidVisualizedCountry#iv-selected-graphs-from-previous-uptakes-1)
+  
+*****************************
   
 #### :eyes: SEE graphs, code, and data of periodical updates of COVID-19 pandemic models’ estimates: 
   
@@ -73,15 +87,7 @@ The codes in these repositories can be adapted for use for any country or region
 
   
   
-## TOC
 
-### [I. SELECTED GRAPHS FROM LATEST UPTAKE](https://github.com/pourmalek/CovidVisualizedCountry#i-selcted-graphs-from-latest-uptake)
-
-### [II. METHODS AND RESULTS OF THIS WORK](https://github.com/pourmalek/CovidVisualizedCountry#ii-methods-and-results-of-this-work-1)
-
-### [III. INNER WORKS OF THIS REPOSITORY](https://github.com/pourmalek/CovidVisualizedCountry#iii-inner-works-of-this-repository-1)
-
-### [IV. SELECTED GRAPHS FROM PREVIOUS UPTAKES](https://github.com/pourmalek/CovidVisualizedCountry#iv-selected-graphs-from-previous-uptakes-1)
 
 ********************************************************************************************************************************************
 
