@@ -155,7 +155,8 @@ preserve a graphical copy of previously accessed the Imperial College COVID-19 m
 
 * Data version of previously accessed Imperial College COVID-19 model/study removed updates are not stored in CovidVisualizedCountry repository 
 due to very large file size. 
-This hampers retrospective longitudinal assessment of the predictive performance of this model for Canada. 
+Removal of Imperial College COVID-19 model/study "old fits" hampers retrospective longitudinal assessment of the predictive performance of Imperial model, 
+as a side effect or main effect. 
 
 
 
