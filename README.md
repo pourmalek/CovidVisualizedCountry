@@ -1075,7 +1075,7 @@ The remedy for CovidVisualized repositories (https://github.com/pourmalek/covir2
 <br/><br/> 
 
  
-To -comment out-, 
+* To -comment out-, 
 
 For https://github.com/pourmalek/CovidVisualizedCountry,
 
@@ -1094,6 +1094,12 @@ put // at the beginning of the line, so that it reads as:
 // do "$pathCovidVisualizedGlobal/IMPE/do CovidVisualizedGlobal IMPE.do"
 
 save the do file and then run the file.
+  
+* However, the previously stored results, such as the graphs stored in CovidVisualizedCountry-main/20210401/output/merge/*.pdf and CovidVisualizedCountry-main/20210401/output/IMPE/*.pdf preserve a graphical copy of previously accessed the Imperial College COVID-19 model/study removed updates.
+
+* Data version of previously accessed Imperial College COVID-19 model/study removed updates are not stored in CovidVisualizedCountry repository 
+due to very large file size. This hampers retrospective longitudinal assessment of the predictive performance of this model for Canada. 
+  
  
 <br/><br/> 
   
