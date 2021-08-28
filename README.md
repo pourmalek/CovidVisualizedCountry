@@ -1098,7 +1098,7 @@ save the do file and then run the file.
 * However, the previously stored results, such as the graphs stored in "CovidVisualizedCountry-main/20210401/output/merge/asterisk.pdf" and "CovidVisualizedCountry-main/20210401/output/IMPE/asterisk.pdf" preserve a graphical copy of previously accessed the Imperial College COVID-19 model/study removed updates.
 
 * Data version of previously accessed Imperial College COVID-19 model/study removed updates are not stored in CovidVisualizedCountry repository 
-due to very large file size. This hampers retrospective longitudinal assessment of the predictive performance of this model for Canada. 
+due to very large file size. Removal of Imperial College COVID-19 model/study "old fits" hampers retrospective longitudinal assessment of the predictive performance of Imperial model, as a side effect or main effect. 
   
  
 <br/><br/> 
