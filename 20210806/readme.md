@@ -21,6 +21,22 @@ IHME update 20210806 creates directory 2021_08_04 with web address https://ihmec
 <br/><br/>
 
 
+* IMPE model "old fits" are gone
+
+On 20210824, the Imperial College COVID-19 model/study removed their "old fits" – all previously released updates from day 1 up to and including IMPE update 20210719. As of 20210824, the IMPE update 20210806 is the earliest IMPE update available at https://github.com/mrc-ide/global-lmic-reports/tree/master/data. IMPE update 20210719 and earlier are no longer available.
+
+This means the Imperial College COVID-19 model/study is no more a periodically updated study with ACCESSIBLE updates.
+
+Shooting this trouble IMPE model includes -// commenting out- the line
+
+do "$pathCovidVisualizedCountry/IMPE/do CovidVisualizedCountry IMPE.do" 
+
+in /Users/username/Downloads/CovidVisualizedCountry-main/20210806/code/master/do CovidVisualizedCountry master.do
+
+and dates 2021???? before 20210806.
+
+<br/><br/>
+
 ****
 ****
 
