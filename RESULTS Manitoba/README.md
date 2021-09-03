@@ -21,7 +21,9 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
 
 **uptake 20210901**: DELP 20210901, IHME 20210826, **_IMPE 20210825_**, LANL 20210829, SRIV 20210901
 
+(1) Manitoba [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210901/output/merge/main/SUB1%2011bDayDeaMERGsub%20alltime%20Manitoba%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/131925911-c3b93340-d7c8-41d7-a607-1f155d318f90.png)
 
 *
 
@@ -105,7 +107,9 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
 
 **uptake 20210901**: DELP 20210901, IHME 20210826, **_IMPE 20210825_**, LANL 20210829, SRIV 20210901
 
+(2) Manitoba [Daily deaths, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210901/output/merge/main/SUB2%2012bDayDeaMERGsub%202021%20Manitoba%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/131925960-261c7585-1cf8-49b4-a86d-93a004ada4fe.png)
 
 *
 
@@ -189,7 +193,9 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
 
 **uptake 20210901**: DELP 20210901, IHME 20210826, **_IMPE 20210825_**, LANL 20210829, SRIV 20210901
 
+(3) Manitoba [Daily deaths, 3 scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210901/output/merge/main/SUB3%2014bDayDeaMERGsub%202021%203%20scenarios%20Manitoba%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Manitoba%2C%203%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/131926018-d2ae60dc-3386-4d19-9b28-86bb5cd4b6a2.png)
 
 *
 
@@ -271,7 +277,9 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
 
 **uptake 20210901**: DELP 20210901, IHME 20210826, **_IMPE 20210825_**, LANL 20210829, SRIV 20210901
 
+(4) Manitoba [Daily cases or infections, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210901/output/merge/main/SUB4%2031bDayCasMERGsub%20alltime%20Manitoba%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/131926069-1819d3bf-9253-449a-8d65-7c2649ac353b.png)
 
 *
 
@@ -354,7 +362,9 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
 
 **uptake 20210901**: DELP 20210901, IHME 20210826, **_IMPE 20210825_**, LANL 20210829, SRIV 20210901
 
+(5) Manitoba [Daily cases or infections, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210901/output/merge/main/SUB5%2032bDayCasMERGsub%202021%20Manitoba%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/131926119-b54c10fc-f284-4577-b623-9e162db496dc.png)
 
 *
 
@@ -440,7 +450,9 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
 
 **uptake 20210901**: DELP 20210901, IHME 20210826, **_IMPE 20210825_**, LANL 20210829, SRIV 20210901
 
+(6) Manitoba [Daily cases or infections, 3 scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210901/output/merge/main/SUB6%2034bDayCasMERGsub%202021%203scen%20Manitoba%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Manitoba%2C%203%20scenarios%2C%202021%2C%20uncertainty.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/131926176-af19857c-e578-4cc8-9bfc-9513570018fa.png)
 
 *
 
@@ -529,7 +541,9 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
 
 **uptake 20210901**: DELP 20210901, IHME 20210826, **_IMPE 20210825_**, LANL 20210829, SRIV 20210901
 
+(7) Manitoba [Hospital-related outcomes, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210901/output/merge/main/SUB7%2071bDayHosMERGsub%20alltime%20Manitoba%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20Manitoba.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/131926225-329654b9-db6c-4b4f-9d12-470cf49a0dc3.png)
 
 *
 
@@ -617,7 +631,9 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
 
 **uptake 20210901**: DELP 20210901, IHME 20210826, **_IMPE 20210825_**, LANL 20210829, SRIV 20210901
 
+(8) Manitoba [Hospital-related outcomes, 2021, without IHME Bed need and IMPE Hospital demand](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210901/output/merge/main/SUB8%2073bDayHosMERGsub%202021%20woextremes%20Manitoba%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20Manitoba%2C%20wo%20extremes%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/131926288-47dc82f8-0a9c-4e72-89b4-379d76cd24ad.png)
 
 *
 
@@ -704,7 +720,9 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
 
 **uptake 20210901**: DELP 20210901, IHME 20210826, **_IMPE 20210825_**, LANL 20210829, SRIV 20210901
 
+(9) Manitoba [Daily deaths estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210901/output/merge/main/SUB9%2092bDayDERMERGsub%202021%20Manitoba%20-%20COVID-19%20daily%20deaths%20estimated%20to%20reported%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/131926323-0557b066-8c8a-4ec0-89f2-4f9a0e3008c3.png)
 
 *
 
@@ -792,7 +810,9 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
 
 **uptake 20210901**: DELP 20210901, IHME 20210826, **_IMPE 20210825_**, LANL 20210829, SRIV 20210901
 
+(10) Manitoba [Daily cases or infections estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210901/output/merge/main/SUB10%2094bDayCERMERGsub%202021%20Manitoba%20-%20COVID-19%20daily%20cases%20estimated%20to%20reported%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/131926369-c1f0d684-c7c0-443a-b159-b642e5ad94e9.png)
 
 *
 
