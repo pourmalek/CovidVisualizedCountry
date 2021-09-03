@@ -120,7 +120,7 @@ DELP 20210901, IHME 20210826, **_IMPE 20210825_**, LANL 20210829, SRIV 20210901
 ********************************************************************************************************************************************
 
   
-# :eyes: SEE: [Canada COVID-19 epidemic models situation report No 05 - 2021-08-28](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/05%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2005%20-%202021-08-28.pdf)  
+# :eyes: SEE: [Canada COVID-19 epidemic models situation report No 06 - 2021-09-01](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/06%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2006%20-%202021-09-01.pdf)  
   
 ********************************************************************************************************************************************
   
