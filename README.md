@@ -1,5 +1,7 @@
 # CovidVisualizedCountry
 
+## Just have a look at the [latest Situation report](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/06%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2006%20-%202021-09-01.pdf) if you have a very important and serious job and no time to lose. 
+
 For a streamlined view of this repository, see: https://pourmalek.github.io/CovidVisualizedCountry/ 
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) 
