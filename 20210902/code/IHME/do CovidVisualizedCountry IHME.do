@@ -809,7 +809,7 @@ twoway ///
 (line DayDeaMeSmA02S01XQC date, sort lwidth(medium) lcolor(black)) /// 8 "QC" black
 (line DayDeaMeSmA02S01XSK date, sort lwidth(medium) lcolor(orange)) /// 9 "SK" orange
 (line DayDeaMeSmA02S01XXX date, sort lwidth(thick) lcolor(gray)) /// 10 "CAN" 
-, xtitle(Date) xlabel(#20, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+, xtitle(Date) xlabel(#24, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%9.0fc) labsize(small))  ylabel(, labsize(small) angle(forty_five)) ///
 ytitle(Daily deaths) title("COVID-19 daily deaths, $country, IHME, reference scenario", size(medium)) ///
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
@@ -833,7 +833,7 @@ twoway ///
 (line DayDeaMeSmA02S01XON date, sort lwidth(medium) lcolor(red)) /// 4 "ON" red
 (line DayDeaMeSmA02S01XQC date, sort lwidth(medium) lcolor(black)) /// 5 "QC" black
 (line DayDeaMeSmA02S01XXX date, sort lwidth(thick) lcolor(gray)) /// 6 "CAN" 
-, xtitle(Date) xlabel(#20, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+, xtitle(Date) xlabel(#24, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%9.0fc) labsize(small))  ylabel(, labsize(small) angle(forty_five)) ///
 ytitle(Daily deaths) title("COVID-19 daily deaths, $country, IHME, reference scenario", size(medium)) ///
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
@@ -856,7 +856,7 @@ foreach l of local levels {
 twoway (rarea DayDeaLoSmA02S01 DayDeaUpSmA02S01 date, sort color(green*.2)) ///
 (line DayDeaMeSmA02S01 date, sort lcolor(green)) ///
 if provincestate == "`l'" & DayDeaMeSmA02S01 != ., legend(off) ///	   
-xtitle(Date) xlabel(#20, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+xtitle(Date) xlabel(#24, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%9.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily deaths) title("COVID-19 daily deaths, $country, `l', IHME, reference scenario", size(medium)) ///
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
@@ -885,7 +885,7 @@ twoway ///
 (line dea_me_sm_rateXQC date, sort lwidth(medium) lcolor(black)) /// 8 "QC" black
 (line dea_me_sm_rateXSK date, sort lwidth(medium) lcolor(orange)) /// 9 "SK" orange
 (line dea_me_sm_rateXXX date, sort lwidth(thick) lcolor(gray)) /// 10 "CAN" 
-, xtitle(Date) xlabel(#20, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+, xtitle(Date) xlabel(#24, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%9.1fc) labsize(small))  ylabel(, labsize(small) angle(forty_five)) ///
 ytitle("Daily death rate in 100,000") title("COVID-19 daily death rate, $country, IHME, reference scenario", size(medium)) ///
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
@@ -915,7 +915,7 @@ twoway ///
 (line DayDeaMeSmA02S02 date, sort lcolor(green)) ///
 (line DayDeaMeSmA02S03 date, sort lcolor(red)) ///
 if date >= td(01jan2020) & provincestate == "`l'" ///
-, xtitle(Date) xlabel(#20, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+, xtitle(Date) xlabel(#24, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%12.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily deaths) title("COVID-19 daily deaths, $country, `l', IHME, 3 scenarios", size(medium)) ///
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
@@ -941,7 +941,7 @@ foreach l of local levels {
 twoway (rarea DayDeaLoSmA02S02 DayDeaUpSmA02S02 date, sort color(green*.2)) ///
 (line DayDeaMeSmA02S02 date, sort lcolor(green)) ///
 if provincestate == "`l'" & DayDeaMeSmA02S01 != ., legend(off) ///	   
-xtitle(Date) xlabel(#20, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+xtitle(Date) xlabel(#24, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%9.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily deaths) title("COVID-19 daily deaths, $country, `l', IHME, best scenario", size(medium)) ///
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
@@ -968,7 +968,7 @@ foreach l of local levels {
 twoway (rarea DayDeaLoSmA02S03 DayDeaUpSmA02S03 date, sort color(green*.2)) ///
 (line DayDeaMeSmA02S03 date, sort lcolor(green)) ///
 if provincestate == "`l'" & DayDeaMeSmA02S01 != ., legend(off) ///	   
-xtitle(Date) xlabel(#20, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+xtitle(Date) xlabel(#24, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%9.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily deaths) title("COVID-19 daily deaths, $country, `l', IHME, worse scenario", size(medium)) ///
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
@@ -1001,7 +1001,7 @@ twoway ///
 (line DayINFMeRaA02S01XQC date, sort lwidth(medium) lcolor(black)) /// 8 "QC" black
 (line DayINFMeRaA02S01XSK date, sort lwidth(medium) lcolor(orange)) /// 9 "SK" orange
 (line DayINFMeRaA02S01XXX date, sort lwidth(thick) lcolor(gray)) /// 10 "CAN" 
-, xtitle(Date) xlabel(#20, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+, xtitle(Date) xlabel(#24, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%9.0fc) labsize(small))  ylabel(, labsize(small) angle(forty_five)) ///
 ytitle(Daily infections) title("COVID-19 daily infections, $country, IHME, reference scenario", size(medium)) ///
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
@@ -1025,7 +1025,7 @@ twoway ///
 (line DayINFMeRaA02S01XON date, sort lwidth(medium) lcolor(red)) /// 4 "ON" red
 (line DayINFMeRaA02S01XQC date, sort lwidth(medium) lcolor(black)) /// 5 "QC" black
 (line DayINFMeRaA02S01XXX date, sort lwidth(thick) lcolor(gray)) /// 6 "CAN" 
-, xtitle(Date) xlabel(#20, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+, xtitle(Date) xlabel(#24, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%9.0fc) labsize(small))  ylabel(, labsize(small) angle(forty_five)) ///
 ytitle(Daily infections) title("COVID-19 daily infections, $country, IHME, reference scenario", size(medium)) ///
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
@@ -1048,7 +1048,7 @@ foreach l of local levels {
 twoway (rarea DayINFLoRaA02S01 DayINFUpRaA02S01 date, sort color(green*.2)) ///
 (line DayINFMeRaA02S01 date, sort lcolor(green)) ///
 if provincestate == "`l'" & DayINFMeRaA02S01 != ., legend(off) ///	   
-xtitle(Date) xlabel(#20, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+xtitle(Date) xlabel(#24, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%9.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily infections) title("COVID-19 daily infections, $country, `l', IHME, reference scenario", size(medium)) ///
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
@@ -1079,7 +1079,7 @@ twoway ///
 (line DayINFMeRaA02S02 date, sort lcolor(green)) ///
 (line DayINFMeRaA02S03 date, sort lcolor(red)) ///
 if date >= td(01jan2020) & provincestate == "`l'" ///
-, xtitle(Date) xlabel(#20, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+, xtitle(Date) xlabel(#24, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%12.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily infections) title("COVID-19 daily infections, $country, `l', IHME, 3 scenarios", size(medium)) ///
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
@@ -1105,7 +1105,7 @@ foreach l of local levels {
 twoway (rarea DayINFLoRaA02S02 DayINFUpRaA02S02 date, sort color(green*.2)) ///
 (line DayINFMeRaA02S02 date, sort lcolor(green)) ///
 if provincestate == "`l'" & DayINFMeRaA02S01 != ., legend(off) ///	   
-xtitle(Date) xlabel(#20, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+xtitle(Date) xlabel(#24, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%9.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily infections) title("COVID-19 daily infections, $country, `l', IHME, best scenario", size(medium)) ///
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
@@ -1132,7 +1132,7 @@ foreach l of local levels {
 twoway (rarea DayINFLoRaA02S03 DayINFUpRaA02S03 date, sort color(green*.2)) ///
 (line DayINFMeRaA02S03 date, sort lcolor(green)) ///
 if provincestate == "`l'" & DayINFMeRaA02S01 != ., legend(off) ///	   
-xtitle(Date) xlabel(#20, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+xtitle(Date) xlabel(#24, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%9.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily infections) title("COVID-19 daily infections, $country, `l', IHME, worse scenario", size(medium)) ///
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
@@ -1167,7 +1167,7 @@ twoway ///
 (line TotDeaMeSmA02S01XQC date, sort lwidth(medium) lcolor(black)) /// 8 "QC" black
 (line TotDeaMeSmA02S01XSK date, sort lwidth(medium) lcolor(orange)) /// 9 "SK" orange
 (line TotDeaMeSmA02S01XXX date, sort lwidth(thick) lcolor(gray)) /// 10 "CAN" 
-, xtitle(Date) xlabel(#20, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+, xtitle(Date) xlabel(#24, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%9.0fc) labsize(small))  ylabel(, labsize(small) angle(forty_five)) ///
 ytitle(Total deaths) title("COVID-19 total deaths, $country, IHME, reference scenario", size(medium)) ///
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
@@ -1191,7 +1191,7 @@ twoway ///
 (line TotDeaMeSmA02S01XON date, sort lwidth(medium) lcolor(red)) /// 4 "ON" red
 (line TotDeaMeSmA02S01XQC date, sort lwidth(medium) lcolor(black)) /// 5 "QC" black
 (line TotDeaMeSmA02S01XXX date, sort lwidth(thick) lcolor(gray)) /// 6 "CAN" 
-, xtitle(Date) xlabel(#20, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+, xtitle(Date) xlabel(#24, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%9.0fc) labsize(small))  ylabel(, labsize(small) angle(forty_five)) ///
 ytitle(Total deaths) title("COVID-19 total deaths, $country, IHME, reference scenario", size(medium)) ///
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
@@ -1214,7 +1214,7 @@ foreach l of local levels {
 twoway (rarea TotDeaLoSmA02S01 TotDeaUpSmA02S01 date, sort color(green*.2)) ///
 (line TotDeaMeSmA02S01 date, sort lcolor(green)) ///
 if provincestate == "`l'" & TotDeaMeSmA02S01 != ., legend(off) ///	   
-xtitle(Date) xlabel(#20, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+xtitle(Date) xlabel(#24, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%9.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Total deaths) title("COVID-19 total deaths, $country, `l', IHME, reference scenario", size(medium)) ///
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
@@ -1243,7 +1243,7 @@ twoway ///
 (line totdea_me_rateXQC date, sort lwidth(medium) lcolor(black)) /// 8 "QC" black
 (line totdea_me_rateXSK date, sort lwidth(medium) lcolor(orange)) /// 9 "SK" orange
 (line totdea_me_rateXXX date, sort lwidth(thick) lcolor(gray)) /// 10 "CAN" 
-, xtitle(Date) xlabel(#20, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+, xtitle(Date) xlabel(#24, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%9.0fc) labsize(small))  ylabel(, labsize(small) angle(forty_five)) ///
 ytitle("Total death rate in 100,000") title("COVID-19 total death rate, $country, IHME, reference scenario", size(medium)) ///
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
@@ -1272,7 +1272,7 @@ twoway ///
 (line TotDeaMeSmA02S02 date, sort lcolor(green)) ///
 (line TotDeaMeSmA02S03 date, sort lcolor(red)) ///
 if date >= td(01jan2020) & provincestate == "`l'" ///
-, xtitle(Date) xlabel(#20, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+, xtitle(Date) xlabel(#24, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%12.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Total deaths) title("COVID-19 total deaths, $country, `l', IHME, 3 scenarios", size(medium)) ///
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
@@ -1298,7 +1298,7 @@ foreach l of local levels {
 twoway (rarea TotDeaLoSmA02S02 TotDeaUpSmA02S02 date, sort color(green*.2)) ///
 (line TotDeaMeSmA02S02 date, sort lcolor(green)) ///
 if provincestate == "`l'" & TotDeaMeSmA02S01 != ., legend(off) ///	   
-xtitle(Date) xlabel(#20, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+xtitle(Date) xlabel(#24, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%9.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(total deaths) title("COVID-19 total deaths, $country, `l', IHME, best scenario", size(medium)) ///
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
@@ -1325,7 +1325,7 @@ foreach l of local levels {
 twoway (rarea TotDeaLoSmA02S03 TotDeaUpSmA02S03 date, sort color(green*.2)) ///
 (line TotDeaMeSmA02S03 date, sort lcolor(green)) ///
 if provincestate == "`l'" & TotDeaMeSmA02S01 != ., legend(off) ///	   
-xtitle(Date) xlabel(#20, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+xtitle(Date) xlabel(#24, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%9.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(total deaths) title("COVID-19 total deaths, $country, `l', IHME, worse scenario", size(medium)) ///
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
@@ -1360,7 +1360,7 @@ twoway ///
 (line TotINFMeRaA02S01XQC date, sort lwidth(medium) lcolor(black)) /// 8 "QC" black
 (line TotINFMeRaA02S01XSK date, sort lwidth(medium) lcolor(orange)) /// 9 "SK" orange
 (line TotINFMeRaA02S01XXX date, sort lwidth(thick) lcolor(gray)) /// 10 "CAN" 
-, xtitle(Date) xlabel(#20, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+, xtitle(Date) xlabel(#24, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%9.0fc) labsize(small))  ylabel(, labsize(small) angle(forty_five)) ///
 ytitle(Total infections) title("COVID-19 total infections, $country, IHME, reference scenario", size(medium)) ///
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
@@ -1384,7 +1384,7 @@ twoway ///
 (line TotINFMeRaA02S01XON date, sort lwidth(medium) lcolor(red)) /// 4 "ON" red
 (line TotINFMeRaA02S01XQC date, sort lwidth(medium) lcolor(black)) /// 5 "QC" black
 (line TotINFMeRaA02S01XXX date, sort lwidth(thick) lcolor(gray)) /// 6 "CAN" 
-, xtitle(Date) xlabel(#20, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+, xtitle(Date) xlabel(#24, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%9.0fc) labsize(small))  ylabel(, labsize(small) angle(forty_five)) ///
 ytitle(Total infections) title("COVID-19 total infections, $country, IHME, reference scenario", size(medium)) ///
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
@@ -1407,7 +1407,7 @@ foreach l of local levels {
 twoway (rarea TotINFLoRaA02S01 TotINFUpRaA02S01 date, sort color(green*.2)) ///
 (line TotINFMeRaA02S01 date, sort lcolor(green)) ///
 if provincestate == "`l'" & TotINFMeRaA02S01 != ., legend(off) ///	   
-xtitle(Date) xlabel(#20, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+xtitle(Date) xlabel(#24, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%9.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Total infections) title("COVID-19 total infections, $country, `l', IHME, reference scenario", size(medium)) ///
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
@@ -1452,7 +1452,7 @@ twoway ///
 (line DayIFRMeRaA02S01XSK date, sort lwidth(medium) lcolor(orange)) /// 9 "SK" orange
 (line DayIFRMeRaA02S01XXX date, sort lwidth(thick) lcolor(gray)) /// 10 "CAN" 
 if DayIFRMeRaA02S01XAB >= 0 ///
-, xtitle(Date) xlabel(#20, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+, xtitle(Date) xlabel(#24, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%9.0fc) labsize(small))  ylabel(, labsize(small) angle(forty_five)) ///
 ytitle(Daily IFR) title("COVID-19 daily IFR, $country, IHME, reference scenario", size(medium)) ///
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
@@ -1477,7 +1477,7 @@ twoway ///
 (line DayIFRMeRaA02S01XQC date, sort lwidth(medium) lcolor(black)) /// 5 "QC" black
 (line DayIFRMeRaA02S01XXX date, sort lwidth(thick) lcolor(gray)) /// 6 "CAN" 
 if DayIFRMeRaA02S01XAB >= 0 ///
-, xtitle(Date) xlabel(#20, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+, xtitle(Date) xlabel(#24, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%9.0fc) labsize(small))  ylabel(, labsize(small) angle(forty_five)) ///
 ytitle(Daily IFR) title("COVID-19 daily IFR, $country, IHME, reference scenario", size(medium)) ///
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
@@ -1502,7 +1502,7 @@ twoway ///
 (line DayIFRMeRaA02S02 date, sort lcolor(green)) ///
 (line DayIFRMeRaA02S03 date, sort lcolor(red)) ///
 if provincestate == "`l'" & DayIFRMeRaA02S01 >= 0 & DayIFRLoRaA02S01 >= 0 & DayIFRUpRaA02S01 >= 0, legend(off) ///	   
-xtitle(Date) xlabel(#20, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+xtitle(Date) xlabel(#24, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%9.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily IFR) title("COVID-19 daily IFR, $country, `l', IHME, 3 scenarios", size(medium)) ///
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
@@ -1533,7 +1533,7 @@ foreach l of local levels {
 twoway (rarea DayBedLoSmA02S01 DayBedUpSmA02S01 date, sort color(black*.2)) ///
 (line DayBedMeSmA02S01 date, sort lcolor(black)) ///
 if provincestate == "`l'" & date >= td(01jan2020) ///
-, xtitle(Date) xlabel(#20, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+, xtitle(Date) xlabel(#24, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%12.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily beds needed) title("COVID-19 daily beds needed, $country, `l', IHME, S1", size(medium)) ///
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(off)	///
@@ -1558,7 +1558,7 @@ foreach l of local levels {
 twoway (rarea DayIcuLoSmA02S01 DayIcuUpSmA02S01 date, sort color(black*.2)) ///
 (line DayIcuMeSmA02S01 date, sort lcolor(black)) ///
 if provincestate == "`l'" & date >= td(01jan2020) ///
-, xtitle(Date) xlabel(#20, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+, xtitle(Date) xlabel(#24, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%12.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily beds needed) title("COVID-19 ICU beds needed, $country, `l', IHME, S1", size(medium)) ///
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(off)	///
@@ -1584,7 +1584,7 @@ foreach l of local levels {
 twoway (rarea DayVenLoSmA02S01 DayVenUpSmA02S01 date, sort color(black*.2)) ///
 (line DayVenMeSmA02S01 date, sort lcolor(black)) ///
 if provincestate == "`l'" & date >= td(01jan2020) ///
-, xtitle(Date) xlabel(#20, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+, xtitle(Date) xlabel(#24, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%12.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily beds needed) title("COVID-19 invasive ventilation needed, $country, `l', IHME, S1", size(medium)) ///
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(off)	///
@@ -1609,7 +1609,7 @@ foreach l of local levels {
 twoway (rarea DayAdmLoSmA02S01 DayAdmUpSmA02S01 date, sort color(black*.2)) ///
 (line DayAdmMeSmA02S01 date, sort lcolor(black)) ///
 if provincestate == "`l'" & date >= td(01jan2020) ///
-, xtitle(Date) xlabel(#20, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+, xtitle(Date) xlabel(#24, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%12.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily hospital admissions) title("COVID-19 daily hospital admissions, $country, `l', IHME, S1", size(medium)) ///
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(off)	///
@@ -1635,7 +1635,7 @@ foreach l of local levels {
 twoway (rarea DayIcnLoSmA02S01 DayIcnUpSmA02S01 date, sort color(black*.2)) ///
 (line DayIcnMeSmA02S01 date, sort lcolor(black)) ///
 if provincestate == "`l'" & date >= td(01jan2020) ///
-, xtitle(Date) xlabel(#20, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+, xtitle(Date) xlabel(#24, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%12.0fc) labsize(small)) ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily new people going to ICU) title("COVID-19 daily new people to ICU $country, `l', IHME, S1", size(medium)) ///
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(off)	///
@@ -1662,7 +1662,7 @@ twoway ///
 (line TotTesMeSmA02S02 date, sort lcolor(green)) ///
 (line TotTesMeSmA02S03 date, sort lcolor(red)) ///
 if provincestate == "`l'" & date >= td(01jan2020) ///
-, xtitle(Date) xlabel(#20, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+, xtitle(Date) xlabel(#24, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%12.2fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Total tests) title("COVID-19 total tests, $country, `l', IHME, 3 scenarios", size(medium)) ///
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
@@ -1689,7 +1689,7 @@ twoway ///
 (line DayAdmMeSmA02S01 date, sort lcolor(yellow)) ///
 (line DayIcnMeSmA02S01 date, sort lcolor(blue)) ///
 if provincestate == "`l'" & date >= td(01jan2020) ///
-, xtitle(Date) xlabel(#20, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+, xtitle(Date) xlabel(#24, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%12.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily outcomes) title("COVID-19 hospital-rel. outcomes, $country, `l', IHME, S1", size(medium)) ///
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
@@ -1717,7 +1717,7 @@ twoway ///
 (line DayAdmMeSmA02S01 date, sort lcolor(yellow)) ///
 (line DayIcnMeSmA02S01 date, sort lcolor(blue)) ///
 if provincestate == "`l'" & date >= td(01jan2020) ///
-, xtitle(Date) xlabel(#20, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+, xtitle(Date) xlabel(#24, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%12.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily outcomes) title("COVID-19 hospital-rel. outcomes, $country, `l', IHME, S1", size(medium)) ///
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
@@ -1747,7 +1747,7 @@ twoway ///
 (line dea_lo_rate date, sort lcolor(green)) /// deaths_lower_p100k_rate
 (line dea_up_rate date, sort lcolor(red)) /// deaths_upper_p100k_rate
 if provincestate == "`l'" & date >= td(01jan2020) ///
-, xtitle(Date) xlabel(#20, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+, xtitle(Date) xlabel(#24, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%9.2fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily deaths per 100k rate) title("COVID-19 daily deaths raw / 100k rate, $country, `l', IHME", size(medium)) ///
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
@@ -1774,7 +1774,7 @@ twoway ///
 (line dea_lo_sm_rate date, sort lcolor(green)) /// deaths_lower_smoothed_p100k_rate
 (line dea_up_sm_rate date, sort lcolor(red)) /// deaths_upper_smoothed_p100k_rate
 if provincestate == "`l'" & date >= td(01jan2020) ///
-, xtitle(Date) xlabel(#20, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+, xtitle(Date) xlabel(#24, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%9.2fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily deaths per 100k rate) title("COVID-19 daily deaths smoothed / 100k rate, $country, `l', IHME", size(medium)) ///
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
@@ -1801,7 +1801,7 @@ twoway ///
 (line totdea_lo_rate date, sort lcolor(green)) /// totdea_lower_p100k_rate
 (line totdea_up_rate date, sort lcolor(red)) /// totdea_upper_p100k_rate
 if provincestate == "`l'" & date >= td(01jan2020) ///
-, xtitle(Date) xlabel(#20, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+, xtitle(Date) xlabel(#24, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%12.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Total deaths per 100k rate) title("COVID-19 total deaths raw / 100k rate, $country, `l', IHME", size(medium)) ///
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
@@ -1828,7 +1828,7 @@ twoway ///
 (line totdea_lo_sm_rate date, sort lcolor(green)) /// totdea_lower_smoothed_p100k_rate
 (line totdea_up_sm_rate date, sort lcolor(red)) /// totdea_upper_smoothed_p100k_rate
 if provincestate == "`l'" & date >= td(01jan2020) ///
-, xtitle(Date) xlabel(#20, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+, xtitle(Date) xlabel(#24, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%12.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Total deaths per 100k rate) title("COVID-19 total deaths smoothed / 100k rate, $country, `l', IHME", size(medium)) ///
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
@@ -1855,7 +1855,7 @@ twoway ///
 (line est_inf_lo_rate date, sort lcolor(green)) /// est_infections_lower_p100k_rate
 (line est_inf_up_rate date, sort lcolor(red)) /// est_infections_upper_p100k_rate
 if provincestate == "`l'" & date >= td(01jan2020) ///
-, xtitle(Date) xlabel(#20, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+, xtitle(Date) xlabel(#24, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%12.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Estimated infections per 100k rate) title("COVID-19 estimated infections / 100k rate, $country, `l', IHME", size(medium)) ///
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
@@ -1880,7 +1880,7 @@ foreach l of local levels {
 twoway ///
 (line conf_inf_rate date, sort lcolor(black)) /// confirmed_infections_p100k_rate
 if provincestate == "`l'" & date >= td(01jan2020) ///
-, xtitle(Date) xlabel(#20, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+, xtitle(Date) xlabel(#24, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%12.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Confirmed infections per 100k rate) title("COVID-19 confirmed infections / 100k rate, $country, `l', IHME", size(medium)) ///
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
