@@ -12,5 +12,6 @@ The versions of this project that are currently being supported with security up
 
 ## Reporting a Vulnerability
 
-To report a vulnerability email the repo owner. 
+To report a vulnerability, create an issue, or email the repo owner via pourmalek_farshad at yahoo dot com
 
+Expectation to to get an update on a reported vulnerability is about less than a week. 
