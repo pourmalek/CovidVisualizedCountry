@@ -7,7 +7,7 @@ DELP 20210903, IHME 20210903, IMPE 20210825, LANL 20210829, SRIV 20210903, **_PH
 PHAC = PHAC-McMaster model 20210903
 
 Public Health Agency of Canada. Update on COVID-19 in Canada: Epidemiology and Modelling, September 3, 2021. 
-https://www.canada.ca/content/dam/phac-aspc/documents/services/diseases-maladies/coronavirus-disease-covid-19/epidemiological-economic-research-data/update-covid-19-canada-epidemiology-modelling-20210903-en.pdf [PDF](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210903/code/PHAC/update-covid-19-canada-epidemiology-modelling-20210903-en.pdf)
+https://www.canada.ca/content/dam/phac-aspc/documents/services/diseases-maladies/coronavirus-disease-covid-19/epidemiological-economic-research-data/update-covid-19-canada-epidemiology-modelling-20210903-en.pdf || [PDF](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210903/code/PHAC/update-covid-19-canada-epidemiology-modelling-20210903-en.pdf)
 
 Page 6: Longer range forecast still showing strong resurgence trajectory, but strengthening measures to reduce spread could slow acceleration
 
