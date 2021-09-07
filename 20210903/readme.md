@@ -18,7 +18,7 @@ Note: Output from PHAC McMaster model. Model considers impact of vaccination and
 
 .
 
-CSV files containing outputs of PHAC-McMaster model mentioned in “Public Health Agency of Canada. Update on COVID-19 in Canada: Epidemiology and Modelling, September 3, 2021.” could not be located on the Internet. Therefore, the graph on Page 6, titled “Longer range forecast still showing strong resurgence trajectory, but strengthening measures to reduce spread could slow acceleration” for the national level was [digitized](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210903/code/PHAC/PHAC-McMaster%20model%2020210903%20dig.xlsx). 
+CSV files containing outputs of the "PHAC-McMaster model" mentioned in [“Public Health Agency of Canada. Update on COVID-19 in Canada: Epidemiology and Modelling, September 3, 2021.”](https://www.canada.ca/content/dam/phac-aspc/documents/services/diseases-maladies/coronavirus-disease-covid-19/epidemiological-economic-research-data/update-covid-19-canada-epidemiology-modelling-20210903-en.pdf) could not be located on the Internet. Therefore, the graph on Page 6, titled “Longer range forecast still showing strong resurgence trajectory, but strengthening measures to reduce spread could slow acceleration” for the national level was [digitized](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210903/code/PHAC/PHAC-McMaster%20model%2020210903%20dig.xlsx). 
 
 <br/><br/>
 
