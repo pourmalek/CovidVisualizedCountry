@@ -16,6 +16,10 @@ Page 6: Longer range forecast still showing strong resurgence trajectory, but st
 Data as of August 30, 2021
 Note: Output from PHAC McMaster model. Model considers impact of vaccination and increased transmissibility of VOCs (including Delta), refer to annex for detailed assumptions on modelling.
 
+.
+
+CSV files containing outputs of PHAC-McMaster model mentioned in “Public Health Agency of Canada. Update on COVID-19 in Canada: Epidemiology and Modelling, September 3, 2021.” could not be located on the Internet. Therefore, the graph on Page 6, titled “Longer range forecast still showing strong resurgence trajectory, but strengthening measures to reduce spread could slow acceleration” for the national level was [digitized](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210903/code/PHAC/PHAC-McMaster%20model%2020210903%20dig.xlsx). 
+
 <br/><br/>
 
 ****
