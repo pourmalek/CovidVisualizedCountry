@@ -18,8 +18,12 @@ Note: Output from PHAC McMaster model. Model considers impact of vaccination and
 
 .
 
+Scenarios:
+
 Reference scenario: If we maintain the current levels of transmission
+
 Better scenario: If public health measures reduce transmission by 25%
+
 Worse scenario: If further reopening increases transmission by 25%
 
 .
