@@ -9,12 +9,16 @@ PHAC = PHAC-McMaster model 20210903
 Public Health Agency of Canada. Update on COVID-19 in Canada: Epidemiology and Modelling, September 3, 2021. 
 https://www.canada.ca/content/dam/phac-aspc/documents/services/diseases-maladies/coronavirus-disease-covid-19/epidemiological-economic-research-data/update-covid-19-canada-epidemiology-modelling-20210903-en.pdf || [PDF](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210903/code/PHAC/update-covid-19-canada-epidemiology-modelling-20210903-en.pdf)
 
-Page 6: Longer range forecast still showing strong resurgence trajectory, but strengthening measures to reduce spread could slow acceleration
+.
 
-![image](https://user-images.githubusercontent.com/30849720/132394107-5811e9b1-7027-4810-a9d8-948c4c5ced29.png)
+CSV files containing outputs of the "PHAC-McMaster model" mentioned in [“Public Health Agency of Canada. Update on COVID-19 in Canada: Epidemiology and Modelling, September 3, 2021.”](https://www.canada.ca/content/dam/phac-aspc/documents/services/diseases-maladies/coronavirus-disease-covid-19/epidemiological-economic-research-data/update-covid-19-canada-epidemiology-modelling-20210903-en.pdf) could not be located on the Internet. Therefore, the graphs from the above-mentioned document were [digitized](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210903/code/PHAC/PHAC-McMaster%20model%2020210903%20dig.xlsx). || 
+[Graph digitization settings](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/graph%20digitization%20settings.md)
 
-Data as of August 30, 2021
-Note: Output from PHAC McMaster model. Model considers impact of vaccination and increased transmissibility of VOCs (including Delta), refer to annex for detailed assumptions on modelling.
+(a) Daily cases, national level, page 6
+
+(b) Daily cases, provinces, page 12
+
+(c) Daily hospitalized cases per 100 K population, national level, page 7
 
 .
 
@@ -25,11 +29,6 @@ Reference scenario: If we maintain the current levels of transmission
 Better scenario: If public health measures reduce transmission by 25%
 
 Worse scenario: If further reopening increases transmission by 25%
-
-.
-
-CSV files containing outputs of the "PHAC-McMaster model" mentioned in [“Public Health Agency of Canada. Update on COVID-19 in Canada: Epidemiology and Modelling, September 3, 2021.”](https://www.canada.ca/content/dam/phac-aspc/documents/services/diseases-maladies/coronavirus-disease-covid-19/epidemiological-economic-research-data/update-covid-19-canada-epidemiology-modelling-20210903-en.pdf) could not be located on the Internet. Therefore, the graphs from the above-mentioned document were [digitized](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210903/code/PHAC/PHAC-McMaster%20model%2020210903%20dig.xlsx). || 
-[Graph digitization settings](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/graph%20digitization%20settings.md)
 
 <br/><br/>
 
