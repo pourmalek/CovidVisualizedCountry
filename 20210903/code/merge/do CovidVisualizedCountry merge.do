@@ -35,13 +35,6 @@ PHAC = PHAC-McMaster model 20210903
 Public Health Agency of Canada. Update on COVID-19 in Canada: Epidemiology and Modelling, September 3, 2021. 
 https://www.canada.ca/content/dam/phac-aspc/documents/services/diseases-maladies/coronavirus-disease-covid-19/epidemiological-economic-research-data/update-covid-19-canada-epidemiology-modelling-20210903-en.pdf
 
-Page 6
-
-Longer range forecast still showing strong resurgence trajectory, but strengthening measures to reduce spread could slow acceleration
-
-Data as of August 30, 2021
-Note: Output from PHAC McMaster model. Model considers impact of vaccination and increased transmissibility of VOCs (including Delta), refer to annex for detailed assumptions on modelling.
-
 */
 
 
@@ -372,6 +365,9 @@ gen DayCERMeRaA05S00  = DayCasMeRaA05S00 / DayCasMeRaA00S00
 label var DayCERMeRaA05S00 "Daily Cases estim to reported S0 SRIV"
 
 
+gen DayCERMeRaA11S01  = DayCasMeRaA11S01 / DayCasMeRaA00S00
+
+label var DayCERMeRaA11S01 "Daily Cases estim to reported S1 PHAC"
 
 
 
@@ -1137,12 +1133,13 @@ twoway ///
 (line DayCasMeRaA01S00 date, sort lcolor(red*0.8) lwidth(medium) lpattern(tight_dot)) /// 3 "DELP raw"
 (line DayCasMeSmA01S00 date, sort lcolor(red) lwidth(medthick)) /// 4 "DELP smooth"
 (line DayINFMeRaA02S01 date, sort lcolor(black)) /// 5 "IHME"
+(line DayCasMeRaA11S01 date, sort lcolor(black)) /// 6 "PHAC"
 if date >= td(01jan2020) & provincestate == "`l'" ///
 , xtitle(Date) xlabel(#24, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily cases or infections) title("COVID-19 daily cases or infections, $country, `l'", size(medium)) /// 
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
-legend(order(1 "JOHN cases raw" 2 "JOHN cases smooth" 3 "DELP cases raw" 4 "DELP cases smooth" 5 "IHME infections") size(small) row(2)) ///
+legend(order(1 "JOHN cases raw" 2 "JOHN cases smooth" 3 "DELP cases raw" 4 "DELP cases smooth" 5 "IHME infections" 6 "PHAC cases") size(small) row(2)) ///
 subtitle("reference scenarios", size(small)) 
 
 qui graph save "SUB4 31bDayCasMERGsub alltime `l' - COVID-19 daily cases, $country, `l', reference scenarios.gph", replace
@@ -1173,7 +1170,7 @@ xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, l
 ytitle(Daily cases or infections) title("COVID-19 daily cases or infections, $country, National", size(medium)) /// 
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
 legend(order(1 "JOHN cases raw" 2 "JOHN cases smooth" 3 "DELP cases" ///
-4 "IHME infections" 5 "IMPE infections" 6 "LANL cases" 7 "SRIV cases" 7 "PHAC cases") size(small) row(3)) ///
+4 "IHME infections" 5 "IMPE infections" 6 "LANL cases" 7 "SRIV cases" 8 "PHAC cases") size(small) row(3)) ///
 subtitle("reference scenarios, after 2021-01-01", size(small)) 
 
 qui graph save "CAN5 32aDayCasMERGnat 2021 - COVID-19 daily cases, $country, National, reference scenarios, 2021.gph", replace
@@ -1194,12 +1191,13 @@ twoway ///
 (line DayCasMeSmA00S00 date, sort lcolor(cyan*1.2) lwidth(medthick)) /// 2 "JOHN smooth"
 (line DayCasMeRaA01S00 date, sort lcolor(red)) /// 3 "DELP"
 (line DayINFMeRaA02S01 date, sort lcolor(black)) /// 4 "IHME"
+(line DayCasMeRaA11S01 date, sort lwidth(thick) lcolor(gray)) /// 5 "PHAC"
 if date >= td(01jan2021) & provincestate == "`l'" ///
 , xtitle(Date) xlabel(#12, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily cases or infections) title("COVID-19 daily cases or infections, $country, `l'", size(medium)) /// 
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
-legend(order(1 "JOHN cases raw" 2 "JOHN cases smooth" 3 "DELP cases" 4 "IHME infections") size(small) row(2)) ///
+legend(order(1 "JOHN cases raw" 2 "JOHN cases smooth" 3 "DELP cases" 4 "IHME infections" 5 "PHAC cases") size(small) row(2)) ///
 subtitle("reference scenarios, after 2021-01-01", size(small)) 
 
 qui graph save "SUB5 32bDayCasMERGsub 2021 `l' - COVID-19 daily cases, $country, `l', reference scenarios, 2021.gph", replace
@@ -1242,7 +1240,7 @@ xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) lege
 legend(order(1 "JOHN cases raw" 2 "JOHN cases smooth" 3 "DELP cases" ///
 6 "IHME infections" 9 "IMPE infections" 12 "LANL cases" 15 "SRIV cases" 18 "PHAC cases") size(small) row(3)) ///
 note("reference scenarios, uncertainty limits: dashed curves") ///
-subtitle("after 2021-01-01, with uncertainty", size(small))
+subtitle("after 2021-01-01, with uncertainty; PHAC without uncertainty here", size(small))
 
 qui graph save "33aDayCasMERGnat 2021 CI - COVID-19 daily cases, $country, National, reference scenarios, 2021, uncertainty.gph", replace
 qui graph export "33aDayCasMERGnat 2021 CI - COVID-19 daily cases, $country, National, reference scenarios, 2021, uncertainty.pdf", replace
@@ -1267,14 +1265,15 @@ twoway ///
 (line DayINFMeRaA02S01 date, sort lcolor(black)) /// 6 IHME mean
 (line DayINFLoRaA02S01 date, sort lcolor(black) lpattern(dash)) /// 7 IHME lower
 (line DayINFUpRaA02S01 date, sort lcolor(black) lpattern(dash)) /// 8 IHME upper
+(line DayCasMeRaA11S01 date, sort lwidth(thick) lcolor(gray)) /// 9 "PHAC" mean
 if date >= td(01jan2021) & provincestate == "`l'" ///
 , xtitle(Date) xlabel(#12, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily cases or infections) title("COVID-19 daily cases or infections, $country, `l'", size(medium)) ///
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
-legend(order(1 "JOHN cases raw" 2 "JOHN cases smooth" 3 "DELP cases" 6 "IHME infections") size(small) row(1)) ///
+legend(order(1 "JOHN cases raw" 2 "JOHN cases smooth" 3 "DELP cases" 6 "IHME infections" 9 "PHAC cases") size(small) row(1)) ///
 note("Uncertainty limits: dashed curves") ///
-subtitle("reference scenarios, after 2021-01-01, with uncertainty", size(small))
+subtitle("reference scenarios, after 2021-01-01, with uncertainty; PHAC without uncertainty here", size(small))
 
 qui graph save "33bDayCasMERGsub 2021 CI `l' - COVID-19 daily cases, $country, `l', reference scenarios, 2021, uncertainty.gph", replace
 qui graph export "33bDayCasMERGsub 2021 CI `l' - COVID-19 daily cases, $country, `l', reference scenarios, 2021, uncertainty.pdf", replace
@@ -1299,14 +1298,15 @@ twoway ///
 (line DayINFMeRaA03S01 date, sort lcolor(magenta) lwidth(thick) lpattern(tight_dot)) /// 7 IMPE mean, better scenario
 (line DayINFMeRaA03S03 date, sort lcolor(magenta) lwidth(thick) lpattern(tight_dot)) /// 8 IMPE mean, worse scenario
 (line DayCasMeRaA11S01 date, sort lwidth(thick) lcolor(gray)) /// 9 "PHAC" reference scenario
-(line DayCasMeRaA11S01 date, sort lwidth(thick) lcolor(gray) lwidth(thick) lpattern(tight_dot)) /// 10 "PHAC" better scenario
-(line DayCasMeRaA11S01 date, sort lwidth(thick) lcolor(gray) lwidth(thick) lpattern(tight_dot)) /// 11 "PHAC" worse scenario
+(line DayCasMeRaA11S02 date, sort lwidth(thick) lcolor(green) ) /// 10 "PHAC" better scenario
+(line DayCasMeRaA11S03 date, sort lwidth(thick) lcolor(red) ) /// 11 "PHAC" worse scenario
 if date >= td(01jan2021) & provincestate == " National" ///
 , xtitle(Date) xlabel(#12, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily cases or infections) title("COVID-19 daily cases or infections, $country, National", size(medium)) ///
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
-legend(order(1 "JOHN cases raw" 2 "JOHN cases smooth" 3 "IHME infections" 6 "IMPE infections" 9 "PHAC cases") size(small) row(2)) ///
+legend(order(1 "JOHN cases raw" 2 "JOHN cases smooth" 3 "IHME infections" 6 "IMPE infections" 9 "PHAC cases reference" ///
+10 "PHAC cases better scenario" 11 "PHAC worse scenario") size(small) row(4)) ///
 subtitle("IHME and IMPE 3 scenarios, after 2021-01-01", size(small)) ///
 note("Better and worse scenarios: tight dot (|||||) curves; IHME and IMPE") 
 
@@ -1331,15 +1331,19 @@ twoway ///
 (line DayINFMeRaA02S01 date, sort lcolor(black)) /// 3 IHME mean, reference scenario
 (line DayINFMeRaA02S02 date, sort lcolor(green) lwidth(thick) lpattern(tight_dot)) /// 4 IHME mean, better scenario
 (line DayINFMeRaA02S03 date, sort lcolor(red) lwidth(thick) lpattern(tight_dot)) /// 5 IHME mean, worse scenario
+(line DayCasMeRaA11S01 date, sort lwidth(thick) lcolor(gray)) /// 6 "PHAC" reference scenario
+(line DayCasMeRaA11S02 date, sort lwidth(thick) lcolor(green) ) /// 7 "PHAC" better scenario
+(line DayCasMeRaA11S03 date, sort lwidth(thick) lcolor(red) ) /// 8 "PHAC" worse scenario
 if date >= td(01jan2021) & provincestate == "`l'" ///
 , xtitle(Date) xlabel(#12, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily cases or infections) title("COVID-19 daily cases or infections, $country, `l'", size(medium)) ///
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
 legend(order(1 "JOHN cases raw" 2 "JOHN casessmooth" 3 "IHME infections reference" ///
-4 "IHME infections better" 5 "IHME infections worse") size(small) row(3)) ///
+4 "IHME infections better" 5 "IHME infections worse" 7 "PHAC cases reference" ///
+8 "PHAC cases better scenario" 9 "PHAC worse scenario") size(small) row(3)) ///
 subtitle("IHME 3 scenarios, after 2021-01-01", size(small)) ///
-note("Better and worse scenarios: tight dot (|||||) curves; IHME") 
+note("Better and worse scenarios: tight dot (|||||) curves for IHME") 
 
 qui graph save "SUB6 34bDayCasMERGsub 2021 3scen `l' - COVID-19 daily cases, $country, `l', 3 scenarios, 2021, uncertainty.gph", replace
 qui graph export "SUB6 34bDayCasMERGsub 2021 3scen `l' - COVID-19 daily cases, $country, `l', 3 scenarios, 2021, uncertainty.pdf", replace
@@ -2397,11 +2401,43 @@ if date >= td(01jan2020) & provincestate == " National" ///
 xlabel(, angle(forty_five)) ylabel(, format(%12.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily cases estimated to reported) title("COVID-19 daily cases estimated to reported, $country, National", size(medium)) /// 
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
-legend(order(1 "JOHN" 2 "DELP" 3 "IHME" 4 "IMPE" 5 "LANL" 6 "SRIV") size(small) row(1)) ///
+legend(order(1 "JOHN" 2 "DELP" 3 "IHME infections" 4 "IMPE infections" 5 "LANL" 6 "SRIV") size(small) row(2)) ///
 subtitle("daily cases or infections estimated, to reported cases; reference scenarios", size(small))
 
 qui graph save "93aDayCERMERGnat alltime - COVID-19 daily cases estimated to reported, $country, National, reference scenarios, all time.gph", replace
 qui graph export "93aDayCERMERGnat alltime - COVID-19 daily cases estimated to reported, $country, National, reference scenarios, all time.pdf", replace
+
+
+
+
+
+
+****
+* daily cases or infections estimated to reported (CER) all studies, reference scenarios, all time, National, with PHAC
+
+twoway ///
+(line DayCERMeRaA00S00 date, sort lcolor(cyan) lwidth(thick)) /// 1 "JOHN"
+(line DayCERMeRaA01S00 date, sort lcolor(red)) /// 2 "DELP"
+(line DayIERMeRaA02S01 date, sort lcolor(black)) /// 3 "IHME"
+(line DayIERMeRaA03S02 date, sort lcolor(magenta)) /// 4 "IMPE"
+(line DayCERMeRaA04S00 date, sort lcolor(gold)) /// 5 "LANL"
+(line DayCERMeRaA05S00 date, sort lcolor(green)) /// 6 "SRIV"
+(line DayCasMeRaA11S01 date, sort lwidth(thick) lcolor(gray)) /// 7 "PHAC"
+if date >= td(01jan2020) & provincestate == " National" ///
+, xtitle(Date) xlabel(#24, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+xlabel(, angle(forty_five)) ylabel(, format(%12.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
+ytitle(Daily cases estimated to reported) title("COVID-19 daily cases estimated to reported, $country, National", size(medium)) /// 
+xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
+legend(order(1 "JOHN" 2 "DELP" 3 "IHME infections" 4 "IMPE infections" 5 "LANL" 6 "SRIV" 7 "PHAC") size(small) row(2)) ///
+subtitle("daily cases or infections estimated, to reported cases; reference scenarios, with PHAC", size(small))
+
+qui graph save "93a2DayCERMERGnat alltime - COVID-19 daily cases estimated to reported, $country, National, reference scenarios, all time with PHAC.gph", replace
+qui graph export "93a2DayCERMERGnat alltime - COVID-19 daily cases estimated to reported, $country, National, reference scenarios, all time with PHAC.pdf", replace
+
+
+ 
+
+
 
 
 
@@ -2423,7 +2459,7 @@ if date >= td(01jan2020) & provincestate == "`l'" ///
 xlabel(, angle(forty_five)) ylabel(, format(%12.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily cases estimated to reported) title("COVID-19 daily cases estimated to reported, $country, `l'", size(medium)) /// 
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
-legend(order(1 "JOHN" 2 "DELP" 3 "IHME") size(small) row(1)) ///
+legend(order(1 "JOHN" 2 "DELP" 3 "IHME infections") size(small) row(1)) ///
 subtitle("daily cases or infections estimated, to reported cases; reference scenarios", size(small))
 
 qui graph save "93bDayCERMERGsub alltime `l' -  COVID-19 daily cases estimated to reported, $country, `l', reference scenarios, all time.gph", replace
@@ -2432,6 +2468,35 @@ qui graph export "93bDayCERMERGsub alltime `l' - COVID-19 daily cases estimated 
 }
 *
 
+
+
+
+
+****
+* daily cases or infections estimated to reported (CER) all studies, reference scenarios, all time, by province, with PHAC
+
+levelsof provincestate_mostaffected, local(levels)
+
+foreach l of local levels {
+
+twoway ///
+(line DayCERMeRaA00S00 date, sort lcolor(cyan) lwidth(thick)) /// 1 "JOHN"
+(line DayCERMeRaA01S00 date, sort lcolor(red)) /// 2 "DELP"
+(line DayIERMeRaA02S01 date, sort lcolor(black)) /// 3 "IHME"
+(line DayCasMeRaA11S01 date, sort lwidth(thick) lcolor(gray)) /// 4 "PHAC"
+if date >= td(01jan2020) & provincestate == "`l'" ///
+, xtitle(Date) xlabel(#24, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+xlabel(, angle(forty_five)) ylabel(, format(%12.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
+ytitle(Daily cases estimated to reported) title("COVID-19 daily cases estimated to reported, $country, `l'", size(medium)) /// 
+xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
+legend(order(1 "JOHN" 2 "DELP" 3 "IHME infections"  4 "PHAC") size(small) row(1)) ///
+subtitle("daily cases or infections estimated, to reported cases; reference scenarios, with PHAC", size(small))
+
+qui graph save "93b2DayCERMERGsub alltime `l' -  COVID-19 daily cases estimated to reported, $country, `l', reference scenarios, all time with PHAC.gph", replace
+qui graph export "93b2DayCERMERGsub alltime `l' - COVID-19 daily cases estimated to reported, $country, `l', reference scenarios, all time with PHAC.pdf", replace
+
+}
+*
 
 
 
@@ -2452,11 +2517,38 @@ if date >= td(01jan2021) & provincestate == " National" ///
 xlabel(, angle(forty_five)) ylabel(, format(%12.1fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily cases estimated to reported) title("COVID-19 daily cases estimated to reported, $country, National", size(medium)) /// 
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
-legend(order(1 "JOHN" 2 "DELP" 3 "IHME" 4 "IMPE" 5 "LANL" 6 "SRIV") size(small) row(1)) ///
+legend(order(1 "JOHN" 2 "DELP" 3 "IHME infections" 4 "IMPE infections" 5 "LANL" 6 "SRIV") size(small) row(2)) ///
 subtitle("daily cases or infections estimated, to reported cases; reference scenarios", size(small))
 
 qui graph save "CAN10 94aDayCERMERGnat 2021 - COVID-19 daily cases estimated to reported, $country, National, reference scenarios, 2021.gph", replace
 qui graph export "CAN10 94aDayCERMERGnat 2021 - COVID-19 daily cases estimated to reported, $country, National, reference scenarios, 2021.pdf", replace
+
+
+
+
+
+****
+* daily cases or infections estimated to reported (CER) all studies, reference scenarios, 2021, National, with PHAC
+
+twoway ///
+(line DayCERMeRaA00S00 date, sort lcolor(cyan) lwidth(thick)) /// 1 "JOHN"
+(line DayCERMeRaA01S00 date, sort lcolor(red)) /// 2 "DELP"
+(line DayIERMeRaA02S01 date, sort lcolor(black)) /// 3 "IHME"
+(line DayIERMeRaA03S02 date, sort lcolor(magenta)) /// 4 "IMPE"
+(line DayCERMeRaA04S00 date, sort lcolor(gold)) /// 5 "LANL"
+(line DayCERMeRaA05S00 date, sort lcolor(green)) /// 6 "SRIV"
+(line DayCasMeRaA11S01 date, sort lwidth(thick) lcolor(gray)) /// 7 "PHAC"
+if date >= td(01jan2021) & provincestate == " National" ///
+, xtitle(Date) xlabel(#12, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+xlabel(, angle(forty_five)) ylabel(, format(%12.1fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
+ytitle(Daily cases estimated to reported) title("COVID-19 daily cases estimated to reported, $country, National", size(medium)) /// 
+xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
+legend(order(1 "JOHN" 2 "DELP" 3 "IHME infections" 4 "IMPE infections" 5 "LANL" 6 "SRIV" 7 "PHAC") size(small) row(2)) ///
+subtitle("daily cases or infections estimated, to reported cases; reference scenarios, with PHAC", size(small))
+
+qui graph save "CAN10 94a2DayCERMERGnat 2021 - COVID-19 daily cases estimated to reported, $country, National, reference scenarios, 2021 with PHAC.gph", replace
+qui graph export "CAN10 94a2DayCERMERGnat 2021 - COVID-19 daily cases estimated to reported, $country, National, reference scenarios, 2021 with PHAC.pdf", replace
+
 
 
 
@@ -2478,7 +2570,7 @@ if date >= td(01jan2021) & provincestate == "`l'" ///
 xlabel(, angle(forty_five)) ylabel(, format(%12.1fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily cases estimated to reported) title("COVID-19 daily cases estimated to reported, $country, `l'", size(medium)) /// 
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
-legend(order(1 "JOHN" 2 "DELP" 3 "IHME") size(small) row(1)) ///
+legend(order(1 "JOHN" 2 "DELP" 3 "IHME infections") size(small) row(1)) ///
 subtitle("daily cases or infections estimated, to reported cases; reference scenarios", size(small))
 
 qui graph save "SUB10 94bDayCERMERGsub 2021 `l' - COVID-19 daily cases estimated to reported, $country, `l', reference scenarios, 2021.gph", replace
@@ -2486,6 +2578,38 @@ qui graph export "SUB10 94bDayCERMERGsub 2021 `l' - COVID-19 daily cases estimat
 
 }
 *
+
+
+
+
+
+
+****
+* daily cases or infections estimated to reported (CER) all studies, reference scenarios, 2021, by province, with PHAC
+
+levelsof provincestate_mostaffected, local(levels)
+
+foreach l of local levels {
+
+twoway ///
+(line DayCERMeRaA00S00 date, sort lcolor(cyan) lwidth(thick)) /// 1 "JOHN"
+(line DayCERMeRaA01S00 date, sort lcolor(red)) /// 2 "DELP"
+(line DayIERMeRaA02S01 date, sort lcolor(black)) /// 3 "IHME"
+(line DayCasMeRaA11S01 date, sort lwidth(thick) lcolor(gray)) /// 4 "PHAC"
+if date >= td(01jan2021) & provincestate == "`l'" ///
+, xtitle(Date) xlabel(#12, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+xlabel(, angle(forty_five)) ylabel(, format(%12.1fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
+ytitle(Daily cases estimated to reported) title("COVID-19 daily cases estimated to reported, $country, `l'", size(medium)) /// 
+xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
+legend(order(1 "JOHN" 2 "DELP" 3 "IHME infections" 4 "PHAC") size(small) row(1)) ///
+subtitle("daily cases or infections estimated, to reported cases; reference scenarios, with PHAC", size(small))
+
+qui graph save "SUB10 94b2DayCERMERGsub 2021 `l' - COVID-19 daily cases estimated to reported, $country, `l', reference scenarios, 2021 with PHAC.gph", replace
+qui graph export "SUB10 94b2DayCERMERGsub 2021 `l' - COVID-19 daily cases estimated to reported, $country, `l', reference scenarios, 2021 with PHAC.pdf", replace
+
+}
+*
+
 
 
 
@@ -2613,7 +2737,7 @@ if date >= td(01jan2020) & provincestate == " National" ///
 xlabel(, angle(forty_five)) ylabel(, format(%12.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Total cases estimated to reported) title("COVID-19 total cases estimated to reported, $country, National", size(medium)) /// 
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
-legend(order(1 "JOHN" 2 "DELP" 3 "IHME" 4 "IMPE" 5 "LANL" 6 "SRIV") size(small) row(1)) ///
+legend(order(1 "JOHN" 2 "DELP" 3 "IHME infections" 4 "IMPE infections" 5 "LANL" 6 "SRIV") size(small) row(2)) ///
 subtitle("total cases or infections, estimated to reported cases; reference scenarios", size(small))
 
 qui graph save "97aTotCERMERGnat alltime -  COVID-19 total cases estimated to reported, $country, National,reference scenarios, all time.gph", replace
@@ -2640,7 +2764,7 @@ if date >= td(01jan2020) & provincestate == "`l'" ///
 xlabel(, angle(forty_five)) ylabel(, format(%12.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Total cases estimated to reported) title("COVID-19 total cases estimated to reported, $country, `l'", size(medium)) /// 
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
-legend(order(1 "JOHN" 2 "DELP" 3 "IHME") size(small) row(1)) ///
+legend(order(1 "JOHN" 2 "DELP" 3 "IHME infections") size(small) row(1)) ///
 subtitle("total cases or infections, estimated to reported cases; reference scenarios", size(small))
 
 qui graph save "97bTotCERMERGsub alltime `l' - COVID-19 total cases estimated to reported, $country, `l', reference scenarios, all time.gph", replace
@@ -2668,7 +2792,7 @@ if date >= td(01jan2021) & provincestate == " National" ///
 xlabel(, angle(forty_five)) ylabel(, format(%12.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Total cases estimated to reported) title("COVID-19 total cases estimated to reported, $country, National", size(medium)) /// 
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
-legend(order(1 "JOHN" 2 "DELP" 3 "IHME" 4 "IMPE" 5 "LANL" 6 "SRIV") size(small) row(1)) ///
+legend(order(1 "JOHN" 2 "DELP" 3 "IHME infections" 4 "IMPE infections" 5 "LANL" 6 "SRIV") size(small) row(2)) ///
 subtitle("total cases or infections, estimated to reported cases; reference scenarios", size(small))
 
 qui graph save "98aTotCERMERGnat 2021 - COVID-19 total cases estimated to reported, $country,  National, reference scenarios, 2021.gph", replace
@@ -2694,7 +2818,7 @@ if date >= td(01jan2021) & provincestate == "`l'" ///
 xlabel(, angle(forty_five)) ylabel(, format(%12.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Total cases estimated to reported) title("COVID-19 total cases estimated to reported, $country, `l'", size(medium)) /// 
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
-legend(order(1 "JOHN" 2 "DELP" 3 "IHME") size(small) row(1)) ///
+legend(order(1 "JOHN" 2 "DELP" 3 "IHME infections") size(small) row(1)) ///
 subtitle("total cases or infections, estimated to reported cases; reference scenarios", size(small))
 
 qui graph save "98bTotCERMERGnat 2021 `l' - COVID-19 total cases estimated to reported, $country, `l', reference scenarios, 2021.gph", replace
