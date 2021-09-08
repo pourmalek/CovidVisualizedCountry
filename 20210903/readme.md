@@ -11,7 +11,7 @@ https://www.canada.ca/content/dam/phac-aspc/documents/services/diseases-maladies
 
 .
 
-CSV files containing outputs of the "PHAC-McMaster model" mentioned in [“Public Health Agency of Canada. Update on COVID-19 in Canada: Epidemiology and Modelling, September 3, 2021.”](https://www.canada.ca/content/dam/phac-aspc/documents/services/diseases-maladies/coronavirus-disease-covid-19/epidemiological-economic-research-data/update-covid-19-canada-epidemiology-modelling-20210903-en.pdf) could not be located on the Internet. Therefore, the graphs from the above-mentioned document were [digitized](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210903/code/PHAC/PHAC-McMaster%20model%2020210903%20dig.xlsx). || 
+CSV files containing outputs of the "PHAC-McMaster model" mentioned in [“Public Health Agency of Canada. Update on COVID-19 in Canada: Epidemiology and Modelling, September 3, 2021.”](https://www.canada.ca/content/dam/phac-aspc/documents/services/diseases-maladies/coronavirus-disease-covid-19/epidemiological-economic-research-data/update-covid-19-canada-epidemiology-modelling-20210903-en.pdf) could not be located on the Internet. Therefore, the graphs from the above-mentioned document were [digitized](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210903/code/PHAC/PHAC-McMaster%20model%2020210903.pdf). || 
 [Graph digitization settings](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/graph%20digitization%20settings.md)
 
 (a) Daily cases, national level, page 6
