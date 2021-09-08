@@ -1,9 +1,0 @@
-Page 7, Canada 
-
-y 0 to 15,000
-
-x 7 Jan first to November first  = 1 to 305 days
-
-day1is20210101 
-
-2021/01/01 to 2021/11/01
