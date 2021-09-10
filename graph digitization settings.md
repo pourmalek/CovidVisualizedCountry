@@ -12,7 +12,7 @@ Automatic extraction: Pen
 
 Color picker: Manual
 
-Color distance: set as 100 (default is 120)
+Color distance: set as 80 (default is 120)
 
 Algorithm: choose "X Step with interpolation" (default is Averaging window)
 
