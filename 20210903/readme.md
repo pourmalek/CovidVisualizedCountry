@@ -2,9 +2,12 @@
 
 DELP 20210903, IHME 20210903, IMPE 20210825, LANL 20210829, SRIV 20210903, **_PHAC 20210903_**
 
+
+Note: IMPE update 20210825 was dead at birth for IRAN since predicted daily deaths was less than report daily deaths during the overlap interval. This does not increase accuracy of predictions for other locations.
+
 <br/><br/>
 
-PHAC = PHAC-McMaster model 20210903
+#### PHAC = PHAC-McMaster model 20210903
 
 Public Health Agency of Canada. Update on COVID-19 in Canada: Epidemiology and Modelling, September 3, 2021. 
 https://www.canada.ca/content/dam/phac-aspc/documents/services/diseases-maladies/coronavirus-disease-covid-19/epidemiological-economic-research-data/update-covid-19-canada-epidemiology-modelling-20210903-en.pdf || [PDF](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210903/code/PHAC/update-covid-19-canada-epidemiology-modelling-20210903-en.pdf)
