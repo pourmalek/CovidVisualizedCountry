@@ -14,6 +14,7 @@ Public Health Agency of Canada. Update on COVID-19 in Canada: Epidemiology and M
 
 Methods: The CSV files containing outputs of the "PHAC-McMaster model" mentioned in the above-mentioned document could not be located on the Internet. Therefore, the graphs from the above-mentioned document were digitized. See acquisition of their estimates [here](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210910/code/PHAC/PHAC-McMaster%20model%2020210903.pdf). || See graph digitization settings [here](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/graph%20digitization%20settings.md). 
 
+<br/><br/>
 
 #### PHAC-McMaster model Scenarios for cases by Non-Pharmaceutical Intervention levels: 
 
@@ -23,6 +24,7 @@ Better scenario: If public health measures reduce transmission by 25%.
 
 Worse scenario: If further reopening increases transmission by 25%.
 
+<br/><br/>
 
 #### PHAC-McMaster model Scenarios for cases hospitalized per 100 K population by combinations of Vaccinations and Non-Pharmaceutical Interventions:
 
