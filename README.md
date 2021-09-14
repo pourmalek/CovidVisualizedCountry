@@ -1179,7 +1179,7 @@ _Component studies (the international periodically updated models) and their sce
   
 #### A11 PHAC
   
-- PHAC-McMaster model Scenarios for cases by Non-Pharmaceutical Intervention levels: 
+- [PHAC-McMaster model](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210910/code/PHAC/PHAC-McMaster%20model%2020210903.pdf) Scenarios for cases by Non-Pharmaceutical Intervention levels: 
 
 * S01 Reference scenario: If we maintain the current levels of transmission.
 
