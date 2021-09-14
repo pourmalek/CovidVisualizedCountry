@@ -8,21 +8,28 @@ Note: IMPE update 20210825 was dead at birth for IRAN since predicted daily deat
 
 #### PHAC = PHAC-McMaster model 20210903
 
-Public Health Agency of Canada. Update on COVID-19 in Canada: Epidemiology and Modelling, September 3, 2021. 
-https://www.canada.ca/content/dam/phac-aspc/documents/services/diseases-maladies/coronavirus-disease-covid-19/epidemiological-economic-research-data/update-covid-19-canada-epidemiology-modelling-20210903-en.pdf || [PDF](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210903/code/PHAC/update-covid-19-canada-epidemiology-modelling-20210903-en.pdf)
+The Source document used for acquisition of PHAC-McMaster model 20210903 estimates:
 
-CSV files containing outputs of the "PHAC-McMaster model" mentioned in [“Public Health Agency of Canada. Update on COVID-19 in Canada: Epidemiology and Modelling, September 3, 2021.”](https://www.canada.ca/content/dam/phac-aspc/documents/services/diseases-maladies/coronavirus-disease-covid-19/epidemiological-economic-research-data/update-covid-19-canada-epidemiology-modelling-20210903-en.pdf) could not be located on the Internet. Therefore, the graphs from the above-mentioned document were [digitized](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210903/code/PHAC/PHAC-McMaster%20model%2020210903.pdf). || 
-[Graph digitization settings](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/graph%20digitization%20settings.md)
+Public Health Agency of Canada. Update on COVID-19 in Canada: Epidemiology and Modelling, September 3, 2021. https://www.canada.ca/content/dam/phac-aspc/documents/services/diseases-maladies/coronavirus-disease-covid-19/epidemiological-economic-research-data/update-covid-19-canada-epidemiology-modelling-20210903-en.pdf
 
-PHAC PHAC-McMaster model Scenarios:
+Methods: The CSV files containing outputs of the "PHAC-McMaster model" mentioned in the above-mentioned document could not be located on the Internet. Therefore, the graphs from the above-mentioned document were digitized. This document describes acquisition of their estimates. || See graph digitization settings [here](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/graph%20digitization%20settings.md). 
 
-Reference scenario: If we maintain the current levels of transmission
 
-Better scenario: If public health measures reduce transmission by 25%
+#### PHAC-McMaster model Scenarios for cases by Non-Pharmaceutical Intervention levels: 
 
-Worse scenario: If further reopening increases transmission by 25%
+Reference scenario: If we maintain the current levels of transmission.
 
-<br/><br/>
+Better scenario: If public health measures reduce transmission by 25%.
+
+Worse scenario: If further reopening increases transmission by 25%.
+
+
+#### PHAC-McMaster model Scenarios for cases hospitalized per 100 K population by combinations of Vaccinations and Non-Pharmaceutical Interventions:
+
+Reference scenario: Updated scenario with current rate of vaccination.
+
+Better scenario: Updated scenario with increased uptake among ages 18-39 and expedited vaccination rate.
+
 
 <br/><br/>
 
