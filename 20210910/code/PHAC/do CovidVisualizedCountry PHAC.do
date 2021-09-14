@@ -20,7 +20,7 @@ log using "log CovidVisualizedCountry PHAC.smcl", replace
 
 
                                                                                                          ***************************
-* To change update date, find and replace all, (old), with (new) <<--           <<<--- * change update date here *
+* To change update date, find and replace all, 20210903 (old), with 20210903 (new) <<--           <<<--- * change update date here *
                                                                                                          ***************************
 
 
