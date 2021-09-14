@@ -29,8 +29,8 @@ clear
 
 * get IHME estimates
 
-copy https://ihmecovid19storage.blob.core.windows.net/latest/ihme-covid19.zip ihme-covid19.zip // as of 2021-09-03
-// copy https://ihmecovid19storage.blob.core.windows.net/archive/2021-09-02/ihme-covid19.zip ihme-covid19.zip
+// copy https://ihmecovid19storage.blob.core.windows.net/latest/ihme-covid19.zip ihme-covid19.zip // as of 2021-09-03
+copy https://ihmecovid19storage.blob.core.windows.net/archive/2021-09-02/ihme-covid19.zip ihme-covid19.zip
 unzipfile ihme-covid19.zip, replace
 erase ihme-covid19.zip
 
