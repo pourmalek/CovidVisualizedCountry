@@ -66,18 +66,20 @@ Better scenario: Updated scenario with increased uptake among ages 18-39 and exp
 
 
 
-
+****
 ****
 
 ### Selected graphs - Canada
 
 (1) Canada [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210903/output/merge/main/CAN1%2011aDayDeaMERGnat%20alltime%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/133333532-d8bd0c40-bf2a-42e8-a707-833562141b3c.png)
 
 ****
 
 (2) Canada [Daily deaths, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210903/output/merge/main/CAN2%2012aDayDeaMERGnat%202021%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/133333630-9ac15447-6290-4b88-847c-4d5371020e37.png)
 
 ****
 
