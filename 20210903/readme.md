@@ -1,6 +1,6 @@
 ### Study update dates in uptake 20210903
 
-DELP 20210903, IHME 20210902, IMPE 20210825, LANL 20210829, **_SRIV 20210903**_
+DELP 20210903, IHME 20210902, IMPE 20210825, LANL 20210829, **_SRIV 20210903_**
 
 Note: IMPE update 20210825 was dead at birth for IRAN since predicted daily deaths was less than report daily deaths during the overlap interval. This does not increase accuracy of predictions for other locations.
 
