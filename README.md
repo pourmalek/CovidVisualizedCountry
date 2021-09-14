@@ -1176,6 +1176,29 @@ _Component studies (the international periodically updated models) and their sce
 * S00 = [current]
 * Note: SRIV has 3 sets of scenrios; [see](https://github.com/scc-usc/ReCOVER-COVID-19)
 <br/><br/>
+  
+#### A11 PHAC
+  
+- PHAC-McMaster model Scenarios for cases by Non-Pharmaceutical Intervention levels: 
+
+* S01 Reference scenario: If we maintain the current levels of transmission.
+
+* S01 Better scenario: If public health measures reduce transmission by 25%.
+
+* S03 Worse scenario: If further reopening increases transmission by 25%.
+
+
+- PHAC-McMaster model Scenarios for cases hospitalized per 100 K population by combinations of Vaccinations and Non-Pharmaceutical Interventions:
+
+* S01 Reference scenario: Updated scenario with current rate of vaccination.
+
+* S02 Better scenario: Updated scenario with increased uptake among ages 18-39 and expedited vaccination rate.
+  <br/><br/>
+
+  
+  <br/><br/>
+
+  
 
 
 
