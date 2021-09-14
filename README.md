@@ -103,6 +103,8 @@ The codes in these repositories can be adapted for use for any country or region
 
 ### For Canada, DELP and IHME models provide subnational estimates for SEVEN provinces: Alberta, British Columbia, Manitoba, Nova Scotia, Ontario, Quebec, and Saskatchewan.  
   
+### The PHAC-McMaster model provides estimates of cases at the national and SIX provinces’ levels (AB, BC, MB, ON, QC, SK), as well as cases hospitalized per 100 K population at the national level.   
+  
   
 ********************************************************************************************************************************************
   
