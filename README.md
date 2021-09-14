@@ -10,7 +10,7 @@ For a streamlined view of this repository, see: https://pourmalek.github.io/Covi
 
 
 ### Combine and visualize international periodically updated estimates of COVID-19 pandemic
-### plus the PHAC-McMaster model
+### plus the _PHAC-McMaster model_
 
 ### <div align="center"> at the country level, countries with subnational level estimates
 ## <div align="center"> :canada: Canada: national level and provinces
