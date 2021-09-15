@@ -29,7 +29,9 @@ Graphs for Saskatchewan were added here starting from uptake 20210726 onwards.
 
 **uptake 20210903**: DELP 20210903, IHME 20210902, IMPE 20210825, LANL 20210829, SRIV 20210903, **_PHAC 20210903_**
 
-.
+(1) Saskatchewan [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210903/output/merge/main/SUB1%2011bDayDeaMERGsub%20alltime%20Saskatchewan%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Saskatchewan%2C%20reference%20scenarios%2C%20all%20time.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/133435053-99fb4205-209f-4166-88b5-e7a1ddb13999.png)
 
 *
 
@@ -137,7 +139,9 @@ Graphs for Saskatchewan were added here starting from uptake 20210726 onwards.
 
 **uptake 20210903**: DELP 20210903, IHME 20210902, IMPE 20210825, LANL 20210829, SRIV 20210903, **_PHAC 20210903_**
 
-.
+(2) Saskatchewan [Daily deaths, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210903/output/merge/main/SUB2%2012bDayDeaMERGsub%202021%20Saskatchewan%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Saskatchewan%2C%20reference%20scenarios%2C%202021.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/133435189-8ec6ace5-8a8b-4996-89f5-3fa0b943cff6.png)
 
 *
 
@@ -245,7 +249,9 @@ Graphs for Saskatchewan were added here starting from uptake 20210726 onwards.
 
 **uptake 20210903**: DELP 20210903, IHME 20210902, IMPE 20210825, LANL 20210829, SRIV 20210903, **_PHAC 20210903_**
 
-.
+(3) Saskatchewan [Daily deaths, 3 scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210903/output/merge/main/SUB3%2014bDayDeaMERGsub%202021%203%20scenarios%20Saskatchewan%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Saskatchewan%2C%203%20scenarios%2C%202021.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/133435276-b9a51cc2-ba64-4f20-89e2-5250b37c72a1.png)
 
 *
 
@@ -354,7 +360,9 @@ Graphs for Saskatchewan were added here starting from uptake 20210726 onwards.
 
 **uptake 20210903**: DELP 20210903, IHME 20210902, IMPE 20210825, LANL 20210829, SRIV 20210903, **_PHAC 20210903_**
 
-.
+(4) Saskatchewan [Daily cases or infections, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210903/output/merge/main/SUB4%2031bDayCasMERGsub%20alltime%20Saskatchewan%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Saskatchewan%2C%20reference%20scenarios.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/133435396-72aee724-64d6-458c-bbe0-31f64503b371.png)
 
 *
 
@@ -462,7 +470,9 @@ Graphs for Saskatchewan were added here starting from uptake 20210726 onwards.
 
 **uptake 20210903**: DELP 20210903, IHME 20210902, IMPE 20210825, LANL 20210829, SRIV 20210903, **_PHAC 20210903_**
 
-.
+(5) Saskatchewan [Daily cases or infections, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210903/output/merge/main/SUB5%2032bDayCasMERGsub%202021%20Saskatchewan%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Saskatchewan%2C%20reference%20scenarios%2C%202021.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/133435513-e35d131f-db62-4f5b-9e02-78a6e8b781bc.png)
 
 *
 
@@ -573,7 +583,9 @@ Graphs for Saskatchewan were added here starting from uptake 20210726 onwards.
 
 **uptake 20210903**: DELP 20210903, IHME 20210902, IMPE 20210825, LANL 20210829, SRIV 20210903, **_PHAC 20210903_**
 
-.
+(6) Saskatchewan [Daily cases or infections, 3 scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210903/output/merge/main/SUB6%2034bDayCasMERGsub%202021%203scen%20Saskatchewan%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Saskatchewan%2C%203%20scenarios%2C%202021%2C%20uncertainty.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/133437747-b1d59e09-6dd9-415a-a376-ed40c79f22d7.png)
 
 *
 
@@ -687,7 +699,9 @@ Graphs for Saskatchewan were added here starting from uptake 20210726 onwards.
 
 **uptake 20210903**: DELP 20210903, IHME 20210902, IMPE 20210825, LANL 20210829, SRIV 20210903, **_PHAC 20210903_**
 
-.
+(7) Saskatchewan [Hospital-related outcomes, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210903/output/merge/main/SUB7%2071bDayHosMERGsub%20alltime%20Saskatchewan%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20Saskatchewan.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/133437862-3de69ead-f8a6-4b54-9f86-d702483007d7.png)
 
 *
 
@@ -799,7 +813,9 @@ Graphs for Saskatchewan were added here starting from uptake 20210726 onwards.
 
 **uptake 20210903**: DELP 20210903, IHME 20210902, IMPE 20210825, LANL 20210829, SRIV 20210903, **_PHAC 20210903_**
 
-.
+(8) Saskatchewan [Hospital-related outcomes, 2021, without IHME Bed need and IMPE Hospital demand](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210903/output/merge/main/SUB8%2073bDayHosMERGsub%202021%20woextremes%20Saskatchewan%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20Saskatchewan%2C%20wo%20extremes%2C%202021.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/133437924-9977addc-bc6a-47bf-8a89-62350fcd2138.png)
 
 *
 
@@ -910,7 +926,9 @@ Graphs for Saskatchewan were added here starting from uptake 20210726 onwards.
 
 **uptake 20210903**: DELP 20210903, IHME 20210902, IMPE 20210825, LANL 20210829, SRIV 20210903, **_PHAC 20210903_**
 
-.
+(9) Saskatchewan [Daily deaths estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210903/output/merge/main/SUB9%2092bDayDERMERGsub%202021%20Saskatchewan%20-%20COVID-19%20daily%20deaths%20estimated%20to%20reported%2C%20Canada%2C%20Saskatchewan%2C%20reference%20scenarios%2C%202021.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/133438018-ef18d965-cca0-440b-8ff3-330dd7ee1440.png)
 
 *
 
@@ -1022,7 +1040,9 @@ Graphs for Saskatchewan were added here starting from uptake 20210726 onwards.
 
 **uptake 20210903**: DELP 20210903, IHME 20210902, IMPE 20210825, LANL 20210829, SRIV 20210903, **_PHAC 20210903_**
 
-.
+(10) Saskatchewan [Daily cases or infections estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210903/output/merge/main/SUB10%2094bDayCERMERGsub%202021%20Saskatchewan%20-%20COVID-19%20daily%20cases%20estimated%20to%20reported%2C%20Canada%2C%20Saskatchewan%2C%20reference%20scenarios%2C%202021.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/133438124-e48e143a-18f1-4e7a-aff1-0dad31752cd8.png)
 
 *
 
