@@ -1,5 +1,3 @@
-! Read Canada COVID-19 epidemic models situation report No 03 - 2021-08-19 [here](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/03%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2003%20-%202021-08-23.pdf)
-
 ### Study update dates in uptake 20210819
 
 DELP 20210819, **_IHME 20210819_**, IMPE 20210806, LANL 20210815, SRIV 20210819
