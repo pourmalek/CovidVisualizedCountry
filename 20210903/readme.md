@@ -1,4 +1,4 @@
-! Read Canada COVID-19 epidemic models situation report No 08 - 2021-09-03 [here](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/08%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2007%20-%202021-09-03.pdf)
+! Read Canada COVID-19 epidemic models situation report No 08 - 2021-09-03 [here](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/08%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2008%20-%202021-09-03.pdf)
 
 
 ### Study update dates in uptake 20210903
