@@ -53,7 +53,7 @@ For a streamlined view of this repository, see: https://pourmalek.github.io/Covi
   
   [![global_reach](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/sandbox/global_reach.jpg?raw=true)](https://profiles.impactstory.org/u/0000-0002-2134-0771/achievements) [`Global Reach Top 10%`](https://profiles.impactstory.org/u/0000-0002-2134-0771/achievements)
  
-  || [UBC SPPH](https://www.spph.ubc.ca/person/farshad-pourmalek/) || [UW IHME](http://www.healthdata.org/about/farshad-pourmalek) || [YouCheck](https://youcheck.ca)  
+  || [UBC SPPH](https://www.spph.ubc.ca/person/farshad-pourmalek/)   ||   [UW IHME](http://www.healthdata.org/about/farshad-pourmalek)   ||   [YouCheck](https://youcheck.ca)  
 * Time (initial): 2021-04-14
 ********************************************************************************************************************************************
 ********************************************************************************************************************************************  
