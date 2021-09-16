@@ -1,9 +1,10 @@
 # CovidVisualizedCountry
 
 ## ! If you are in a rush, look at the graphs in the [latest Situation report](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/09%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2009%20-%202021-09-10.pdf). 
-<br/><br/>
 
 For a streamlined view of this repository, see: https://pourmalek.github.io/CovidVisualizedCountry/ 
+
+<br/><br/>
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) 
 [![DOI](https://zenodo.org/badge/358416574.svg)](https://zenodo.org/badge/latestdoi/358416574)
