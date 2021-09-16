@@ -54,7 +54,7 @@ For a streamlined view of this repository, see: https://pourmalek.github.io/Covi
 ```diff
 + text in green
   
-```
+```diff
   
   || [UBC SPPH](https://www.spph.ubc.ca/person/farshad-pourmalek/) || [UW IHME](http://www.healthdata.org/about/farshad-pourmalek) || [YouCheck](https://youcheck.ca)  
 * Time (initial): 2021-04-14
