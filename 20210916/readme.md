@@ -9,10 +9,6 @@ Note: IMPE update 20210825 was dead at birth for IRAN since predicted daily deat
 
 <br/><br/>
 
-[IHME COVID-19 Results Briefing - Canada - 20210909](http://www.healthdata.org/sites/default/files/covid_briefs/101_briefing_Canada.pdf) || [PDF](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210916/IHME%20COVID-19%20Results%20Briefing%20-%20Canada%20-%2020210909.pdf)
-
-<br/><br/>
-
 
 #### PHAC = PHAC-McMaster model 20210903
 
