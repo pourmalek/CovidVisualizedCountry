@@ -159,7 +159,7 @@ Daily death rates have been retired by IHME starting from IHME update 20210916.
 
 ****
 
-
+(11) Canada [Daily Infection-outcomes ratios, global 3 scenarios, all time, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210916/output/merge/main/graph%2091a%20COVID-19%20daily%20Infection%20outcomes%20ratios%2C%20Canada%2C%20National%203%20scenarios%2C%20IHME.pdf)
 
 
 ****
