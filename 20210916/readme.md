@@ -4,13 +4,23 @@
 
 DELP 20210916, **_IHME 20210916_**, IMPE 20210825, LANL 20210912, SRIV 20210916, PHAC 20210903
 
+<br/><br/>
 
-Note: IMPE update 20210825 was dead at birth for IRAN since predicted daily deaths was less than report daily deaths during the overlap interval. This does not increase accuracy of predictions for other locations.
+#### Notes on IMPE model:
+
+(1) On 20210920, IMPE removed their THREE available previous updates, and uploaded their new update, 2021-09-09_v8.csv.zip. "GBarnsley Remove old pages to save on site space 63c9e0e". 
+
+As such, their update 2021-08-25_v8. csv is no longer publicly available. 
+
+For use in this code, IMPE estimates for Canada from "2021-08-25_v8.csv" is stored in file "2021-08-25_v8 Canada.csv".
+
+
+(2) IMPE update 20210825 was dead at birth for IRAN since predicted daily deaths was less than report daily deaths during the overlap interval. This does not increase accuracy of predictions for other locations.
 
 <br/><br/>
 
 
-#### PHAC = PHAC-McMaster model 20210903
+#### Notes on PHAC model, PHAC-McMaster model 20210903:
 
 The Source document used for acquisition of PHAC-McMaster model 20210903 estimates:
 
@@ -36,6 +46,12 @@ Reference scenario: Updated scenario with current rate of vaccination.
 
 Better scenario: Updated scenario with increased uptake among ages 18-39 and expedited vaccination rate.
 
+<br/><br/>
+
+
+#### Notes on IHME model:
+
+IHME update 20210916 includes a few new types of estimates, including Cumulative Vaccinated. 
 
 <br/><br/>
 
@@ -125,7 +141,7 @@ Better scenario: Updated scenario with increased uptake among ages 18-39 and exp
 
 (7c) Canada [Hospital-related outcomes, all time, with PHAC, with IHME bed capacity and ICu capacity](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210916/output/merge/main/CAN7%2071a22DayHosMERGnat%20%20alltime%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20National%20PHAC.pdf)
 
-Note: Value of the "IHME All bed capacity" is overwhelmingly different with that of the "PHAC Hospital capacity for COVID-19 patients”. 
+Note: The value of the "IHME All bed capacity" is overwhelmingly different with that of the "PHAC Hospital capacity for COVID-19 patients”. 
 
 ![image](https://user-images.githubusercontent.com/30849720/134048300-a58d960d-e8ca-419f-b45d-fb942dac9ee0.png)
 
