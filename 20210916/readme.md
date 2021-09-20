@@ -167,7 +167,7 @@ Daily death rates have been retired by IHME starting from IHME update 20210916.
 
 ****
 
-Daily mobility, IHME, not available for Canada at m\national level. 
+Daily mobility, IHME, not available for Canada at the national level. 
 
 ****
 
@@ -251,6 +251,20 @@ Daily mobility, IHME, not available for Canada at m\national level.
 (10) Alberta [Daily cases or infections estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210916/output/merge/main/SUB10%2094bDayCERMERGsub%202021%20Alberta%20-%20COVID-19%20daily%20cases%20estimated%20to%20reported%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios%2C%202021.pdf)
 
 ![image](https://user-images.githubusercontent.com/30849720/134057770-553d759f-01ee-4dd2-be0a-2ee0758dac19.png)
+
+****
+
+(11) Alberta [Daily Infection-outcomes ratios, 3 scenarios, all time, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210916/output/merge/main/graph%2091b%20COVID-19%20daily%20Infection%20outcomes%20ratios%2C%20Canada%2C%20Alberta%203%20scenarios%2C%20IHME.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/134058359-c6ca4e15-566a-4383-a957-aa7ca27d36ea.png)
+
+****
+
+(12) Alberta Daily mobility, 3 scenarios, all time, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210916/output/merge/main/graph%2092a%20COVID-19%20daily%20mobility%2C%20Canada%2C%20Alberta%2C%203%20scenarios.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/134058757-7c9763da-2b64-47fd-b231-fac1b03154ea.png)
+
+****
 
 
 
