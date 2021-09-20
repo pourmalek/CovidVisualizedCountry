@@ -147,19 +147,37 @@ Better scenario: Updated scenario with increased uptake among ages 18-39 and exp
 
 ****
 
-(11) Canada and provinces - Daily death rates, reference scenario, all time, IHME
+(11 old) Canada and provinces - Daily death rates, reference scenario, all time, IHME
 
 Daily death rates have been retired by IHME starting from IHME update 20210916.
 
 ****
 
-(12) Canada and provinces - Daily death rates, reference scenario, 2021 IHME 
+(12 old) Canada and provinces - Daily death rates, reference scenario, 2021 IHME 
 
 Daily death rates have been retired by IHME starting from IHME update 20210916.
 
 ****
 
 (11) Canada [Daily Infection-outcomes ratios, global 3 scenarios, all time, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210916/output/merge/main/graph%2091a%20COVID-19%20daily%20Infection%20outcomes%20ratios%2C%20Canada%2C%20National%203%20scenarios%2C%20IHME.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/134050818-3b60948f-ad02-49dc-9f5a-d6d184a70f57.png)
+
+****
+
+Daily mobility, IHME, not available for Canada at m\national level. 
+
+****
+
+(12) Canada [Daily mask use, global, 3 scenarios, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210916/output/merge/main/graph%2093a%20COVID-19%20daily%20mask_use%2C%20Canada%2C%20National%2C%203%20scenarios.pdf) 
+
+![image](https://user-images.githubusercontent.com/30849720/134051544-3907eb7d-1398-40bd-b933-ee58da45d36d.png)
+
+****
+
+
+
+
 
 
 ****
