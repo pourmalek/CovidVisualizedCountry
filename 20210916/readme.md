@@ -272,6 +272,16 @@ Daily mobility, IHME, not available for Canada at the national level.
 
 ****
 
+(14) Percent [Percent cumulative vaccinated, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210916/output/merge/main/graph%2094b%20COVID-19%20percent%20cumulative%20vaccinated%2C%20Canada%2C%20Alberta.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/134060629-da94537e-18f8-4d16-a3f7-d20260264c6c.png)
+
+****
+
+
+
+
+
 ****
 ****
 
