@@ -31,17 +31,26 @@ clear all
 
 * get IMPE estimates
 
+/*
+
 copy https://raw.githubusercontent.com/mrc-ide/global-lmic-reports/master/data/2021-08-25_v8.csv.zip 2021-08-25_v8.csv.zip
 unzipfile 2021-08-25_v8.csv.zip, replace
 erase 2021-08-25_v8.csv.zip
 
+Note: On 20210920, IMPE removed their THREE available previous updates, and uploaded their new update, 2021-09-09_v8.csv.zip. "GBarnsley Remove old pages to save on site space 63c9e0e". 
+
+As such, their update 2021-08-25_v8. csv is no longer publicly available. 
+
+For use in this code, IMPE estimates for Canada from “2021-08-25_v8.csv” is stored in file "2021-08-25_v8 Canada.csv".
+
+*/
 
  
 ******************************
 
 * import csv file
 
-import delimited "2021-08-25_v8.csv", clear varnames(1) // * Wait Note: large file size, takes a while ...
+import delimited "2021-08-25_v8 Canada.csv", clear varnames(1) // * Wait Note: large file size, takes a while ...
 
 
 keep if country == "$country"
