@@ -125,6 +125,8 @@ Better scenario: Updated scenario with increased uptake among ages 18-39 and exp
 
 (7c) Canada [Hospital-related outcomes, all time, with PHAC, with IHME bed capacity and ICu capacity](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210916/output/merge/main/CAN7%2071a22DayHosMERGnat%20%20alltime%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20National%20PHAC.pdf)
 
+Note: Value of the "IHME All bed capacity" is overwhelmingly different with that od the "PHAC Hospital capacity for COVID-19 patients”. 
+
 ![image](https://user-images.githubusercontent.com/30849720/134048300-a58d960d-e8ca-419f-b45d-fb942dac9ee0.png)
 
 ****
