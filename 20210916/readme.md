@@ -266,7 +266,11 @@ Daily mobility, IHME, not available for Canada at the national level.
 
 ****
 
+(13) Alberta [Daily mask use, 3 scenarios, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210916/output/merge/main/graph%2093b%20COVID-19%20daily%20mask_use%2C%20Canada%2C%20Alberta%2C%203%20scenarios.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/134060206-0aee72ad-93e0-4e8e-ae8c-693dc22b085f.png)
+
+****
 
 ****
 ****
