@@ -224,9 +224,9 @@ Daily mobility, IHME, not available for Canada at the national level.
 
 ****
 
-(3) Alberta [Daily deaths, 3 scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210916/output/merge/main/CAN3%2014a2DayDeaMERGnat%202021%203%20scenarios%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20National%2C%203%20scenarios%2C%202021.pdf)
+(3) Alberta [Daily deaths, 3 scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210916/output/merge/main/SUB3%2014b1DayDeaMERGsub%202021%203%20scenarios%20Alberta%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Alberta%2C%203%20scenarios%2C%202021.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/134052995-87c77091-dc41-4500-b057-2219eb30fd27.png)
+![image](https://user-images.githubusercontent.com/30849720/134258634-929337c1-d7cb-4669-8f9a-330a4a96633f.png)
 
 ****
 
@@ -317,9 +317,9 @@ Daily mobility, IHME, not available for Canada at the national level.
 
 ****
 
-(3) British Columbia [Daily deaths, 3 scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210916/output/merge/main/SUB3%2014b2DayDeaMERGsub%202021%203%20scenarios%20British%20Columbia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20British%20Columbia%2C%203%20scenarios%2C%202021.pdf)
+(3) British Columbia [Daily deaths, 3 scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210916/output/merge/main/SUB3%2014b1DayDeaMERGsub%202021%203%20scenarios%20British%20Columbia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20British%20Columbia%2C%203%20scenarios%2C%202021.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/134073362-1b5f51ad-f025-4529-8400-3971fe897a1d.png)
+![image](https://user-images.githubusercontent.com/30849720/134258734-7e831f14-a5e0-4b2f-8b84-f4934e8ae046.png)
 
 ****
 
@@ -413,7 +413,7 @@ Daily mobility, IHME, not available for Canada at the national level.
 
 (3) Manitoba [Daily deaths, 3 scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210916/output/merge/main/SUB3%2014b1DayDeaMERGsub%202021%203%20scenarios%20Manitoba%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Manitoba%2C%203%20scenarios%2C%202021.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/134234505-1efd8a1f-c67e-4d89-8d13-ab9676428704.png)
+![image](https://user-images.githubusercontent.com/30849720/134258805-51a9f97e-fc79-4b3a-b5e6-aa518be44a6d.png)
 
 ****
 
