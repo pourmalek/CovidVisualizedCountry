@@ -546,7 +546,7 @@ Daily mobility, IHME, not available for Canada at the national level.
 
 (3) Ontario [Daily deaths, 3 scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210916/output/merge/main/SUB3%2014bDayDeaMERGsub%202021%203%20scenarios%20Ontario%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Ontario%2C%203%20scenarios%2C%202021.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/134236661-e2eb40a3-2e9d-42c6-83d0-8296e99a99a3.png)
+...
 
 ****
 
