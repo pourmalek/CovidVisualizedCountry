@@ -575,31 +575,31 @@ Daily mobility, IHME, not available for Canada at the national level.
 
 (11) Nova Scotia [R effective, 3 scenarios](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210916/output/IHME/graph%2072a%20C-19%20R%20effective%2C%20Canada%2C%20Nova%20Scotia%2C%20IHME%2C%203%20scenarios.pdf)
 
-.
+![image](https://user-images.githubusercontent.com/30849720/134262207-81f59134-6adb-492c-b8e8-b5a675b91783.png)
 
 ****
 
 (12) Nova Scotia [Daily Infection-outcomes ratios, 3 scenarios, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210916/output/merge/main/graph%2091b%20COVID-19%20daily%20Infection%20outcomes%20ratios%2C%20Canada%2C%20Nova%20Scotia%203%20scenarios%2C%20IHME.pdf)
 
-.
+![image](https://user-images.githubusercontent.com/30849720/134262260-f582654e-f99a-4866-851a-1997f8076d0a.png)
 
 ****
 
 (13) Nova Scotia [Daily mobility, 3 scenarios, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210916/output/merge/main/graph%2092a%20COVID-19%20daily%20mobility%2C%20Canada%2C%20Nova%20Scotia%2C%203%20scenarios.pdf)
 
-.
+![image](https://user-images.githubusercontent.com/30849720/134262439-bef027d1-7857-4d4a-ab97-9337f4e590da.png)
 
 ****
 
 (14) Nova Scotia [Daily mask use, 3 scenarios, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210916/output/merge/main/graph%2093b%20COVID-19%20daily%20mask_use%2C%20Canada%2C%20Nova%20Scotia%2C%203%20scenarios.pdf)
 
-.
+![image](https://user-images.githubusercontent.com/30849720/134262519-f346c201-0daf-4b1f-a0bd-4e34cf95bced.png)
 
 ****
 
 (15) Nova Scotia [Percent cumulative vaccinated, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210916/output/merge/main/graph%2094b%20COVID-19%20percent%20cumulative%20vaccinated%2C%20Canada%2C%20Nova%20Scotia.pdf)
 
-.
+![image](https://user-images.githubusercontent.com/30849720/134262583-3e501d01-78ca-4947-9ccf-64521e4c4a88.png)
 
 ****
 
