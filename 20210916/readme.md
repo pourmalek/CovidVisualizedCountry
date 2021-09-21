@@ -179,6 +179,10 @@ Daily death rates have been retired by IHME starting from IHME update 20210916.
 
 ****
 
+R effective, IHME, not available for Canada at the national level. 
+
+****
+
 (11) Canada [Daily Infection-outcomes ratios, 3 scenarios, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210916/output/merge/main/graph%2091a%20COVID-19%20daily%20Infection%20outcomes%20ratios%2C%20Canada%2C%20National%203%20scenarios%2C%20IHME.pdf)
 
 ![image](https://user-images.githubusercontent.com/30849720/134050818-3b60948f-ad02-49dc-9f5a-d6d184a70f57.png)
@@ -272,25 +276,31 @@ Daily mobility, IHME, not available for Canada at the national level.
 
 ****
 
-(11) Alberta [Daily Infection-outcomes ratios, 3 scenarios, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210916/output/merge/main/graph%2091b%20COVID-19%20daily%20Infection%20outcomes%20ratios%2C%20Canada%2C%20Alberta%203%20scenarios%2C%20IHME.pdf)
+(11) Alberta [R effective, 3 scenarios](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210916/output/IHME/graph%2072a%20C-19%20R%20effective%2C%20Canada%2C%20Alberta%2C%20IHME%2C%203%20scenarios.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/134260454-d07632ea-c80d-4df0-ab6c-d279f65b8fb6.png)
+
+****
+
+(12) Alberta [Daily Infection-outcomes ratios, 3 scenarios, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210916/output/merge/main/graph%2091b%20COVID-19%20daily%20Infection%20outcomes%20ratios%2C%20Canada%2C%20Alberta%203%20scenarios%2C%20IHME.pdf)
 
 ![image](https://user-images.githubusercontent.com/30849720/134058359-c6ca4e15-566a-4383-a957-aa7ca27d36ea.png)
 
 ****
 
-(12) Alberta [Daily mobility, 3 scenarios, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210916/output/merge/main/graph%2092a%20COVID-19%20daily%20mobility%2C%20Canada%2C%20Alberta%2C%203%20scenarios.pdf)
+(13) Alberta [Daily mobility, 3 scenarios, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210916/output/merge/main/graph%2092a%20COVID-19%20daily%20mobility%2C%20Canada%2C%20Alberta%2C%203%20scenarios.pdf)
 
 ![image](https://user-images.githubusercontent.com/30849720/134058757-7c9763da-2b64-47fd-b231-fac1b03154ea.png)
 
 ****
 
-(13) Alberta [Daily mask use, 3 scenarios, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210916/output/merge/main/graph%2093b%20COVID-19%20daily%20mask_use%2C%20Canada%2C%20Alberta%2C%203%20scenarios.pdf)
+(14) Alberta [Daily mask use, 3 scenarios, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210916/output/merge/main/graph%2093b%20COVID-19%20daily%20mask_use%2C%20Canada%2C%20Alberta%2C%203%20scenarios.pdf)
 
 ![image](https://user-images.githubusercontent.com/30849720/134060206-0aee72ad-93e0-4e8e-ae8c-693dc22b085f.png)
 
 ****
 
-(14) Alberta [Percent cumulative vaccinated, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210916/output/merge/main/graph%2094b%20COVID-19%20percent%20cumulative%20vaccinated%2C%20Canada%2C%20Alberta.pdf)
+(15) Alberta [Percent cumulative vaccinated, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210916/output/merge/main/graph%2094b%20COVID-19%20percent%20cumulative%20vaccinated%2C%20Canada%2C%20Alberta.pdf)
 
 ![image](https://user-images.githubusercontent.com/30849720/134060629-da94537e-18f8-4d16-a3f7-d20260264c6c.png)
 
