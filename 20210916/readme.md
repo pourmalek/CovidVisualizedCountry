@@ -276,7 +276,7 @@ Daily mobility, IHME, not available for Canada at the national level.
 
 ****
 
-(11) Alberta [R effective, 3 scenarios](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210916/output/IHME/graph%2072a%20C-19%20R%20effective%2C%20Canada%2C%20Alberta%2C%20IHME%2C%203%20scenarios.pdf)
+(11) Alberta [R effective, 3 scenarios, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210916/output/IHME/graph%2072a%20C-19%20R%20effective%2C%20Canada%2C%20Alberta%2C%20IHME%2C%203%20scenarios.pdf)
 
 ![image](https://user-images.githubusercontent.com/30849720/134260454-d07632ea-c80d-4df0-ab6c-d279f65b8fb6.png)
 
@@ -375,7 +375,7 @@ Daily mobility, IHME, not available for Canada at the national level.
 
 ****
 
-(11) British Columbia [R effective, 3 scenarios](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210916/output/IHME/graph%2072a%20C-19%20R%20effective%2C%20Canada%2C%20British%20Columbia%2C%20IHME%2C%203%20scenarios.pdf)
+(11) British Columbia [R effective, 3 scenarios, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210916/output/IHME/graph%2072a%20C-19%20R%20effective%2C%20Canada%2C%20British%20Columbia%2C%20IHME%2C%203%20scenarios.pdf)
 
 ![image](https://user-images.githubusercontent.com/30849720/134260821-635ecf08-912c-4dd8-8cb2-205bb6f382e1.png)
 
@@ -475,7 +475,7 @@ Daily mobility, IHME, not available for Canada at the national level.
 
 ****
 
-(11) Manitoba [R effective, 3 scenarios](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210916/output/IHME/graph%2072a%20C-19%20R%20effective%2C%20Canada%2C%20Manitoba%2C%20IHME%2C%203%20scenarios.pdf)
+(11) Manitoba [R effective, 3 scenarios, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210916/output/IHME/graph%2072a%20C-19%20R%20effective%2C%20Canada%2C%20Manitoba%2C%20IHME%2C%203%20scenarios.pdf)
 
 ![image](https://user-images.githubusercontent.com/30849720/134261584-debe59f5-d0fe-4525-89a1-841167db2030.png)
 
@@ -573,7 +573,7 @@ Daily mobility, IHME, not available for Canada at the national level.
 
 ****
 
-(11) Nova Scotia [R effective, 3 scenarios](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210916/output/IHME/graph%2072a%20C-19%20R%20effective%2C%20Canada%2C%20Nova%20Scotia%2C%20IHME%2C%203%20scenarios.pdf)
+(11) Nova Scotia [R effective, 3 scenarios, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210916/output/IHME/graph%2072a%20C-19%20R%20effective%2C%20Canada%2C%20Nova%20Scotia%2C%20IHME%2C%203%20scenarios.pdf)
 
 ![image](https://user-images.githubusercontent.com/30849720/134262207-81f59134-6adb-492c-b8e8-b5a675b91783.png)
 
