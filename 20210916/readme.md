@@ -383,6 +383,7 @@ Daily mobility, IHME, not available for Canada at the national level.
 
 (12) British Columbia [Daily Infection-outcomes ratios, 3 scenarios, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210916/output/merge/main/graph%2091b%20COVID-19%20daily%20Infection%20outcomes%20ratios%2C%20Canada%2C%20British%20Columbia%203%20scenarios%2C%20IHME.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/134261355-2e3581f0-56b3-460c-9f9d-1ca31aeaa0fd.png)
 
 ****
 
