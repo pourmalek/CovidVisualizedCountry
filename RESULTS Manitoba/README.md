@@ -1221,6 +1221,8 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
   
 *
 
+**uptake 20210916**: DELP 20210916, **_IHME 20210916_**, IMPE 20210825, LANL 20210912, SRIV 20210916, PHAC 20210903
+
 (11) Manitoba [R effective, 3 scenarios, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210916/output/IHME/graph%2072a%20C-19%20R%20effective%2C%20Canada%2C%20Manitoba%2C%20IHME%2C%203%20scenarios.pdf)
 
 ![image](https://user-images.githubusercontent.com/30849720/134261584-debe59f5-d0fe-4525-89a1-841167db2030.png)
@@ -1246,6 +1248,8 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
 
 
 *
+
+**uptake 20210916**: DELP 20210916, **_IHME 20210916_**, IMPE 20210825, LANL 20210912, SRIV 20210916, PHAC 20210903
 
 (12) Manitoba [Daily Infection-outcomes ratios, 3 scenarios, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210916/output/merge/main/graph%2091b%20COVID-19%20daily%20Infection%20outcomes%20ratios%2C%20Canada%2C%20Manitoba%203%20scenarios%2C%20IHME.pdf)
 
@@ -1273,6 +1277,8 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
 
 *
 
+**uptake 20210916**: DELP 20210916, **_IHME 20210916_**, IMPE 20210825, LANL 20210912, SRIV 20210916, PHAC 20210903
+
 (13) Manitoba [Daily mobility, 3 scenarios, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210916/output/merge/main/graph%2092a%20COVID-19%20daily%20mobility%2C%20Canada%2C%20Manitoba%2C%203%20scenarios.pdf)
 
 ![image](https://user-images.githubusercontent.com/30849720/134261699-b84bf390-1c6b-43ec-863c-ed4eea5b3c37.png)
@@ -1295,9 +1301,9 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
 
 
 
-
-
 *
+
+**uptake 20210916**: DELP 20210916, **_IHME 20210916_**, IMPE 20210825, LANL 20210912, SRIV 20210916, PHAC 20210903
 
 (14) Manitoba [Daily mask use, 3 scenarios, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210916/output/merge/main/graph%2093b%20COVID-19%20daily%20mask_use%2C%20Canada%2C%20Manitoba%2C%203%20scenarios.pdf)
 
@@ -1319,6 +1325,11 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
 #### graph (15) Manitoba - Percent cumulative vaccinated, IHME
 
 
+
+
+*
+
+**uptake 20210916**: DELP 20210916, **_IHME 20210916_**, IMPE 20210825, LANL 20210912, SRIV 20210916, PHAC 20210903
 
 (15) Manitoba [Percent cumulative vaccinated, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210916/output/merge/main/graph%2094b%20COVID-19%20percent%20cumulative%20vaccinated%2C%20Canada%2C%20Manitoba.pdf)
 
