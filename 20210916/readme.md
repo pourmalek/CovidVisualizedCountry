@@ -867,31 +867,31 @@ Daily mobility, IHME, not available for Canada at the national level.
 
 (11) Saskatchewan [R effective, 3 scenarios, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210916/output/IHME/graph%2072a%20C-19%20R%20effective%2C%20Canada%2C%20Saskatchewan%2C%20IHME%2C%203%20scenarios.pdf)
 
-.
+![image](https://user-images.githubusercontent.com/30849720/134264199-cdab9216-a355-4e05-b13a-628330abb02c.png)
 
 ****
 
 (12) Saskatchewan [Daily Infection-outcomes ratios, 3 scenarios, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210916/output/merge/main/graph%2091b%20COVID-19%20daily%20Infection%20outcomes%20ratios%2C%20Canada%2C%20Saskatchewan%203%20scenarios%2C%20IHME.pdf)
 
-.
+![image](https://user-images.githubusercontent.com/30849720/134264265-6ff64038-0375-49d7-8e40-65fe863296dc.png)
 
 ****
 
 (13) Saskatchewan [Daily mobility, 3 scenarios, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210916/output/merge/main/graph%2092a%20COVID-19%20daily%20mobility%2C%20Canada%2C%20Saskatchewan%2C%203%20scenarios.pdf)
 
-.
+![image](https://user-images.githubusercontent.com/30849720/134264315-caa800b7-6f96-4803-8c4f-7096cb9b6745.png)
 
 ****
 
 (14) Saskatchewan [Daily mask use, 3 scenarios, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210916/output/merge/main/graph%2093b%20COVID-19%20daily%20mask_use%2C%20Canada%2C%20Saskatchewan%2C%203%20scenarios.pdf)
 
-.
+![image](https://user-images.githubusercontent.com/30849720/134264357-43ae3d78-1c67-4996-969d-bca330d73d46.png)
 
 ****
 
 (15) Saskatchewan [Percent cumulative vaccinated, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210916/output/merge/main/graph%2094b%20COVID-19%20percent%20cumulative%20vaccinated%2C%20Canada%2C%20Saskatchewan.pdf)
 
-.
+![image](https://user-images.githubusercontent.com/30849720/134264403-4a471038-02d1-496e-a8d0-a6eba110c2e7.png)
 
 ****
 
