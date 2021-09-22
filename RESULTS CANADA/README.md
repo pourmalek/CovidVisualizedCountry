@@ -2341,12 +2341,13 @@
 #### graph (11) Canada and provinces - Daily death rates, reference scenario, all time, IHME
   
   
+This graph was added here starting with uptake 20210726. 
+
+
+IHME Daily death rates were retired from IHME updtae 20210916.  
   
-*
+  
 
-**uptake 20210916**: DELP 20210916, **_IHME 20210916_**, IMPE 20210825, LANL 20210912, SRIV 20210916, PHAC 20210903
-
-.
 
 *
 
@@ -2566,15 +2567,14 @@
 
 #### graph (12) Canada and provinces - Daily death rates, reference scenario, 2021 IHME
   
-This graph was added here starting with uptake 20210726.    
   
-  
-  
-*
+This graph was added here starting with uptake 20210726. 
 
-**uptake 20210916**: DELP 20210916, **_IHME 20210916_**, IMPE 20210825, LANL 20210912, SRIV 20210916, PHAC 20210903
 
-.
+IHME Daily death rates were retired from IHME updtae 20210916.
+  
+  
+
 
 *
 
@@ -2688,7 +2688,7 @@ This graph was added here starting with uptake 20210726.
 ****
 ****  
 
-#### graph (11) Canada and provinces - Daily Infection-outcomes ratios, 3 scenarios, IHME
+#### graph (11) Canada - Daily Infection-outcomes ratios, 3 scenarios, IHME
 
 
 
@@ -2714,7 +2714,7 @@ This graph was added here starting with uptake 20210726.
 ****
 ****  
 
-#### graph (12) Canada and provinces - Daily mask use, 3 scenarios, IHME
+#### graph (12) Canada - Daily mask use, 3 scenarios, IHME
 
 
 
@@ -2744,7 +2744,7 @@ This graph was added here starting with uptake 20210726.
 ****
 ****  
 
-#### graph (13) Canada and provinces - Percent cumulative vaccinated, IHME
+#### graph (13) Canada - Percent cumulative vaccinated, IHME
 
 
 
