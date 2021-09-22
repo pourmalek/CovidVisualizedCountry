@@ -1554,25 +1554,43 @@ _Component studies (the international periodically updated models) and their sce
   
 ### List of graphs  
   
-(1) Daily deaths, reference scenarios, all time
+  
+graph (1) Location - Daily deaths, reference scenarios, all time
 
-(2) Daily deaths, reference scenarios, 2021
+graph (2) Location - Daily deaths, reference scenarios, 2021
   
-(3) Daily deaths, 3 scenarios, 2021
-  
-(4) Daily cases or infections, reference scenarios, all time
+graph (3) Location - Daily deaths, 2021, reference scenario with uncertainty, IHME, 2021
 
-(5) Daily cases or infections, reference scenarios, 2021
+graph (4) Location - Daily deaths, 2021, reference scenario with uncertainty, IHME
   
-(6) Daily cases or infections, 3 scenarios, 2021
-  
-(7) Hospital-related outcomes, all time
-  
-(8) Hospital-related outcomes, 2021, without IHME Bed need and IMPE Hospital demand
-  
-(9) Daily deaths estimated to reported, reference scenarios, 2021
-  
-(10) Daily cases or infections estimated to reported cases, reference scenarios, 2021
+graph (5) Location - Daily deaths, 2021, reference scenario with uncertainty, IMPE 
+ 
+graph (6) Location - Daily deaths, 2021, 3 scenarios, IMPE
+
+graph (7) Location - Daily cases or infections, all time
+ 
+graph (8) Location - Daily cases or infections, 2021
+ 
+graph (9) Location - Hospital-related outcomes, all time
+ 
+graph (10) Location - Hospital-related outcomes, 2021
+ 
+graph (11) Location - Daily deaths estimated to reported, all time
+ 
+graph (12) Location - Daily cases or infections estimated to reported cases, 2021
+
+.
+
+graph (13) Location - R effective, Iran, 3 scenarios, June 2021 on, IHME
+ 
+graph (14) Location - Daily Infection-outcome ratios, Iran 3 scenarios, IHME
+
+graph (15) Location - Daily mobility, Iran, 3 scenarios IHME
+
+graph (16) Location - Daily mask use, Iran, 3 scenarios, IHME
+
+graph (17) Location - Percent cumulative vaccinated, Iran, IHME
+
 
 ****
     
@@ -1586,7 +1604,7 @@ _Component studies (the international periodically updated models) and their sce
   
     . To examine changes in predictions across consecutive uptakes
   
-3.	_Outcomes_: Daily deaths, Daily cases or infections, Hospital-related outcomes, Daily deaths estimated to reported, Daily cases or infections estimated to reported cases.
+3.	_Outcomes_: Daily deaths, Daily cases or infections, Hospital-related outcomes, Daily deaths estimated to reported, Daily cases or infections estimated to reported cases. Followed by extra outcomes estimated by IHME and added starting from uptake 20210916, i.e., R effective, Daily Infection-outcome ratios, Daily mobility, Daily mask use, and (Percent) cumulative vaccinated.
   
     . To examine different outcomes with different public health consequences and model performance implications
   
