@@ -2674,6 +2674,91 @@ This graph was added here starting with uptake 20210726.
   
 *  
  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+****
+****  
+
+#### graph (11) Canada and provinces - Daily Infection-outcomes ratios, 3 scenarios, IHME
+
+
+
+
+*
+
+(11) Canada [Daily Infection-outcomes ratios, 3 scenarios, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210916/output/merge/main/graph%2091a%20COVID-19%20daily%20Infection%20outcomes%20ratios%2C%20Canada%2C%20National%203%20scenarios%2C%20IHME.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/134050818-3b60948f-ad02-49dc-9f5a-d6d184a70f57.png)
+
+*
+
+
+
+
+
+
+
+
+
+
+
+****
+****  
+
+#### graph (12) Canada and provinces - Daily mask use, 3 scenarios, IHME
+
+
+
+
+*
+
+(12) Canada [Daily mask use, 3 scenarios, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210916/output/merge/main/graph%2093a%20COVID-19%20daily%20mask_use%2C%20Canada%2C%20National%2C%203%20scenarios.pdf) 
+
+![image](https://user-images.githubusercontent.com/30849720/134051544-3907eb7d-1398-40bd-b933-ee58da45d36d.png)
+
+*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+****
+****  
+
+#### graph (13) Canada and provinces - Percent cumulative vaccinated, IHME
+
+
+
+
+*
+
+(13) Canada [Percent cumulative vaccinated, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210916/output/merge/main/graph%2094a%20COVID-19%20percent%20cumulative%20vaccinated%2C%20Canada%2C%20National.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/134052239-26b871e3-4561-4bde-8800-e71af8b71173.png)
+
+*
+
+
+
    
 
 ****
