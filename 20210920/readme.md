@@ -240,6 +240,7 @@ Daily mobility, IHME, not available for Canada at the national level.
 
 (7) Alberta [Hospital-related outcomes, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210920/output/merge/main/SUB7%2071bDayHosMERGsub%20alltime%20Alberta%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20Alberta.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/134509924-fb5b2df9-05ce-4269-b8c5-6f7a138d5c3e.png)
 
 ****
 
