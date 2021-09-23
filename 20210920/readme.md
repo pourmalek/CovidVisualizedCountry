@@ -333,7 +333,7 @@ Daily mobility, IHME, not available for Canada at the national level.
 
 (6) British Columbia [Daily cases or infections, 3 scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210920/output/merge/main/SUB6%2034bDayCasMERGsub%202021%203scen%20British%20Columbia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20British%20Columbia%2C%203%20scenarios%2C%202021%2C%20uncertainty.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/134516960-42094bb4-2d76-42a3-b0f6-94c6465f9e82.png)
+![image](https://user-images.githubusercontent.com/30849720/134551949-5e103bee-fc40-439c-b968-bee2e4d436bc.png)
 
 ****
 
