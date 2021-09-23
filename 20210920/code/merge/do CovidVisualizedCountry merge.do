@@ -554,6 +554,17 @@ isid loc_grand_name provincestate date, missok
 
 drop _merge
 
+
+summ date if DayDeaMeRaA05S00 != . 
+
+gen datemax = r(max)
+
+gen monthmax = datemax
+
+format datemax %tdMonCCYY
+
+
+
 qui compress
 
 
@@ -584,13 +595,6 @@ grstyle init
 grstyle color background white
 
 
-summ date if DayDeaMeRaA05S00 != . 
-
-gen datemax = r(max)
-
-gen monthmax = datemax
-
-format datemax %tdMonCCYY
 
 
 *****************
@@ -604,7 +608,7 @@ format datemax %tdMonCCYY
 
 twoway ///
 (line DayDeaMeRaA00S00 date, sort lcolor(cyan) lwidth(medium) lpattern(tight_dot)) /// 1 "JOHN raw"
-(line DayDeaMeSmA00S00 date, sort lcolor(cyan*1.2) lwidth(medthick)) /// 2 "JOHN smooth"
+(line DayDeaMeSmA00S00 date, sort lcolor(cyan*1.2) lwidth(vthick)) /// 2 "JOHN smooth"
 (line DayDeaMeRaA01S00 date, sort lcolor(red)) /// 3 "DELP"
 (line DayDeaMeSmA02S01 date, sort lcolor(black)) /// 4 "IHME"
 (line DayDeXMeSmA02S01 date, sort lcolor(brown) lwidth(medthick)) /// 5 "IHME excess"
@@ -633,7 +637,7 @@ foreach l of local levels {
 
 twoway ///
 (line DayDeaMeRaA00S00 date, sort lcolor(cyan) lwidth(medium) lpattern(tight_dot)) /// 1 "JOHN raw"
-(line DayDeaMeSmA00S00 date, sort lcolor(cyan*1.2) lwidth(medthick)) /// 2 "JOHN smooth"
+(line DayDeaMeSmA00S00 date, sort lcolor(cyan*1.2) lwidth(vthick)) /// 2 "JOHN smooth"
 (line DayDeaMeRaA01S00 date, sort lcolor(red*0.3) lwidth(medium) lpattern(tight_dot)) /// 3 "DELP raw"
 (line DayDeaMeSmA01S00 date, sort lcolor(red) lwidth(medthick)) /// 4 "DELP smooth"
 (line DayDeaMeSmA02S01 date, sort lcolor(black)) /// 5 "IHME"
@@ -660,7 +664,7 @@ qui graph export "SUB1 11bDayDeaMERGsub alltime `l' - COVID-19 daily deaths, $co
 
 twoway ///
 (line DayDeaMeRaA00S00 date, sort lcolor(cyan) lwidth(medium) lpattern(tight_dot)) /// 1 "JOHN raw"
-(line DayDeaMeSmA00S00 date, sort lcolor(cyan*1.2) lwidth(medthick)) /// 2 "JOHN smooth"
+(line DayDeaMeSmA00S00 date, sort lcolor(cyan*1.2) lwidth(vthick)) /// 2 "JOHN smooth"
 (line DayDeaMeRaA01S00 date, sort lcolor(red)) /// 3 "DELP"
 (line DayDeaMeSmA02S01 date, sort lcolor(black)) /// 4 "IHME"
 (line DayDeXMeSmA02S01 date, sort lcolor(brown) lwidth(medthick)) /// 5 "IHME excess"
@@ -691,7 +695,7 @@ foreach l of local levels {
 
 twoway ///
 (line DayDeaMeRaA00S00 date, sort lcolor(cyan) lwidth(medium) lpattern(tight_dot)) /// 1 "JOHN raw"
-(line DayDeaMeSmA00S00 date, sort lcolor(cyan*1.2) lwidth(medthick)) /// 2 "JOHN smooth"
+(line DayDeaMeSmA00S00 date, sort lcolor(cyan*1.2) lwidth(vthick)) /// 2 "JOHN smooth"
 (line DayDeaMeRaA01S00 date, sort lcolor(red*0.3) lwidth(medium) lpattern(tight_dot)) /// 3 "DELP raw"
 (line DayDeaMeSmA01S00 date, sort lcolor(red) lwidth(medthick)) /// 4 "DELP smooth"
 (line DayDeaMeSmA02S01 date, sort lcolor(black)) /// 5 "IHME"
@@ -719,7 +723,7 @@ qui graph export "SUB2 12bDayDeaMERGsub 2021 `l' - COVID-19 daily deaths, $count
 
 twoway ///
 (line DayDeaMeRaA00S00 date, sort lcolor(cyan) lwidth(medium) lpattern(tight_dot)) /// 1 "JOHN raw"
-(line DayDeaMeSmA00S00 date, sort lcolor(cyan*1.2) lwidth(medthick)) /// 2 "JOHN smooth"
+(line DayDeaMeSmA00S00 date, sort lcolor(cyan*1.2) lwidth(vthick)) /// 2 "JOHN smooth"
 (line DayDeaMeRaA01S00 date, sort lcolor(red)) /// 3 "DELP" mean
 (line DayDeaLoRaA01S00 date, sort lcolor(red) lpattern(dash)) /// 4 "DELP" lower
 (line DayDeaUpRaA01S00 date, sort lcolor(red) lpattern(dash)) /// 5 "DELP" upper
@@ -756,7 +760,7 @@ qui graph export "13a1DayDeaMERGnat CI 2021 - COVID-19 daily deaths, $country, N
 
 twoway ///
 (line DayDeaMeRaA00S00 date, sort lcolor(cyan) lwidth(medium) lpattern(tight_dot)) /// 1 "JOHN raw"
-(line DayDeaMeSmA00S00 date, sort lcolor(cyan*1.2) lwidth(medthick)) /// 2 "JOHN smooth"
+(line DayDeaMeSmA00S00 date, sort lcolor(cyan*1.2) lwidth(vthick)) /// 2 "JOHN smooth"
 (line DayDeaMeRaA01S00 date, sort lcolor(red)) /// 3 "DELP" mean
 (line DayDeaLoRaA01S00 date, sort lcolor(red) lpattern(dash)) /// 4 "DELP" lower
 (line DayDeaUpRaA01S00 date, sort lcolor(red) lpattern(dash)) /// 5 "DELP" upper
@@ -801,7 +805,7 @@ foreach l of local levels {
 
 twoway ///
 (line DayDeaMeRaA00S00 date, sort lcolor(cyan) lwidth(medium) lpattern(tight_dot)) /// 1 "JOHN raw"
-(line DayDeaMeSmA00S00 date, sort lcolor(cyan*1.2) lwidth(medthick)) /// 2 "JOHN smooth"
+(line DayDeaMeSmA00S00 date, sort lcolor(cyan*1.2) lwidth(vthick)) /// 2 "JOHN smooth"
 (line DayDeaMeRaA01S00 date, sort lcolor(red*0.2) lwidth(medium) lpattern(tight_dot)) /// 3 "DELP mean raw"
 (line DayDeaMeSmA01S00 date, sort lcolor(red) lwidth(medthick)) /// 4 "DELP mean smooth"
 (line DayDeaLoSmA01S00 date, sort lcolor(red) lpattern(dash)) /// 5 "DELP" lower
@@ -838,7 +842,7 @@ foreach l of local levels {
 
 twoway ///
 (line DayDeaMeRaA00S00 date, sort lcolor(cyan) lwidth(medium) lpattern(tight_dot)) /// 1 "JOHN raw"
-(line DayDeaMeSmA00S00 date, sort lcolor(cyan*1.2) lwidth(medthick)) /// 2 "JOHN smooth"
+(line DayDeaMeSmA00S00 date, sort lcolor(cyan*1.2) lwidth(vthick)) /// 2 "JOHN smooth"
 (line DayDeaMeRaA01S00 date, sort lcolor(red*0.2) lwidth(medium) lpattern(tight_dot)) /// 3 "DELP mean raw"
 (line DayDeaMeSmA01S00 date, sort lcolor(red) lwidth(medthick)) /// 4 "DELP mean smooth"
 (line DayDeaLoSmA01S00 date, sort lcolor(red) lpattern(dash)) /// 5 "DELP" lower
@@ -874,7 +878,7 @@ qui graph export "13b2DayDeaMERGsub CI 2021 `l' - COVID-19 daily deaths, $countr
 
 twoway ///
 (line DayDeaMeRaA00S00 date, sort lcolor(cyan) lwidth(medium) lpattern(tight_dot)) /// 1 "JOHN raw"
-(line DayDeaMeSmA00S00 date, sort lcolor(cyan*1.2) lwidth(medthick)) /// 2 "JOHN smooth"
+(line DayDeaMeSmA00S00 date, sort lcolor(cyan*1.2) lwidth(vthick)) /// 2 "JOHN smooth"
 (line DayDeaMeSmA02S01 date, sort lcolor(black)) /// 3 IHME mean, reference scenario
 (line DayDeaMeSmA02S02 date, sort lcolor(black) lwidth(thick) lpattern(tight_dot)) /// 4 IHME mean, better scenario
 (line DayDeaMeSmA02S03 date, sort lcolor(black) lwidth(thick) lpattern(tight_dot)) /// 5 IHME mean, worse scenario
@@ -902,7 +906,7 @@ qui graph export "CAN3 14a1DayDeaMERGnat 2021 3 scenarios - COVID-19 daily death
 
 twoway ///
 (line DayDeaMeRaA00S00 date, sort lcolor(cyan) lwidth(medium) lpattern(tight_dot)) /// 1 "JOHN raw"
-(line DayDeaMeSmA00S00 date, sort lcolor(cyan*1.2) lwidth(medthick)) /// 2 "JOHN smooth"
+(line DayDeaMeSmA00S00 date, sort lcolor(cyan*1.2) lwidth(vthick)) /// 2 "JOHN smooth"
 (line DayDeaMeSmA02S01 date, sort lcolor(black)) /// 3 IHME mean, reference scenario
 (line DayDeaMeSmA02S02 date, sort lcolor(black) lwidth(thick) lpattern(tight_dot)) /// 4 IHME mean, better scenario
 (line DayDeaMeSmA02S03 date, sort lcolor(black) lwidth(thick) lpattern(tight_dot)) /// 5 IHME mean, worse scenario
@@ -935,7 +939,7 @@ foreach l of local levels {
 
 twoway ///
 (line DayDeaMeRaA00S00 date, sort lcolor(cyan) lwidth(medium) lpattern(tight_dot)) /// 1 "JOHN raw"
-(line DayDeaMeSmA00S00 date, sort lcolor(cyan*1.2) lwidth(medthick)) /// 2 "JOHN smooth"
+(line DayDeaMeSmA00S00 date, sort lcolor(cyan*1.2) lwidth(vthick)) /// 2 "JOHN smooth"
 (line DayDeaMeSmA02S01 date, sort lcolor(black)) /// 3 IHME mean, reference scenario
 (line DayDeaMeSmA02S02 date, sort lcolor(black) lwidth(thick) lpattern(tight_dot)) /// 4 IHME mean, better scenario
 (line DayDeaMeSmA02S03 date, sort lcolor(black) lwidth(thick) lpattern(tight_dot)) /// 5 IHME mean, worse scenario
@@ -967,7 +971,7 @@ foreach l of local levels {
 
 twoway ///
 (line DayDeaMeRaA00S00 date, sort lcolor(cyan) lwidth(medium) lpattern(tight_dot)) /// 1 "JOHN raw"
-(line DayDeaMeSmA00S00 date, sort lcolor(cyan*1.2) lwidth(medthick)) /// 2 "JOHN smooth"
+(line DayDeaMeSmA00S00 date, sort lcolor(cyan*1.2) lwidth(vthick)) /// 2 "JOHN smooth"
 (line DayDeaMeSmA02S01 date, sort lcolor(black)) /// 3 IHME mean, reference scenario
 (line DayDeaMeSmA02S02 date, sort lcolor(black) lwidth(thick) lpattern(tight_dot)) /// 4 IHME mean, better scenario
 (line DayDeaMeSmA02S03 date, sort lcolor(black) lwidth(thick) lpattern(tight_dot)) /// 5 IHME mean, worse scenario
@@ -997,7 +1001,7 @@ qui graph export "SUB3 14b2DayDeaMERGsub 2021 3 scenarios `l' - COVID-19 daily d
 
 twoway ///
 (line DayDeaMeRaA00S00 date, sort lcolor(cyan) lwidth(medium) lpattern(tight_dot)) /// 1 "JOHN raw"
-(line DayDeaMeSmA00S00 date, sort lcolor(cyan*1.2) lwidth(medthick)) /// 2 "JOHN smooth"
+(line DayDeaMeSmA00S00 date, sort lcolor(cyan*1.2) lwidth(vthick)) /// 2 "JOHN smooth"
 (line DayDeaMeSmA02S01 date, sort lcolor(black)) /// 3 IHME reference mean
 (line DayDeaLoSmA02S01 date, sort lcolor(green) lpattern(dash)) /// 4 IHME reference lower
 (line DayDeaUpSmA02S01 date, sort lcolor(red) lpattern(dash)) /// 5 IHME reference upper
@@ -1022,7 +1026,7 @@ qui graph export "15a1DayDeaMERGnat 2021 IHME ref CI - COVID-19 daily deaths, $c
 
 twoway ///
 (line DayDeaMeRaA00S00 date, sort lcolor(cyan) lwidth(medium) lpattern(tight_dot)) /// 1 "JOHN raw"
-(line DayDeaMeSmA00S00 date, sort lcolor(cyan*1.2) lwidth(medthick)) /// 2 "JOHN smooth"
+(line DayDeaMeSmA00S00 date, sort lcolor(cyan*1.2) lwidth(vthick)) /// 2 "JOHN smooth"
 (line DayDeaMeSmA02S01 date, sort lcolor(black)) /// 3 IHME reference mean
 (line DayDeaLoSmA02S01 date, sort lcolor(green) lpattern(dash)) /// 4 IHME reference lower
 (line DayDeaUpSmA02S01 date, sort lcolor(red) lpattern(dash)) /// 5 IHME reference upper
@@ -1055,7 +1059,7 @@ foreach l of local levels {
 
 twoway ///
 (line DayDeaMeRaA00S00 date, sort lcolor(cyan) lwidth(medium) lpattern(tight_dot)) /// 1 "JOHN raw"
-(line DayDeaMeSmA00S00 date, sort lcolor(cyan*1.2) lwidth(medthick)) /// 2 "JOHN smooth"
+(line DayDeaMeSmA00S00 date, sort lcolor(cyan*1.2) lwidth(vthick)) /// 2 "JOHN smooth"
 (line DayDeaMeSmA02S01 date, sort lcolor(black)) /// 3 IHME reference mean
 (line DayDeaLoSmA02S01 date, sort lcolor(green) lpattern(dash)) /// 4 IHME reference lower
 (line DayDeaUpSmA02S01 date, sort lcolor(red) lpattern(dash)) /// 5 IHME reference upper
@@ -1087,7 +1091,7 @@ foreach l of local levels {
 
 twoway ///
 (line DayDeaMeRaA00S00 date, sort lcolor(cyan) lwidth(medium) lpattern(tight_dot)) /// 1 "JOHN raw"
-(line DayDeaMeSmA00S00 date, sort lcolor(cyan*1.2) lwidth(medthick)) /// 2 "JOHN smooth"
+(line DayDeaMeSmA00S00 date, sort lcolor(cyan*1.2) lwidth(vthick)) /// 2 "JOHN smooth"
 (line DayDeaMeSmA02S01 date, sort lcolor(black)) /// 3 IHME reference mean
 (line DayDeaLoSmA02S01 date, sort lcolor(green) lpattern(dash)) /// 4 IHME reference lower
 (line DayDeaUpSmA02S01 date, sort lcolor(red) lpattern(dash)) /// 5 IHME reference upper
@@ -1117,7 +1121,7 @@ qui graph export "15b2DayDeaMERGsub 2021 IHME ref CI `l' - COVID-19 daily deaths
 
 twoway ///
 (line DayDeaMeRaA00S00 date, sort lcolor(cyan) lwidth(medium) lpattern(tight_dot)) /// 1 "JOHN raw"
-(line DayDeaMeSmA00S00 date, sort lcolor(cyan*1.2) lwidth(medthick)) /// 2 "JOHN smooth"
+(line DayDeaMeSmA00S00 date, sort lcolor(cyan*1.2) lwidth(vthick)) /// 2 "JOHN smooth"
 (line DayDeaMeSmA02S01 date, sort lcolor(black)) /// 3 IHME reference mean
 (line DayDeaMeSmA02S02 date, sort lcolor(green) lwidth(thick) lpattern(tight_dot)) /// 4 IHME better mean
 (line DayDeaMeSmA02S03 date, sort lcolor(red) lwidth(thick) lpattern(tight_dot)) /// 5 IHME worse mean
@@ -1143,7 +1147,7 @@ qui graph export "16a1DayDeaMERGnat 2021 IHME 3scen CI - COVID-19 daily deaths, 
 
 twoway ///
 (line DayDeaMeRaA00S00 date, sort lcolor(cyan) lwidth(medium) lpattern(tight_dot)) /// 1 "JOHN raw"
-(line DayDeaMeSmA00S00 date, sort lcolor(cyan*1.2) lwidth(medthick)) /// 2 "JOHN smooth"
+(line DayDeaMeSmA00S00 date, sort lcolor(cyan*1.2) lwidth(vthick)) /// 2 "JOHN smooth"
 (line DayDeaMeSmA02S01 date, sort lcolor(black)) /// 3 IHME reference mean
 (line DayDeaMeSmA02S03 date, sort lcolor(red) lwidth(thick) lpattern(tight_dot)) /// 4 IHME worse mean
 (line DayDeaUpSmA02S03 date, sort lcolor(red) lpattern(dash)) /// 5 IHME worse upper
@@ -1177,7 +1181,7 @@ foreach l of local levels {
 
 twoway ///
 (line DayDeaMeRaA00S00 date, sort lcolor(cyan) lwidth(medium) lpattern(tight_dot)) /// 1 "JOHN raw"
-(line DayDeaMeSmA00S00 date, sort lcolor(cyan*1.2) lwidth(medthick)) /// 2 "JOHN smooth"
+(line DayDeaMeSmA00S00 date, sort lcolor(cyan*1.2) lwidth(vthick)) /// 2 "JOHN smooth"
 (line DayDeaMeSmA02S01 date, sort lcolor(black)) /// 3 IHME reference mean
 (line DayDeaMeSmA02S02 date, sort lcolor(green) lwidth(thick) lpattern(tight_dot)) /// 4 IHME better mean
 (line DayDeaMeSmA02S03 date, sort lcolor(red) lwidth(thick) lpattern(tight_dot)) /// 5 IHME worse mean
@@ -1210,7 +1214,7 @@ foreach l of local levels {
 
 twoway ///
 (line DayDeaMeRaA00S00 date, sort lcolor(cyan) lwidth(medium) lpattern(tight_dot)) /// 1 "JOHN raw"
-(line DayDeaMeSmA00S00 date, sort lcolor(cyan*1.2) lwidth(medthick)) /// 2 "JOHN smooth"
+(line DayDeaMeSmA00S00 date, sort lcolor(cyan*1.2) lwidth(vthick)) /// 2 "JOHN smooth"
 (line DayDeaMeSmA02S01 date, sort lcolor(black)) /// 3 IHME reference mean
 (line DayDeaMeSmA02S03 date, sort lcolor(red) lwidth(thick) lpattern(tight_dot)) /// 4 IHME worse mean
 (line DayDeaUpSmA02S03 date, sort lcolor(red) lpattern(dash)) /// 5 IHME worse upper
@@ -1244,7 +1248,7 @@ qui graph export "16b2DayDeaMERGsub 2021 IHME 3scen CI `l' - COVID-19 daily deat
 
 twoway ///
 (line DayDeaMeRaA00S00 date, sort lcolor(cyan) lwidth(medium) lpattern(tight_dot)) /// 1 "JOHN raw"
-(line DayDeaMeSmA00S00 date, sort lcolor(cyan*1.2) lwidth(medthick)) /// 2 "JOHN smooth"
+(line DayDeaMeSmA00S00 date, sort lcolor(cyan*1.2) lwidth(vthick)) /// 2 "JOHN smooth"
 (line DayDeaMeRaA03S02 date, sort lcolor(black)) /// 3 IMPE reference mean
 (line DayDeaLoRaA03S02 date, sort lcolor(green) lpattern(dash)) /// 4 IMPE reference lower
 (line DayDeaUpRaA03S02 date, sort lcolor(red) lpattern(dash)) /// 5 IMPE reference upper
@@ -1279,7 +1283,7 @@ qui graph export "17a1DayDeaMERGnat 2021 IMPE ref CI - COVID-19 daily deaths, $c
 
 twoway ///
 (line DayDeaMeRaA00S00 date, sort lcolor(cyan) lwidth(medium) lpattern(tight_dot)) /// 1 "JOHN raw"
-(line DayDeaMeSmA00S00 date, sort lcolor(cyan*1.2) lwidth(medthick)) /// 2 "JOHN smooth"
+(line DayDeaMeSmA00S00 date, sort lcolor(cyan*1.2) lwidth(vthick)) /// 2 "JOHN smooth"
 (line DayDeaMeRaA03S02 date, sort lcolor(black)) /// 3 IMPE reference mean
 (line DayDeaMeRaA03S01 date, sort lcolor(green) lwidth(thick) lpattern(tight_dot)) /// 4 IMPE better mean
 (line DayDeaMeRaA03S03 date, sort lcolor(red) lwidth(thick) lpattern(tight_dot)) /// 5 IMPE worse mean
@@ -1329,7 +1333,7 @@ qui graph export "18aDayDeaMERGnat 2021 IMPE 3sce CI - COVID-19 daily deaths, $c
 
 twoway ///
 (line DayCasMeRaA00S00 date, sort lcolor(cyan) lwidth(medium) lpattern(tight_dot)) /// 1 "JOHN raw"
-(line DayCasMeSmA00S00 date, sort lcolor(cyan*1.2) lwidth(medthick)) /// 2 "JOHN smooth"
+(line DayCasMeSmA00S00 date, sort lcolor(cyan*1.2) lwidth(vthick)) /// 2 "JOHN smooth"
 (line DayCasMeRaA01S00 date, sort lcolor(red)) /// 3 "DELP"
 (line DayINFMeSmA02S01 date, sort lcolor(black)) /// 4 "IHME"
 (line DayINFMeRaA03S02 date, sort lcolor(magenta)) /// 5 "IMPE"
@@ -1361,7 +1365,7 @@ foreach l of local levels {
 
 twoway ///
 (line DayCasMeRaA00S00 date, sort lcolor(cyan) lwidth(medium) lpattern(tight_dot)) /// 1 "JOHN raw"
-(line DayCasMeSmA00S00 date, sort lcolor(cyan*1.2) lwidth(medthick)) /// 2 "JOHN smooth"
+(line DayCasMeSmA00S00 date, sort lcolor(cyan*1.2) lwidth(vthick)) /// 2 "JOHN smooth"
 (line DayCasMeRaA01S00 date, sort lcolor(red*0.8) lwidth(medium) lpattern(tight_dot)) /// 3 "DELP raw"
 (line DayCasMeSmA01S00 date, sort lcolor(red) lwidth(medthick)) /// 4 "DELP smooth"
 (line DayINFMeSmA02S01 date, sort lcolor(black)) /// 5 "IHME"
@@ -1389,7 +1393,7 @@ qui graph export "SUB4 31bDayCasMERGsub alltime `l' - COVID-19 daily cases, $cou
 
 twoway ///
 (line DayCasMeRaA00S00 date, sort lcolor(cyan) lwidth(medium) lpattern(tight_dot)) /// 1 "JOHN raw"
-(line DayCasMeSmA00S00 date, sort lcolor(cyan*1.2) lwidth(medthick)) /// 2 "JOHN smooth"
+(line DayCasMeSmA00S00 date, sort lcolor(cyan*1.2) lwidth(vthick)) /// 2 "JOHN smooth"
 (line DayCasMeRaA01S00 date, sort lcolor(red)) /// 3 "DELP"
 (line DayINFMeSmA02S01 date, sort lcolor(black)) /// 4 "IHME"
 (line DayINFMeRaA03S02 date, sort lcolor(magenta)) /// 5 "IMPE"
@@ -1420,7 +1424,7 @@ foreach l of local levels {
 
 twoway ///
 (line DayCasMeRaA00S00 date, sort lcolor(cyan) lwidth(medium) lpattern(tight_dot)) /// 1 "JOHN raw"
-(line DayCasMeSmA00S00 date, sort lcolor(cyan*1.2) lwidth(medthick)) /// 2 "JOHN smooth"
+(line DayCasMeSmA00S00 date, sort lcolor(cyan*1.2) lwidth(vthick)) /// 2 "JOHN smooth"
 (line DayCasMeRaA01S00 date, sort lcolor(red)) /// 3 "DELP"
 (line DayINFMeSmA02S01 date, sort lcolor(black)) /// 4 "IHME"
 (line DayCasMeRaA11S01 date, sort lcolor(gray) lwidth(thick)) /// 5 "PHAC"
@@ -1447,7 +1451,7 @@ qui graph export "SUB5 32bDayCasMERGsub 2021 `l' - COVID-19 daily cases, $countr
 
 twoway ///
 (line DayCasMeRaA00S00 date, sort lcolor(cyan) lwidth(medium) lpattern(tight_dot)) /// 1 "JOHN raw"
-(line DayCasMeSmA00S00 date, sort lcolor(cyan*1.2) lwidth(medthick)) /// 2 "JOHN smooth"
+(line DayCasMeSmA00S00 date, sort lcolor(cyan*1.2) lwidth(vthick)) /// 2 "JOHN smooth"
 (line DayCasMeRaA01S00 date, sort lcolor(red)) /// 3 DELP mean
 (line DayCasLoRaA01S00 date, sort lcolor(red) lpattern(dash)) /// 4 DELP lower
 (line DayCasUpRaA01S00 date, sort lcolor(red) lpattern(dash)) /// 5 DELP upper
@@ -1492,7 +1496,7 @@ foreach l of local levels {
 
 twoway ///
 (line DayCasMeRaA00S00 date, sort lcolor(cyan) lwidth(medium) lpattern(tight_dot)) /// 1 "JOHN raw"
-(line DayCasMeSmA00S00 date, sort lcolor(cyan*1.2) lwidth(medthick)) /// 2 "JOHN smooth"
+(line DayCasMeSmA00S00 date, sort lcolor(cyan*1.2) lwidth(vthick)) /// 2 "JOHN smooth"
 (line DayCasMeRaA01S00 date, sort lcolor(red)) /// 3 DELP mean
 (line DayCasLoRaA01S00 date, sort lcolor(red) lpattern(dash)) /// 4 DELP lower
 (line DayCasUpRaA01S00 date, sort lcolor(red) lpattern(dash)) /// 5 DELP upper
@@ -1526,7 +1530,7 @@ qui graph export "33bDayCasMERGsub 2021 CI `l' - COVID-19 daily cases, $country,
 
 twoway ///
 (line DayCasMeRaA00S00 date, sort lcolor(cyan) lwidth(medium) lpattern(tight_dot)) /// 1 "JOHN raw"
-(line DayCasMeSmA00S00 date, sort lcolor(cyan*1.2) lwidth(medthick)) /// 2 "JOHN smooth"
+(line DayCasMeSmA00S00 date, sort lcolor(cyan*1.2) lwidth(vthick)) /// 2 "JOHN smooth"
 (line DayINFMeSmA02S01 date, sort lcolor(black)) /// 3 IHME mean, reference scenario
 (line DayINFMeSmA02S02 date, sort lcolor(black) lwidth(thick) lpattern(tight_dot)) /// 4 IHME mean, better scenario
 (line DayINFMeSmA02S03 date, sort lcolor(black) lwidth(thick) lpattern(tight_dot)) /// 5 IHME mean, worse scenario
@@ -1563,7 +1567,7 @@ foreach l of local levels {
 
 twoway ///
 (line DayCasMeRaA00S00 date, sort lcolor(cyan) lwidth(medium) lpattern(tight_dot)) /// 1 "JOHN raw"
-(line DayCasMeSmA00S00 date, sort lcolor(cyan*1.2) lwidth(medthick)) /// 2 "JOHN smooth"
+(line DayCasMeSmA00S00 date, sort lcolor(cyan*1.2) lwidth(vthick)) /// 2 "JOHN smooth"
 (line DayINFMeSmA02S01 date, sort lcolor(black)) /// 3 IHME mean, reference scenario
 (line DayINFMeSmA02S02 date, sort lcolor(green) lwidth(thick) lpattern(tight_dot)) /// 4 IHME mean, better scenario
 (line DayINFMeSmA02S03 date, sort lcolor(red) lwidth(thick) lpattern(tight_dot)) /// 5 IHME mean, worse scenario
@@ -1600,7 +1604,7 @@ qui graph export "SUB6 34bDayCasMERGsub 2021 3scen `l' - COVID-19 daily cases, $
 * total deaths, reference scenarios, all time, National
 
 twoway ///
-(line TotDeaMeRaA00S00 date, sort lcolor(cyan) lwidth(thick)) /// 1 "JOHN"
+(line TotDeaMeRaA00S00 date, sort lcolor(cyan) lwidth(vthick)) /// 1 "JOHN"
 (line TotDeaMeRaA01S00 date, sort lcolor(red)) /// 2 "DELP"
 (line TotDeaMeSmA02S01 date, sort lcolor(black)) /// 3 "IHME"
 (line TotDeaMeRaA03S02 date, sort lcolor(magenta)) /// 4 "IMPE"
@@ -1629,7 +1633,7 @@ levelsof provincestate_mostaffected, local(levels)
 foreach l of local levels {
 
 twoway ///
-(line TotDeaMeRaA00S00 date, sort lcolor(cyan) lwidth(thick)) /// 1 "JOHN"
+(line TotDeaMeRaA00S00 date, sort lcolor(cyan) lwidth(vthick)) /// 1 "JOHN"
 (line TotDeaMeRaA01S00 date, sort lcolor(red)) /// 2 "DELP"
 (line TotDeaMeSmA02S01 date, sort lcolor(black)) /// 3 "IHME"
 if date >= td(01jan2020) & date <= datemax & provincestate == "`l'" ///
@@ -1654,7 +1658,7 @@ qui graph export "41bTotDeaMERGsub alltime ref `l' - COVID-19 total deaths, $cou
 * total deaths, reference scenarios, 2021, National
 
 twoway ///
-(line TotDeaMeRaA00S00 date, sort lcolor(cyan) lwidth(thick)) /// 1 "JOHN"
+(line TotDeaMeRaA00S00 date, sort lcolor(cyan) lwidth(vthick)) /// 1 "JOHN"
 (line TotDeaMeRaA01S00 date, sort lcolor(red)) /// 2 "DELP"
 (line TotDeaMeSmA02S01 date, sort lcolor(black)) /// 3 "IHME"
 (line TotDeaMeRaA03S02 date, sort lcolor(magenta)) /// 4 "IMPE"
@@ -1683,7 +1687,7 @@ levelsof provincestate_mostaffected, local(levels)
 foreach l of local levels {
 
 twoway ///
-(line TotDeaMeRaA00S00 date, sort lcolor(cyan) lwidth(thick)) /// 1 "JOHN"
+(line TotDeaMeRaA00S00 date, sort lcolor(cyan) lwidth(vthick)) /// 1 "JOHN"
 (line TotDeaMeRaA01S00 date, sort lcolor(red)) /// 2 "DELP"
 (line TotDeaMeSmA02S01 date, sort lcolor(black)) /// 3 "IHME"
 if date >= td(01jan2021) & date <= datemax & provincestate == "`l'" ///
@@ -1708,7 +1712,7 @@ qui graph export "42bTotDeaMERGsub 2021 ref `l' - COVID-19 total deaths, $countr
 * total deaths, reference scenarios, 2021, uncertainty, National 
 
 twoway ///
-(line TotDeaMeRaA00S00 date, sort lcolor(cyan) lwidth(thick)) /// 1 JOHN
+(line TotDeaMeRaA00S00 date, sort lcolor(cyan) lwidth(vthick)) /// 1 JOHN
 (line TotDeaMeRaA01S00 date, sort lcolor(red)) /// 2 DELP mean
 (line TotDeaLoRaA01S00 date, sort lcolor(red) lpattern(dash)) /// 3 DELP lower
 (line TotDeaUpRaA01S00 date, sort lcolor(red) lpattern(dash)) /// 4 DELP upper
@@ -1748,7 +1752,7 @@ levelsof provincestate_mostaffected, local(levels)
 foreach l of local levels {
 
 twoway ///
-(line TotDeaMeRaA00S00 date, sort lcolor(cyan) lwidth(thick)) /// 1 JOHN
+(line TotDeaMeRaA00S00 date, sort lcolor(cyan) lwidth(vthick)) /// 1 JOHN
 (line TotDeaMeRaA01S00 date, sort lcolor(red)) /// 2 DELP mean
 (line TotDeaLoRaA01S00 date, sort lcolor(red) lpattern(dash)) /// 3 DELP lower
 (line TotDeaUpRaA01S00 date, sort lcolor(red) lpattern(dash)) /// 4 DELP upper
@@ -1784,7 +1788,7 @@ qui graph export "43bTotDeaMERGsub 2021 ref CI `l' - COVID-19 total deaths, $cou
 * total cases, reference scenarios, all time, National
 
 twoway ///
-(line TotCasMeRaA00S00 date, sort lcolor(cyan) lwidth(thick)) /// 1 "JOHN"
+(line TotCasMeRaA00S00 date, sort lcolor(cyan) lwidth(vthick)) /// 1 "JOHN"
 (line TotCasMeRaA01S00 date, sort lcolor(red)) /// 2 "DELP"
 (line TotINFMeSmA02S01 date, sort lcolor(black)) /// 3 "IHME"
 (line TotINFMeRaA03S02 date, sort lcolor(magenta)) /// 4 "IMPE"
@@ -1815,7 +1819,7 @@ levelsof provincestate_mostaffected, local(levels)
 foreach l of local levels {
 
 twoway ///
-(line TotCasMeRaA00S00 date, sort lcolor(cyan) lwidth(thick)) /// 1 "JOHN"
+(line TotCasMeRaA00S00 date, sort lcolor(cyan) lwidth(vthick)) /// 1 "JOHN"
 (line TotCasMeRaA01S00 date, sort lcolor(red)) /// 2 "DELP"
 (line TotINFMeSmA02S01 date, sort lcolor(black)) /// 3 "IHME"
 if date >= td(01jan2020) & date <= datemax & provincestate == "`l'" ///
@@ -1840,7 +1844,7 @@ qui graph export "51bTotCasMERGsub alltime ref `l' - COVID-19 total cases, $coun
 * total cases or infections, reference scenarios, 2021, National
 
 twoway ///
-(line TotCasMeRaA00S00 date, sort lcolor(cyan) lwidth(thick)) /// 1 "JOHN"
+(line TotCasMeRaA00S00 date, sort lcolor(cyan) lwidth(vthick)) /// 1 "JOHN"
 (line TotCasMeRaA01S00 date, sort lcolor(red)) /// 2 "DELP"
 (line TotINFMeSmA02S01 date, sort lcolor(black)) /// 3 "IHME"
 (line TotINFMeRaA03S02 date, sort lcolor(magenta)) /// 4 "IMPE"
@@ -1870,7 +1874,7 @@ levelsof provincestate_mostaffected, local(levels)
 foreach l of local levels {
 
 twoway ///
-(line TotCasMeRaA00S00 date, sort lcolor(cyan) lwidth(thick)) /// 1 "JOHN"
+(line TotCasMeRaA00S00 date, sort lcolor(cyan) lwidth(vthick)) /// 1 "JOHN"
 (line TotCasMeRaA01S00 date, sort lcolor(red)) /// 2 "DELP"
 (line TotINFMeSmA02S01 date, sort lcolor(black)) /// 3 "IHME"
 if date >= td(01jan2021) & date <= datemax & provincestate == "`l'" ///
@@ -1895,7 +1899,7 @@ qui graph export "52bTotCasMERGsub 2021 ref `l' - COVID-19 total cases, $country
 * total cases or infections, reference scenarios, 2021, uncertainty, National
 
 twoway ///
-(line TotCasMeRaA00S00 date, sort lcolor(cyan) lwidth(thick)) /// 1 JOHN
+(line TotCasMeRaA00S00 date, sort lcolor(cyan) lwidth(vthick)) /// 1 JOHN
 (line TotCasMeRaA01S00 date, sort lcolor(red)) /// 2 "DELP"
 (line TotCasLoRaA01S00 date, sort lcolor(red) lpattern(dash)) /// 3 "DELP"
 (line TotCasUpRaA01S00 date, sort lcolor(red) lpattern(dash)) /// 4 "DELP"
@@ -1936,7 +1940,7 @@ levelsof provincestate_mostaffected, local(levels)
 foreach l of local levels {
 
 twoway ///
-(line TotCasMeRaA00S00 date, sort lcolor(cyan) lwidth(thick)) /// 1 JOHN
+(line TotCasMeRaA00S00 date, sort lcolor(cyan) lwidth(vthick)) /// 1 JOHN
 (line TotCasMeRaA01S00 date, sort lcolor(red)) /// 2 "DELP"
 (line TotCasLoRaA01S00 date, sort lcolor(red) lpattern(dash)) /// 3 "DELP"
 (line TotCasUpRaA01S00 date, sort lcolor(red) lpattern(dash)) /// 4 "DELP"
@@ -1970,7 +1974,7 @@ qui graph export "53bTotCasMERGsub 2021 ref CI `l' - COVID-19 total cases, $coun
 * CFR or IFR all studies, reference scenarios, all time, National
 
 twoway ///
-(line DayCfrMeRaA00S00 date, sort lcolor(cyan) lwidth(thick) lpattern(tight_dot)) /// 1 "JOHN"
+(line DayCfrMeRaA00S00 date, sort lcolor(cyan) lwidth(vthick) lpattern(tight_dot)) /// 1 "JOHN"
 (line DayCfrMeRaA01S00 date, sort lcolor(red)) /// 2 "DELP"
 (line infection_fatality_A02S01 date, sort lcolor(black)) /// 3 "IHME"
 (line DayIFRMeRaA03S02 date, sort lcolor(magenta)) /// 4 "IMPE"
@@ -2024,7 +2028,7 @@ qui graph export "61bDayCfrMERGsub ref alltime `l' - COVID-19 daily CFR, $countr
 * CFR or IFR  all studies, reference scenarios, 2021, National
 
 twoway ///
-(line DayCfrMeRaA00S00 date, sort lcolor(cyan) lwidth(thick) lpattern(tight_dot)) /// 1 "JOHN"
+(line DayCfrMeRaA00S00 date, sort lcolor(cyan) lwidth(vthick) lpattern(tight_dot)) /// 1 "JOHN"
 (line DayCfrMeRaA01S00 date, sort lcolor(red)) /// 2 "DELP"
 (line infection_fatality_A02S01 date, sort lcolor(black)) /// 3 "IHME"
 (line DayIFRMeRaA03S02 date, sort lcolor(magenta)) /// 4 "IMPE"
@@ -2432,7 +2436,7 @@ qui graph export "SUB8 73bDayHosMERGsub 2021 woextremes `l' - COVID-19 hospital-
 * Daily cases or infections to deaths (CTD) all studies, reference scenarios, all time, National
 
 twoway ///
-(line DayCTDMeRaA00S00 date, sort lcolor(cyan) lwidth(thick) lpattern(tight_dot)) /// 1 "JOHN"
+(line DayCTDMeRaA00S00 date, sort lcolor(cyan) lwidth(vthick) lpattern(tight_dot)) /// 1 "JOHN"
 (line DayCTDMeRaA01S00 date, sort lcolor(red)) /// 2 "DELP"
 (line DayITDMeSmA02S01 date, sort lcolor(black)) /// 3 "IHME"
 (line DayITDMeRaA03S02 date, sort lcolor(magenta)) /// 4 "IMPE"
@@ -2455,7 +2459,7 @@ qui graph export "81aDayCTDMERGnat alltime - COVID-19 daily cases to deaths, $co
 * Daily cases or infections to deaths (CTD) all studies, reference scenarios, all time, National, without IHME
 
 twoway ///
-(line DayCTDMeRaA00S00 date, sort lcolor(cyan) lwidth(thick) lpattern(tight_dot)) /// 1 "JOHN"
+(line DayCTDMeRaA00S00 date, sort lcolor(cyan) lwidth(vthick) lpattern(tight_dot)) /// 1 "JOHN"
 (line DayCTDMeRaA01S00 date, sort lcolor(red)) /// 2 "DELP"
 (line DayITDMeRaA03S02 date, sort lcolor(magenta)) /// 3 "IMPE"
 (line DayCTDMeRaA04S00 date, sort lcolor(gold)) /// 4 "LANL"
@@ -2507,7 +2511,7 @@ qui graph export "81bDayCTDMERGsub alltime `l' - COVID-19 daily cases to deaths,
 * Daily cases or infections to deaths (CTD) all studies, reference scenarios, 2021, National
 
 twoway ///
-(line DayCTDMeRaA00S00 date, sort lcolor(cyan) lwidth(thick) lpattern(tight_dot)) /// 1 "JOHN"
+(line DayCTDMeRaA00S00 date, sort lcolor(cyan) lwidth(vthick) lpattern(tight_dot)) /// 1 "JOHN"
 (line DayCTDMeRaA01S00 date, sort lcolor(red)) /// 2 "DELP"
 (line DayITDMeSmA02S01 date, sort lcolor(black)) /// 3 "IHME"
 (line DayITDMeRaA03S02 date, sort lcolor(magenta)) /// 4 "IMPE"
@@ -2560,7 +2564,7 @@ qui graph export "82bDayCTDMERGsub 2021 `l' - COVID-19 daily cases to deaths, $c
 * Total cases or infections to deaths (CTD) all studies, reference scenarios, all time, National
 
 twoway ///
-(line TotCTDMeRaA00S00 date, sort lcolor(cyan) lwidth(thick) lpattern(tight_dot)) /// 1 "JOHN"
+(line TotCTDMeRaA00S00 date, sort lcolor(cyan) lwidth(vthick) lpattern(tight_dot)) /// 1 "JOHN"
 (line TotCTDMeRaA01S00 date, sort lcolor(red)) /// 2 "DELP"
 (line TotITDMeSmA02S01 date, sort lcolor(black)) /// 3 "IHME"
 (line TotITDMeRaA03S02 date, sort lcolor(magenta)) /// 4 "IMPE"
@@ -2614,7 +2618,7 @@ qui graph export "83bTotCTDMERGnat alltime - COVID-19 total cases to deaths, $co
 * Total cases or infections to deaths (CTD) all studies, reference scenarios, 2021, National
 
 twoway ///
-(line TotCTDMeRaA00S00 date, sort lcolor(cyan) lwidth(thick) lpattern(tight_dot)) /// 1 "JOHN"
+(line TotCTDMeRaA00S00 date, sort lcolor(cyan) lwidth(vthick) lpattern(tight_dot)) /// 1 "JOHN"
 (line TotCTDMeRaA01S00 date, sort lcolor(red)) /// 2 "DELP"
 (line TotITDMeSmA02S01 date, sort lcolor(black)) /// 3 "IHME"
 (line TotITDMeRaA03S02 date, sort lcolor(magenta)) /// 4 "IMPE"
@@ -2676,7 +2680,7 @@ qui graph export "84bTotCTDMERGsub 2021 `l' - COVID-19 total cases to deaths, $c
 * daily deaths estimated to reported (DER) all studies, reference scenarios, all time, National
 
 twoway ///
-(line DayDERMeRaA00S00 date, sort lcolor(cyan) lwidth(thick)) /// 1 "JOHN"
+(line DayDERMeRaA00S00 date, sort lcolor(cyan) lwidth(vthick)) /// 1 "JOHN"
 (line DayDERMeRaA01S00 date, sort lcolor(red)) /// 2 "DELP"
 (line DayIERMeSmA02S01 date, sort lcolor(black)) /// 3 "IHME"
 (line DayIERMeRaA03S02 date, sort lcolor(magenta)) /// 4 "IMPE"
@@ -2704,7 +2708,7 @@ levelsof provincestate_mostaffected, local(levels)
 foreach l of local levels {
 
 twoway ///
-(line DayDERMeRaA00S00 date, sort lcolor(cyan) lwidth(thick)) /// 1 "JOHN"
+(line DayDERMeRaA00S00 date, sort lcolor(cyan) lwidth(vthick)) /// 1 "JOHN"
 (line DayDERMeRaA01S00 date, sort lcolor(red)) /// 2 "DELP"
 (line DayIERMeSmA02S01 date, sort lcolor(black)) /// 3 "IHME"
 if date >= td(01jan2020) & date <= datemax & provincestate == "`l'" ///
@@ -2729,7 +2733,7 @@ qui graph export "91bDayDERMERGsub alltime `l' - COVID-19 daily deaths estimated
 * daily deaths estimated to reported (DER) all studies, reference scenarios, 2021, National
 
 twoway ///
-(line DayDERMeRaA00S00 date, sort lcolor(cyan) lwidth(thick)) /// 1 "JOHN"
+(line DayDERMeRaA00S00 date, sort lcolor(cyan) lwidth(vthick)) /// 1 "JOHN"
 (line DayDERMeRaA01S00 date, sort lcolor(red)) /// 2 "DELP"
 (line DayDERMeSmA02S01 date, sort lcolor(black)) /// 3 "IHME"
 (line DayDERMeRaA03S02 date, sort lcolor(magenta)) /// 4 "IMPE"
@@ -2757,7 +2761,7 @@ levelsof provincestate_mostaffected, local(levels)
 foreach l of local levels {
 
 twoway ///
-(line DayDERMeRaA00S00 date, sort lcolor(cyan) lwidth(thick)) /// 1 "JOHN"
+(line DayDERMeRaA00S00 date, sort lcolor(cyan) lwidth(vthick)) /// 1 "JOHN"
 (line DayDERMeRaA01S00 date, sort lcolor(red)) /// 2 "DELP"
 (line DayDERMeSmA02S01 date, sort lcolor(black)) /// 3 "IHME"
 if date >= td(01jan2021) & date <= datemax & provincestate == "`l'" ///
@@ -2786,7 +2790,7 @@ qui graph export "SUB9 92bDayDERMERGsub 2021 `l' - COVID-19 daily deaths estimat
 * daily cases or infections estimated to reported (CER) all studies, reference scenarios, all time, National
 
 twoway ///
-(line DayCERMeRaA00S00 date, sort lcolor(cyan) lwidth(thick)) /// 1 "JOHN"
+(line DayCERMeRaA00S00 date, sort lcolor(cyan) lwidth(vthick)) /// 1 "JOHN"
 (line DayCERMeRaA01S00 date, sort lcolor(red)) /// 2 "DELP"
 (line DayIERMeSmA02S01 date, sort lcolor(black)) /// 3 "IHME"
 (line DayIERMeRaA03S02 date, sort lcolor(magenta)) /// 4 "IMPE"
@@ -2812,7 +2816,7 @@ qui graph export "93aDayCERMERGnat alltime - COVID-19 daily cases estimated to r
 * daily cases or infections estimated to reported (CER) all studies, reference scenarios, all time, National, with PHAC
 
 twoway ///
-(line DayCERMeRaA00S00 date, sort lcolor(cyan) lwidth(thick)) /// 1 "JOHN"
+(line DayCERMeRaA00S00 date, sort lcolor(cyan) lwidth(vthick)) /// 1 "JOHN"
 (line DayCERMeRaA01S00 date, sort lcolor(red)) /// 2 "DELP"
 (line DayIERMeSmA02S01 date, sort lcolor(black)) /// 3 "IHME"
 (line DayIERMeRaA03S02 date, sort lcolor(magenta)) /// 4 "IMPE"
@@ -2846,7 +2850,7 @@ levelsof provincestate_mostaffected, local(levels)
 foreach l of local levels {
 
 twoway ///
-(line DayCERMeRaA00S00 date, sort lcolor(cyan) lwidth(thick)) /// 1 "JOHN"
+(line DayCERMeRaA00S00 date, sort lcolor(cyan) lwidth(vthick)) /// 1 "JOHN"
 (line DayCERMeRaA01S00 date, sort lcolor(red)) /// 2 "DELP"
 (line DayIERMeSmA02S01 date, sort lcolor(black)) /// 3 "IHME"
 if date >= td(01jan2020) & date <= datemax & provincestate == "`l'" ///
@@ -2875,7 +2879,7 @@ levelsof provincestate_mostaffected, local(levels)
 foreach l of local levels {
 
 twoway ///
-(line DayCERMeRaA00S00 date, sort lcolor(cyan) lwidth(thick)) /// 1 "JOHN"
+(line DayCERMeRaA00S00 date, sort lcolor(cyan) lwidth(vthick)) /// 1 "JOHN"
 (line DayCERMeRaA01S00 date, sort lcolor(red)) /// 2 "DELP"
 (line DayIERMeSmA02S01 date, sort lcolor(black)) /// 3 "IHME"
 (line DayCasMeRaA11S01 date, sort lwidth(thick) lcolor(gray)) /// 4 "PHAC"
@@ -2901,7 +2905,7 @@ qui graph export "93b2DayCERMERGsub alltime `l' - COVID-19 daily cases estimated
 * daily cases or infections estimated to reported (CER) all studies, reference scenarios, 2021, National
 
 twoway ///
-(line DayCERMeRaA00S00 date, sort lcolor(cyan) lwidth(thick)) /// 1 "JOHN"
+(line DayCERMeRaA00S00 date, sort lcolor(cyan) lwidth(vthick)) /// 1 "JOHN"
 (line DayCERMeRaA01S00 date, sort lcolor(red)) /// 2 "DELP"
 (line DayIERMeSmA02S01 date, sort lcolor(black)) /// 3 "IHME"
 (line DayIERMeRaA03S02 date, sort lcolor(magenta)) /// 4 "IMPE"
@@ -2926,7 +2930,7 @@ qui graph export "CAN10 94aDayCERMERGnat 2021 - COVID-19 daily cases estimated t
 * daily cases or infections estimated to reported (CER) all studies, reference scenarios, 2021, National, with PHAC
 
 twoway ///
-(line DayCERMeRaA00S00 date, sort lcolor(cyan) lwidth(thick)) /// 1 "JOHN"
+(line DayCERMeRaA00S00 date, sort lcolor(cyan) lwidth(vthick)) /// 1 "JOHN"
 (line DayCERMeRaA01S00 date, sort lcolor(red)) /// 2 "DELP"
 (line DayIERMeSmA02S01 date, sort lcolor(black)) /// 3 "IHME"
 (line DayIERMeRaA03S02 date, sort lcolor(magenta)) /// 4 "IMPE"
@@ -2957,7 +2961,7 @@ levelsof provincestate_mostaffected, local(levels)
 foreach l of local levels {
 
 twoway ///
-(line DayCERMeRaA00S00 date, sort lcolor(cyan) lwidth(thick)) /// 1 "JOHN"
+(line DayCERMeRaA00S00 date, sort lcolor(cyan) lwidth(vthick)) /// 1 "JOHN"
 (line DayCERMeRaA01S00 date, sort lcolor(red)) /// 2 "DELP"
 (line DayIERMeSmA02S01 date, sort lcolor(black)) /// 3 "IHME"
 if date >= td(01jan2021) & date <= datemax & provincestate == "`l'" ///
@@ -2987,7 +2991,7 @@ levelsof provincestate_mostaffected, local(levels)
 foreach l of local levels {
 
 twoway ///
-(line DayCERMeRaA00S00 date, sort lcolor(cyan) lwidth(thick)) /// 1 "JOHN"
+(line DayCERMeRaA00S00 date, sort lcolor(cyan) lwidth(vthick)) /// 1 "JOHN"
 (line DayCERMeRaA01S00 date, sort lcolor(red)) /// 2 "DELP"
 (line DayIERMeSmA02S01 date, sort lcolor(black)) /// 3 "IHME"
 (line DayCasMeRaA11S01 date, sort lwidth(thick) lcolor(gray)) /// 4 "PHAC"
@@ -3014,7 +3018,7 @@ qui graph export "SUB10 94b2DayCERMERGsub 2021 `l' - COVID-19 daily cases estima
 * total deaths estimated to reported (DER) all studies, reference scenarios, all time, National
 
 twoway ///
-(line TotDERMeRaA00S00 date, sort lcolor(cyan) lwidth(thick)) /// 1 "JOHN
+(line TotDERMeRaA00S00 date, sort lcolor(cyan) lwidth(vthick)) /// 1 "JOHN
 (line TotDERMeRaA01S00 date, sort lcolor(red)) /// 2 "DELP"
 (line TotDERMeSmA02S01 date, sort lcolor(black)) /// 3 "IHME"
 (line TotDERMeRaA03S02 date, sort lcolor(magenta)) /// 4 "IMPE"
@@ -3042,7 +3046,7 @@ levelsof provincestate_mostaffected, local(levels)
 foreach l of local levels {
 
 twoway ///
-(line TotDERMeRaA00S00 date, sort lcolor(cyan) lwidth(thick)) /// 1 "JOHN
+(line TotDERMeRaA00S00 date, sort lcolor(cyan) lwidth(vthick)) /// 1 "JOHN
 (line TotDERMeRaA01S00 date, sort lcolor(red)) /// 2 "DELP"
 (line TotDERMeSmA02S01 date, sort lcolor(black)) /// 3 "IHME"
 if date >= td(01jan2020) & date <= datemax & provincestate == "`l'" ///
@@ -3067,7 +3071,7 @@ qui graph export "95bTotDERMERGsub alltime `l' - COVID-19 total deaths estimated
 * total deaths estimated to reported (DER) all studies, reference scenarios, 2021, National
 
 twoway ///
-(line TotDERMeRaA00S00 date, sort lcolor(cyan) lwidth(thick)) /// 1 "JOHN
+(line TotDERMeRaA00S00 date, sort lcolor(cyan) lwidth(vthick)) /// 1 "JOHN
 (line TotDERMeRaA01S00 date, sort lcolor(red)) /// 2 "DELP"
 (line TotDERMeSmA02S01 date, sort lcolor(black)) /// 3 "IHME"
 (line TotDERMeRaA03S02 date, sort lcolor(magenta)) /// 4 "IMPE"
@@ -3095,7 +3099,7 @@ levelsof provincestate_mostaffected, local(levels)
 foreach l of local levels {
 
 twoway ///
-(line TotDERMeRaA00S00 date, sort lcolor(cyan) lwidth(thick)) /// 1 "JOHN
+(line TotDERMeRaA00S00 date, sort lcolor(cyan) lwidth(vthick)) /// 1 "JOHN
 (line TotDERMeRaA01S00 date, sort lcolor(red)) /// 2 "DELP"
 (line TotDERMeSmA02S01 date, sort lcolor(black)) /// 3 "IHME"
 if date >= td(01jan2021) & date <= datemax & provincestate == "`l'" ///
@@ -3121,7 +3125,7 @@ qui graph export "96bTotDERMERGsub 2021 `l' - COVID-19 total deaths estimated to
 * total cases or infections estimated to reported (CER) all studies, reference scenarios, all time, National
 
 twoway ///
-(line TotCERMeRaA00S00 date, sort lcolor(cyan) lwidth(thick)) /// 1 "JOHN"
+(line TotCERMeRaA00S00 date, sort lcolor(cyan) lwidth(vthick)) /// 1 "JOHN"
 (line TotCERMeRaA01S00 date, sort lcolor(red)) /// 2 "DELP"
 (line TotIERMeSmA02S01 date, sort lcolor(black)) /// 3 "IHME"
 (line TotIERMeRaA03S02 date, sort lcolor(magenta)) /// 4 "IMPE"
@@ -3151,7 +3155,7 @@ levelsof provincestate_mostaffected, local(levels)
 foreach l of local levels {
 
 twoway ///
-(line TotCERMeRaA00S00 date, sort lcolor(cyan) lwidth(thick)) /// 1 "JOHN"
+(line TotCERMeRaA00S00 date, sort lcolor(cyan) lwidth(vthick)) /// 1 "JOHN"
 (line TotCERMeRaA01S00 date, sort lcolor(red)) /// 2 "DELP"
 (line TotIERMeSmA02S01 date, sort lcolor(black)) /// 3 "IHME"
 if date >= td(01jan2020) & date <= datemax & provincestate == "`l'" ///
@@ -3176,7 +3180,7 @@ qui graph export "97bTotCERMERGsub alltime `l' - COVID-19 total cases estimated 
 * total cases or infections estimated to reported (CER) all studies, reference scenarios, 2021, National
 
 twoway ///
-(line TotCERMeRaA00S00 date, sort lcolor(cyan) lwidth(thick)) /// 1 "JOHN"
+(line TotCERMeRaA00S00 date, sort lcolor(cyan) lwidth(vthick)) /// 1 "JOHN"
 (line TotCERMeRaA01S00 date, sort lcolor(red)) /// 2 "DELP"
 (line TotIERMeSmA02S01 date, sort lcolor(black)) /// 3 "IHME"
 (line TotIERMeRaA03S02 date, sort lcolor(magenta)) /// 4 "IMPE"
@@ -3205,7 +3209,7 @@ levelsof provincestate_mostaffected, local(levels)
 foreach l of local levels {
 
 twoway ///
-(line TotCERMeRaA00S00 date, sort lcolor(cyan) lwidth(thick)) /// 1 "JOHN"
+(line TotCERMeRaA00S00 date, sort lcolor(cyan) lwidth(vthick)) /// 1 "JOHN"
 (line TotCERMeRaA01S00 date, sort lcolor(red)) /// 2 "DELP"
 (line TotIERMeSmA02S01 date, sort lcolor(black)) /// 3 "IHME"
 if date >= td(01jan2021) & date <= datemax & provincestate == "`l'" ///
@@ -3442,323 +3446,6 @@ qui graph export "graph 94b COVID-19 percent cumulative vaccinated, $country, `l
 
 }
 *
-
-
-
-
-
-******************************************************************************************
-******************************************************************************************
-
-* summary table 
-
-use "CovidVisualizedCountry merge.dta", clear 
-
-
-* estimates' values on latest date by IHME and IMPE models
-
-
-summ date if DayDeaMeSmA02S01 != . 
-di r(max) 
-gen date_latest_available_ihme = r(max)
-
-
-summ date if DayDeaMeRaA03S02 != . 
-di r(max) 
-gen date_latest_available_impe = r(max)
-
-
-keep if date == date_latest_available_ihme | date == date_latest_available_impe
-
-keep ///
-date provincestate ///
-DayDeaMeSmA02S01 DayDeaUpSmA02S01 DayDeaMeSmA02S03 DayDeaUpSmA02S03 /// IHME Daily Deaths, Mean Upper, Reference Worse scenrio
-TotDeaMeSmA02S01 TotDeaUpSmA02S01 TotDeaMeSmA02S03 TotDeaUpSmA02S03 /// IHME Total Deaths, Mean Upper, Reference Worse scenrio
-DayINFMeSmA02S01 DayINFUpSmA02S01 DayINFMeSmA02S03 DayINFUpSmA02S03 /// IHME Daily Infections, Mean Upper, Reference Worse scenrio
-TotINFMeSmA02S01 TotINFUpSmA02S01 TotINFMeSmA02S03 TotINFUpSmA02S03 /// IHME Total Infections, Mean Upper, Reference Worse scenrio
-DayDeaMeRaA03S02 DayDeaUpRaA03S02 DayDeaMeRaA03S03 DayDeaUpRaA03S03 /// IMPE Daily Deaths, Mean Upper, Reference Worse scenrio
-TotDeaMeRaA03S02 TotDeaUpRaA03S02 TotDeaMeRaA03S03 TotDeaUpRaA03S03 /// IMPE Total Deaths, Mean Upper, Reference Worse scenrio
-DayINFMeRaA03S02 DayINFUpRaA03S02 DayINFMeRaA03S03 DayINFUpRaA03S03 /// IMPE Daily Infections, Mean Upper, Reference Worse scenrio
-TotINFMeRaA03S02 TotINFMeRaA03S02 TotINFMeRaA03S03 TotINFMeRaA03S03 /// IMPE Total Infections, Mean Upper, Reference Worse scenrio
-DayBedMeSmA02S01 /// IHME Bed need (Daily Beds needed Mean IHME S1)
-DayIcuMeSmA02S01 // IHME ICU need (Daily ICU beds needed Mean IHME S1)
-
-
-order ///
-date provincestate ///
-DayDeaMeSmA02S01 DayDeaUpSmA02S01 DayDeaMeSmA02S03 DayDeaUpSmA02S03 /// IHME Daily Deaths, Mean Upper, Reference Worse scenrio
-TotDeaMeSmA02S01 TotDeaUpSmA02S01 TotDeaMeSmA02S03 TotDeaUpSmA02S03 /// IHME Total Deaths, Mean Upper, Reference Worse scenrio
-DayINFMeSmA02S01 DayINFUpSmA02S01 DayINFMeSmA02S03 DayINFUpSmA02S03 /// IHME Daily Infections, Mean Upper, Reference Worse scenrio
-TotINFMeSmA02S01 TotINFUpSmA02S01 TotINFMeSmA02S03 TotINFUpSmA02S03 /// IHME Total Infections, Mean Upper, Reference Worse scenrio
-DayDeaMeRaA03S02 DayDeaUpRaA03S02 DayDeaMeRaA03S03 DayDeaUpRaA03S03 /// IMPE Daily Deaths, Mean Upper, Reference Worse scenrio
-TotDeaMeRaA03S02 TotDeaUpRaA03S02 TotDeaMeRaA03S03 TotDeaUpRaA03S03 /// IMPE Total Deaths, Mean Upper, Reference Worse scenrio
-DayINFMeRaA03S02 DayINFUpRaA03S02 DayINFMeRaA03S03 DayINFUpRaA03S03 /// IMPE Daily Infections, Mean Upper, Reference Worse scenrio
-TotINFMeRaA03S02 TotINFMeRaA03S02 TotINFMeRaA03S03 TotINFMeRaA03S03 /// IMPE Total Infections, Mean Upper, Reference Worse scenrio
-DayBedMeSmA02S01 /// IHME Bed need (Daily Beds needed Mean IHME S1)
-DayIcuMeSmA02S01 // IHME ICU need (Daily ICU beds needed Mean IHME S1)
-
-sort date provincestate 
-
-
-
-local varlist ///
-DayDeaMeSmA02S01 DayDeaUpSmA02S01 DayDeaMeSmA02S03 DayDeaUpSmA02S03 /// IHME Daily Deaths, Mean Upper, Reference Worse scenrio
-TotDeaMeSmA02S01 TotDeaUpSmA02S01 TotDeaMeSmA02S03 TotDeaUpSmA02S03 /// IHME Total Deaths, Mean Upper, Reference Worse scenrio
-DayINFMeSmA02S01 DayINFUpSmA02S01 DayINFMeSmA02S03 DayINFUpSmA02S03 /// IHME Daily Infections, Mean Upper, Reference Worse scenrio
-TotINFMeSmA02S01 TotINFUpSmA02S01 TotINFMeSmA02S03 TotINFUpSmA02S03 /// IHME Total Infections, Mean Upper, Reference Worse scenrio
-DayDeaMeRaA03S02 DayDeaUpRaA03S02 DayDeaMeRaA03S03 DayDeaUpRaA03S03 /// IMPE Daily Deaths, Mean Upper, Reference Worse scenrio
-TotDeaMeRaA03S02 TotDeaUpRaA03S02 TotDeaMeRaA03S03 TotDeaUpRaA03S03 /// IMPE Total Deaths, Mean Upper, Reference Worse scenrio
-DayINFMeRaA03S02 DayINFUpRaA03S02 DayINFMeRaA03S03 DayINFUpRaA03S03 /// IMPE Daily Infections, Mean Upper, Reference Worse scenrio
-TotINFMeRaA03S02 TotINFMeRaA03S02 TotINFMeRaA03S03 TotINFMeRaA03S03 ///  IMPE Total Infections, Mean Upper, Reference Worse scenrio
-DayBedMeSmA02S01 /// IHME Bed need (Daily Beds needed Mean IHME S1)
-DayIcuMeSmA02S01 // IHME ICU need (Daily ICU beds needed Mean IHME S1)
-
-
-
-foreach var of local varlist {
-
-	qui replace `var' = round(`var')
-	
-}
-*	
-
-
-export excel using "summary table.xlsx", replace firstrow(variables)
-
-
-
-
-
-*****************
-
-* peak values and dates by IHME and IMPE models
-
-
-
-use "CovidVisualizedCountry merge.dta", clear 
-
-
-keep ///
-date provincestate ///
-DayDeaMeSmA02S01 DayDeaUpSmA02S01 DayDeaMeSmA02S03 DayDeaUpSmA02S03 /// IHME Daily Deaths, Mean Upper, Reference Worse scenrio
-DayINFMeSmA02S01 DayINFUpSmA02S01 DayINFMeSmA02S03 DayINFUpSmA02S03 /// IHME Daily Infections, Mean Upper, Reference Worse scenrio
-DayDeaMeRaA03S02 DayDeaUpRaA03S02 DayDeaMeRaA03S03 DayDeaUpRaA03S03 /// IMPE Daily Deaths, Mean Upper, Reference Worse scenrio
-DayINFMeRaA03S02 DayINFUpRaA03S02 DayINFMeRaA03S03 DayINFUpRaA03S03 /// IMPE Daily Infections, Mean Upper, Reference Worse scenrio
-DayBedMeSmA02S01 /// IHME Bed need (Daily Beds needed Mean IHME S1)
-DayIcuMeSmA02S01 // IHME ICU need (Daily ICU beds needed Mean IHME S1)
-
-
-local varlist ///
-DayDeaMeSmA02S01 DayDeaUpSmA02S01 DayDeaMeSmA02S03 DayDeaUpSmA02S03 /// IHME Daily Deaths, Mean Upper, Reference Worse scenrio
-DayINFMeSmA02S01 DayINFUpSmA02S01 DayINFMeSmA02S03 DayINFUpSmA02S03 /// IHME Daily Infections, Mean Upper, Reference Worse scenrio
-DayDeaMeRaA03S02 DayDeaUpRaA03S02 DayDeaMeRaA03S03 DayDeaUpRaA03S03 /// IMPE Daily Deaths, Mean Upper, Reference Worse scenrio
-DayINFMeRaA03S02 DayINFUpRaA03S02 DayINFMeRaA03S03 DayINFUpRaA03S03 /// IMPE Daily Infections, Mean Upper, Reference Worse scenrio
-DayBedMeSmA02S01 /// IHME Bed need (Daily Beds needed Mean IHME S1)
-DayIcuMeSmA02S01 // IHME ICU need (Daily ICU beds needed Mean IHME S1)
-
-
-
-* National
-
-foreach var of local varlist {
-
-	di "`var'"
-	summ `var' if date > td(01aug2021) & provincestate == " National"
-	gen `var'_LPV_CAN = r(max) 
-	label var `var'_LPV_CAN "`var' Latest peak value National"
-
-	summ date if `var' == `var'_LPV_CAN & date > td(01aug2021) & provincestate == " National"
-	gen `var'_LPD_CAN = r(mean) 
-	label var `var'_LPD_CAN "`var' Latest peak date National"
-	format `var'_LPD_CAN %tdDDMonCCYY
-	tab `var'_LPD_CAN
-
-	replace `var'_LPV_CAN = round(`var'_LPV_CAN)
-	tab `var'_LPV_CAN
-}
-*
-
-
-
-
-* Alberta
-
-foreach var of local varlist {
-
-	di "`var'"
-	summ `var' if date > td(01aug2021) & provincestate == "Alberta"
-	gen `var'_LPV_AB = r(max) 
-	label var `var'_LPV_AB "`var' Latest peak value Alberta"
-
-	summ date if `var' == `var'_LPV_AB & date > td(01aug2021) & provincestate == "Alberta"
-	gen `var'_LPD_AB = r(mean) 
-	label var `var'_LPD_AB "`var' Latest peak date Alberta"
-	format `var'_LPD_AB %tdDDMonCCYY
-	tab `var'_LPD_AB
-
-	replace `var'_LPV_AB = round(`var'_LPV_AB)
-	tab `var'_LPV_AB
-}
-*
-
-
-
-
-* British Columbia
-
-foreach var of local varlist {
-
-	di "`var'"
-	summ `var' if date > td(01aug2021) & provincestate == "British Columbia"
-	gen `var'_LPV_BC = r(max) 
-	label var `var'_LPV_BC "`var' Latest peak value British Columbia"
-
-	summ date if `var' == `var'_LPV_BC & date > td(01aug2021) & provincestate == "British Columbia"
-	gen `var'_LPD_BC = r(mean) 
-	label var `var'_LPD_BC "`var' Latest peak date British Columbia"
-	format `var'_LPD_BC %tdDDMonCCYY
-	tab `var'_LPD_BC
-
-	replace `var'_LPV_BC = round(`var'_LPV_BC)
-	tab `var'_LPV_BC
-}
-*
-
-
-
-
-
-* Manitoba
-
-foreach var of local varlist {
-
-	di "`var'"
-	summ `var' if date > td(01aug2021) & provincestate == "Manitoba"
-	gen `var'_LPV_MB = r(max) 
-	label var `var'_LPV_MB "`var' Latest peak value Manitoba"
-
-	summ date if `var' == `var'_LPV_MB & date > td(01aug2021) & provincestate == "Manitoba"
-	gen `var'_LPD_MB = r(mean) 
-	label var `var'_LPD_MB "`var' Latest peak date Manitoba"
-	format `var'_LPD_MB %tdDDMonCCYY
-	tab `var'_LPD_MB
-
-	replace `var'_LPV_MB = round(`var'_LPV_MB)
-	tab `var'_LPV_MB
-}
-*
-
-
-
-
-* Nova Scotia
-
-foreach var of local varlist {
-
-	di "`var'"
-	summ `var' if date > td(01aug2021) & provincestate == "Nova Scotia"
-	gen `var'_LPV_NS = r(max) 
-	label var `var'_LPV_NS "`var' Latest peak value Nova Scotia"
-
-	summ date if `var' == `var'_LPV_NS & date > td(01aug2021) & provincestate == "Nova Scotia"
-	gen `var'_LPD_NS = r(mean) 
-	label var `var'_LPD_NS "`var' Latest peak date Nova Scotia"
-	format `var'_LPD_NS %tdDDMonCCYY
-	tab `var'_LPD_NS
-
-	replace `var'_LPV_NS = round(`var'_LPV_NS)
-	tab `var'_LPV_NS
-}
-*
-
-	
-
-
-* Ontario
-
-foreach var of local varlist {
-
-	di "`var'"
-	summ `var' if date > td(01aug2021) & provincestate == "Ontario"
-	gen `var'_LPV_ON = r(max) 
-	label var `var'_LPV_ON "`var' Latest peak value Ontario"
-
-	summ date if `var' == `var'_LPV_ON & date > td(01aug2021) & provincestate == "Ontario"
-	gen `var'_LPD_ON = r(mean) 
-	label var `var'_LPD_ON "`var' Latest peak date Ontario"
-	format `var'_LPD_ON %tdDDMonCCYY
-	tab `var'_LPD_ON
-
-	replace `var'_LPV_ON = round(`var'_LPV_ON)
-	tab `var'_LPV_ON
-}
-*
-
-
-
-* Quebec
-
-foreach var of local varlist {
-
-	di "`var'"
-	summ `var' if date > td(01aug2021) & provincestate == "Quebec"
-	gen `var'_LPV_QC = r(max) 
-	label var `var'_LPV_QC "`var' Latest peak value Quebec"
-
-	summ date if `var' == `var'_LPV_QC & date > td(01aug2021) & provincestate == "Quebec"
-	gen `var'_LPD_QC = r(mean) 
-	label var `var'_LPD_QC "`var' Latest peak date Quebec"
-	format `var'_LPD_QC %tdDDMonCCYY
-	tab `var'_LPD_QC
-
-	replace `var'_LPV_QC = round(`var'_LPV_QC)
-	tab `var'_LPV_QC
-}
-*
-
-
-
-
-* Saskatchewan
-
-foreach var of local varlist {
-
-	di "`var'"
-	summ `var' if date > td(01aug2021) & provincestate == "Saskatchewan"
-	gen `var'_LPV_SK = r(max) 
-	label var `var'_LPV_SK "`var' Latest peak value Saskatchewan"
-
-	summ date if `var' == `var'_LPV_SK & date > td(01aug2021) & provincestate == "Saskatchewan"
-	gen `var'_LPD_SK = r(mean) 
-	label var `var'_LPD_SK "`var' Latest peak date Saskatchewan"
-	format `var'_LPD_SK %tdDDMonCCYY
-	tab `var'_LPD_SK
-
-	replace `var'_LPV_SK = round(`var'_LPV_SK)
-	tab `var'_LPV_SK
-}
-*
-
-
-
-
-
-keep *_LPV* *_LPD* 
-
-contract *_LPV* *_LPD*
-
-
-save "summary table 2.dta", replace
-export delimited using "summary table 2.csv", replace 
-
-
-
-
-
-
-
-
-
 
 
 
