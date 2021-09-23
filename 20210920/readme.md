@@ -165,25 +165,13 @@ Note: The value of the "IHME All bed capacity" is overwhelmingly different with 
 
 ****
 
-(11 old) Canada and provinces - Daily death rates, reference scenario, all time, IHME
-
-Daily death rates have been retired by IHME starting from IHME update 20210920.
-
-****
-
-(12 old) Canada and provinces - Daily death rates, reference scenario, 2021 IHME 
-
-Daily death rates have been retired by IHME starting from IHME update 20210920.
-
-****
-
 R effective, IHME, not available for Canada at the national level. 
 
 ****
 
 (11) Canada [Daily Infection-outcomes ratios, 3 scenarios, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210920/output/merge/main/graph%2091a%20COVID-19%20daily%20Infection%20outcomes%20ratios%2C%20Canada%2C%20National%203%20scenarios%2C%20IHME.pdf)
 
-
+![image](https://user-images.githubusercontent.com/30849720/134442237-20c9f18d-3008-4b2c-abf0-9f7242209c51.png)
 
 ****
 
@@ -193,13 +181,13 @@ Daily mobility, IHME, not available for Canada at the national level.
 
 (12) Canada [Daily mask use, 3 scenarios, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210920/output/merge/main/graph%2093a%20COVID-19%20daily%20mask_use%2C%20Canada%2C%20National%2C%203%20scenarios.pdf) 
 
-
+![image](https://user-images.githubusercontent.com/30849720/134442278-6c7dae2c-17b0-4ba9-adaf-c3fd3dd7b8a2.png)
 
 ****
 
 (13) Canada [Percent cumulative vaccinated, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210920/output/merge/main/graph%2094a%20COVID-19%20percent%20cumulative%20vaccinated%2C%20Canada%2C%20National.pdf)
 
-
+![image](https://user-images.githubusercontent.com/30849720/134442320-63516f6a-e3d2-40ca-b70e-5d2e4bdcf991.png)
 
 ****
 
