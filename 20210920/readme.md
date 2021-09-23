@@ -234,7 +234,7 @@ Daily mobility, IHME, not available for Canada at the national level.
 
 (6) Alberta [Daily cases or infections, 3 scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210920/output/merge/main/SUB6%2034bDayCasMERGsub%202021%203scen%20Alberta%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Alberta%2C%203%20scenarios%2C%202021%2C%20uncertainty.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/134443678-205d9690-5845-4601-9bde-5c58ef3e2a07.png)
+![image](https://user-images.githubusercontent.com/30849720/134550368-89e1318c-2ca1-4846-9667-6a8d0fbe9b55.png)
 
 ****
 
