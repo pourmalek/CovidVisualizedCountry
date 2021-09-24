@@ -33,7 +33,7 @@ For a streamlined view of this repository, see: https://pourmalek.github.io/Covi
   
 *****************************
   
-#### :eyes: SEE graphs, code, and data of periodical updates of COVID-19 pandemic models’ estimates: 
+#### :eyes: SEE the graphs, code, and data of periodical updates of COVID-19 pandemic models’ estimates: 
   
 #### by models: [Delphi](https://covidanalytics.io/projections), [IHME](https://covid19.healthdata.org/canada?view=daily-deaths&tab=trend), [Imperial college](https://github.com/mrc-ide/global-lmic-reports/tree/master/CAN), [Los Alamos](https://covid-19.bsvgateway.org), and [Srivastava](https://scc-usc.github.io/ReCOVER-COVID-19/#/), plus the [_PHAC-McMaster model_](https://nccid.ca/phac-modelling/)
   
