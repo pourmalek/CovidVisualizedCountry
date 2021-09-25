@@ -73,6 +73,7 @@ IHME update 20210923 includes a few new types of estimates, including Cumulative
 
 (1) Canada [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210923/output/merge/main/CAN1%2011aDayDeaMERGnat%20alltime%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/134754019-e65afc29-f51b-4d45-9946-f4e5f86dc77b.png)
 
 ****
 
