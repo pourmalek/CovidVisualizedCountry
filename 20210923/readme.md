@@ -7,21 +7,6 @@
 
 DELP 20210923, **_IHME 20210923_**, IMPE 20210909, LANL 20210919, SRIV 20210923
 
-<br/><br/>
-
-#### Notes on IMPE model:
-
-
-<br/><br/>
-
-
-#### Notes on PHAC model, PHAC-McMaster model 20210903:
-
-The Source document used for acquisition of PHAC-McMaster model 20210903 estimates:
-
-Public Health Agency of Canada. Update on COVID-19 in Canada: Epidemiology and Modelling, September 3, 2021. https://www.canada.ca/content/dam/phac-aspc/documents/services/diseases-maladies/coronavirus-disease-covid-19/epidemiological-economic-research-data/update-covid-19-canada-epidemiology-modelling-20210903-en.pdf
-
-Methods: The CSV files containing outputs of the "PHAC-McMaster model" in the above-mentioned document could not be located on the Internet. Therefore, the graphs from the above-mentioned document were digitized. See acquisition of their estimates [here](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210923/code/PHAC/PHAC-McMaster%20model%2020210903.pdf). || See graph digitization settings [here](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/graph%20digitization%20settings.md). 
 
 <br/><br/>
 
