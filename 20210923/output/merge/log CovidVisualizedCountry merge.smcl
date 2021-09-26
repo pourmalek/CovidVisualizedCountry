@@ -3,7 +3,7 @@
       name:  {res}<unnamed>
        {txt}log:  {res}/Users/farshadpourmalek/Downloads/CovidVisualizedCountry-main/20210923/code/merge/log CovidVisualizedCountry merge.smcl
   {txt}log type:  {res}smcl
- {txt}opened on:  {res}26 Sep 2021, 10:58:42
+ {txt}opened on:  {res}26 Sep 2021, 12:27:33
 {txt}
 {com}. 
 . 
@@ -894,12 +894,18 @@ now 732
 . gen datemax = r(max)
 {txt}
 {com}. 
-. gen monthmax = datemax
+. replace datemax = datemax + 30
+{txt}(9,928 real changes made)
+
+{com}. 
+. gen monthmax = datemax 
 {txt}
 {com}. 
 . format datemax %tdMonCCYY
 {txt}
 {com}. 
+. 
+. 
 . 
 . 
 . qui compress
@@ -924,7 +930,7 @@ now 732
 
 {txt}Contains data from {res}CovidVisualizedCountry merge.dta
 {txt}  obs:{res}         9,928                          
-{txt} vars:{res}         2,459                          26 Sep 2021 10:58
+{txt} vars:{res}         2,459                          26 Sep 2021 12:27
 {txt} size:{res}    82,432,184                          
 {txt}{hline}
               storage   display    value
@@ -8943,7 +8949,7 @@ Sorted by: {res}loc_grand_name  provincestate  date
       {txt}name:  {res}<unnamed>
        {txt}log:  {res}/Users/farshadpourmalek/Downloads/CovidVisualizedCountry-main/20210923/code/merge/log CovidVisualizedCountry merge.smcl
   {txt}log type:  {res}smcl
- {txt}closed on:  {res}26 Sep 2021, 11:05:27
+ {txt}closed on:  {res}26 Sep 2021, 12:33:38
 {txt}{.-}
 {smcl}
 {txt}{sf}{ul off}
