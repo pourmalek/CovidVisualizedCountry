@@ -191,6 +191,50 @@ Daily mobility, IHME, not available for Canada at the national level.
 
 
 
+
+
+
+
+
+****
+****
+
+
+### Selected graphs - Canada provinces
+
+(1) Canada provinces [Daily reported deaths, reference scenarios, all time, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210923/output/IHME/graph%2011a%20C-19%20daily%20reported%20deaths%2C%20Canada%2C%20subnational%2C%20IHME%2C%20reference%20scenario.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/134828346-1aee2b85-9e23-4857-b0e0-43a9e4e312b8.png)
+
+****
+
+(2) Canada provinces [Daily excess deaths, reference scenarios, all time, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210923/output/IHME/graph%2012a%20C-19%20daily%20excess%20deaths%2C%20Canada%2C%20subnational%2C%20IHME%2C%20reference%20scenario.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/134828421-cb4c3103-8326-4909-abda-f057644ad501.png)
+
+****
+
+(3) Canada provinces [Daily infections, reference scenarios, all time, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210923/output/IHME/graph%2021a%20C-19%20daily%20infections%2C%20Canada%2C%20subnational%2C%20IHME%2C%20reference%20scenario.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/134828509-d20d9967-bc94-4a1c-953c-9a87de1a37a0.png)
+
+****
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ****
 ****
 
