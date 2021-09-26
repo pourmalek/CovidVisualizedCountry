@@ -41,12 +41,6 @@ Reference scenario: Updated scenario with current rate of vaccination.
 
 Better scenario: Updated scenario with increased uptake among ages 18-39 and expedited vaccination rate.
 
-<br/><br/>
-
-
-#### Notes on IHME model:
-
-IHME update 20210923 includes a few new types of estimates, including Cumulative Vaccinated. 
 
 <br/><br/>
 
