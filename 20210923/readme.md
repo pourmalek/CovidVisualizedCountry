@@ -63,7 +63,9 @@ IHME update 20210923 includes a few new types of estimates, including Cumulative
 
 
 
-### Selected graphs - [Canada](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210923/readme.md#selected-graphs---canada-1)
+### Selected graphs - [Canada, national](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210923/readme.md#selected-graphs---canada-1)
+
+### Selected graphs - [Canada, provinces](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210923/readme.md#selected-graphs---canada-1)
 
 ### Selected graphs - [Alberta](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210923/readme.md#selected-graphs---alberta-1)
 
@@ -84,7 +86,7 @@ IHME update 20210923 includes a few new types of estimates, including Cumulative
 
 ****
 
-### Selected graphs - Canada
+### Selected graphs - Canada, national
 
 (1) Canada [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210923/output/merge/main/CAN1%2011aDayDeaMERGnat%20alltime%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
@@ -200,7 +202,7 @@ Daily mobility, IHME, not available for Canada at the national level.
 ****
 
 
-### Selected graphs - Canada provinces
+### Selected graphs - Canada, provinces
 
 (1) Canada provinces [Daily reported deaths, reference scenarios, all time, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210923/output/IHME/graph%2011a%20C-19%20daily%20reported%20deaths%2C%20Canada%2C%20subnational%2C%20IHME%2C%20reference%20scenario.pdf)
 
