@@ -24,6 +24,7 @@ Graphs for Nova Scotia were added here starting from uptake 20210726 onwards.
 
 (1) Nova Scotia [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210923/output/merge/main/SUB1%2011bDayDeaMERGsub%20alltime%20Nova%20Scotia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Nova%20Scotia%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/134832033-0a3197d1-bb8e-40b3-99e2-54317c94224c.png)
 
 *
 
@@ -157,6 +158,7 @@ Graphs for Nova Scotia were added here starting from uptake 20210726 onwards.
 
 (2) Nova Scotia [Daily deaths, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210923/output/merge/main/SUB2%2012bDayDeaMERGsub%202021%20Nova%20Scotia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Nova%20Scotia%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/134833446-f6696c05-e0a5-4a62-a473-45bf0a69f691.png)
 
 *
 
@@ -290,6 +292,7 @@ Graphs for Nova Scotia were added here starting from uptake 20210726 onwards.
 
 (3) Nova Scotia [Daily deaths, 3 scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210923/output/merge/main/SUB3%2014b1DayDeaMERGsub%202021%203%20scenarios%20Nova%20Scotia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Nova%20Scotia%2C%203%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/134833512-78cf1dc8-8c74-4b18-860f-aad59607f405.png)
 
 *
 
@@ -422,6 +425,7 @@ Graphs for Nova Scotia were added here starting from uptake 20210726 onwards.
 
 (4) Nova Scotia [Daily cases or infections, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210923/output/merge/main/SUB4%2031bDayCasMERGsub%20alltime%20Nova%20Scotia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Nova%20Scotia%2C%20reference%20scenarios.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/134833565-4f92cf00-441f-4556-b0fa-c4cc15be0e54.png)
 
 *
 
@@ -554,6 +558,7 @@ Graphs for Nova Scotia were added here starting from uptake 20210726 onwards.
 
 (5) Nova Scotia [Daily cases or infections, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210923/output/merge/main/SUB5%2032bDayCasMERGsub%202021%20Nova%20Scotia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Nova%20Scotia%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/134833620-e611cf07-f08f-453e-9136-b5c3d9e39e51.png)
 
 *
 
@@ -689,6 +694,7 @@ Graphs for Nova Scotia were added here starting from uptake 20210726 onwards.
 
 (6) Nova Scotia [Daily cases or infections, 3 scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210923/output/merge/main/SUB6%2034bDayCasMERGsub%202021%203scen%20Nova%20Scotia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Nova%20Scotia%2C%203%20scenarios%2C%202021%2C%20uncertainty.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/134833667-dc2f10a0-5de2-40a4-8628-bcae9856b1c1.png)
 
 *
 
@@ -827,6 +833,7 @@ Graphs for Nova Scotia were added here starting from uptake 20210726 onwards.
 
 (7) Nova Scotia [Hospital-related outcomes, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210923/output/merge/main/SUB7%2071bDayHosMERGsub%20alltime%20Nova%20Scotia%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20Nova%20Scotia.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/134833709-a08960ac-c260-410d-ab99-436feac9e863.png)
 
 *
 
@@ -965,6 +972,7 @@ Graphs for Nova Scotia were added here starting from uptake 20210726 onwards.
 
 (8) Nova Scotia [Hospital-related outcomes, 2021, without IHME Bed need and IMPE Hospital demand](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210923/output/merge/main/SUB8%2073bDayHosMERGsub%202021%20woextremes%20Nova%20Scotia%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20Nova%20Scotia%2C%20wo%20extremes%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/134833787-97ff5003-4529-412a-8c75-6d8e2a77c61f.png)
 
 *
 
@@ -1101,6 +1109,7 @@ Graphs for Nova Scotia were added here starting from uptake 20210726 onwards.
 
 (9) Nova Scotia [Daily deaths estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210923/output/merge/main/SUB9%2092bDayDERMERGsub%202021%20Nova%20Scotia%20-%20COVID-19%20daily%20deaths%20estimated%20to%20reported%2C%20Canada%2C%20Nova%20Scotia%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/134833835-c9a28c35-da7e-4e25-ab4e-b2be6b62dd19.png)
 
 *
 
@@ -1239,6 +1248,7 @@ Graphs for Nova Scotia were added here starting from uptake 20210726 onwards.
 
 (10) Nova Scotia [Daily cases or infections estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210923/output/merge/main/SUB10%2094bDayCERMERGsub%202021%20Nova%20Scotia%20-%20COVID-19%20daily%20cases%20estimated%20to%20reported%2C%20Canada%2C%20Nova%20Scotia%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/134833906-3757bb03-7b77-406a-90f5-3ab9db198c37.png)
 
 *
 
@@ -1379,6 +1389,7 @@ Graphs for Nova Scotia were added here starting from uptake 20210726 onwards.
 
 (11) Nova Scotia [R effective, 3 scenarios, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210923/output/IHME/graph%2072a%20C-19%20R%20effective%2C%20Canada%2C%20Nova%20Scotia%2C%20IHME%2C%203%20scenarios.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/134833967-76eb9592-a60a-47bd-8b0b-299ccdeb5cdb.png)
 
 *
 
@@ -1418,6 +1429,7 @@ uptake 20210920 and uptake 20210916 both use IHME 20210916.
 
 (12) Nova Scotia [Daily Infection-outcomes ratios, 3 scenarios, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210923/output/merge/main/graph%2091b%20COVID-19%20daily%20Infection%20outcomes%20ratios%2C%20Canada%2C%20Nova%20Scotia%203%20scenarios%2C%20IHME.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/134834011-b27bd39d-84d8-41ec-b6f5-3b232b83e1e7.png)
 
 *
 
@@ -1461,6 +1473,7 @@ uptake 20210920 and uptake 20210916 both use IHME 20210916.
 
 (13) Nova Scotia [Daily mobility, 3 scenarios, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210923/output/merge/main/graph%2092a%20COVID-19%20daily%20mobility%2C%20Canada%2C%20Nova%20Scotia%2C%203%20scenarios.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/134834053-2a73c16e-a411-45a6-8b73-52ca875aa6d0.png)
 
 *
 
@@ -1503,6 +1516,7 @@ uptake 20210920 and uptake 20210916 both use IHME 20210916.
 
 (14) Nova Scotia [Daily mask use, 3 scenarios, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210923/output/merge/main/graph%2093b%20COVID-19%20daily%20mask_use%2C%20Canada%2C%20Nova%20Scotia%2C%203%20scenarios.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/134834104-9e44fc94-ea76-4de4-87c0-bce3df70c05f.png)
 
 *
 
@@ -1545,6 +1559,7 @@ uptake 20210920 and uptake 20210916 both use IHME 20210916.
 
 (15) Nova Scotia [Percent cumulative vaccinated, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210923/output/merge/main/graph%2094b%20COVID-19%20percent%20cumulative%20vaccinated%2C%20Canada%2C%20Nova%20Scotia.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/134834214-5298f087-beb4-4865-b006-2df38a79d779.png)
 
 *
 
