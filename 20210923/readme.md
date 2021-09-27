@@ -65,7 +65,7 @@ IHME update 20210923 includes a few new types of estimates, including Cumulative
 
 ### Selected graphs - [Canada, national](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210923/readme.md#selected-graphs---canada-national-1)
 
-### Selected graphs - [Canada, provinces](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210923/readme.md#selected-graphs---canada-1)
+### Selected graphs - [Canada, provinces](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210923/readme.md#selected-graphs---canada-provinces-1)
 
 ### Selected graphs - [Alberta](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210923/readme.md#selected-graphs---alberta-1)
 
