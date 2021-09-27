@@ -220,7 +220,17 @@ Daily mobility, IHME, not available for Canada at the national level.
 
 ****
 
+(4) Canada provinces [Daily infections, reference scenarios, all time, PHAC](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210923/output/PHAC/CAN11%2019aDayDeaRATE%20alltime%20IHME%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20subnational%20together%2C%20reference%20scenario%20PHAC.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/134828948-fa3e5b8f-c2ab-4fe3-b77e-2e16b681af8f.png)
+
+****
+
+(5) Canada provinces [Daily infections, reference scenarios, all time, PHAC, without the national level](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210923/output/PHAC/CAN11%2019bDayDeaRATE%20alltime%20IHME%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20subnational%20together%2C%20reference%20scenario%20PHAC.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/134829013-4f58b6bd-2830-474f-9657-62526ef37621.png)
+
+****
 
 
 
