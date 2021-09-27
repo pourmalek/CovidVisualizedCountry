@@ -7,10 +7,6 @@
 
 DELP 20210923, **_IHME 20210923_**, IMPE 20210909, LANL 20210919, SRIV 20210923
 
-<br/><br/>
-
-#### Notes on IMPE model:
-
 
 <br/><br/>
 
