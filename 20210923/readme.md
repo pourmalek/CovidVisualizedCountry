@@ -739,7 +739,7 @@ Daily mobility, IHME, not available for Canada at the national level.
 
 (15) Ontario [Percent cumulative vaccinated, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210923/output/merge/main/graph%2094b%20COVID-19%20percent%20cumulative%20vaccinated%2C%20Canada%2C%20Ontario.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/134835874-c70f5444-a30e-44bf-9c64-c03c256fc337.png)
+![image](https://user-images.githubusercontent.com/30849720/134835985-d8dd297a-04e9-4f13-a8c0-d4558df0b879.png)
 
 ****
 
