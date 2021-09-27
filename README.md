@@ -142,7 +142,7 @@ DELP 20210923, **_IHME 20210923_**, IMPE 20210909, LANL 20210919, SRIV 20210923,
   
 ### Selected graphs from latest uptake - [Canada, national](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/README.md#selected-graphs---canada-national)
 
-### Selected graphs from latest uptake - [Canada, provinces](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/README.md#selected-graphs---canada-provinces  
+### Selected graphs from latest uptake - [Canada, provinces](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/README.md#selected-graphs---canada-provinces)
 
 ### Selected graphs from latest uptake - [Alberta](https://github.com/pourmalek/CovidVisualizedCountry#selected-graphs---alberta)
 
