@@ -813,26 +813,31 @@ Daily mobility, IHME, not available for Canada at the national level.
 
 (11) Quebec [R effective, 3 scenarios, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210923/output/IHME/graph%2072a%20C-19%20R%20effective%2C%20Canada%2C%20Quebec%2C%20IHME%2C%203%20scenarios.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/134836690-83b22a7c-04b6-4a98-b1cb-912260666a53.png)
 
 ****
 
 (12) Quebec [Daily Infection-outcomes ratios, 3 scenarios, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210923/output/merge/main/graph%2091b%20COVID-19%20daily%20Infection%20outcomes%20ratios%2C%20Canada%2C%20Quebec%203%20scenarios%2C%20IHME.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/134836735-e0ff0c6d-a3f7-4a59-aa80-118689375a56.png)
 
 ****
 
 (13) Quebec [Daily mobility, 3 scenarios, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210923/output/merge/main/graph%2092a%20COVID-19%20daily%20mobility%2C%20Canada%2C%20Quebec%2C%203%20scenarios.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/134836809-f8731d59-e560-4e00-8eb2-f2fa3698cfd3.png)
 
 ****
 
 (14) Quebec [Daily mask use, 3 scenarios, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210923/output/merge/main/graph%2093b%20COVID-19%20daily%20mask_use%2C%20Canada%2C%20Quebec%2C%203%20scenarios.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/134836859-af92f19c-a773-47ba-9906-92098a2369a1.png)
 
 ****
 
 (15) Quebec [Percent cumulative vaccinated, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210923/output/merge/main/graph%2094b%20COVID-19%20percent%20cumulative%20vaccinated%2C%20Canada%2C%20Quebec.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/134836912-c8aab3e6-62cf-41c4-9e3c-e7fae6a7e644.png)
 
 ****
 
