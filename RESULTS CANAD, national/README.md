@@ -751,7 +751,7 @@
 
 (4) Canada [Daily cases or infections, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210923/output/merge/main/CAN4%2031aDayCasMERGnat%20alltime%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20National%2C%20reference%20scenarios.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/134823573-f6f7a5e8-b9be-4bc0-9024-2bcf9b5d84df.png)
+![image](https://user-images.githubusercontent.com/30849720/134843817-b6edc6f8-56fd-4c97-8a6c-0c00d5bae9d1.png)
 
 *
 
