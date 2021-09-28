@@ -10,6 +10,12 @@
 
 *
 
+**uptake 20210928**: DELP 20210927, IHME 20210923, **_IMPE 20210924_**, LANL 20210926, SRIV 20210928, PHAC 20210903
+
+
+
+*
+
 **uptake 20210923**:  DELP 20210923, **_IHME 20210923_**, IMPE 20210909, LANL 20210919, SRIV 20210923, PHAC 20210903
 
 (1) Canada provinces [Daily reported deaths, reference scenarios, all time, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210923/output/IHME/graph%2011a%20C-19%20daily%20reported%20deaths%2C%20Canada%2C%20subnational%2C%20IHME%2C%20reference%20scenario.pdf)
@@ -27,6 +33,12 @@
 
 #### graph (2) Canada, provinces - Daily excess deaths, reference scenarios, all time, IHME
 
+
+
+
+*
+
+**uptake 20210928**: DELP 20210927, IHME 20210923, **_IMPE 20210924_**, LANL 20210926, SRIV 20210928, PHAC 20210903
 
 
 
@@ -54,6 +66,12 @@
 
 *
 
+**uptake 20210928**: DELP 20210927, IHME 20210923, **_IMPE 20210924_**, LANL 20210926, SRIV 20210928, PHAC 20210903
+
+
+
+*
+
 (3) Canada provinces [Daily infections, reference scenarios, all time, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210923/output/IHME/graph%2021a%20C-19%20daily%20infections%2C%20Canada%2C%20subnational%2C%20IHME%2C%20reference%20scenario.pdf)
 
 ![image](https://user-images.githubusercontent.com/30849720/134828509-d20d9967-bc94-4a1c-953c-9a87de1a37a0.png)
@@ -69,6 +87,12 @@
 
 #### graph (4) Canada, provinces - Daily infections, reference scenarios, all time, PHAC
 
+
+
+
+*
+
+**uptake 20210928**: DELP 20210927, IHME 20210923, **_IMPE 20210924_**, LANL 20210926, SRIV 20210928, PHAC 20210903
 
 
 
@@ -92,6 +116,12 @@
 
 #### graph (5) Canada, provinces - Daily infections, reference scenarios, all time, PHAC, without the national level
 
+
+
+
+*
+
+**uptake 20210928**: DELP 20210927, IHME 20210923, **_IMPE 20210924_**, LANL 20210926, SRIV 20210928, PHAC 20210903
 
 
 
