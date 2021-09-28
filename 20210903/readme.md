@@ -5,8 +5,6 @@
 
 DELP 20210903, IHME 20210902, IMPE 20210825, LANL 20210829, SRIV 20210903, **_PHAC 20210903_**
 
-Note: IMPE update 20210825 was dead at birth for IRAN since predicted daily deaths was less than report daily deaths during the overlap interval. This does not increase accuracy of predictions for other locations.
-
 <br/><br/>
 
 #### PHAC = PHAC-McMaster model 20210903
