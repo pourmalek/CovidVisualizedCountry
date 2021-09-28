@@ -4,8 +4,6 @@
 
 DELP 20210910, **_IHME 20210910_**, IMPE 20210825, LANL 20210905, SRIV 20210910, PHAC 20210903
 
-Note: IMPE update 20210825 was dead at birth for IRAN since predicted daily deaths was less than report daily deaths during the overlap interval. This does not increase accuracy of predictions for other locations.
-
 <br/><br/>
 
 [IHME COVID-19 Results Briefing - Canada - 20210909](http://www.healthdata.org/sites/default/files/covid_briefs/101_briefing_Canada.pdf) || [PDF](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210910/IHME%20COVID-19%20Results%20Briefing%20-%20Canada%20-%2020210909.pdf)
