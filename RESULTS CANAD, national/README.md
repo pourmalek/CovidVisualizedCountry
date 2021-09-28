@@ -11,6 +11,12 @@
 
 *
 
+**uptake 20210928**: DELP 20210927, IHME 20210923, **_IMPE 20210924_**, LANL 20210926, SRIV 20210928, PHAC 20210903
+
+
+
+*
+
 **uptake 20210923**:  DELP 20210923, **_IHME 20210923_**, IMPE 20210909, LANL 20210919, SRIV 20210923, PHAC 20210903
 
 (1) Canada [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210923/output/merge/main/CAN1%2011aDayDeaMERGnat%20alltime%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%20all%20time.pdf)
@@ -254,6 +260,12 @@
   
   
   
+*
+
+**uptake 20210928**: DELP 20210927, IHME 20210923, **_IMPE 20210924_**, LANL 20210926, SRIV 20210928, PHAC 20210903
+
+
+
 *
 
 **uptake 20210923**:  DELP 20210923, **_IHME 20210923_**, IMPE 20210909, LANL 20210919, SRIV 20210923, PHAC 20210903
@@ -502,6 +514,12 @@
   
 *
 
+**uptake 20210928**: DELP 20210927, IHME 20210923, **_IMPE 20210924_**, LANL 20210926, SRIV 20210928, PHAC 20210903
+
+
+
+*
+
 **uptake 20210923**:  DELP 20210923, **_IHME 20210923_**, IMPE 20210909, LANL 20210919, SRIV 20210923, PHAC 20210903
 
 (3) Canada [Daily deaths, 3 scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210923/output/merge/main/CAN3%2014a2DayDeaMERGnat%202021%203%20scenarios%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20National%2C%203%20scenarios%2C%202021.pdf)
@@ -745,6 +763,12 @@
   
   
   
+*
+
+**uptake 20210928**: DELP 20210927, IHME 20210923, **_IMPE 20210924_**, LANL 20210926, SRIV 20210928, PHAC 20210903
+
+
+
 *
 
 **uptake 20210923**:  DELP 20210923, **_IHME 20210923_**, IMPE 20210909, LANL 20210919, SRIV 20210923, PHAC 20210903
@@ -993,6 +1017,12 @@
   
   
   
+*
+
+**uptake 20210928**: DELP 20210927, IHME 20210923, **_IMPE 20210924_**, LANL 20210926, SRIV 20210928, PHAC 20210903
+
+
+
 *
 
 **uptake 20210923**:  DELP 20210923, **_IHME 20210923_**, IMPE 20210909, LANL 20210919, SRIV 20210923, PHAC 20210903
@@ -1244,6 +1274,12 @@
   
 *
 
+**uptake 20210928**: DELP 20210927, IHME 20210923, **_IMPE 20210924_**, LANL 20210926, SRIV 20210928, PHAC 20210903
+
+
+
+*
+
 **uptake 20210923**:  DELP 20210923, **_IHME 20210923_**, IMPE 20210909, LANL 20210919, SRIV 20210923, PHAC 20210903
 
 (6) Canada [Daily cases or infections, 3 scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210923/output/merge/main/CAN6%2034aDayCasMERGnat%202021%203scen%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20National%2C%203%20scenarios%2C%202021%2C%20uncertainty.pdf)
@@ -1489,6 +1525,12 @@
   
 
   
+*
+
+**uptake 20210928**: DELP 20210927, IHME 20210923, **_IMPE 20210924_**, LANL 20210926, SRIV 20210928, PHAC 20210903
+
+
+
 *
 
 **uptake 20210923**:  DELP 20210923, **_IHME 20210923_**, IMPE 20210909, LANL 20210919, SRIV 20210923, PHAC 20210903
@@ -1740,6 +1782,12 @@
 
 *
 
+**uptake 20210928**: DELP 20210927, IHME 20210923, **_IMPE 20210924_**, LANL 20210926, SRIV 20210928, PHAC 20210903
+
+
+
+*
+
 **uptake 20210923**:  DELP 20210923, **_IHME 20210923_**, IMPE 20210909, LANL 20210919, SRIV 20210923, PHAC 20210903
 
 (7b) Canada [Hospital-related outcomes, all time, with PHAC](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210923/output/merge/main/CAN7%2071a12DayHosMERGnat%20%20alltime%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20National%20PHAC.pdf)
@@ -1800,6 +1848,12 @@
   
   
   
+*
+
+**uptake 20210928**: DELP 20210927, IHME 20210923, **_IMPE 20210924_**, LANL 20210926, SRIV 20210928, PHAC 20210903
+
+
+
 *
 
 **uptake 20210923**:  DELP 20210923, **_IHME 20210923_**, IMPE 20210909, LANL 20210919, SRIV 20210923, PHAC 20210903
@@ -2050,6 +2104,12 @@
   
 *
 
+**uptake 20210928**: DELP 20210927, IHME 20210923, **_IMPE 20210924_**, LANL 20210926, SRIV 20210928, PHAC 20210903
+
+
+
+*
+
 **uptake 20210923**:  DELP 20210923, **_IHME 20210923_**, IMPE 20210909, LANL 20210919, SRIV 20210923, PHAC 20210903
 
 (9) Canada [Daily deaths estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210923/output/merge/main/CAN9%2092aDayDERMERGnat%202021%20-%20COVID-19%20daily%20deaths%20estimated%20to%20reported%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%202021.pdf)
@@ -2297,6 +2357,12 @@
   
 *
 
+**uptake 20210928**: DELP 20210927, IHME 20210923, **_IMPE 20210924_**, LANL 20210926, SRIV 20210928, PHAC 20210903
+
+
+
+*
+
 **uptake 20210923**:  DELP 20210923, **_IHME 20210923_**, IMPE 20210909, LANL 20210919, SRIV 20210923, PHAC 20210903
 
 (10) Canada [Daily cases or infections estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210923/output/merge/main/CAN10%2094aDayCERMERGnat%202021%20-%20COVID-19%20daily%20cases%20estimated%20to%20reported%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%202021.pdf)
@@ -2541,7 +2607,6 @@
   
 This graph was added here starting with uptake 20210726. 
 
-
 IHME Daily death rates were retired from IHME updtae 20210916.  
   
 *
@@ -2765,7 +2830,6 @@ IHME Daily death rates were retired from IHME updtae 20210916.
   
 This graph was added here starting with uptake 20210726. 
 
-
 IHME Daily death rates were retired from IHME updtae 20210916.
 
 *
@@ -2903,6 +2967,12 @@ R effective, IHME, not available for Canada at the national level.
 
 *
 
+**uptake 20210928**: DELP 20210927, IHME 20210923, **_IMPE 20210924_**, LANL 20210926, SRIV 20210928, PHAC 20210903
+
+
+
+*
+
 **uptake 20210923**:  DELP 20210923, **_IHME 20210923_**, IMPE 20210909, LANL 20210919, SRIV 20210923, PHAC 20210903
 
 (11) Canada [Daily Infection-outcomes ratios, 3 scenarios, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210923/output/merge/main/graph%2091a%20COVID-19%20daily%20Infection%20outcomes%20ratios%2C%20Canada%2C%20National%203%20scenarios%2C%20IHME.pdf)
@@ -2986,6 +3056,12 @@ uptake 20210920 and uptake 20210916 both use IHME 20210916.
 
 #### graph (13) Canada - Percent cumulative vaccinated, IHME
 
+
+
+
+*
+
+**uptake 20210928**: DELP 20210927, IHME 20210923, **_IMPE 20210924_**, LANL 20210926, SRIV 20210928, PHAC 20210903
 
 
 
