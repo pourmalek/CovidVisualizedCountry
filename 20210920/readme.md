@@ -11,7 +11,7 @@ DELP 20210920, IHME 20210916, **_IMPE 20210909_**, LANL 20210919, SRIV 20210920,
 
 #### Notes on IMPE model:
 
-(1) On 20210920, IMPE removed their THREE available previous updates, and uploaded their new update, 2021-09-09_v8.csv.zip. "GBarnsley Remove old pages to save on site space 63c9e0e". 
+On 20210920, IMPE removed their THREE available previous updates, and uploaded their new update, 2021-09-09_v8.csv.zip. "GBarnsley Remove old pages to save on site space 63c9e0e". 
 
 ![image](https://user-images.githubusercontent.com/30849720/134084196-324bcbcb-0dab-4302-97f1-22aa3ff866c3.png)
 
@@ -19,8 +19,6 @@ As such, their update 2021-08-25_v8. csv is no longer publicly available.
 
 For use in this code, IMPE estimates for Canada from "2021-08-25_v8.csv" is stored in file "2021-08-25_v8 Canada.csv".
 
-
-(2) IMPE update 20210825 was dead at birth for IRAN since predicted daily deaths was less than report daily deaths during the overlap interval. This does not increase accuracy of predictions for other locations.
 
 <br/><br/>
 
