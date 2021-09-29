@@ -19,7 +19,9 @@ Graphs for Alberta were added here starting from uptake 20210726 onwards.
 
 **uptake 20210928**: DELP 20210927, IHME 20210923, **_IMPE 20210924_**, LANL 20210926, SRIV 20210928, PHAC 20210903
 
+(1) Alberta [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210928/output/merge/main/SUB1%2011bDayDeaMERGsub%20alltime%20Alberta%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/135258244-b069193d-5966-4feb-9de8-1609040f2786.png)
 
 *
 
@@ -161,7 +163,9 @@ Graphs for Alberta were added here starting from uptake 20210726 onwards.
 
 **uptake 20210928**: DELP 20210927, IHME 20210923, **_IMPE 20210924_**, LANL 20210926, SRIV 20210928, PHAC 20210903
 
+(2) Alberta [Daily deaths, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210928/output/merge/main/SUB2%2012bDayDeaMERGsub%202021%20Alberta%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/135258329-b41c4149-435a-42f8-912a-ece15ef88056.png)
 
 *
 
@@ -300,7 +304,9 @@ Graphs for Alberta were added here starting from uptake 20210726 onwards.
 
 **uptake 20210928**: DELP 20210927, IHME 20210923, **_IMPE 20210924_**, LANL 20210926, SRIV 20210928, PHAC 20210903
 
+(3) Alberta [Daily deaths, 3 scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210928/output/merge/main/SUB3%2014b1DayDeaMERGsub%202021%203%20scenarios%20Alberta%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Alberta%2C%203%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/135258525-7335de8c-8932-45a9-8136-004073edfb04.png)
 
 *
 
@@ -438,7 +444,9 @@ Graphs for Alberta were added here starting from uptake 20210726 onwards.
 
 **uptake 20210928**: DELP 20210927, IHME 20210923, **_IMPE 20210924_**, LANL 20210926, SRIV 20210928, PHAC 20210903
 
+(4) Alberta [Daily cases or infections, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210928/output/merge/main/SUB4%2031bDayCasMERGsub%20alltime%20Alberta%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/135258637-c2ecf4c5-e410-493b-9ef9-8e4a9db0faab.png)
 
 *
 
@@ -576,7 +584,9 @@ Graphs for Alberta were added here starting from uptake 20210726 onwards.
 
 **uptake 20210928**: DELP 20210927, IHME 20210923, **_IMPE 20210924_**, LANL 20210926, SRIV 20210928, PHAC 20210903
 
+(5) Alberta [Daily cases or infections, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210928/output/merge/main/SUB5%2032bDayCasMERGsub%202021%20Alberta%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/135258781-cec664e3-8afb-4308-b666-b6e28c8bc671.png)
 
 *
 
@@ -717,7 +727,9 @@ Graphs for Alberta were added here starting from uptake 20210726 onwards.
 
 **uptake 20210928**: DELP 20210927, IHME 20210923, **_IMPE 20210924_**, LANL 20210926, SRIV 20210928, PHAC 20210903
 
+(6) Alberta [Daily cases or infections, 3 scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210928/output/merge/main/SUB6%2034bDayCasMERGsub%202021%203scen%20Alberta%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Alberta%2C%203%20scenarios%2C%202021%2C%20uncertainty.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/135258869-aa2da615-b3ff-4ab3-b733-f93a075dbac6.png)
 
 *
 
@@ -860,7 +872,9 @@ Graphs for Alberta were added here starting from uptake 20210726 onwards.
 
 **uptake 20210928**: DELP 20210927, IHME 20210923, **_IMPE 20210924_**, LANL 20210926, SRIV 20210928, PHAC 20210903
 
+(7) Alberta [Hospital-related outcomes, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210928/output/merge/main/SUB7%2071bDayHosMERGsub%20alltime%20Alberta%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20Alberta.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/135258975-5ebd7431-08bc-4159-a34b-dfa32ba4d06a.png)
 
 *
 
@@ -1003,7 +1017,9 @@ Graphs for Alberta were added here starting from uptake 20210726 onwards.
 
 **uptake 20210928**: DELP 20210927, IHME 20210923, **_IMPE 20210924_**, LANL 20210926, SRIV 20210928, PHAC 20210903
 
+(8) Alberta [Hospital-related outcomes, 2021, without IHME Bed need and IMPE Hospital demand](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210928/output/merge/main/SUB8%2073bDayHosMERGsub%202021%20woextremes%20Alberta%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20Alberta%2C%20wo%20extremes%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/135259069-f7765fa7-9699-43c7-ba01-0f67c46fba8c.png)
 
 *
 
@@ -1145,7 +1161,9 @@ Graphs for Alberta were added here starting from uptake 20210726 onwards.
 
 **uptake 20210928**: DELP 20210927, IHME 20210923, **_IMPE 20210924_**, LANL 20210926, SRIV 20210928, PHAC 20210903
 
+(9) Alberta [Daily deaths estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210928/output/merge/main/SUB9%2092bDayDERMERGsub%202021%20Alberta%20-%20COVID-19%20daily%20deaths%20estimated%20to%20reported%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/135274661-a61da6d9-af4f-4b4c-8821-7bed28910a8c.png)
 
 *
 
@@ -1289,7 +1307,9 @@ Graphs for Alberta were added here starting from uptake 20210726 onwards.
 
 **uptake 20210928**: DELP 20210927, IHME 20210923, **_IMPE 20210924_**, LANL 20210926, SRIV 20210928, PHAC 20210903
 
+(10) Alberta [Daily cases or infections estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210928/output/merge/main/SUB10%2094bDayCERMERGsub%202021%20Alberta%20-%20COVID-19%20daily%20cases%20estimated%20to%20reported%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/135274775-b0a2e6ce-3553-43a1-908d-b293ef7a2fde.png)
 
 *
 
@@ -1435,7 +1455,9 @@ Graphs for Alberta were added here starting from uptake 20210726 onwards.
 
 **uptake 20210928**: DELP 20210927, IHME 20210923, **_IMPE 20210924_**, LANL 20210926, SRIV 20210928, PHAC 20210903
 
+(11) Alberta [R effective, 3 scenarios, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210928/output/IHME/graph%2072a%20C-19%20R%20effective%2C%20Canada%2C%20Alberta%2C%20IHME%2C%203%20scenarios.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/135274929-352247e0-cb03-4a4e-8590-def9de91c2c8.png)
 
 *
 
@@ -1483,7 +1505,9 @@ uptake 20210920 and uptake 20210916 both use IHME 20210916.
 
 **uptake 20210928**: DELP 20210927, IHME 20210923, **_IMPE 20210924_**, LANL 20210926, SRIV 20210928, PHAC 20210903
 
+(12) Alberta [Daily Infection-outcomes ratios, 3 scenarios, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210928/output/merge/main/graph%2091b%20COVID-19%20daily%20Infection%20outcomes%20ratios%2C%20Canada%2C%20Alberta%203%20scenarios%2C%20IHME.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/135275087-d42e8ba7-4700-4499-b09f-b79addabdb1e.png)
 
 *
 
@@ -1532,7 +1556,7 @@ uptake 20210920 and uptake 20210916 both use IHME 20210916.
 
 **uptake 20210928**: DELP 20210927, IHME 20210923, **_IMPE 20210924_**, LANL 20210926, SRIV 20210928, PHAC 20210903
 
-
+uptake 20210928 and uptake 20210923 both use IHME 20210923.
 
 *
 
@@ -1579,7 +1603,7 @@ uptake 20210920 and uptake 20210916 both use IHME 20210916.
 
 **uptake 20210928**: DELP 20210927, IHME 20210923, **_IMPE 20210924_**, LANL 20210926, SRIV 20210928, PHAC 20210903
 
-
+uptake 20210928 and uptake 20210923 both use IHME 20210923.
 
 *
 
@@ -1628,7 +1652,7 @@ uptake 20210920 and uptake 20210916 both use IHME 20210916.
 
 **uptake 20210928**: DELP 20210927, IHME 20210923, **_IMPE 20210924_**, LANL 20210926, SRIV 20210928, PHAC 20210903
 
-
+uptake 20210928 and uptake 20210923 both use IHME 20210923.
 
 *
 
