@@ -2993,9 +2993,7 @@ R effective, IHME, not available for Canada at the national level.
 
 **uptake 20210928**: DELP 20210927, IHME 20210923, **_IMPE 20210924_**, LANL 20210926, SRIV 20210928, PHAC 20210903
 
-(11) Canada [Daily Infection-outcomes ratios, 3 scenarios, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210928/output/merge/main/graph%2091a%20COVID-19%20daily%20Infection%20outcomes%20ratios%2C%20Canada%2C%20National%203%20scenarios%2C%20IHME.pdf)
-
-![image](https://user-images.githubusercontent.com/30849720/135257303-a95dfcb0-97a7-44f0-bfd5-40c9f3b439a5.png)
+uptake 20210928 and uptake 20210923 both use IHME 20210923.
 
 *
 
@@ -3043,9 +3041,7 @@ uptake 20210920 and uptake 20210916 both use IHME 20210916.
 
 **uptake 20210928**: DELP 20210927, IHME 20210923, **_IMPE 20210924_**, LANL 20210926, SRIV 20210928, PHAC 20210903
 
-(12) Canada [Daily mask use, 3 scenarios, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210928/output/merge/main/graph%2093a%20COVID-19%20daily%20mask_use%2C%20Canada%2C%20National%2C%203%20scenarios.pdf) 
-
-![image](https://user-images.githubusercontent.com/30849720/135257409-b97fa626-645e-497a-8579-0be3c5757a13.png)
+uptake 20210928 and uptake 20210923 both use IHME 20210923.
 
 *
 
@@ -3097,9 +3093,7 @@ uptake 20210920 and uptake 20210916 both use IHME 20210916.
 
 **uptake 20210928**: DELP 20210927, IHME 20210923, **_IMPE 20210924_**, LANL 20210926, SRIV 20210928, PHAC 20210903
 
-(13) Canada [Percent cumulative vaccinated, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210928/output/merge/main/graph%2094a%20COVID-19%20percent%20cumulative%20vaccinated%2C%20Canada%2C%20National.pdf)
-
-![image](https://user-images.githubusercontent.com/30849720/135257526-8828cc55-a501-4e8d-b8bd-10953df1ceed.png)
+uptake 20210928 and uptake 20210923 both use IHME 20210923.
 
 *
 
