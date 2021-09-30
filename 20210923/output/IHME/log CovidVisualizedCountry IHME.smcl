@@ -1,9 +1,9 @@
 {smcl}
-{com}{sf}{ul off}{txt}{.-}
+{txt}{sf}{ul off}{.-}
       name:  {res}<unnamed>
        {txt}log:  {res}/Users/farshadpourmalek/Downloads/CovidVisualizedCountry-main/20210923/code/IHME/log CovidVisualizedCountry IHME.smcl
   {txt}log type:  {res}smcl
- {txt}opened on:  {res}26 Sep 2021, 10:41:04
+ {txt}opened on:  {res}30 Sep 2021, 04:48:29
 {txt}
 {com}. 
 . ***************************************************************************
@@ -29,27 +29,39 @@
 . 
 . * get IHME estimates
 . 
-. * URLs as of  2021-09-23
+. * URL as of 2021-09-30
 . 
-. copy https://ihmecovid19storage.blob.core.windows.net/latest/data_download_file_reference_2020.csv data_download_file_reference_2020.csv 
+. copy https://ihmecovid19storage.blob.core.windows.net/archive/2021-09-23/ihme-covid19.zip ihme-covid19.zip
 {txt}
-{com}. copy https://ihmecovid19storage.blob.core.windows.net/latest/data_download_file_reference_2021.csv data_download_file_reference_2021.csv 
-{txt}
-{com}. copy https://ihmecovid19storage.blob.core.windows.net/latest/data_download_file_best_masks_2020.csv data_download_file_best_masks_2020.csv 
-{txt}
-{com}. copy https://ihmecovid19storage.blob.core.windows.net/latest/data_download_file_best_masks_2021.csv data_download_file_best_masks_2021.csv 
-{txt}
-{com}. copy https://ihmecovid19storage.blob.core.windows.net/latest/data_download_file_worse_2020.csv data_download_file_worse_2020.csv
-{txt}
-{com}. copy https://ihmecovid19storage.blob.core.windows.net/latest/data_download_file_worse_2021.csv data_download_file_worse_2021.csv
-{txt}
-{com}. copy https://ihmecovid19storage.blob.core.windows.net/latest/data_dictionary.csv data_dictionary.csv 
-{txt}
-{com}. copy https://ihmecovid19storage.blob.core.windows.net/latest/IHME_COVID_19_Data_Release_Information_Sheet.pdf IHME_COVID_19_Data_Release_Information_Sheet.pdf 
-{txt}
-{com}. copy https://ihmecovid19storage.blob.core.windows.net/latest/sha256sums.txt sha256sums.txt
+{com}. unzipfile ihme-covid19.zip, replace
+{res}{txt}    inflating: data_dictionary.csv
+    inflating: data_download_file_best_masks_2020.csv
+    inflating: data_download_file_best_masks_2021.csv
+    inflating: data_download_file_reference_2020.csv
+    inflating: data_download_file_reference_2021.csv
+    inflating: data_download_file_worse_2020.csv
+    inflating: data_download_file_worse_2021.csv
+    inflating: IHME_COVID_19_Data_Release_Information_Sheet.pdf
+successfully unzipped ihme-covid19.zip to current directory
+
+{com}. erase ihme-covid19.zip
 {txt}
 {com}. 
+. /*
+> * URLs as of  2021-09-23
+> 
+> copy https://ihmecovid19storage.blob.core.windows.net/latest/data_download_file_reference_2020.csv data_download_file_reference_2020.csv 
+> copy https://ihmecovid19storage.blob.core.windows.net/latest/data_download_file_reference_2021.csv data_download_file_reference_2021.csv 
+> copy https://ihmecovid19storage.blob.core.windows.net/latest/data_download_file_best_masks_2020.csv data_download_file_best_masks_2020.csv 
+> copy https://ihmecovid19storage.blob.core.windows.net/latest/data_download_file_best_masks_2021.csv data_download_file_best_masks_2021.csv 
+> copy https://ihmecovid19storage.blob.core.windows.net/latest/data_download_file_worse_2020.csv data_download_file_worse_2020.csv
+> copy https://ihmecovid19storage.blob.core.windows.net/latest/data_download_file_worse_2021.csv data_download_file_worse_2021.csv
+> copy https://ihmecovid19storage.blob.core.windows.net/latest/data_dictionary.csv data_dictionary.csv 
+> copy https://ihmecovid19storage.blob.core.windows.net/latest/IHME_COVID_19_Data_Release_Information_Sheet.pdf IHME_COVID_19_Data_Release_Information_Sheet.pdf 
+> copy https://ihmecovid19storage.blob.core.windows.net/latest/sha256sums.txt sha256sums.txt
+> */
+. 
+. 
 . ******************************
 . 
 . * import csv files
@@ -70,7 +82,8 @@
 {txt}(121,614 observations deleted)
 
 {com}. save data_download_file_reference_2020.dta, replace
-{txt}file data_download_file_reference_2020.dta saved
+{txt}(note: file data_download_file_reference_2020.dta not found)
+file data_download_file_reference_2020.dta saved
 
 {com}. 
 . import delimited using data_download_file_reference_2021.csv, clear varnames(1)
@@ -87,7 +100,8 @@
 {txt}(137,250 observations deleted)
 
 {com}. save data_download_file_reference_2021.dta, replace
-{txt}file data_download_file_reference_2021.dta saved
+{txt}(note: file data_download_file_reference_2021.dta not found)
+file data_download_file_reference_2021.dta saved
 
 {com}. 
 . 
@@ -107,7 +121,8 @@
 {txt}(121,614 observations deleted)
 
 {com}. save data_download_file_best_masks_2020.dta, replace
-{txt}file data_download_file_best_masks_2020.dta saved
+{txt}(note: file data_download_file_best_masks_2020.dta not found)
+file data_download_file_best_masks_2020.dta saved
 
 {com}. 
 . import delimited using data_download_file_best_masks_2021.csv, clear varnames(1)
@@ -124,7 +139,8 @@
 {txt}(137,250 observations deleted)
 
 {com}. save data_download_file_best_masks_2021.dta, replace
-{txt}file data_download_file_best_masks_2021.dta saved
+{txt}(note: file data_download_file_best_masks_2021.dta not found)
+file data_download_file_best_masks_2021.dta saved
 
 {com}. 
 .         
@@ -143,7 +159,8 @@
 {txt}(121,614 observations deleted)
 
 {com}. save data_download_file_worse_2020.dta, replace
-{txt}file data_download_file_worse_2020.dta saved
+{txt}(note: file data_download_file_worse_2020.dta not found)
+file data_download_file_worse_2020.dta saved
 
 {com}. 
 . import delimited using data_download_file_worse_2021.csv, clear varnames(1)
@@ -160,7 +177,8 @@
 {txt}(137,250 observations deleted)
 
 {com}. save data_download_file_worse_2021.dta, replace
-{txt}file data_download_file_worse_2021.dta saved
+{txt}(note: file data_download_file_worse_2021.dta not found)
+file data_download_file_worse_2021.dta saved
 
 {com}. 
 . 
@@ -253,7 +271,8 @@ float, now double to accommodate using data's values)
 
 {com}. 
 . save "data_download_file_reference_2020_21.dta", replace
-{txt}file data_download_file_reference_2020_21.dta saved
+{txt}(note: file data_download_file_reference_2020_21.dta not found)
+file data_download_file_reference_2020_21.dta saved
 
 {com}. 
 . *
@@ -340,7 +359,8 @@ float, now double to accommodate using data's values)
 
 {com}. 
 . save "data_download_file_best_masks_2020_21.dta", replace
-{txt}file data_download_file_best_masks_2020_21.dta saved
+{txt}(note: file data_download_file_best_masks_2020_21.dta not found)
+file data_download_file_best_masks_2020_21.dta saved
 
 {com}. 
 . *
@@ -427,7 +447,8 @@ float, now double to accommodate using data's values)
 
 {com}. 
 . save "data_download_file_worse_2020_21.dta", replace
-{txt}file data_download_file_worse_2020_21.dta saved
+{txt}(note: file data_download_file_worse_2020_21.dta not found)
+file data_download_file_worse_2020_21.dta saved
 
 {com}. 
 . 
@@ -1022,7 +1043,8 @@ float, now double to accommodate using data's values)
 {txt}
 {com}. 
 . save "Reference country.dta", replace
-{txt}file Reference country.dta saved
+{txt}(note: file Reference country.dta not found)
+file Reference country.dta saved
 
 {com}. 
 . 
@@ -1432,7 +1454,8 @@ float, now double to accommodate using data's values)
 {com}. 
 . 
 . save "Best country.dta", replace
-{txt}file Best country.dta saved
+{txt}(note: file Best country.dta not found)
+file Best country.dta saved
 
 {com}. 
 . 
@@ -1843,7 +1866,8 @@ float, now double to accommodate using data's values)
 {com}. 
 . 
 . save "Worse country.dta", replace
-{txt}file Worse country.dta saved
+{txt}(note: file Worse country.dta not found)
+file Worse country.dta saved
 
 {com}. 
 . 
@@ -2069,7 +2093,8 @@ DayDMuMeS~01 {c |}{res}      5,522    3102.056    6470.073          0   60362.71
 {txt}
 {com}. 
 . save "CovidVisualizedCountry IHME.dta", replace
-{txt}file CovidVisualizedCountry IHME.dta saved
+{txt}(note: file CovidVisualizedCountry IHME.dta not found)
+file CovidVisualizedCountry IHME.dta saved
 
 {com}. 
 . 
@@ -3908,7 +3933,7 @@ DayDMuMeS~01 {c |}{res}      5,522    3102.056    6470.073          0   60362.71
       {txt}name:  {res}<unnamed>
        {txt}log:  {res}/Users/farshadpourmalek/Downloads/CovidVisualizedCountry-main/20210923/code/IHME/log CovidVisualizedCountry IHME.smcl
   {txt}log type:  {res}smcl
- {txt}closed on:  {res}26 Sep 2021, 10:50:32
+ {txt}closed on:  {res}30 Sep 2021, 04:58:05
 {txt}{.-}
 {smcl}
 {txt}{sf}{ul off}
