@@ -1453,7 +1453,19 @@ due to very large file size. Removal of Imperial College COVID-19 model/study "o
   
  
 <br/><br/> 
-  
+
+* For rerunning the codes without access to the previous IMPE updates, two modifications are needed. 
+
+(1) Commenting out in master.do file, the line that runs the do file for IMPE, like the line 130 shown below in https://github.com/pourmalek/covir2/blob/main/ADAPTATIONS_EXAMPLES/Japan_20210506/code/master/do%20country%20master.do
+
+// do "$pathcovir2/IMPE/do country IMPE.do"
+
+(2) Omitting the lines in merge.do file the lines that used IMPE variables, like the merge.do file for Japan_20210506 that is adapted to run without access to the previous IMPE updates:
+
+https://github.com/pourmalek/covir2/blob/main/ADAPTATIONS_EXAMPLES/Japan_20210506/code/merge/do%20country%20merge.do
+ 
+
+<br/><br/>   
 ****  
   
 ********
