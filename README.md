@@ -1626,6 +1626,8 @@ _Component studies (the international periodically updated models) and their sce
   
 ### List of graphs  
   
+The links included in the list below lead to the graphs for the national level. Graphs for the provinces are situated in other directories, e.g. https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20Alberta
+  
   
 graph (1) Location - Daily deaths, reference scenarios, all time
 
