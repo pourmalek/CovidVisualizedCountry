@@ -1625,9 +1625,7 @@ _Component studies (the international periodically updated models) and their sce
 ****
   
 ### List of graphs  
-  
-The links included in the list below lead to the graphs for the national level. Graphs for the provinces are situated in other directories, e.g. https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20Alberta
-  
+ 
   
 graph (1) Location - Daily deaths, reference scenarios, all time
 
@@ -1655,15 +1653,15 @@ graph (12) Location - Daily cases or infections estimated to reported cases, 202
 
 .
 
-graph (13) Location - R effective, Iran, 3 scenarios, June 2021 on, IHME
+graph (13) Location - R effective, 3 scenarios, June 2021 on, IHME
  
-graph (14) Location - Daily Infection-outcome ratios, Iran 3 scenarios, IHME
+graph (14) Location - Daily Infection-outcome ratios, 3 scenarios, IHME
 
-graph (15) Location - Daily mobility, Iran, 3 scenarios IHME
+graph (15) Location - Daily mobility, 3 scenarios IHME
 
-graph (16) Location - Daily mask use, Iran, 3 scenarios, IHME
+graph (16) Location - Daily mask use, 3 scenarios, IHME
 
-graph (17) Location - Percent cumulative vaccinated, Iran, IHME
+graph (17) Location - Percent cumulative vaccinated, IHME
 
 
 ****
