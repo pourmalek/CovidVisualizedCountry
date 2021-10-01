@@ -1,4 +1,4 @@
-! Read the Canada COVID-19 epidemic models situation report No 13 - 2021-09-28 [here](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/13%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2013%20-%202021-09-28.pdf).
+! Read the Canada COVID-19 epidemic models situation report No 14 - 2021-10-01 [here](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/14%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2014%20-%202021-10-01.pdf).
 
 <br/><br/>
 
