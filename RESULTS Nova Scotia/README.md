@@ -20,6 +20,12 @@ Graphs for Nova Scotia were added here starting from uptake 20210726 onwards.
   
 *
 
+**uptake 20211001**: DELP 20210930, **_IHME 20211001_**, IMPE 20210924, LANL 20210926, SRIV 20210930, PHAC 20210903
+
+
+
+*
+
 **uptake 20210928**: DELP 20210927, IHME 20210923, **_IMPE 20210924_**, LANL 20210926, SRIV 20210928, PHAC 20210903
 
 (1) Nova Scotia [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210928/output/merge/main/SUB1%2011bDayDeaMERGsub%20alltime%20Nova%20Scotia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Nova%20Scotia%2C%20reference%20scenarios%2C%20all%20time.pdf)
@@ -160,6 +166,12 @@ Graphs for Nova Scotia were added here starting from uptake 20210726 onwards.
   
   
   
+*
+
+**uptake 20211001**: DELP 20210930, **_IHME 20211001_**, IMPE 20210924, LANL 20210926, SRIV 20210930, PHAC 20210903
+
+
+
 *
 
 **uptake 20210928**: DELP 20210927, IHME 20210923, **_IMPE 20210924_**, LANL 20210926, SRIV 20210928, PHAC 20210903
@@ -304,6 +316,12 @@ Graphs for Nova Scotia were added here starting from uptake 20210726 onwards.
   
 *
 
+**uptake 20211001**: DELP 20210930, **_IHME 20211001_**, IMPE 20210924, LANL 20210926, SRIV 20210930, PHAC 20210903
+
+
+
+*
+
 **uptake 20210928**: DELP 20210927, IHME 20210923, **_IMPE 20210924_**, LANL 20210926, SRIV 20210928, PHAC 20210903
 
 (3) Nova Scotia [Daily deaths, 3 scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210928/output/merge/main/SUB3%2014b1DayDeaMERGsub%202021%203%20scenarios%20Nova%20Scotia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Nova%20Scotia%2C%203%20scenarios%2C%202021.pdf)
@@ -445,6 +463,12 @@ Graphs for Nova Scotia were added here starting from uptake 20210726 onwards.
   
 *
 
+**uptake 20211001**: DELP 20210930, **_IHME 20211001_**, IMPE 20210924, LANL 20210926, SRIV 20210930, PHAC 20210903
+
+
+
+*
+
 **uptake 20210928**: DELP 20210927, IHME 20210923, **_IMPE 20210924_**, LANL 20210926, SRIV 20210928, PHAC 20210903
 
 (4) Nova Scotia [Daily cases or infections, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210928/output/merge/main/SUB4%2031bDayCasMERGsub%20alltime%20Nova%20Scotia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Nova%20Scotia%2C%20reference%20scenarios.pdf)
@@ -584,6 +608,12 @@ Graphs for Nova Scotia were added here starting from uptake 20210726 onwards.
 
   
   
+*
+
+**uptake 20211001**: DELP 20210930, **_IHME 20211001_**, IMPE 20210924, LANL 20210926, SRIV 20210930, PHAC 20210903
+
+
+
 *
 
 **uptake 20210928**: DELP 20210927, IHME 20210923, **_IMPE 20210924_**, LANL 20210926, SRIV 20210928, PHAC 20210903
@@ -728,6 +758,12 @@ Graphs for Nova Scotia were added here starting from uptake 20210726 onwards.
   
   
   
+*
+
+**uptake 20211001**: DELP 20210930, **_IHME 20211001_**, IMPE 20210924, LANL 20210926, SRIV 20210930, PHAC 20210903
+
+
+
 *
 
 **uptake 20210928**: DELP 20210927, IHME 20210923, **_IMPE 20210924_**, LANL 20210926, SRIV 20210928, PHAC 20210903
@@ -877,6 +913,12 @@ Graphs for Nova Scotia were added here starting from uptake 20210726 onwards.
   
 *
 
+**uptake 20211001**: DELP 20210930, **_IHME 20211001_**, IMPE 20210924, LANL 20210926, SRIV 20210930, PHAC 20210903
+
+
+
+*
+
 **uptake 20210928**: DELP 20210927, IHME 20210923, **_IMPE 20210924_**, LANL 20210926, SRIV 20210928, PHAC 20210903
 
 (7) Nova Scotia [Hospital-related outcomes, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210928/output/merge/main/SUB7%2071bDayHosMERGsub%20alltime%20Nova%20Scotia%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20Nova%20Scotia.pdf)
@@ -1024,6 +1066,12 @@ Graphs for Nova Scotia were added here starting from uptake 20210726 onwards.
   
 *
 
+**uptake 20211001**: DELP 20210930, **_IHME 20211001_**, IMPE 20210924, LANL 20210926, SRIV 20210930, PHAC 20210903
+
+
+
+*
+
 **uptake 20210928**: DELP 20210927, IHME 20210923, **_IMPE 20210924_**, LANL 20210926, SRIV 20210928, PHAC 20210903
 
 (8) Nova Scotia [Hospital-related outcomes, 2021, without IHME Bed need and IMPE Hospital demand](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210928/output/merge/main/SUB8%2073bDayHosMERGsub%202021%20woextremes%20Nova%20Scotia%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20Nova%20Scotia%2C%20wo%20extremes%2C%202021.pdf)
@@ -1167,6 +1215,12 @@ Graphs for Nova Scotia were added here starting from uptake 20210726 onwards.
   
   
   
+*
+
+**uptake 20211001**: DELP 20210930, **_IHME 20211001_**, IMPE 20210924, LANL 20210926, SRIV 20210930, PHAC 20210903
+
+
+
 *
 
 **uptake 20210928**: DELP 20210927, IHME 20210923, **_IMPE 20210924_**, LANL 20210926, SRIV 20210928, PHAC 20210903
@@ -1314,6 +1368,12 @@ Graphs for Nova Scotia were added here starting from uptake 20210726 onwards.
   
   
   
+*
+
+**uptake 20211001**: DELP 20210930, **_IHME 20211001_**, IMPE 20210924, LANL 20210926, SRIV 20210930, PHAC 20210903
+
+
+
 *
 
 **uptake 20210928**: DELP 20210927, IHME 20210923, **_IMPE 20210924_**, LANL 20210926, SRIV 20210928, PHAC 20210903
@@ -1465,6 +1525,12 @@ Graphs for Nova Scotia were added here starting from uptake 20210726 onwards.
 
 *
 
+**uptake 20211001**: DELP 20210930, **_IHME 20211001_**, IMPE 20210924, LANL 20210926, SRIV 20210930, PHAC 20210903
+
+
+
+*
+
 **uptake 20210928**: DELP 20210927, IHME 20210923, **_IMPE 20210924_**, LANL 20210926, SRIV 20210928, PHAC 20210903
 
 uptake 20210928 and uptake 20210923 both use IHME 20210923.
@@ -1506,6 +1572,12 @@ uptake 20210920 and uptake 20210916 both use IHME 20210916.
   
 #### graph (12) Nova Scotia - Daily Infection-outcomes ratios, 3 scenarios, IHME
 
+
+
+
+*
+
+**uptake 20211001**: DELP 20210930, **_IHME 20211001_**, IMPE 20210924, LANL 20210926, SRIV 20210930, PHAC 20210903
 
 
 
@@ -1561,6 +1633,12 @@ uptake 20210920 and uptake 20210916 both use IHME 20210916.
 
 *
 
+**uptake 20211001**: DELP 20210930, **_IHME 20211001_**, IMPE 20210924, LANL 20210926, SRIV 20210930, PHAC 20210903
+
+
+
+*
+
 **uptake 20210928**: DELP 20210927, IHME 20210923, **_IMPE 20210924_**, LANL 20210926, SRIV 20210928, PHAC 20210903
 
 uptake 20210928 and uptake 20210923 both use IHME 20210923.
@@ -1610,6 +1688,12 @@ uptake 20210920 and uptake 20210916 both use IHME 20210916.
 
 *
 
+**uptake 20211001**: DELP 20210930, **_IHME 20211001_**, IMPE 20210924, LANL 20210926, SRIV 20210930, PHAC 20210903
+
+
+
+*
+
 **uptake 20210928**: DELP 20210927, IHME 20210923, **_IMPE 20210924_**, LANL 20210926, SRIV 20210928, PHAC 20210903
 
 uptake 20210928 and uptake 20210923 both use IHME 20210923.
@@ -1654,6 +1738,12 @@ uptake 20210920 and uptake 20210916 both use IHME 20210916.
   
 #### graph (15) Nova Scotia - Percent cumulative vaccinated, IHME
 
+
+
+
+*
+
+**uptake 20211001**: DELP 20210930, **_IHME 20211001_**, IMPE 20210924, LANL 20210926, SRIV 20210930, PHAC 20210903
 
 
 
