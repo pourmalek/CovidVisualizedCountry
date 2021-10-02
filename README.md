@@ -1,6 +1,6 @@
 # CovidVisualizedCountry
 
-## ! If you are in a rush, look at the graphs in the [_latest Situation report_](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/13%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2013%20-%202021-09-28.pdf). 
+## ! If you are in a rush, look at the graphs in the [_latest Situation report_](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/14%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2014%20-%202021-10-01.pdf). 
 
 For a streamlined view of this repository, see: https://pourmalek.github.io/CovidVisualizedCountry/ 
 
@@ -130,7 +130,7 @@ DELP 20210930, **_IHME 20211001_**, IMPE 20210924, LANL 20210926, SRIV 20210930,
 ********************************************************************************************************************************************
 
   
-# :eyes: SEE: [Canada COVID-19 epidemic models situation report No 13 - 2021-09-28](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/13%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2013%20-%202021-09-28.pdf)  
+# :eyes: SEE: [Canada COVID-19 epidemic models situation report No 14 - 2021-10-01](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/14%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2014%20-%202021-10-01.pdf)  
   
 ********************************************************************************************************************************************
   
