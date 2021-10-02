@@ -17,6 +17,12 @@ Note: The following additional graphs were added starting from uptake 20210923.
 
 *
 
+**uptake 20211001**: DELP 20210930, **_IHME 20211001_**, IMPE 20210924, LANL 20210926, SRIV 20210930, PHAC 20210903
+
+
+
+*
+
 **uptake 20210928**: DELP 20210927, IHME 20210923, **_IMPE 20210924_**, LANL 20210926, SRIV 20210928, PHAC 20210903
 
 uptake 20210928 and uptake 20210923 both use IHME 20210923.
@@ -40,6 +46,12 @@ uptake 20210928 and uptake 20210923 both use IHME 20210923.
 
 #### graph (2) Canada, provinces - Daily excess deaths, reference scenarios, all time, IHME
 
+
+
+
+*
+
+**uptake 20211001**: DELP 20210930, **_IHME 20211001_**, IMPE 20210924, LANL 20210926, SRIV 20210930, PHAC 20210903
 
 
 
@@ -75,6 +87,12 @@ uptake 20210928 and uptake 20210923 both use IHME 20210923.
 
 *
 
+**uptake 20211001**: DELP 20210930, **_IHME 20211001_**, IMPE 20210924, LANL 20210926, SRIV 20210930, PHAC 20210903
+
+
+
+*
+
 **uptake 20210928**: DELP 20210927, IHME 20210923, **_IMPE 20210924_**, LANL 20210926, SRIV 20210928, PHAC 20210903
 
 uptake 20210928 and uptake 20210923 both use IHME 20210923.
@@ -98,6 +116,12 @@ uptake 20210928 and uptake 20210923 both use IHME 20210923.
 
 #### graph (4) Canada, provinces - Daily infections, reference scenarios, all time, PHAC
 
+
+
+
+*
+
+**uptake 20211001**: DELP 20210930, **_IHME 20211001_**, IMPE 20210924, LANL 20210926, SRIV 20210930, PHAC 20210903
 
 
 
@@ -129,6 +153,12 @@ uptake 20210928 and uptake 20210923 both use PHAC 20210903.
 
 #### graph (5) Canada, provinces - Daily infections, reference scenarios, all time, PHAC, without the national level
 
+
+
+
+*
+
+**uptake 20211001**: DELP 20210930, **_IHME 20211001_**, IMPE 20210924, LANL 20210926, SRIV 20210930, PHAC 20210903
 
 
 
