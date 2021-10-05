@@ -55,7 +55,29 @@ https://twitter.com/CMOH_Alberta/status/1445153721244061699
 
 British Columbia
 
+https://twitter.com/adriandix/status/1445159351140839432
 
+![image](https://user-images.githubusercontent.com/30849720/135961868-339c3c9b-228f-4330-bd89-dea8127dbf5e.png)
+
+*
+
+https://twitter.com/PourmalekFarsha/status/1445249446145449986
+
+![image](https://user-images.githubusercontent.com/30849720/135961935-f8346ee6-ba7d-4e11-9067-f1289172a64d.png)
+
+*
+
+https://twitter.com/DrBonnieHenry/status/1434928861662248968
+
+![image](https://user-images.githubusercontent.com/30849720/135962434-f7399ad6-f617-4839-8cd3-8d6b587720f6.png)
+
+*
+
+https://twitter.com/PourmalekFarsha/status/1445251441145245696
+
+![image](https://user-images.githubusercontent.com/30849720/135962544-01c67217-e23b-4ccf-afb8-ed57b4256cf6.png)
+
+****
 
 
 
