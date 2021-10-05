@@ -3,6 +3,8 @@
 
 ****
 
+Canada, national
+
 https://twitter.com/PattyHajdu/status/1445077548837314563
 
 ![image](https://user-images.githubusercontent.com/30849720/135958678-0be95895-4b37-422b-b8a2-d06e794caeb8.png)
@@ -26,4 +28,27 @@ https://twitter.com/PourmalekFarsha/status/1445241437134594049
 ![image](https://user-images.githubusercontent.com/30849720/135959424-910d4958-5218-4e18-a110-a9097ca351c8.png)
 
 ****
+
+Alberta
+
+https://twitter.com/JasonCoppingAB/status/1445216905887817729
+
+![image](https://user-images.githubusercontent.com/30849720/135960776-35fd47f3-ee47-416d-a2f6-ebf2da6f1b19.png)
+
+*
+
+https://twitter.com/PourmalekFarsha/status/1445246068908695552
+
+![image](https://user-images.githubusercontent.com/30849720/135960839-eef2f4b2-1b80-4b61-b7f1-804c5a6b9e9e.png)
+
+****
+
+
+
+
+
+
+
+
+
 
