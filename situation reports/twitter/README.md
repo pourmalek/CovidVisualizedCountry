@@ -1,5 +1,5 @@
 
-#### 2021-10-04
+#### 2021-10-04 (Reply twitted DATE), UPTAKE: [`20201001`](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211001/readme.md), REPORT: [`Canada COVID-19 epidemic models situation report No 14 - 2021-10-01`](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/14%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2014%20-%202021-10-01.pdf)
 
 ****
 
