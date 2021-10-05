@@ -79,6 +79,33 @@ https://twitter.com/PourmalekFarsha/status/1445251441145245696
 
 ****
 
+Manitoba
+
+https://twitter.com/AudreyGordonMB/status/1444043607049187329
+
+![image](https://user-images.githubusercontent.com/30849720/135963351-4a1f4ef8-6579-4175-8b44-b4a8af697bcd.png)
+
+*
+
+https://twitter.com/PourmalekFarsha/status/1445254110056357899
+
+![image](https://user-images.githubusercontent.com/30849720/135963506-5be145e2-7bff-486b-8346-cd28545600d1.png)
+
+*
+
+https://twitter.com/roussin_brent/status/1444040542254415873
+
+![image](https://user-images.githubusercontent.com/30849720/135963685-abd66ba3-c6af-451e-8024-e065842e5d81.png)
+
+*
+
+https://twitter.com/PourmalekFarsha/status/1445254916172173313
+
+![image](https://user-images.githubusercontent.com/30849720/135963805-6374cd19-5f04-4060-bb5f-cc628ebc8f0b.png)
+
+****
+
+
 
 
 
