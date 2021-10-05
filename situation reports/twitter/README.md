@@ -43,6 +43,18 @@ https://twitter.com/PourmalekFarsha/status/1445246068908695552
 
 ****
 
+https://twitter.com/CMOH_Alberta/status/1445153721244061699
+
+![image](https://user-images.githubusercontent.com/30849720/135961048-03ec7dfd-6c9b-4387-8f49-4a5065ea0337.png)
+
+*
+
+![image](https://user-images.githubusercontent.com/30849720/135961206-c5430223-0353-48cc-90bd-69f42b9e2094.png)
+
+****
+
+British Columbia
+
 
 
 
