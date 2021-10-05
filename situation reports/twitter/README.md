@@ -119,9 +119,53 @@ https://twitter.com/PourmalekFarsha/status/1445257678872141827
 
 *
 
+https://twitter.com/StrangRobert/status/1242647841597775874
 
+![image](https://user-images.githubusercontent.com/30849720/135965745-9a7ee405-48f7-4642-bcda-e57b7a45bc24.png)
 
+*
 
+https://twitter.com/PourmalekFarsha/status/1445260209123848193
+
+![image](https://user-images.githubusercontent.com/30849720/135965876-70c0f3dd-2450-4241-be49-d85b2bfd2b21.png)
+
+****
+
+Ontario
+
+https://twitter.com/ONThealth/status/1437843728035729411
+
+![image](https://user-images.githubusercontent.com/30849720/135966385-7fc0f529-e4e9-4e31-b230-5f4ca1b7b98a.png)
+
+* 
+
+https://twitter.com/PourmalekFarsha/status/1445261907338817536
+
+![image](https://user-images.githubusercontent.com/30849720/135966511-5f07395c-a74d-4608-81cb-875ac59bbdb8.png)
+
+****
+
+Quebec
+
+https://twitter.com/cdube_sante/status/1445113955735769090
+
+![image](https://user-images.githubusercontent.com/30849720/135966860-c3ede0b2-0959-4430-9b94-e351d90ffae9.png)
+
+*
+
+https://twitter.com/PourmalekFarsha/status/1445263209577943040
+
+![image](https://user-images.githubusercontent.com/30849720/135966956-856a6bde-4359-40f5-acad-d7bb09bd3353.png)
+
+*
+
+https://twitter.com/ArrudaHoracio/status/1371177699788656640
+
+https://twitter.com/PourmalekFarsha/status/1445263940993241091
+
+![image](https://user-images.githubusercontent.com/30849720/135967234-9d176b3d-82ce-4932-a392-1543e8826d7a.png)
+
+****
 
 
 
