@@ -105,6 +105,20 @@ https://twitter.com/PourmalekFarsha/status/1445254916172173313
 
 ****
 
+Nova Scotia
+
+https://twitter.com/nsgov/status/1443176231537627138
+
+![image](https://user-images.githubusercontent.com/30849720/135964575-97eac80c-6e2f-44cd-9863-dc32cb818d2f.png)
+
+*
+
+https://twitter.com/PourmalekFarsha/status/1445257678872141827
+
+![image](https://user-images.githubusercontent.com/30849720/135964964-605b42d0-d1e2-4da4-b527-c08bc38fa79a.png)
+
+*
+
 
 
 
