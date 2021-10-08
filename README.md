@@ -1,6 +1,6 @@
 # CovidVisualizedCountry
 
-## ! READ THE MOST RECENT WEEKLY SITUATION REPORT, [HERE](). 
+## ! READ THE MOST RECENT WEEKLY SITUATION REPORTREPORT, EVERY MONDAY MORNONG, [HERE](). 
 
 For a streamlined view of this repository, see: https://pourmalek.github.io/CovidVisualizedCountry/ 
 
