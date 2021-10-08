@@ -17,7 +17,7 @@ Graphs for Alberta were added here starting from uptake 20210726 onwards.
 
 *
 
-**uptake 20211008**: **_DELP 20211008_**, IHME 20211001, IMPE 20210924, LANL 20210926, **_SRIV 20211008_**, PHAC 20210903
+**uptake 20211008**: **_DELP 20211008_**, IHME 20211001, IMPE 20210924, LANL 20210926, **_SRIV 20211008_**, **_PHAC 20211008_**
 
 
 
@@ -176,7 +176,7 @@ Graphs for Alberta were added here starting from uptake 20210726 onwards.
   
 *
 
-**uptake 20211008**: **_DELP 20211008_**, IHME 20211001, IMPE 20210924, LANL 20210926, **_SRIV 20211008_**, PHAC 20210903
+**uptake 20211008**: **_DELP 20211008_**, IHME 20211001, IMPE 20210924, LANL 20210926, **_SRIV 20211008_**, **_PHAC 20211008_**
 
 
 
@@ -332,7 +332,7 @@ Graphs for Alberta were added here starting from uptake 20210726 onwards.
   
 *
 
-**uptake 20211008**: **_DELP 20211008_**, IHME 20211001, IMPE 20210924, LANL 20210926, **_SRIV 20211008_**, PHAC 20210903
+**uptake 20211008**: **_DELP 20211008_**, IHME 20211001, IMPE 20210924, LANL 20210926, **_SRIV 20211008_**, **_PHAC 20211008_**
 
 
 
@@ -487,7 +487,7 @@ Graphs for Alberta were added here starting from uptake 20210726 onwards.
   
 *
 
-**uptake 20211008**: **_DELP 20211008_**, IHME 20211001, IMPE 20210924, LANL 20210926, **_SRIV 20211008_**, PHAC 20210903
+**uptake 20211008**: **_DELP 20211008_**, IHME 20211001, IMPE 20210924, LANL 20210926, **_SRIV 20211008_**, **_PHAC 20211008_**
 
 
 
@@ -642,7 +642,7 @@ Graphs for Alberta were added here starting from uptake 20210726 onwards.
   
 *
 
-**uptake 20211008**: **_DELP 20211008_**, IHME 20211001, IMPE 20210924, LANL 20210926, **_SRIV 20211008_**, PHAC 20210903
+**uptake 20211008**: **_DELP 20211008_**, IHME 20211001, IMPE 20210924, LANL 20210926, **_SRIV 20211008_**, **_PHAC 20211008_**
 
 
 
@@ -800,7 +800,7 @@ Graphs for Alberta were added here starting from uptake 20210726 onwards.
   
 *
 
-**uptake 20211008**: **_DELP 20211008_**, IHME 20211001, IMPE 20210924, LANL 20210926, **_SRIV 20211008_**, PHAC 20210903
+**uptake 20211008**: **_DELP 20211008_**, IHME 20211001, IMPE 20210924, LANL 20210926, **_SRIV 20211008_**, **_PHAC 20211008_**
 
 
 
@@ -960,7 +960,7 @@ Graphs for Alberta were added here starting from uptake 20210726 onwards.
   
 *
 
-**uptake 20211008**: **_DELP 20211008_**, IHME 20211001, IMPE 20210924, LANL 20210926, **_SRIV 20211008_**, PHAC 20210903
+**uptake 20211008**: **_DELP 20211008_**, IHME 20211001, IMPE 20210924, LANL 20210926, **_SRIV 20211008_**, **_PHAC 20211008_**
 
 
 
@@ -1120,7 +1120,7 @@ Graphs for Alberta were added here starting from uptake 20210726 onwards.
   
 *
 
-**uptake 20211008**: **_DELP 20211008_**, IHME 20211001, IMPE 20210924, LANL 20210926, **_SRIV 20211008_**, PHAC 20210903
+**uptake 20211008**: **_DELP 20211008_**, IHME 20211001, IMPE 20210924, LANL 20210926, **_SRIV 20211008_**, **_PHAC 20211008_**
 
 
 
@@ -1286,7 +1286,7 @@ Graphs for Alberta were added here starting from uptake 20210726 onwards.
 *
 *
 
-**uptake 20211001**: DELP 20210930, **_IHME 20211001_**, IMPE 20210924, LANL 20210926, SRIV 20210930, PHAC 20210903
+**uptake 20211001**: DELP 20210930, **_IHME 20211001_**, IMPE 20210924, LANL 20210926, SRIV 20210930, **_PHAC 20211008_**
 
 (9) Alberta [Daily deaths estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211001/output/merge/main/SUB9%2092bDayDERMERGsub%202021%20Alberta%20-%20COVID-19%20daily%20deaths%20estimated%20to%20reported%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios%2C%202021.pdf)
 
@@ -1440,7 +1440,7 @@ Graphs for Alberta were added here starting from uptake 20210726 onwards.
   
 *
 
-**uptake 20211008**: **_DELP 20211008_**, IHME 20211001, IMPE 20210924, LANL 20210926, **_SRIV 20211008_**, PHAC 20210903
+**uptake 20211008**: **_DELP 20211008_**, IHME 20211001, IMPE 20210924, LANL 20210926, **_SRIV 20211008_**, **_PHAC 20211008_**
 
 
 
@@ -1603,7 +1603,7 @@ Graphs for Alberta were added here starting from uptake 20210726 onwards.
 
 *
 
-**uptake 20211008**: **_DELP 20211008_**, IHME 20211001, IMPE 20210924, LANL 20210926, **_SRIV 20211008_**, PHAC 20210903
+**uptake 20211008**: **_DELP 20211008_**, IHME 20211001, IMPE 20210924, LANL 20210926, **_SRIV 20211008_**, **_PHAC 20211008_**
 
 uptake 20211008 and uptake 20211001 both use IHME 20211001.
 
@@ -1666,7 +1666,7 @@ uptake 20210920 and uptake 20210916 both use IHME 20210916.
 
 *
 
-**uptake 20211008**: **_DELP 20211008_**, IHME 20211001, IMPE 20210924, LANL 20210926, **_SRIV 20211008_**, PHAC 20210903
+**uptake 20211008**: **_DELP 20211008_**, IHME 20211001, IMPE 20210924, LANL 20210926, **_SRIV 20211008_**, **_PHAC 20211008_**
 
 uptake 20211008 and uptake 20211001 both use IHME 20211001.
 
@@ -1730,7 +1730,7 @@ uptake 20210920 and uptake 20210916 both use IHME 20210916.
 
 *
 
-**uptake 20211008**: **_DELP 20211008_**, IHME 20211001, IMPE 20210924, LANL 20210926, **_SRIV 20211008_**, PHAC 20210903
+**uptake 20211008**: **_DELP 20211008_**, IHME 20211001, IMPE 20210924, LANL 20210926, **_SRIV 20211008_**, **_PHAC 20211008_**
 
 uptake 20211008 and uptake 20211001 both use IHME 20211001.
 
@@ -1792,7 +1792,7 @@ uptake 20210920 and uptake 20210916 both use IHME 20210916.
 
 *
 
-**uptake 20211008**: **_DELP 20211008_**, IHME 20211001, IMPE 20210924, LANL 20210926, **_SRIV 20211008_**, PHAC 20210903
+**uptake 20211008**: **_DELP 20211008_**, IHME 20211001, IMPE 20210924, LANL 20210926, **_SRIV 20211008_**, **_PHAC 20211008_**
 
 uptake 20211008 and uptake 20211001 both use IHME 20211001.
 
@@ -1856,7 +1856,7 @@ uptake 20210920 and uptake 20210916 both use IHME 20210916.
 
 *
 
-**uptake 20211008**: **_DELP 20211008_**, IHME 20211001, IMPE 20210924, LANL 20210926, **_SRIV 20211008_**, PHAC 20210903
+**uptake 20211008**: **_DELP 20211008_**, IHME 20211001, IMPE 20210924, LANL 20210926, **_SRIV 20211008_**, **_PHAC 20211008_**
 
 uptake 20211008 and uptake 20211001 both use IHME 20211001.
 
