@@ -5,7 +5,7 @@
 
 ### Study update dates in uptake 20211008
 
-**_DELP 20211008_**, IHME 20211001, IMPE 20210924, LANL 20210926, **_SRIV 20211008_**, PHAC 20210903
+**_DELP 20211008_**, IHME 20211001, IMPE 20210924, LANL 20210926, **_SRIV 20211008_**, **_PHAC 20211008_**
 
 Updates that are new in this uptake: 
 
