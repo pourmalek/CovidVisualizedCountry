@@ -924,6 +924,7 @@ Daily mobility, IHME, not available for Canada at the national level.
 
 (11) Saskatchewan [R effective, 3 scenarios, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211008/output/IHME/graph%2072a%20C-19%20R%20effective%2C%20Canada%2C%20Saskatchewan%2C%20IHME%2C%203%20scenarios.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/136885354-f9b4dcdf-ffcd-4f5f-8320-e12942ce45e6.png)
 
 ****
 
