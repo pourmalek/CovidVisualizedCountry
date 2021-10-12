@@ -182,6 +182,7 @@ R effective, IHME, not available for Canada at the national level.
 
 (11) Canada [Daily Infection-outcomes ratios, 3 scenarios, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211008/output/merge/main/graph%2091a%20COVID-19%20daily%20Infection%20outcomes%20ratios%2C%20Canada%2C%20National%203%20scenarios%2C%20IHME.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/136869681-f80759ea-7083-4686-afc6-3ccaf75cc5e1.png)
 
 ****
 
@@ -191,11 +192,13 @@ Daily mobility, IHME, not available for Canada at the national level.
 
 (12) Canada [Daily mask use, 3 scenarios, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211008/output/merge/main/graph%2093a%20COVID-19%20daily%20mask_use%2C%20Canada%2C%20National%2C%203%20scenarios.pdf) 
 
+![image](https://user-images.githubusercontent.com/30849720/136869731-88d1ce5e-e123-4cb9-b321-4ebf26b05dfc.png)
 
 ****
 
 (13) Canada [Percent cumulative vaccinated, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211008/output/merge/main/graph%2094a%20COVID-19%20percent%20cumulative%20vaccinated%2C%20Canada%2C%20National.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/136869763-e5f970a1-477f-4848-a04a-cad14aa15602.png)
 
 ****
 
@@ -217,26 +220,31 @@ Daily mobility, IHME, not available for Canada at the national level.
 
 (1) Canada provinces [Daily reported deaths, reference scenarios, all time, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211008/output/IHME/graph%2011a%20C-19%20daily%20reported%20deaths%2C%20Canada%2C%20subnational%2C%20IHME%2C%20reference%20scenario.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/136869802-bc9a1d4e-8f78-415c-a1fc-c0778d1e62c3.png)
 
 ****
 
 (2) Canada provinces [Daily excess deaths, reference scenarios, all time, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211008/output/IHME/graph%2012a%20C-19%20daily%20excess%20deaths%2C%20Canada%2C%20subnational%2C%20IHME%2C%20reference%20scenario.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/136869844-0eeb6850-1104-41ba-ba13-ad9c9e54bb8a.png)
 
 ****
 
 (3) Canada provinces [Daily infections, reference scenarios, all time, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211008/output/IHME/graph%2021a%20C-19%20daily%20infections%2C%20Canada%2C%20subnational%2C%20IHME%2C%20reference%20scenario.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/136869880-40c1d5c7-c3a7-41b6-b27b-b3b66bb03810.png)
 
 ****
 
 (4) Canada provinces [Daily infections, reference scenarios, all time, PHAC](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211008/output/PHAC/CAN11%2019aDayDeaRATE%20alltime%20IHME%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20subnational%20together%2C%20reference%20scenario%20PHAC.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/136869917-390295ae-b372-44d0-82ce-5c1bde3c7582.png)
 
 ****
 
 (5) Canada provinces [Daily infections, reference scenarios, all time, PHAC, without the national level](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211008/output/PHAC/CAN11%2019bDayDeaRATE%20alltime%20IHME%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20subnational%20together%2C%20reference%20scenario%20PHAC.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/136869954-3965cd5c-f805-440f-bf8b-5f81731ba6c2.png)
 
 ****
 
