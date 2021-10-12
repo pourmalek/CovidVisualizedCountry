@@ -124,9 +124,9 @@ The codes in these repositories can be adapted for use for any country or region
 
 **_DELP 20211008_**, IHME 20211001, IMPE 20210924, LANL 20210926, **_SRIV 20211008_**, **_PHAC 20211008_**
 
-Updates that are new in this uptake: 
+Model updates that are new in this uptake: 
 
-DELP 20211008, SRIV 20211008
+DELP 20211008, SRIV 20211008, PHAC 20211008
 
 
 
