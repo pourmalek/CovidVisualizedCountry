@@ -30,7 +30,7 @@ log using "log CovidVisualizedCountry PHAC.smcl", replace
 
 PHAC = PHAC-McMaster model
 
-Public Health Agency of Canada. Update on COVID-19 in Canada: Epidemiology and Modelling, September 3, 2021. 
+Public Health Agency of Canada. Update on COVID-19 in Canada: Epidemiology and Modelling,.
 https://www.canada.ca/content/dam/phac-aspc/documents/services/diseases-maladies/coronavirus-disease-covid-19/epidemiological-economic-research-data/update-covid-19-canada-epidemiology-modelling-20211008-en.pdf
 																			 
 */																										 
@@ -549,12 +549,63 @@ save "CovidVisualizedCountry PHAC $country Hospitalized.dta", replace
 
 
 
+
+
+
+* (d) Rt, national level, page 3	
+		
+		
+import excel using "PHAC-McMaster model 20211008 dig.xlsx", clear firstrow sheet("Rt")			
+							
+* day1is20200415
+
+gen date = td(15apr2020)
+
+replace date = date[_n-1] + 1 in 2/l
+
+format date %tdDDMonCCYY	
+
+
+
+
+label var Rt "Rt"
+
+gen provincestate = " National"						
+											
+gen loc_grand_name = "$country" 
+
+sort loc_grand_name provincestate date
+
+order loc_grand_name provincestate date Rt
+
+keep loc_grand_name provincestate date Rt
+
+	
+
+compress						
+											
+save "CovidVisualizedCountry PHAC $country Rt.dta", replace	
+
+
+
+
+
+
 * combine
 
 
 use "CovidVisualizedCountry PHAC $country.dta", clear
 
 merge m:m loc_grand_name provincestate date using "CovidVisualizedCountry PHAC $country Hospitalized.dta"
+
+drop _merge
+
+merge m:m loc_grand_name provincestate date using "CovidVisualizedCountry PHAC $country Rt.dta"
+
+drop _merge
+
+
+
 
 sort loc_grand_name provincestate date
 
@@ -615,7 +666,7 @@ save "CovidVisualizedCountry JOHN.dta", replace
 
 use "CovidVisualizedCountry PHAC.dta", clear 
 
-drop _merge
+// drop _merge
 
 merge m:m provincestate date using "CovidVisualizedCountry JOHN.dta"
 
@@ -1011,6 +1062,26 @@ qui graph save "CAN7 71eDayHosMERGnat alltime - COVID-19 hospital-related outcom
 qui graph export "CAN7 71eDayHosMERGnat  alltime - COVID-19 hospital-related outcomes, $country, National 21-09-01 to 22-01-01 wo capacity number.pdf", replace
 
 
+
+
+
+
+
+*****
+* daily Rt
+
+twoway ///
+(line Rt date, sort lcolor(black)) /// 
+if date >= td(05apr2020) & date <= td(30sep2021) & provincestate == " National" ///
+, xtitle(Date) xlabel(#12, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+xlabel(, angle(forty_five)) ylabel(, format(%15.2fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
+ytitle(Daily Rt) title("COVID-19 Daily Rt, $country, National, PHAC", size(medium)) /// 
+xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(off) ///
+note("PHAC: Data as of October 4, 2021. Note: 7-day moving average.") ///
+yline(1, lpattern(dash))
+
+qui graph save "CAN7 71fDayHosMERGnat - COVID-19 Rt, $country, National.gph", replace
+qui graph export "CAN7 71fDayHosMERGnat - COVID-19 Rt, $country, National.pdf", replace
 
 
 
