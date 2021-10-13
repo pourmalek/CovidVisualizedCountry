@@ -3402,7 +3402,7 @@ qui graph export "graph 93b COVID-19 daily mask_use, $country, `l', 3 scenarios.
 
 twoway ///
 (line cumul_vax_pct date, sort lcolor(black)) ///
-(line cumul_effective_vax_pct date, sort lcolor(blue)) ///
+(line cumul_effec_vax_pct date, sort lcolor(blue)) ///
 (line cumul_fully_vax_pct date, sort lcolor(green)) ///
 if date >= td(01dec2020) & date <= datemax & provincestate == " National" ///
 , xtitle(Date) xlabel(#13, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
@@ -3429,7 +3429,7 @@ foreach l of local levels {
 
 twoway ///
 (line cumul_vax_pct date, sort lcolor(black)) ///
-(line cumul_effective_vax_pct date, sort lcolor(blue)) ///
+(line cumul_effec_vax_pct date, sort lcolor(blue)) ///
 (line cumul_fully_vax_pct date, sort lcolor(green)) ///
 if date >= td(01dec2020) & date <= datemax & provincestate == "`l'" ///
 , xtitle(Date) xlabel(#13, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
