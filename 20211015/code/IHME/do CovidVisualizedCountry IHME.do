@@ -1263,18 +1263,6 @@ label var daily_fully_num "Number daily Fully vaccinated (one of one and two of 
 
 
 
-* gen daily vaccinated percent
-
-gen daily_vax_pct = cumul_vax_pct[_n] - cumul_vax_pct[_n-1]
-label var daily_vax_pct "% daily IHME Initially vaccinated (one dose of two doses)"
-gen daily_effec_pct = cumul_effec_vax_pct[_n] - cumul_effec_vax_pct[_n-1]
-label var daily_effec_pct "% daily IHME Effectively vaccinated (one and two dose with efficacy)"
-gen daily_fully_pct = cumul_fully_vax[_n] - cumul_fully_vax[_n-1]
-label var daily_fully_pct "% daily Fully vaccinated (one of one and two of two doses)"
-
-
-
-
 
 
 * gen vars by provincestate 
@@ -1321,8 +1309,7 @@ infection_fatality_A02S03 infection_detection_A02S03 inf_hosp_A02S03 ///
 DayDeMMeSmA02S01 DayCaMMeSmA02S01 DayCbDMeSmA02S01 DayDMuMeSmA02S01 ///
 cumul_vax cumul_effective_vax cumul_fully_vax ///
 cumul_vax_pct cumul_effec_vax_pct cumul_fully_vax_pct ///
-daily_vax_num daily_effec_num daily_fully_num ///
-daily_vax_pct daily_effec_pct daily_fully_pct {
+daily_vax_num daily_effec_num daily_fully_num {
 
 	 
 	qui gen `var'XAB = `var' 
@@ -2826,7 +2813,7 @@ qui graph export "graph 68a C-19 daily mobility, $country, `l', IHME, 3 scenario
 
 
 *****
-* 69a daily mask_use Percent of population reporting always wearing a mask when leaving home
+* 69a daily mask use Percent of population reporting always wearing a mask when leaving home
 
 levelsof provincestate, local(levels)
 
@@ -2923,7 +2910,7 @@ if provincestate == "`l'" & date >= td(01dec2020) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.1fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Cumulative vaccinated percent) title("C-19, cumulative vaccinated percent, $country, `l', IHME", size(medium)) ///
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
-legend(order(1 "% Vaccinated" 2 "% Effectively vaccinated" 3 "% Fully vaccinated") rows(1)) ///
+legend(order(1 "Vaccinated" 2 "Effectively vaccinated" 3 "Fully vaccinated") rows(1)) ///
 note("Vaccinated: Initially vaccinated (one dose of two doses)" ///
 "Effectively vaccinated: one and two dose with efficacy" ///
 "Fully vaccinated: one of one and two of two doses", size(small)) yscale(titlegap(4))
@@ -2953,10 +2940,10 @@ twoway ///
 (line daily_fully_num date, sort lcolor(green) lwidth(vthick)) ///
 if provincestate == "`l'" & date >= td(01dec2020) ///	   
 , xtitle(Date) xlabel(#13, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
-xlabel(, angle(forty_five)) ylabel(, format(%15.1fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
+xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily vaccinated number) title("C-19, daily vaccinated number, $country, `l', IHME", size(medium)) ///
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
-legend(order(1 "% Vaccinated" 2 "% Effectively vaccinated" 3 "% Fully vaccinated") rows(1)) ///
+legend(order(1 "Vaccinated" 2 "Effectively vaccinated" 3 "Fully vaccinated") rows(1)) ///
 note("Vaccinated: Initially vaccinated (one dose of two doses)" ///
 "Effectively vaccinated: one and two dose with efficacy" ///
 "Fully vaccinated: one of one and two of two doses", size(small)) yscale(titlegap(4))
@@ -2966,39 +2953,6 @@ qui graph export "graph 71c C-19 daily vaccinated number, $country, `l' IHME.pdf
 
 }
 *
-
-
-
-
-
-*****
-* 71d daily vaccinated percent
-
-levelsof provincestate, local(levels)
-
-foreach l of local levels {
-
-twoway ///
-(line daily_vax_pct date, sort lcolor(black)) ///
-(line daily_effec_pct date, sort lcolor(blue)) ///
-(line daily_fully_pct date, sort lcolor(green) lwidth(vthick)) ///
-if provincestate == "`l'" & date >= td(01dec2020) ///	   
-, xtitle(Date) xlabel(#13, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
-xlabel(, angle(forty_five)) ylabel(, format(%15.1fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
-ytitle(Daily vaccinated percent) title("C-19, daily vaccinated percent, $country, `l', IHME", size(medium)) ///
-xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
-legend(order(1 "% Vaccinated" 2 "% Effectively vaccinated" 3 "% Fully vaccinated") rows(1)) ///
-note("Vaccinated: Initially vaccinated (one dose of two doses)" ///
-"Effectively vaccinated: one and two dose with efficacy" ///
-"Fully vaccinated: one of one and two of two doses", size(small)) yscale(titlegap(4))
-
-qui graph save "graph 71d C-19 daily vaccinated percent, $country, `l' IHME.gph", replace
-qui graph export "graph 71d C-19 daily vaccinated percent, $country, `l' IHME.pdf", replace
-
-}
-*
-
-
 
 
 
