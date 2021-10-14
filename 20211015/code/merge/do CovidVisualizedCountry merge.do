@@ -3456,36 +3456,6 @@ qui graph export "graph 94c COVID-19 number cumulative vaccinated, $country, Nat
 
 
 
-* percent cumulative vaccinated, Provinces
-
-levelsof provincestate_mostaffected, local(levels)
-
-foreach l of local levels {
-
-twoway ///
-(line cumul_vax date, sort lcolor(black)) ///
-(line cumul_effective_vax date, sort lcolor(blue)) ///
-(line cumul_fully_vax date, sort lcolor(green) lwidth(thick)) ///
-if date >= td(01dec2020) & date <= datemax & provincestate == "`l'" ///
-, xtitle(Date) xlabel(#13, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
-xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
-ytitle(Cumulative vaccinated percent) title("C-19 cumulative vaccinated %, $country, `l', IHME", size(medium)) ///
-xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
-legend(order(1 "Vaccinated" 2 "Effectively vaccinated" 3 "Fully vaccinated") rows(1)) ///
-note("Vaccinated: Initially vaccinated (one dose of two doses)" ///
-"Effectively vaccinated: one and two dose with efficacy" ///
-"Fully vaccinated: one of one and two of two doses", size(small)) 
-
-qui graph save "graph 94d COVID-19 percent cumulative vaccinated, $country, `l'.gph", replace
-qui graph export "graph 94d COVID-19 percent cumulative vaccinated, $country, `l'.pdf", replace
-
-}
-*
-
-
-
-
-
 
 
 ************
