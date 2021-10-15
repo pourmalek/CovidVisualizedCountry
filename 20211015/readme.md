@@ -89,6 +89,7 @@ Better scenario: WITH public health measures this fall/winter. (Note: In PHAC-Mc
 
 (1) Canada [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211015/output/merge/main/CAN1%2011aDayDeaMERGnat%20alltime%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/137564691-f8d4e442-81db-43ea-bcf2-421406e0fd47.png)
 
 ****
 
