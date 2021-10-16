@@ -413,7 +413,7 @@ Daily mobility, IHME, not available for Canada at the national level.
 
 (11) British Columbia [R effective, 3 scenarios, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211015/output/IHME/graph%2072a%20C-19%20R%20effective%2C%20Canada%2C%20British%20Columbia%2C%20IHME%2C%203%20scenarios.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/137566753-a1d1ce56-c4e2-489f-938f-5482f9992efe.png)
+![image](https://user-images.githubusercontent.com/30849720/137568875-079b3844-c4b0-4bf3-88f8-537bb4ca0fc2.png)
 
 ****
 
