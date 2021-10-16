@@ -205,26 +205,31 @@ Daily mobility, IHME, not available for Canada at the national level.
 
 (1) Canada provinces [Daily reported deaths, reference scenarios, all time, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211015/output/IHME/graph%2011a%20C-19%20daily%20reported%20deaths%2C%20Canada%2C%20subnational%2C%20IHME%2C%20reference%20scenario.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/137565831-22761f7a-9809-4f28-883a-8de8e03fd491.png)
 
 ****
 
 (2) Canada provinces [Daily excess deaths, reference scenarios, all time, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211015/output/IHME/graph%2012a%20C-19%20daily%20excess%20deaths%2C%20Canada%2C%20subnational%2C%20IHME%2C%20reference%20scenario.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/137565848-98aea870-a092-4414-bcf2-2f3ac2f278d5.png)
 
 ****
 
 (3) Canada provinces [Daily infections, reference scenarios, all time, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211015/output/IHME/graph%2021a%20C-19%20daily%20infections%2C%20Canada%2C%20subnational%2C%20IHME%2C%20reference%20scenario.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/137565865-98fdef6b-1f45-47e7-a3ad-1f3cb30c4d0e.png)
 
 ****
 
 (4) Canada provinces [Daily infections, reference scenarios, all time, PHAC](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211015/output/PHAC/CAN11%2019aDayDeaRATE%20alltime%20IHME%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20subnational%20together%2C%20reference%20scenario%20PHAC.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/137565900-d23a7fc1-6bce-4120-a1da-6ccc80ac8ff7.png)
 
 ****
 
 (5) Canada provinces [Daily infections, reference scenarios, all time, PHAC, without the national level](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211015/output/PHAC/CAN11%2019bDayDeaRATE%20alltime%20IHME%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20subnational%20together%2C%20reference%20scenario%20PHAC.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/137565928-ac8fa806-c61f-42fe-8a7e-f33393845d9f.png)
 
 ****
 
