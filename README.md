@@ -1,6 +1,6 @@
 # CovidVisualizedCountry
 
-## ! THE MOST RECENT WEEKLY SITUATION REPORT, EVERY MONDAY MORNING, [HERE](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/LATEST/15%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2015%20-%202021-10-08.pdf). 
+## ! THE MOST RECENT WEEKLY SITUATION REPORT, EVERY MONDAY MORNING, [HERE](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/LATEST/16%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2016%20-%202021-10-15.pdf). 
 
 For a streamlined view of this repository, see: https://pourmalek.github.io/CovidVisualizedCountry/ 
 
