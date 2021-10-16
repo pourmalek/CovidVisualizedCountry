@@ -314,7 +314,7 @@ Daily mobility, IHME, not available for Canada at the national level.
 
 (11) Alberta [R effective, 3 scenarios, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211015/output/IHME/graph%2072a%20C-19%20R%20effective%2C%20Canada%2C%20Alberta%2C%20IHME%2C%203%20scenarios.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/137566234-77291929-4bce-413b-9d3f-0e5da0d472df.png)
+![image](https://user-images.githubusercontent.com/30849720/137568817-a62bfbc0-1161-46ab-8010-31c17acc1ea4.png)
 
 ****
 
