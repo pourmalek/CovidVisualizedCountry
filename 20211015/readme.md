@@ -95,36 +95,43 @@ Better scenario: WITH public health measures this fall/winter. (Note: In PHAC-Mc
 
 (2) Canada [Daily deaths, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211015/output/merge/main/CAN2%2012aDayDeaMERGnat%202021%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/137565412-f70f6cbb-09e0-4f26-805c-2f8a498d5c53.png)
 
 ****
 
 (3) Canada [Daily deaths, 3 scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211015/output/merge/main/CAN3%2014a2DayDeaMERGnat%202021%203%20scenarios%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20National%2C%203%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/137565441-e5ddc031-acd3-46b0-ac69-8ac7c1acc0a3.png)
 
 ****
 
 (4) Canada [Daily cases or infections, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211015/output/merge/main/CAN4%2031aDayCasMERGnat%20alltime%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20National%2C%20reference%20scenarios.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/137565477-ff925914-478d-493e-a000-4873e2b2aa5b.png)
 
 ****
 
 (5) Canada [Daily cases or infections, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211015/output/merge/main/CAN5%2032aDayCasMERGnat%202021%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/137565509-6f77c059-55d9-4a69-acef-f751772a1136.png)
 
 ****
 
 (6) Canada [Daily cases or infections, 3 scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211015/output/merge/main/CAN6%2034aDayCasMERGnat%202021%203scen%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20National%2C%203%20scenarios%2C%202021%2C%20uncertainty.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/137565535-6989c0eb-c5e7-4472-ae41-c03df339200c.png)
 
 ****
 
 (7) Canada [Hospital-related outcomes, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211015/output/merge/main/CAN7%2071a1DayHosMERGnat%20%20alltime%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20National.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/137565560-484e9dca-abf7-4245-a660-5e706761d615.png)
 
 ****
 
 (7b) Canada [Hospital-related outcomes, all time, with PHAC](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211015/output/merge/main/CAN7%2071a12DayHosMERGnat%20%20alltime%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20National%20PHAC.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/137565583-b2742bb4-0ac1-4c0d-9d45-c845b819650b.png)
 
 ****
 
@@ -132,6 +139,7 @@ Better scenario: WITH public health measures this fall/winter. (Note: In PHAC-Mc
 
 Note: The value of the "IHME All bed capacity" is overwhelmingly different from that of the "PHAC Hospital capacity for COVID-19 patients”. 
 
+![image](https://user-images.githubusercontent.com/30849720/137565623-3ee4fa66-47d9-4dd2-b7e1-596cdd812a69.png)
 
 ****
 
