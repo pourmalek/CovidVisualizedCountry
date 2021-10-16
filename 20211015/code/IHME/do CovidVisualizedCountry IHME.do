@@ -2969,15 +2969,15 @@ foreach l of local levels {
 
 twoway ///
 (rarea reff_lower_A02S01 reff_upper_A02S01 date, sort color(black*.2)) ///
+(line reff_mean_A02S01 date, sort lcolor(black)) ///
 (line reff_mean_A02S02 date, sort lcolor(green)) ///
 (line reff_mean_A02S03 date, sort lcolor(red)) ///
-(line reff_mean_A02S01 date, sort lcolor(black)) ///
 if provincestate == "`l'" & date >= td(01dec2020) ///	   
 , xtitle(Date) xlabel(#24, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%12.1fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(R effective) title("C-19 R effective, $country, `l', IHME, 3 scenarios", size(medium)) ///
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
-legend(order(2 "Better" 4 "Worse" 2 "Reference" ) rows(1)) 
+legend(order(2 "Reference" 3 "Better" 4 "Worse" ) rows(1)) 
 
 qui graph save "graph 72a C-19 R effective, $country, `l', IHME, 3 scenarios.gph", replace
 qui graph export "graph 72a C-19 R effective, $country, `l', IHME, 3 scenarios.pdf", replace
