@@ -3,7 +3,7 @@
       name:  {res}<unnamed>
        {txt}log:  {res}/Users/farshadpourmalek/Downloads/CovidVisualizedCountry-main/20211015/code/JOHN/log CovidVisualizedCountry JOHN.smcl
   {txt}log type:  {res}smcl
- {txt}opened on:  {res}15 Oct 2021, 14:21:19
+ {txt}opened on:  {res}16 Oct 2021, 21:42:20
 {txt}
 {com}. 
 . ***************************************************************************
@@ -37,7 +37,7 @@
 . import delimited ///
 > "https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_global.csv" ///
 > , clear varnames(1) colrange(5)
-{res}{text}(632 vars, 279 obs)
+{res}{text}(633 vars, 279 obs)
 
 {com}. 
 . save "time_series_covid19_deaths_global col 5 on.dta", replace
@@ -152,14 +152,14 @@
 
 {col 19}type:  numeric ({res}int{txt})
 
-{col 18}range:  [{res}1{txt},{res}632{txt}]{col 55}units:  {res}1
-{col 10}{txt}unique values:  {res}632{col 51}{txt}missing .:  {res}0{txt}/{res}8,848
+{col 18}range:  [{res}1{txt},{res}633{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}633{col 51}{txt}missing .:  {res}0{txt}/{res}8,862
 
-{txt}{col 19}mean:{res}{col 26}   316.5
-{txt}{col 15}std. dev:{res}{col 26} 182.453
+{txt}{col 19}mean:{res}{col 26}     317
+{txt}{col 15}std. dev:{res}{col 26} 182.741
 
 {txt}{col 12}percentiles:{col 32}10%{col 42}25%{col 52}50%{col 62}75%{col 72}90%
-{res}{col 27}      64{col 37}   158.5{col 47}   316.5{col 57}   474.5{col 67}     569
+{res}{col 27}      64{col 37}     159{col 47}     317{col 57}     475{col 67}     570
 {txt}
 {com}. 
 . 
@@ -172,7 +172,7 @@
 {txt}
 {com}. 
 . bysort loc_grand_name: replace date = date + _j - 1
-{txt}(8,834 real changes made)
+{txt}(8,848 real changes made)
 
 {com}. 
 . format date %td
@@ -186,16 +186,16 @@
 
 {col 19}type:  numeric daily date ({res}float{txt})
 
-{col 18}range:  [{res}21936{txt},{res}22567{txt}]{col 55}units:  {res}1
-{col 8}{txt}or equivalently:  [{res}22jan2020{txt},{res}14oct2021{txt}]{col 55}units:  {res}days
-{col 10}{txt}unique values:  {res}632{col 51}{txt}missing .:  {res}0{txt}/{res}8,848
+{col 18}range:  [{res}21936{txt},{res}22568{txt}]{col 55}units:  {res}1
+{col 8}{txt}or equivalently:  [{res}22jan2020{txt},{res}15oct2021{txt}]{col 55}units:  {res}days
+{col 10}{txt}unique values:  {res}633{col 51}{txt}missing .:  {res}0{txt}/{res}8,862
 
-{txt}{col 19}mean:{res}{col 26} 22251.5{txt} = {res}02dec2020{txt} (+ 12 hours)
-{col 15}std. dev:{res}{col 26} 182.453
+{txt}{col 19}mean:{res}{col 26}   22252{txt} = {res}03dec2020{txt}
+{col 15}std. dev:{res}{col 26} 182.741
 
 {txt}{col 12}percentiles:{col 32}10%{col 42}25%{col 52}50%{col 62}75%{col 72}90%
-{res}{col 27}   21999{col 37} 22093.5{col 47} 22251.5{col 57} 22409.5{col 67}   22504
-{col 26}25mar2020{col 36}27jun2020{col 46}02dec2020{col 56}09may2021{col 66}12aug2021
+{res}{col 27}   21999{col 37}   22094{col 47}   22252{col 57}   22410{col 67}   22505
+{col 26}25mar2020{col 36}28jun2020{col 46}03dec2020{col 56}10may2021{col 66}13aug2021
 {txt}
 {com}. 
 . order date 
@@ -315,9 +315,9 @@
 
     Variable {c |}        Obs        Mean    Std. Dev.       Min        Max
 {hline 13}{c +}{hline 57}
-{space 8}date {c |}{res}        631    22251.88    182.4842      21936      22567
-{txt}(632 real changes made, 632 to missing)
-(632 real changes made, 632 to missing)
+{space 8}date {c |}{res}        632    22252.38    182.7726      21936      22568
+{txt}(633 real changes made, 633 to missing)
+(633 real changes made, 633 to missing)
 
     Variable {c |}        Obs        Mean    Std. Dev.       Min        Max
 {hline 13}{c +}{hline 57}
@@ -343,7 +343,8 @@
 {txt}
 {com}. 
 . save "$country JOHN deaths.dta", replace
-{txt}file Canada JOHN deaths.dta saved
+{txt}(note: file Canada JOHN deaths.dta not found)
+file Canada JOHN deaths.dta saved
 
 {com}. 
 . 
@@ -361,18 +362,20 @@
 
 {com}. 
 . save "time_series_covid19_confirmed_global col 2.dta", replace
-{txt}file time_series_covid19_confirmed_global col 2.dta saved
+{txt}(note: file time_series_covid19_confirmed_global col 2.dta not found)
+file time_series_covid19_confirmed_global col 2.dta saved
 
 {com}. 
 . 
 . import delimited ///
 > "https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv" ///
 > , clear varnames(1) colrange(5)
-{res}{text}(632 vars, 279 obs)
+{res}{text}(633 vars, 279 obs)
 
 {com}. 
 . save "time_series_covid19_confirmed_global col 5 on.dta", replace
-{txt}file time_series_covid19_confirmed_global col 5 on.dta saved
+{txt}(note: file time_series_covid19_confirmed_global col 5 on.dta not found)
+file time_series_covid19_confirmed_global col 5 on.dta saved
 
 {com}. 
 . 
@@ -409,7 +412,8 @@
 {txt}
 {com}. 
 . save "time_series_covid19_confirmed_global.dta", replace 
-{txt}file time_series_covid19_confirmed_global.dta saved
+{txt}(note: file time_series_covid19_confirmed_global.dta not found)
+file time_series_covid19_confirmed_global.dta saved
 
 {com}. 
 . 
@@ -426,7 +430,8 @@
 {txt}
 {com}. 
 . save "time_series_covid19_confirmed_global national sum.dta", replace
-{txt}file time_series_covid19_confirmed_global national sum.dta saved
+{txt}(note: file time_series_covid19_confirmed_global national sum.dta not found)
+file time_series_covid19_confirmed_global national sum.dta saved
 
 {com}. 
 . 
@@ -455,7 +460,8 @@
 {txt}
 {com}. 
 . save "time_series_covid19_confirmed_global with national sum.dta", replace
-{txt}file time_series_covid19_confirmed_global with national sum.dta saved
+{txt}(note: file time_series_covid19_confirmed_global with national sum.dta not found)
+file time_series_covid19_confirmed_global with national sum.dta saved
 
 {com}. 
 . 
@@ -481,14 +487,14 @@
 
 {col 19}type:  numeric ({res}int{txt})
 
-{col 18}range:  [{res}1{txt},{res}632{txt}]{col 55}units:  {res}1
-{col 10}{txt}unique values:  {res}632{col 51}{txt}missing .:  {res}0{txt}/{res}8,848
+{col 18}range:  [{res}1{txt},{res}633{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}633{col 51}{txt}missing .:  {res}0{txt}/{res}8,862
 
-{txt}{col 19}mean:{res}{col 26}   316.5
-{txt}{col 15}std. dev:{res}{col 26} 182.453
+{txt}{col 19}mean:{res}{col 26}     317
+{txt}{col 15}std. dev:{res}{col 26} 182.741
 
 {txt}{col 12}percentiles:{col 32}10%{col 42}25%{col 52}50%{col 62}75%{col 72}90%
-{res}{col 27}      64{col 37}   158.5{col 47}   316.5{col 57}   474.5{col 67}     569
+{res}{col 27}      64{col 37}     159{col 47}     317{col 57}     475{col 67}     570
 {txt}
 {com}. 
 . 
@@ -501,7 +507,7 @@
 {txt}
 {com}. 
 . bysort loc_grand_name: replace date = date + _j - 1
-{txt}(8,834 real changes made)
+{txt}(8,848 real changes made)
 
 {com}. 
 . format date %td
@@ -515,16 +521,16 @@
 
 {col 19}type:  numeric daily date ({res}float{txt})
 
-{col 18}range:  [{res}21936{txt},{res}22567{txt}]{col 55}units:  {res}1
-{col 8}{txt}or equivalently:  [{res}22jan2020{txt},{res}14oct2021{txt}]{col 55}units:  {res}days
-{col 10}{txt}unique values:  {res}632{col 51}{txt}missing .:  {res}0{txt}/{res}8,848
+{col 18}range:  [{res}21936{txt},{res}22568{txt}]{col 55}units:  {res}1
+{col 8}{txt}or equivalently:  [{res}22jan2020{txt},{res}15oct2021{txt}]{col 55}units:  {res}days
+{col 10}{txt}unique values:  {res}633{col 51}{txt}missing .:  {res}0{txt}/{res}8,862
 
-{txt}{col 19}mean:{res}{col 26} 22251.5{txt} = {res}02dec2020{txt} (+ 12 hours)
-{col 15}std. dev:{res}{col 26} 182.453
+{txt}{col 19}mean:{res}{col 26}   22252{txt} = {res}03dec2020{txt}
+{col 15}std. dev:{res}{col 26} 182.741
 
 {txt}{col 12}percentiles:{col 32}10%{col 42}25%{col 52}50%{col 62}75%{col 72}90%
-{res}{col 27}   21999{col 37} 22093.5{col 47} 22251.5{col 57} 22409.5{col 67}   22504
-{col 26}25mar2020{col 36}27jun2020{col 46}02dec2020{col 56}09may2021{col 66}12aug2021
+{res}{col 27}   21999{col 37}   22094{col 47}   22252{col 57}   22410{col 67}   22505
+{col 26}25mar2020{col 36}28jun2020{col 46}03dec2020{col 56}10may2021{col 66}13aug2021
 {txt}
 {com}. 
 . order date 
@@ -672,7 +678,8 @@
 {txt}
 {com}. 
 . save "$country JOHN cases.dta", replace
-{txt}file Canada JOHN cases.dta saved
+{txt}(note: file Canada JOHN cases.dta not found)
+file Canada JOHN cases.dta saved
 
 {com}. 
 . 
@@ -692,7 +699,7 @@
 {txt}{col 5}Result{col 38}# of obs.
 {col 5}{hline 41}
 {col 5}not matched{col 30}{res}               0
-{txt}{col 5}matched{col 30}{res}           8,848{txt}  (_merge==3)
+{txt}{col 5}matched{col 30}{res}           8,862{txt}  (_merge==3)
 {col 5}{hline 41}
 
 {com}. 
@@ -706,7 +713,7 @@
 . * gen cfr
 . 
 . gen DayCfrMeRaA00S00 = 100 * DayDeaMeRaA00S00 / DayCasMeRaA00S00
-{txt}(3,978 missing values generated)
+{txt}(3,981 missing values generated)
 
 {com}. 
 . label var DayCfrMeRaA00S00 "Daily CFR raw JOHN"
@@ -726,7 +733,7 @@
 
 {txt}    Variable {c |}        Obs        Mean    Std. Dev.       Min        Max
 {hline 13}{c +}{hline 57}
-DayDeaMeR~00 {c |}{res}      6,347     8.97227    23.25978        -11        244
+DayDeaMeR~00 {c |}{res}      6,360    8.968711      23.243        -11        244
 {txt}
 {com}. gen DayDeMMeRaA00S00 = r(mean)
 {txt}
@@ -737,7 +744,7 @@ DayDeaMeR~00 {c |}{res}      6,347     8.97227    23.25978        -11        244
 
 {txt}    Variable {c |}        Obs        Mean    Std. Dev.       Min        Max
 {hline 13}{c +}{hline 57}
-DayCasMeR~00 {c |}{res}      8,028    418.9477    1119.126        -90      11381
+DayCasMeR~00 {c |}{res}      8,042    418.9062    1118.563        -90      11381
 {txt}
 {com}. gen DayCaMMeRaA00S00 = r(mean)
 {txt}
@@ -752,11 +759,11 @@ DayCasMeR~00 {c |}{res}      8,028    418.9477    1119.126        -90      11381
 
 {txt}    Variable {c |}        Obs        Mean    Std. Dev.       Min        Max
 {hline 13}{c +}{hline 57}
-DayCbDMeR~00 {c |}{res}      8,848    46.69361           0   46.69361   46.69361
+DayCbDMeR~00 {c |}{res}      8,862    46.70752           0   46.70752   46.70752
 {txt}
 {com}. 
 . gen DayDeaMeRaA00multip = DayDeaMeRaA00S00 * DayCbDMeRaA00S00 
-{txt}(2,501 missing values generated)
+{txt}(2,502 missing values generated)
 
 {com}. label var DayDeaMeRaA00multip "Daily deaths scaled (times means of cases by deaths) only for visualization JOHN"
 {txt}
@@ -764,7 +771,7 @@ DayCbDMeR~00 {c |}{res}      8,848    46.69361           0   46.69361   46.69361
 
 {txt}    Variable {c |}        Obs        Mean    Std. Dev.       Min        Max
 {hline 13}{c +}{hline 57}
-DayDeaMeRa~p {c |}{res}      6,347    418.9477    1086.083  -513.6297   11393.24
+DayDeaMeRa~p {c |}{res}      6,360    418.9062    1085.623  -513.7827   11396.63
 {txt}
 {com}. 
 . 
@@ -779,7 +786,7 @@ DayDeaMeRa~p {c |}{res}      6,347    418.9477    1086.083  -513.6297   11393.24
 {com}. 
 . tsset provincestate_encoded date, daily   
 {res}{txt}{col 8}panel variable:  {res}provincestate_encoded (strongly balanced)
-{txt}{col 9}time variable:  {res}{col 25}date, 22jan2020 to 14oct2021
+{txt}{col 9}time variable:  {res}{col 25}date, 22jan2020 to 15oct2021
 {txt}{col 17}delta:  {res}1 day
 {txt}
 {com}. 
@@ -951,7 +958,8 @@ DayDeaMeRa~p {c |}{res}      6,347    418.9477    1086.083  -513.6297   11393.24
 {txt}
 {com}. 
 . save "CovidVisualizedCountry JOHN.dta", replace
-{txt}file CovidVisualizedCountry JOHN.dta saved
+{txt}(note: file CovidVisualizedCountry JOHN.dta not found)
+file CovidVisualizedCountry JOHN.dta saved
 
 {com}. 
 . 
@@ -1734,7 +1742,7 @@ DayDeaMeRa~p {c |}{res}      6,347    418.9477    1086.083  -513.6297   11393.24
       {txt}name:  {res}<unnamed>
        {txt}log:  {res}/Users/farshadpourmalek/Downloads/CovidVisualizedCountry-main/20211015/code/JOHN/log CovidVisualizedCountry JOHN.smcl
   {txt}log type:  {res}smcl
- {txt}closed on:  {res}15 Oct 2021, 14:23:35
+ {txt}closed on:  {res}16 Oct 2021, 21:44:25
 {txt}{.-}
 {smcl}
 {txt}{sf}{ul off}
