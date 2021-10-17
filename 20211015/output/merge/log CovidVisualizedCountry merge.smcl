@@ -3,7 +3,7 @@
       name:  {res}<unnamed>
        {txt}log:  {res}/Users/farshadpourmalek/Downloads/CovidVisualizedCountry-main/20211015/code/merge/log CovidVisualizedCountry merge.smcl
   {txt}log type:  {res}smcl
- {txt}opened on:  {res}15 Oct 2021, 14:36:48
+ {txt}opened on:  {res}16 Oct 2021, 22:28:55
 {txt}
 {com}. 
 . 
@@ -57,11 +57,11 @@
 {res}
 {txt}{col 5}Result{col 38}# of obs.
 {col 5}{hline 41}
-{col 5}not matched{col 30}{res}           8,548
-{txt}{col 9}from master{col 30}{res}           7,928{txt}  (_merge==1)
-{col 9}from using{col 30}{res}             620{txt}  (_merge==2)
+{col 5}not matched{col 30}{res}           8,542
+{txt}{col 9}from master{col 30}{res}           7,932{txt}  (_merge==1)
+{col 9}from using{col 30}{res}             610{txt}  (_merge==2)
 
-{col 5}matched{col 30}{res}             920{txt}  (_merge==3)
+{col 5}matched{col 30}{res}             930{txt}  (_merge==3)
 {col 5}{hline 41}
 {com}. {c )-}
 {txt}
@@ -81,11 +81,11 @@
 {res}
 {txt}{col 5}Result{col 38}# of obs.
 {col 5}{hline 41}
-{col 5}not matched{col 30}{res}           4,218
-{txt}{col 9}from master{col 30}{res}           4,082{txt}  (_merge==1)
+{col 5}not matched{col 30}{res}           4,202
+{txt}{col 9}from master{col 30}{res}           4,066{txt}  (_merge==1)
 {col 9}from using{col 30}{res}             136{txt}  (_merge==2)
 
-{col 5}matched{col 30}{res}           5,386{txt}  (_merge==3)
+{col 5}matched{col 30}{res}           5,406{txt}  (_merge==3)
 {col 5}{hline 41}
 {com}. {c )-}
 {txt}
@@ -105,8 +105,8 @@
 {res}
 {txt}{col 5}Result{col 38}# of obs.
 {col 5}{hline 41}
-{col 5}not matched{col 30}{res}           8,908
-{txt}{col 9}from master{col 30}{res}           8,906{txt}  (_merge==1)
+{col 5}not matched{col 30}{res}           8,912
+{txt}{col 9}from master{col 30}{res}           8,910{txt}  (_merge==1)
 {col 9}from using{col 30}{res}               2{txt}  (_merge==2)
 
 {col 5}matched{col 30}{res}             698{txt}  (_merge==3)
@@ -142,8 +142,8 @@
 {res}
 {txt}{col 5}Result{col 38}# of obs.
 {col 5}{hline 41}
-{col 5}not matched{col 30}{res}           9,543
-{txt}{col 9}from master{col 30}{res}           9,524{txt}  (_merge==1)
+{col 5}not matched{col 30}{res}           9,547
+{txt}{col 9}from master{col 30}{res}           9,528{txt}  (_merge==1)
 {col 9}from using{col 30}{res}              19{txt}  (_merge==2)
 
 {col 5}matched{col 30}{res}              82{txt}  (_merge==3)
@@ -169,11 +169,11 @@
 {res}
 {txt}{col 5}Result{col 38}# of obs.
 {col 5}{hline 41}
-{col 5}not matched{col 30}{res}             933
-{txt}{col 9}from master{col 30}{res}             575{txt}  (_merge==1)
+{col 5}not matched{col 30}{res}             930
+{txt}{col 9}from master{col 30}{res}             572{txt}  (_merge==1)
 {col 9}from using{col 30}{res}             358{txt}  (_merge==2)
 
-{col 5}matched{col 30}{res}           9,050{txt}  (_merge==3)
+{col 5}matched{col 30}{res}           9,057{txt}  (_merge==3)
 {col 5}{hline 41}
 {com}. {c )-}
 {txt}
@@ -207,14 +207,14 @@
 . 
 . 
 . gen DayCTDMeRaA00S00 =  DayCasMeRaA00S00 / DayDeaMeRaA00S00
-{txt}(6,921 missing values generated)
+{txt}(6,917 missing values generated)
 
 {com}. 
 . label var DayCTDMeRaA00S00  "Daily Cases to Deaths S0 JOHN"
 {txt}
 {com}. 
 . gen TotCTDMeRaA00S00 =  TotCasMeRaA00S00 / TotDeaMeRaA00S00
-{txt}(3,636 missing values generated)
+{txt}(3,627 missing values generated)
 
 {com}. 
 . label var TotCTDMeRaA00S00  "Total Cases to Deaths S0 JOHN"
@@ -224,14 +224,14 @@
 . 
 . 
 . gen DayCTDMeRaA01S00 =  DayCasMeRaA01S00 / DayDeaMeRaA01S00
-{txt}(8,938 missing values generated)
+{txt}(8,942 missing values generated)
 
 {com}. 
 . label var DayCTDMeRaA01S00  "Daily Cases to Deaths S0 DELP"
 {txt}
 {com}. 
 . gen TotCTDMeRaA01S00 =  TotCasMeRaA01S00 / TotDeaMeRaA01S00
-{txt}(8,443 missing values generated)
+{txt}(8,447 missing values generated)
 
 {com}. 
 . label var TotCTDMeRaA01S00  "Total Cases to Deaths S0 DELP"  
@@ -240,14 +240,14 @@
 . 
 . 
 . gen DayITDMeSmA02S01  =  DayINFMeSmA02S01  / DayDeaMeSmA02S01 
-{txt}(5,082 missing values generated)
+{txt}(5,075 missing values generated)
 
 {com}. 
 . label var DayITDMeSmA02S01   "Daily infections to Deaths S1 IHME"
 {txt}
 {com}. 
 . gen TotITDMeSmA02S01  =  TotINFMeSmA02S01  / TotDeaMeSmA02S01 
-{txt}(4,620 missing values generated)
+{txt}(4,597 missing values generated)
 
 {com}. 
 . label var TotITDMeSmA02S01   "Total infections to Deaths S1 IHME"
@@ -257,14 +257,14 @@
 . 
 . 
 . gen DayITDMeSmA02S02 = DayINFMeSmA02S02 / DayDeaMeSmA02S02  
-{txt}(5,082 missing values generated)
+{txt}(5,075 missing values generated)
 
 {com}. 
 . label var DayITDMeSmA02S02 "Daily infections to Deaths S2 IHME"
 {txt}
 {com}. 
 . gen TotITDMeSmA02S02 = TotINFMeSmA02S02 / TotDeaMeSmA02S02  
-{txt}(4,620 missing values generated)
+{txt}(4,597 missing values generated)
 
 {com}. 
 . label var TotITDMeSmA02S02 "Total infections to Deaths S2 IHME"
@@ -274,14 +274,14 @@
 . 
 . 
 . gen DayITDMeSmA02S03  = DayINFMeSmA02S03  / DayDeaMeSmA02S03   
-{txt}(5,082 missing values generated)
+{txt}(5,075 missing values generated)
 
 {com}. 
 . label var DayITDMeSmA02S03  "Daily infections to Deaths S3 IHME"
 {txt}
 {com}. 
 . gen TotITDMeSmA02S03  = TotINFMeSmA02S03  / TotDeaMeSmA02S03   
-{txt}(4,620 missing values generated)
+{txt}(4,597 missing values generated)
 
 {com}. 
 . label var TotITDMeSmA02S03  "Total infections to Deaths S3 IHME"
@@ -291,14 +291,14 @@
 . 
 . 
 . gen DayITDMeRaA03S01  = DayINFMeRaA03S01  / DayDeaMeRaA03S01   
-{txt}(9,298 missing values generated)
+{txt}(9,302 missing values generated)
 
 {com}. 
 . label var DayITDMeRaA03S01  "Daily infections to Deaths S1 IMPE"
 {txt}
 {com}. 
 . gen TotITDMeRaA03S01  = TotINFMeRaA03S01  / TotDeaMeRaA03S01   
-{txt}(9,295 missing values generated)
+{txt}(9,299 missing values generated)
 
 {com}. 
 . label var TotITDMeRaA03S01  "Total infections to Deaths S1 IMPE"
@@ -308,14 +308,14 @@
 . 
 . 
 . gen DayITDMeRaA03S02  = DayINFMeRaA03S02  / DayDeaMeRaA03S02   
-{txt}(9,298 missing values generated)
+{txt}(9,302 missing values generated)
 
 {com}. 
 . label var DayITDMeRaA03S02  "Daily infections to Deaths S2 IMPE"
 {txt}
 {com}. 
 . gen TotITDMeRaA03S02  = TotINFMeRaA03S02  / TotDeaMeRaA03S02   
-{txt}(9,295 missing values generated)
+{txt}(9,299 missing values generated)
 
 {com}. 
 . label var TotITDMeRaA03S02  "Total infections to Deaths S2 IMPE"
@@ -325,14 +325,14 @@
 . 
 . 
 . gen DayITDMeRaA03S03  = DayINFMeRaA03S03  / DayDeaMeRaA03S03   
-{txt}(9,298 missing values generated)
+{txt}(9,302 missing values generated)
 
 {com}. 
 . label var DayITDMeRaA03S03  "Daily infections to Deaths S3 IMPE"
 {txt}
 {com}. 
 . gen TotITDMeRaA03S03  = TotINFMeRaA03S03  / TotDeaMeRaA03S03   
-{txt}(9,295 missing values generated)
+{txt}(9,299 missing values generated)
 
 {com}. 
 . label var TotITDMeRaA03S03  "Total infections to Deaths S3 IMPE"
@@ -341,14 +341,14 @@
 . 
 . 
 . gen DayCTDMeRaA05S00  = DayCasMeRaA05S00  / DayDeaMeRaA05S00   
-{txt}(9,883 missing values generated)
+{txt}(9,887 missing values generated)
 
 {com}. 
 . label var DayCTDMeRaA05S00  "Daily Cases to Deaths S0 SRIV"
 {txt}
 {com}. 
 . gen TotCTDMeRaA05S00  = TotCasMeRaA05S00  / TotDeaMeRaA05S00   
-{txt}(9,882 missing values generated)
+{txt}(9,886 missing values generated)
 
 {com}. 
 . label var TotCTDMeRaA05S00  "Total Cases to Deaths S0 SRIV"
@@ -363,7 +363,7 @@
 . 
 .     
 . gen DayDERMeRaA00S00 = DayDeaMeRaA00S00 / DayDeaMeRaA00S00
-{txt}(6,921 missing values generated)
+{txt}(6,917 missing values generated)
 
 {com}. 
 . label var DayDERMeRaA00S00 "Daily Deaths estim to reported JOHN = 1" 
@@ -371,7 +371,7 @@
 {com}. 
 . 
 . gen DayDERMeRaA01S00 = DayDeaMeRaA01S00 / DayDeaMeRaA00S00
-{txt}(9,522 missing values generated)
+{txt}(9,518 missing values generated)
 
 {com}. 
 . label var DayDERMeRaA01S00 "Daily Deaths estim to reported Mean DELP S0"
@@ -379,7 +379,7 @@
 {com}. 
 . 
 . gen DayDERMeSmA02S01 = DayDeaMeSmA02S01 / DayDeaMeRaA00S00
-{txt}(7,011 missing values generated)
+{txt}(7,008 missing values generated)
 
 {com}. 
 . label var DayDERMeSmA02S01 "Daily Deaths estim to reported Mean not smoothed IHME S1"
@@ -387,7 +387,7 @@
 {com}. 
 . 
 . gen DayDERMeSmA02S02 = DayDeaMeSmA02S02 / DayDeaMeRaA00S00
-{txt}(7,011 missing values generated)
+{txt}(7,008 missing values generated)
 
 {com}. 
 . label var DayDERMeSmA02S02 "Daily Deaths estim to reported Mean not smoothed IHME S2"
@@ -395,7 +395,7 @@
 {com}. 
 . 
 . gen DayDERMeSmA02S03 = DayDeaMeSmA02S03 / DayDeaMeRaA00S00
-{txt}(7,011 missing values generated)
+{txt}(7,008 missing values generated)
 
 {com}. 
 . label var DayDERMeSmA02S03 "Daily Deaths estim to reported Mean not smoothed IHME S3"
@@ -403,7 +403,7 @@
 {com}. 
 . 
 . gen DayDERMeRaA03S01 = DayDeaMeRaA03S01 / DayDeaMeRaA00S00
-{txt}(9,406 missing values generated)
+{txt}(9,409 missing values generated)
 
 {com}. 
 . label var DayDERMeRaA03S01 "Daily Deaths estim to reported Mean S1 IMPE"
@@ -411,7 +411,7 @@
 {com}. 
 . 
 . gen DayDERMeRaA03S02 = DayDeaMeRaA03S02 / DayDeaMeRaA00S00
-{txt}(9,406 missing values generated)
+{txt}(9,409 missing values generated)
 
 {com}. 
 . label var DayDERMeRaA03S02 "Daily Deaths estim to reported Mean S2 IMPE"
@@ -419,7 +419,7 @@
 {com}. 
 . 
 . gen DayDERMeRaA03S03 = DayDeaMeRaA03S03 / DayDeaMeRaA00S00
-{txt}(9,406 missing values generated)
+{txt}(9,409 missing values generated)
 
 {com}. 
 . label var DayDERMeRaA03S03 "Daily Deaths estim to reported Mean S3 IMPE"
@@ -427,7 +427,7 @@
 {com}. 
 . 
 . gen DayDERMeRaA05S00  = DayDeaMeRaA05S00 / DayDeaMeRaA00S00
-{txt}(9,983 missing values generated)
+{txt}(9,986 missing values generated)
 
 {com}. 
 . label var DayDERMeRaA05S00 "Daily Deaths estim to reported S0 SRIV"
@@ -442,7 +442,7 @@
 . 
 . 
 . gen DayCERMeRaA00S00 = DayCasMeRaA00S00 / DayCasMeRaA00S00
-{txt}(4,748 missing values generated)
+{txt}(4,741 missing values generated)
 
 {com}. 
 . label var DayCERMeRaA00S00 "Daily Cases estim to reported JOHN = 1" 
@@ -450,7 +450,7 @@
 {com}. 
 . 
 . gen DayCERMeRaA01S00 = DayCasMeRaA01S00 / DayCasMeRaA00S00
-{txt}(9,269 missing values generated)
+{txt}(9,264 missing values generated)
 
 {com}. 
 . label var DayCERMeRaA01S00 "Daily Cases estim to reported Mean DELP S0"
@@ -458,7 +458,7 @@
 {com}. 
 . 
 . gen DayIERMeSmA02S01 = DayINFMeSmA02S01 / DayCasMeRaA00S00
-{txt}(5,856 missing values generated)
+{txt}(5,853 missing values generated)
 
 {com}. 
 . label var DayIERMeSmA02S01 "Daily infections estim to reported cases Mean not smoothed IHME S1"
@@ -466,7 +466,7 @@
 {com}. 
 . 
 . gen DayIERMeSmA02S02 = DayINFMeSmA02S02 / DayCasMeRaA00S00
-{txt}(5,856 missing values generated)
+{txt}(5,853 missing values generated)
 
 {com}. 
 . label var DayIERMeSmA02S02 "Daily infections estim to reported cases Mean not smoothed IHME S2"
@@ -474,7 +474,7 @@
 {com}. 
 . 
 . gen DayIERMeSmA02S03 = DayINFMeSmA02S03 / DayCasMeRaA00S00
-{txt}(5,856 missing values generated)
+{txt}(5,853 missing values generated)
 
 {com}. 
 . label var DayIERMeSmA02S03 "Daily infections estim to reported cases Mean not smoothed IHME S3"
@@ -482,7 +482,7 @@
 {com}. 
 . 
 . gen DayIERMeRaA03S01 = DayINFMeRaA03S01 / DayCasMeRaA00S00
-{txt}(9,381 missing values generated)
+{txt}(9,384 missing values generated)
 
 {com}. 
 . label var DayIERMeRaA03S01 "Daily infections estim to reported cases Mean S1 IMPE"
@@ -490,7 +490,7 @@
 {com}. 
 . 
 . gen DayIERMeRaA03S02 = DayINFMeRaA03S02 / DayCasMeRaA00S00
-{txt}(9,381 missing values generated)
+{txt}(9,384 missing values generated)
 
 {com}. 
 . label var DayIERMeRaA03S02 "Daily infections estim to reported cases Mean S2 IMPE"
@@ -498,7 +498,7 @@
 {com}. 
 . 
 . gen DayIERMeRaA03S03 = DayINFMeRaA03S03 / DayCasMeRaA00S00
-{txt}(9,381 missing values generated)
+{txt}(9,384 missing values generated)
 
 {com}. 
 . label var DayIERMeRaA03S03 "Daily infections estim to reported cases Mean S3 IMPE"
@@ -506,7 +506,7 @@
 {com}. 
 . 
 . gen DayCERMeRaA05S00  = DayCasMeRaA05S00 / DayCasMeRaA00S00
-{txt}(9,983 missing values generated)
+{txt}(9,986 missing values generated)
 
 {com}. 
 . label var DayCERMeRaA05S00 "Daily Cases estim to reported S0 SRIV"
@@ -514,7 +514,7 @@
 {com}. 
 . 
 . gen DayCERMeRaA11S01  = DayCasMeRaA11S01 / DayCasMeRaA00S00
-{txt}(9,071 missing values generated)
+{txt}(9,069 missing values generated)
 
 {com}. 
 . label var DayCERMeRaA11S01 "Daily Cases estim to reported S1 PHAC"
@@ -527,7 +527,7 @@
 . 
 . 
 . gen TotDERMeRaA00S00 = TotDeaMeRaA00S00 / TotDeaMeRaA00S00
-{txt}(3,636 missing values generated)
+{txt}(3,627 missing values generated)
 
 {com}. 
 . label var TotDERMeRaA00S00 "Total Deaths estim to reported JOHN = 1" 
@@ -535,7 +535,7 @@
 {com}. 
 . 
 . gen TotDERMeRaA01S00 = TotDeaMeRaA01S00 / TotDeaMeRaA00S00
-{txt}(9,063 missing values generated)
+{txt}(9,057 missing values generated)
 
 {com}. 
 . label var TotDERMeRaA01S00 "Total Deaths estim to reported Mean DELP S0"
@@ -543,7 +543,7 @@
 {com}. 
 . 
 . gen TotDERMeSmA02S01 = TotDeaMeSmA02S01 / TotDeaMeRaA00S00
-{txt}(5,398 missing values generated)
+{txt}(5,394 missing values generated)
 
 {com}. 
 . label var TotDERMeSmA02S01 "Total Deaths estim to reported Mean not smoothed IHME S1"
@@ -551,7 +551,7 @@
 {com}. 
 . 
 . gen TotDERMeSmA02S02 = TotDeaMeSmA02S02 / TotDeaMeRaA00S00
-{txt}(5,398 missing values generated)
+{txt}(5,394 missing values generated)
 
 {com}. 
 . label var TotDERMeSmA02S02 "Total Deaths estim to reported Mean not smoothed IHME S2"
@@ -559,7 +559,7 @@
 {com}. 
 . 
 . gen TotDERMeSmA02S03 = TotDeaMeSmA02S03 / TotDeaMeRaA00S00
-{txt}(5,398 missing values generated)
+{txt}(5,394 missing values generated)
 
 {com}. 
 . label var TotDERMeSmA02S03 "Total Deaths estim to reported Mean not smoothed IHME S3"
@@ -567,7 +567,7 @@
 {com}. 
 . 
 . gen TotDERMeRaA03S01 = TotDeaMeRaA03S01 / TotDeaMeRaA00S00
-{txt}(9,398 missing values generated)
+{txt}(9,401 missing values generated)
 
 {com}. 
 . label var TotDERMeRaA03S01 "Total Deaths estim to reported Mean S1 IMPE"
@@ -575,7 +575,7 @@
 {com}. 
 . 
 . gen TotDERMeRaA03S02 = TotDeaMeRaA03S02 / TotDeaMeRaA00S00
-{txt}(9,398 missing values generated)
+{txt}(9,401 missing values generated)
 
 {com}. 
 . label var TotDERMeRaA03S02 "Total Deaths estim to reported Mean S2 IMPE"
@@ -583,7 +583,7 @@
 {com}. 
 . 
 . gen TotDERMeRaA03S03 = TotDeaMeRaA03S03 / TotDeaMeRaA00S00
-{txt}(9,398 missing values generated)
+{txt}(9,401 missing values generated)
 
 {com}. 
 . label var TotDERMeRaA03S03 "Total Deaths estim to reported Mean S3 IMPE"
@@ -591,7 +591,7 @@
 {com}. 
 . 
 . gen TotDERMeRaA05S00  = TotDeaMeRaA05S00 / TotDeaMeRaA00S00
-{txt}(9,982 missing values generated)
+{txt}(9,985 missing values generated)
 
 {com}. 
 . label var TotDERMeRaA05S00 "Total Deaths estim to reported S0 SRIV"
@@ -606,7 +606,7 @@
 . 
 . 
 . gen TotCERMeRaA00S00 = TotCasMeRaA00S00 / TotCasMeRaA00S00
-{txt}(1,955 missing values generated)
+{txt}(1,945 missing values generated)
 
 {com}. 
 . label var TotCERMeRaA00S00 "Total Cases estim to reported JOHN = 1" 
@@ -614,7 +614,7 @@
 {com}. 
 . 
 . gen TotCERMeRaA01S00 = TotCasMeRaA01S00 / TotCasMeRaA00S00
-{txt}(9,063 missing values generated)
+{txt}(9,057 missing values generated)
 
 {com}. 
 . label var TotCERMeRaA01S00 "Total Cases estim to reported Mean DELP S0"
@@ -622,7 +622,7 @@
 {com}. 
 . 
 . gen TotIERMeSmA02S01 = TotINFMeSmA02S01 / TotCasMeRaA00S00
-{txt}(5,200 missing values generated)
+{txt}(5,196 missing values generated)
 
 {com}. 
 . label var TotIERMeSmA02S01 "Total infections estim to reported cases Mean not smoothed IHME S1"
@@ -630,7 +630,7 @@
 {com}. 
 . 
 . gen TotIERMeSmA02S02 = TotINFMeSmA02S02 / TotCasMeRaA00S00
-{txt}(5,200 missing values generated)
+{txt}(5,196 missing values generated)
 
 {com}. 
 . label var TotIERMeSmA02S02 "Total infections estim to reported cases Mean not smoothed IHME S2"
@@ -638,7 +638,7 @@
 {com}. 
 . 
 . gen TotIERMeSmA02S03 = TotINFMeSmA02S03 / TotCasMeRaA00S00
-{txt}(5,200 missing values generated)
+{txt}(5,196 missing values generated)
 
 {com}. 
 . label var TotIERMeSmA02S03 "Total infections estim to reported cases Mean not smoothed IHME S3"
@@ -646,7 +646,7 @@
 {com}. 
 . 
 . gen TotIERMeRaA03S01 = TotINFMeRaA03S01 / TotCasMeRaA00S00
-{txt}(9,364 missing values generated)
+{txt}(9,367 missing values generated)
 
 {com}. 
 . label var TotIERMeRaA03S01 "Total infections estim to reported cases Mean S1 IMPE"
@@ -654,7 +654,7 @@
 {com}. 
 . 
 . gen TotIERMeRaA03S02 = TotINFMeRaA03S02 / TotCasMeRaA00S00
-{txt}(9,364 missing values generated)
+{txt}(9,367 missing values generated)
 
 {com}. 
 . label var TotIERMeRaA03S02 "Total infections estim to reported cases Mean S2 IMPE"
@@ -662,7 +662,7 @@
 {com}. 
 . 
 . gen TotIERMeRaA03S03 = TotINFMeRaA03S03 / TotCasMeRaA00S00
-{txt}(9,364 missing values generated)
+{txt}(9,367 missing values generated)
 
 {com}. 
 . label var TotIERMeRaA03S03 "Total infections estim to reported cases Mean S3 IMPE"
@@ -670,7 +670,7 @@
 {com}. 
 . 
 . gen TotCERMeRaA05S00  = TotCasMeRaA05S00 / TotCasMeRaA00S00
-{txt}(9,982 missing values generated)
+{txt}(9,985 missing values generated)
 
 {com}. 
 . label var TotCERMeRaA05S00 "Total Cases estim to reported S0 SRIV"
@@ -694,19 +694,19 @@
 
 {com}. 
 . replace provincestate_mostaffected = "" if provincestate_mostaffected == "Northwest Territories"
-{txt}(632 real changes made)
+{txt}(633 real changes made)
 
 {com}. 
 . replace provincestate_mostaffected = "" if provincestate_mostaffected == "Nunavut"
-{txt}(632 real changes made)
+{txt}(633 real changes made)
 
 {com}. 
 . replace provincestate_mostaffected = "" if provincestate_mostaffected == "Prince Edward Island"
-{txt}(632 real changes made)
+{txt}(633 real changes made)
 
 {com}. 
 . replace provincestate_mostaffected = "" if provincestate_mostaffected == "Yukon"
-{txt}(632 real changes made)
+{txt}(633 real changes made)
 
 {com}. 
 . replace provincestate_mostaffected = "" if provincestate_mostaffected == " National"
@@ -804,7 +804,7 @@ now 732
 {txt}{col 9}from master{col 30}{res}              21{txt}  (_merge==1)
 {col 9}from using{col 30}{res}             379{txt}  (_merge==2)
 
-{col 5}matched{col 30}{res}           9,604{txt}  (_merge==3)
+{col 5}matched{col 30}{res}           9,608{txt}  (_merge==3)
 {col 5}{hline 41}
 
 {com}. 
@@ -861,9 +861,9 @@ now 732
 . desc, fullnames
 
 {txt}Contains data from {res}CovidVisualizedCountry merge.dta
-{txt}  obs:{res}        10,004                          
-{txt} vars:{res}         2,438                          15 Oct 2021 14:36
-{txt} size:{res}    81,842,724                          
+{txt}  obs:{res}        10,008                          
+{txt} vars:{res}         2,402                          16 Oct 2021 22:28
+{txt} size:{res}    81,094,824                          
 {txt}{hline}
               storage   display    value
 variable name   type    format     label      variable label
@@ -1823,22 +1823,20 @@ variable name   type    format     label      variable label
 {p 0 48}{space 15}{txt}{bind: double  }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}IHME R effective (lower 95% confidence interval) S1{p_end}
 {p 0 48}reff_upper_A02S01{p_end}
 {p 0 48}{space 15}{txt}{bind: double  }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}IHME R effective (upper 95% confidence interval) S1{p_end}
-{p 0 48}cumulative_cases_A02S01{p_end}
-{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}IHME Cumulative cases (raw data) S1{p_end}
 {p 0 48}cumulative_deaths_A02S01{p_end}
 {p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}IHME Cumulative deaths (raw data with excess mortality scalar applied) S1{p_end}
-{p 0 48}cumulative_hosp_A02S01{p_end}
-{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}IHME Cumulative hospitalizations (raw data) S1{p_end}
 {p 0 48}daily_deaths_A02S01{p_end}
 {p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}IHME Daily deaths (raw data with excess mortality scalar applied) S1{p_end}
-{p 0 48}daily_infections_A02S01{p_end}
-{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}IHME Daily infections (raw data){p_end}
+{p 0 48}cumulative_cases_A02S01{p_end}
+{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}IHME Cumulative cases (raw data) S1{p_end}
 {p 0 48}cumul_deaths_unscaled_A02S01{p_end}
 {p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}IHME umulative deaths (raw data without excess mortality scalar applied) S1{p_end}
+{p 0 48}cumulative_hosp_A02S01{p_end}
+{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}IHME Cumulative hospitalizations (raw data) S1{p_end}
 {p 0 48}dai_dea_unscaled_A02S01{p_end}
 {p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}IHME Daily deaths (raw data without excess mortality scalar applied) S1{p_end}
-{p 0 48}dai_inf_unscaled_A02S01{p_end}
-{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}IHME Daily infections (raw data without excess mortality scalar applied){p_end}
+{p 0 48}daily_infections_A02S01{p_end}
+{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}IHME Daily infections (raw data){p_end}
 {p 0 48}{bind:population     }{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}IHME Population size{p_end}
 {p 0 48}mobility_mean_A02S01{p_end}
 {p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}IHME Percent change in mobility from baseline (mean)  S1{p_end}
@@ -1877,10 +1875,10 @@ variable name   type    format     label      variable label
 {p 0 48}{bind:DayBEDMeSmA02  }{txt}{bind: long    }{bind:{txt}%12.0g    }{space 1}{bind:         }{bind:  }{res}{res}IHME Total number of beds that exist at a location{p_end}
 {p 0 48}{bind:DayICUMeSmA02  }{txt}{bind: int     }{bind:{txt}%12.0g    }{space 1}{bind:         }{bind:  }{res}{res}IHME Total number of ICU beds that exist at a location{p_end}
 {p 0 48}infection_fatality_A02S01{p_end}
-{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}IHME Infection fatality ratio S1{p_end}
+{p 0 48}{space 15}{txt}{bind: double  }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}IHME Infection fatality ratio S1{p_end}
 {p 0 48}infection_detection_A02S01{p_end}
-{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}IHME Infection detection ratio S1{p_end}
-{p 0 48}{bind:inf_hosp_A02S01}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}IHME Infection hospitalization ratio S1{p_end}
+{p 0 48}{space 15}{txt}{bind: double  }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}IHME Infection detection ratio S1{p_end}
+{p 0 48}{bind:inf_hosp_A02S01}{txt}{bind: double  }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}IHME Infection hospitalization ratio S1{p_end}
 {p 0 48}DayINFMeSmA02S02{p_end}
 {p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}Daily infections Mean smoothed IHME S2{p_end}
 {p 0 48}DayINFUpSmA02S02{p_end}
@@ -1923,22 +1921,20 @@ variable name   type    format     label      variable label
 {p 0 48}{space 15}{txt}{bind: double  }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}IHME R effective (lower 95% confidence interval) S2{p_end}
 {p 0 48}reff_upper_A02S02{p_end}
 {p 0 48}{space 15}{txt}{bind: double  }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}IHME R effective (upper 95% confidence interval) S2{p_end}
-{p 0 48}cumulative_cases_A02S02{p_end}
-{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}IHME Cumulative cases (raw data) S2{p_end}
 {p 0 48}cumulative_deaths_A02S02{p_end}
 {p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}IHME Cumulative deaths (raw data with excess mortality scalar applied) S2{p_end}
-{p 0 48}cumulative_hosp_A02S02{p_end}
-{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}IHME Cumulative hospitalizations (raw data) S2{p_end}
 {p 0 48}daily_deaths_A02S02{p_end}
 {p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}IHME Daily deaths (raw data with excess mortality scalar applied) S2{p_end}
-{p 0 48}daily_infections_A02S02{p_end}
-{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}IHME Daily infections (raw data){p_end}
+{p 0 48}cumulative_cases_A02S02{p_end}
+{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}IHME Cumulative cases (raw data) S2{p_end}
 {p 0 48}cumul_deaths_unscaled_A02S02{p_end}
 {p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}IHME umulative deaths (raw data without excess mortality scalar applied) S2{p_end}
+{p 0 48}cumulative_hosp_A02S02{p_end}
+{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}IHME Cumulative hospitalizations (raw data) S2{p_end}
 {p 0 48}dai_dea_unscaled_A02S02{p_end}
 {p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}IHME Daily deaths (raw data without excess mortality scalar applied) S2{p_end}
-{p 0 48}dai_inf_unscaled_A02S02{p_end}
-{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}IHME Daily infections (raw data without excess mortality scalar applied){p_end}
+{p 0 48}daily_infections_A02S02{p_end}
+{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}IHME Daily infections (raw data){p_end}
 {p 0 48}mobility_mean_A02S02{p_end}
 {p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}IHME Percent change in mobility from baseline (mean) S2{p_end}
 {p 0 48}mask_use_mean_A02S02{p_end}
@@ -1962,10 +1958,10 @@ variable name   type    format     label      variable label
 {p 0 48}DayAdmLoSmA02S02{p_end}
 {p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}IHME Daily C-19 hospital admissions (mean estimate) S2{p_end}
 {p 0 48}infection_fatality_A02S02{p_end}
-{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}IHME Infection fatality ratio S2{p_end}
+{p 0 48}{space 15}{txt}{bind: double  }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}IHME Infection fatality ratio S2{p_end}
 {p 0 48}infection_detection_A02S02{p_end}
-{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}IHME Infection detection ratio S2{p_end}
-{p 0 48}{bind:inf_hosp_A02S02}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}IHME Infection hospitalization ratio S2{p_end}
+{p 0 48}{space 15}{txt}{bind: double  }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}IHME Infection detection ratio S2{p_end}
+{p 0 48}{bind:inf_hosp_A02S02}{txt}{bind: double  }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}IHME Infection hospitalization ratio S2{p_end}
 {p 0 48}DayINFMeSmA02S03{p_end}
 {p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}Daily infections Mean smoothed IHME S3{p_end}
 {p 0 48}DayINFUpSmA02S03{p_end}
@@ -2008,22 +2004,20 @@ variable name   type    format     label      variable label
 {p 0 48}{space 15}{txt}{bind: double  }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}IHME R effective (lower 95% confidence interval) S3{p_end}
 {p 0 48}reff_upper_A02S03{p_end}
 {p 0 48}{space 15}{txt}{bind: double  }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}IHME R effective (upper 95% confidence interval) S3{p_end}
-{p 0 48}cumulative_cases_A02S03{p_end}
-{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}IHME Cumulative cases (raw data) S3{p_end}
 {p 0 48}cumulative_deaths_A02S03{p_end}
 {p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}IHME Cumulative deaths (raw data with excess mortality scalar applied) S3{p_end}
-{p 0 48}cumulative_hosp_A02S03{p_end}
-{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}IHME Cumulative hospitalizations (raw data) S3{p_end}
 {p 0 48}daily_deaths_A02S03{p_end}
 {p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}IHME Daily deaths (raw data with excess mortality scalar applied) S3{p_end}
-{p 0 48}daily_infections_A02S03{p_end}
-{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}IHME Daily infections (raw data){p_end}
+{p 0 48}cumulative_cases_A02S03{p_end}
+{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}IHME Cumulative cases (raw data) S3{p_end}
 {p 0 48}cumul_deaths_unscaled_A02S03{p_end}
 {p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}IHME umulative deaths (raw data without excess mortality scalar applied) S3{p_end}
+{p 0 48}cumulative_hosp_A02S03{p_end}
+{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}IHME Cumulative hospitalizations (raw data) S3{p_end}
 {p 0 48}dai_dea_unscaled_A02S03{p_end}
 {p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}IHME Daily deaths (raw data without excess mortality scalar applied) S3{p_end}
-{p 0 48}dai_inf_unscaled_A02S03{p_end}
-{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}IHME Daily infections (raw data without excess mortality scalar applied){p_end}
+{p 0 48}daily_infections_A02S03{p_end}
+{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}IHME Daily infections (raw data){p_end}
 {p 0 48}mobility_mean_A02S03{p_end}
 {p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}IHME Percent change in mobility from baseline (mean) S3{p_end}
 {p 0 48}mask_use_mean_A02S03{p_end}
@@ -2047,10 +2041,10 @@ variable name   type    format     label      variable label
 {p 0 48}DayAdmLoSmA02S03{p_end}
 {p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}IHME Daily C-19 hospital admissions (mean estimate) S3{p_end}
 {p 0 48}infection_fatality_A02S03{p_end}
-{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}IHME Infection fatality ratio S3{p_end}
+{p 0 48}{space 15}{txt}{bind: double  }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}IHME Infection fatality ratio S3{p_end}
 {p 0 48}infection_detection_A02S03{p_end}
-{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}IHME Infection detection ratio S3{p_end}
-{p 0 48}{bind:inf_hosp_A02S03}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}IHME Infection hospitalization ratio S3{p_end}
+{p 0 48}{space 15}{txt}{bind: double  }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}IHME Infection detection ratio S3{p_end}
+{p 0 48}{bind:inf_hosp_A02S03}{txt}{bind: double  }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}IHME Infection hospitalization ratio S3{p_end}
 {p 0 48}DayDeMMeSmA02S01{p_end}
 {p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}Daily deaths mean IHME DayDeM{p_end}
 {p 0 48}DayCaMMeSmA02S01{p_end}
@@ -2059,14 +2053,11 @@ variable name   type    format     label      variable label
 {p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}Daily infections mean div by daily deaths mean IHME DayCbD{p_end}
 {p 0 48}DayDMuMeSmA02S01{p_end}
 {p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}Daily deaths scaled (times means of infections by deaths) IHME{p_end}
-{p 0 48}{bind:cumul_vax_pct  }{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}% cumulative Initially vaccinated (one dose of two doses){p_end}
-{p 0 48}cumul_effec_vax_pct{p_end}
-{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}% cumulative Effectively vaccinated (one and two dose with efficacy){p_end}
+{p 0 48}{bind:cumul_vax_pct  }{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}% population IHME Initially vaccinated (one dose of two doses){p_end}
+{p 0 48}cumul_effective_vax_pct{p_end}
+{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}% population IHME Effectively vaccinated (one and two dose with efficacy){p_end}
 {p 0 48}cumul_fully_vax_pct{p_end}
-{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}% cumulative Fully vaccinated (one of one and two of two doses){p_end}
-{p 0 48}{bind:daily_vax_num  }{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}Number daily Initially vaccinated (one dose of two doses){p_end}
-{p 0 48}{bind:daily_effec_num}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}Number daily Effectively vaccinated (one and two dose with efficacy){p_end}
-{p 0 48}{bind:daily_fully_num}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}Number daily Fully vaccinated (one of one and two of two doses){p_end}
+{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}% population IHME Fully vaccinated (one of one and two of two doses){p_end}
 {p 0 48}DayINFMeSmA02S01XAB{p_end}
 {p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}DayINFMeSmA02S01 Alberta{p_end}
 {p 0 48}DayINFMeSmA02S01XBC{p_end}
@@ -2627,26 +2618,6 @@ variable name   type    format     label      variable label
 {p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}dai_dea_unscaled_A02S01 Quebec{p_end}
 {p 0 48}dai_dea_unscaled_A02S01XSK{p_end}
 {p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}dai_dea_unscaled_A02S01 Saskatchewan{p_end}
-{p 0 48}dai_inf_unscaled_A02S01XAB{p_end}
-{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}dai_inf_unscaled_A02S01 Alberta{p_end}
-{p 0 48}dai_inf_unscaled_A02S01XBC{p_end}
-{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}dai_inf_unscaled_A02S01 British Columbia{p_end}
-{p 0 48}dai_inf_unscaled_A02S01XMB{p_end}
-{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}dai_inf_unscaled_A02S01 Manitoba{p_end}
-{p 0 48}dai_inf_unscaled_A02S01XXX{p_end}
-{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}dai_inf_unscaled_A02S01 National{p_end}
-{p 0 48}dai_inf_unscaled_A02S01XNB{p_end}
-{p 0 48}{space 15}{txt}{bind: byte    }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}dai_inf_unscaled_A02S01 New Brunswick{p_end}
-{p 0 48}dai_inf_unscaled_A02S01XNL{p_end}
-{p 0 48}{space 15}{txt}{bind: byte    }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}dai_inf_unscaled_A02S01 Newfoundland and Labrador{p_end}
-{p 0 48}dai_inf_unscaled_A02S01XNS{p_end}
-{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}dai_inf_unscaled_A02S01 Nova Scotia{p_end}
-{p 0 48}dai_inf_unscaled_A02S01XON{p_end}
-{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}dai_inf_unscaled_A02S01 Ontario{p_end}
-{p 0 48}dai_inf_unscaled_A02S01XQC{p_end}
-{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}dai_inf_unscaled_A02S01 Quebec{p_end}
-{p 0 48}dai_inf_unscaled_A02S01XSK{p_end}
-{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}dai_inf_unscaled_A02S01 Saskatchewan{p_end}
 {p 0 48}{bind:populationXAB  }{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}population Alberta{p_end}
 {p 0 48}{bind:populationXBC  }{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}population British Columbia{p_end}
 {p 0 48}{bind:populationXMB  }{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}population Manitoba{p_end}
@@ -2817,6 +2788,116 @@ variable name   type    format     label      variable label
 {p 0 48}{bind:mask_use_obsXON}{txt}{bind: byte    }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}mask_use_obs Ontario{p_end}
 {p 0 48}{bind:mask_use_obsXQC}{txt}{bind: byte    }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}mask_use_obs Quebec{p_end}
 {p 0 48}{bind:mask_use_obsXSK}{txt}{bind: byte    }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}mask_use_obs Saskatchewan{p_end}
+{p 0 48}{bind:cumul_vaxXAB   }{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}cumul_vax Alberta{p_end}
+{p 0 48}{bind:cumul_vaxXBC   }{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}cumul_vax British Columbia{p_end}
+{p 0 48}{bind:cumul_vaxXMB   }{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}cumul_vax Manitoba{p_end}
+{p 0 48}{bind:cumul_vaxXXX   }{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}cumul_vax National{p_end}
+{p 0 48}{bind:cumul_vaxXNB   }{txt}{bind: byte    }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}cumul_vax New Brunswick{p_end}
+{p 0 48}{bind:cumul_vaxXNL   }{txt}{bind: byte    }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}cumul_vax Newfoundland and Labrador{p_end}
+{p 0 48}{bind:cumul_vaxXNS   }{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}cumul_vax Nova Scotia{p_end}
+{p 0 48}{bind:cumul_vaxXON   }{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}cumul_vax Ontario{p_end}
+{p 0 48}{bind:cumul_vaxXQC   }{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}cumul_vax Quebec{p_end}
+{p 0 48}{bind:cumul_vaxXSK   }{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}cumul_vax Saskatchewan{p_end}
+{p 0 48}cumul_effective_vaxXAB{p_end}
+{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}cumul_effective_vax Alberta{p_end}
+{p 0 48}cumul_effective_vaxXBC{p_end}
+{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}cumul_effective_vax British Columbia{p_end}
+{p 0 48}cumul_effective_vaxXMB{p_end}
+{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}cumul_effective_vax Manitoba{p_end}
+{p 0 48}cumul_effective_vaxXXX{p_end}
+{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}cumul_effective_vax National{p_end}
+{p 0 48}cumul_effective_vaxXNB{p_end}
+{p 0 48}{space 15}{txt}{bind: byte    }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}cumul_effective_vax New Brunswick{p_end}
+{p 0 48}cumul_effective_vaxXNL{p_end}
+{p 0 48}{space 15}{txt}{bind: byte    }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}cumul_effective_vax Newfoundland and Labrador{p_end}
+{p 0 48}cumul_effective_vaxXNS{p_end}
+{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}cumul_effective_vax Nova Scotia{p_end}
+{p 0 48}cumul_effective_vaxXON{p_end}
+{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}cumul_effective_vax Ontario{p_end}
+{p 0 48}cumul_effective_vaxXQC{p_end}
+{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}cumul_effective_vax Quebec{p_end}
+{p 0 48}cumul_effective_vaxXSK{p_end}
+{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}cumul_effective_vax Saskatchewan{p_end}
+{p 0 48}cumul_fully_vaxXAB{p_end}
+{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}cumul_fully_vax Alberta{p_end}
+{p 0 48}cumul_fully_vaxXBC{p_end}
+{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}cumul_fully_vax British Columbia{p_end}
+{p 0 48}cumul_fully_vaxXMB{p_end}
+{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}cumul_fully_vax Manitoba{p_end}
+{p 0 48}cumul_fully_vaxXXX{p_end}
+{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}cumul_fully_vax National{p_end}
+{p 0 48}cumul_fully_vaxXNB{p_end}
+{p 0 48}{space 15}{txt}{bind: byte    }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}cumul_fully_vax New Brunswick{p_end}
+{p 0 48}cumul_fully_vaxXNL{p_end}
+{p 0 48}{space 15}{txt}{bind: byte    }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}cumul_fully_vax Newfoundland and Labrador{p_end}
+{p 0 48}cumul_fully_vaxXNS{p_end}
+{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}cumul_fully_vax Nova Scotia{p_end}
+{p 0 48}cumul_fully_vaxXON{p_end}
+{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}cumul_fully_vax Ontario{p_end}
+{p 0 48}cumul_fully_vaxXQC{p_end}
+{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}cumul_fully_vax Quebec{p_end}
+{p 0 48}cumul_fully_vaxXSK{p_end}
+{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}cumul_fully_vax Saskatchewan{p_end}
+{p 0 48}DayBedMeSmA02S01XAB{p_end}
+{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}DayBedMeSmA02S01 Alberta{p_end}
+{p 0 48}DayBedMeSmA02S01XBC{p_end}
+{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}DayBedMeSmA02S01 British Columbia{p_end}
+{p 0 48}DayBedMeSmA02S01XMB{p_end}
+{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}DayBedMeSmA02S01 Manitoba{p_end}
+{p 0 48}DayBedMeSmA02S01XXX{p_end}
+{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}DayBedMeSmA02S01 National{p_end}
+{p 0 48}DayBedMeSmA02S01XNB{p_end}
+{p 0 48}{space 15}{txt}{bind: byte    }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}DayBedMeSmA02S01 New Brunswick{p_end}
+{p 0 48}DayBedMeSmA02S01XNL{p_end}
+{p 0 48}{space 15}{txt}{bind: byte    }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}DayBedMeSmA02S01 Newfoundland and Labrador{p_end}
+{p 0 48}DayBedMeSmA02S01XNS{p_end}
+{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}DayBedMeSmA02S01 Nova Scotia{p_end}
+{p 0 48}DayBedMeSmA02S01XON{p_end}
+{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}DayBedMeSmA02S01 Ontario{p_end}
+{p 0 48}DayBedMeSmA02S01XQC{p_end}
+{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}DayBedMeSmA02S01 Quebec{p_end}
+{p 0 48}DayBedMeSmA02S01XSK{p_end}
+{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}DayBedMeSmA02S01 Saskatchewan{p_end}
+{p 0 48}DayBedLoSmA02S01XAB{p_end}
+{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}DayBedLoSmA02S01 Alberta{p_end}
+{p 0 48}DayBedLoSmA02S01XBC{p_end}
+{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}DayBedLoSmA02S01 British Columbia{p_end}
+{p 0 48}DayBedLoSmA02S01XMB{p_end}
+{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}DayBedLoSmA02S01 Manitoba{p_end}
+{p 0 48}DayBedLoSmA02S01XXX{p_end}
+{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}DayBedLoSmA02S01 National{p_end}
+{p 0 48}DayBedLoSmA02S01XNB{p_end}
+{p 0 48}{space 15}{txt}{bind: byte    }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}DayBedLoSmA02S01 New Brunswick{p_end}
+{p 0 48}DayBedLoSmA02S01XNL{p_end}
+{p 0 48}{space 15}{txt}{bind: byte    }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}DayBedLoSmA02S01 Newfoundland and Labrador{p_end}
+{p 0 48}DayBedLoSmA02S01XNS{p_end}
+{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}DayBedLoSmA02S01 Nova Scotia{p_end}
+{p 0 48}DayBedLoSmA02S01XON{p_end}
+{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}DayBedLoSmA02S01 Ontario{p_end}
+{p 0 48}DayBedLoSmA02S01XQC{p_end}
+{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}DayBedLoSmA02S01 Quebec{p_end}
+{p 0 48}DayBedLoSmA02S01XSK{p_end}
+{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}DayBedLoSmA02S01 Saskatchewan{p_end}
+{p 0 48}DayBedUpSmA02S01XAB{p_end}
+{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}DayBedUpSmA02S01 Alberta{p_end}
+{p 0 48}DayBedUpSmA02S01XBC{p_end}
+{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}DayBedUpSmA02S01 British Columbia{p_end}
+{p 0 48}DayBedUpSmA02S01XMB{p_end}
+{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}DayBedUpSmA02S01 Manitoba{p_end}
+{p 0 48}DayBedUpSmA02S01XXX{p_end}
+{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}DayBedUpSmA02S01 National{p_end}
+{p 0 48}DayBedUpSmA02S01XNB{p_end}
+{p 0 48}{space 15}{txt}{bind: byte    }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}DayBedUpSmA02S01 New Brunswick{p_end}
+{p 0 48}DayBedUpSmA02S01XNL{p_end}
+{p 0 48}{space 15}{txt}{bind: byte    }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}DayBedUpSmA02S01 Newfoundland and Labrador{p_end}
+{p 0 48}DayBedUpSmA02S01XNS{p_end}
+{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}DayBedUpSmA02S01 Nova Scotia{p_end}
+{p 0 48}DayBedUpSmA02S01XON{p_end}
+{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}DayBedUpSmA02S01 Ontario{p_end}
+{p 0 48}DayBedUpSmA02S01XQC{p_end}
+{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}DayBedUpSmA02S01 Quebec{p_end}
+{p 0 48}DayBedUpSmA02S01XSK{p_end}
+{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}DayBedUpSmA02S01 Saskatchewan{p_end}
 {p 0 48}DayIcuMeSmA02S01XAB{p_end}
 {p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}DayIcuMeSmA02S01 Alberta{p_end}
 {p 0 48}DayIcuMeSmA02S01XBC{p_end}
@@ -3597,26 +3678,6 @@ variable name   type    format     label      variable label
 {p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}dai_dea_unscaled_A02S02 Quebec{p_end}
 {p 0 48}dai_dea_unscaled_A02S02XSK{p_end}
 {p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}dai_dea_unscaled_A02S02 Saskatchewan{p_end}
-{p 0 48}dai_inf_unscaled_A02S02XAB{p_end}
-{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}dai_inf_unscaled_A02S02 Alberta{p_end}
-{p 0 48}dai_inf_unscaled_A02S02XBC{p_end}
-{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}dai_inf_unscaled_A02S02 British Columbia{p_end}
-{p 0 48}dai_inf_unscaled_A02S02XMB{p_end}
-{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}dai_inf_unscaled_A02S02 Manitoba{p_end}
-{p 0 48}dai_inf_unscaled_A02S02XXX{p_end}
-{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}dai_inf_unscaled_A02S02 National{p_end}
-{p 0 48}dai_inf_unscaled_A02S02XNB{p_end}
-{p 0 48}{space 15}{txt}{bind: byte    }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}dai_inf_unscaled_A02S02 New Brunswick{p_end}
-{p 0 48}dai_inf_unscaled_A02S02XNL{p_end}
-{p 0 48}{space 15}{txt}{bind: byte    }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}dai_inf_unscaled_A02S02 Newfoundland and Labrador{p_end}
-{p 0 48}dai_inf_unscaled_A02S02XNS{p_end}
-{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}dai_inf_unscaled_A02S02 Nova Scotia{p_end}
-{p 0 48}dai_inf_unscaled_A02S02XON{p_end}
-{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}dai_inf_unscaled_A02S02 Ontario{p_end}
-{p 0 48}dai_inf_unscaled_A02S02XQC{p_end}
-{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}dai_inf_unscaled_A02S02 Quebec{p_end}
-{p 0 48}dai_inf_unscaled_A02S02XSK{p_end}
-{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}dai_inf_unscaled_A02S02 Saskatchewan{p_end}
 {p 0 48}mobility_mean_A02S02XAB{p_end}
 {p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}mobility_mean_A02S02 Alberta{p_end}
 {p 0 48}mobility_mean_A02S02XBC{p_end}
@@ -4457,26 +4518,6 @@ variable name   type    format     label      variable label
 {p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}dai_dea_unscaled_A02S03 Quebec{p_end}
 {p 0 48}dai_dea_unscaled_A02S03XSK{p_end}
 {p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}dai_dea_unscaled_A02S03 Saskatchewan{p_end}
-{p 0 48}dai_inf_unscaled_A02S03XAB{p_end}
-{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}dai_inf_unscaled_A02S03 Alberta{p_end}
-{p 0 48}dai_inf_unscaled_A02S03XBC{p_end}
-{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}dai_inf_unscaled_A02S03 British Columbia{p_end}
-{p 0 48}dai_inf_unscaled_A02S03XMB{p_end}
-{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}dai_inf_unscaled_A02S03 Manitoba{p_end}
-{p 0 48}dai_inf_unscaled_A02S03XXX{p_end}
-{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}dai_inf_unscaled_A02S03 National{p_end}
-{p 0 48}dai_inf_unscaled_A02S03XNB{p_end}
-{p 0 48}{space 15}{txt}{bind: byte    }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}dai_inf_unscaled_A02S03 New Brunswick{p_end}
-{p 0 48}dai_inf_unscaled_A02S03XNL{p_end}
-{p 0 48}{space 15}{txt}{bind: byte    }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}dai_inf_unscaled_A02S03 Newfoundland and Labrador{p_end}
-{p 0 48}dai_inf_unscaled_A02S03XNS{p_end}
-{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}dai_inf_unscaled_A02S03 Nova Scotia{p_end}
-{p 0 48}dai_inf_unscaled_A02S03XON{p_end}
-{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}dai_inf_unscaled_A02S03 Ontario{p_end}
-{p 0 48}dai_inf_unscaled_A02S03XQC{p_end}
-{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}dai_inf_unscaled_A02S03 Quebec{p_end}
-{p 0 48}dai_inf_unscaled_A02S03XSK{p_end}
-{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}dai_inf_unscaled_A02S03 Saskatchewan{p_end}
 {p 0 48}mobility_mean_A02S03XAB{p_end}
 {p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}mobility_mean_A02S03 Alberta{p_end}
 {p 0 48}mobility_mean_A02S03XBC{p_end}
@@ -4837,56 +4878,6 @@ variable name   type    format     label      variable label
 {p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}DayDMuMeSmA02S01 Quebec{p_end}
 {p 0 48}DayDMuMeSmA02S01XSK{p_end}
 {p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}DayDMuMeSmA02S01 Saskatchewan{p_end}
-{p 0 48}{bind:cumul_vaxXAB   }{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}cumul_vax Alberta{p_end}
-{p 0 48}{bind:cumul_vaxXBC   }{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}cumul_vax British Columbia{p_end}
-{p 0 48}{bind:cumul_vaxXMB   }{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}cumul_vax Manitoba{p_end}
-{p 0 48}{bind:cumul_vaxXXX   }{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}cumul_vax National{p_end}
-{p 0 48}{bind:cumul_vaxXNB   }{txt}{bind: byte    }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}cumul_vax New Brunswick{p_end}
-{p 0 48}{bind:cumul_vaxXNL   }{txt}{bind: byte    }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}cumul_vax Newfoundland and Labrador{p_end}
-{p 0 48}{bind:cumul_vaxXNS   }{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}cumul_vax Nova Scotia{p_end}
-{p 0 48}{bind:cumul_vaxXON   }{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}cumul_vax Ontario{p_end}
-{p 0 48}{bind:cumul_vaxXQC   }{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}cumul_vax Quebec{p_end}
-{p 0 48}{bind:cumul_vaxXSK   }{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}cumul_vax Saskatchewan{p_end}
-{p 0 48}cumul_effective_vaxXAB{p_end}
-{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}cumul_effective_vax Alberta{p_end}
-{p 0 48}cumul_effective_vaxXBC{p_end}
-{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}cumul_effective_vax British Columbia{p_end}
-{p 0 48}cumul_effective_vaxXMB{p_end}
-{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}cumul_effective_vax Manitoba{p_end}
-{p 0 48}cumul_effective_vaxXXX{p_end}
-{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}cumul_effective_vax National{p_end}
-{p 0 48}cumul_effective_vaxXNB{p_end}
-{p 0 48}{space 15}{txt}{bind: byte    }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}cumul_effective_vax New Brunswick{p_end}
-{p 0 48}cumul_effective_vaxXNL{p_end}
-{p 0 48}{space 15}{txt}{bind: byte    }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}cumul_effective_vax Newfoundland and Labrador{p_end}
-{p 0 48}cumul_effective_vaxXNS{p_end}
-{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}cumul_effective_vax Nova Scotia{p_end}
-{p 0 48}cumul_effective_vaxXON{p_end}
-{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}cumul_effective_vax Ontario{p_end}
-{p 0 48}cumul_effective_vaxXQC{p_end}
-{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}cumul_effective_vax Quebec{p_end}
-{p 0 48}cumul_effective_vaxXSK{p_end}
-{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}cumul_effective_vax Saskatchewan{p_end}
-{p 0 48}cumul_fully_vaxXAB{p_end}
-{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}cumul_fully_vax Alberta{p_end}
-{p 0 48}cumul_fully_vaxXBC{p_end}
-{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}cumul_fully_vax British Columbia{p_end}
-{p 0 48}cumul_fully_vaxXMB{p_end}
-{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}cumul_fully_vax Manitoba{p_end}
-{p 0 48}cumul_fully_vaxXXX{p_end}
-{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}cumul_fully_vax National{p_end}
-{p 0 48}cumul_fully_vaxXNB{p_end}
-{p 0 48}{space 15}{txt}{bind: byte    }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}cumul_fully_vax New Brunswick{p_end}
-{p 0 48}cumul_fully_vaxXNL{p_end}
-{p 0 48}{space 15}{txt}{bind: byte    }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}cumul_fully_vax Newfoundland and Labrador{p_end}
-{p 0 48}cumul_fully_vaxXNS{p_end}
-{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}cumul_fully_vax Nova Scotia{p_end}
-{p 0 48}cumul_fully_vaxXON{p_end}
-{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}cumul_fully_vax Ontario{p_end}
-{p 0 48}cumul_fully_vaxXQC{p_end}
-{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}cumul_fully_vax Quebec{p_end}
-{p 0 48}cumul_fully_vaxXSK{p_end}
-{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}cumul_fully_vax Saskatchewan{p_end}
 {p 0 48}cumul_vax_pctXAB{p_end}
 {p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}cumul_vax_pct Alberta{p_end}
 {p 0 48}cumul_vax_pctXBC{p_end}
@@ -4907,26 +4898,26 @@ variable name   type    format     label      variable label
 {p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}cumul_vax_pct Quebec{p_end}
 {p 0 48}cumul_vax_pctXSK{p_end}
 {p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}cumul_vax_pct Saskatchewan{p_end}
-{p 0 48}cumul_effec_vax_pctXAB{p_end}
-{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}cumul_effec_vax_pct Alberta{p_end}
-{p 0 48}cumul_effec_vax_pctXBC{p_end}
-{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}cumul_effec_vax_pct British Columbia{p_end}
-{p 0 48}cumul_effec_vax_pctXMB{p_end}
-{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}cumul_effec_vax_pct Manitoba{p_end}
-{p 0 48}cumul_effec_vax_pctXXX{p_end}
-{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}cumul_effec_vax_pct National{p_end}
-{p 0 48}cumul_effec_vax_pctXNB{p_end}
-{p 0 48}{space 15}{txt}{bind: byte    }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}cumul_effec_vax_pct New Brunswick{p_end}
-{p 0 48}cumul_effec_vax_pctXNL{p_end}
-{p 0 48}{space 15}{txt}{bind: byte    }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}cumul_effec_vax_pct Newfoundland and Labrador{p_end}
-{p 0 48}cumul_effec_vax_pctXNS{p_end}
-{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}cumul_effec_vax_pct Nova Scotia{p_end}
-{p 0 48}cumul_effec_vax_pctXON{p_end}
-{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}cumul_effec_vax_pct Ontario{p_end}
-{p 0 48}cumul_effec_vax_pctXQC{p_end}
-{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}cumul_effec_vax_pct Quebec{p_end}
-{p 0 48}cumul_effec_vax_pctXSK{p_end}
-{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}cumul_effec_vax_pct Saskatchewan{p_end}
+{p 0 48}cumul_effective_vax_pctXAB{p_end}
+{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}cumul_effective_vax_pct Alberta{p_end}
+{p 0 48}cumul_effective_vax_pctXBC{p_end}
+{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}cumul_effective_vax_pct British Columbia{p_end}
+{p 0 48}cumul_effective_vax_pctXMB{p_end}
+{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}cumul_effective_vax_pct Manitoba{p_end}
+{p 0 48}cumul_effective_vax_pctXXX{p_end}
+{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}cumul_effective_vax_pct National{p_end}
+{p 0 48}cumul_effective_vax_pctXNB{p_end}
+{p 0 48}{space 15}{txt}{bind: byte    }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}cumul_effective_vax_pct New Brunswick{p_end}
+{p 0 48}cumul_effective_vax_pctXNL{p_end}
+{p 0 48}{space 15}{txt}{bind: byte    }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}cumul_effective_vax_pct Newfoundland and Labrador{p_end}
+{p 0 48}cumul_effective_vax_pctXNS{p_end}
+{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}cumul_effective_vax_pct Nova Scotia{p_end}
+{p 0 48}cumul_effective_vax_pctXON{p_end}
+{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}cumul_effective_vax_pct Ontario{p_end}
+{p 0 48}cumul_effective_vax_pctXQC{p_end}
+{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}cumul_effective_vax_pct Quebec{p_end}
+{p 0 48}cumul_effective_vax_pctXSK{p_end}
+{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}cumul_effective_vax_pct Saskatchewan{p_end}
 {p 0 48}cumul_fully_vax_pctXAB{p_end}
 {p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}cumul_fully_vax_pct Alberta{p_end}
 {p 0 48}cumul_fully_vax_pctXBC{p_end}
@@ -4947,66 +4938,6 @@ variable name   type    format     label      variable label
 {p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}cumul_fully_vax_pct Quebec{p_end}
 {p 0 48}cumul_fully_vax_pctXSK{p_end}
 {p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}cumul_fully_vax_pct Saskatchewan{p_end}
-{p 0 48}daily_vax_numXAB{p_end}
-{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}daily_vax_num Alberta{p_end}
-{p 0 48}daily_vax_numXBC{p_end}
-{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}daily_vax_num British Columbia{p_end}
-{p 0 48}daily_vax_numXMB{p_end}
-{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}daily_vax_num Manitoba{p_end}
-{p 0 48}daily_vax_numXXX{p_end}
-{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}daily_vax_num National{p_end}
-{p 0 48}daily_vax_numXNB{p_end}
-{p 0 48}{space 15}{txt}{bind: byte    }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}daily_vax_num New Brunswick{p_end}
-{p 0 48}daily_vax_numXNL{p_end}
-{p 0 48}{space 15}{txt}{bind: byte    }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}daily_vax_num Newfoundland and Labrador{p_end}
-{p 0 48}daily_vax_numXNS{p_end}
-{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}daily_vax_num Nova Scotia{p_end}
-{p 0 48}daily_vax_numXON{p_end}
-{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}daily_vax_num Ontario{p_end}
-{p 0 48}daily_vax_numXQC{p_end}
-{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}daily_vax_num Quebec{p_end}
-{p 0 48}daily_vax_numXSK{p_end}
-{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}daily_vax_num Saskatchewan{p_end}
-{p 0 48}daily_effec_numXAB{p_end}
-{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}daily_effec_num Alberta{p_end}
-{p 0 48}daily_effec_numXBC{p_end}
-{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}daily_effec_num British Columbia{p_end}
-{p 0 48}daily_effec_numXMB{p_end}
-{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}daily_effec_num Manitoba{p_end}
-{p 0 48}daily_effec_numXXX{p_end}
-{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}daily_effec_num National{p_end}
-{p 0 48}daily_effec_numXNB{p_end}
-{p 0 48}{space 15}{txt}{bind: byte    }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}daily_effec_num New Brunswick{p_end}
-{p 0 48}daily_effec_numXNL{p_end}
-{p 0 48}{space 15}{txt}{bind: byte    }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}daily_effec_num Newfoundland and Labrador{p_end}
-{p 0 48}daily_effec_numXNS{p_end}
-{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}daily_effec_num Nova Scotia{p_end}
-{p 0 48}daily_effec_numXON{p_end}
-{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}daily_effec_num Ontario{p_end}
-{p 0 48}daily_effec_numXQC{p_end}
-{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}daily_effec_num Quebec{p_end}
-{p 0 48}daily_effec_numXSK{p_end}
-{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}daily_effec_num Saskatchewan{p_end}
-{p 0 48}daily_fully_numXAB{p_end}
-{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}daily_fully_num Alberta{p_end}
-{p 0 48}daily_fully_numXBC{p_end}
-{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}daily_fully_num British Columbia{p_end}
-{p 0 48}daily_fully_numXMB{p_end}
-{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}daily_fully_num Manitoba{p_end}
-{p 0 48}daily_fully_numXXX{p_end}
-{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}daily_fully_num National{p_end}
-{p 0 48}daily_fully_numXNB{p_end}
-{p 0 48}{space 15}{txt}{bind: byte    }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}daily_fully_num New Brunswick{p_end}
-{p 0 48}daily_fully_numXNL{p_end}
-{p 0 48}{space 15}{txt}{bind: byte    }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}daily_fully_num Newfoundland and Labrador{p_end}
-{p 0 48}daily_fully_numXNS{p_end}
-{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}daily_fully_num Nova Scotia{p_end}
-{p 0 48}daily_fully_numXON{p_end}
-{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}daily_fully_num Ontario{p_end}
-{p 0 48}daily_fully_numXQC{p_end}
-{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}daily_fully_num Quebec{p_end}
-{p 0 48}daily_fully_numXSK{p_end}
-{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}daily_fully_num Saskatchewan{p_end}
 {p 0 48}TotDeaMeRaA03S01{p_end}
 {p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}Total Deaths Mean A03 S01 {p_end}
 {p 0 48}TotDeaLoRaA03S01{p_end}
@@ -5593,7 +5524,7 @@ variable name   type    format     label      variable label
 {p 0 48}DayDERMeRaA03S03{p_end}
 {p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}Daily Deaths estim to reported Mean S3 IMPE{p_end}
 {p 0 48}DayDERMeRaA05S00{p_end}
-{p 0 48}{space 15}{txt}{bind: byte    }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}Daily Deaths estim to reported S0 SRIV{p_end}
+{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}Daily Deaths estim to reported S0 SRIV{p_end}
 {p 0 48}DayCERMeRaA00S00{p_end}
 {p 0 48}{space 15}{txt}{bind: byte    }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}Daily Cases estim to reported JOHN = 1{p_end}
 {p 0 48}DayCERMeRaA01S00{p_end}
@@ -5611,7 +5542,7 @@ variable name   type    format     label      variable label
 {p 0 48}DayIERMeRaA03S03{p_end}
 {p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}Daily infections estim to reported cases Mean S3 IMPE{p_end}
 {p 0 48}DayCERMeRaA05S00{p_end}
-{p 0 48}{space 15}{txt}{bind: byte    }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}Daily Cases estim to reported S0 SRIV{p_end}
+{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}Daily Cases estim to reported S0 SRIV{p_end}
 {p 0 48}DayCERMeRaA11S01{p_end}
 {p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}Daily Cases estim to reported S1 PHAC{p_end}
 {p 0 48}TotDERMeRaA00S00{p_end}
@@ -5631,7 +5562,7 @@ variable name   type    format     label      variable label
 {p 0 48}TotDERMeRaA03S03{p_end}
 {p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}Total Deaths estim to reported Mean S3 IMPE{p_end}
 {p 0 48}TotDERMeRaA05S00{p_end}
-{p 0 48}{space 15}{txt}{bind: byte    }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}Total Deaths estim to reported S0 SRIV{p_end}
+{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}Total Deaths estim to reported S0 SRIV{p_end}
 {p 0 48}TotCERMeRaA00S00{p_end}
 {p 0 48}{space 15}{txt}{bind: byte    }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}Total Cases estim to reported JOHN = 1{p_end}
 {p 0 48}TotCERMeRaA01S00{p_end}
@@ -5649,7 +5580,7 @@ variable name   type    format     label      variable label
 {p 0 48}TotIERMeRaA03S03{p_end}
 {p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}Total infections estim to reported cases Mean S3 IMPE{p_end}
 {p 0 48}TotCERMeRaA05S00{p_end}
-{p 0 48}{space 15}{txt}{bind: byte    }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}Total Cases estim to reported S0 SRIV{p_end}
+{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}Total Cases estim to reported S0 SRIV{p_end}
 {p 0 48}provincestate_mostaffected{p_end}
 {p 0 48}{space 15}{txt}{bind: str16   }{bind:{txt}%16s      }{space 1}{bind:         }{bind:  }{res}{res}{p_end}
 {p 0 48}{bind:datemax        }{txt}{bind: int     }{bind:{txt}%tdMonCCYY}{space 1}{bind:         }{bind:  }{res}{res}{p_end}
@@ -6476,7 +6407,7 @@ Sorted by: {res}loc_grand_name  provincestate  date
 > (line DayINFMeSmA02S01 date, sort lcolor(black)) /// 4 "IHME"
 > (line DayINFMeRaA03S02 date, sort lcolor(magenta)) /// 5 "IMPE"
 > (line DayCasMeRaA05S00 date, sort lcolor(green)) /// 6 "SRIV"
-> (line DayCasMeRaA11S01 date, sort lcolor(gray) lwidth(thick)) /// 7 "PHAC" 
+> (line DayCasMeRaA11S01 date, sort lcolor(gold) lwidth(thick)) /// 7 "PHAC" 
 > if date >= td(01jan2020) & date <= datemax & provincestate == " National" ///
 > , xtitle(Date) xlabel(#25, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 > xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
@@ -6511,7 +6442,7 @@ Sorted by: {res}loc_grand_name  provincestate  date
 > (line DayCasMeRaA01S00 date, sort lcolor(red*0.8) lwidth(medium) lpattern(tight_dot)) /// 3 "DELP raw"
 > (line DayCasMeSmA01S00 date, sort lcolor(red) lwidth(medthick)) /// 4 "DELP smooth"
 > (line DayINFMeSmA02S01 date, sort lcolor(black)) /// 5 "IHME"
-> (line DayCasMeRaA11S01 date, sort lcolor(gray) lwidth(thick)) /// 6 "PHAC"
+> (line DayCasMeRaA11S01 date, sort lcolor(gold) lwidth(thick)) /// 6 "PHAC"
 > if date >= td(01jan2020) & date <= datemax & provincestate == "`l'" ///
 > , xtitle(Date) xlabel(#25, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 > xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
@@ -6541,7 +6472,7 @@ Sorted by: {res}loc_grand_name  provincestate  date
 > (line DayINFMeSmA02S01 date, sort lcolor(black)) /// 4 "IHME"
 > (line DayINFMeRaA03S02 date, sort lcolor(magenta)) /// 5 "IMPE"
 > (line DayCasMeRaA05S00 date, sort lcolor(green)) /// 6 "SRIV"
-> (line DayCasMeRaA11S01 date, sort lcolor(gray) lwidth(thick)) /// 7 "PHAC"
+> (line DayCasMeRaA11S01 date, sort lcolor(gold) lwidth(thick)) /// 7 "PHAC"
 > if date >= td(01jan2021) & date <= datemax & provincestate == " National" ///
 > , xtitle(Date) xlabel(#12, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 > xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
@@ -6574,7 +6505,7 @@ Sorted by: {res}loc_grand_name  provincestate  date
 > (line DayCasMeSmA00S00 date, sort lcolor(cyan*1.2) lwidth(vthick)) /// 2 "JOHN smooth"
 > (line DayCasMeRaA01S00 date, sort lcolor(red)) /// 3 "DELP"
 > (line DayINFMeSmA02S01 date, sort lcolor(black)) /// 4 "IHME"
-> (line DayCasMeRaA11S01 date, sort lcolor(gray) lwidth(thick)) /// 5 "PHAC"
+> (line DayCasMeRaA11S01 date, sort lcolor(gold) lwidth(thick)) /// 5 "PHAC"
 > if date >= td(01jan2021) & date <= datemax & provincestate == "`l'" ///
 > , xtitle(Date) xlabel(#12, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 > xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
@@ -6612,9 +6543,9 @@ Sorted by: {res}loc_grand_name  provincestate  date
 > (line DayCasMeRaA05S00 date, sort lcolor(green)) /// 12 "SRIV" mean
 > (line DayCasLoRaA05S00 date, sort lcolor(green) lpattern(dash)) /// 13 "SRIV" lower
 > (line DayCasUpRaA05S00 date, sort lcolor(green) lpattern(dash)) /// 14 "SRIV" upper
-> (line DayCasMeRaA11S01 date, sort lcolor(gray) lwidth(thick)) /// 15 "PHAC" mean
-> (line DayCasLoRaA11S01 date, sort lcolor(gray) lwidth(thin) lpattern(dash)) /// 16 "PHAC" lower
-> (line DayCasUpRaA11S01 date, sort lcolor(gray) lwidth(thin) lpattern(dash)) /// 17 "PHAC" upper
+> (line DayCasMeRaA11S01 date, sort lcolor(gold) lwidth(thick)) /// 15 "PHAC" mean
+> (line DayCasLoRaA11S01 date, sort lcolor(gold) lwidth(thin) lpattern(dash)) /// 16 "PHAC" lower
+> (line DayCasUpRaA11S01 date, sort lcolor(gold) lwidth(thin) lpattern(dash)) /// 17 "PHAC" upper
 > if date >= td(01jan2021) & date <= datemax & provincestate == " National" ///
 > , xtitle(Date) xlabel(#12, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 > xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
@@ -6653,9 +6584,9 @@ Sorted by: {res}loc_grand_name  provincestate  date
 > (line DayINFMeSmA02S01 date, sort lcolor(black)) /// 6 IHME mean
 > (line DayINFLoSmA02S01 date, sort lcolor(black) lpattern(dash)) /// 7 IHME lower
 > (line DayINFUpSmA02S01 date, sort lcolor(black) lpattern(dash)) /// 8 IHME upper
-> (line DayCasMeRaA11S01 date, sort lcolor(gray) lwidth(thick)) /// 9 "PHAC" mean
-> (line DayCasLoRaA11S01 date, sort lcolor(gray) lwidth(thin) lpattern(dash)) /// 10 "PHAC" lower
-> (line DayCasUpRaA11S01 date, sort lcolor(gray) lwidth(thin) lpattern(dash)) /// 11 "PHAC" upper
+> (line DayCasMeRaA11S01 date, sort lcolor(gold) lwidth(thick)) /// 9 "PHAC" mean
+> (line DayCasLoRaA11S01 date, sort lcolor(gold) lwidth(thin) lpattern(dash)) /// 10 "PHAC" lower
+> (line DayCasUpRaA11S01 date, sort lcolor(gold) lwidth(thin) lpattern(dash)) /// 11 "PHAC" upper
 > if date >= td(01jan2021) & date <= datemax & provincestate == "`l'" ///
 > , xtitle(Date) xlabel(#12, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 > xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
@@ -6688,7 +6619,7 @@ Sorted by: {res}loc_grand_name  provincestate  date
 > (line DayINFMeRaA03S02 date, sort lcolor(magenta)) /// 6 IMPE mean, reference scenario
 > (line DayINFMeRaA03S01 date, sort lcolor(magenta) lwidth(thick) lpattern(tight_dot)) /// 7 IMPE mean, better scenario
 > (line DayINFMeRaA03S03 date, sort lcolor(magenta) lwidth(thick) lpattern(tight_dot)) /// 8 IMPE mean, worse scenario
-> (line DayCasMeRaA11S01 date, sort lwidth(thick) lcolor(gray)) /// 9 "PHAC" reference scenario
+> (line DayCasMeRaA11S01 date, sort lwidth(thick) lcolor(gold)) /// 9 "PHAC" reference scenario
 > (line DayCasMeRaA11S02 date, sort lwidth(thick) lcolor(green) ) /// 10 "PHAC" better scenario
 > (line DayCasMeRaA11S03 date, sort lwidth(thick) lcolor(red) ) /// 11 "PHAC" worse scenario
 > if date >= td(01jan2021) & date <= datemax & provincestate == " National" ///
@@ -6696,8 +6627,8 @@ Sorted by: {res}loc_grand_name  provincestate  date
 > xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 > ytitle(Daily cases or infections) title("COVID-19 daily cases or infections, $country, National", size(medium)) ///
 > xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
-> legend(order(1 "JOHN cases raw" 2 "JOHN cases smooth" 3 "IHME infections" 6 "IMPE infections" 9 "PHAC cases reference" ///
-> 10 "PHAC cases better scenario" 11 "PHAC worse scenario") size(small) row(4)) ///
+> legend(order(1 "JOHN cases raw" 2 "JOHN cases smooth" 3 "IHME infections" 6 "IMPE infections" 9 "PHAC cases reference scenario" ///
+> 10 "PHAC cases better scenario" 11 "PHAC cases worse scenario") size(small) row(4)) ///
 > subtitle("IHME and IMPE 3 scenarios, after 2021-01-01", size(small)) ///
 > note("Better and worse scenarios: tight dot (|||||) curves; IHME and IMPE") 
 {res}{txt}
@@ -6727,7 +6658,7 @@ Sorted by: {res}loc_grand_name  provincestate  date
 > (line DayINFMeSmA02S01 date, sort lcolor(black)) /// 3 IHME mean, reference scenario
 > (line DayINFMeSmA02S02 date, sort lcolor(green) lwidth(thick) lpattern(tight_dot)) /// 4 IHME mean, better scenario
 > (line DayINFMeSmA02S03 date, sort lcolor(red) lwidth(thick) lpattern(tight_dot)) /// 5 IHME mean, worse scenario
-> (line DayCasMeRaA11S01 date, sort lwidth(thick) lcolor(gray)) /// 6 "PHAC" reference scenario
+> (line DayCasMeRaA11S01 date, sort lwidth(thick) lcolor(gold)) /// 6 "PHAC" reference scenario
 > (line DayCasMeRaA11S02 date, sort lwidth(thick) lcolor(green) ) /// 7 "PHAC" better scenario
 > (line DayCasMeRaA11S03 date, sort lwidth(thick) lcolor(red) ) /// 8 "PHAC" worse scenario
 > if date >= td(01jan2021) & date <= datemax & provincestate == "`l'" ///
@@ -6736,8 +6667,8 @@ Sorted by: {res}loc_grand_name  provincestate  date
 > ytitle(Daily cases or infections) title("COVID-19 daily cases or infections, $country, `l'", size(medium)) ///
 > xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
 > legend(order(1 "JOHN cases raw" 2 "JOHN casessmooth" 3 "IHME infections reference" ///
-> 4 "IHME infections better" 5 "IHME infections worse" 7 "PHAC cases reference" ///
-> 8 "PHAC cases better scenario" 9 "PHAC worse scenario") size(small) row(3)) ///
+> 4 "IHME infections better" 5 "IHME infections worse" 7 "PHAC cases reference scenario" ///
+> 8 "PHAC cases better scenario" 9 "PHAC cases worse scenario") size(small) row(3)) ///
 > subtitle("IHME 3 scenarios, after 2021-01-01", size(small)) ///
 > note("Better and worse scenarios: tight dot (|||||) curves for IHME") 
 {txt}  3{com}. 
@@ -8718,7 +8649,7 @@ Sorted by: {res}loc_grand_name  provincestate  date
 . 
 . twoway ///
 > (line cumul_vax_pct date, sort lcolor(black)) ///
-> (line cumul_effec_vax_pct date, sort lcolor(blue)) ///
+> (line cumul_effective_vax_pct date, sort lcolor(blue)) ///
 > (line cumul_fully_vax_pct date, sort lcolor(green) lwidth(thick)) ///
 > if date >= td(01dec2020) & date <= datemax & provincestate == " National" ///
 > , xtitle(Date) xlabel(#13, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
@@ -8750,7 +8681,7 @@ Sorted by: {res}loc_grand_name  provincestate  date
 {txt}  2{com}. 
 . twoway ///
 > (line cumul_vax_pct date, sort lcolor(black)) ///
-> (line cumul_effec_vax_pct date, sort lcolor(blue)) ///
+> (line cumul_effective_vax_pct date, sort lcolor(blue)) ///
 > (line cumul_fully_vax_pct date, sort lcolor(green) lwidth(thick)) ///
 > if date >= td(01dec2020) & date <= datemax & provincestate == "`l'" ///
 > , xtitle(Date) xlabel(#13, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
@@ -8880,7 +8811,7 @@ Sorted by: {res}loc_grand_name  provincestate  date
       {txt}name:  {res}<unnamed>
        {txt}log:  {res}/Users/farshadpourmalek/Downloads/CovidVisualizedCountry-main/20211015/code/merge/log CovidVisualizedCountry merge.smcl
   {txt}log type:  {res}smcl
- {txt}closed on:  {res}15 Oct 2021, 14:42:38
+ {txt}closed on:  {res}16 Oct 2021, 22:35:30
 {txt}{.-}
 {smcl}
 {txt}{sf}{ul off}
