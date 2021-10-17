@@ -20,7 +20,7 @@ log using "log CovidVisualizedCountry IHME.smcl", replace
 
 
                                                                                                          ***************************
-* To change update date, find and replace all, 2021-10-01 (old), with 2021-10-01 (new) <<--       <<<--- * change update date here *
+* To change update date, find and replace all, 2021-10-15 (old), with 2021-10-15 (new) <<--       <<<--- * change update date here *
                                                                                                          ***************************
 
 
@@ -478,7 +478,8 @@ label var cumulative_hosp_A02S01 "IHME Cumulative hospitalizations (raw data) S1
 label var daily_deaths_A02S01 "IHME Daily deaths (raw data with excess mortality scalar applied) S1"
 label var daily_infections_A02S01 "IHME Daily infections (raw data)"
 label var cumul_deaths_unscaled_A02S01 "IHME umulative deaths (raw data without excess mortality scalar applied) S1"
-label var daily_infections_A02S01 "IHME Daily infections (raw data without excess mortality scalar applied)" // present in data, not present in data_dictionary.csv
+label var dai_dea_unscaled_A02S01 "IHME Daily deaths (raw data without excess mortality scalar applied) S1"
+
 
 
 
@@ -795,7 +796,7 @@ label var daily_deaths_A02S02 "IHME Daily deaths (raw data with excess mortality
 label var daily_infections_A02S02 "IHME Daily infections (raw data)"
 label var cumul_deaths_unscaled_A02S02 "IHME umulative deaths (raw data without excess mortality scalar applied) S2"
 label var dai_dea_unscaled_A02S02 "IHME Daily deaths (raw data without excess mortality scalar applied) S2"
-label var daily_infections_A02S02 "IHME Daily infections (raw data without excess mortality scalar applied)" // present in data, not present in data_dictionary.csv
+
 
 
 
@@ -1040,7 +1041,7 @@ label var daily_deaths_A02S03 "IHME Daily deaths (raw data with excess mortality
 label var daily_infections_A02S03 "IHME Daily infections (raw data)"
 label var cumul_deaths_unscaled_A02S03 "IHME umulative deaths (raw data without excess mortality scalar applied) S3"
 label var dai_dea_unscaled_A02S03 "IHME Daily deaths (raw data without excess mortality scalar applied) S3"
-label var daily_infections_A02S03 "IHME Daily infections (raw data without excess mortality scalar applied)" // present in data, not present in data_dictionary.csv
+
 
 
 
@@ -1228,31 +1229,18 @@ summ DayDMuMeSmA02S01
 
 
 
-* gen percent vaccinated - cumulative vaccinated percent 
+* gen percent vaccinated 
 
 gen cumul_vax_pct = 100 * (cumul_vax / population)
-label var cumul_vax_pct "% cumulative Initially vaccinated (one dose of two doses)"
+label var cumul_vax_pct "% population IHME Initially vaccinated (one dose of two doses)"
 
-gen cumul_effec_vax_pct = 100 * (cumul_effective_vax / population)
-label var cumul_effec_vax_pct "% cumulative Effectively vaccinated (one and two dose with efficacy)"
+gen cumul_effective_vax_pct = 100 * (cumul_effective_vax / population)
+label var cumul_effective_vax_pct "% population IHME Effectively vaccinated (one and two dose with efficacy)"
 
 gen cumul_fully_vax_pct = 100 * (cumul_fully_vax / population)
-label var cumul_fully_vax_pct "% cumulative Fully vaccinated (one of one and two of two doses)"
+label var cumul_fully_vax_pct "% population IHME Fully vaccinated (one of one and two of two doses)"
 
 *
-
-
-
-
-* gen daily vaccinated number 
-
-gen daily_vax_num = cumul_vax[_n] - cumul_vax[_n-1]
-label var daily_vax_num "Number daily Initially vaccinated (one dose of two doses)"
-gen daily_effec_num = cumul_effective_vax[_n] - cumul_effective_vax[_n-1]
-label var daily_effec_num "Number daily Effectively vaccinated (one and two dose with efficacy)"
-gen daily_fully_num = cumul_fully_vax[_n] - cumul_fully_vax[_n-1]
-label var daily_fully_num "Number daily Fully vaccinated (one of one and two of two doses)"
-
 
 
 
@@ -1268,9 +1256,11 @@ DayDeaMeSmA02S01 DayDeaLoSmA02S01 DayDeaUpSmA02S01 TotDeaMeSmA02S01 ///
 TotDeaLoSmA02S01 TotDeaUpSmA02S01 reff_mean_A02S01 reff_lower_A02S01 ///
 reff_upper_A02S01 cumulative_cases_A02S01 cumulative_deaths_A02S01 ///
 cumulative_hosp_A02S01 daily_deaths_A02S01 daily_infections_A02S01 ///
-cumul_deaths_unscaled_A02S01 dai_dea_unscaled_A02S01 daily_infections_A02S01 ///
+cumul_deaths_unscaled_A02S01 dai_dea_unscaled_A02S01 ///
 population mobility_mean_A02S01 mobility_obs testing_mean testing_lower testing_upper ///
 testing_obs pneumonia_mean pneumonia_obs mask_use_mean_A02S01 mask_use_obs ///
+cumul_vax cumul_effective_vax cumul_fully_vax ///
+DayBedMeSmA02S01 DayBedLoSmA02S01 DayBedUpSmA02S01 ///
 DayIcuMeSmA02S01 DayIcuUpSmA02S01 DayIcuLoSmA02S01 ///
 DayAdmMeSmA02S01 DayAdmUpSmA02S01 DayAdmLoSmA02S01 ///
 DayBEDMeSmA02 DayICUMeSmA02 infection_fatality_A02S01 ///
@@ -1282,7 +1272,7 @@ DayDeaLoSmA02S02 DayDeaUpSmA02S02 TotDeaMeSmA02S02 TotDeaLoSmA02S02 ///
 TotDeaUpSmA02S02 reff_mean_A02S02 reff_lower_A02S02 reff_upper_A02S02 ///
 cumulative_cases_A02S02 cumulative_deaths_A02S02 cumulative_hosp_A02S02	///
 daily_deaths_A02S02 daily_infections_A02S02 cumul_deaths_unscaled_A02S02 ///
-dai_dea_unscaled_A02S02 daily_infections_A02S02 mobility_mean_A02S02 ///
+dai_dea_unscaled_A02S02 mobility_mean_A02S02 ///
 mask_use_mean_A02S02 DayBedMeSmA02S02 DayBedLoSmA02S02 ///
 DayBedUpSmA02S02 DayIcuMeSmA02S02 DayIcuUpSmA02S02 DayIcuLoSmA02S02 ///
 DayAdmMeSmA02S02 DayAdmUpSmA02S02 DayAdmLoSmA02S02 /// 
@@ -1294,15 +1284,13 @@ DayDeaMeSmA02S03 DayDeaLoSmA02S03 DayDeaUpSmA02S03 TotDeaMeSmA02S03 ///
 TotDeaLoSmA02S03 TotDeaUpSmA02S03 reff_mean_A02S03 reff_lower_A02S03 ///
 reff_upper_A02S03 cumulative_cases_A02S03 cumulative_deaths_A02S03 ///
 cumulative_hosp_A02S03 daily_deaths_A02S03 daily_infections_A02S03 /// 
-cumul_deaths_unscaled_A02S03 dai_dea_unscaled_A02S03 daily_infections_A02S03 ///
+cumul_deaths_unscaled_A02S03 dai_dea_unscaled_A02S03 ///
 mobility_mean_A02S03 mask_use_mean_A02S03 DayBedMeSmA02S03 ///
 DayBedLoSmA02S03 DayBedUpSmA02S03 DayIcuMeSmA02S03 DayIcuUpSmA02S03 ///
 DayIcuLoSmA02S03 DayAdmMeSmA02S03 DayAdmUpSmA02S03 DayAdmLoSmA02S03 ///
 infection_fatality_A02S03 infection_detection_A02S03 inf_hosp_A02S03 ///
 DayDeMMeSmA02S01 DayCaMMeSmA02S01 DayCbDMeSmA02S01 DayDMuMeSmA02S01 ///
-cumul_vax cumul_effective_vax cumul_fully_vax ///
-cumul_vax_pct cumul_effec_vax_pct cumul_fully_vax_pct ///
-daily_vax_num daily_effec_num daily_fully_num {
+cumul_vax_pct cumul_effective_vax_pct cumul_fully_vax_pct {
 
 	 
 	qui gen `var'XAB = `var' 
@@ -2806,7 +2794,7 @@ qui graph export "graph 68a C-19 daily mobility, $country, `l', IHME, 3 scenario
 
 
 *****
-* 69a daily mask use Percent of population reporting always wearing a mask when leaving home
+* 69a daily mask_use Percent of population reporting always wearing a mask when leaving home
 
 levelsof provincestate, local(levels)
 
@@ -2858,7 +2846,7 @@ qui graph export "graph 70a C-19 daily ratio of pneumonia deaths, $country, `l',
 
 
 *****
-* 71a cumulative vaccinated number
+* 71a cumulative vaccinated
 
 levelsof provincestate, local(levels)
 
@@ -2867,19 +2855,19 @@ foreach l of local levels {
 twoway ///
 (line cumul_vax date, sort lcolor(black)) ///
 (line cumul_effective_vax date, sort lcolor(blue)) ///
-(line cumul_fully_vax date, sort lcolor(green) lwidth(vthick)) ///
+(line cumul_fully_vax date, sort lcolor(green)) ///
 if provincestate == "`l'" & date >= td(01dec2020) ///	   
 , xtitle(Date) xlabel(#13, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
-ytitle(Cumulative vaccinated number) title("C-19 cumulative vaccinated number, $country, `l', IHME", size(medium)) ///
+ytitle(Cumulative vaccinated) title("C-19 cumulative vaccinated, $country, `l', IHME", size(medium)) ///
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
 legend(order(1 "Vaccinated" 2 "Effectively vaccinated" 3 "Fully vaccinated") rows(1)) ///
 note("Vaccinated: Initially vaccinated (one dose of two doses)" ///
 "Effectively vaccinated: one and two dose with efficacy" ///
 "Fully vaccinated: one of one and two of two doses", size(small)) yscale(titlegap(4))
 
-qui graph save "graph 71a C-19 cumulative vaccinated number, $country, `l', IHME.gph", replace
-qui graph export "graph 71a C-19 cumulative vaccinated number, $country, `l', IHME.pdf", replace
+qui graph save "graph 71a C-19 cumulative vaccinated, $country, `l', IHME.gph", replace
+qui graph export "graph 71a C-19 cumulative vaccinated, $country, `l', IHME.pdf", replace
 
 }
 *
@@ -2888,7 +2876,7 @@ qui graph export "graph 71a C-19 cumulative vaccinated number, $country, `l', IH
 
 
 *****
-* 71b cumulative vaccinated percent
+* 71b percent cumulative vaccinated
 
 levelsof provincestate, local(levels)
 
@@ -2896,58 +2884,23 @@ foreach l of local levels {
 
 twoway ///
 (line cumul_vax_pct date, sort lcolor(black)) ///
-(line cumul_effec_vax_pct date, sort lcolor(blue)) ///
-(line cumul_fully_vax_pct date, sort lcolor(green) lwidth(vthick)) ///
+(line cumul_effective_vax_pct date, sort lcolor(blue)) ///
+(line cumul_fully_vax_pct date, sort lcolor(green)) ///
 if provincestate == "`l'" & date >= td(01dec2020) ///	   
 , xtitle(Date) xlabel(#13, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.1fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
-ytitle(Cumulative vaccinated percent) title("C-19, cumulative vaccinated percent, $country, `l', IHME", size(medium)) ///
+ytitle(% Cumulative vaccinated) title("C-19, % cumulative vaccinated, $country, `l', IHME", size(medium)) ///
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
-legend(order(1 "Vaccinated" 2 "Effectively vaccinated" 3 "Fully vaccinated") rows(1)) ///
+legend(order(1 "% Vaccinated" 2 "% Effectively vaccinated" 3 "% Fully vaccinated") rows(1)) ///
 note("Vaccinated: Initially vaccinated (one dose of two doses)" ///
 "Effectively vaccinated: one and two dose with efficacy" ///
 "Fully vaccinated: one of one and two of two doses", size(small)) yscale(titlegap(4))
 
-qui graph save "graph 71b C-19 cumulative vaccinated percent, $country, `l' IHME.gph", replace
-qui graph export "graph 71b C-19 cumulative vaccinated percent, $country, `l' IHME.pdf", replace
+qui graph save "graph 71b C-19 percent cumulative vaccinated, $country, `l' IHME.gph", replace
+qui graph export "graph 71b C-19 percent cumulative vaccinated, $country, `l' IHME.pdf", replace
 
 }
 *
-
-
-
-
-
-
-
-*****
-* 71c daily vaccinated number
-
-levelsof provincestate, local(levels)
-
-foreach l of local levels {
-
-twoway ///
-(line daily_vax_num date, sort lcolor(black)) ///
-(line daily_effec_num date, sort lcolor(blue)) ///
-(line daily_fully_num date, sort lcolor(green) lwidth(vthick)) ///
-if provincestate == "`l'" & date >= td(01dec2020) ///	   
-, xtitle(Date) xlabel(#13, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
-xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
-ytitle(Daily vaccinated number) title("C-19, daily vaccinated number, $country, `l', IHME", size(medium)) ///
-xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
-legend(order(1 "Vaccinated" 2 "Effectively vaccinated" 3 "Fully vaccinated") rows(1)) ///
-note("Vaccinated: Initially vaccinated (one dose of two doses)" ///
-"Effectively vaccinated: one and two dose with efficacy" ///
-"Fully vaccinated: one of one and two of two doses", size(small)) yscale(titlegap(4))
-
-qui graph save "graph 71c C-19 daily vaccinated number, $country, `l' IHME.gph", replace
-qui graph export "graph 71c C-19 daily vaccinated number, $country, `l' IHME.pdf", replace
-
-}
-*
-
-
 
 
 
@@ -2962,15 +2915,15 @@ foreach l of local levels {
 
 twoway ///
 (rarea reff_lower_A02S01 reff_upper_A02S01 date, sort color(black*.2)) ///
-(line reff_mean_A02S01 date, sort lcolor(black)) ///
 (line reff_mean_A02S02 date, sort lcolor(green)) ///
 (line reff_mean_A02S03 date, sort lcolor(red)) ///
+(line reff_mean_A02S01 date, sort lcolor(black)) ///
 if provincestate == "`l'" & date >= td(01dec2020) ///	   
 , xtitle(Date) xlabel(#24, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%12.1fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(R effective) title("C-19 R effective, $country, `l', IHME, 3 scenarios", size(medium)) ///
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
-legend(order(2 "Reference" 3 "Better" 4 "Worse" ) rows(1)) 
+legend(order(2 "Better" 4 "Worse" 2 "Reference" ) rows(1)) 
 
 qui graph save "graph 72a C-19 R effective, $country, `l', IHME, 3 scenarios.gph", replace
 qui graph export "graph 72a C-19 R effective, $country, `l', IHME, 3 scenarios.pdf", replace
