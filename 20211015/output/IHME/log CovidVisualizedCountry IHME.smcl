@@ -3,7 +3,7 @@
       name:  {res}<unnamed>
        {txt}log:  {res}/Users/farshadpourmalek/Downloads/CovidVisualizedCountry-main/20211015/code/IHME/log CovidVisualizedCountry IHME.smcl
   {txt}log type:  {res}smcl
- {txt}opened on:  {res}15 Oct 2021, 14:24:53
+ {txt}opened on:  {res}16 Oct 2021, 21:45:47
 {txt}
 {com}. 
 . ***************************************************************************
@@ -17,7 +17,7 @@
 . 
 . 
 .                                                                                                          ***************************
-. * To change update date, find and replace all, 2021-10-01 (old), with 2021-10-01 (new) <<--       <<<--- * change update date here *
+. * To change update date, find and replace all, 2021-10-15 (old), with 2021-10-15 (new) <<--       <<<--- * change update date here *
 .                                                                                                          ***************************
 . 
 . 
@@ -29,7 +29,7 @@
 . 
 . * get IHME estimates
 . 
-. * URLs as of  2021-10-01
+. * URLs as of  2021-10-15
 . 
 . copy https://ihmecovid19storage.blob.core.windows.net/latest/data_download_file_reference_2020.csv data_download_file_reference_2020.csv 
 {txt}
@@ -57,7 +57,7 @@
 . 
 . 
 . import delimited using data_download_file_reference_2020.csv, clear varnames(1)
-{res}{text}(61 vars, 124,059 obs)
+{res}{text}(60 vars, 124,612 obs)
 
 {com}. keep if location_name == "$country" | ///
 >         location_name == "Alberta" | /// provincestate names for "$country"
@@ -67,14 +67,14 @@
 >         location_name == "Ontario" | ///
 >         location_name == "Quebec" | ///
 >         location_name == "Saskatchewan" 
-{txt}(121,465 observations deleted)
+{txt}(121,998 observations deleted)
 
 {com}. save data_download_file_reference_2020.dta, replace
 {txt}file data_download_file_reference_2020.dta saved
 
 {com}. 
 . import delimited using data_download_file_reference_2021.csv, clear varnames(1)
-{res}{text}(61 vars, 140,178 obs)
+{res}{text}(60 vars, 139,812 obs)
 
 {com}. keep if location_name == "$country" | ///
 >         location_name == "Alberta" | /// provincestate names for "$country"
@@ -84,7 +84,7 @@
 >         location_name == "Ontario" | ///
 >         location_name == "Quebec" | ///
 >         location_name == "Saskatchewan" 
-{txt}(137,250 observations deleted)
+{txt}(136,884 observations deleted)
 
 {com}. save data_download_file_reference_2021.dta, replace
 {txt}file data_download_file_reference_2021.dta saved
@@ -94,7 +94,7 @@
 . 
 .         
 . import delimited using data_download_file_best_masks_2020.csv, clear varnames(1)
-{res}{text}(61 vars, 124,059 obs)
+{res}{text}(60 vars, 124,612 obs)
 
 {com}. keep if location_name == "$country" | ///
 >         location_name == "Alberta" | /// provincestate names for "$country"
@@ -104,14 +104,14 @@
 >         location_name == "Ontario" | ///
 >         location_name == "Quebec" | ///
 >         location_name == "Saskatchewan" 
-{txt}(121,465 observations deleted)
+{txt}(121,998 observations deleted)
 
 {com}. save data_download_file_best_masks_2020.dta, replace
 {txt}file data_download_file_best_masks_2020.dta saved
 
 {com}. 
 . import delimited using data_download_file_best_masks_2021.csv, clear varnames(1)
-{res}{text}(61 vars, 140,178 obs)
+{res}{text}(60 vars, 139,812 obs)
 
 {com}. keep if location_name == "$country" | ///
 >         location_name == "Alberta" | /// provincestate names for "$country"
@@ -121,7 +121,7 @@
 >         location_name == "Ontario" | ///
 >         location_name == "Quebec" | ///
 >         location_name == "Saskatchewan" 
-{txt}(137,250 observations deleted)
+{txt}(136,884 observations deleted)
 
 {com}. save data_download_file_best_masks_2021.dta, replace
 {txt}file data_download_file_best_masks_2021.dta saved
@@ -130,7 +130,7 @@
 .         
 .         
 . import delimited using data_download_file_worse_2020.csv, clear varnames(1)
-{res}{text}(61 vars, 124,059 obs)
+{res}{text}(60 vars, 124,612 obs)
 
 {com}. keep if location_name == "$country" | ///
 >         location_name == "Alberta" | /// provincestate names for "$country"
@@ -140,14 +140,14 @@
 >         location_name == "Ontario" | ///
 >         location_name == "Quebec" | ///
 >         location_name == "Saskatchewan" 
-{txt}(121,465 observations deleted)
+{txt}(121,998 observations deleted)
 
 {com}. save data_download_file_worse_2020.dta, replace
 {txt}file data_download_file_worse_2020.dta saved
 
 {com}. 
 . import delimited using data_download_file_worse_2021.csv, clear varnames(1)
-{res}{text}(61 vars, 140,178 obs)
+{res}{text}(60 vars, 139,812 obs)
 
 {com}. keep if location_name == "$country" | ///
 >         location_name == "Alberta" | /// provincestate names for "$country"
@@ -157,7 +157,7 @@
 >         location_name == "Ontario" | ///
 >         location_name == "Quebec" | ///
 >         location_name == "Saskatchewan" 
-{txt}(137,250 observations deleted)
+{txt}(136,884 observations deleted)
 
 {com}. save data_download_file_worse_2021.dta, replace
 {txt}file data_download_file_worse_2021.dta saved
@@ -173,7 +173,7 @@
 . use "data_download_file_reference_2020.dta", clear 
 {txt}
 {com}. 
-. local varlist reff_mean reff_lower reff_upper
+. local varlist reff_mean reff_lower reff_upper infection_fatality infection_detection infection_hospitalization
 {txt}
 {com}. 
 . foreach v of local varlist {c -(}
@@ -188,17 +188,29 @@
 {txt} 10{com}.     {c )-}
 {txt} 11{com}. {c )-}
 reff_mean contains string
-{txt}(133 real changes made)
+{txt}(279 real changes made)
 reff_mean: all characters numeric; {res}replaced {txt}as {res}double
-{txt}(574 missing values generated)
+{txt}(695 missing values generated)
 {res}reff_lower contains string
-{txt}(2 real changes made)
+{txt}(0 real changes made)
 reff_lower: all characters numeric; {res}replaced {txt}as {res}double
-{txt}(490 missing values generated)
+{txt}(466 missing values generated)
 {res}reff_upper contains string
-{txt}(2 real changes made)
+{txt}(13 real changes made)
 reff_upper: all characters numeric; {res}replaced {txt}as {res}double
-{txt}(562 missing values generated)
+{txt}(634 missing values generated)
+{res}infection_fatality contains string
+{txt}(43 real changes made)
+infection_fatality: all characters numeric; {res}replaced {txt}as {res}double
+{txt}(188 missing values generated)
+{res}infection_detection contains string
+{txt}(30 real changes made)
+infection_detection: all characters numeric; {res}replaced {txt}as {res}double
+{txt}(100 missing values generated)
+{res}infection_hospitalization contains string
+{txt}(30 real changes made)
+infection_hospitalization: all characters numeric; {res}replaced {txt}as {res}double
+{txt}(100 missing values generated)
 {res}{txt}
 {com}. *
 . 
@@ -212,7 +224,7 @@ reff_upper: all characters numeric; {res}replaced {txt}as {res}double
 {txt}
 {com}. 
 . 
-. local varlist reff_mean reff_lower reff_upper
+. local varlist reff_mean reff_lower reff_upper infection_fatality infection_detection infection_hospitalization
 {txt}
 {com}. 
 . foreach v of local varlist {c -(}
@@ -232,6 +244,9 @@ reff_mean: all characters numeric; {res}replaced {txt}as {res}double
 {txt}(366 missing values generated)
 {res}reff_lower is numeric
 reff_upper is numeric
+infection_fatality is numeric
+infection_detection is numeric
+infection_hospitalization is numeric
 {txt}
 {com}. *
 . 
@@ -250,6 +265,21 @@ float, now double to accommodate using data's values)
 reff_upper was 
 float, now double to accommodate using data's values)
 {p_end}
+{p 0 7 2}
+(note: variable
+infection_fatality was 
+float, now double to accommodate using data's values)
+{p_end}
+{p 0 7 2}
+(note: variable
+infection_detection was 
+float, now double to accommodate using data's values)
+{p_end}
+{p 0 7 2}
+(note: variable
+infection_hospitalization was 
+float, now double to accommodate using data's values)
+{p_end}
 
 {com}. 
 . save "data_download_file_reference_2020_21.dta", replace
@@ -261,7 +291,7 @@ float, now double to accommodate using data's values)
 . use "data_download_file_best_masks_2020.dta", clear
 {txt}
 {com}. 
-. local varlist reff_mean reff_lower reff_upper
+. local varlist reff_mean reff_lower reff_upper infection_fatality infection_detection infection_hospitalization
 {txt}
 {com}. 
 . foreach v of local varlist {c -(}
@@ -276,17 +306,29 @@ float, now double to accommodate using data's values)
 {txt} 10{com}.     {c )-}
 {txt} 11{com}. {c )-}
 reff_mean contains string
-{txt}(133 real changes made)
+{txt}(279 real changes made)
 reff_mean: all characters numeric; {res}replaced {txt}as {res}double
-{txt}(574 missing values generated)
+{txt}(695 missing values generated)
 {res}reff_lower contains string
-{txt}(2 real changes made)
+{txt}(0 real changes made)
 reff_lower: all characters numeric; {res}replaced {txt}as {res}double
-{txt}(490 missing values generated)
+{txt}(466 missing values generated)
 {res}reff_upper contains string
-{txt}(2 real changes made)
+{txt}(13 real changes made)
 reff_upper: all characters numeric; {res}replaced {txt}as {res}double
-{txt}(562 missing values generated)
+{txt}(634 missing values generated)
+{res}infection_fatality contains string
+{txt}(43 real changes made)
+infection_fatality: all characters numeric; {res}replaced {txt}as {res}double
+{txt}(188 missing values generated)
+{res}infection_detection contains string
+{txt}(30 real changes made)
+infection_detection: all characters numeric; {res}replaced {txt}as {res}double
+{txt}(100 missing values generated)
+{res}infection_hospitalization contains string
+{txt}(30 real changes made)
+infection_hospitalization: all characters numeric; {res}replaced {txt}as {res}double
+{txt}(100 missing values generated)
 {res}{txt}
 {com}. *
 . 
@@ -299,7 +341,7 @@ reff_upper: all characters numeric; {res}replaced {txt}as {res}double
 . use "data_download_file_best_masks_2021.dta", clear
 {txt}
 {com}. 
-. local varlist reff_mean reff_lower reff_upper
+. local varlist reff_mean reff_lower reff_upper infection_fatality infection_detection infection_hospitalization
 {txt}
 {com}. 
 . foreach v of local varlist {c -(}
@@ -319,6 +361,9 @@ reff_mean: all characters numeric; {res}replaced {txt}as {res}double
 {txt}(366 missing values generated)
 {res}reff_lower is numeric
 reff_upper is numeric
+infection_fatality is numeric
+infection_detection is numeric
+infection_hospitalization is numeric
 {txt}
 {com}. *
 . 
@@ -337,6 +382,21 @@ float, now double to accommodate using data's values)
 reff_upper was 
 float, now double to accommodate using data's values)
 {p_end}
+{p 0 7 2}
+(note: variable
+infection_fatality was 
+float, now double to accommodate using data's values)
+{p_end}
+{p 0 7 2}
+(note: variable
+infection_detection was 
+float, now double to accommodate using data's values)
+{p_end}
+{p 0 7 2}
+(note: variable
+infection_hospitalization was 
+float, now double to accommodate using data's values)
+{p_end}
 
 {com}. 
 . save "data_download_file_best_masks_2020_21.dta", replace
@@ -348,7 +408,7 @@ float, now double to accommodate using data's values)
 . use "data_download_file_worse_2020.dta", clear 
 {txt}
 {com}. 
-. local varlist reff_mean reff_lower reff_upper
+. local varlist reff_mean reff_lower reff_upper infection_fatality infection_detection infection_hospitalization
 {txt}
 {com}. 
 . foreach v of local varlist {c -(}
@@ -363,17 +423,29 @@ float, now double to accommodate using data's values)
 {txt} 10{com}.     {c )-}
 {txt} 11{com}. {c )-}
 reff_mean contains string
-{txt}(133 real changes made)
+{txt}(279 real changes made)
 reff_mean: all characters numeric; {res}replaced {txt}as {res}double
-{txt}(574 missing values generated)
+{txt}(695 missing values generated)
 {res}reff_lower contains string
-{txt}(2 real changes made)
+{txt}(0 real changes made)
 reff_lower: all characters numeric; {res}replaced {txt}as {res}double
-{txt}(490 missing values generated)
+{txt}(466 missing values generated)
 {res}reff_upper contains string
-{txt}(2 real changes made)
+{txt}(13 real changes made)
 reff_upper: all characters numeric; {res}replaced {txt}as {res}double
-{txt}(562 missing values generated)
+{txt}(634 missing values generated)
+{res}infection_fatality contains string
+{txt}(43 real changes made)
+infection_fatality: all characters numeric; {res}replaced {txt}as {res}double
+{txt}(188 missing values generated)
+{res}infection_detection contains string
+{txt}(30 real changes made)
+infection_detection: all characters numeric; {res}replaced {txt}as {res}double
+{txt}(100 missing values generated)
+{res}infection_hospitalization contains string
+{txt}(30 real changes made)
+infection_hospitalization: all characters numeric; {res}replaced {txt}as {res}double
+{txt}(100 missing values generated)
 {res}{txt}
 {com}. *
 . 
@@ -386,7 +458,7 @@ reff_upper: all characters numeric; {res}replaced {txt}as {res}double
 . use "data_download_file_worse_2021.dta", clear 
 {txt}
 {com}. 
-. local varlist reff_mean reff_lower reff_upper
+. local varlist reff_mean reff_lower reff_upper infection_fatality infection_detection infection_hospitalization
 {txt}
 {com}. 
 . foreach v of local varlist {c -(}
@@ -406,6 +478,9 @@ reff_mean: all characters numeric; {res}replaced {txt}as {res}double
 {txt}(366 missing values generated)
 {res}reff_lower is numeric
 reff_upper is numeric
+infection_fatality is numeric
+infection_detection is numeric
+infection_hospitalization is numeric
 {txt}
 {com}. *
 . 
@@ -422,6 +497,21 @@ float, now double to accommodate using data's values)
 {p 0 7 2}
 (note: variable
 reff_upper was 
+float, now double to accommodate using data's values)
+{p_end}
+{p 0 7 2}
+(note: variable
+infection_fatality was 
+float, now double to accommodate using data's values)
+{p_end}
+{p 0 7 2}
+(note: variable
+infection_detection was 
+float, now double to accommodate using data's values)
+{p_end}
+{p 0 7 2}
+(note: variable
+infection_hospitalization was 
 float, now double to accommodate using data's values)
 {p_end}
 
@@ -581,14 +671,14 @@ float, now double to accommodate using data's values)
 
 {col 18}range:  [{res}21949{txt},{res}22646{txt}]{col 55}units:  {res}1
 {col 8}{txt}or equivalently:  [{res}04feb2020{txt},{res}01jan2022{txt}]{col 55}units:  {res}days
-{col 10}{txt}unique values:  {res}698{col 51}{txt}missing .:  {res}0{txt}/{res}5,522
+{col 10}{txt}unique values:  {res}698{col 51}{txt}missing .:  {res}0{txt}/{res}5,542
 
-{txt}{col 19}mean:{res}{col 26} 22301.3{txt} = {res}21jan2021{txt} (+ 8 hours)
-{col 15}std. dev:{res}{col 26} 199.333
+{txt}{col 19}mean:{res}{col 26} 22300.1{txt} = {res}20jan2021{txt} (+ 3 hours)
+{col 15}std. dev:{res}{col 26}  200.03
 
 {txt}{col 12}percentiles:{col 32}10%{col 42}25%{col 52}50%{col 62}75%{col 72}90%
-{res}{col 27}   22025{col 37}   22129{col 47}   22301{col 57}   22474{col 67}   22577
-{col 26}20apr2020{col 36}02aug2020{col 46}21jan2021{col 56}13jul2021{col 66}24oct2021
+{res}{col 27}   22023{col 37}   22127{col 47}   22300{col 57}   22473{col 67}   22577
+{col 26}18apr2020{col 36}31jul2020{col 46}20jan2021{col 56}12jul2021{col 66}24oct2021
 {txt}
 {com}. drop year month day date2
 {txt}
@@ -729,11 +819,7 @@ float, now double to accommodate using data's values)
 {com}. label var dai_dea_unscaled_A02S01 "IHME Daily deaths (raw data without excess mortality scalar applied) S1"
 {txt}
 {com}. 
-. rename daily_infections_unscaled dai_inf_unscaled_A02S01
-{res}{txt}
-{com}. label var dai_inf_unscaled_A02S01 "IHME Daily infections (raw data without excess mortality scalar applied)" // present in data, not present in data_dictionary.csv
-{txt}
-{com}. 
+. 
 . 
 . 
 . 
@@ -1064,14 +1150,14 @@ float, now double to accommodate using data's values)
 
 {col 18}range:  [{res}21949{txt},{res}22646{txt}]{col 55}units:  {res}1
 {col 8}{txt}or equivalently:  [{res}04feb2020{txt},{res}01jan2022{txt}]{col 55}units:  {res}days
-{col 10}{txt}unique values:  {res}698{col 51}{txt}missing .:  {res}0{txt}/{res}5,522
+{col 10}{txt}unique values:  {res}698{col 51}{txt}missing .:  {res}0{txt}/{res}5,542
 
-{txt}{col 19}mean:{res}{col 26} 22301.3{txt} = {res}21jan2021{txt} (+ 8 hours)
-{col 15}std. dev:{res}{col 26} 199.333
+{txt}{col 19}mean:{res}{col 26} 22300.1{txt} = {res}20jan2021{txt} (+ 3 hours)
+{col 15}std. dev:{res}{col 26}  200.03
 
 {txt}{col 12}percentiles:{col 32}10%{col 42}25%{col 52}50%{col 62}75%{col 72}90%
-{res}{col 27}   22025{col 37}   22129{col 47}   22301{col 57}   22474{col 67}   22577
-{col 26}20apr2020{col 36}02aug2020{col 46}21jan2021{col 56}13jul2021{col 66}24oct2021
+{res}{col 27}   22023{col 37}   22127{col 47}   22300{col 57}   22473{col 67}   22577
+{col 26}18apr2020{col 36}31jul2020{col 46}20jan2021{col 56}12jul2021{col 66}24oct2021
 {txt}
 {com}. drop year month day date2
 {txt}
@@ -1212,11 +1298,7 @@ float, now double to accommodate using data's values)
 {com}. label var dai_dea_unscaled_A02S02 "IHME Daily deaths (raw data without excess mortality scalar applied) S2"
 {txt}
 {com}. 
-. rename daily_infections_unscaled dai_inf_unscaled_A02S02
-{res}{txt}
-{com}. label var dai_inf_unscaled_A02S02 "IHME Daily infections (raw data without excess mortality scalar applied)" // present in data, not present in data_dictionary.csv
-{txt}
-{com}. 
+. 
 . 
 . 
 . 
@@ -1475,14 +1557,14 @@ float, now double to accommodate using data's values)
 
 {col 18}range:  [{res}21949{txt},{res}22646{txt}]{col 55}units:  {res}1
 {col 8}{txt}or equivalently:  [{res}04feb2020{txt},{res}01jan2022{txt}]{col 55}units:  {res}days
-{col 10}{txt}unique values:  {res}698{col 51}{txt}missing .:  {res}0{txt}/{res}5,522
+{col 10}{txt}unique values:  {res}698{col 51}{txt}missing .:  {res}0{txt}/{res}5,542
 
-{txt}{col 19}mean:{res}{col 26} 22301.3{txt} = {res}21jan2021{txt} (+ 8 hours)
-{col 15}std. dev:{res}{col 26} 199.333
+{txt}{col 19}mean:{res}{col 26} 22300.1{txt} = {res}20jan2021{txt} (+ 3 hours)
+{col 15}std. dev:{res}{col 26}  200.03
 
 {txt}{col 12}percentiles:{col 32}10%{col 42}25%{col 52}50%{col 62}75%{col 72}90%
-{res}{col 27}   22025{col 37}   22129{col 47}   22301{col 57}   22474{col 67}   22577
-{col 26}20apr2020{col 36}02aug2020{col 46}21jan2021{col 56}13jul2021{col 66}24oct2021
+{res}{col 27}   22023{col 37}   22127{col 47}   22300{col 57}   22473{col 67}   22577
+{col 26}18apr2020{col 36}31jul2020{col 46}20jan2021{col 56}12jul2021{col 66}24oct2021
 {txt}
 {com}. drop year month day date2
 {txt}
@@ -1623,11 +1705,7 @@ float, now double to accommodate using data's values)
 {com}. label var dai_dea_unscaled_A02S03 "IHME Daily deaths (raw data without excess mortality scalar applied) S3"
 {txt}
 {com}. 
-. rename daily_infections_unscaled dai_inf_unscaled_A02S03
-{res}{txt}
-{com}. label var dai_inf_unscaled_A02S03 "IHME Daily infections (raw data without excess mortality scalar applied)" // present in data, not present in data_dictionary.csv
-{txt}
-{com}. 
+. 
 . 
 . 
 . 
@@ -1864,7 +1942,7 @@ float, now double to accommodate using data's values)
 {txt}{col 5}Result{col 38}# of obs.
 {col 5}{hline 41}
 {col 5}not matched{col 30}{res}               0
-{txt}{col 5}matched{col 30}{res}           5,522{txt}  (_merge==3)
+{txt}{col 5}matched{col 30}{res}           5,542{txt}  (_merge==3)
 {col 5}{hline 41}
 
 {com}. drop _merge
@@ -1874,7 +1952,7 @@ float, now double to accommodate using data's values)
 {txt}{col 5}Result{col 38}# of obs.
 {col 5}{hline 41}
 {col 5}not matched{col 30}{res}               0
-{txt}{col 5}matched{col 30}{res}           5,522{txt}  (_merge==3)
+{txt}{col 5}matched{col 30}{res}           5,542{txt}  (_merge==3)
 {col 5}{hline 41}
 
 {com}. drop _merge
@@ -1900,7 +1978,7 @@ float, now double to accommodate using data's values)
 
 {txt}    Variable {c |}        Obs        Mean    Std. Dev.       Min        Max
 {hline 13}{c +}{hline 57}
-DayDeaMeS~01 {c |}{res}      5,522    13.54385    29.51813          0     289.55
+DayDeaMeS~01 {c |}{res}      5,537    11.55034    23.61563          0     179.44
 {txt}
 {com}. gen DayDeMMeSmA02S01 = r(mean)
 {txt}
@@ -1911,7 +1989,7 @@ DayDeaMeS~01 {c |}{res}      5,522    13.54385    29.51813          0     289.55
 
 {txt}    Variable {c |}        Obs        Mean    Std. Dev.       Min        Max
 {hline 13}{c +}{hline 57}
-DayINFMeS~01 {c |}{res}      5,522    3262.687    7822.055          0   79113.92
+DayINFMeS~01 {c |}{res}      5,542    3543.023    6234.716          0   57517.74
 {txt}
 {com}. gen DayCaMMeSmA02S01 = r(mean)
 {txt}
@@ -1926,65 +2004,44 @@ DayINFMeS~01 {c |}{res}      5,522    3262.687    7822.055          0   79113.92
 
 {txt}    Variable {c |}        Obs        Mean    Std. Dev.       Min        Max
 {hline 13}{c +}{hline 57}
-DayCbDMeS~01 {c |}{res}      5,522     240.898           0    240.898    240.898
+DayCbDMeS~01 {c |}{res}      5,542    306.7463           0   306.7463   306.7463
 {txt}
 {com}.                                               
 . gen DayDMuMeSmA02S01 = DayDeaMeSmA02S01 * DayCbDMeSmA02S01
-{txt}
+{txt}(5 missing values generated)
+
 {com}. label var DayDMuMeSmA02S01 "Daily deaths scaled (times means of infections by deaths) IHME"
 {txt}
 {com}. summ DayDMuMeSmA02S01
 
 {txt}    Variable {c |}        Obs        Mean    Std. Dev.       Min        Max
 {hline 13}{c +}{hline 57}
-DayDMuMeS~01 {c |}{res}      5,522    3262.687    7110.857          0   69752.01
+DayDMuMeS~01 {c |}{res}      5,537    3543.023    7244.008          0   55042.56
 {txt}
 {com}. 
 . 
 . 
-. * gen percent vaccinated - cumulative vaccinated percent 
+. * gen percent vaccinated 
 . 
 . gen cumul_vax_pct = 100 * (cumul_vax / population)
-{txt}(2,346 missing values generated)
+{txt}(2,366 missing values generated)
 
-{com}. label var cumul_vax_pct "% cumulative Initially vaccinated (one dose of two doses)"
+{com}. label var cumul_vax_pct "% population IHME Initially vaccinated (one dose of two doses)"
 {txt}
 {com}. 
-. gen cumul_effec_vax_pct = 100 * (cumul_effective_vax / population)
-{txt}(2,346 missing values generated)
+. gen cumul_effective_vax_pct = 100 * (cumul_effective_vax / population)
+{txt}(2,366 missing values generated)
 
-{com}. label var cumul_effec_vax_pct "% cumulative Effectively vaccinated (one and two dose with efficacy)"
+{com}. label var cumul_effective_vax_pct "% population IHME Effectively vaccinated (one and two dose with efficacy)"
 {txt}
 {com}. 
 . gen cumul_fully_vax_pct = 100 * (cumul_fully_vax / population)
-{txt}(2,346 missing values generated)
+{txt}(2,366 missing values generated)
 
-{com}. label var cumul_fully_vax_pct "% cumulative Fully vaccinated (one of one and two of two doses)"
+{com}. label var cumul_fully_vax_pct "% population IHME Fully vaccinated (one of one and two of two doses)"
 {txt}
 {com}. 
 . *
-. 
-. 
-. 
-. 
-. * gen daily vaccinated number 
-. 
-. gen daily_vax_num = cumul_vax[_n] - cumul_vax[_n-1]
-{txt}(2,354 missing values generated)
-
-{com}. label var daily_vax_num "Number daily Initially vaccinated (one dose of two doses)"
-{txt}
-{com}. gen daily_effec_num = cumul_effective_vax[_n] - cumul_effective_vax[_n-1]
-{txt}(2,354 missing values generated)
-
-{com}. label var daily_effec_num "Number daily Effectively vaccinated (one and two dose with efficacy)"
-{txt}
-{com}. gen daily_fully_num = cumul_fully_vax[_n] - cumul_fully_vax[_n-1]
-{txt}(2,354 missing values generated)
-
-{com}. label var daily_fully_num "Number daily Fully vaccinated (one of one and two of two doses)"
-{txt}
-{com}. 
 . 
 . 
 . 
@@ -2000,9 +2057,11 @@ DayDMuMeS~01 {c |}{res}      5,522    3262.687    7110.857          0   69752.01
 > TotDeaLoSmA02S01 TotDeaUpSmA02S01 reff_mean_A02S01 reff_lower_A02S01 ///
 > reff_upper_A02S01 cumulative_cases_A02S01 cumulative_deaths_A02S01 ///
 > cumulative_hosp_A02S01 daily_deaths_A02S01 daily_infections_A02S01 ///
-> cumul_deaths_unscaled_A02S01 dai_dea_unscaled_A02S01 dai_inf_unscaled_A02S01 ///
+> cumul_deaths_unscaled_A02S01 dai_dea_unscaled_A02S01 ///
 > population mobility_mean_A02S01 mobility_obs testing_mean testing_lower testing_upper ///
 > testing_obs pneumonia_mean pneumonia_obs mask_use_mean_A02S01 mask_use_obs ///
+> cumul_vax cumul_effective_vax cumul_fully_vax ///
+> DayBedMeSmA02S01 DayBedLoSmA02S01 DayBedUpSmA02S01 ///
 > DayIcuMeSmA02S01 DayIcuUpSmA02S01 DayIcuLoSmA02S01 ///
 > DayAdmMeSmA02S01 DayAdmUpSmA02S01 DayAdmLoSmA02S01 ///
 > DayBEDMeSmA02 DayICUMeSmA02 infection_fatality_A02S01 ///
@@ -2014,7 +2073,7 @@ DayDMuMeS~01 {c |}{res}      5,522    3262.687    7110.857          0   69752.01
 > TotDeaUpSmA02S02 reff_mean_A02S02 reff_lower_A02S02 reff_upper_A02S02 ///
 > cumulative_cases_A02S02 cumulative_deaths_A02S02 cumulative_hosp_A02S02 ///
 > daily_deaths_A02S02 daily_infections_A02S02 cumul_deaths_unscaled_A02S02 ///
-> dai_dea_unscaled_A02S02 dai_inf_unscaled_A02S02 mobility_mean_A02S02 ///
+> dai_dea_unscaled_A02S02 mobility_mean_A02S02 ///
 > mask_use_mean_A02S02 DayBedMeSmA02S02 DayBedLoSmA02S02 ///
 > DayBedUpSmA02S02 DayIcuMeSmA02S02 DayIcuUpSmA02S02 DayIcuLoSmA02S02 ///
 > DayAdmMeSmA02S02 DayAdmUpSmA02S02 DayAdmLoSmA02S02 /// 
@@ -2026,15 +2085,13 @@ DayDMuMeS~01 {c |}{res}      5,522    3262.687    7110.857          0   69752.01
 > TotDeaLoSmA02S03 TotDeaUpSmA02S03 reff_mean_A02S03 reff_lower_A02S03 ///
 > reff_upper_A02S03 cumulative_cases_A02S03 cumulative_deaths_A02S03 ///
 > cumulative_hosp_A02S03 daily_deaths_A02S03 daily_infections_A02S03 /// 
-> cumul_deaths_unscaled_A02S03 dai_dea_unscaled_A02S03 dai_inf_unscaled_A02S03 ///
+> cumul_deaths_unscaled_A02S03 dai_dea_unscaled_A02S03 ///
 > mobility_mean_A02S03 mask_use_mean_A02S03 DayBedMeSmA02S03 ///
 > DayBedLoSmA02S03 DayBedUpSmA02S03 DayIcuMeSmA02S03 DayIcuUpSmA02S03 ///
 > DayIcuLoSmA02S03 DayAdmMeSmA02S03 DayAdmUpSmA02S03 DayAdmLoSmA02S03 ///
 > infection_fatality_A02S03 infection_detection_A02S03 inf_hosp_A02S03 ///
 > DayDeMMeSmA02S01 DayCaMMeSmA02S01 DayCbDMeSmA02S01 DayDMuMeSmA02S01 ///
-> cumul_vax cumul_effective_vax cumul_fully_vax ///
-> cumul_vax_pct cumul_effec_vax_pct cumul_fully_vax_pct ///
-> daily_vax_num daily_effec_num daily_fully_num {c -(}
+> cumul_vax_pct cumul_effective_vax_pct cumul_fully_vax_pct {c -(}
 {txt}  2{com}. 
 .          
 .         qui gen `var'XAB = `var' 
@@ -3700,7 +3757,7 @@ DayDMuMeS~01 {c |}{res}      5,522    3262.687    7110.857          0   69752.01
 . 
 . 
 . *****
-. * 69a daily mask use Percent of population reporting always wearing a mask when leaving home
+. * 69a daily mask_use Percent of population reporting always wearing a mask when leaving home
 . 
 . levelsof provincestate, local(levels)
 {txt}`" National"' `"Alberta"' `"British Columbia"' `"Manitoba"' `"Nova Scotia"' `"Ontario"' `"Quebec"' `"Saskatchewan"'
@@ -3758,7 +3815,7 @@ DayDMuMeS~01 {c |}{res}      5,522    3262.687    7110.857          0   69752.01
 . 
 . 
 . *****
-. * 71a cumulative vaccinated number
+. * 71a cumulative vaccinated
 . 
 . levelsof provincestate, local(levels)
 {txt}`" National"' `"Alberta"' `"British Columbia"' `"Manitoba"' `"Nova Scotia"' `"Ontario"' `"Quebec"' `"Saskatchewan"'
@@ -3769,19 +3826,19 @@ DayDMuMeS~01 {c |}{res}      5,522    3262.687    7110.857          0   69752.01
 . twoway ///
 > (line cumul_vax date, sort lcolor(black)) ///
 > (line cumul_effective_vax date, sort lcolor(blue)) ///
-> (line cumul_fully_vax date, sort lcolor(green) lwidth(vthick)) ///
+> (line cumul_fully_vax date, sort lcolor(green)) ///
 > if provincestate == "`l'" & date >= td(01dec2020) ///      
 > , xtitle(Date) xlabel(#13, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 > xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
-> ytitle(Cumulative vaccinated number) title("C-19 cumulative vaccinated number, $country, `l', IHME", size(medium)) ///
+> ytitle(Cumulative vaccinated) title("C-19 cumulative vaccinated, $country, `l', IHME", size(medium)) ///
 > xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
 > legend(order(1 "Vaccinated" 2 "Effectively vaccinated" 3 "Fully vaccinated") rows(1)) ///
 > note("Vaccinated: Initially vaccinated (one dose of two doses)" ///
 > "Effectively vaccinated: one and two dose with efficacy" ///
 > "Fully vaccinated: one of one and two of two doses", size(small)) yscale(titlegap(4))
 {txt}  3{com}. 
-. qui graph save "graph 71a C-19 cumulative vaccinated number, $country, `l', IHME.gph", replace
-{txt}  4{com}. qui graph export "graph 71a C-19 cumulative vaccinated number, $country, `l', IHME.pdf", replace
+. qui graph save "graph 71a C-19 cumulative vaccinated, $country, `l', IHME.gph", replace
+{txt}  4{com}. qui graph export "graph 71a C-19 cumulative vaccinated, $country, `l', IHME.pdf", replace
 {txt}  5{com}. 
 . {c )-}
 {res}{txt}
@@ -3791,7 +3848,7 @@ DayDMuMeS~01 {c |}{res}      5,522    3262.687    7110.857          0   69752.01
 . 
 . 
 . *****
-. * 71b cumulative vaccinated percent
+. * 71b percent cumulative vaccinated
 . 
 . levelsof provincestate, local(levels)
 {txt}`" National"' `"Alberta"' `"British Columbia"' `"Manitoba"' `"Nova Scotia"' `"Ontario"' `"Quebec"' `"Saskatchewan"'
@@ -3801,62 +3858,24 @@ DayDMuMeS~01 {c |}{res}      5,522    3262.687    7110.857          0   69752.01
 {txt}  2{com}. 
 . twoway ///
 > (line cumul_vax_pct date, sort lcolor(black)) ///
-> (line cumul_effec_vax_pct date, sort lcolor(blue)) ///
-> (line cumul_fully_vax_pct date, sort lcolor(green) lwidth(vthick)) ///
+> (line cumul_effective_vax_pct date, sort lcolor(blue)) ///
+> (line cumul_fully_vax_pct date, sort lcolor(green)) ///
 > if provincestate == "`l'" & date >= td(01dec2020) ///      
 > , xtitle(Date) xlabel(#13, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 > xlabel(, angle(forty_five)) ylabel(, format(%15.1fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
-> ytitle(Cumulative vaccinated percent) title("C-19, cumulative vaccinated percent, $country, `l', IHME", size(medium)) ///
+> ytitle(% Cumulative vaccinated) title("C-19, % cumulative vaccinated, $country, `l', IHME", size(medium)) ///
 > xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
-> legend(order(1 "Vaccinated" 2 "Effectively vaccinated" 3 "Fully vaccinated") rows(1)) ///
+> legend(order(1 "% Vaccinated" 2 "% Effectively vaccinated" 3 "% Fully vaccinated") rows(1)) ///
 > note("Vaccinated: Initially vaccinated (one dose of two doses)" ///
 > "Effectively vaccinated: one and two dose with efficacy" ///
 > "Fully vaccinated: one of one and two of two doses", size(small)) yscale(titlegap(4))
 {txt}  3{com}. 
-. qui graph save "graph 71b C-19 cumulative vaccinated percent, $country, `l' IHME.gph", replace
-{txt}  4{com}. qui graph export "graph 71b C-19 cumulative vaccinated percent, $country, `l' IHME.pdf", replace
+. qui graph save "graph 71b C-19 percent cumulative vaccinated, $country, `l' IHME.gph", replace
+{txt}  4{com}. qui graph export "graph 71b C-19 percent cumulative vaccinated, $country, `l' IHME.pdf", replace
 {txt}  5{com}. 
 . {c )-}
 {res}{txt}
 {com}. *
-. 
-. 
-. 
-. 
-. 
-. 
-. 
-. *****
-. * 71c daily vaccinated number
-. 
-. levelsof provincestate, local(levels)
-{txt}`" National"' `"Alberta"' `"British Columbia"' `"Manitoba"' `"Nova Scotia"' `"Ontario"' `"Quebec"' `"Saskatchewan"'
-
-{com}. 
-. foreach l of local levels {c -(}
-{txt}  2{com}. 
-. twoway ///
-> (line daily_vax_num date, sort lcolor(black)) ///
-> (line daily_effec_num date, sort lcolor(blue)) ///
-> (line daily_fully_num date, sort lcolor(green) lwidth(vthick)) ///
-> if provincestate == "`l'" & date >= td(01dec2020) ///      
-> , xtitle(Date) xlabel(#13, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
-> xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
-> ytitle(Daily vaccinated number) title("C-19, daily vaccinated number, $country, `l', IHME", size(medium)) ///
-> xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
-> legend(order(1 "Vaccinated" 2 "Effectively vaccinated" 3 "Fully vaccinated") rows(1)) ///
-> note("Vaccinated: Initially vaccinated (one dose of two doses)" ///
-> "Effectively vaccinated: one and two dose with efficacy" ///
-> "Fully vaccinated: one of one and two of two doses", size(small)) yscale(titlegap(4))
-{txt}  3{com}. 
-. qui graph save "graph 71c C-19 daily vaccinated number, $country, `l' IHME.gph", replace
-{txt}  4{com}. qui graph export "graph 71c C-19 daily vaccinated number, $country, `l' IHME.pdf", replace
-{txt}  5{com}. 
-. {c )-}
-{res}{txt}
-{com}. *
-. 
-. 
 . 
 . 
 . 
@@ -3968,7 +3987,7 @@ DayDMuMeS~01 {c |}{res}      5,522    3262.687    7110.857          0   69752.01
       {txt}name:  {res}<unnamed>
        {txt}log:  {res}/Users/farshadpourmalek/Downloads/CovidVisualizedCountry-main/20211015/code/IHME/log CovidVisualizedCountry IHME.smcl
   {txt}log type:  {res}smcl
- {txt}closed on:  {res}15 Oct 2021, 14:34:43
+ {txt}closed on:  {res}16 Oct 2021, 21:53:39
 {txt}{.-}
 {smcl}
 {txt}{sf}{ul off}
