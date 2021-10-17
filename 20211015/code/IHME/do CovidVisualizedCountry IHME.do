@@ -129,7 +129,7 @@ save data_download_file_worse_2021.dta, replace
 
 use "data_download_file_reference_2020.dta", clear 
 
-local varlist reff_mean reff_lower reff_upper
+local varlist reff_mean reff_lower reff_upper infection_fatality infection_detection infection_hospitalization
 
 foreach v of local varlist {
 	capture confirm numeric variable `v'
@@ -151,7 +151,7 @@ save "data_download_file_reference_2020.dta", replace
 use "data_download_file_reference_2021.dta", clear 
 
 
-local varlist reff_mean reff_lower reff_upper
+local varlist reff_mean reff_lower reff_upper infection_fatality infection_detection infection_hospitalization
 
 foreach v of local varlist {
 	capture confirm numeric variable `v'
@@ -176,7 +176,7 @@ save "data_download_file_reference_2020_21.dta", replace
 
 use "data_download_file_best_masks_2020.dta", clear
 
-local varlist reff_mean reff_lower reff_upper
+local varlist reff_mean reff_lower reff_upper infection_fatality infection_detection infection_hospitalization
 
 foreach v of local varlist {
 	capture confirm numeric variable `v'
@@ -197,7 +197,7 @@ save "data_download_file_best_masks_2020.dta", replace
 
 use "data_download_file_best_masks_2021.dta", clear
 
-local varlist reff_mean reff_lower reff_upper
+local varlist reff_mean reff_lower reff_upper infection_fatality infection_detection infection_hospitalization
 
 foreach v of local varlist {
 	capture confirm numeric variable `v'
@@ -222,7 +222,7 @@ save "data_download_file_best_masks_2020_21.dta", replace
 
 use "data_download_file_worse_2020.dta", clear 
 
-local varlist reff_mean reff_lower reff_upper
+local varlist reff_mean reff_lower reff_upper infection_fatality infection_detection infection_hospitalization
 
 foreach v of local varlist {
 	capture confirm numeric variable `v'
@@ -243,7 +243,7 @@ save "data_download_file_worse_2020.dta", replace
 
 use "data_download_file_worse_2021.dta", clear 
 
-local varlist reff_mean reff_lower reff_upper
+local varlist reff_mean reff_lower reff_upper infection_fatality infection_detection infection_hospitalization
 
 foreach v of local varlist {
 	capture confirm numeric variable `v'
@@ -480,8 +480,8 @@ label var daily_infections_A02S01 "IHME Daily infections (raw data)"
 label var cumul_deaths_unscaled_A02S01 "IHME umulative deaths (raw data without excess mortality scalar applied) S1"
 label var dai_dea_unscaled_A02S01 "IHME Daily deaths (raw data without excess mortality scalar applied) S1"
 
-rename daily_infections_unscaled dai_inf_unscaled_A02S01
-label var dai_inf_unscaled_A02S01 "IHME Daily infections (raw data without excess mortality scalar applied)" // present in data, not present in data_dictionary.csv
+rename daily_infections dai_inf_A02S01
+label var dai_inf_A02S01 "IHME Daily infections (raw data without excess mortality scalar applied)" // present in data, not present in data_dictionary.csv
 
 
 
@@ -799,8 +799,8 @@ label var daily_infections_A02S02 "IHME Daily infections (raw data)"
 label var cumul_deaths_unscaled_A02S02 "IHME umulative deaths (raw data without excess mortality scalar applied) S2"
 label var dai_dea_unscaled_A02S02 "IHME Daily deaths (raw data without excess mortality scalar applied) S2"
 
-rename daily_infections_unscaled dai_inf_unscaled_A02S02
-label var dai_inf_unscaled_A02S02 "IHME Daily infections (raw data without excess mortality scalar applied)" // present in data, not present in data_dictionary.csv
+rename daily_infections dai_inf_A02S02
+label var dai_inf_A02S02 "IHME Daily infections (raw data without excess mortality scalar applied)" // present in data, not present in data_dictionary.csv
 
 
 
@@ -1046,8 +1046,8 @@ label var daily_infections_A02S03 "IHME Daily infections (raw data)"
 label var cumul_deaths_unscaled_A02S03 "IHME umulative deaths (raw data without excess mortality scalar applied) S3"
 label var dai_dea_unscaled_A02S03 "IHME Daily deaths (raw data without excess mortality scalar applied) S3"
 
-rename daily_infections_unscaled dai_inf_unscaled_A02S03
-label var dai_inf_unscaled_A02S03 "IHME Daily infections (raw data without excess mortality scalar applied)" // present in data, not present in data_dictionary.csv
+rename daily_infections dai_inf_A02S03
+label var dai_inf_A02S03 "IHME Daily infections (raw data without excess mortality scalar applied)" // present in data, not present in data_dictionary.csv
 
 
 
@@ -1275,7 +1275,7 @@ DayDeaMeSmA02S01 DayDeaLoSmA02S01 DayDeaUpSmA02S01 TotDeaMeSmA02S01 ///
 TotDeaLoSmA02S01 TotDeaUpSmA02S01 reff_mean_A02S01 reff_lower_A02S01 ///
 reff_upper_A02S01 cumulative_cases_A02S01 cumulative_deaths_A02S01 ///
 cumulative_hosp_A02S01 daily_deaths_A02S01 daily_infections_A02S01 ///
-cumul_deaths_unscaled_A02S01 dai_dea_unscaled_A02S01 dai_inf_unscaled_A02S01 ///
+cumul_deaths_unscaled_A02S01 dai_dea_unscaled_A02S01 dai_inf_A02S01 ///
 population mobility_mean_A02S01 mobility_obs testing_mean testing_lower testing_upper ///
 testing_obs pneumonia_mean pneumonia_obs mask_use_mean_A02S01 mask_use_obs ///
 DayIcuMeSmA02S01 DayIcuUpSmA02S01 DayIcuLoSmA02S01 ///
@@ -1289,7 +1289,7 @@ DayDeaLoSmA02S02 DayDeaUpSmA02S02 TotDeaMeSmA02S02 TotDeaLoSmA02S02 ///
 TotDeaUpSmA02S02 reff_mean_A02S02 reff_lower_A02S02 reff_upper_A02S02 ///
 cumulative_cases_A02S02 cumulative_deaths_A02S02 cumulative_hosp_A02S02	///
 daily_deaths_A02S02 daily_infections_A02S02 cumul_deaths_unscaled_A02S02 ///
-dai_dea_unscaled_A02S02 dai_inf_unscaled_A02S02 mobility_mean_A02S02 ///
+dai_dea_unscaled_A02S02 dai_inf_A02S02 mobility_mean_A02S02 ///
 mask_use_mean_A02S02 DayBedMeSmA02S02 DayBedLoSmA02S02 ///
 DayBedUpSmA02S02 DayIcuMeSmA02S02 DayIcuUpSmA02S02 DayIcuLoSmA02S02 ///
 DayAdmMeSmA02S02 DayAdmUpSmA02S02 DayAdmLoSmA02S02 /// 
@@ -1301,7 +1301,7 @@ DayDeaMeSmA02S03 DayDeaLoSmA02S03 DayDeaUpSmA02S03 TotDeaMeSmA02S03 ///
 TotDeaLoSmA02S03 TotDeaUpSmA02S03 reff_mean_A02S03 reff_lower_A02S03 ///
 reff_upper_A02S03 cumulative_cases_A02S03 cumulative_deaths_A02S03 ///
 cumulative_hosp_A02S03 daily_deaths_A02S03 daily_infections_A02S03 /// 
-cumul_deaths_unscaled_A02S03 dai_dea_unscaled_A02S03 dai_inf_unscaled_A02S03 ///
+cumul_deaths_unscaled_A02S03 dai_dea_unscaled_A02S03 dai_inf_A02S03 ///
 mobility_mean_A02S03 mask_use_mean_A02S03 DayBedMeSmA02S03 ///
 DayBedLoSmA02S03 DayBedUpSmA02S03 DayIcuMeSmA02S03 DayIcuUpSmA02S03 ///
 DayIcuLoSmA02S03 DayAdmMeSmA02S03 DayAdmUpSmA02S03 DayAdmLoSmA02S03 ///
