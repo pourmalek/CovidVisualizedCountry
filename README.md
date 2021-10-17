@@ -122,11 +122,11 @@ The codes in these repositories can be adapted for use for any country or region
 
 ### LATEST UPTAKE: uptake [`20211015`](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211015/readme.md)
 
-**_DELP 20211015_**, IHME 20211001, **_IMPE 20211006_**, **_SRIV 20211015_**, PHAC 20211008
+**_DELP 20211015_**, **_IHME 20211015_**, **_IMPE 20211006_**, **_SRIV 20211015_**, PHAC 20211008
 
 Model updates that are new in this uptake: 
 
-DELP 20211008, SRIV 20211008, PHAC 20211008
+DELP 20211008, IHME 20211015, SRIV 20211008, PHAC 20211008
 
 
 
@@ -1417,59 +1417,10 @@ Preproduced _outputs_ are stored for each uptake, e.g., [`20210709`](https://git
   
  ****
  
-Troubleshooting: 
- 
-On 20210824, the Imperial College COVID-19 model/study removed their "old fits" – all previously released updates from day 1 up to and including IMPE update 20210719. 
+IMPE: Imperial College COVID-19 model/study
 
-This means the Imperial College COVID-19 model/study is no more a periodically updated study with ACCESSIBLE updates – short of early retirement of the study. The predictive performance of the Imperial College model is no longer assessable. 
-
-Several thousand lines of codes that used their previously released updates will not work. 
-
-The remedy for CovidVisualized repositories (https://github.com/pourmalek/covir2 for Iran, https://github.com/pourmalek/CovidVisualizedCountry for Canada, and https://github.com/pourmalek/CovidVisualizedGlobal for the global level) is to comment out the command line reading csv data from https://github.com/mrc-ide/global-lmic-reports/tree/master/data. 
-
-
-<br/><br/> 
-
- 
-* To -comment out-, 
-
-For https://github.com/pourmalek/CovidVisualizedCountry,
-
-In files:
-
-/Users/username/Downloads/CovidVisualizedCountry-main/20210806/code/master/do CovidVisualizedCountry master.do, downloaded to your local machine,
-
-where 20210806 denotes uptake 20210806 in this repository that uses IMPE update 20210719, or earlier uptake here that use earlier updates of IMPE,
-
-in line 124, that currently reads as:
-
-do "$pathCovidVisualizedCountry/IMPE/do CovidVisualizedCountry IMPE.do"
+On 20210824, the Imperial College COVID-19 model/study removed their "old fits" from https://github.com/mrc-ide/global-lmic-reports/tree/master/data (old), but they are accessible on https://mrcdata.dide.ic.ac.uk/global-lmic-reports/ (new). Stata codes are updated accordingly to use estimates files from the latter site.
   
-double forward slashes // have been put at the beginning of the line, so that it reads as:
-
-// do "$pathCovidVisualizedCountry/IMPE/do CovidVisualizedCountry IMPE.do"
-
-save the do file and then run the file.
-  
-* However, the previously stored results, such as the graphs stored in "CovidVisualizedCountry-main/20210401/output/merge/asterisk.pdf" and "CovidVisualizedCountry-main/20210401/output/IMPE/asterisk.pdf" preserve a graphical copy of previously accessed the Imperial College COVID-19 model/study removed updates.
-
-* Data version of previously accessed Imperial College COVID-19 model/study removed updates are not stored in CovidVisualizedCountry repository 
-due to very large file size. Removal of Imperial College COVID-19 model/study "old fits" hampers retrospective longitudinal assessment of the predictive performance of Imperial model, as a side effect or main effect. 
-  
- 
-<br/><br/> 
-
-* For rerunning the codes without access to the previous IMPE updates, two modifications are needed. 
-
-(1) Commenting out in master.do file, the line that runs the do file for IMPE, like the line 130 shown below in https://github.com/pourmalek/covir2/blob/main/ADAPTATIONS_EXAMPLES/Japan_20210506/code/master/do%20country%20master.do
-
-// do "$pathcovir2/IMPE/do country IMPE.do"
-
-(2) Omitting the lines in merge.do file the lines that used IMPE variables, like the merge.do file for Japan_20210506 that is adapted to run without access to the previous IMPE updates:
-
-https://github.com/pourmalek/covir2/blob/main/ADAPTATIONS_EXAMPLES/Japan_20210506/code/merge/do%20country%20merge.do
- 
-
 <br/><br/>   
 ****  
   
@@ -1552,7 +1503,7 @@ _Component studies (the international periodically updated models) and their sce
   
   
 
-(32) uptake [`20211015`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20211015): **_DELP 20211015_**, IHME 20211001, **_IMPE 20211006_**, **_SRIV 20211015_**, PHAC 20211008
+(32) uptake [`20211015`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20211015): **_DELP 20211015_**, **_IHME 20211015_**, **_IMPE 20211006_**, **_SRIV 20211015_**, PHAC 20211008
    
 (31) uptake [`20211008`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20211008): **_DELP 20211008_**, IHME 20211001, IMPE 20210924, LANL 20210926, **_SRIV 20211008_**, **_PHAC 20211008_**
   
