@@ -1298,7 +1298,7 @@ twoway ///
 (line DayINFMeSmA02S01 date, sort lcolor(black)) /// 4 "IHME"
 (line DayINFMeRaA03S02 date, sort lcolor(magenta)) /// 5 "IMPE"
 (line DayCasMeRaA05S00 date, sort lcolor(green)) /// 6 "SRIV"
-(line DayCasMeRaA11S01 date, sort lcolor(gray) lwidth(thick)) /// 7 "PHAC" 
+(line DayCasMeRaA11S01 date, sort lcolor(gold) lwidth(thick)) /// 7 "PHAC" 
 if date >= td(01jan2020) & date <= datemax & provincestate == " National" ///
 , xtitle(Date) xlabel(#25, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
@@ -1328,7 +1328,7 @@ twoway ///
 (line DayCasMeRaA01S00 date, sort lcolor(red*0.8) lwidth(medium) lpattern(tight_dot)) /// 3 "DELP raw"
 (line DayCasMeSmA01S00 date, sort lcolor(red) lwidth(medthick)) /// 4 "DELP smooth"
 (line DayINFMeSmA02S01 date, sort lcolor(black)) /// 5 "IHME"
-(line DayCasMeRaA11S01 date, sort lcolor(gray) lwidth(thick)) /// 6 "PHAC"
+(line DayCasMeRaA11S01 date, sort lcolor(gold) lwidth(thick)) /// 6 "PHAC"
 if date >= td(01jan2020) & date <= datemax & provincestate == "`l'" ///
 , xtitle(Date) xlabel(#25, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
@@ -1357,7 +1357,7 @@ twoway ///
 (line DayINFMeSmA02S01 date, sort lcolor(black)) /// 4 "IHME"
 (line DayINFMeRaA03S02 date, sort lcolor(magenta)) /// 5 "IMPE"
 (line DayCasMeRaA05S00 date, sort lcolor(green)) /// 6 "SRIV"
-(line DayCasMeRaA11S01 date, sort lcolor(gray) lwidth(thick)) /// 7 "PHAC"
+(line DayCasMeRaA11S01 date, sort lcolor(gold) lwidth(thick)) /// 7 "PHAC"
 if date >= td(01jan2021) & date <= datemax & provincestate == " National" ///
 , xtitle(Date) xlabel(#12, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
@@ -1385,7 +1385,7 @@ twoway ///
 (line DayCasMeSmA00S00 date, sort lcolor(cyan*1.2) lwidth(vthick)) /// 2 "JOHN smooth"
 (line DayCasMeRaA01S00 date, sort lcolor(red)) /// 3 "DELP"
 (line DayINFMeSmA02S01 date, sort lcolor(black)) /// 4 "IHME"
-(line DayCasMeRaA11S01 date, sort lcolor(gray) lwidth(thick)) /// 5 "PHAC"
+(line DayCasMeRaA11S01 date, sort lcolor(gold) lwidth(thick)) /// 5 "PHAC"
 if date >= td(01jan2021) & date <= datemax & provincestate == "`l'" ///
 , xtitle(Date) xlabel(#12, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
@@ -1422,9 +1422,9 @@ twoway ///
 (line DayCasMeRaA05S00 date, sort lcolor(green)) /// 12 "SRIV" mean
 (line DayCasLoRaA05S00 date, sort lcolor(green) lpattern(dash)) /// 13 "SRIV" lower
 (line DayCasUpRaA05S00 date, sort lcolor(green) lpattern(dash)) /// 14 "SRIV" upper
-(line DayCasMeRaA11S01 date, sort lcolor(gray) lwidth(thick)) /// 15 "PHAC" mean
-(line DayCasLoRaA11S01 date, sort lcolor(gray) lwidth(thin) lpattern(dash)) /// 16 "PHAC" lower
-(line DayCasUpRaA11S01 date, sort lcolor(gray) lwidth(thin) lpattern(dash)) /// 17 "PHAC" upper
+(line DayCasMeRaA11S01 date, sort lcolor(gold) lwidth(thick)) /// 15 "PHAC" mean
+(line DayCasLoRaA11S01 date, sort lcolor(gold) lwidth(thin) lpattern(dash)) /// 16 "PHAC" lower
+(line DayCasUpRaA11S01 date, sort lcolor(gold) lwidth(thin) lpattern(dash)) /// 17 "PHAC" upper
 if date >= td(01jan2021) & date <= datemax & provincestate == " National" ///
 , xtitle(Date) xlabel(#12, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
@@ -1458,9 +1458,9 @@ twoway ///
 (line DayINFMeSmA02S01 date, sort lcolor(black)) /// 6 IHME mean
 (line DayINFLoSmA02S01 date, sort lcolor(black) lpattern(dash)) /// 7 IHME lower
 (line DayINFUpSmA02S01 date, sort lcolor(black) lpattern(dash)) /// 8 IHME upper
-(line DayCasMeRaA11S01 date, sort lcolor(gray) lwidth(thick)) /// 9 "PHAC" mean
-(line DayCasLoRaA11S01 date, sort lcolor(gray) lwidth(thin) lpattern(dash)) /// 10 "PHAC" lower
-(line DayCasUpRaA11S01 date, sort lcolor(gray) lwidth(thin) lpattern(dash)) /// 11 "PHAC" upper
+(line DayCasMeRaA11S01 date, sort lcolor(gold) lwidth(thick)) /// 9 "PHAC" mean
+(line DayCasLoRaA11S01 date, sort lcolor(gold) lwidth(thin) lpattern(dash)) /// 10 "PHAC" lower
+(line DayCasUpRaA11S01 date, sort lcolor(gold) lwidth(thin) lpattern(dash)) /// 11 "PHAC" upper
 if date >= td(01jan2021) & date <= datemax & provincestate == "`l'" ///
 , xtitle(Date) xlabel(#12, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
@@ -1492,7 +1492,7 @@ twoway ///
 (line DayINFMeRaA03S02 date, sort lcolor(magenta)) /// 6 IMPE mean, reference scenario
 (line DayINFMeRaA03S01 date, sort lcolor(magenta) lwidth(thick) lpattern(tight_dot)) /// 7 IMPE mean, better scenario
 (line DayINFMeRaA03S03 date, sort lcolor(magenta) lwidth(thick) lpattern(tight_dot)) /// 8 IMPE mean, worse scenario
-(line DayCasMeRaA11S01 date, sort lwidth(thick) lcolor(gray)) /// 9 "PHAC" reference scenario
+(line DayCasMeRaA11S01 date, sort lwidth(thick) lcolor(gold)) /// 9 "PHAC" reference scenario
 (line DayCasMeRaA11S02 date, sort lwidth(thick) lcolor(green) ) /// 10 "PHAC" better scenario
 (line DayCasMeRaA11S03 date, sort lwidth(thick) lcolor(red) ) /// 11 "PHAC" worse scenario
 if date >= td(01jan2021) & date <= datemax & provincestate == " National" ///
@@ -1500,8 +1500,8 @@ if date >= td(01jan2021) & date <= datemax & provincestate == " National" ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily cases or infections) title("COVID-19 daily cases or infections, $country, National", size(medium)) ///
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
-legend(order(1 "JOHN cases raw" 2 "JOHN cases smooth" 3 "IHME infections" 6 "IMPE infections" 9 "PHAC cases reference" ///
-10 "PHAC cases better scenario" 11 "PHAC worse scenario") size(small) row(4)) ///
+legend(order(1 "JOHN cases raw" 2 "JOHN cases smooth" 3 "IHME infections" 6 "IMPE infections" 9 "PHAC cases reference scenario" ///
+10 "PHAC cases better scenario" 11 "PHAC cases worse scenario") size(small) row(4)) ///
 subtitle("IHME and IMPE 3 scenarios, after 2021-01-01", size(small)) ///
 note("Better and worse scenarios: tight dot (|||||) curves; IHME and IMPE") 
 
@@ -1526,7 +1526,7 @@ twoway ///
 (line DayINFMeSmA02S01 date, sort lcolor(black)) /// 3 IHME mean, reference scenario
 (line DayINFMeSmA02S02 date, sort lcolor(green) lwidth(thick) lpattern(tight_dot)) /// 4 IHME mean, better scenario
 (line DayINFMeSmA02S03 date, sort lcolor(red) lwidth(thick) lpattern(tight_dot)) /// 5 IHME mean, worse scenario
-(line DayCasMeRaA11S01 date, sort lwidth(thick) lcolor(gray)) /// 6 "PHAC" reference scenario
+(line DayCasMeRaA11S01 date, sort lwidth(thick) lcolor(gold)) /// 6 "PHAC" reference scenario
 (line DayCasMeRaA11S02 date, sort lwidth(thick) lcolor(green) ) /// 7 "PHAC" better scenario
 (line DayCasMeRaA11S03 date, sort lwidth(thick) lcolor(red) ) /// 8 "PHAC" worse scenario
 if date >= td(01jan2021) & date <= datemax & provincestate == "`l'" ///
@@ -1535,8 +1535,8 @@ xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, l
 ytitle(Daily cases or infections) title("COVID-19 daily cases or infections, $country, `l'", size(medium)) ///
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
 legend(order(1 "JOHN cases raw" 2 "JOHN casessmooth" 3 "IHME infections reference" ///
-4 "IHME infections better" 5 "IHME infections worse" 7 "PHAC cases reference" ///
-8 "PHAC cases better scenario" 9 "PHAC worse scenario") size(small) row(3)) ///
+4 "IHME infections better" 5 "IHME infections worse" 7 "PHAC cases reference scenario" ///
+8 "PHAC cases better scenario" 9 "PHAC cases worse scenario") size(small) row(3)) ///
 subtitle("IHME 3 scenarios, after 2021-01-01", size(small)) ///
 note("Better and worse scenarios: tight dot (|||||) curves for IHME") 
 
