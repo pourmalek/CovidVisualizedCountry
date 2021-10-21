@@ -14,6 +14,12 @@
   
 *
 
+**uptake 20211022**: **_DELP 20211022_**, IHME 20211022, IMPE 20211006, **_SRIV 20211022_**, PHAC 20211008
+
+
+
+*
+
 **uptake 20211015**: **_DELP 20211015_**, **_IHME 20211015_**, **_IMPE 20211006_**, **_SRIV 20211015_**, PHAC 20211008
 
 (1) Quebec [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211015/output/merge/main/SUB1%2011bDayDeaMERGsub%20alltime%20Quebec%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%20all%20time.pdf)
@@ -295,6 +301,12 @@
   
   
   
+*
+
+**uptake 20211022**: **_DELP 20211022_**, IHME 20211022, IMPE 20211006, **_SRIV 20211022_**, PHAC 20211008
+
+
+
 *
 
 **uptake 20211015**: **_DELP 20211015_**, **_IHME 20211015_**, **_IMPE 20211006_**, **_SRIV 20211015_**, PHAC 20211008
@@ -580,6 +592,12 @@
 
 *
 
+**uptake 20211022**: **_DELP 20211022_**, IHME 20211022, IMPE 20211006, **_SRIV 20211022_**, PHAC 20211008
+
+
+
+*
+
 **uptake 20211015**: **_DELP 20211015_**, **_IHME 20211015_**, **_IMPE 20211006_**, **_SRIV 20211015_**, PHAC 20211008
 
 (3) Quebec [Daily deaths, 3 scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211015/output/merge/main/SUB3%2014b1DayDeaMERGsub%202021%203%20scenarios%20Quebec%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Quebec%2C%203%20scenarios%2C%202021.pdf)
@@ -860,6 +878,12 @@
   
   
   
+
+*
+
+**uptake 20211022**: **_DELP 20211022_**, IHME 20211022, IMPE 20211006, **_SRIV 20211022_**, PHAC 20211008
+
+
 
 *
 
@@ -1147,6 +1171,12 @@
   
 *
 
+**uptake 20211022**: **_DELP 20211022_**, IHME 20211022, IMPE 20211006, **_SRIV 20211022_**, PHAC 20211008
+
+
+
+*
+
 **uptake 20211015**: **_DELP 20211015_**, **_IHME 20211015_**, **_IMPE 20211006_**, **_SRIV 20211015_**, PHAC 20211008
 
 (5) Quebec [Daily cases or infections, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211015/output/merge/main/SUB5%2032bDayCasMERGsub%202021%20Quebec%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%202021.pdf)
@@ -1428,6 +1458,12 @@
   
   
   
+*
+
+**uptake 20211022**: **_DELP 20211022_**, IHME 20211022, IMPE 20211006, **_SRIV 20211022_**, PHAC 20211008
+
+
+
 *
 
 **uptake 20211015**: **_DELP 20211015_**, **_IHME 20211015_**, **_IMPE 20211006_**, **_SRIV 20211015_**, PHAC 20211008
@@ -1714,6 +1750,12 @@
   
 *
 
+**uptake 20211022**: **_DELP 20211022_**, IHME 20211022, IMPE 20211006, **_SRIV 20211022_**, PHAC 20211008
+
+
+
+*
+
 **uptake 20211015**: **_DELP 20211015_**, **_IHME 20211015_**, **_IMPE 20211006_**, **_SRIV 20211015_**, PHAC 20211008
 
 (7) Quebec [Hospital-related outcomes, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211015/output/merge/main/SUB7%2071bDayHosMERGsub%20alltime%20Quebec%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20Quebec.pdf)
@@ -1994,6 +2036,12 @@
   
   
   
+
+*
+
+**uptake 20211022**: **_DELP 20211022_**, IHME 20211022, IMPE 20211006, **_SRIV 20211022_**, PHAC 20211008
+
+
 
 *
 
@@ -2279,6 +2327,12 @@
   
 *
 
+**uptake 20211022**: **_DELP 20211022_**, IHME 20211022, IMPE 20211006, **_SRIV 20211022_**, PHAC 20211008
+
+
+
+*
+
 **uptake 20211015**: **_DELP 20211015_**, **_IHME 20211015_**, **_IMPE 20211006_**, **_SRIV 20211015_**, PHAC 20211008
 
 (9) Quebec [Daily deaths estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211015/output/merge/main/SUB9%2092bDayDERMERGsub%202021%20Quebec%20-%20COVID-19%20daily%20deaths%20estimated%20to%20reported%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%202021.pdf)
@@ -2555,6 +2609,12 @@
   
   
   
+*
+
+**uptake 20211022**: **_DELP 20211022_**, IHME 20211022, IMPE 20211006, **_SRIV 20211022_**, PHAC 20211008
+
+
+
 *
 
 **uptake 20211015**: **_DELP 20211015_**, **_IHME 20211015_**, **_IMPE 20211006_**, **_SRIV 20211015_**, PHAC 20211008
@@ -2844,6 +2904,12 @@
 
 *
 
+**uptake 20211022**: **_DELP 20211022_**, IHME 20211022, IMPE 20211006, **_SRIV 20211022_**, PHAC 20211008
+
+
+
+*
+
 **uptake 20211015**: **_DELP 20211015_**, **_IHME 20211015_**, **_IMPE 20211006_**, **_SRIV 20211015_**, PHAC 20211008
 
 (11) Quebec [R effective, 3 scenarios, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211015/output/IHME/graph%2072a%20C-19%20R%20effective%2C%20Canada%2C%20Quebec%2C%20IHME%2C%203%20scenarios.pdf)
@@ -2913,6 +2979,12 @@ uptake 20210920 and uptake 20210916 both use IHME 20210916.
 
 *
 
+**uptake 20211022**: **_DELP 20211022_**, IHME 20211022, IMPE 20211006, **_SRIV 20211022_**, PHAC 20211008
+
+
+
+*
+
 **uptake 20211015**: **_DELP 20211015_**, **_IHME 20211015_**, **_IMPE 20211006_**, **_SRIV 20211015_**, PHAC 20211008
 
 (12) Quebec [Daily Infection-outcomes ratios, 3 scenarios, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211015/output/merge/main/graph%2091b%20COVID-19%20daily%20Infection%20outcomes%20ratios%2C%20Canada%2C%20Quebec%203%20scenarios%2C%20IHME.pdf)
@@ -2977,6 +3049,12 @@ uptake 20210920 and uptake 20210916 both use IHME 20210916.
   
 #### graph (13) Quebec - Daily mobility, 3 scenarios, IHME
 
+
+
+
+*
+
+**uptake 20211022**: **_DELP 20211022_**, IHME 20211022, IMPE 20211006, **_SRIV 20211022_**, PHAC 20211008
 
 
 
@@ -3054,6 +3132,12 @@ uptake 20210920 and uptake 20210916 both use IHME 20210916.
 
 *
 
+**uptake 20211022**: **_DELP 20211022_**, IHME 20211022, IMPE 20211006, **_SRIV 20211022_**, PHAC 20211008
+
+
+
+*
+
 **uptake 20211015**: **_DELP 20211015_**, **_IHME 20211015_**, **_IMPE 20211006_**, **_SRIV 20211015_**, PHAC 20211008
 
 (14) Quebec [Daily mask use, 3 scenarios, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211015/output/merge/main/graph%2093b%20COVID-19%20daily%20mask_use%2C%20Canada%2C%20Quebec%2C%203%20scenarios.pdf)
@@ -3121,6 +3205,12 @@ uptake 20210920 and uptake 20210916 both use IHME 20210916.
   
 #### graph (15) Quebec - Percent cumulative vaccinated, IHME
 
+
+
+
+*
+
+**uptake 20211022**: **_DELP 20211022_**, IHME 20211022, IMPE 20211006, **_SRIV 20211022_**, PHAC 20211008
 
 
 
