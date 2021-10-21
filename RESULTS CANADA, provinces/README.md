@@ -17,6 +17,12 @@ Note: The following additional graphs were added starting from uptake 20210923.
 
 *
 
+**uptake 20211022**: **_DELP 20211022_**, IHME 20211022, IMPE 20211006, **_SRIV 20211022_**, PHAC 20211008
+
+
+
+*
+
 **uptake 20211015**: **_DELP 20211015_**, **_IHME 20211015_**, **_IMPE 20211006_**, **_SRIV 20211015_**, PHAC 20211008
 
 (1) Canada provinces [Daily reported deaths, reference scenarios, all time, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211015/output/IHME/graph%2011a%20C-19%20daily%20reported%20deaths%2C%20Canada%2C%20subnational%2C%20IHME%2C%20reference%20scenario.pdf)
@@ -63,6 +69,12 @@ uptake 20210928 and uptake 20210923 both use IHME 20210923.
 
 #### graph (2) Canada, provinces - Daily excess deaths, reference scenarios, all time, IHME
 
+
+
+
+*
+
+**uptake 20211022**: **_DELP 20211022_**, IHME 20211022, IMPE 20211006, **_SRIV 20211022_**, PHAC 20211008
 
 
 
@@ -121,6 +133,12 @@ uptake 20210928 and uptake 20210923 both use IHME 20210923.
 
 *
 
+**uptake 20211022**: **_DELP 20211022_**, IHME 20211022, IMPE 20211006, **_SRIV 20211022_**, PHAC 20211008
+
+
+
+*
+
 **uptake 20211015**: **_DELP 20211015_**, **_IHME 20211015_**, **_IMPE 20211006_**, **_SRIV 20211015_**, PHAC 20211008
 
 (3) Canada provinces [Daily infections, reference scenarios, all time, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211015/output/IHME/graph%2021a%20C-19%20daily%20infections%2C%20Canada%2C%20subnational%2C%20IHME%2C%20reference%20scenario.pdf)
@@ -167,6 +185,12 @@ uptake 20210928 and uptake 20210923 both use IHME 20210923.
 
 #### graph (4) Canada, provinces - Daily infections, reference scenarios, all time, PHAC
 
+
+
+
+*
+
+**uptake 20211022**: **_DELP 20211022_**, IHME 20211022, IMPE 20211006, **_SRIV 20211022_**, PHAC 20211008
 
 
 
@@ -221,6 +245,12 @@ uptake 20210928 and uptake 20210923 both use PHAC 20210903.
 
 #### graph (5) Canada, provinces - Daily infections, reference scenarios, all time, PHAC, without the national level
 
+
+
+
+*
+
+**uptake 20211022**: **_DELP 20211022_**, IHME 20211022, IMPE 20211006, **_SRIV 20211022_**, PHAC 20211008
 
 
 
