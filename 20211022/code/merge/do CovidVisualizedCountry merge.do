@@ -1550,6 +1550,68 @@ qui graph export "SUB6 34bDayCasMERGsub 2021 3scen `l' - COVID-19 daily cases, $
 
 
 
+****
+* daily cases, 3 scenarios, 2021, National
+
+twoway ///
+(line DayCasMeRaA00S00 date, sort lcolor(cyan) lwidth(medium) lpattern(tight_dot)) /// 1 "JOHN raw"
+(line DayCasMeSmA00S00 date, sort lcolor(cyan*1.2) lwidth(vthick)) /// 2 "JOHN smooth"
+(line DayCasMeRaA11S01 date, sort lwidth(thick) lcolor(gold)) /// 3 "PHAC" reference scenario
+(line DayCasMeRaA11S02 date, sort lwidth(thick) lcolor(green) ) /// 4 "PHAC" better scenario
+(line DayCasMeRaA11S03 date, sort lwidth(thick) lcolor(red) ) /// 5 "PHAC" worse scenario
+if date >= td(01jan2021) & date <= datemax & provincestate == " National" ///
+, xtitle(Date) xlabel(#12, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
+ytitle(Daily cases) title("COVID-19 daily cases, $country, National", size(medium)) ///
+xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
+legend(order(1 "JOHN raw" 2 "JOHN smooth" 3 "PHAC reference" ///
+4 "PHAC better" 5 "PHAC worse ") size(small) row(2)) ///
+subtitle("PHAC three scenarios, after 2021-01-01", size(small))
+
+qui graph save "CAN6 35aDayCasMERGnat 2021 3scen - COVID-19 daily cases, $country, National, 3 scenarios, 2021, uncertainty.gph", replace
+qui graph export "CAN6 54aDayCasMERGnat 2021 3scen - COVID-19 daily cases, $country, National, 3 scenarios, 2021, uncertainty.pdf", replace
+
+
+
+
+
+
+****
+* daily cases, 3 scenarios, 2021, by province
+
+levelsof provincestate_mostaffected, local(levels)
+
+foreach l of local levels {
+
+twoway ///
+(line DayCasMeRaA00S00 date, sort lcolor(cyan) lwidth(medium) lpattern(tight_dot)) /// 1 "JOHN raw"
+(line DayCasMeSmA00S00 date, sort lcolor(cyan*1.2) lwidth(vthick)) /// 2 "JOHN smooth"
+(line DayCasMeRaA11S01 date, sort lwidth(thick) lcolor(gold)) /// 3 "PHAC" reference scenario
+(line DayCasMeRaA11S02 date, sort lwidth(thick) lcolor(green) ) /// 4 "PHAC" better scenario
+(line DayCasMeRaA11S03 date, sort lwidth(thick) lcolor(red) ) /// 5 "PHAC" worse scenario
+if date >= td(01jan2021) & date <= datemax & provincestate == "`l'" ///
+, xtitle(Date) xlabel(#12, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
+ytitle(Daily cases) title("COVID-19 daily cases, $country, `l'", size(medium)) ///
+xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
+legend(order(1 "JOHN raw" 2 "JOHN smooth" ///
+3 "PHAC reference" 4 "PHAC better" 5 "PHAC worse") size(small) row(2)) ///
+subtitle("PHAC three scenarios, after 2021-01-01", size(small)) 
+
+qui graph save "SUB6 35bDayCasMERGsub 2021 3scen `l' - COVID-19 daily cases, $country, `l', 3 scenarios, 2021, uncertainty.gph", replace
+qui graph export "SUB6 35bDayCasMERGsub 2021 3scen `l' - COVID-19 daily cases, $country, `l', 3 scenarios, 2021, uncertainty.pdf", replace
+
+}
+*
+
+
+
+
+
+mmmmm
+
+
+
 *****************
 
 * total deaths (graph numbers start with 41)
