@@ -1608,7 +1608,6 @@ qui graph export "SUB6 35bDayCasMERGsub 2021 3scen `l' - COVID-19 daily cases, $
 
 
 
-mmmmm
 
 
 
