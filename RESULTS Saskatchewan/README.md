@@ -19,7 +19,7 @@ Graphs for Saskatchewan were added here starting from uptake 20210726 onwards.
   
 *
 
-**uptake 20211022**: **_DELP 20211022_**, **_IHME 20211021_**, IMPE 20211006, **_SRIV 20211022_**, PHAC 20211008
+**uptake 20211022**: **_DELP 20211019_**, **_IHME 20211021_**, IMPE 20211006, **_SRIV 20211017_**, PHAC 20211008
 
 
 
@@ -193,7 +193,7 @@ Graphs for Saskatchewan were added here starting from uptake 20210726 onwards.
   
 *
 
-**uptake 20211022**: **_DELP 20211022_**, **_IHME 20211021_**, IMPE 20211006, **_SRIV 20211022_**, PHAC 20211008
+**uptake 20211022**: **_DELP 20211019_**, **_IHME 20211021_**, IMPE 20211006, **_SRIV 20211017_**, PHAC 20211008
 
 
 
@@ -366,7 +366,7 @@ Graphs for Saskatchewan were added here starting from uptake 20210726 onwards.
   
 *
 
-**uptake 20211022**: **_DELP 20211022_**, **_IHME 20211021_**, IMPE 20211006, **_SRIV 20211022_**, PHAC 20211008
+**uptake 20211022**: **_DELP 20211019_**, **_IHME 20211021_**, IMPE 20211006, **_SRIV 20211017_**, PHAC 20211008
 
 
 
@@ -540,7 +540,7 @@ Graphs for Saskatchewan were added here starting from uptake 20210726 onwards.
   
 *
 
-**uptake 20211022**: **_DELP 20211022_**, **_IHME 20211021_**, IMPE 20211006, **_SRIV 20211022_**, PHAC 20211008
+**uptake 20211022**: **_DELP 20211019_**, **_IHME 20211021_**, IMPE 20211006, **_SRIV 20211017_**, PHAC 20211008
 
 
 
@@ -713,7 +713,7 @@ Graphs for Saskatchewan were added here starting from uptake 20210726 onwards.
   
 *
 
-**uptake 20211022**: **_DELP 20211022_**, **_IHME 20211021_**, IMPE 20211006, **_SRIV 20211022_**, PHAC 20211008
+**uptake 20211022**: **_DELP 20211019_**, **_IHME 20211021_**, IMPE 20211006, **_SRIV 20211017_**, PHAC 20211008
 
 
 
@@ -889,7 +889,7 @@ Graphs for Saskatchewan were added here starting from uptake 20210726 onwards.
   
 *
 
-**uptake 20211022**: **_DELP 20211022_**, **_IHME 20211021_**, IMPE 20211006, **_SRIV 20211022_**, PHAC 20211008
+**uptake 20211022**: **_DELP 20211019_**, **_IHME 20211021_**, IMPE 20211006, **_SRIV 20211017_**, PHAC 20211008
 
 
 
@@ -1068,7 +1068,7 @@ Graphs for Saskatchewan were added here starting from uptake 20210726 onwards.
   
 *
 
-**uptake 20211022**: **_DELP 20211022_**, **_IHME 20211021_**, IMPE 20211006, **_SRIV 20211022_**, PHAC 20211008
+**uptake 20211022**: **_DELP 20211019_**, **_IHME 20211021_**, IMPE 20211006, **_SRIV 20211017_**, PHAC 20211008
 
 
 
@@ -1245,7 +1245,7 @@ Graphs for Saskatchewan were added here starting from uptake 20210726 onwards.
   
 *
 
-**uptake 20211022**: **_DELP 20211022_**, **_IHME 20211021_**, IMPE 20211006, **_SRIV 20211022_**, PHAC 20211008
+**uptake 20211022**: **_DELP 20211019_**, **_IHME 20211021_**, IMPE 20211006, **_SRIV 20211017_**, PHAC 20211008
 
 
 
@@ -1421,7 +1421,7 @@ Graphs for Saskatchewan were added here starting from uptake 20210726 onwards.
   
 *
 
-**uptake 20211022**: **_DELP 20211022_**, **_IHME 20211021_**, IMPE 20211006, **_SRIV 20211022_**, PHAC 20211008
+**uptake 20211022**: **_DELP 20211019_**, **_IHME 20211021_**, IMPE 20211006, **_SRIV 20211017_**, PHAC 20211008
 
 
 
@@ -1598,7 +1598,7 @@ Graphs for Saskatchewan were added here starting from uptake 20210726 onwards.
   
 *
 
-**uptake 20211022**: **_DELP 20211022_**, **_IHME 20211021_**, IMPE 20211006, **_SRIV 20211022_**, PHAC 20211008
+**uptake 20211022**: **_DELP 20211019_**, **_IHME 20211021_**, IMPE 20211006, **_SRIV 20211017_**, PHAC 20211008
 
 
 
@@ -1778,7 +1778,7 @@ Graphs for Saskatchewan were added here starting from uptake 20210726 onwards.
   
 *
 
-**uptake 20211022**: **_DELP 20211022_**, **_IHME 20211021_**, IMPE 20211006, **_SRIV 20211022_**, PHAC 20211008
+**uptake 20211022**: **_DELP 20211019_**, **_IHME 20211021_**, IMPE 20211006, **_SRIV 20211017_**, PHAC 20211008
 
 
 
@@ -1855,7 +1855,7 @@ uptake 20210920 and uptake 20210916 both use IHME 20210916.
 
 *
 
-**uptake 20211022**: **_DELP 20211022_**, **_IHME 20211021_**, IMPE 20211006, **_SRIV 20211022_**, PHAC 20211008
+**uptake 20211022**: **_DELP 20211019_**, **_IHME 20211021_**, IMPE 20211006, **_SRIV 20211017_**, PHAC 20211008
 
 
 
@@ -1930,7 +1930,7 @@ uptake 20210920 and uptake 20210916 both use IHME 20210916.
 
 *
 
-**uptake 20211022**: **_DELP 20211022_**, **_IHME 20211021_**, IMPE 20211006, **_SRIV 20211022_**, PHAC 20211008
+**uptake 20211022**: **_DELP 20211019_**, **_IHME 20211021_**, IMPE 20211006, **_SRIV 20211017_**, PHAC 20211008
 
 
 
@@ -2007,7 +2007,7 @@ uptake 20210920 and uptake 20210916 both use IHME 20210916.
 
 *
 
-**uptake 20211022**: **_DELP 20211022_**, **_IHME 20211021_**, IMPE 20211006, **_SRIV 20211022_**, PHAC 20211008
+**uptake 20211022**: **_DELP 20211019_**, **_IHME 20211021_**, IMPE 20211006, **_SRIV 20211017_**, PHAC 20211008
 
 
 
@@ -2081,7 +2081,7 @@ uptake 20210920 and uptake 20210916 both use IHME 20210916.
 
 *
 
-**uptake 20211022**: **_DELP 20211022_**, **_IHME 20211021_**, IMPE 20211006, **_SRIV 20211022_**, PHAC 20211008
+**uptake 20211022**: **_DELP 20211019_**, **_IHME 20211021_**, IMPE 20211006, **_SRIV 20211017_**, PHAC 20211008
 
 
 
