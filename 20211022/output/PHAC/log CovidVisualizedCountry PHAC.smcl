@@ -1,9 +1,9 @@
 {smcl}
-{txt}{sf}{ul off}{.-}
+{com}{sf}{ul off}{txt}{.-}
       name:  {res}<unnamed>
        {txt}log:  {res}/Users/farshadpourmalek/Downloads/CovidVisualizedCountry-main/20211022/code/PHAC/log CovidVisualizedCountry PHAC.smcl
   {txt}log type:  {res}smcl
- {txt}opened on:  {res}22 Oct 2021, 12:52:55
+ {txt}opened on:  {res}22 Oct 2021, 20:08:22
 {txt}
 {com}. 
 . ***************************************************************************
@@ -127,8 +127,7 @@
 
 {com}.                                                                                         
 . save "CovidVisualizedCountry PHAC $country.dta", replace                                                                                
-{txt}(note: file CovidVisualizedCountry PHAC Canada.dta not found)
-file CovidVisualizedCountry PHAC Canada.dta saved
+{txt}file CovidVisualizedCountry PHAC Canada.dta saved
 
 {com}.                                                                                         
 .                                                                                         
@@ -224,8 +223,7 @@ file CovidVisualizedCountry PHAC Canada.dta saved
 
 {com}.                                                                                         
 . save "CovidVisualizedCountry PHAC BC.dta", replace      
-{txt}(note: file CovidVisualizedCountry PHAC BC.dta not found)
-file CovidVisualizedCountry PHAC BC.dta saved
+{txt}file CovidVisualizedCountry PHAC BC.dta saved
 
 {com}. 
 . 
@@ -319,8 +317,7 @@ file CovidVisualizedCountry PHAC BC.dta saved
 
 {com}.                                                                                         
 . save "CovidVisualizedCountry PHAC AB.dta", replace      
-{txt}(note: file CovidVisualizedCountry PHAC AB.dta not found)
-file CovidVisualizedCountry PHAC AB.dta saved
+{txt}file CovidVisualizedCountry PHAC AB.dta saved
 
 {com}. 
 . 
@@ -414,8 +411,7 @@ file CovidVisualizedCountry PHAC AB.dta saved
 
 {com}.                                                                                         
 . save "CovidVisualizedCountry PHAC SK.dta", replace      
-{txt}(note: file CovidVisualizedCountry PHAC SK.dta not found)
-file CovidVisualizedCountry PHAC SK.dta saved
+{txt}file CovidVisualizedCountry PHAC SK.dta saved
 
 {com}. 
 . 
@@ -510,8 +506,7 @@ file CovidVisualizedCountry PHAC SK.dta saved
 
 {com}.                                                                                         
 . save "CovidVisualizedCountry PHAC MB.dta", replace      
-{txt}(note: file CovidVisualizedCountry PHAC MB.dta not found)
-file CovidVisualizedCountry PHAC MB.dta saved
+{txt}file CovidVisualizedCountry PHAC MB.dta saved
 
 {com}. 
 .                                                         
@@ -607,8 +602,7 @@ file CovidVisualizedCountry PHAC MB.dta saved
 
 {com}.                                                                                         
 . save "CovidVisualizedCountry PHAC ON.dta", replace      
-{txt}(note: file CovidVisualizedCountry PHAC ON.dta not found)
-file CovidVisualizedCountry PHAC ON.dta saved
+{txt}file CovidVisualizedCountry PHAC ON.dta saved
 
 {com}. 
 . 
@@ -703,8 +697,7 @@ file CovidVisualizedCountry PHAC ON.dta saved
 
 {com}.                                                                                         
 . save "CovidVisualizedCountry PHAC QC.dta", replace      
-{txt}(note: file CovidVisualizedCountry PHAC QC.dta not found)
-file CovidVisualizedCountry PHAC QC.dta saved
+{txt}file CovidVisualizedCountry PHAC QC.dta saved
 
 {com}. 
 . 
@@ -821,8 +814,7 @@ file CovidVisualizedCountry PHAC QC.dta saved
 
 {com}.                                                                                         
 . save "CovidVisualizedCountry PHAC $country Hospitalized.dta", replace   
-{txt}(note: file CovidVisualizedCountry PHAC Canada Hospitalized.dta not found)
-file CovidVisualizedCountry PHAC Canada Hospitalized.dta saved
+{txt}file CovidVisualizedCountry PHAC Canada Hospitalized.dta saved
 
 {com}. 
 . 
@@ -878,8 +870,7 @@ file CovidVisualizedCountry PHAC Canada Hospitalized.dta saved
 
 {com}.                                                                                         
 . save "CovidVisualizedCountry PHAC $country Rt.dta", replace     
-{txt}(note: file CovidVisualizedCountry PHAC Canada Rt.dta not found)
-file CovidVisualizedCountry PHAC Canada Rt.dta saved
+{txt}file CovidVisualizedCountry PHAC Canada Rt.dta saved
 
 {com}. 
 . 
@@ -1014,8 +1005,7 @@ str9, now str16 to accommodate using data's values)
 
 {com}. 
 . save "CovidVisualizedCountry PHAC.dta", replace
-{txt}(note: file CovidVisualizedCountry PHAC.dta not found)
-file CovidVisualizedCountry PHAC.dta saved
+{txt}file CovidVisualizedCountry PHAC.dta saved
 
 {com}. 
 . 
@@ -1044,8 +1034,7 @@ file CovidVisualizedCountry PHAC.dta saved
 {txt}
 {com}. 
 . save "CovidVisualizedCountry JOHN.dta", replace 
-{txt}(note: file CovidVisualizedCountry JOHN.dta not found)
-file CovidVisualizedCountry JOHN.dta saved
+{txt}file CovidVisualizedCountry JOHN.dta saved
 
 {com}. 
 . use "CovidVisualizedCountry PHAC.dta", clear 
@@ -1164,7 +1153,7 @@ str16, now str25 to accommodate using data's values)
 > (line DayCasMeRaA11S02 date, sort lwidth(thick) lcolor(green)) /// "Better scenario"
 > (line DayCasMeRaA11S03 date, sort lwidth(thick) lcolor(red)) /// "Worse scenario"
 > (line DayCasMeRaA11S01 date, sort lwidth(thick) lcolor(black)) /// "Reference scenario"
-> if date >= td(01jan2021) & date <= td(01nov2021) & provincestate == " National" ///
+> if date >= td(01jan2021) & date <= td(01dec2021) & provincestate == " National" ///
 > , xtitle(Date) xlabel(#5, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 > xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 > ytitle(Daily cases or infections) title("COVID-19 daily cases, $country, National, PHAC", size(medium)) /// 
@@ -1188,7 +1177,7 @@ str16, now str25 to accommodate using data's values)
 > (line DayCasMeRaA11S02 date, sort lwidth(thick) lcolor(green)) /// "Better scenario"
 > (line DayCasMeRaA11S03 date, sort lwidth(thick) lcolor(red)) /// "Worse scenario"
 > (line DayCasMeRaA11S01 date, sort lwidth(thick) lcolor(black)) /// "Reference scenario"
-> if date >= td(01sep2021) & date <= td(01nov2021) & provincestate == " National" ///
+> if date >= td(01sep2021) & date <= td(01dec2021) & provincestate == " National" ///
 > , xtitle(Date) xlabel(#3, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 > xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 > ytitle(Daily cases or infections) title("COVID-19 daily cases, $country, National, PHAC", size(medium)) /// 
@@ -1218,7 +1207,7 @@ str16, now str25 to accommodate using data's values)
 > (line DayCasMeRaA11S01 date, sort lwidth(thick) lcolor(black)) /// "Reference scenario"
 > (line DayCasLoRaA11S01 date, sort lwidth(thick) lcolor(black) lwidth(medium) lpattern(dash)) /// "Reference scenario" lower
 > (line DayCasUpRaA11S01 date, sort lwidth(thick) lcolor(black) lwidth(medium) lpattern(dash)) /// "WoReferencerse scenario" upper
-> if date >= td(01jan2021) & date <= td(01nov2021) & provincestate == " National" ///
+> if date >= td(01jan2021) & date <= td(01dec2021) & provincestate == " National" ///
 > & DayCasLoRaA11S01 != . & DayCasUpRaA11S01 != . ///
 > , xtitle(Date) xlabel(#5, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 > xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
@@ -1251,7 +1240,7 @@ str16, now str25 to accommodate using data's values)
 > (line DayCasMeRaA11S01 date, sort lwidth(thick) lcolor(black)) /// "Reference scenario"
 > (line DayCasLoRaA11S01 date, sort lwidth(thick) lcolor(black) lwidth(medium) lpattern(dash)) /// "Reference scenario" lower
 > (line DayCasUpRaA11S01 date, sort lwidth(thick) lcolor(black) lwidth(medium) lpattern(dash)) /// "WoReferencerse scenario" upper
-> if date >= td(01sep2021) & date <= td(01nov2021) & provincestate == " National" ///
+> if date >= td(01sep2021) & date <= td(01dec2021) & provincestate == " National" ///
 > & DayCasLoRaA11S01 != . & DayCasUpRaA11S01 != . ///
 > , xtitle(Date) xlabel(, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 > xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
@@ -1284,7 +1273,7 @@ str16, now str25 to accommodate using data's values)
 > (line DayCasMeRaA11S02 date, sort lwidth(thick) lcolor(green)) /// "Better scenario"
 > (line DayCasMeRaA11S03 date, sort lwidth(thick) lcolor(red)) /// "Worse scenario"
 > (line DayCasMeRaA11S01 date, sort lwidth(thick) lcolor(black)) /// "Reference scenario"
-> if date >= td(15jun2021) & date <= td(01nov2021) & provincestate == "`l'" ///
+> if date >= td(15jun2021) & date <= td(01dec2021) & provincestate == "`l'" ///
 > , xtitle(Date) xlabel(#5, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 > xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 > ytitle(Daily cases or infections) title("COVID-19 daily cases, $country, `l', PHAC", size(medium)) /// 
@@ -1321,7 +1310,7 @@ str16, now str25 to accommodate using data's values)
 > (line DayCasMeRaA11S01 date, sort lwidth(thick) lcolor(black)) /// "Reference scenario"
 > (line DayCasLoRaA11S01 date, sort lwidth(thick) lcolor(black) lwidth(medium) lpattern(dash)) /// "Reference scenario" lower
 > (line DayCasUpRaA11S01 date, sort lwidth(thick) lcolor(black) lwidth(medium) lpattern(dash)) /// "WoReferencerse scenario" upper
-> if date >= td(15jun2021) & date <= td(01nov2021) & provincestate == "`l'" ///
+> if date >= td(15jun2021) & date <= td(01dec2021) & provincestate == "`l'" ///
 > , xtitle(Date) xlabel(#5, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 > xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 > ytitle(Daily cases or infections) title("COVID-19 daily cases, $country, `l', PHAC", size(medium)) /// 
@@ -1350,7 +1339,7 @@ str16, now str25 to accommodate using data's values)
 > (line DayCasMeRaA11S01XQC date, sort lwidth(medium) lcolor(black)) /// 5 "QC" black
 > (line DayCasMeRaA11S01XSK date, sort lwidth(medium) lcolor(orange)) /// 6 "SK" orange
 > (line DayCasMeRaA11S01XXX date, sort lwidth(thick) lcolor(gray)) /// 7 "CAN" 
-> if date >= td(15jun2021) & date <= td(01nov2021) ///
+> if date >= td(15jun2021) & date <= td(01dec2021) ///
 > , xtitle(Date) xlabel(#6, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 > xlabel(, angle(forty_five)) ylabel(, format(%9.0fc) labsize(small))  ylabel(, labsize(small) angle(forty_five)) ///
 > ytitle("Daily cases") title("COVID-19 cases, $country, reference scenario, PHAC", size(medium)) ///
@@ -1379,7 +1368,7 @@ str16, now str25 to accommodate using data's values)
 > (line DayCasMeRaA11S01XON date, sort lwidth(medium) lcolor(red)) /// 4 "ON" red
 > (line DayCasMeRaA11S01XQC date, sort lwidth(medium) lcolor(black)) /// 5 "QC" black
 > (line DayCasMeRaA11S01XSK date, sort lwidth(medium) lcolor(orange)) /// 6 "SK" orange
-> if date >= td(15jun2021) & date <= td(01nov2021) ///
+> if date >= td(15jun2021) & date <= td(01dec2021) ///
 > , xtitle(Date) xlabel(#6, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 > xlabel(, angle(forty_five)) ylabel(, format(%9.0fc) labsize(small))  ylabel(, labsize(small) angle(forty_five)) ///
 > ytitle("Daily cases") title("COVID-19 cases, $country, reference scenario, PHAC", size(medium)) ///
@@ -1553,7 +1542,7 @@ str16, now str25 to accommodate using data's values)
       {txt}name:  {res}<unnamed>
        {txt}log:  {res}/Users/farshadpourmalek/Downloads/CovidVisualizedCountry-main/20211022/code/PHAC/log CovidVisualizedCountry PHAC.smcl
   {txt}log type:  {res}smcl
- {txt}closed on:  {res}22 Oct 2021, 12:53:39
+ {txt}closed on:  {res}22 Oct 2021, 20:09:06
 {txt}{.-}
 {smcl}
 {txt}{sf}{ul off}
