@@ -28,6 +28,9 @@ Public Health Agency of Canada. Update on COVID-19 in Canada: Epidemiology and M
 
 Methods: The CSV files containing outputs of the "PHAC-McMaster model" in the above-mentioned document could not be located on the Internet. Therefore, the graphs from the above-mentioned document were digitized. See acquisition of their estimates [here](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211015/code/PHAC/PHAC-McMaster%20model%2020210903.pdf). Methods used for acquisition of PHAC-McMaster model update 20211008 estimates and update 20210903 are similar. || See graph digitization settings [here](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/graph%20digitization%20settings.md). 
 
+Graphical accuracy assessment of PHAC-McMaster model 20211008 digitized graphs compared against their correspondent published, [describe here]( https://github.com/pourmalek/CovidVisualizedCountry/blob/main/sandbox/PHAC-McMaster%20model%2020211008%20digitized%20vs%20published%20graphs.pdf), demonstrates excellent accuracy. 
+
+
 <br/><br/>
 
 #### PHAC-McMaster model Scenarios for cases by Non-Pharmaceutical Intervention levels: 
