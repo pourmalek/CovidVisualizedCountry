@@ -117,7 +117,7 @@ Better scenario: WITH public health measures this fall/winter. (Note: In PHAC-Mc
 
 ****
 
-(6b) Canada [Daily case,  3 scenarios, 3 scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211022/output/merge/main/CAN6%2054aDayCasMERGnat%202021%203scen%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20National%2C%203%20scenarios%2C%202021%2C%20uncertainty.pdf)
+(6b) Canada [Daily case, 3 scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211022/output/merge/main/CAN6%2054aDayCasMERGnat%202021%203scen%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20National%2C%203%20scenarios%2C%202021%2C%20uncertainty.pdf)
 
 ![image](https://user-images.githubusercontent.com/30849720/138534762-f8ed6e4c-8cd1-4d3c-84be-447da7359028.png)
 
