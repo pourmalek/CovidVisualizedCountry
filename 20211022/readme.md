@@ -665,6 +665,12 @@ Daily mobility, IHME, not available for Canada at the national level.
 
 ****
 
+(6b) Ontario [Daily cases, 3 scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211022/output/merge/main/SUB6%2035bDayCasMERGsub%202021%203scen%20Ontario%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Ontario%2C%203%20scenarios%2C%202021%2C%20uncertainty.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/138562350-d7d8981a-c2a3-4db8-adda-c8f9f6688f4d.png)
+
+****
+
 (7) Ontario [Hospital-related outcomes, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211022/output/merge/main/SUB7%2071bDayHosMERGsub%20alltime%20Ontario%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20Ontario.pdf)
 
 
@@ -745,6 +751,12 @@ Daily mobility, IHME, not available for Canada at the national level.
 
 (6) Quebec [Daily cases or infections, 3 scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211022/output/merge/main/SUB6%2034bDayCasMERGsub%202021%203scen%20Quebec%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Quebec%2C%203%20scenarios%2C%202021%2C%20uncertainty.pdf)
 
+
+****
+
+(6b) Quebec [Daily cases, 3 scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211022/output/merge/main/SUB6%2035bDayCasMERGsub%202021%203scen%20Quebec%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Quebec%2C%203%20scenarios%2C%202021%2C%20uncertainty.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/138562390-a3619cb5-eacc-40f9-a7d8-40ed45a9a65c.png)
 
 ****
 
@@ -842,6 +854,12 @@ Daily mobility, IHME, not available for Canada at the national level.
 
 (9) Saskatchewan [Daily deaths estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211022/output/merge/main/SUB9%2092bDayDERMERGsub%202021%20Saskatchewan%20-%20COVID-19%20daily%20deaths%20estimated%20to%20reported%2C%20Canada%2C%20Saskatchewan%2C%20reference%20scenarios%2C%202021.pdf)
 
+
+****
+
+(6b) Saskatchewan [Daily cases, 3 scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211022/output/merge/main/SUB6%2035bDayCasMERGsub%202021%203scen%20Saskatchewan%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Saskatchewan%2C%203%20scenarios%2C%202021%2C%20uncertainty.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/138562425-bd0a8bc5-9b58-4896-9814-366f9569c33f.png)
 
 ****
 
