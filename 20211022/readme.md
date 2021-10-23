@@ -123,11 +123,13 @@ Better scenario: WITH public health measures this fall/winter. (Note: In PHAC-Mc
 
 (7) Canada [Hospital-related outcomes, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211022/output/merge/main/CAN7%2071a1DayHosMERGnat%20%20alltime%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20National.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/138536016-6176c247-b507-41a0-a7c9-3b8ae3341d90.png)
 
 ****
 
 (7b) Canada [Hospital-related outcomes, all time, with PHAC](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211022/output/merge/main/CAN7%2071a12DayHosMERGnat%20%20alltime%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20National%20PHAC.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/138536050-5b90cdf5-b560-4d32-b491-9684e1ead1cb.png)
 
 ****
 
@@ -135,21 +137,25 @@ Better scenario: WITH public health measures this fall/winter. (Note: In PHAC-Mc
 
 Note: The value of the "IHME All bed capacity" is overwhelmingly different from that of the "PHAC Hospital capacity for COVID-19 patients”. 
 
+![image](https://user-images.githubusercontent.com/30849720/138536083-65ff51eb-791e-4274-9775-97612db56fb2.png)
 
 ****
 
 (8) Canada [Hospital-related outcomes, 2021, without IHME Bed need and IMPE Hospital demand](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211022/output/merge/main/CAN8%2073a2DayHosMERGnat%202021%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20National%2C%20wo%20extremes%2C%202021%20PHAC.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/138536114-f7afffcd-b78b-4bcb-ab79-4ae32d8c6470.png)
 
 ****
 
 (9) Canada [Daily deaths estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211022/output/merge/main/CAN9%2092aDayDERMERGnat%202021%20-%20COVID-19%20daily%20deaths%20estimated%20to%20reported%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/138536129-e5ff1778-30e0-4ee0-a74e-0ffb3ff47f25.png)
 
 ****
 
 (10) Canada [Daily cases or infections estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211022/output/merge/main/CAN10%2094aDayCERMERGnat%202021%20-%20COVID-19%20daily%20cases%20estimated%20to%20reported%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/138536149-fd96ca07-1c97-41c5-a953-f47d7be78a6b.png)
 
 ****
 
