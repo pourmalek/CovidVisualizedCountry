@@ -794,7 +794,7 @@ twoway ///
 (line DayCasMeRaA11S01 date, sort lwidth(thick) lcolor(black)) /// "Reference scenario"
 (line DayCasLoRaA11S01 date, sort lwidth(thick) lcolor(black) lwidth(medium) lpattern(dash)) /// "Reference scenario" lower
 (line DayCasUpRaA11S01 date, sort lwidth(thick) lcolor(black) lwidth(medium) lpattern(dash)) /// "WoReferencerse scenario" upper
-if date >= td(01jan2021) & date <= td(01nov2021) & provincestate == " National" ///
+if date >= td(01jan2021) & date <= td(01dec2021) & provincestate == " National" ///
 & DayCasLoRaA11S01 != . & DayCasUpRaA11S01 != . ///
 , xtitle(Date) xlabel(#5, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
@@ -824,7 +824,7 @@ twoway ///
 (line DayCasMeRaA11S01 date, sort lwidth(thick) lcolor(black)) /// "Reference scenario"
 (line DayCasLoRaA11S01 date, sort lwidth(thick) lcolor(black) lwidth(medium) lpattern(dash)) /// "Reference scenario" lower
 (line DayCasUpRaA11S01 date, sort lwidth(thick) lcolor(black) lwidth(medium) lpattern(dash)) /// "WoReferencerse scenario" upper
-if date >= td(01sep2021) & date <= td(01nov2021) & provincestate == " National" ///
+if date >= td(01sep2021) & date <= td(01dec2021) & provincestate == " National" ///
 & DayCasLoRaA11S01 != . & DayCasUpRaA11S01 != . ///
 , xtitle(Date) xlabel(, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
@@ -852,7 +852,7 @@ twoway ///
 (line DayCasMeRaA11S02 date, sort lwidth(thick) lcolor(green)) /// "Better scenario"
 (line DayCasMeRaA11S03 date, sort lwidth(thick) lcolor(red)) /// "Worse scenario"
 (line DayCasMeRaA11S01 date, sort lwidth(thick) lcolor(black)) /// "Reference scenario"
-if date >= td(15jun2021) & date <= td(01nov2021) & provincestate == "`l'" ///
+if date >= td(15jun2021) & date <= td(01dec2021) & provincestate == "`l'" ///
 , xtitle(Date) xlabel(#5, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily cases or infections) title("COVID-19 daily cases, $country, `l', PHAC", size(medium)) /// 
@@ -886,7 +886,7 @@ twoway ///
 (line DayCasMeRaA11S01 date, sort lwidth(thick) lcolor(black)) /// "Reference scenario"
 (line DayCasLoRaA11S01 date, sort lwidth(thick) lcolor(black) lwidth(medium) lpattern(dash)) /// "Reference scenario" lower
 (line DayCasUpRaA11S01 date, sort lwidth(thick) lcolor(black) lwidth(medium) lpattern(dash)) /// "WoReferencerse scenario" upper
-if date >= td(15jun2021) & date <= td(01nov2021) & provincestate == "`l'" ///
+if date >= td(15jun2021) & date <= td(01dec2021) & provincestate == "`l'" ///
 , xtitle(Date) xlabel(#5, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily cases or infections) title("COVID-19 daily cases, $country, `l', PHAC", size(medium)) /// 
@@ -914,7 +914,7 @@ twoway ///
 (line DayCasMeRaA11S01XQC date, sort lwidth(medium) lcolor(black)) /// 5 "QC" black
 (line DayCasMeRaA11S01XSK date, sort lwidth(medium) lcolor(orange)) /// 6 "SK" orange
 (line DayCasMeRaA11S01XXX date, sort lwidth(thick) lcolor(gray)) /// 7 "CAN" 
-if date >= td(15jun2021) & date <= td(01nov2021) ///
+if date >= td(15jun2021) & date <= td(01dec2021) ///
 , xtitle(Date) xlabel(#6, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%9.0fc) labsize(small))  ylabel(, labsize(small) angle(forty_five)) ///
 ytitle("Daily cases") title("COVID-19 cases, $country, reference scenario, PHAC", size(medium)) ///
@@ -940,7 +940,7 @@ twoway ///
 (line DayCasMeRaA11S01XON date, sort lwidth(medium) lcolor(red)) /// 4 "ON" red
 (line DayCasMeRaA11S01XQC date, sort lwidth(medium) lcolor(black)) /// 5 "QC" black
 (line DayCasMeRaA11S01XSK date, sort lwidth(medium) lcolor(orange)) /// 6 "SK" orange
-if date >= td(15jun2021) & date <= td(01nov2021) ///
+if date >= td(15jun2021) & date <= td(01dec2021) ///
 , xtitle(Date) xlabel(#6, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%9.0fc) labsize(small))  ylabel(, labsize(small) angle(forty_five)) ///
 ytitle("Daily cases") title("COVID-19 cases, $country, reference scenario, PHAC", size(medium)) ///
