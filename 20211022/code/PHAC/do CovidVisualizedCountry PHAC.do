@@ -746,7 +746,7 @@ twoway ///
 (line DayCasMeRaA11S02 date, sort lwidth(thick) lcolor(green)) /// "Better scenario"
 (line DayCasMeRaA11S03 date, sort lwidth(thick) lcolor(red)) /// "Worse scenario"
 (line DayCasMeRaA11S01 date, sort lwidth(thick) lcolor(black)) /// "Reference scenario"
-if date >= td(01jan2021) & date <= td(01nov2021) & provincestate == " National" ///
+if date >= td(01jan2021) & date <= td(01dec2021) & provincestate == " National" ///
 , xtitle(Date) xlabel(#5, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily cases or infections) title("COVID-19 daily cases, $country, National, PHAC", size(medium)) /// 
@@ -767,7 +767,7 @@ twoway ///
 (line DayCasMeRaA11S02 date, sort lwidth(thick) lcolor(green)) /// "Better scenario"
 (line DayCasMeRaA11S03 date, sort lwidth(thick) lcolor(red)) /// "Worse scenario"
 (line DayCasMeRaA11S01 date, sort lwidth(thick) lcolor(black)) /// "Reference scenario"
-if date >= td(01sep2021) & date <= td(01nov2021) & provincestate == " National" ///
+if date >= td(01sep2021) & date <= td(01dec2021) & provincestate == " National" ///
 , xtitle(Date) xlabel(#3, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily cases or infections) title("COVID-19 daily cases, $country, National, PHAC", size(medium)) /// 
