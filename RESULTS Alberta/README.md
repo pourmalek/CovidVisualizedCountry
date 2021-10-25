@@ -40,7 +40,6 @@ Graphs for Alberta were added here starting from uptake 20210726 onwards.
 ![image](https://user-images.githubusercontent.com/30849720/136870251-f87fe679-31b8-4837-9e4d-027bf8eeab9e.png)
 
 *
-*
 
 **uptake 20211001**: DELP 20210930, **_IHME 20211001_**, IMPE 20210924, LANL 20210926, SRIV 20210930, PHAC 20210903
 
@@ -217,7 +216,6 @@ Graphs for Alberta were added here starting from uptake 20210726 onwards.
 ![image](https://user-images.githubusercontent.com/30849720/136870286-ca373600-5150-4378-8e0c-e2257d02cb8c.png)
 
 *
-*
 
 **uptake 20211001**: DELP 20210930, **_IHME 20211001_**, IMPE 20210924, LANL 20210926, SRIV 20210930, PHAC 20210903
 
@@ -391,7 +389,6 @@ Graphs for Alberta were added here starting from uptake 20210726 onwards.
 ![image](https://user-images.githubusercontent.com/30849720/136870328-4a87445d-c613-4336-9896-347cbd93d5d8.png)
 
 *
-*
 
 **uptake 20211001**: DELP 20210930, **_IHME 20211001_**, IMPE 20210924, LANL 20210926, SRIV 20210930, PHAC 20210903
 
@@ -564,7 +561,6 @@ Graphs for Alberta were added here starting from uptake 20210726 onwards.
 ![image](https://user-images.githubusercontent.com/30849720/136870363-aaf54fac-d5f7-4eda-af62-725e23c37a95.png)
 
 *
-*
 
 **uptake 20211001**: DELP 20210930, **_IHME 20211001_**, IMPE 20210924, LANL 20210926, SRIV 20210930, PHAC 20210903
 
@@ -736,7 +732,6 @@ Graphs for Alberta were added here starting from uptake 20210726 onwards.
 
 ![image](https://user-images.githubusercontent.com/30849720/136870531-c8990c49-059d-426a-ae62-f0c59556dcb8.png)
 
-*
 *
 
 **uptake 20211001**: DELP 20210930, **_IHME 20211001_**, IMPE 20210924, LANL 20210926, SRIV 20210930, PHAC 20210903
@@ -1065,7 +1060,7 @@ Graphs for Alberta were added here starting from uptake 20210726 onwards.
 ****
 ****
   
-#### graph (7) Alberta - Hospital-related outcomes, all time 
+#### graph (6b) Alberta - Daily cases, 3 scenarios, 2021
   
   
   
@@ -1120,7 +1115,6 @@ Graphs for Alberta were added here starting from uptake 20210726 onwards.
 
 ![image](https://user-images.githubusercontent.com/30849720/136870659-03c2d3b4-c879-4753-89e7-ea9e38249182.png)
 
-*
 *
 
 **uptake 20211001**: DELP 20210930, **_IHME 20211001_**, IMPE 20210924, LANL 20210926, SRIV 20210930, PHAC 20210903
@@ -1298,7 +1292,6 @@ Graphs for Alberta were added here starting from uptake 20210726 onwards.
 
 ![image](https://user-images.githubusercontent.com/30849720/136871152-a657af0e-7b8f-4353-a399-5c1784f8beea.png)
 
-*
 *
 
 **uptake 20211001**: DELP 20210930, **_IHME 20211001_**, IMPE 20210924, LANL 20210926, SRIV 20210930, PHAC 20210903
@@ -1655,7 +1648,6 @@ Graphs for Alberta were added here starting from uptake 20210726 onwards.
 ![image](https://user-images.githubusercontent.com/30849720/136871564-9465854b-521e-48c3-8476-133c2c93248d.png)
 
 *
-*
 
 **uptake 20211001**: DELP 20210930, **_IHME 20211001_**, IMPE 20210924, LANL 20210926, SRIV 20210930, PHAC 20210903
 
@@ -1834,7 +1826,6 @@ Graphs for Alberta were added here starting from uptake 20210726 onwards.
 uptake 20211008 and uptake 20211001 both use IHME 20211001.
 
 *
-*
 
 **uptake 20211001**: DELP 20210930, **_IHME 20211001_**, IMPE 20210924, LANL 20210926, SRIV 20210930, PHAC 20210903
 
@@ -1992,7 +1983,6 @@ uptake 20210920 and uptake 20210916 both use IHME 20210916.
 uptake 20211008 and uptake 20211001 both use IHME 20211001.
 
 *
-*
 
 **uptake 20211001**: DELP 20210930, **_IHME 20211001_**, IMPE 20210924, LANL 20210926, SRIV 20210930, PHAC 20210903
 
@@ -2069,7 +2059,6 @@ uptake 20210920 and uptake 20210916 both use IHME 20210916.
 
 uptake 20211008 and uptake 20211001 both use IHME 20211001.
 
-*
 *
 
 **uptake 20211001**: DELP 20210930, **_IHME 20211001_**, IMPE 20210924, LANL 20210926, SRIV 20210930, PHAC 20210903
