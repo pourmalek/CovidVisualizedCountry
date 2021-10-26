@@ -19,7 +19,9 @@ Note: The following additional graphs were added starting from uptake 20210923.
 
 **uptake 20211022**: **_DELP 20211019_**, **_IHME 20211021_**, IMPE 20211006, **_SRIV 20211017_**, PHAC 20211008
 
+(1) Canada provinces [Daily reported deaths, reference scenarios, all time, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211022/output/IHME/graph%2011a%20C-19%20daily%20reported%20deaths%2C%20Canada%2C%20subnational%2C%20IHME%2C%20reference%20scenario.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/138544260-11fff01d-467e-4579-b06b-3fff9df232b8.png)
 
 *
 
@@ -35,7 +37,6 @@ Note: The following additional graphs were added starting from uptake 20210923.
 
 uptake 20211008 and uptake 20211001 both use IHME 20211001.
 
-*
 *
 
 **uptake 20211001**: DELP 20210930, **_IHME 20211001_**, IMPE 20210924, LANL 20210926, SRIV 20210930, PHAC 20210903
@@ -76,7 +77,9 @@ uptake 20210928 and uptake 20210923 both use IHME 20210923.
 
 **uptake 20211022**: **_DELP 20211019_**, **_IHME 20211021_**, IMPE 20211006, **_SRIV 20211017_**, PHAC 20211008
 
+(2) Canada provinces [Daily excess deaths, reference scenarios, all time, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211022/output/IHME/graph%2012a%20C-19%20daily%20excess%20deaths%2C%20Canada%2C%20subnational%2C%20IHME%2C%20reference%20scenario.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/138544278-a45807ee-ce30-4d85-a637-890c349f1c0a.png)
 
 *
 
@@ -92,7 +95,6 @@ uptake 20210928 and uptake 20210923 both use IHME 20210923.
 
 uptake 20211008 and uptake 20211001 both use IHME 20211001.
 
-*
 *
 
 **uptake 20211001**: DELP 20210930, **_IHME 20211001_**, IMPE 20210924, LANL 20210926, SRIV 20210930, PHAC 20210903
@@ -135,7 +137,9 @@ uptake 20210928 and uptake 20210923 both use IHME 20210923.
 
 **uptake 20211022**: **_DELP 20211019_**, **_IHME 20211021_**, IMPE 20211006, **_SRIV 20211017_**, PHAC 20211008
 
+(3) Canada provinces [Daily infections, reference scenarios, all time, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211022/output/IHME/graph%2021a%20C-19%20daily%20infections%2C%20Canada%2C%20subnational%2C%20IHME%2C%20reference%20scenario.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/138544294-6717fcb8-113b-4cc3-ad7d-27cf9d8a3c1f.png)
 
 *
 
@@ -151,7 +155,6 @@ uptake 20210928 and uptake 20210923 both use IHME 20210923.
 
 uptake 20211008 and uptake 20211001 both use IHME 20211001.
 
-*
 *
 
 **uptake 20211001**: DELP 20210930, **_IHME 20211001_**, IMPE 20210924, LANL 20210926, SRIV 20210930, PHAC 20210903
@@ -192,7 +195,9 @@ uptake 20210928 and uptake 20210923 both use IHME 20210923.
 
 **uptake 20211022**: **_DELP 20211019_**, **_IHME 20211021_**, IMPE 20211006, **_SRIV 20211017_**, PHAC 20211008
 
+(4) Canada provinces [Daily infections, reference scenarios, all time, PHAC](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211022/output/PHAC/CAN11%2019aDayDeaRATE%20alltime%20IHME%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20subnational%20together%2C%20reference%20scenario%20PHAC.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/138544306-10586989-ae10-4c1b-a41c-abfb99711729.png)
 
 *
 
@@ -208,7 +213,6 @@ uptake 20210928 and uptake 20210923 both use IHME 20210923.
 
 uptake 20211008 and uptake 20211001 both use PHAC 20210903.
 
-*
 *
 
 **uptake 20211001**: DELP 20210930, **_IHME 20211001_**, IMPE 20210924, LANL 20210926, SRIV 20210930, PHAC 20210903
@@ -252,7 +256,9 @@ uptake 20210928 and uptake 20210923 both use PHAC 20210903.
 
 **uptake 20211022**: **_DELP 20211019_**, **_IHME 20211021_**, IMPE 20211006, **_SRIV 20211017_**, PHAC 20211008
 
+(5) Canada provinces [Daily infections, reference scenarios, all time, PHAC, without the national level](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211022/output/PHAC/CAN11%2019bDayDeaRATE%20alltime%20IHME%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20subnational%20together%2C%20reference%20scenario%20PHAC.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/138544321-cac72358-0a3d-4ebf-b824-7add433f7454.png)
 
 *
 
@@ -268,7 +274,6 @@ uptake 20210928 and uptake 20210923 both use PHAC 20210903.
 
 uptake 20211008 and uptake 20211001 both use PHAC 20210903.
 
-*
 *
 
 **uptake 20211001**: DELP 20210930, **_IHME 20211001_**, IMPE 20210924, LANL 20210926, SRIV 20210930, PHAC 20210903
