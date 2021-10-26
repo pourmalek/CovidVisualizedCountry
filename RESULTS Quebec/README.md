@@ -16,7 +16,9 @@
 
 **uptake 20211022**: **_DELP 20211019_**, **_IHME 20211021_**, IMPE 20211006, **_SRIV 20211017_**, PHAC 20211008
 
+(1) Quebec [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211022/output/merge/main/SUB1%2011bDayDeaMERGsub%20alltime%20Quebec%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/138570812-eeb56a50-17b2-403b-9cdc-3b44a1a25c41.png)
 
 *
 
@@ -34,7 +36,6 @@
 
 ![image](https://user-images.githubusercontent.com/30849720/136880769-be44dc05-7594-45ea-88d8-9746a577978c.png)
 
-*
 *
 
 **uptake 20211001**: DELP 20210930, **_IHME 20211001_**, IMPE 20210924, LANL 20210926, SRIV 20210930, PHAC 20210903
@@ -305,7 +306,9 @@
 
 **uptake 20211022**: **_DELP 20211019_**, **_IHME 20211021_**, IMPE 20211006, **_SRIV 20211017_**, PHAC 20211008
 
+(2) Quebec [Daily deaths, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211022/output/merge/main/SUB2%2012bDayDeaMERGsub%202021%20Quebec%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/138570832-26812231-f22f-43de-88da-c6b93860e6ef.png)
 
 *
 
@@ -323,7 +326,6 @@
 
 ![image](https://user-images.githubusercontent.com/30849720/136880840-f77360f8-7e9a-49c3-873c-7a9e245947a7.png)
 
-*
 *
 
 **uptake 20211001**: DELP 20210930, **_IHME 20211001_**, IMPE 20210924, LANL 20210926, SRIV 20210930, PHAC 20210903
@@ -594,7 +596,9 @@
 
 **uptake 20211022**: **_DELP 20211019_**, **_IHME 20211021_**, IMPE 20211006, **_SRIV 20211017_**, PHAC 20211008
 
+(3) Quebec [Daily deaths, 3 scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211022/output/merge/main/SUB3%2014b1DayDeaMERGsub%202021%203%20scenarios%20Quebec%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Quebec%2C%203%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/138570848-170f20f7-29ab-40c0-8aa0-8a6751ca87e5.png)
 
 *
 
@@ -612,7 +616,6 @@
 
 ![image](https://user-images.githubusercontent.com/30849720/136880940-42259af9-16df-4b80-a7d4-7a0d74992a5b.png)
 
-*
 *
 
 **uptake 20211001**: DELP 20210930, **_IHME 20211001_**, IMPE 20210924, LANL 20210926, SRIV 20210930, PHAC 20210903
@@ -883,7 +886,9 @@
 
 **uptake 20211022**: **_DELP 20211019_**, **_IHME 20211021_**, IMPE 20211006, **_SRIV 20211017_**, PHAC 20211008
 
+(4) Quebec [Daily cases or infections, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211022/output/merge/main/SUB4%2031bDayCasMERGsub%20alltime%20Quebec%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/138570864-942edc87-85ba-4c80-96c3-2e5658e74c74.png)
 
 *
 
@@ -901,7 +906,6 @@
 
 ![image](https://user-images.githubusercontent.com/30849720/136881031-a6f360ef-b904-4e40-8d53-846be380ad83.png)
 
-*
 *
 
 **uptake 20211001**: DELP 20210930, **_IHME 20211001_**, IMPE 20210924, LANL 20210926, SRIV 20210930, PHAC 20210903
@@ -1173,7 +1177,9 @@
 
 **uptake 20211022**: **_DELP 20211019_**, **_IHME 20211021_**, IMPE 20211006, **_SRIV 20211017_**, PHAC 20211008
 
+(5) Quebec [Daily cases or infections, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211022/output/merge/main/SUB5%2032bDayCasMERGsub%202021%20Quebec%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/138570889-439e9c3b-1a72-4b60-aa31-55fdb1d8d453.png)
 
 *
 
@@ -1191,7 +1197,6 @@
 
 ![image](https://user-images.githubusercontent.com/30849720/136881099-8588e2f5-8e23-4a9c-8e38-65d77bb896b1.png)
 
-*
 *
 
 **uptake 20211001**: DELP 20210930, **_IHME 20211001_**, IMPE 20210924, LANL 20210926, SRIV 20210930, PHAC 20210903
@@ -1462,7 +1467,9 @@
 
 **uptake 20211022**: **_DELP 20211019_**, **_IHME 20211021_**, IMPE 20211006, **_SRIV 20211017_**, PHAC 20211008
 
+(6) Quebec [Daily cases or infections, 3 scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211022/output/merge/main/SUB6%2034bDayCasMERGsub%202021%203scen%20Quebec%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Quebec%2C%203%20scenarios%2C%202021%2C%20uncertainty.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/138570901-90295b65-50e9-4d93-86db-125e8b847420.png)
 
 *
 
@@ -1480,7 +1487,6 @@
 
 ![image](https://user-images.githubusercontent.com/30849720/136881144-46abc37c-bb54-4091-8273-c9be3ef4c562.png)
 
-*
 *
 
 **uptake 20211001**: DELP 20210930, **_IHME 20211001_**, IMPE 20210924, LANL 20210926, SRIV 20210930, PHAC 20210903
@@ -1734,6 +1740,26 @@
   
   
  
+ 
+ 
+ 
+****
+****
+  
+#### graph (6b) Quebec - Daily cases, 3 scenarios, 2021
+  
+  
+  
+  
+*
+
+(6b) Quebec [Daily cases, 3 scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211022/output/merge/main/SUB6%2035bDayCasMERGsub%202021%203scen%20Quebec%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Quebec%2C%203%20scenarios%2C%202021%2C%20uncertainty.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/138562390-a3619cb5-eacc-40f9-a7d8-40ed45a9a65c.png) 
+ 
+* 
+ 
+ 
   
   
   
@@ -1752,7 +1778,9 @@
 
 **uptake 20211022**: **_DELP 20211019_**, **_IHME 20211021_**, IMPE 20211006, **_SRIV 20211017_**, PHAC 20211008
 
+(7) Quebec [Hospital-related outcomes, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211022/output/merge/main/SUB7%2071bDayHosMERGsub%20alltime%20Quebec%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20Quebec.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/138570918-382d69ac-665f-4982-a4d3-8d828377f2ea.png)
 
 *
 
@@ -1770,7 +1798,6 @@
 
 ![image](https://user-images.githubusercontent.com/30849720/136881205-0288b554-4381-4ec0-86e5-fa12bbf2d144.png)
 
-*
 *
 
 **uptake 20211001**: DELP 20210930, **_IHME 20211001_**, IMPE 20210924, LANL 20210926, SRIV 20210930, PHAC 20210903
@@ -2041,7 +2068,9 @@
 
 **uptake 20211022**: **_DELP 20211019_**, **_IHME 20211021_**, IMPE 20211006, **_SRIV 20211017_**, PHAC 20211008
 
+(8) Quebec [Hospital-related outcomes, 2021, without IHME Bed need and IMPE Hospital demand](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211022/output/merge/main/SUB8%2073bDayHosMERGsub%202021%20woextremes%20Quebec%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20Quebec%2C%20wo%20extremes%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/138570940-25fbd446-c68f-4d03-aa65-31c175af78c1.png)
 
 *
 
@@ -2059,7 +2088,6 @@
 
 ![image](https://user-images.githubusercontent.com/30849720/136881284-5b297154-199a-4d24-8d3e-90b130f0ebf3.png)
 
-*
 *
 
 **uptake 20211001**: DELP 20210930, **_IHME 20211001_**, IMPE 20210924, LANL 20210926, SRIV 20210930, PHAC 20210903
@@ -2329,7 +2357,9 @@
 
 **uptake 20211022**: **_DELP 20211019_**, **_IHME 20211021_**, IMPE 20211006, **_SRIV 20211017_**, PHAC 20211008
 
+(9) Quebec [Daily deaths estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211022/output/merge/main/SUB9%2092bDayDERMERGsub%202021%20Quebec%20-%20COVID-19%20daily%20deaths%20estimated%20to%20reported%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/138570956-b9b323eb-0751-475e-99e0-f0f6392131af.png)
 
 *
 
@@ -2347,7 +2377,6 @@
 
 ![image](https://user-images.githubusercontent.com/30849720/136881368-7863803b-c2a6-4c38-bbac-0386a1d9ec51.png)
 
-*
 *
 
 **uptake 20211001**: DELP 20210930, **_IHME 20211001_**, IMPE 20210924, LANL 20210926, SRIV 20210930, PHAC 20210903
@@ -2613,7 +2642,9 @@
 
 **uptake 20211022**: **_DELP 20211019_**, **_IHME 20211021_**, IMPE 20211006, **_SRIV 20211017_**, PHAC 20211008
 
+(10) Quebec [Daily cases or infections estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211022/output/merge/main/SUB10%2094bDayCERMERGsub%202021%20Quebec%20-%20COVID-19%20daily%20cases%20estimated%20to%20reported%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/138570968-b31735dc-bfda-4c78-92b9-992bd04dc87a.png)
 
 *
 
@@ -2631,7 +2662,6 @@
 
 ![image](https://user-images.githubusercontent.com/30849720/136881435-7641f662-795a-4227-8855-89decd983bd9.png)
 
-*
 *
 
 **uptake 20211001**: DELP 20210930, **_IHME 20211001_**, IMPE 20210924, LANL 20210926, SRIV 20210930, PHAC 20210903
@@ -2906,7 +2936,9 @@
 
 **uptake 20211022**: **_DELP 20211019_**, **_IHME 20211021_**, IMPE 20211006, **_SRIV 20211017_**, PHAC 20211008
 
+(11) Quebec [R effective, 3 scenarios, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211022/output/IHME/graph%2072a%20C-19%20R%20effective%2C%20Canada%2C%20Quebec%2C%20IHME%2C%203%20scenarios.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/138570985-98f60a20-9406-4f49-b422-a7384481abd9.png)
 
 *
 
@@ -2922,7 +2954,6 @@
 
 uptake 20211008 and uptake 20211001 both use IHME 20211001.
 
-*
 *
 
 **uptake 20211001**: DELP 20210930, **_IHME 20211001_**, IMPE 20210924, LANL 20210926, SRIV 20210930, PHAC 20210903
@@ -2981,7 +3012,9 @@ uptake 20210920 and uptake 20210916 both use IHME 20210916.
 
 **uptake 20211022**: **_DELP 20211019_**, **_IHME 20211021_**, IMPE 20211006, **_SRIV 20211017_**, PHAC 20211008
 
+(12) Quebec [Daily Infection-outcomes ratios, 3 scenarios, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211022/output/merge/main/graph%2091b%20COVID-19%20daily%20Infection%20outcomes%20ratios%2C%20Canada%2C%20Quebec%203%20scenarios%2C%20IHME.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/138571004-d01ad83d-62a9-4af5-a9dc-ed57c272a5ff.png)
 
 *
 
@@ -2998,8 +3031,6 @@ uptake 20210920 and uptake 20210916 both use IHME 20210916.
 uptake 20211008 and uptake 20211001 both use IHME 20211001.
 
 *
-*
-
 
 **uptake 20211001**: DELP 20210930, **_IHME 20211001_**, IMPE 20210924, LANL 20210926, SRIV 20210930, PHAC 20210903
 
@@ -3056,7 +3087,9 @@ uptake 20210920 and uptake 20210916 both use IHME 20210916.
 
 **uptake 20211022**: **_DELP 20211019_**, **_IHME 20211021_**, IMPE 20211006, **_SRIV 20211017_**, PHAC 20211008
 
+(13) Quebec [Daily mobility, 3 scenarios, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211022/output/merge/main/graph%2092a%20COVID-19%20daily%20mobility%2C%20Canada%2C%20Quebec%2C%203%20scenarios.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/138571020-e37a5c2d-3ad0-4ab6-80bb-972620cb1452.png)
 
 *
 
@@ -3073,8 +3106,6 @@ uptake 20210920 and uptake 20210916 both use IHME 20210916.
 uptake 20211008 and uptake 20211001 both use IHME 20211001.
 
 *
-*
-
 
 **uptake 20211001**: DELP 20210930, **_IHME 20211001_**, IMPE 20210924, LANL 20210926, SRIV 20210930, PHAC 20210903
 
@@ -3134,7 +3165,9 @@ uptake 20210920 and uptake 20210916 both use IHME 20210916.
 
 **uptake 20211022**: **_DELP 20211019_**, **_IHME 20211021_**, IMPE 20211006, **_SRIV 20211017_**, PHAC 20211008
 
+(14) Quebec [Daily mask use, 3 scenarios, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211022/output/merge/main/graph%2093b%20COVID-19%20daily%20mask_use%2C%20Canada%2C%20Quebec%2C%203%20scenarios.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/138571032-b1b572b1-6a95-4588-b581-8927f166ceb6.png)
 
 *
 
@@ -3151,8 +3184,6 @@ uptake 20210920 and uptake 20210916 both use IHME 20210916.
 uptake 20211008 and uptake 20211001 both use IHME 20211001.
 
 *
-*
-
 
 **uptake 20211001**: DELP 20210930, **_IHME 20211001_**, IMPE 20210924, LANL 20210926, SRIV 20210930, PHAC 20210903
 
@@ -3212,7 +3243,9 @@ uptake 20210920 and uptake 20210916 both use IHME 20210916.
 
 **uptake 20211022**: **_DELP 20211019_**, **_IHME 20211021_**, IMPE 20211006, **_SRIV 20211017_**, PHAC 20211008
 
+(15) Quebec [Percent cumulative vaccinated, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211022/output/merge/main/graph%2094b%20COVID-19%20percent%20cumulative%20vaccinated%2C%20Canada%2C%20Quebec.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/138571156-475c71c7-6478-4ec1-8010-74a10fa5b4c3.png)
 
 *
 
@@ -3229,8 +3262,6 @@ uptake 20210920 and uptake 20210916 both use IHME 20210916.
 uptake 20211008 and uptake 20211001 both use IHME 20211001.
 
 *
-*
-
 
 **uptake 20211001**: DELP 20210930, **_IHME 20211001_**, IMPE 20210924, LANL 20210926, SRIV 20210930, PHAC 20210903
 
