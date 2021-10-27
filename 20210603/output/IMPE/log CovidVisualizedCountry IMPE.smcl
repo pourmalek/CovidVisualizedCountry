@@ -3,7 +3,7 @@
       name:  {res}<unnamed>
        {txt}log:  {res}/Users/farshadpourmalek/Downloads/CovidVisualizedCountry-main/20210603/code/IMPE/log CovidVisualizedCountry IMPE.smcl
   {txt}log type:  {res}smcl
- {txt}opened on:  {res}29 Jun 2021, 10:04:50
+ {txt}opened on:  {res}27 Oct 2021, 04:01:58
 {txt}
 {com}. 
 . ***************************************************************************
@@ -29,7 +29,7 @@
 . 
 . * get IMPE estimates
 . 
-. copy https://raw.githubusercontent.com/mrc-ide/global-lmic-reports/master/data/2021-05-27_v8.csv.zip 2021-05-27_v8.csv.zip
+. copy https://mrcdata.dide.ic.ac.uk/global-lmic-reports/2021-05-27_v8.csv.zip 2021-05-27_v8.csv.zip
 {txt}
 {com}. unzipfile 2021-05-27_v8.csv.zip, replace
 {res}{txt}    inflating: 2021-05-27_v8.csv
@@ -1332,7 +1332,8 @@ DayDMuMeR~02 {c |}{res}        563    11053.14    11461.43          0   37343.49
 {txt}
 {com}. 
 . save "CovidVisualizedCountry IMPE.dta", replace
-{txt}file CovidVisualizedCountry IMPE.dta saved
+{txt}(note: file CovidVisualizedCountry IMPE.dta not found)
+file CovidVisualizedCountry IMPE.dta saved
 
 {com}. 
 . 
@@ -1945,7 +1946,7 @@ DayDMuMeR~02 {c |}{res}        563    11053.14    11461.43          0   37343.49
       {txt}name:  {res}<unnamed>
        {txt}log:  {res}/Users/farshadpourmalek/Downloads/CovidVisualizedCountry-main/20210603/code/IMPE/log CovidVisualizedCountry IMPE.smcl
   {txt}log type:  {res}smcl
- {txt}closed on:  {res}29 Jun 2021, 10:08:44
+ {txt}closed on:  {res}27 Oct 2021, 04:07:01
 {txt}{.-}
 {smcl}
 {txt}{sf}{ul off}
