@@ -33,7 +33,7 @@ clear all
 
 /*
 
-copy https://raw.githubusercontent.com/mrc-ide/global-lmic-reports/master/data/2021-09-24_v8.csv.zip 2021-09-24_v8.csv.zip
+copy https://mrcdata.dide.ic.ac.uk/global-lmic-reports/2021-09-24_v8.csv.zip 2021-09-24_v8.csv.zip
 unzipfile 2021-09-24_v8.csv.zip, replace
 erase 2021-09-24_v8.csv.zip
 
