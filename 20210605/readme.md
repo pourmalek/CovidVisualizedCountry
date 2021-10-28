@@ -1,10 +1,10 @@
 ### Study update dates in uptake 20210605
 
-DELP 20210604, IHME 20210604, **_IMPE 20210604_**, LANL 20210602, SRIV 20210604
+DELP 20210603, IHME 20210604, **_IMPE 20210604_**, LANL 20210602, SRIV 20210604
 
 This uptake is actually uptake 20210604 number 2, because IMPE update 20210604 (2021-06-04_v8.csv.zip) was released on 20210608.
 
-
+>>> 20211028 Keep up with changes made by model developers: DELP update 20210604 was available on https://github.com/COVIDAnalytics/website/tree/master/data/predicted on 20210604, but it is not available on 20211028. DELP 20210604 is therefore replaced with 20210603.
 
 ****
 ****
