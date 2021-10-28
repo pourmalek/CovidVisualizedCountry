@@ -2,7 +2,7 @@
 
 DELP 20210604, **_IHME 20210604_**, IMPE 20210527, LANL 20210602, SRIV 20210604
 
-
+>>> 20211028 Keep up with changes made by model developers: DELP update 20210604 was available on https://github.com/COVIDAnalytics/website/tree/master/data/predicted on 20210604, but it is not available on 20211028. DELP 20210604 is therefore replaced with 20210603.
 
 ****
 ****
