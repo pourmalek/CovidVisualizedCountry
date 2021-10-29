@@ -5,7 +5,7 @@
 
 ### Study update dates in uptake 20211029
 
-**_DELP 20211029_**, IHME 20211021, **_IMPE 20211021_**, **_SRIV 20211029_**
+**_DELP 20211029_**, IHME 20211021, **_IMPE 20211021_**, **_SRIV 20211029_**, PHAC 20211008
 
 IMPE update 20211021 (2021-10-21_v8.csv.zip) released on 20211025.
 
