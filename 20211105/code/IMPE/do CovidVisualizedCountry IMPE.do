@@ -20,7 +20,7 @@ log using "log CovidVisualizedCountry IMPE.smcl", replace
 
 
                                                                                                          ***************************
-* To change update date, find and replace all, 2021-11-04 (old), with 2021-11-04 (new) <<--       <<<--- * change update date here *
+* To change update date, find and replace all, 2021-10-27 (old), with 2021-10-27 (new) <<--       <<<--- * change update date here *
                                                                                                          ***************************
 
 
@@ -33,13 +33,13 @@ clear all
 
 /*
 
-copy https://mrcdata.dide.ic.ac.uk/global-lmic-reports/2021-11-04_v8.csv.zip 2021-11-04_v8.csv.zip
-unzipfile 2021-11-04_v8.csv.zip, replace
-erase 2021-11-04_v8.csv.zip
+copy https://mrcdata.dide.ic.ac.uk/global-lmic-reports/2021-10-27_v8.csv.zip 2021-10-27_v8.csv.zip
+unzipfile 2021-10-27_v8.csv.zip, replace
+erase 2021-10-27_v8.csv.zip
 
-Note: On 20210920, IMPE removed their THREE available previous updates, and uploaded their new update, 2021-11-04_v8.csv.zip. "GBarnsley Remove old pages to save on site space 63c9e0e". 
+Note: On 20210920, IMPE removed their THREE available previous updates, and uploaded their new update, 2021-10-27_v8.csv.zip. "GBarnsley Remove old pages to save on site space 63c9e0e". 
 
-For use in this code, IMPE estimates for Canada from “2021-11-04_v8.csv” is stored in file "2021-11-04_v8 Canada.csv".
+For use in this code, IMPE estimates for Canada from “2021-10-27_v8.csv” is stored in file "2021-10-27_v8 Canada.csv".
 
 */
 
@@ -48,7 +48,7 @@ For use in this code, IMPE estimates for Canada from “2021-11-04_v8.csv” is 
 
 * import csv file
 
-import delimited "2021-11-04_v8 Canada.csv", clear varnames(1) // * Wait Note: large file size, takes a while ...
+import delimited "2021-10-27_v8 Canada.csv", clear varnames(1) // * Wait Note: large file size, takes a while ...
 
 
 // keep if country == "$country"
