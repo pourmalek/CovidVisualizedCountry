@@ -1548,6 +1548,9 @@ _Component studies (the international periodically updated models) and their sce
   
 
   
+  
+(35) uptake [`20211105`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20211105): **_DELP 20211105_**, **_IHME 20211104_**, **_IMPE 20211027_**, **_SRIV 20211105_**, PHAC 20211008
+  
 (34) uptake [`20211029`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20211029): **_DELP 20211029_**, IHME 20211021, **_IMPE 20211021_**, **_SRIV 20211029_**, PHAC 20211008  
 
 (33) uptake [`20211022`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20211022): **_DELP 20211019_**, **_IHME 20211021_**, IMPE 20211006, **_SRIV 20211017_**, PHAC 20211008
