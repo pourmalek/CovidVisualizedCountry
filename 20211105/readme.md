@@ -8,43 +8,11 @@
 
 ### Study update dates in uptake 20211105
 
-**_DELP 20211105_**, **_IHME 20211104_**, **_IMPE 20211027_**, **_SRIV 20211105_**, **_PHAC 20211105_**
+**_DELP 20211105_**, **_IHME 20211104_**, **_IMPE 20211027_**, **_SRIV 20211105_**
 
 IMPE update 20211027 (2021-10-27_v8.csv.zip) released on 20211031.
 
 <br/><br/>
-
-
-#### Notes on PHAC model, PHAC-McMaster model 20211008:
-
-The Source document used for acquisition of PHAC-McMaster model 20211008 estimates:
-
-Public Health Agency of Canada. Update on COVID-19 in Canada: Epidemiology and Modelling, October 8, 2021. hhttps://www.canada.ca/content/dam/phac-aspc/documents/services/diseases-maladies/coronavirus-disease-covid-19/epidemiological-economic-research-data/update-covid-19-canada-epidemiology-modelling-20211008-en.pdf
-
-Methods: The CSV files containing outputs of the "PHAC-McMaster model" in the above-mentioned document could not be located on the Internet. Therefore, the graphs from the above-mentioned document were digitized. See acquisition of their estimates [here](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211105/code/PHAC/PHAC-McMaster%20model%2020210903.pdf). Methods used for acquisition of PHAC-McMaster model update 20211008 estimates and update 20210903 are similar. || See graph digitization settings [here](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/graph%20digitization%20settings.md). 
-
-Graphical accuracy assessment of PHAC-McMaster model 20211008 digitized graphs compared against their correspondent published, [describe here]( https://github.com/pourmalek/CovidVisualizedCountry/blob/main/sandbox/PHAC-McMaster%20model%2020211008%20digitized%20vs%20published%20graphs.pdf), demonstrates excellent accuracy. 
-
-<br/><br/>
-
-#### PHAC-McMaster model Scenarios for cases by Non-Pharmaceutical Intervention levels: 
-
-Reference scenario: If we maintain the current levels of transmission.
-
-Better scenario: If public health measures reduce transmission by 15%. (Note: In PHAC-McMaster model 20210903, this was 25%.)
-
-Worse scenario: If further reopening increases transmission by 15%. (Note: In PHAC-McMaster model 20210903, this was 25%.)
-
-<br/><br/>
-
-#### PHAC-McMaster model Scenarios for cases hospitalized per 100 K population by combinations of Vaccinations and Non-Pharmaceutical Interventions:
-
-Reference scenario: WITHOUT public health measures this fall/winter. (Note: In PHAC-McMaster model 20210903, this was: Updated scenario with current rate of vaccination.)
-
-Better scenario: WITH public health measures this fall/winter. (Note: In PHAC-McMaster model 20210903, this was: Updated scenario with increased uptake among ages 18-39 and expedited vaccination rate.)
-
-<br/><br/>
-
 
 ****
 ****
