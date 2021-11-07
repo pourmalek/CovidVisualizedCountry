@@ -19,8 +19,7 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
   
 *
 
-**uptake 20211105**: **_DELP 20211105_**, **_IHME 20211104_**, **_IMPE 20211027_**, **_SRIV 20211105_**, PHAC 20211008
-
+**uptake 20211105**: **_DELP 20211105_**, **_IHME 20211104_**, **_IMPE 20211027_**, **_SRIV 20211105_**
 
 
 *
@@ -207,8 +206,7 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
   
 *
 
-**uptake 20211105**: **_DELP 20211105_**, **_IHME 20211104_**, **_IMPE 20211027_**, **_SRIV 20211105_**, PHAC 20211008
-
+**uptake 20211105**: **_DELP 20211105_**, **_IHME 20211104_**, **_IMPE 20211027_**, **_SRIV 20211105_**
 
 
 *
@@ -395,8 +393,7 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
 
 *
 
-**uptake 20211105**: **_DELP 20211105_**, **_IHME 20211104_**, **_IMPE 20211027_**, **_SRIV 20211105_**, PHAC 20211008
-
+**uptake 20211105**: **_DELP 20211105_**, **_IHME 20211104_**, **_IMPE 20211027_**, **_SRIV 20211105_**
 
 
 *
@@ -581,8 +578,7 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
   
 *
 
-**uptake 20211105**: **_DELP 20211105_**, **_IHME 20211104_**, **_IMPE 20211027_**, **_SRIV 20211105_**, PHAC 20211008
-
+**uptake 20211105**: **_DELP 20211105_**, **_IHME 20211104_**, **_IMPE 20211027_**, **_SRIV 20211105_**
 
 
 *
@@ -768,8 +764,7 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
   
 *
 
-**uptake 20211105**: **_DELP 20211105_**, **_IHME 20211104_**, **_IMPE 20211027_**, **_SRIV 20211105_**, PHAC 20211008
-
+**uptake 20211105**: **_DELP 20211105_**, **_IHME 20211104_**, **_IMPE 20211027_**, **_SRIV 20211105_**
 
 
 *
@@ -958,8 +953,7 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
   
 *
 
-**uptake 20211105**: **_DELP 20211105_**, **_IHME 20211104_**, **_IMPE 20211027_**, **_SRIV 20211105_**, PHAC 20211008
-
+**uptake 20211105**: **_DELP 20211105_**, **_IHME 20211104_**, **_IMPE 20211027_**, **_SRIV 20211105_**
 
 
 *
@@ -1150,8 +1144,7 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
   
 *
 
-**uptake 20211105**: **_DELP 20211105_**, **_IHME 20211104_**, **_IMPE 20211027_**, **_SRIV 20211105_**, PHAC 20211008
-
+**uptake 20211105**: **_DELP 20211105_**, **_IHME 20211104_**, **_IMPE 20211027_**, **_SRIV 20211105_**
 
 
 *
@@ -1188,8 +1181,7 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
   
 *
 
-**uptake 20211105**: **_DELP 20211105_**, **_IHME 20211104_**, **_IMPE 20211027_**, **_SRIV 20211105_**, PHAC 20211008
-
+**uptake 20211105**: **_DELP 20211105_**, **_IHME 20211104_**, **_IMPE 20211027_**, **_SRIV 20211105_**
 
 
 *
@@ -1380,8 +1372,7 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
   
 *
 
-**uptake 20211105**: **_DELP 20211105_**, **_IHME 20211104_**, **_IMPE 20211027_**, **_SRIV 20211105_**, PHAC 20211008
-
+**uptake 20211105**: **_DELP 20211105_**, **_IHME 20211104_**, **_IMPE 20211027_**, **_SRIV 20211105_**
 
 
 *
@@ -1571,8 +1562,7 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
   
 *
 
-**uptake 20211105**: **_DELP 20211105_**, **_IHME 20211104_**, **_IMPE 20211027_**, **_SRIV 20211105_**, PHAC 20211008
-
+**uptake 20211105**: **_DELP 20211105_**, **_IHME 20211104_**, **_IMPE 20211027_**, **_SRIV 20211105_**
 
 
 *
@@ -1763,8 +1753,7 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
   
 *
 
-**uptake 20211105**: **_DELP 20211105_**, **_IHME 20211104_**, **_IMPE 20211027_**, **_SRIV 20211105_**, PHAC 20211008
-
+**uptake 20211105**: **_DELP 20211105_**, **_IHME 20211104_**, **_IMPE 20211027_**, **_SRIV 20211105_**
 
 
 *
@@ -1956,8 +1945,7 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
   
 *
 
-**uptake 20211105**: **_DELP 20211105_**, **_IHME 20211104_**, **_IMPE 20211027_**, **_SRIV 20211105_**, PHAC 20211008
-
+**uptake 20211105**: **_DELP 20211105_**, **_IHME 20211104_**, **_IMPE 20211027_**, **_SRIV 20211105_**
 
 
 *
@@ -2048,8 +2036,7 @@ uptake 20210920 and uptake 20210916 both use IHME 20210916.
 
 *
 
-**uptake 20211105**: **_DELP 20211105_**, **_IHME 20211104_**, **_IMPE 20211027_**, **_SRIV 20211105_**, PHAC 20211008
-
+**uptake 20211105**: **_DELP 20211105_**, **_IHME 20211104_**, **_IMPE 20211027_**, **_SRIV 20211105_**
 
 
 *
@@ -2140,8 +2127,7 @@ uptake 20210920 and uptake 20210916 both use IHME 20210916.
 
 *
 
-**uptake 20211105**: **_DELP 20211105_**, **_IHME 20211104_**, **_IMPE 20211027_**, **_SRIV 20211105_**, PHAC 20211008
-
+**uptake 20211105**: **_DELP 20211105_**, **_IHME 20211104_**, **_IMPE 20211027_**, **_SRIV 20211105_**
 
 
 *
@@ -2230,8 +2216,7 @@ uptake 20210920 and uptake 20210916 both use IHME 20210916.
 
 *
 
-**uptake 20211105**: **_DELP 20211105_**, **_IHME 20211104_**, **_IMPE 20211027_**, **_SRIV 20211105_**, PHAC 20211008
-
+**uptake 20211105**: **_DELP 20211105_**, **_IHME 20211104_**, **_IMPE 20211027_**, **_SRIV 20211105_**
 
 
 *
@@ -2320,8 +2305,7 @@ uptake 20210920 and uptake 20210916 both use IHME 20210916.
 
 *
 
-**uptake 20211105**: **_DELP 20211105_**, **_IHME 20211104_**, **_IMPE 20211027_**, **_SRIV 20211105_**, PHAC 20211008
-
+**uptake 20211105**: **_DELP 20211105_**, **_IHME 20211104_**, **_IMPE 20211027_**, **_SRIV 20211105_**
 
 
 *
