@@ -90,18 +90,7 @@ IMPE update 20211027 (2021-10-27_v8.csv.zip) released on 20211031.
 
 (7) Canada [Hospital-related outcomes, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211105/output/merge/main/CAN7%2071a1DayHosMERGnat%20%20alltime%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20National.pdf)
 
-
-****
-
-(7b) Canada [Hospital-related outcomes, all time, with PHAC](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211105/output/merge/main/CAN7%2071a12DayHosMERGnat%20%20alltime%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20National%20PHAC.pdf)
-
-
-****
-
-(7c) Canada [Hospital-related outcomes, all time, with PHAC, with IHME bed capacity and ICU capacity](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211105/output/merge/main/CAN7%2071a22DayHosMERGnat%20%20alltime%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20National%20PHAC.pdf)
-
-Note: The value of the "IHME All bed capacity" is overwhelmingly different from that of the "PHAC Hospital capacity for COVID-19 patients”. 
-
+![image](https://user-images.githubusercontent.com/30849720/140633714-e8d4b2ed-c570-4681-9c12-2722888a17ad.png)
 
 ****
 
