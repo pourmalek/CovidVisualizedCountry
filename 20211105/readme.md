@@ -1,6 +1,3 @@
-# Add the graphs for New Brunswick and Newfoundland and Labrador
-
-
 ! Read the Canada COVID-19 epidemic models situation report No 18 - 2021-11-05 [here](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/18%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2018%20-%202021-11-05.pdf).
 
 <br/><br/>
@@ -583,6 +580,13 @@ Newfoundland and Labrador only predicted in DELP model.
 
 
 
+****
+****
+
+### Selected graphs - Northwest Territories
+
+
+****
 
 
 
