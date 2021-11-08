@@ -166,7 +166,7 @@ The codes in these repositories can be adapted for use for any country or region
   
 ### Selected graphs from latest uptake - [Ontario](https://github.com/pourmalek/CovidVisualizedCountry#selected-graphs---ontario) 
   
-### Selected graphs from latest uptake - [Prince Edward Island](https://github.com/pourmalek/CovidVisualizedCountry#selected-graphs-graphs---prince-edward-island)  
+### Selected graphs from latest uptake - [Prince Edward Island](https://github.com/pourmalek/CovidVisualizedCountry#selected-graphs---prince-edward-island)  
 
 ### Selected graphs from latest uptake - [Quebec](https://github.com/pourmalek/CovidVisualizedCountry#selected-graphs---quebec)
 
