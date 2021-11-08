@@ -783,9 +783,7 @@ Prince Edward Island predicted by none of the models. Reports to WHO available.
 
 ****
 
-(1) Prince Edward Island [Daily deaths, reference scenarios, all time]
-
-(https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211105/output/JOHN/graph%201%20c%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Prince%20Edward%20Island%2C%20Johns%20Hopkins.pdf)
+(1) Prince Edward Island [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211105/output/JOHN/graph%201%20c%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Prince%20Edward%20Island%2C%20Johns%20Hopkins.pdf)
 
 ![image](https://user-images.githubusercontent.com/30849720/140762122-fa0f7456-654f-4207-bf84-283141e3ba73.png)
 
