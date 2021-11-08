@@ -122,6 +122,12 @@ R effective, IHME, not available for Canada at the national level.
 
 ****
 
+(11b) Canada [Daily infection hospitalization & fatality ratios, 3 scenarios, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211105/output/merge/main/graph%2091a2%20COVID-19%20daily%20Infection%20outcomes%20ratios%2C%20Canada%2C%20National%203%20scenarios%2C%20IHME.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/140669384-c1c3634a-5c44-4b74-822d-bc1945093539.png)
+
+****
+
 Daily mobility, IHME, not available for Canada at the national level. 
 
 ****
