@@ -241,11 +241,7 @@ PHAC not in this uptake.
 
 (6) Alberta [Daily cases or infections, 3 scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211105/output/merge/main/SUB6%2034bDayCasMERGsub%202021%203scen%20Alberta%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Alberta%2C%203%20scenarios%2C%202021%2C%20uncertainty.pdf)
 
-
-****
-
-(6b) Alberta [Daily cases, 3 scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211105/output/merge/main/SUB6%2035bDayCasMERGsub%202021%203scen%20British%20Columbia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20British%20Columbia%2C%203%20scenarios%2C%202021%2C%20uncertainty.pdf)
-
+![image](https://user-images.githubusercontent.com/30849720/140671913-b6b730e9-6b20-4c83-8715-427d367b6393.png)
 
 ****
 
