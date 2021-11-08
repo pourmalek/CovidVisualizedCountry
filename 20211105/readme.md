@@ -42,6 +42,8 @@ IMPE update 20211027 (2021-10-27_v8.csv.zip) released on 20211031.
 
 ### Selected graphs - [Nova Scotia](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211105/readme.md#selected-graphs---nova-scotia-1)
 
+### Selected graphs - [Nunavut](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211105/readme.md#selected-graphs---nunavut-1)
+
 ### Selected graphs - [Ontario](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211105/readme.md#selected-graphs---ontario-1)
 
 ### Selected graphs - [Prince Edward Island](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211105/readme.md#selected-graphs---prince-edward-island-1)
@@ -695,6 +697,32 @@ Northwest Territories predicted by none of the models. Reports to WHO available.
 
 
 
+
+
+
+
+
+
+****
+****
+
+
+### Selected graphs - Nunavut
+
+
+****
+
+(1) Nunavut [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211105/output/JOHN/graph%201%20c%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Nunavut%2C%20Johns%20Hopkins.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/140765539-68bce7ab-9308-47f5-99d1-b50af91e4e71.png)
+
+****
+
+(2) Nunavut [Daily cases, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211105/output/JOHN/graph%202%20c%20COVID-19%20daily%20cases%2C%20Canada%2C%20Nunavut%2C%20Johns%20Hopkins.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/140765786-eaab2f88-300b-43db-9777-fce79cb35a11.png)
+
+****
 
 
 
