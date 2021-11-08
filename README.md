@@ -153,6 +153,8 @@ The codes in these repositories can be adapted for use for any country or region
 ### Selected graphs from latest uptake - [British Columbia](https://github.com/pourmalek/CovidVisualizedCountry#selected-graphs---british-columbia)
 
 ### Selected graphs from latest uptake - [Manitoba](https://github.com/pourmalek/CovidVisualizedCountry#selected-graphs---manitoba)
+  
+  https://github.com/pourmalek/CovidVisualizedCountry/blob/main/README.md#selected-graphs---newfoundland-and-labrador
 
 ### Selected graphs from latest uptake - [Nova Scotia](https://github.com/pourmalek/CovidVisualizedCountry#selected-graphs---nova-scotia)
 
