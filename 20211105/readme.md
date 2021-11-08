@@ -281,6 +281,14 @@ PHAC not in this uptake.
 
 ****
 
+(12b) Alberta [Daily infection hospitalization & fatality ratios, 3 scenarios, IHME, 2021]
+
+(https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211105/output/merge/main/graph%2091b2%20COVID-19%20daily%20Infection%20outcomes%20ratios%2C%20Canada%2C%20Alberta%203%20scenarios%2C%20IHME.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/140673163-05afe31f-5f30-4083-9336-0cb048571963.png)
+
+****
+
 (13) Alberta [Daily mobility, 3 scenarios, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211105/output/merge/main/graph%2092a%20COVID-19%20daily%20mobility%2C%20Canada%2C%20Alberta%2C%203%20scenarios.pdf)
 
 
