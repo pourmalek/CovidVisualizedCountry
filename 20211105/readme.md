@@ -52,6 +52,8 @@ IMPE update 20211027 (2021-10-27_v8.csv.zip) released on 20211031.
 
 ### Selected graphs - [Saskatchewan](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211105/readme.md#selected-graphs---saskatchewan-1)
 
+### Selected graphs - [Yukon](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211105/readme.md#selected-graphs---yukon-1)
+
 
 
 
@@ -1023,6 +1025,39 @@ Prince Edward Island predicted by none of the models. Reports to WHO available.
 
 
 ****
+
+
+
+
+
+
+
+****
+****
+
+
+### Selected graphs - Yukon
+
+****
+
+(1) Yukon [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211105/output/JOHN/graph%201%20c%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Yukon%2C%20Johns%20Hopkins.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/140766428-47b3be43-cd55-466d-b3fd-dd71e22c8a8f.png)
+
+****
+
+(2) Yukon [Daily cases, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211105/output/JOHN/graph%202%20c%20COVID-19%20daily%20cases%2C%20Canada%2C%20Yukon%2C%20Johns%20Hopkins.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/140766622-67ecc01b-ee78-4d56-a4f3-200325017a0f.png)
+
+****
+
+
+
+
+
+
+
 
 
 ****
