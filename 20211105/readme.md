@@ -709,6 +709,7 @@ Northwest Territories predicted by none of the models. Reports to WHO available.
 
 ### Selected graphs - Nunavut
 
+Nunavut predicted by none of the models. Reports to WHO available.
 
 ****
 
