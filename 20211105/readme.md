@@ -1038,6 +1038,8 @@ Prince Edward Island predicted by none of the models. Reports to WHO available.
 
 ### Selected graphs - Yukon
 
+Yukon predicted by none of the models. Reports to WHO available.
+
 ****
 
 (1) Yukon [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211105/output/JOHN/graph%201%20c%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Yukon%2C%20Johns%20Hopkins.pdf)
