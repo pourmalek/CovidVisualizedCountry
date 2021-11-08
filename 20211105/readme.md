@@ -394,6 +394,7 @@ PHAC not in this uptake.
 
 (13) British Columbia [Daily mobility, 3 scenarios, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211105/output/merge/main/graph%2092a%20COVID-19%20daily%20mobility%2C%20Canada%2C%20British%20Columbia%2C%203%20scenarios.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/140676757-f53db415-5c30-4135-a562-8a57e894bc4e.png)
 
 ****
 
