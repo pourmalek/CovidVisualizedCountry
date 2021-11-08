@@ -289,16 +289,19 @@ PHAC not in this uptake.
 
 (13) Alberta [Daily mobility, 3 scenarios, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211105/output/merge/main/graph%2092a%20COVID-19%20daily%20mobility%2C%20Canada%2C%20Alberta%2C%203%20scenarios.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/140673798-4959725a-78a6-40c2-8a71-698645214af5.png)
 
 ****
 
 (14) Alberta [Daily mask use, 3 scenarios, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211105/output/merge/main/graph%2093b%20COVID-19%20daily%20mask_use%2C%20Canada%2C%20Alberta%2C%203%20scenarios.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/140673845-ed01aeaa-e08d-41b6-8dda-6a07580ac0a8.png)
 
 ****
 
 (15) Alberta [Percent cumulative vaccinated, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211105/output/merge/main/graph%2094b%20COVID-19%20percent%20cumulative%20vaccinated%2C%20Canada%2C%20Alberta.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/140673883-2d332ba3-aa02-46de-8158-008b9e3cb77a.png)
 
 ****
 
