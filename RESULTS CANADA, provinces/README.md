@@ -19,6 +19,9 @@ Note: The following additional graphs were added starting from uptake 20210923.
 
 **uptake 20211105**: **_DELP 20211105_**, **_IHME 20211104_**, **_IMPE 20211027_**, **_SRIV 20211105_**
 
+(1) Canada provinces [Daily reported deaths, reference scenarios, all time, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211105/output/IHME/graph%2011a%20C-19%20daily%20reported%20deaths%2C%20Canada%2C%20subnational%2C%20IHME%2C%20reference%20scenario.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/140669461-cadea900-bd44-466e-9f72-90795599a1ab.png)
 
 *
 
@@ -90,6 +93,9 @@ uptake 20210928 and uptake 20210923 both use IHME 20210923.
 
 **uptake 20211105**: **_DELP 20211105_**, **_IHME 20211104_**, **_IMPE 20211027_**, **_SRIV 20211105_**
 
+(2) Canada provinces [Daily excess deaths, reference scenarios, all time, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211105/output/IHME/graph%2012a%20C-19%20daily%20excess%20deaths%2C%20Canada%2C%20subnational%2C%20IHME%2C%20reference%20scenario.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/140669522-3c6f5826-ff56-486f-9b92-e8df48fff1d1.png)
 
 *
 
@@ -163,6 +169,9 @@ uptake 20210928 and uptake 20210923 both use IHME 20210923.
 
 **uptake 20211105**: **_DELP 20211105_**, **_IHME 20211104_**, **_IMPE 20211027_**, **_SRIV 20211105_**
 
+(3) Canada provinces [Daily infections, reference scenarios, all time, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211105/output/IHME/graph%2021a%20C-19%20daily%20infections%2C%20Canada%2C%20subnational%2C%20IHME%2C%20reference%20scenario.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/140669568-731f12ee-4d71-4c61-a0c6-3a3ebfe539be.png)
 
 *
 
@@ -234,6 +243,7 @@ uptake 20210928 and uptake 20210923 both use IHME 20210923.
 
 **uptake 20211105**: **_DELP 20211105_**, **_IHME 20211104_**, **_IMPE 20211027_**, **_SRIV 20211105_**
 
+PHAC not in this uptake. 
 
 *
 
@@ -308,6 +318,7 @@ uptake 20210928 and uptake 20210923 both use PHAC 20210903.
 
 **uptake 20211105**: **_DELP 20211105_**, **_IHME 20211104_**, **_IMPE 20211027_**, **_SRIV 20211105_**
 
+PHAC not in this uptake. 
 
 *
 
