@@ -104,10 +104,13 @@ The codes in these repositories can be adapted for use for any country or region
 ********************************************************************************************************************************************
   
 ### Among the 5 available international periodically updated studies or models of COVID-19 pandemic, only TWO studies, DELP and IHME, provide subnational level estimates for some countries. 
-
-### For Canada, DELP and IHME models provide subnational estimates for SEVEN provinces: Alberta, British Columbia, Manitoba, Nova Scotia, Ontario, Quebec, and Saskatchewan.  
   
-### The PHAC-McMaster model provides estimates of cases at the national and SIX provinces’ levels (AB, BC, MB, ON, QC, SK), as well as cases hospitalized per 100 K population at the national level.   
+### For Canada, the IHME model provides subnational estimates for SEVEN provinces: Alberta, British Columbia, Manitoba, Nova Scotia, Ontario, Quebec, and Saskatchewan. The DELP model provides subnational estimates for NINE provinces, the seven above, and New Brunswick, and Newfoundland and Labrador. 
+  
+### The PHAC-McMaster model provides estimates of cases at the national and SIX provinces’ levels (AB, BC, MB, ON, QC, SK).
+  
+### Northwest Territories, Nunavut, Prince Edward Island, and Yukon are not included in any models. Only the reports to WHO are available for them. 
+  
   
   
 ********************************************************************************************************************************************
