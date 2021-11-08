@@ -45,6 +45,8 @@ IMPE update 20211027 (2021-10-27_v8.csv.zip) released on 20211031.
 
 ### Selected graphs - [Ontario](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211105/readme.md#selected-graphs---ontario-1)
 
+### Selected graphs - [Prince Edward Island](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211105/readme.md#selected-graphs---prince-edward-island-1)
+
 ### Selected graphs - [Quebec](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211105/readme.md#selected-graphs---quebec-1)
 
 ### Selected graphs - [Saskatchewan](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211105/readme.md#selected-graphs---saskatchewan-1)
@@ -763,6 +765,43 @@ Newfoundland and Labrador only predicted in DELP model.
 
 
 ****
+
+
+
+
+
+
+
+
+****
+****
+
+
+### Selected graphs - Prince Edward Island
+
+Prince Edward Island predicted by none of the models. Reports to WHO available. 
+
+****
+
+(1) Prince Edward Island [Daily deaths, reference scenarios, all time]
+
+(https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211105/output/JOHN/graph%201%20c%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Prince%20Edward%20Island%2C%20Johns%20Hopkins.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/140762122-fa0f7456-654f-4207-bf84-283141e3ba73.png)
+
+****
+
+(2) Prince Edward Island [Daily cases, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211105/output/JOHN/graph%202%20c%20COVID-19%20daily%20cases%2C%20Canada%2C%20Prince%20Edward%20Island%2C%20Johns%20Hopkins.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/140762405-7f809224-387b-434e-b59f-7165a516e058.png)
+
+****
+
+
+
+
+
+
 
 
 
