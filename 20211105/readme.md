@@ -37,6 +37,8 @@ IMPE update 20211027 (2021-10-27_v8.csv.zip) released on 20211031.
 
 ### Selected graphs - [Manitoba](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211105/readme.md#selected-graphs---manitoba-1)
 
+### Selected graphs - [New Brunswick](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211105/readme.md#selected-graphs---new-brunswick)
+
 ### Selected graphs - [Nova Scotia](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211105/readme.md#selected-graphs---nova-scotia-1)
 
 ### Selected graphs - [Ontario](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211105/readme.md#selected-graphs---ontario-1)
