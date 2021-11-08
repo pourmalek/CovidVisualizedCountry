@@ -170,7 +170,7 @@ The codes in these repositories can be adapted for use for any country or region
 
 ### Selected graphs from latest uptake - [Quebec](https://github.com/pourmalek/CovidVisualizedCountry#selected-graphs---quebec)
 
-### Selected graphs from latest uptake - [Saskatchewan](https://github.com/pourmalek/CovidVisualizedCountry#selected-graphs---Saskatchewan)  
+### Selected graphs from latest uptake - [Saskatchewan](https://github.com/pourmalek/CovidVisualizedCountry#selected-graphs---saskatchewan)  
   
 ### Selected graphs from latest uptake - [Yukon](https://github.com/pourmalek/CovidVisualizedCountry#selected-graphs---yukon)
 
