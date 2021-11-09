@@ -39,7 +39,7 @@ Graphs for Northwest Territories were added here starting from uptake 20211105 o
 ****
 
 
-#### graph (2) Northwest Territories - Daily cases, reference scenarios, 2021
+#### graph (2) Northwest Territories - Daily cases, reference scenarios, all time
 
 
 
