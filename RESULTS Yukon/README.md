@@ -39,7 +39,7 @@ Graphs for Yukon were added here starting from uptake 20211105 onwards.
 ****
 
 
-#### graph (2) Yukon - Daily cases, reference scenarios, 2021
+#### graph (2) Yukon - Daily cases, reference scenarios, all time
 
 
 
