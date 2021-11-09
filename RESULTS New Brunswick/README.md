@@ -10,9 +10,13 @@ Graphs for New Brunswick were added here starting from uptake 20211105 onwards.
 
   
   
+  
 #### graph (1) New Brunswick - Daily deaths, reference scenarios, all time
 
-  
+****
+****  
+
+
 
 
 *
@@ -22,6 +26,23 @@ Graphs for New Brunswick were added here starting from uptake 20211105 onwards.
 (1) New Brunswick [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211105/output/merge/main/SUB1b%2011bDayDeaMERGsub%20alltime%20New%20Brunswick%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20New%20Brunswick%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
 ![image](https://user-images.githubusercontent.com/30849720/140758987-266b783e-dc80-4fba-a845-ef24f3cbdffb.png)
+
+*
+
+
+
+
+
+
+
+****
+****
+
+
+#### graph (2) New Brunswick - Daily cases, reference scenarios, 2021
+
+
+
 
 *
 
