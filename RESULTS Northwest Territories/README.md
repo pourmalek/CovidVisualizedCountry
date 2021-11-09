@@ -1,6 +1,6 @@
 ### Selected graphs - Northwest Territories
 
-Northwest Territories only predicted in DELP model.
+Northwest Territories predicted by none of the models. Reports to WHO available.
 
 Graphs for Northwest Territories were added here starting from uptake 20211105 onwards.   
 
