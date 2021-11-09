@@ -39,7 +39,7 @@ Graphs for New Brunswick were added here starting from uptake 20211105 onwards.
 ****
 
 
-#### graph (2) New Brunswick - Daily cases, reference scenarios, 2021
+#### graph (2) New Brunswick - Daily cases, reference scenarios, all time
 
 
 
