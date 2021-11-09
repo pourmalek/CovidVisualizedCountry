@@ -40,7 +40,7 @@ Graphs for Newfoundland and Labrador were added here starting from uptake 202111
 ****
 
 
-#### graph (2) Newfoundland and Labrador - Daily cases, reference scenarios, 2021
+#### graph (2) Newfoundland and Labrador - Daily cases, reference scenarios, all time
 
 
 
