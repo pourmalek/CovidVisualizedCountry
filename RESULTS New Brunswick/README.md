@@ -21,6 +21,12 @@ Graphs for New Brunswick were added here starting from uptake 20211105 onwards.
 
 *
 
+**uptake 20211112**: **_DELP 20211112_**, IHME 20211104, **_IMPE 20211103_**, **_SRIV 20211112_**
+
+
+
+*
+
 **uptake 20211105**: **_DELP 20211105_**, **_IHME 20211104_**, **_IMPE 20211027_**, **_SRIV 20211105_**
 
 (1) New Brunswick [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211105/output/merge/main/SUB1b%2011bDayDeaMERGsub%20alltime%20New%20Brunswick%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20New%20Brunswick%2C%20reference%20scenarios%2C%20all%20time.pdf)
@@ -41,6 +47,12 @@ Graphs for New Brunswick were added here starting from uptake 20211105 onwards.
 
 #### graph (2) New Brunswick - Daily cases, reference scenarios, all time
 
+
+
+
+*
+
+**uptake 20211112**: **_DELP 20211112_**, IHME 20211104, **_IMPE 20211103_**, **_SRIV 20211112_**
 
 
 
