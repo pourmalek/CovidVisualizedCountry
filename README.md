@@ -1,8 +1,8 @@
 # CovidVisualizedCountry
 
-# Predictions of   F I F T H  W A V E  in Canada
+# Predictions of F__I__F__T__H  W A V E in Canada
 
-## ! THE MOST RECENT WEEKLY SITUATION REPORT, EVERY MONDAY MORNING, [HERE](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/19%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2019%20-%202021-11-05.pdf. Predictions of  F I F T H  W A V E in Canada
+## ! THE MOST RECENT WEEKLY SITUATION REPORT, EVERY MONDAY MORNING, [HERE](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/19%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2019%20-%202021-11-05.pdf). 
 
 For a streamlined view of this repository, see: https://pourmalek.github.io/CovidVisualizedCountry/ 
 
