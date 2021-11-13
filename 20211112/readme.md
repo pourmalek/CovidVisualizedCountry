@@ -171,16 +171,19 @@ Daily mobility, IHME, not available for Canada at the national level.
 
 (1) Canada provinces [Daily reported deaths, reference scenarios, all time, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211112/output/IHME/graph%2011a%20C-19%20daily%20reported%20deaths%2C%20Canada%2C%20subnational%2C%20IHME%2C%20reference%20scenario.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/141654520-50896a84-95f7-413b-b89c-ae640029bb1c.png)
 
 ****
 
 (2) Canada provinces [Daily excess deaths, reference scenarios, all time, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211112/output/IHME/graph%2012a%20C-19%20daily%20excess%20deaths%2C%20Canada%2C%20subnational%2C%20IHME%2C%20reference%20scenario.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/141654539-81f6af3f-4ba8-4cd4-a0e0-b11386038f99.png)
 
 ****
 
 (3) Canada provinces [Daily infections, reference scenarios, all time, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211112/output/IHME/graph%2021a%20C-19%20daily%20infections%2C%20Canada%2C%20subnational%2C%20IHME%2C%20reference%20scenario.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/141654557-6fd9dd56-ee4b-4983-8b17-765c0025fb23.png)
 
 ****
 
@@ -217,41 +220,49 @@ PHAC not in this uptake.
 
 (1) Alberta [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211112/output/merge/main/SUB1%2011bDayDeaMERGsub%20alltime%20Alberta%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/141654579-a48d8a0f-ed0e-404f-b362-ba8cc9e946fe.png)
 
 ****
 
 (2) Alberta [Daily deaths, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211112/output/merge/main/SUB2%2012bDayDeaMERGsub%202021%20Alberta%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/141654630-fad9c038-2bf2-4393-9fd5-5572322ee82d.png)
 
 ****
 
 (3) Alberta [Daily deaths, 3 scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211112/output/merge/main/SUB3%2014b1DayDeaMERGsub%202021%203%20scenarios%20Alberta%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Alberta%2C%203%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/141654649-868d44fe-ffdc-45b0-8539-40c7f77911a4.png)
 
 ****
 
 (4) Alberta [Daily cases or infections, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211112/output/merge/main/SUB4%2031bDayCasMERGsub%20alltime%20Alberta%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/141654675-b60404f5-667f-468f-b210-48b7b4ff95b2.png)
 
 ****
 
 (5) Alberta [Daily cases or infections, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211112/output/merge/main/SUB5%2032bDayCasMERGsub%202021%20Alberta%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/141654694-1956b459-0ddb-4e1d-a23c-360c6527d135.png)
 
 ****
 
 (6) Alberta [Daily cases or infections, 3 scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211112/output/merge/main/SUB6%2034bDayCasMERGsub%202021%203scen%20Alberta%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Alberta%2C%203%20scenarios%2C%202021%2C%20uncertainty.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/141654723-817db614-20eb-4117-934d-088a0d019fb8.png)
 
 ****
 
 (7) Alberta [Hospital-related outcomes, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211112/output/merge/main/SUB7%2071bDayHosMERGsub%20alltime%20Alberta%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20Alberta.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/141654736-9fdddd97-7417-402e-b7ca-d02bfd2e5cc3.png)
 
 ****
 
 (8) Alberta [Hospital-related outcomes, 2021, without IHME Bed need and IMPE Hospital demand](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211112/output/merge/main/SUB8%2073bDayHosMERGsub%202021%20woextremes%20Alberta%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20Alberta%2C%20wo%20extremes%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/141654752-81201b78-089d-47ee-b1e8-1fafe8bbb4d4.png)
 
 ****
 
