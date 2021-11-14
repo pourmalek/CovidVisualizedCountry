@@ -1,8 +1,6 @@
 # CovidVisualizedCountry
 
-# Predictions of F__I__F__T__H ... W__A__V__E Canada national level
-
-![image](https://user-images.githubusercontent.com/30849720/141695319-e166332c-271f-4cc7-9b66-8415d8bed104.png)
+![image](https://user-images.githubusercontent.com/30849720/141695319-e166332c-271f-4cc7-9b66-8415d8bed104.png) :
 
 
 ## ! THE MOST RECENT WEEKLY SITUATION REPORT, EVERY MONDAY MORNING, [HERE](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/19%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2019%20-%202021-11-05.pdf). 
