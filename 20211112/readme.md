@@ -789,6 +789,7 @@ Nunavut predicted by none of the models. Reports to WHO available.
 
 (7) Ontario [Hospital-related outcomes, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211112/output/merge/main/SUB7%2071bDayHosMERGsub%20alltime%20Ontario%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20Ontario.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/141702955-3bec3ee5-c778-4f50-9b28-fa87a0e338a5.png)
 
 ****
 
