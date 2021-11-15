@@ -1,4 +1,4 @@
-### Selected graphs - Prince Edward Island
+### Selected graphs - Prince Edward Island 
 
 Prince Edward Island predicted by none of the models. Reports to WHO available.
 
