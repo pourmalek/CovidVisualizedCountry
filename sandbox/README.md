@@ -2,6 +2,17 @@ Additional:
 
 ***
 
+* COVID-19 in Canada
+https://art-bd.shinyapps.io/covid19canada/
+			
+*      
+      
+* Epidemiological Data from the COVID-19 Outbreak in Canada
+https://github.com/ccodwg/Covid19Canada
+
+
+***
+
 https://github.com/ccodwg/Covid19Canada
 
 Epidemiological Data from the COVID-19 Outbreak in Canada
