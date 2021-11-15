@@ -22,6 +22,9 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
 **uptake 20211112**: **_DELP 20211112_**, IHME 20211104, **_IMPE 20211103_**, **_SRIV 20211112_**
 
 
+(1) Manitoba [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211112/output/merge/main/SUB1%2011bDayDeaMERGsub%20alltime%20Manitoba%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios%2C%20all%20time.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/141694979-a59af765-b03f-401b-a677-951957dfb074.png)
 
 *
 
@@ -217,7 +220,9 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
 
 **uptake 20211112**: **_DELP 20211112_**, IHME 20211104, **_IMPE 20211103_**, **_SRIV 20211112_**
 
+(2) Manitoba [Daily deaths, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211112/output/merge/main/SUB2%2012bDayDeaMERGsub%202021%20Manitoba%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/141695044-777b3188-f2b7-4b54-8362-95eea67a7ea0.png)
 
 *
 
@@ -413,7 +418,9 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
 
 **uptake 20211112**: **_DELP 20211112_**, IHME 20211104, **_IMPE 20211103_**, **_SRIV 20211112_**
 
+(3) Manitoba [Daily deaths, 3 scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211112/output/merge/main/SUB3%2014b1DayDeaMERGsub%202021%203%20scenarios%20Manitoba%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Manitoba%2C%203%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/141695093-af303cd8-87e1-4825-81f0-1d58585fae22.png)
 
 *
 
@@ -607,7 +614,9 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
 
 **uptake 20211112**: **_DELP 20211112_**, IHME 20211104, **_IMPE 20211103_**, **_SRIV 20211112_**
 
+(4) Manitoba [Daily cases or infections, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211112/output/merge/main/SUB4%2031bDayCasMERGsub%20alltime%20Manitoba%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/141695124-1cbf8a0c-f474-40d1-b14c-910a061a9b31.png)
 
 *
 
@@ -802,7 +811,9 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
 
 **uptake 20211112**: **_DELP 20211112_**, IHME 20211104, **_IMPE 20211103_**, **_SRIV 20211112_**
 
+(5) Manitoba [Daily cases or infections, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211112/output/merge/main/SUB5%2032bDayCasMERGsub%202021%20Manitoba%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/141695143-788ae9db-f8a8-4beb-b422-aeeb230de158.png)
 
 *
 
@@ -1000,7 +1011,9 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
 
 **uptake 20211112**: **_DELP 20211112_**, IHME 20211104, **_IMPE 20211103_**, **_SRIV 20211112_**
 
+(6) Manitoba [Daily cases or infections, 3 scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211112/output/merge/main/SUB6%2034bDayCasMERGsub%202021%203scen%20Manitoba%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Manitoba%2C%203%20scenarios%2C%202021%2C%20uncertainty.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/141695164-0876a739-6bdd-4cce-834c-f9e6f5d7425d.png)
 
 *
 
@@ -1200,7 +1213,7 @@ Graphs for Manitoba were added here starting from uptake 20210726 onwards.
 
 **uptake 20211112**: **_DELP 20211112_**, IHME 20211104, **_IMPE 20211103_**, **_SRIV 20211112_**
 
-
+PHAC not in this uptake.
 
 *
 
@@ -1244,7 +1257,9 @@ PHAC not in this uptake.
 
 **uptake 20211112**: **_DELP 20211112_**, IHME 20211104, **_IMPE 20211103_**, **_SRIV 20211112_**
 
+(7) Manitoba [Hospital-related outcomes, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211112/output/merge/main/SUB7%2071bDayHosMERGsub%20alltime%20Manitoba%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20Manitoba.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/141695180-912a63d5-44d3-4e7c-9901-4d034b70573a.png)
 
 *
 
@@ -1444,7 +1459,9 @@ PHAC not in this uptake.
 
 **uptake 20211112**: **_DELP 20211112_**, IHME 20211104, **_IMPE 20211103_**, **_SRIV 20211112_**
 
+(8) Manitoba [Hospital-related outcomes, 2021, without IHME Bed need and IMPE Hospital demand](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211112/output/merge/main/SUB8%2073bDayHosMERGsub%202021%20woextremes%20Manitoba%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20Manitoba%2C%20wo%20extremes%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/141695216-24d23fd4-3b17-4ace-afa9-7fb4d8204197.png)
 
 *
 
@@ -1643,7 +1660,9 @@ PHAC not in this uptake.
 
 **uptake 20211112**: **_DELP 20211112_**, IHME 20211104, **_IMPE 20211103_**, **_SRIV 20211112_**
 
+(9) Manitoba [Daily deaths estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211112/output/merge/main/SUB9%2092bDayDERMERGsub%202021%20Manitoba%20-%20COVID-19%20daily%20deaths%20estimated%20to%20reported%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/141695238-ae140a13-fd4f-41b9-997e-d464117ba5ad.png)
 
 *
 
@@ -1843,7 +1862,9 @@ PHAC not in this uptake.
 
 **uptake 20211112**: **_DELP 20211112_**, IHME 20211104, **_IMPE 20211103_**, **_SRIV 20211112_**
 
+(10) Manitoba [Daily cases or infections estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211112/output/merge/main/SUB10%2094bDayCERMERGsub%202021%20Manitoba%20-%20COVID-19%20daily%20cases%20estimated%20to%20reported%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/141695378-3a88be65-6e46-42f0-be27-f1844dee76ae.png)
 
 *
 
@@ -2044,7 +2065,9 @@ PHAC not in this uptake.
 
 **uptake 20211112**: **_DELP 20211112_**, IHME 20211104, **_IMPE 20211103_**, **_SRIV 20211112_**
 
+(11) Manitoba [R effective, 3 scenarios, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211112/output/IHME/graph%2072a%20C-19%20R%20effective%2C%20Canada%2C%20Manitoba%2C%20IHME%2C%203%20scenarios.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/141695430-a86ceeec-3604-4efd-a252-8c69e1e5bbf4.png)
 
 *
 
@@ -2144,7 +2167,9 @@ uptake 20210920 and uptake 20210916 both use IHME 20210916.
 
 **uptake 20211112**: **_DELP 20211112_**, IHME 20211104, **_IMPE 20211103_**, **_SRIV 20211112_**
 
+(12) Manitoba [Daily Infection-outcomes ratios, 3 scenarios, IHME, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211112/output/merge/main/graph%2091b%20COVID-19%20daily%20Infection%20outcomes%20ratios%2C%20Canada%2C%20Manitoba%203%20scenarios%2C%20IHME.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/141695455-b49c426f-9de4-483a-aeb1-c4807f6c8732.png)
 
 *
 
@@ -2241,7 +2266,9 @@ uptake 20210920 and uptake 20210916 both use IHME 20210916.
 
 **uptake 20211112**: **_DELP 20211112_**, IHME 20211104, **_IMPE 20211103_**, **_SRIV 20211112_**
 
+(12b) Manitoba [Daily infection hospitalization & fatality ratios, 3 scenarios, IHME, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211112/output/merge/main/graph%2091b2%20COVID-19%20daily%20Infection%20outcomes%20ratios%2C%20Canada%2C%20Manitoba%203%20scenarios%2C%20IHME.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/141695479-a82e1cac-64e5-47bd-95a1-e0cba7907b15.png)
 
 *
 
@@ -2271,7 +2298,7 @@ uptake 20210920 and uptake 20210916 both use IHME 20210916.
 
 **uptake 20211112**: **_DELP 20211112_**, IHME 20211104, **_IMPE 20211103_**, **_SRIV 20211112_**
 
-
+Uptake 20211112 and uptake 20211105 both use IHME update 20211104.
 
 *
 
@@ -2369,7 +2396,7 @@ uptake 20210920 and uptake 20210916 both use IHME 20210916.
 
 **uptake 20211112**: **_DELP 20211112_**, IHME 20211104, **_IMPE 20211103_**, **_SRIV 20211112_**
 
-
+Uptake 20211112 and uptake 20211105 both use IHME update 20211104.
 
 *
 
@@ -2467,7 +2494,7 @@ uptake 20210920 and uptake 20210916 both use IHME 20210916.
 
 **uptake 20211112**: **_DELP 20211112_**, IHME 20211104, **_IMPE 20211103_**, **_SRIV 20211112_**
 
-
+Uptake 20211112 and uptake 20211105 both use IHME update 20211104.
 
 *
 
