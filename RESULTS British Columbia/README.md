@@ -15,6 +15,12 @@
   
 *
 
+**uptake 20211119**: **_DELP 20211119_**, IHME 20211104, IMPE 20211115, **_SRIV 20211119_**
+
+
+
+*
+
 **uptake 20211112**: **_DELP 20211112_**, IHME 20211104, **_IMPE 20211103_**, **_SRIV 20211112_**
 
 (1) British Columbia [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211112/output/merge/main/SUB1%2011bDayDeaMERGsub%20alltime%20British%20Columbia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%20all%20time.pdf)
@@ -327,6 +333,12 @@
   
   
   
+*
+
+**uptake 20211119**: **_DELP 20211119_**, IHME 20211104, IMPE 20211115, **_SRIV 20211119_**
+
+
+
 *
 
 **uptake 20211112**: **_DELP 20211112_**, IHME 20211104, **_IMPE 20211103_**, **_SRIV 20211112_**
@@ -642,6 +654,12 @@
   
 *
 
+**uptake 20211119**: **_DELP 20211119_**, IHME 20211104, IMPE 20211115, **_SRIV 20211119_**
+
+
+
+*
+
 **uptake 20211112**: **_DELP 20211112_**, IHME 20211104, **_IMPE 20211103_**, **_SRIV 20211112_**
 
 (3) British Columbia [Daily deaths, 3 scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211112/output/merge/main/SUB3%2014b1DayDeaMERGsub%202021%203%20scenarios%20British%20Columbia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20British%20Columbia%2C%203%20scenarios%2C%202021.pdf)
@@ -952,6 +970,12 @@
   
   
   
+*
+
+**uptake 20211119**: **_DELP 20211119_**, IHME 20211104, IMPE 20211115, **_SRIV 20211119_**
+
+
+
 *
 
 **uptake 20211112**: **_DELP 20211112_**, IHME 20211104, **_IMPE 20211103_**, **_SRIV 20211112_**
@@ -1266,6 +1290,12 @@
   
 *
 
+**uptake 20211119**: **_DELP 20211119_**, IHME 20211104, IMPE 20211115, **_SRIV 20211119_**
+
+
+
+*
+
 **uptake 20211112**: **_DELP 20211112_**, IHME 20211104, **_IMPE 20211103_**, **_SRIV 20211112_**
 
 (5) British Columbia [Daily cases or infections, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211112/output/merge/main/SUB5%2032bDayCasMERGsub%202021%20British%20Columbia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%202021.pdf)
@@ -1573,6 +1603,12 @@
   
   
   
+*
+
+**uptake 20211119**: **_DELP 20211119_**, IHME 20211104, IMPE 20211115, **_SRIV 20211119_**
+
+
+
 *
 
 **uptake 20211112**: **_DELP 20211112_**, IHME 20211104, **_IMPE 20211103_**, **_SRIV 20211112_**
@@ -1885,6 +1921,12 @@
   
 *
 
+**uptake 20211119**: **_DELP 20211119_**, IHME 20211104, IMPE 20211115, **_SRIV 20211119_**
+
+PHAC not in this uptake.
+
+*
+
 **uptake 20211112**: **_DELP 20211112_**, IHME 20211104, **_IMPE 20211103_**, **_SRIV 20211112_**
 
 PHAC not in this uptake.
@@ -1929,6 +1971,12 @@ PHAC not in this uptake.
   
   
   
+*
+
+**uptake 20211119**: **_DELP 20211119_**, IHME 20211104, IMPE 20211115, **_SRIV 20211119_**
+
+
+
 *
 
 **uptake 20211112**: **_DELP 20211112_**, IHME 20211104, **_IMPE 20211103_**, **_SRIV 20211112_**
@@ -2241,6 +2289,12 @@ PHAC not in this uptake.
   
   
   
+*
+
+**uptake 20211119**: **_DELP 20211119_**, IHME 20211104, IMPE 20211115, **_SRIV 20211119_**
+
+
+
 *
 
 **uptake 20211112**: **_DELP 20211112_**, IHME 20211104, **_IMPE 20211103_**, **_SRIV 20211112_**
@@ -2556,6 +2610,12 @@ PHAC not in this uptake.
   
 *
 
+**uptake 20211119**: **_DELP 20211119_**, IHME 20211104, IMPE 20211115, **_SRIV 20211119_**
+
+
+
+*
+
 **uptake 20211112**: **_DELP 20211112_**, IHME 20211104, **_IMPE 20211103_**, **_SRIV 20211112_**
 
 (9) British Columbia [Daily deaths estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211112/output/merge/main/SUB9%2092bDayDERMERGsub%202021%20British%20Columbia%20-%20COVID-19%20daily%20deaths%20estimated%20to%20reported%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%202021.pdf)
@@ -2868,6 +2928,12 @@ PHAC not in this uptake.
   
   
   
+*
+
+**uptake 20211119**: **_DELP 20211119_**, IHME 20211104, IMPE 20211115, **_SRIV 20211119_**
+
+
+
 *
 
 **uptake 20211112**: **_DELP 20211112_**, IHME 20211104, **_IMPE 20211103_**, **_SRIV 20211112_**
@@ -3188,11 +3254,15 @@ PHAC not in this uptake.
 
 *
 
+**uptake 20211119**: **_DELP 20211119_**, IHME 20211104, IMPE 20211115, **_SRIV 20211119_**
+
+uptake 20211119 and uptake 20211112 both use update 20211104.
+
+*
+
 **uptake 20211112**: **_DELP 20211112_**, IHME 20211104, **_IMPE 20211103_**, **_SRIV 20211112_**
 
-(11) British Columbia [R effective, 3 scenarios, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211112/output/IHME/graph%2072a%20C-19%20R%20effective%2C%20Canada%2C%20British%20Columbia%2C%20IHME%2C%203%20scenarios.pdf)
-
-![image](https://user-images.githubusercontent.com/30849720/141690629-30289e12-f30f-45fe-aeaf-77f213137321.png)
+uptake 20211112 and uptake 20211105 both use update 20211104.
 
 *
 
@@ -3290,11 +3360,15 @@ uptake 20210920 and uptake 20210916 both use IHME 20210916.
 
 *
 
+**uptake 20211119**: **_DELP 20211119_**, IHME 20211104, IMPE 20211115, **_SRIV 20211119_**
+
+uptake 20211119 and uptake 20211112 both use update 20211104.
+
+*
+
 **uptake 20211112**: **_DELP 20211112_**, IHME 20211104, **_IMPE 20211103_**, **_SRIV 20211112_**
 
-(12) British Columbia [Daily Infection-outcomes ratios, 3 scenarios, IHME, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211112/output/merge/main/graph%2091b%20COVID-19%20daily%20Infection%20outcomes%20ratios%2C%20Canada%2C%20British%20Columbia%203%20scenarios%2C%20IHME.pdf)
-
-![image](https://user-images.githubusercontent.com/30849720/141690645-f94f4de6-f3b2-4e8e-8942-68b1c4e4fbcf.png)
+uptake 20211112 and uptake 20211105 both use update 20211104.
 
 *
 
@@ -3379,9 +3453,21 @@ uptake 20210920 and uptake 20210916 both use IHME 20210916.
 
 
 
-#### graph (12b) British Columbia - Dailynfection hospitalization & fatality ratios, 3 scenarios, IHME, 2011
+#### graph (12b) British Columbia - Daily infection -hospitalization & -fatality ratios, 3 scenarios, IHME, 2011
 
 
+
+*
+
+**uptake 20211119**: **_DELP 20211119_**, IHME 20211104, IMPE 20211115, **_SRIV 20211119_**
+
+uptake 20211119 and uptake 20211112 both use update 20211104.
+
+*
+
+**uptake 20211112**: **_DELP 20211112_**, IHME 20211104, **_IMPE 20211103_**, **_SRIV 20211112_**
+
+uptake 20211112 and uptake 20211105 both use update 20211104.
 
 *
 
@@ -3416,11 +3502,15 @@ uptake 20210920 and uptake 20210916 both use IHME 20210916.
 
 *
 
+**uptake 20211119**: **_DELP 20211119_**, IHME 20211104, IMPE 20211115, **_SRIV 20211119_**
+
+uptake 20211119 and uptake 20211112 both use update 20211104.
+
+*
+
 **uptake 20211112**: **_DELP 20211112_**, IHME 20211104, **_IMPE 20211103_**, **_SRIV 20211112_**
 
-(13) British Columbia [Daily mobility, 3 scenarios, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211112/output/merge/main/graph%2092a%20COVID-19%20daily%20mobility%2C%20Canada%2C%20British%20Columbia%2C%203%20scenarios.pdf)
-
-![image](https://user-images.githubusercontent.com/30849720/141690686-a13f28fc-2e84-48ec-9c38-05101d53ddf1.png)
+uptake 20211112 and uptake 20211105 both use update 20211104.
 
 *
 
@@ -3518,11 +3608,15 @@ uptake 20210920 and uptake 20210916 both use IHME 20210916.
 
 *
 
+**uptake 20211119**: **_DELP 20211119_**, IHME 20211104, IMPE 20211115, **_SRIV 20211119_**
+
+uptake 20211119 and uptake 20211112 both use update 20211104.
+
+*
+
 **uptake 20211112**: **_DELP 20211112_**, IHME 20211104, **_IMPE 20211103_**, **_SRIV 20211112_**
 
-(14) British Columbia [Daily mask use, 3 scenarios, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211112/output/merge/main/graph%2093b%20COVID-19%20daily%20mask_use%2C%20Canada%2C%20British%20Columbia%2C%203%20scenarios.pdf)
-
-![image](https://user-images.githubusercontent.com/30849720/141690714-cc4de8f4-c64a-49bc-a6e8-e66ec795a97d.png)
+uptake 20211112 and uptake 20211105 both use update 20211104.
 
 *
 
@@ -3618,11 +3712,15 @@ uptake 20210920 and uptake 20210916 both use IHME 20210916.
 
 *
 
+**uptake 20211119**: **_DELP 20211119_**, IHME 20211104, IMPE 20211115, **_SRIV 20211119_**
+
+uptake 20211119 and uptake 20211112 both use update 20211104.
+
+*
+
 **uptake 20211112**: **_DELP 20211112_**, IHME 20211104, **_IMPE 20211103_**, **_SRIV 20211112_**
 
-(15) British Columbia [Percent cumulative vaccinated, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211112/output/merge/main/graph%2094b%20COVID-19%20percent%20cumulative%20vaccinated%2C%20Canada%2C%20British%20Columbia.pdf)
-
-![image](https://user-images.githubusercontent.com/30849720/141690739-8a3b0791-d37a-4b38-9adf-f04a14dbeeac.png)
+uptake 20211112 and uptake 20211105 both use update 20211104.
 
 *
 
