@@ -2266,7 +2266,7 @@ uptake 20210920 and uptake 20210916 both use IHME 20210916.
 ****
 ****
   
-#### graph (12b) Saskatchewan - Daily nfection hospitalization & fatality ratios, 3 scenarios, IHME
+#### graph (12b) Saskatchewan - Daily infection -hospitalization & -fatality ratios, 3 scenarios, IHME, 2011
 
 
 
