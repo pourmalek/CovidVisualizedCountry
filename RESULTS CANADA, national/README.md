@@ -615,9 +615,7 @@
   
   
   
-*
 
-**uptake 20211119**: **_DELP 20211119_**, IHME 20211104, **_IMPE 20211115_**, **_SRIV 20211119_**
 
 
 
@@ -922,9 +920,6 @@
   
   
   
-*
-
-**uptake 20211119**: **_DELP 20211119_**, IHME 20211104, **_IMPE 20211115_**, **_SRIV 20211119_**
 
 
 
@@ -1233,9 +1228,7 @@
 
 
 
-*
 
-**uptake 20211119**: **_DELP 20211119_**, IHME 20211104, **_IMPE 20211115_**, **_SRIV 20211119_**
 
 
 
@@ -1544,9 +1537,7 @@
   
   
   
-*
 
-**uptake 20211119**: **_DELP 20211119_**, IHME 20211104, **_IMPE 20211115_**, **_SRIV 20211119_**
 
 
 
@@ -1858,11 +1849,7 @@
   
 
   
-*
 
-**uptake 20211119**: **_DELP 20211119_**, IHME 20211104, **_IMPE 20211115_**, **_SRIV 20211119_**
-
-PHAC not in this uptake.
 
 *
 
@@ -1918,10 +1905,6 @@ PHAC not in this uptake.
   
 
   
-*
-
-**uptake 20211119**: **_DELP 20211119_**, IHME 20211104, **_IMPE 20211115_**, **_SRIV 20211119_**
-
 
 
 *
@@ -2228,11 +2211,7 @@ PHAC not in this uptake.
 
 
 
-*
 
-**uptake 20211119**: **_DELP 20211119_**, IHME 20211104, **_IMPE 20211115_**, **_SRIV 20211119_**
-
-PHAC not in this uptake.
 
 *
 
@@ -2354,9 +2333,7 @@ PHAC not in this uptake.
   
   
   
-*
 
-**uptake 20211119**: **_DELP 20211119_**, IHME 20211104, IMPE 20211115, **_SRIV 20211119_**
 
 
 
@@ -2664,9 +2641,7 @@ PHAC not in this uptake.
   
   
   
-*
 
-**uptake 20211119**: **_DELP 20211119_**, IHME 20211104, IMPE 20211115, **_SRIV 20211119_**
 
 
 
@@ -2973,9 +2948,6 @@ PHAC not in this uptake.
   
   
   
-*
-
-**uptake 20211119**: **_DELP 20211119_**, IHME 20211104, IMPE 20211115, **_SRIV 20211119_**
 
 
 
@@ -3638,11 +3610,7 @@ R effective, IHME, not available for Canada at the national level.
 
 
 
-*
 
-**uptake 20211119**: **_DELP 20211119_**, IHME 20211104, **_IMPE 20211115_**, **_SRIV 20211119_**
-
-uptake 20211119 and uptake 20211112 both use IHME update 20211104.
 
 *
 
@@ -3733,11 +3701,7 @@ uptake 20210920 and uptake 20210916 both use IHME 20210916.
 
 
 
-*
 
-**uptake 20211119**: **_DELP 20211119_**, IHME 20211104, IMPE 20211115, **_SRIV 20211119_**
-
-uptake 20211119 and uptake 20211112 both use IHME update 20211104.
 
 *
 
@@ -3770,11 +3734,7 @@ uptake 20211112 and uptake 20211105 both use IHME update 20211104.
 
 
 
-*
 
-**uptake 20211119**: **_DELP 20211119_**, IHME 20211104, IMPE 20211115, **_SRIV 20211119_**
-
-uptake 20211119 and uptake 20211112 both use IHME update 20211104.
 
 *
 
@@ -3872,11 +3832,7 @@ uptake 20210920 and uptake 20210916 both use IHME 20210916.
 
 
 
-*
 
-**uptake 20211119**: **_DELP 20211119_**, IHME 20211104, IMPE 20211115, **_SRIV 20211119_**
-
-uptake 20211119 and uptake 20211112 both use IHME update 20211104.
 
 *
 
