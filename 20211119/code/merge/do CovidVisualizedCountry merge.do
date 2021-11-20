@@ -1797,7 +1797,7 @@ if date >= td(01jan2021) & provincestate == " National" ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily cases or infections) title("COVID-19 daily cases or infections, $country, National", size(medium)) ///
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
-legend(order(1 "JOHN cases raw" 2 "JOHN cases smooth" 3 "IHME infections" 6 "IMPE infections") size(small) row(4)) ///
+legend(order(1 "JOHN cases raw" 2 "JOHN cases smooth" 3 "IHME infections" 6 "IMPE infections") size(small) row(2)) ///
 subtitle("IHME and IMPE 3 scenarios, after 2021-01-01", size(small)) ///
 note("Better and worse scenarios: tight dot (|||||) curves; IHME and IMPE") 
 
