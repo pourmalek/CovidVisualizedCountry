@@ -3571,7 +3571,7 @@ qui graph export "graph 91b2 COVID-19 daily Infection outcomes ratios, $country,
 * daily % change in mobility, CI, National
 
 twoway ///
-(line mobility_mean_A02S02 date, sort lcolor(green)) ///
+(line mobility_mean_A02S02 date, sort lcolor(lime) lpattern(tight_dot) lwidth(vthick)) ///
 (line mobility_mean_A02S03 date, sort lcolor(red)) ///
 (line mobility_mean_A02S01 date, sort lcolor(black)) ///
 if date >= td(01jan2020) & provincestate == " National" ///
@@ -3596,7 +3596,7 @@ levelsof provincestate_mostaffected, local(levels)
 foreach l of local levels {
 
 twoway ///
-(line mobility_mean_A02S02 date, sort lcolor(green)) ///
+(line mobility_mean_A02S02 date, sort lcolor(lime) lpattern(tight_dot) lwidth(vthick)) ///
 (line mobility_mean_A02S03 date, sort lcolor(red)) ///
 (line mobility_mean_A02S01 date, sort lcolor(black)) ///
 if date >= td(01jan2020)  & provincestate == "`l'"  ///
@@ -3620,7 +3620,7 @@ qui graph export "graph 92a COVID-19 daily mobility, $country, `l', 3 scenarios.
 * daily mask_use Percent of population reporting always wearing a mask when leaving home, National 
 
 twoway ///
-(line mask_use_mean_A02S02 date, sort lcolor(green)) ///
+(line mask_use_mean_A02S02 date, sort lcolor(lime) lpattern(tight_dot) lwidth(vthick)) ///
 (line mask_use_mean_A02S03 date, sort lcolor(red)) ///
 (line mask_use_mean_A02S01 date, sort lcolor(black)) ///
 if date >= td(01jan2020) & provincestate == " National" ///
@@ -3646,7 +3646,7 @@ levelsof provincestate_mostaffected, local(levels)
 foreach l of local levels {
 
 twoway ///
-(line mask_use_mean_A02S02 date, sort lcolor(green)) ///
+(line mask_use_mean_A02S02 date, sort lcolor(lime) lpattern(tight_dot) lwidth(vthick)) ///
 (line mask_use_mean_A02S03 date, sort lcolor(red)) ///
 (line mask_use_mean_A02S01 date, sort lcolor(black)) ///
 if date >= td(01jan2020) & provincestate == "`l'" ///
