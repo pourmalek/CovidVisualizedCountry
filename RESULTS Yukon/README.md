@@ -23,7 +23,9 @@ Graphs for Yukon were added here starting from uptake 20211105 onwards.
 
 **uptake 20211119**: **_DELP 20211119_**, **_IHME 20211119_**, **_IMPE 20211115_**, **_SRIV 20211119_**
 
+(1) Yukon [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211119/output/JOHN/graph%201%20c%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Yukon%2C%20Johns%20Hopkins.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/142747782-8222af40-3029-4f00-8de6-8acdbdda133c.png)
 
 *
 
@@ -62,7 +64,9 @@ Graphs for Yukon were added here starting from uptake 20211105 onwards.
 
 **uptake 20211119**: **_DELP 20211119_**, **_IHME 20211119_**, **_IMPE 20211115_**, **_SRIV 20211119_**
 
+(2) Yukon [Daily cases, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211119/output/JOHN/graph%202%20c%20COVID-19%20daily%20cases%2C%20Canada%2C%20Yukon%2C%20Johns%20Hopkins.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/142747797-8b12817f-87f6-467b-a1fb-83ee551eda64.png)
 
 *
 
