@@ -13,7 +13,9 @@
 
 **uptake 20211119**: **_DELP 20211119_**, **_IHME 20211119_**, **_IMPE 20211115_**, **_SRIV 20211119_**
 
+(1) Canada [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211119/output/merge/main/CAN1%2011aDayDeaMERGnat%20alltime%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/142713130-7b7bb00b-9921-4b77-800b-4084eb7ca0b3.png)
 
 *
 
@@ -323,7 +325,9 @@
 
 **uptake 20211119**: **_DELP 20211119_**, **_IHME 20211119_**, **_IMPE 20211115_**, **_SRIV 20211119_**
 
+(2) Canada [Daily deaths, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211119/output/merge/main/CAN2%2012aDayDeaMERGnat%202021%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/142713642-b3999ff1-4d54-456f-a96e-3cdf81ac2c1a.png)
 
 *
 
@@ -635,7 +639,9 @@
 
 **uptake 20211119**: **_DELP 20211119_**, **_IHME 20211119_**, **_IMPE 20211115_**, **_SRIV 20211119_**
 
+(3) Canada [Daily deaths, 3 scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211119/output/merge/main/CAN3%2014a2DayDeaMERGnat%202021%203%20scenarios%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20National%2C%203%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/142713658-1ea220e7-42ea-490a-a703-6583287aadc3.png)
 
 *
 
@@ -945,7 +951,9 @@
 
 **uptake 20211119**: **_DELP 20211119_**, **_IHME 20211119_**, **_IMPE 20211115_**, **_SRIV 20211119_**
 
+(4) Canada [Daily cases or infections, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211119/output/merge/main/CAN4%2031aDayCasMERGnat%20alltime%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20National%2C%20reference%20scenarios.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/142713678-0d1d9a61-f7bd-4cea-bef1-fb1bb2aad44e.png)
 
 *
 
@@ -1260,7 +1268,9 @@
 
 **uptake 20211119**: **_DELP 20211119_**, **_IHME 20211119_**, **_IMPE 20211115_**, **_SRIV 20211119_**
 
+(5) Canada [Daily cases or infections, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211119/output/merge/main/CAN5%2032aDayCasMERGnat%202021%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/142714156-cfed7058-b8e1-49cf-9898-981e8c6440ff.png)
 
 *
 
@@ -1575,7 +1585,9 @@
 
 **uptake 20211119**: **_DELP 20211119_**, **_IHME 20211119_**, **_IMPE 20211115_**, **_SRIV 20211119_**
 
+(6) Canada [Daily cases or infections, 3 scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211119/output/merge/main/CAN6%2034aDayCasMERGnat%202021%203scen%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20National%2C%203%20scenarios%2C%202021%2C%20uncertainty.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/142714269-63b38635-135b-4bd9-b6f0-060d57e109c5.png)
 
 *
 
@@ -1953,7 +1965,9 @@ PHAC not in this uptake.
 
 **uptake 20211119**: **_DELP 20211119_**, **_IHME 20211119_**, **_IMPE 20211115_**, **_SRIV 20211119_**
 
+(7) Canada [Hospital-related outcomes, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211119/output/merge/main/CAN7%2071a1DayHosMERGnat%20%20alltime%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20National.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/142714281-f429f1d5-e8fa-42e4-a1c0-b257fba42e2c.png)
 
 *
 
@@ -2395,7 +2409,9 @@ PHAC not in this uptake.
 
 **uptake 20211119**: **_DELP 20211119_**, **_IHME 20211119_**, **_IMPE 20211115_**, **_SRIV 20211119_**
 
+(8) Canada [Hospital-related outcomes, 2021, without IHME Bed need and IMPE Hospital demand](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211119/output/merge/main/CAN8%2073a2DayHosMERGnat%202021%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20National%2C%20wo%20extremes%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/142714293-3cb7a9f2-ab59-4319-b070-26816a48acc9.png)
 
 *
 
@@ -2709,7 +2725,9 @@ PHAC not in this uptake.
 
 **uptake 20211119**: **_DELP 20211119_**, **_IHME 20211119_**, **_IMPE 20211115_**, **_SRIV 20211119_**
 
+(9) Canada [Daily deaths estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211119/output/merge/main/CAN9%2092aDayDERMERGnat%202021%20-%20COVID-19%20daily%20deaths%20estimated%20to%20reported%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/142714493-9cb4d098-82b1-4136-827f-ab2e736b0f89.png)
 
 *
 
@@ -3021,7 +3039,9 @@ PHAC not in this uptake.
 
 **uptake 20211119**: **_DELP 20211119_**, **_IHME 20211119_**, **_IMPE 20211115_**, **_SRIV 20211119_**
 
+(10) Canada [Daily cases or infections estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211119/output/merge/main/CAN10%2094aDayCERMERGnat%202021%20-%20COVID-19%20daily%20cases%20estimated%20to%20reported%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/142714513-37c715be-f0b3-44e4-b79d-1705e6697b81.png)
 
 *
 
@@ -3698,7 +3718,9 @@ R effective, IHME, not available for Canada at the national level.
 
 **uptake 20211119**: **_DELP 20211119_**, **_IHME 20211119_**, **_IMPE 20211115_**, **_SRIV 20211119_**
 
+(11) Canada [Daily Infection-outcomes ratios, 3 scenarios, IHME, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211119/output/merge/main/graph%2091a%20COVID-19%20daily%20Infection%20outcomes%20ratios%2C%20Canada%2C%20National%203%20scenarios%2C%20IHME.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/142735512-b5b0c9e3-0a0e-46fe-ab3e-b78f5a046fe7.png)
 
 *
 
@@ -3795,7 +3817,9 @@ uptake 20210920 and uptake 20210916 both use IHME 20210916.
 
 **uptake 20211119**: **_DELP 20211119_**, **_IHME 20211119_**, **_IMPE 20211115_**, **_SRIV 20211119_**
 
+(11b) Canada [Daily infection hospitalization & fatality ratios, 3 scenarios, IHME, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211119/output/merge/main/graph%2091a2%20COVID-19%20daily%20Infection%20outcomes%20ratios%2C%20Canada%2C%20National%203%20scenarios%2C%20IHME.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/142735535-01560835-8bd3-4ac5-a22a-1debd4556de6.png)
 
 *
 
@@ -3834,7 +3858,9 @@ uptake 20211112 and uptake 20211105 both use IHME update 20211104.
 
 **uptake 20211119**: **_DELP 20211119_**, **_IHME 20211119_**, **_IMPE 20211115_**, **_SRIV 20211119_**
 
+(12) Canada [Daily mask use, 3 scenarios, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211119/output/merge/main/graph%2093a%20COVID-19%20daily%20mask_use%2C%20Canada%2C%20National%2C%203%20scenarios.pdf) 
 
+![image](https://user-images.githubusercontent.com/30849720/142735556-11e3fae5-86b4-4f05-b4f2-50d62f81ceb1.png)
 
 *
 
@@ -3938,7 +3964,9 @@ uptake 20210920 and uptake 20210916 both use IHME 20210916.
 
 **uptake 20211119**: **_DELP 20211119_**, **_IHME 20211119_**, **_IMPE 20211115_**, **_SRIV 20211119_**
 
+(13) Canada [Percent cumulative vaccinated, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211119/output/merge/main/graph%2094a%20COVID-19%20percent%20cumulative%20vaccinated%2C%20Canada%2C%20National.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/142735573-2377eabd-fb9c-4ec2-ae3b-f5e086fab977.png)
 
 *
 
