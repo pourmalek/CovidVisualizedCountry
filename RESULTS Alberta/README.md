@@ -20,6 +20,12 @@ Graphs for Alberta were added here starting from uptake 20210726 onwards.
 
 *
 
+**uptake 20211119**: **_DELP 20211119_**, **_IHME 20211119_**, **_IMPE 20211115_**, **_SRIV 20211119_**
+
+
+
+*
+
 **uptake 20211112**: **_DELP 20211112_**, IHME 20211104, **_IMPE 20211103_**, **_SRIV 20211112_**
 
 (1) Alberta [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211112/output/merge/main/SUB1%2011bDayDeaMERGsub%20alltime%20Alberta%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios%2C%20all%20time.pdf)
@@ -219,6 +225,12 @@ Graphs for Alberta were added here starting from uptake 20210726 onwards.
   
   
 
+
+
+
+*
+
+**uptake 20211119**: **_DELP 20211119_**, **_IHME 20211119_**, **_IMPE 20211115_**, **_SRIV 20211119_**
 
 
 
@@ -425,6 +437,12 @@ Graphs for Alberta were added here starting from uptake 20210726 onwards.
 
 *
 
+**uptake 20211119**: **_DELP 20211119_**, **_IHME 20211119_**, **_IMPE 20211115_**, **_SRIV 20211119_**
+
+
+
+*
+
 **uptake 20211112**: **_DELP 20211112_**, IHME 20211104, **_IMPE 20211103_**, **_SRIV 20211112_**
 
 (3) Alberta [Daily deaths, 3 scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211112/output/merge/main/SUB3%2014b1DayDeaMERGsub%202021%203%20scenarios%20Alberta%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Alberta%2C%203%20scenarios%2C%202021.pdf)
@@ -620,6 +638,12 @@ Graphs for Alberta were added here starting from uptake 20210726 onwards.
   
   
 
+
+
+
+*
+
+**uptake 20211119**: **_DELP 20211119_**, **_IHME 20211119_**, **_IMPE 20211115_**, **_SRIV 20211119_**
 
 
 
@@ -824,6 +848,12 @@ Graphs for Alberta were added here starting from uptake 20210726 onwards.
 
 *
 
+**uptake 20211119**: **_DELP 20211119_**, **_IHME 20211119_**, **_IMPE 20211115_**, **_SRIV 20211119_**
+
+
+
+*
+
 **uptake 20211112**: **_DELP 20211112_**, IHME 20211104, **_IMPE 20211103_**, **_SRIV 20211112_**
 
 (5) Alberta [Daily cases or infections, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211112/output/merge/main/SUB5%2032bDayCasMERGsub%202021%20Alberta%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios%2C%202021.pdf)
@@ -1022,6 +1052,12 @@ Graphs for Alberta were added here starting from uptake 20210726 onwards.
   
   
 
+
+
+
+*
+
+**uptake 20211119**: **_DELP 20211119_**, **_IHME 20211119_**, **_IMPE 20211115_**, **_SRIV 20211119_**
 
 
 
@@ -1234,6 +1270,12 @@ Graphs for Alberta were added here starting from uptake 20210726 onwards.
 
 *
 
+**uptake 20211119**: **_DELP 20211119_**, **_IHME 20211119_**, **_IMPE 20211115_**, **_SRIV 20211119_**
+
+PHAC not in this uptake.
+
+*
+
 **uptake 20211112**: **_DELP 20211112_**, IHME 20211104, **_IMPE 20211103_**, **_SRIV 20211112_**
 
 PHAC not in this uptake.
@@ -1279,6 +1321,12 @@ PHAC not in this uptake.
   
   
   
+
+
+
+*
+
+**uptake 20211119**: **_DELP 20211119_**, **_IHME 20211119_**, **_IMPE 20211115_**, **_SRIV 20211119_**
 
 
 
@@ -1489,6 +1537,12 @@ PHAC not in this uptake.
 
 *
 
+**uptake 20211119**: **_DELP 20211119_**, **_IHME 20211119_**, **_IMPE 20211115_**, **_SRIV 20211119_**
+
+
+
+*
+
 **uptake 20211112**: **_DELP 20211112_**, IHME 20211104, **_IMPE 20211103_**, **_SRIV 20211112_**
 
 (8) Alberta [Hospital-related outcomes, 2021, without IHME Bed need and IMPE Hospital demand](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211112/output/merge/main/SUB8%2073bDayHosMERGsub%202021%20woextremes%20Alberta%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20Alberta%2C%20wo%20extremes%2C%202021.pdf)
@@ -1687,6 +1741,12 @@ PHAC not in this uptake.
   
   
   
+
+
+
+*
+
+**uptake 20211119**: **_DELP 20211119_**, **_IHME 20211119_**, **_IMPE 20211115_**, **_SRIV 20211119_**
 
 
 
@@ -1899,6 +1959,12 @@ PHAC not in this uptake.
 
 *
 
+**uptake 20211119**: **_DELP 20211119_**, **_IHME 20211119_**, **_IMPE 20211115_**, **_SRIV 20211119_**
+
+
+
+*
+
 **uptake 20211112**: **_DELP 20211112_**, IHME 20211104, **_IMPE 20211103_**, **_SRIV 20211112_**
 
 (10) Alberta [Daily cases or infections estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211112/output/merge/main/SUB10%2094bDayCERMERGsub%202021%20Alberta%20-%20COVID-19%20daily%20cases%20estimated%20to%20reported%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios%2C%202021.pdf)
@@ -2105,6 +2171,12 @@ PHAC not in this uptake.
 
 *
 
+**uptake 20211119**: **_DELP 20211119_**, **_IHME 20211119_**, **_IMPE 20211115_**, **_SRIV 20211119_**
+
+
+
+*
+
 **uptake 20211112**: **_DELP 20211112_**, IHME 20211104, **_IMPE 20211103_**, **_SRIV 20211112_**
 
 uptake 20211112 and uptake 20211105 both use IHME update 20211104.
@@ -2207,6 +2279,12 @@ uptake 20210920 and uptake 20210916 both use IHME 20210916.
 
 *
 
+**uptake 20211119**: **_DELP 20211119_**, **_IHME 20211119_**, **_IMPE 20211115_**, **_SRIV 20211119_**
+
+
+
+*
+
 **uptake 20211112**: **_DELP 20211112_**, IHME 20211104, **_IMPE 20211103_**, **_SRIV 20211112_**
 
 uptake 20211112 and uptake 20211105 both use IHME update 20211104.
@@ -2297,9 +2375,15 @@ uptake 20210920 and uptake 20210916 both use IHME 20210916.
 ****
 ****
   
-#### graph (12) Alberta - Daily infection hospitalization & fatality ratios, 3 scenarios, IHME, 2021
+#### graph (12b) Alberta - Daily infection -hospitalization & -fatality ratios, 3 scenarios, IHME, 2021
 
 
+
+
+
+*
+
+**uptake 20211119**: **_DELP 20211119_**, **_IHME 20211119_**, **_IMPE 20211115_**, **_SRIV 20211119_**
 
 
 
@@ -2333,6 +2417,12 @@ uptake 20211112 and uptake 20211105 both use IHME update 20211104.
 
 
 
+
+
+
+*
+
+**uptake 20211119**: **_DELP 20211119_**, **_IHME 20211119_**, **_IMPE 20211115_**, **_SRIV 20211119_**
 
 
 
@@ -2438,6 +2528,12 @@ uptake 20210920 and uptake 20210916 both use IHME 20210916.
 
 *
 
+**uptake 20211119**: **_DELP 20211119_**, **_IHME 20211119_**, **_IMPE 20211115_**, **_SRIV 20211119_**
+
+
+
+*
+
 **uptake 20211112**: **_DELP 20211112_**, IHME 20211104, **_IMPE 20211103_**, **_SRIV 20211112_**
 
 uptake 20211112 and uptake 20211105 both use IHME update 20211104.
@@ -2536,6 +2632,12 @@ uptake 20210920 and uptake 20210916 both use IHME 20210916.
 
 
 
+
+
+
+*
+
+**uptake 20211119**: **_DELP 20211119_**, **_IHME 20211119_**, **_IMPE 20211115_**, **_SRIV 20211119_**
 
 
 
