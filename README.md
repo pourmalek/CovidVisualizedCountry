@@ -3,7 +3,7 @@
 ![image](https://user-images.githubusercontent.com/30849720/141695319-e166332c-271f-4cc7-9b66-8415d8bed104.png) 
 
 
-## ! THE MOST RECENT WEEKLY SITUATION REPORT, EVERY MONDAY MORNING, [HERE](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/20%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2020%20-%202021-11-12.pdf). 
+## ! THE MOST RECENT WEEKLY SITUATION REPORT, EVERY MONDAY MORNING, [HERE](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/21%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2021%20-%202021-11-19.pdf). 
 
 
 <br/><br/>
@@ -136,7 +136,7 @@ The codes in these repositories can be adapted for use for any country or region
 ********************************************************************************************************************************************
 
   
-# :eyes: SEE: [Canada COVID-19 epidemic models situation report No 20 - 2021-11-12](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/20%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2020%20-%202021-11-12.pdf)  
+# :eyes: SEE: [Canada COVID-19 epidemic models situation report No 21 - 2021-11-19](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/21%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2021%20-%202021-11-19.pdf)  
   
 ********************************************************************************************************************************************
   
