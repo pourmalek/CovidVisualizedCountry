@@ -13,6 +13,12 @@
   
 *
 
+**uptake 20211119**: **_DELP 20211119_**, **_IHME 20211119_**, **_IMPE 20211115_**, **_SRIV 20211119_**
+
+
+
+*
+
 **uptake 20211112**: **_DELP 20211112_**, IHME 20211104, **_IMPE 20211103_**, **_SRIV 20211112_**
 
 (1) Ontario [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211112/output/merge/main/SUB1%2011bDayDeaMERGsub%20alltime%20Ontario%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%20all%20time.pdf)
@@ -324,6 +330,12 @@
   
   
   
+*
+
+**uptake 20211119**: **_DELP 20211119_**, **_IHME 20211119_**, **_IMPE 20211115_**, **_SRIV 20211119_**
+
+
+
 *
 
 **uptake 20211112**: **_DELP 20211112_**, IHME 20211104, **_IMPE 20211103_**, **_SRIV 20211112_**
@@ -640,6 +652,12 @@
   
 *
 
+**uptake 20211119**: **_DELP 20211119_**, **_IHME 20211119_**, **_IMPE 20211115_**, **_SRIV 20211119_**
+
+
+
+*
+
 **uptake 20211112**: **_DELP 20211112_**, IHME 20211104, **_IMPE 20211103_**, **_SRIV 20211112_**
 
 (3) Ontario [Daily deaths, 3 scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211112/output/merge/main/SUB3%2014b1DayDeaMERGsub%202021%203%20scenarios%20Ontario%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Ontario%2C%203%20scenarios%2C%202021.pdf)
@@ -951,6 +969,12 @@
   
   
   
+*
+
+**uptake 20211119**: **_DELP 20211119_**, **_IHME 20211119_**, **_IMPE 20211115_**, **_SRIV 20211119_**
+
+
+
 *
 
 **uptake 20211112**: **_DELP 20211112_**, IHME 20211104, **_IMPE 20211103_**, **_SRIV 20211112_**
@@ -1267,6 +1291,12 @@
   
 *
 
+**uptake 20211119**: **_DELP 20211119_**, **_IHME 20211119_**, **_IMPE 20211115_**, **_SRIV 20211119_**
+
+
+
+*
+
 **uptake 20211112**: **_DELP 20211112_**, IHME 20211104, **_IMPE 20211103_**, **_SRIV 20211112_**
 
 (5) Ontario [Daily cases or infections, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211112/output/merge/main/SUB5%2032bDayCasMERGsub%202021%20Ontario%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202021.pdf)
@@ -1565,6 +1595,11 @@
   
 
 
+
+
+
+
+
 ****
 ****
   
@@ -1573,6 +1608,12 @@
   
   
   
+*
+
+**uptake 20211119**: **_DELP 20211119_**, **_IHME 20211119_**, **_IMPE 20211115_**, **_SRIV 20211119_**
+
+
+
 *
 
 **uptake 20211112**: **_DELP 20211112_**, IHME 20211104, **_IMPE 20211103_**, **_SRIV 20211112_**
@@ -1872,6 +1913,13 @@
 *  
   
   
+  
+  
+  
+  
+  
+  
+  
  
 ****
 ****
@@ -1881,6 +1929,12 @@
   
   
   
+*
+
+**uptake 20211119**: **_DELP 20211119_**, **_IHME 20211119_**, **_IMPE 20211115_**, **_SRIV 20211119_**
+
+PHAC not in this uptake.
+
 *
 
 **uptake 20211112**: **_DELP 20211112_**, IHME 20211104, **_IMPE 20211103_**, **_SRIV 20211112_**
@@ -1917,6 +1971,8 @@ PHAC not in this uptake.
   
   
   
+  
+  
 
  
 
@@ -1928,6 +1984,12 @@ PHAC not in this uptake.
   
   
   
+*
+
+**uptake 20211119**: **_DELP 20211119_**, **_IHME 20211119_**, **_IMPE 20211115_**, **_SRIV 20211119_**
+
+
+
 *
 
 **uptake 20211112**: **_DELP 20211112_**, IHME 20211104, **_IMPE 20211103_**, **_SRIV 20211112_**
@@ -2244,6 +2306,12 @@ PHAC not in this uptake.
   
 *
 
+**uptake 20211119**: **_DELP 20211119_**, **_IHME 20211119_**, **_IMPE 20211115_**, **_SRIV 20211119_**
+
+
+
+*
+
 **uptake 20211112**: **_DELP 20211112_**, IHME 20211104, **_IMPE 20211103_**, **_SRIV 20211112_**
 
 (8) Ontario [Hospital-related outcomes, 2021, without IHME Bed need and IMPE Hospital demand](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211112/output/merge/main/SUB8%2073bDayHosMERGsub%202021%20woextremes%20Ontario%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20Ontario%2C%20wo%20extremes%2C%202021.pdf)
@@ -2545,6 +2613,8 @@ PHAC not in this uptake.
   
   
   
+  
+  
 
    
 
@@ -2556,6 +2626,12 @@ PHAC not in this uptake.
   
   
   
+*
+
+**uptake 20211119**: **_DELP 20211119_**, **_IHME 20211119_**, **_IMPE 20211115_**, **_SRIV 20211119_**
+
+
+
 *
 
 **uptake 20211112**: **_DELP 20211112_**, IHME 20211104, **_IMPE 20211103_**, **_SRIV 20211112_**
@@ -2859,6 +2935,8 @@ PHAC not in this uptake.
   
   
   
+  
+  
 
   
 
@@ -2870,6 +2948,12 @@ PHAC not in this uptake.
   
   
   
+*
+
+**uptake 20211119**: **_DELP 20211119_**, **_IHME 20211119_**, **_IMPE 20211115_**, **_SRIV 20211119_**
+
+
+
 *
 
 **uptake 20211112**: **_DELP 20211112_**, IHME 20211104, **_IMPE 20211103_**, **_SRIV 20211112_**
@@ -3188,6 +3272,12 @@ PHAC not in this uptake.
 
 *
 
+**uptake 20211119**: **_DELP 20211119_**, **_IHME 20211119_**, **_IMPE 20211115_**, **_SRIV 20211119_**
+
+
+
+*
+
 **uptake 20211112**: **_DELP 20211112_**, IHME 20211104, **_IMPE 20211103_**, **_SRIV 20211112_**
 
 Uptake 20211112 and uptake 20211105 both use IHME update 20211104.
@@ -3278,11 +3368,20 @@ uptake 20210920 and uptake 20210916 both use IHME 20210916.
 
 
 
+
+
+
 ****
 ****
   
 #### graph (12) Ontario - Daily Infection-outcomes ratios, 3 scenarios, IHME, 2021
 
+
+
+
+*
+
+**uptake 20211119**: **_DELP 20211119_**, **_IHME 20211119_**, **_IMPE 20211115_**, **_SRIV 20211119_**
 
 
 
@@ -3388,6 +3487,12 @@ uptake 20210920 and uptake 20210916 both use IHME 20210916.
 
 *
 
+**uptake 20211119**: **_DELP 20211119_**, **_IHME 20211119_**, **_IMPE 20211115_**, **_SRIV 20211119_**
+
+
+
+*
+
 **uptake 20211112**: **_DELP 20211112_**, IHME 20211104, **_IMPE 20211103_**, **_SRIV 20211112_**
 
 Uptake 20211112 and uptake 20211105 both use IHME update 20211104.
@@ -3409,11 +3514,24 @@ Uptake 20211112 and uptake 20211105 both use IHME update 20211104.
 
 
 
+
+
+
+
+
+
+
 ****
 ****
   
 #### graph (13) Ontario - Daily mobility, 3 scenarios, IHME
 
+
+
+
+*
+
+**uptake 20211119**: **_DELP 20211119_**, **_IHME 20211119_**, **_IMPE 20211115_**, **_SRIV 20211119_**
 
 
 
@@ -3499,11 +3617,22 @@ uptake 20210920 and uptake 20210916 both use IHME 20210916.
 
 
 
+
+
+
+
+
 ****
 ****
   
 #### graph (14) Ontario - Daily mask use, 3 scenarios, IHME
 
+
+
+
+*
+
+**uptake 20211119**: **_DELP 20211119_**, **_IHME 20211119_**, **_IMPE 20211115_**, **_SRIV 20211119_**
 
 
 
@@ -3599,11 +3728,19 @@ uptake 20210920 and uptake 20210916 both use IHME 20210916.
 
 
 
+
+
 ****
 ****
   
 #### graph (15) Ontario - Percent cumulative vaccinated, IHME
 
+
+
+
+*
+
+**uptake 20211119**: **_DELP 20211119_**, **_IHME 20211119_**, **_IMPE 20211115_**, **_SRIV 20211119_**
 
 
 
