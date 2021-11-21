@@ -15,6 +15,9 @@ Note: The following additional graphs were added starting from uptake 20210923.
   
   
 
+*
+
+**uptake 20211119**: **_DELP 20211119_**, **_IHME 20211119_**, **_IMPE 20211115_**, **_SRIV 20211119_**
 
 
 
@@ -101,6 +104,9 @@ uptake 20210928 and uptake 20210923 both use IHME 20210923.
 
 
 
+*
+
+**uptake 20211119**: **_DELP 20211119_**, **_IHME 20211119_**, **_IMPE 20211115_**, **_SRIV 20211119_**
 
 
 
@@ -190,6 +196,10 @@ uptake 20210928 and uptake 20210923 both use IHME 20210923.
 
 
 
+*
+
+**uptake 20211119**: **_DELP 20211119_**, **_IHME 20211119_**, **_IMPE 20211115_**, **_SRIV 20211119_**
+
 
 
 *
@@ -275,6 +285,11 @@ uptake 20210928 and uptake 20210923 both use IHME 20210923.
 
 
 
+*
+
+**uptake 20211119**: **_DELP 20211119_**, **_IHME 20211119_**, **_IMPE 20211115_**, **_SRIV 20211119_**
+
+PHAC not in this uptake. 
 
 *
 
@@ -358,6 +373,11 @@ uptake 20210928 and uptake 20210923 both use PHAC 20210903.
 
 
 
+*
+
+**uptake 20211119**: **_DELP 20211119_**, **_IHME 20211119_**, **_IMPE 20211115_**, **_SRIV 20211119_**
+
+PHAC not in this uptake. 
 
 *
 
