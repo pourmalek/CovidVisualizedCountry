@@ -489,31 +489,37 @@ PHAC not in this uptake.
 
 (11) Manitoba [R effective, 3 scenarios, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211119/output/IHME/graph%2072a%20C-19%20R%20effective%2C%20Canada%2C%20Manitoba%2C%20IHME%2C%203%20scenarios.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/142745045-0ebf9018-7f4f-4ad3-91f9-9b44faed536f.png)
 
 ****
 
 (12) Manitoba [Daily Infection-outcomes ratios, 3 scenarios, IHME, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211119/output/merge/main/graph%2091b%20COVID-19%20daily%20Infection%20outcomes%20ratios%2C%20Canada%2C%20Manitoba%203%20scenarios%2C%20IHME.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/142745052-ab7feafc-0e3e-4df3-9875-6578ec65a922.png)
 
 ****
 
 (12b) Manitoba [Daily infection hospitalization & fatality ratios, 3 scenarios, IHME, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211119/output/merge/main/graph%2091b2%20COVID-19%20daily%20Infection%20outcomes%20ratios%2C%20Canada%2C%20Manitoba%203%20scenarios%2C%20IHME.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/142745060-2cfbfeeb-c064-49af-8fc5-2a6c90d3479b.png)
 
 ****
 
 (13) Manitoba [Daily mobility, 3 scenarios, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211119/output/merge/main/graph%2092a%20COVID-19%20daily%20mobility%2C%20Canada%2C%20Manitoba%2C%203%20scenarios.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/142745064-06ee5d6a-b5fd-4cc5-a312-32cb7a61a9d0.png)
 
 ****
 
 (14) Manitoba [Daily mask use, 3 scenarios, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211119/output/merge/main/graph%2093b%20COVID-19%20daily%20mask_use%2C%20Canada%2C%20Manitoba%2C%203%20scenarios.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/142745084-cf848e97-87d7-4f2f-a4f4-e084ae25c2cd.png)
 
 ****
 
 (15) Manitoba [Percent cumulative vaccinated, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211119/output/merge/main/graph%2094b%20COVID-19%20percent%20cumulative%20vaccinated%2C%20Canada%2C%20Manitoba.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/142745095-cb89c526-e487-405c-bbe2-810f604b300e.png)
 
 ****
 
@@ -535,11 +541,13 @@ New Brunswick only predicted in DELP model.
 
 (1) New Brunswick [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211119/output/merge/main/SUB1b%2011bDayDeaMERGsub%20alltime%20New%20Brunswick%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20New%20Brunswick%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/142745111-8e8f6583-3ac9-48d3-829c-39f8711002d3.png)
 
 ****
 
 (2) New Brunswick [Daily cases, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211119/output/merge/main/SUB1b%2011bDayCasMERGsub%20alltime%20New%20Brunswick%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20New%20Brunswick%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/142745122-c95561a4-abd0-4345-8a3a-0825d88ca366.png)
 
 ****
 
