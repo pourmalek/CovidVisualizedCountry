@@ -21,7 +21,7 @@ Graphs for Prince Edward Island were added here starting from uptake 20211105 on
 
 *
 
-**uptake 20211126**: **_DELP 20211126_**, IHME 20211119, IMPE 20211115, **_SRIV 20211126_**
+**uptake 20211126**: **_DELP 20211123_**, IHME 20211119, IMPE 20211115, **_SRIV 20211126_**
 
 
 
@@ -68,7 +68,7 @@ Graphs for Prince Edward Island were added here starting from uptake 20211105 on
 
 *
 
-**uptake 20211126**: **_DELP 20211126_**, IHME 20211119, IMPE 20211115, **_SRIV 20211126_**
+**uptake 20211126**: **_DELP 20211123_**, IHME 20211119, IMPE 20211115, **_SRIV 20211126_**
 
 
 
