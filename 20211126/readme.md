@@ -258,6 +258,12 @@ PHAC not in this uptake.
 
 ****
 
+(6b) Alberta [Daily estimated infections IHME IMPE to reported cases JOHN, main scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211126/output/merge/main/CAN4%20-%201%20daily%20estimated%20infections%20to%20reported%20cases%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios%202021.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/143781518-62f6b329-d89f-4fbf-bac4-13fecad45e08.png)
+
+****
+
 (7) Alberta [Hospital-related outcomes, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211126/output/merge/main/SUB7%2071bDayHosMERGsub%20alltime%20Alberta%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20Alberta.pdf)
 
 ![image](https://user-images.githubusercontent.com/30849720/143725724-50050503-4f25-4907-baf2-678fe5be0a2a.png)
