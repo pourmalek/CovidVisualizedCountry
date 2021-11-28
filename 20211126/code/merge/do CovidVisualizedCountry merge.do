@@ -1468,7 +1468,7 @@ if date >= td(01jan2021) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily estimated infections to reported cases) title("COVID-19 daily estimated infections to reported cases, $country, Alberta", size(medium)) /// 
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
-legend(order(1 "raw" 2 "smooth") size(small) row(1)) ///
+legend(order(1 "IHME raw" 2 "IHME smooth") size(small) row(1)) ///
 subtitle("reference scenarios", size(small)) 
 
 qui graph save "CAN4 - 1 daily estimated infections to reported cases, $country, Alberta, reference scenarios 2021.gph", replace
@@ -1484,7 +1484,7 @@ if date >= td(01jan2021) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily estimated infections to reported cases smooth) title("COVID-19 daily estimated infections to reported cases, $country, British Columbia", size(medium)) /// 
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
-legend(order(1 "raw" 2 "smooth") size(small) row(1)) ///
+legend(order(1 "IHME raw" 2 "IHME smooth") size(small) row(1)) ///
 subtitle("reference scenarios", size(small)) 
 
 qui graph save "CAN4 - 1 daily estimated infections to reported cases, $country, British Columbia, reference scenarios 2021.gph", replace
@@ -1500,7 +1500,7 @@ if date >= td(01jan2021) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily estimated infections to reported cases) title("COVID-19 daily estimated infections to reported cases, $country, Manitoba", size(medium)) /// 
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
-legend(order(1 "raw" 2 "smooth") size(small) row(1)) ///
+legend(order(1 "IHME raw" 2 "IHME smooth") size(small) row(1)) ///
 subtitle("reference scenarios", size(small)) 
 
 qui graph save "CAN4 - 1 daily estimated infections to reported cases, $country, Manitoba, reference scenarios.gph", replace
@@ -1517,7 +1517,7 @@ if date >= td(01jan2021) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily estimated infections to reported cases) title("COVID-19 daily estimated infections to reported cases, $country, Nova Scotia", size(medium)) /// 
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
-legend(order(1 "raw" 2 "smooth") size(small) row(1)) ///
+legend(order(1 "IHME raw" 2 "IHME smooth") size(small) row(1)) ///
 subtitle("reference scenarios", size(small)) 
 
 qui graph save "CAN4 - 1 daily estimated infections to reported cases, $country, Nova Scotia, reference scenarios.gph", replace
@@ -1534,7 +1534,7 @@ if date >= td(01jan2021) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily estimated infections to reported cases) title("COVID-19 daily estimated infections to reported cases, $country, Ontario", size(medium)) /// 
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
-legend(order(1 "raw" 2 "smooth") size(small) row(1)) ///
+legend(order(1 "IHME raw" 2 "IHME smooth") size(small) row(1)) ///
 subtitle("reference scenarios", size(small)) 
 
 qui graph save "CAN4 - 1 daily estimated infections to reported cases, $country, Ontario, reference scenarios.gph", replace
@@ -1551,7 +1551,7 @@ if date >= td(01jan2021) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily estimated infections to reported cases) title("COVID-19 daily estimated infections to reported cases, $country, Quebec", size(medium)) /// 
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
-legend(order(1 "raw" 2 "smooth") size(small) row(1)) ///
+legend(order(1 "IHME raw" 2 "IHME smooth") size(small) row(1)) ///
 subtitle("reference scenarios", size(small)) 
 
 qui graph save "CAN4 - 1 daily estimated infections to reported cases, $country, Quebec, reference scenarios.gph", replace
@@ -1568,7 +1568,7 @@ if date >= td(01jan2021) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily estimated infections to reported cases) title("COVID-19 daily estimated infections to reported cases, $country, Saskatchewan", size(medium)) /// 
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
-legend(order(1 "raw" 2 "smooth") size(small) row(1)) ///
+legend(order(1 "IHME raw" 2 "IHME smooth") size(small) row(1)) ///
 subtitle("reference scenarios", size(small)) 
 
 qui graph save "CAN4 - 1 daily estimated infections to reported cases, $country, Saskatchewan, reference scenarios.gph", replace
