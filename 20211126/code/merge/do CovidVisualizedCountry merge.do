@@ -1417,7 +1417,7 @@ qui graph export "CAN4 31aDayCasMERGnat alltime - COVID-19 daily cases, $country
 
 
 ****
-* daily infections to cases IHME, IMPE, all time, National
+* daily estimated infections to reported cases IHME, IMPE, all time, National
 
 twoway ///
 (line DayITCMeSmA02S01XXX date, sort lcolor(black)) /// 1 "IHME"
@@ -1425,19 +1425,19 @@ twoway ///
 if date >= td(01jan2020) & provincestate == " National" ///
 , xtitle(Date) xlabel(#26, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
-ytitle(Daily infections to cases) title("COVID-19 daily infections to cases, $country, National", size(medium)) /// 
+ytitle(Daily estimated infections to reported cases) title("COVID-19 daily estimated infections to reported cases, $country, National", size(medium)) /// 
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
 legend(order(1 "IHME" 2 "IMPE" 3) size(small) row(1)) ///
 subtitle("reference scenarios", size(small)) 
 
-qui graph save "CAN4 - 1 daily infections to cases, $country, National, reference scenarios.gph", replace
-qui graph export "CAN4 - 1 daily infections to cases, $country, National, reference scenarios.pdf", replace
+qui graph save "CAN4 - 1 daily estimated infections to reported cases, $country, National, reference scenarios.gph", replace
+qui graph export "CAN4 - 1 daily estimated infections to reported cases, $country, National, reference scenarios.pdf", replace
 
 
 
 
 ****
-* daily infections to cases IHME, IMPE, 2021, National
+* daily estimated infections to reported cases IHME, IMPE, 2021, National
 
 twoway ///
 (line DayITCMeSmA02S01XXX date, sort lcolor(black*0.2)) /// 1 "IHME"
@@ -1447,18 +1447,18 @@ twoway ///
 if date >= td(01jan2021) & provincestate == " National" ///
 , xtitle(Date) xlabel(#14, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
-ytitle(Daily infections to cases) title("COVID-19 daily infections to cases, $country, National", size(medium)) /// 
+ytitle(Daily estimated infections to reported cases) title("COVID-19 daily estimated infections to reported cases, $country, National", size(medium)) /// 
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
 legend(order(1 "IHME" 2 "IMPE" 3 "IHME smooth" 4 "IMPE smooth") size(small) row(1)) ///
 subtitle("reference scenarios", size(small)) 
 
-qui graph save "CAN4 - 2 daily infections to cases, $country, National, reference scenarios 2021.gph", replace
-qui graph export "CAN4 - 2 daily infections to cases, $country, National, reference scenarios 2021.pdf", replace
+qui graph save "CAN4 - 2 daily estimated infections to reported cases, $country, National, reference scenarios 2021.gph", replace
+qui graph export "CAN4 - 2 daily estimated infections to reported cases, $country, National, reference scenarios 2021.pdf", replace
 
 
 
 ****
-* daily infections to cases IHME, 2021, provinces
+* daily estimated infections to reported cases IHME, 2021, provinces
 
 twoway ///
 (line DayITCMeSmA02S01XAB date, sort lcolor(black*0.2)) /// 
@@ -1466,13 +1466,13 @@ twoway ///
 if date >= td(01jan2021) ///
 , xtitle(Date) xlabel(#14, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
-ytitle(Daily infections to cases) title("COVID-19 daily infections to cases, $country, Alberta", size(medium)) /// 
+ytitle(Daily estimated infections to reported cases) title("COVID-19 daily estimated infections to reported cases, $country, Alberta", size(medium)) /// 
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
 legend(order(1 "raw" 2 "smooth") size(small) row(1)) ///
 subtitle("reference scenarios", size(small)) 
 
-qui graph save "CAN4 - 1 daily infections to cases, $country, Alberta, reference scenarios 2021.gph", replace
-qui graph export "CAN4 - 1 daily infections to cases, $country, Alberta, reference scenarios 2021.pdf", replace
+qui graph save "CAN4 - 1 daily estimated infections to reported cases, $country, Alberta, reference scenarios 2021.gph", replace
+qui graph export "CAN4 - 1 daily estimated infections to reported cases, $country, Alberta, reference scenarios 2021.pdf", replace
 
 
 
@@ -1482,13 +1482,13 @@ twoway ///
 if date >= td(01jan2021) ///
 , xtitle(Date) xlabel(#14, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
-ytitle(Daily infections to cases smooth) title("COVID-19 daily infections to cases, $country, British Columbia", size(medium)) /// 
+ytitle(Daily estimated infections to reported cases smooth) title("COVID-19 daily estimated infections to reported cases, $country, British Columbia", size(medium)) /// 
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
 legend(order(1 "raw" 2 "smooth") size(small) row(1)) ///
 subtitle("reference scenarios", size(small)) 
 
-qui graph save "CAN4 - 1 daily infections to cases, $country, British Columbia, reference scenarios 2021.gph", replace
-qui graph export "CAN4 - 1 daily infections to cases, $country, British Columbia, reference scenarios 2021.pdf", replace
+qui graph save "CAN4 - 1 daily estimated infections to reported cases, $country, British Columbia, reference scenarios 2021.gph", replace
+qui graph export "CAN4 - 1 daily estimated infections to reported cases, $country, British Columbia, reference scenarios 2021.pdf", replace
 
 
 
@@ -1498,13 +1498,13 @@ twoway ///
 if date >= td(01jan2021) ///
 , xtitle(Date) xlabel(#14, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
-ytitle(Daily infections to cases) title("COVID-19 daily infections to cases, $country, Manitoba", size(medium)) /// 
+ytitle(Daily estimated infections to reported cases) title("COVID-19 daily estimated infections to reported cases, $country, Manitoba", size(medium)) /// 
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
 legend(order(1 "raw" 2 "smooth") size(small) row(1)) ///
 subtitle("reference scenarios", size(small)) 
 
-qui graph save "CAN4 - 1 daily infections to cases, $country, Manitoba, reference scenarios.gph", replace
-qui graph export "CAN4 - 1 daily infections to cases, $country, Manitoba, reference scenarios.pdf", replace
+qui graph save "CAN4 - 1 daily estimated infections to reported cases, $country, Manitoba, reference scenarios.gph", replace
+qui graph export "CAN4 - 1 daily estimated infections to reported cases, $country, Manitoba, reference scenarios.pdf", replace
 
 
 
@@ -1515,13 +1515,13 @@ twoway ///
 if date >= td(01jan2021) ///
 , xtitle(Date) xlabel(#14, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
-ytitle(Daily infections to cases) title("COVID-19 daily infections to cases, $country, Nova Scotia", size(medium)) /// 
+ytitle(Daily estimated infections to reported cases) title("COVID-19 daily estimated infections to reported cases, $country, Nova Scotia", size(medium)) /// 
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
 legend(order(1 "raw" 2 "smooth") size(small) row(1)) ///
 subtitle("reference scenarios", size(small)) 
 
-qui graph save "CAN4 - 1 daily infections to cases, $country, Nova Scotia, reference scenarios.gph", replace
-qui graph export "CAN4 - 1 daily infections to cases, $country, Nova Scotia, reference scenarios.pdf", replace
+qui graph save "CAN4 - 1 daily estimated infections to reported cases, $country, Nova Scotia, reference scenarios.gph", replace
+qui graph export "CAN4 - 1 daily estimated infections to reported cases, $country, Nova Scotia, reference scenarios.pdf", replace
 
 
 
@@ -1532,13 +1532,13 @@ twoway ///
 if date >= td(01jan2021) ///
 , xtitle(Date) xlabel(#14, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
-ytitle(Daily infections to cases) title("COVID-19 daily infections to cases, $country, Ontario", size(medium)) /// 
+ytitle(Daily estimated infections to reported cases) title("COVID-19 daily estimated infections to reported cases, $country, Ontario", size(medium)) /// 
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
 legend(order(1 "raw" 2 "smooth") size(small) row(1)) ///
 subtitle("reference scenarios", size(small)) 
 
-qui graph save "CAN4 - 1 daily infections to cases, $country, Ontario, reference scenarios.gph", replace
-qui graph export "CAN4 - 1 daily infections to cases, $country, Ontario, reference scenarios.pdf", replace
+qui graph save "CAN4 - 1 daily estimated infections to reported cases, $country, Ontario, reference scenarios.gph", replace
+qui graph export "CAN4 - 1 daily estimated infections to reported cases, $country, Ontario, reference scenarios.pdf", replace
 
 
 
@@ -1549,13 +1549,13 @@ twoway ///
 if date >= td(01jan2021) ///
 , xtitle(Date) xlabel(#14, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
-ytitle(Daily infections to cases) title("COVID-19 daily infections to cases, $country, Quebec", size(medium)) /// 
+ytitle(Daily estimated infections to reported cases) title("COVID-19 daily estimated infections to reported cases, $country, Quebec", size(medium)) /// 
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
 legend(order(1 "raw" 2 "smooth") size(small) row(1)) ///
 subtitle("reference scenarios", size(small)) 
 
-qui graph save "CAN4 - 1 daily infections to cases, $country, Quebec, reference scenarios.gph", replace
-qui graph export "CAN4 - 1 daily infections to cases, $country, Quebec, reference scenarios.pdf", replace
+qui graph save "CAN4 - 1 daily estimated infections to reported cases, $country, Quebec, reference scenarios.gph", replace
+qui graph export "CAN4 - 1 daily estimated infections to reported cases, $country, Quebec, reference scenarios.pdf", replace
 
 
 
@@ -1566,13 +1566,13 @@ twoway ///
 if date >= td(01jan2021) ///
 , xtitle(Date) xlabel(#14, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
-ytitle(Daily infections to cases) title("COVID-19 daily infections to cases, $country, Saskatchewan", size(medium)) /// 
+ytitle(Daily estimated infections to reported cases) title("COVID-19 daily estimated infections to reported cases, $country, Saskatchewan", size(medium)) /// 
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
 legend(order(1 "raw" 2 "smooth") size(small) row(1)) ///
 subtitle("reference scenarios", size(small)) 
 
-qui graph save "CAN4 - 1 daily infections to cases, $country, Saskatchewan, reference scenarios.gph", replace
-qui graph export "CAN4 - 1 daily infections to cases, $country, Saskatchewan, reference scenarios.pdf", replace
+qui graph save "CAN4 - 1 daily estimated infections to reported cases, $country, Saskatchewan, reference scenarios.gph", replace
+qui graph export "CAN4 - 1 daily estimated infections to reported cases, $country, Saskatchewan, reference scenarios.pdf", replace
 
 
 
