@@ -962,7 +962,7 @@ Prince Edward Island predicted by none of the models. Reports to WHO available.
 
 (6b) Quebec [Daily estimated infections IHME to reported cases JOHN, main scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211126/output/merge/main/CAN4%20-%201%20daily%20estimated%20infections%20to%20reported%20cases%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/143798430-951f3a3c-9351-4139-9b4f-74e4e5f0689d.png)
+![image](https://user-images.githubusercontent.com/30849720/143907796-f89d8556-bd41-4208-9e48-f1d254838554.png)
 
 ****
 
