@@ -97,7 +97,7 @@
 
 (6b) Canada [Daily estimated infections IHME IMPE to reported cases JOHN, main scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211126/output/merge/main/CAN4%20-%202%20daily%20estimated%20infections%20to%20reported%20cases%2C%20Canada%2C%20National%2C%20reference%20scenarios%202021.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/143781415-605abcc5-1c0b-440f-991c-dd83fac8acea.png)
+![image](https://user-images.githubusercontent.com/30849720/143797747-961ec6c4-7890-4ee6-bcd9-d48474bf3660.png)
 
 ****
 
