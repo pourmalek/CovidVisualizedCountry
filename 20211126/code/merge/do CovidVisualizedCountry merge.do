@@ -1439,18 +1439,38 @@ qui graph export "CAN4 - 1 daily estimated infections to reported cases, $countr
 ****
 * daily estimated infections to reported cases IHME, IMPE, 2021, National
 
+qui summ DayITCMeSmA02S01XXXsm if date >= td(01jan2021) , detail
+
+gen DayITCMeSmA02S01XXXsm_median = r(p50)
+
+replace DayITCMeSmA02S01XXXsm_median = round(DayITCMeSmA02S01XXXsm_median)
+
+local DayITCMeSmA02S01XXXsm_median = DayITCMeSmA02S01XXXsm_median
+
+
+qui summ DayCTIMeRaA03S02sm if date >= td(01jan2021) , detail
+
+gen DayCTIMeRaA03S02sm_median = r(p50)
+
+replace DayCTIMeRaA03S02sm_median = round(DayCTIMeRaA03S02sm_median)
+
+local DayCTIMeRaA03S02sm_median = DayCTIMeRaA03S02sm_median
+
 twoway ///
 (line DayITCMeSmA02S01XXX date, sort lcolor(black*0.2)) /// 1 "IHME"
 (line DayCTIMeRaA03S02 date, sort lcolor(magenta*0.2)) /// 2 "IMPE"
 (line DayITCMeSmA02S01XXXsm date, sort lcolor(black) lwidth(thick)) /// 3 "IHME"
 (line DayCTIMeRaA03S02sm date, sort lcolor(magenta) lwidth(thick)) /// 4 "IMPE"
+(line DayITCMeSmA02S01XXXsm_median date, sort lcolor(black) lwidth(thin) lpattern(dash)) /// 5 "IHME"
+(line DayCTIMeRaA03S02sm_median date, sort lcolor(magenta) lwidth(thin) lpattern(dash)) /// 6 "IMPE"
 if date >= td(01jan2021) & provincestate == " National" ///
 , xtitle(Date) xlabel(#14, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily estimated infections to reported cases) title("COVID-19 daily estimated infections to reported cases, $country, National", size(medium)) /// 
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
-legend(order(1 "IHME" 2 "IMPE" 3 "IHME smooth" 4 "IMPE smooth") size(small) row(1)) ///
-subtitle("reference scenarios", size(small)) 
+legend(order(1 "IHME" 2 "IMPE" 3 "IHME smooth" 4 "IMPE smooth" 5 "IHME smooth meadian" 6 "IMPE smooth meadian") size(small) row(2)) ///
+subtitle("reference scenarios", size(small)) ///
+note("IHME smooth median in 2021 = `DayITCMeSmA02S01XXXsm_median'; IMPE smooth median in 2021 = `DayCTIMeRaA03S02sm_median'")
 
 qui graph save "CAN4 - 2 daily estimated infections to reported cases, $country, National, reference scenarios 2021.gph", replace
 qui graph export "CAN4 - 2 daily estimated infections to reported cases, $country, National, reference scenarios 2021.pdf", replace
@@ -1460,116 +1480,197 @@ qui graph export "CAN4 - 2 daily estimated infections to reported cases, $countr
 ****
 * daily estimated infections to reported cases IHME, 2021, provinces
 
+* Alberta
+
+qui summ DayITCMeSmA02S01XABsm if date >= td(01jan2021) , detail
+
+gen DayITCMeSmA02S01XABsm_median = r(p50)
+
+replace DayITCMeSmA02S01XABsm_median = round(DayITCMeSmA02S01XABsm_median)
+
+local DayITCMeSmA02S01XABsm_median = DayITCMeSmA02S01XABsm_median
+
 twoway ///
 (line DayITCMeSmA02S01XAB date, sort lcolor(black*0.2)) /// 
 (line DayITCMeSmA02S01XABsm date, sort lcolor(black) lwidth(thick)) /// 
+(line DayITCMeSmA02S01XABsm_median date, sort lcolor(black) lwidth(thin) lpattern(dash)) /// 
 if date >= td(01jan2021) ///
 , xtitle(Date) xlabel(#14, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily estimated infections to reported cases) title("COVID-19 daily estimated infections to reported cases, $country, Alberta", size(medium)) /// 
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
-legend(order(1 "IHME raw" 2 "IHME smooth") size(small) row(1)) ///
-subtitle("reference scenarios", size(small)) 
+legend(order(1 "IHME raw" 2 "IHME smooth" 3 "IHME smooth median") size(small) row(1)) ///
+subtitle("reference scenarios", size(small)) ///
+note("IHME smooth median in 2021 = `DayITCMeSmA02S01XABsm_median'")
 
 qui graph save "CAN4 - 1 daily estimated infections to reported cases, $country, Alberta, reference scenarios 2021.gph", replace
 qui graph export "CAN4 - 1 daily estimated infections to reported cases, $country, Alberta, reference scenarios 2021.pdf", replace
 
 
 
+* British Columbia
+
+qui summ DayITCMeSmA02S01XBCsm if date >= td(01jan2021) , detail
+
+gen DayITCMeSmA02S01XBCsm_median = r(p50)
+
+replace DayITCMeSmA02S01XBCsm_median = round(DayITCMeSmA02S01XBCsm_median)
+
+local DayITCMeSmA02S01XBCsm_median = DayITCMeSmA02S01XBCsm_median
+
 twoway ///
 (line DayITCMeSmA02S01XBC date, sort lcolor(black*0.2)) /// 
-(line DayITCMeSmA02S01XBCsm date, sort lcolor(black) lwidth(thick)) ///  
+(line DayITCMeSmA02S01XBCsm date, sort lcolor(black) lwidth(thick)) /// 
+(line DayITCMeSmA02S01XBCsm_median date, sort lcolor(black) lwidth(thin) lpattern(dash)) /// 
 if date >= td(01jan2021) ///
 , xtitle(Date) xlabel(#14, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
-ytitle(Daily estimated infections to reported cases smooth) title("COVID-19 daily estimated infections to reported cases, $country, British Columbia", size(medium)) /// 
+ytitle(Daily estimated infections to reported cases) title("COVID-19 daily estimated infections to reported cases, $country, British Columbia", size(medium)) /// 
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
-legend(order(1 "IHME raw" 2 "IHME smooth") size(small) row(1)) ///
-subtitle("reference scenarios", size(small)) 
+legend(order(1 "IHME raw" 2 "IHME smooth" 3 "IHME smooth median") size(small) row(1)) ///
+subtitle("reference scenarios", size(small)) ///
+note("IHME smooth median in 2021 = `DayITCMeSmA02S01XBCsm_median'")
 
 qui graph save "CAN4 - 1 daily estimated infections to reported cases, $country, British Columbia, reference scenarios 2021.gph", replace
 qui graph export "CAN4 - 1 daily estimated infections to reported cases, $country, British Columbia, reference scenarios 2021.pdf", replace
 
 
 
+* Manitoba
+
+qui summ DayITCMeSmA02S01XMBsm if date >= td(01jan2021) , detail
+
+gen DayITCMeSmA02S01XMBsm_median = r(p50)
+
+replace DayITCMeSmA02S01XMBsm_median = round(DayITCMeSmA02S01XMBsm_median)
+
+local DayITCMeSmA02S01XMBsm_median = DayITCMeSmA02S01XMBsm_median
+
 twoway ///
 (line DayITCMeSmA02S01XMB date, sort lcolor(black*0.2)) /// 
 (line DayITCMeSmA02S01XMBsm date, sort lcolor(black) lwidth(thick)) /// 
+(line DayITCMeSmA02S01XMBsm_median date, sort lcolor(black) lwidth(thin) lpattern(dash)) /// 
 if date >= td(01jan2021) ///
 , xtitle(Date) xlabel(#14, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily estimated infections to reported cases) title("COVID-19 daily estimated infections to reported cases, $country, Manitoba", size(medium)) /// 
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
-legend(order(1 "IHME raw" 2 "IHME smooth") size(small) row(1)) ///
-subtitle("reference scenarios", size(small)) 
+legend(order(1 "IHME raw" 2 "IHME smooth" 3 "IHME smooth median") size(small) row(1)) ///
+subtitle("reference scenarios", size(small)) ///
+note("IHME smooth median in 2021 = `DayITCMeSmA02S01XMBsm_median'")
 
 qui graph save "CAN4 - 1 daily estimated infections to reported cases, $country, Manitoba, reference scenarios.gph", replace
 qui graph export "CAN4 - 1 daily estimated infections to reported cases, $country, Manitoba, reference scenarios.pdf", replace
 
 
 
+* Nova Scotia
+
+qui summ DayITCMeSmA02S01XNSsm if date >= td(01jan2021) , detail
+
+gen DayITCMeSmA02S01XNSsm_median = r(p50)
+
+replace DayITCMeSmA02S01XNSsm_median = round(DayITCMeSmA02S01XNSsm_median)
+
+local DayITCMeSmA02S01XNSsm_median = DayITCMeSmA02S01XNSsm_median
 
 twoway ///
 (line DayITCMeSmA02S01XNS date, sort lcolor(black*0.2)) /// 
 (line DayITCMeSmA02S01XNSsm date, sort lcolor(black) lwidth(thick)) /// 
+(line DayITCMeSmA02S01XNSsm_median date, sort lcolor(black) lwidth(thin) lpattern(dash)) /// 
 if date >= td(01jan2021) ///
 , xtitle(Date) xlabel(#14, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily estimated infections to reported cases) title("COVID-19 daily estimated infections to reported cases, $country, Nova Scotia", size(medium)) /// 
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
-legend(order(1 "IHME raw" 2 "IHME smooth") size(small) row(1)) ///
-subtitle("reference scenarios", size(small)) 
+legend(order(1 "IHME raw" 2 "IHME smooth" 3 "IHME smooth median") size(small) row(1)) ///
+subtitle("reference scenarios", size(small)) ///
+note("IHME smooth median in 2021 = `DayITCMeSmA02S01XNSsm_median'")
 
 qui graph save "CAN4 - 1 daily estimated infections to reported cases, $country, Nova Scotia, reference scenarios.gph", replace
 qui graph export "CAN4 - 1 daily estimated infections to reported cases, $country, Nova Scotia, reference scenarios.pdf", replace
 
 
 
+* Ontario
+
+
+qui summ DayITCMeSmA02S01XONsm if date >= td(01jan2021) , detail
+
+gen DayITCMeSmA02S01XONsm_median = r(p50)
+
+replace DayITCMeSmA02S01XONsm_median = round(DayITCMeSmA02S01XONsm_median)
+
+local DayITCMeSmA02S01XONsm_median = DayITCMeSmA02S01XONsm_median
 
 twoway ///
 (line DayITCMeSmA02S01XON date, sort lcolor(black*0.2)) /// 
 (line DayITCMeSmA02S01XONsm date, sort lcolor(black) lwidth(thick)) /// 
+(line DayITCMeSmA02S01XONsm_median date, sort lcolor(black) lwidth(thin) lpattern(dash)) /// 
 if date >= td(01jan2021) ///
 , xtitle(Date) xlabel(#14, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily estimated infections to reported cases) title("COVID-19 daily estimated infections to reported cases, $country, Ontario", size(medium)) /// 
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
-legend(order(1 "IHME raw" 2 "IHME smooth") size(small) row(1)) ///
-subtitle("reference scenarios", size(small)) 
+legend(order(1 "IHME raw" 2 "IHME smooth" 3 "IHME smooth median") size(small) row(1)) ///
+subtitle("reference scenarios", size(small)) ///
+note("IHME smooth median in 2021 = `DayITCMeSmA02S01XONsm_median'")
 
 qui graph save "CAN4 - 1 daily estimated infections to reported cases, $country, Ontario, reference scenarios.gph", replace
 qui graph export "CAN4 - 1 daily estimated infections to reported cases, $country, Ontario, reference scenarios.pdf", replace
 
 
 
+* Quebec
+
+qui summ DayITCMeSmA02S01XQCsm if date >= td(01jan2021) , detail
+
+gen DayITCMeSmA02S01XQCsm_median = r(p50)
+
+replace DayITCMeSmA02S01XQCsm_median = round(DayITCMeSmA02S01XQCsm_median)
+
+local DayITCMeSmA02S01XQCsm_median = DayITCMeSmA02S01XQCsm_median
 
 twoway ///
 (line DayITCMeSmA02S01XQC date, sort lcolor(black*0.2)) /// 
 (line DayITCMeSmA02S01XQCsm date, sort lcolor(black) lwidth(thick)) /// 
+(line DayITCMeSmA02S01XQCsm_median date, sort lcolor(black) lwidth(thin) lpattern(dash)) /// 
 if date >= td(01jan2021) ///
 , xtitle(Date) xlabel(#14, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily estimated infections to reported cases) title("COVID-19 daily estimated infections to reported cases, $country, Quebec", size(medium)) /// 
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
-legend(order(1 "IHME raw" 2 "IHME smooth") size(small) row(1)) ///
-subtitle("reference scenarios", size(small)) 
+legend(order(1 "IHME raw" 2 "IHME smooth" 3 "IHME smooth median") size(small) row(1)) ///
+subtitle("reference scenarios", size(small)) ///
+note("IHME smooth median in 2021 = `DayITCMeSmA02S01XQCsm_median'")
 
 qui graph save "CAN4 - 1 daily estimated infections to reported cases, $country, Quebec, reference scenarios.gph", replace
 qui graph export "CAN4 - 1 daily estimated infections to reported cases, $country, Quebec, reference scenarios.pdf", replace
 
 
 
+* Saskatchewan
+
+qui summ DayITCMeSmA02S01XSKsm if date >= td(01jan2021) , detail
+
+gen DayITCMeSmA02S01XSKsm_median = r(p50)
+
+replace DayITCMeSmA02S01XSKsm_median = round(DayITCMeSmA02S01XSKsm_median)
+
+local DayITCMeSmA02S01XSKsm_median = DayITCMeSmA02S01XSKsm_median
 
 twoway ///
 (line DayITCMeSmA02S01XSK date, sort lcolor(black*0.2)) /// 
-(line DayITCMeSmA02S01XSKsm date, sort lcolor(black) lwidth(thick)) ///  
+(line DayITCMeSmA02S01XSKsm date, sort lcolor(black) lwidth(thick)) /// 
+(line DayITCMeSmA02S01XSKsm_median date, sort lcolor(black) lwidth(thin) lpattern(dash)) /// 
 if date >= td(01jan2021) ///
 , xtitle(Date) xlabel(#14, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily estimated infections to reported cases) title("COVID-19 daily estimated infections to reported cases, $country, Saskatchewan", size(medium)) /// 
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
-legend(order(1 "IHME raw" 2 "IHME smooth") size(small) row(1)) ///
-subtitle("reference scenarios", size(small)) 
+legend(order(1 "IHME raw" 2 "IHME smooth" 3 "IHME smooth median") size(small) row(1)) ///
+subtitle("reference scenarios", size(small)) ///
+note("IHME smooth median in 2021 = `DayITCMeSmA02S01XSKsm_median'")
 
 qui graph save "CAN4 - 1 daily estimated infections to reported cases, $country, Saskatchewan, reference scenarios.gph", replace
 qui graph export "CAN4 - 1 daily estimated infections to reported cases, $country, Saskatchewan, reference scenarios.pdf", replace
