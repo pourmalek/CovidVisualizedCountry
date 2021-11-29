@@ -260,7 +260,7 @@ PHAC not in this uptake.
 
 (6b) Alberta [Daily estimated infections IHME IMPE to reported cases JOHN, main scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211126/output/merge/main/CAN4%20-%201%20daily%20estimated%20infections%20to%20reported%20cases%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios%202021.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/143781518-62f6b329-d89f-4fbf-bac4-13fecad45e08.png)
+![image](https://user-images.githubusercontent.com/30849720/143798100-13a379a9-0e12-47b2-ae65-9e0a743b4cb2.png)
 
 ****
 
@@ -362,7 +362,7 @@ PHAC not in this uptake.
 
 (6b) British Columbia [Daily estimated infections IHME IMPE to reported cases JOHN, main scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211126/output/merge/main/CAN4%20-%201%20daily%20estimated%20infections%20to%20reported%20cases%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%202021.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/143781615-a400e851-2afa-4eca-a8c9-8bb0e1ec8e21.png)
+![image](https://user-images.githubusercontent.com/30849720/143798163-6b0fe696-e9d3-4894-8028-8706d04c7051.png)
 
 ****
 
@@ -458,7 +458,7 @@ PHAC not in this uptake.
 
 (6b) Manitoba [Daily estimated infections IHME IMPE to reported cases JOHN, main scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211126/output/merge/main/CAN4%20-%201%20daily%20estimated%20infections%20to%20reported%20cases%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/143781659-c2aaf791-002a-407d-9f93-0699876dd0f4.png)
+![image](https://user-images.githubusercontent.com/30849720/143798225-4781fe11-948f-4d78-b463-2c35a0eefd92.png)
 
 ****
 
@@ -628,7 +628,7 @@ Northwest Territories predicted by none of the models. Reports to WHO available.
 
 (6b) Nova Scotia [Daily estimated infections IHME IMPE to reported cases JOHN, main scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211126/output/merge/main/CAN4%20-%201%20daily%20estimated%20infections%20to%20reported%20cases%2C%20Canada%2C%20Nova%20Scotia%2C%20reference%20scenarios.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/143782016-70469ec9-919c-42e2-946d-43eba83982b7.png)
+![image](https://user-images.githubusercontent.com/30849720/143798291-168907a3-430b-4c2f-aab8-17372374c90a.png)
 
 ****
 
@@ -752,7 +752,7 @@ Nunavut predicted by none of the models. Reports to WHO available.
 
 (6b) Ontario [Daily estimated infections IHME IMPE to reported cases JOHN, main scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211126/output/merge/main/CAN4%20-%201%20daily%20estimated%20infections%20to%20reported%20cases%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/143782056-319017a2-22cd-46a4-b351-3d2ed7b9c60d.png)
+![image](https://user-images.githubusercontent.com/30849720/143798367-d39d8e17-4f34-494f-8fe5-108fa82715bc.png)
 
 ****
 
@@ -879,7 +879,7 @@ Prince Edward Island predicted by none of the models. Reports to WHO available.
 
 (6b) Quebec [Daily estimated infections IHME IMPE to reported cases JOHN, main scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211126/output/merge/main/CAN4%20-%201%20daily%20estimated%20infections%20to%20reported%20cases%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/143782105-1904b62a-6bc3-48a7-bdb1-768b0cc2b9d2.png)
+![image](https://user-images.githubusercontent.com/30849720/143798430-951f3a3c-9351-4139-9b4f-74e4e5f0689d.png)
 
 ****
 
@@ -972,7 +972,7 @@ Prince Edward Island predicted by none of the models. Reports to WHO available.
 
 (6b) Saskatchewan [Daily estimated infections IHME IMPE to reported cases JOHN, main scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211126/output/merge/main/CAN4%20-%201%20daily%20estimated%20infections%20to%20reported%20cases%2C%20Canada%2C%20Saskatchewan%2C%20reference%20scenarios.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/143782149-e1cca256-f9d7-43b7-8bf6-0bfa5eaa2d59.png)
+![image](https://user-images.githubusercontent.com/30849720/143798493-9b739f62-d50b-43ab-8fb6-5789e47a5009.png)
 
 ****
 
