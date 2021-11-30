@@ -33,7 +33,7 @@ SRIV
 */
 
 
-
+clear
 
 * JOHN
 
@@ -228,7 +228,7 @@ label var TotCTDMeRaA05S00  "Total Cases to Deaths S0 SRIV"
 *************************************
 
 
-* Infections to cases ratio of IHME and IMPE
+* Estimated infections to reported cases ratio, IHME and IMPE
 
 
 
@@ -273,10 +273,10 @@ label var DayITCMeSmA02S01XSK  "Daily Infections IHME to cases JOHN Saskatchewan
 
 
 
-gen DayCTIMeRaA03S02 =  DayINFMeRaA03S02 / DayCasMeRaA00S00
+gen DayITCMeRaA03S02 =  DayINFMeRaA03S02 / DayCasMeRaA00S00
 
-label var DayCTIMeRaA03S02  "Daily Infections IMPE to cases JOHN National"
-
+label var DayITCMeRaA03S02  "Daily Infections IMPE to cases JOHN National"
+          
 
 
 
@@ -286,13 +286,11 @@ encode provincestate, gen(provincestate_encoded)
 
 tsset provincestate_encoded date, daily   
 
-tsset provincestate_encoded date, daily   
-
 
 foreach var of varlist ///
 DayITCMeSmA02S01XXX DayITCMeSmA02S01XAB DayITCMeSmA02S01XBC DayITCMeSmA02S01XMB ///
 DayITCMeSmA02S01XNS DayITCMeSmA02S01XON DayITCMeSmA02S01XQC DayITCMeSmA02S01XSK ///
-DayCTIMeRaA03S02 {
+DayITCMeRaA03S02 {
 
 
 tssmooth ma `var'_window = `var', window(3 1 3)
@@ -311,7 +309,7 @@ ssc install labutil2
 
 labvars DayITCMeSmA02S01XXXsm DayITCMeSmA02S01XABsm DayITCMeSmA02S01XBCsm DayITCMeSmA02S01XMBsm ///
 DayITCMeSmA02S01XNSsm DayITCMeSmA02S01XONsm DayITCMeSmA02S01XQCsm DayITCMeSmA02S01XSKsm ///
-DayCTIMeRaA03S02sm ,names
+DayITCMeRaA03S02sm ,names
 
 ***********************
 
@@ -1421,7 +1419,7 @@ qui graph export "CAN4 31aDayCasMERGnat alltime - COVID-19 daily cases, $country
 
 twoway ///
 (line DayITCMeSmA02S01XXX date, sort lcolor(black)) /// 1 "IHME"
-(line DayCTIMeRaA03S02 date, sort lcolor(magenta)) /// 2 "IMPE"
+(line DayITCMeRaA03S02 date, sort lcolor(magenta)) /// 2 "IMPE"
 if date >= td(01jan2020) & provincestate == " National" ///
 , xtitle(Date) xlabel(#26, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
@@ -1448,21 +1446,21 @@ replace DayITCMeSmA02S01XXXsm_median = round(DayITCMeSmA02S01XXXsm_median)
 local DayITCMeSmA02S01XXXsm_median = DayITCMeSmA02S01XXXsm_median
 
 
-qui summ DayCTIMeRaA03S02sm if date >= td(01jan2021) , detail
+qui summ DayITCMeRaA03S02sm if date >= td(01jan2021) , detail
 
-gen DayCTIMeRaA03S02sm_median = r(p50)
+gen DayITCMeRaA03S02sm_median = r(p50)
 
-replace DayCTIMeRaA03S02sm_median = round(DayCTIMeRaA03S02sm_median)
+replace DayITCMeRaA03S02sm_median = round(DayITCMeRaA03S02sm_median)
 
-local DayCTIMeRaA03S02sm_median = DayCTIMeRaA03S02sm_median
+local DayITCMeRaA03S02sm_median = DayITCMeRaA03S02sm_median
 
 twoway ///
 (line DayITCMeSmA02S01XXX date, sort lcolor(black*0.2)) /// 1 "IHME"
-(line DayCTIMeRaA03S02 date, sort lcolor(magenta*0.2)) /// 2 "IMPE"
+(line DayITCMeRaA03S02 date, sort lcolor(magenta*0.2)) /// 2 "IMPE"
 (line DayITCMeSmA02S01XXXsm date, sort lcolor(black) lwidth(thick)) /// 3 "IHME"
-(line DayCTIMeRaA03S02sm date, sort lcolor(magenta) lwidth(thick)) /// 4 "IMPE"
+(line DayITCMeRaA03S02sm date, sort lcolor(magenta) lwidth(thick)) /// 4 "IMPE"
 (line DayITCMeSmA02S01XXXsm_median date, sort lcolor(black) lwidth(thin) lpattern(dash)) /// 5 "IHME"
-(line DayCTIMeRaA03S02sm_median date, sort lcolor(magenta) lwidth(thin) lpattern(dash)) /// 6 "IMPE"
+(line DayITCMeRaA03S02sm_median date, sort lcolor(magenta) lwidth(thin) lpattern(dash)) /// 6 "IMPE"
 if date >= td(01jan2021) & provincestate == " National" ///
 , xtitle(Date) xlabel(#14, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
@@ -1470,7 +1468,7 @@ ytitle(Daily estimated infections to reported cases) title("COVID-19 daily estim
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
 legend(order(1 "IHME" 2 "IMPE" 3 "IHME smooth" 4 "IMPE smooth" 5 "IHME smooth meadian" 6 "IMPE smooth meadian") size(small) row(2)) ///
 subtitle("reference scenarios", size(small)) ///
-note("IHME smooth median in 2021 = `DayITCMeSmA02S01XXXsm_median'; IMPE smooth median in 2021 = `DayCTIMeRaA03S02sm_median'")
+note("IHME smooth median in 2021 = `DayITCMeSmA02S01XXXsm_median'; IMPE smooth median in 2021 = `DayITCMeRaA03S02sm_median'")
 
 qui graph save "CAN4 - 2 daily estimated infections to reported cases, $country, National, reference scenarios 2021.gph", replace
 qui graph export "CAN4 - 2 daily estimated infections to reported cases, $country, National, reference scenarios 2021.pdf", replace
