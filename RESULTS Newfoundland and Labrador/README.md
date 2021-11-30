@@ -23,7 +23,9 @@ Graphs for Newfoundland and Labrador were added here starting from uptake 202111
 
 **uptake 20211126**: **_DELP 20211123_**, IHME 20211119, IMPE 20211115, **_SRIV 20211126_**
 
+(1) Newfoundland and Labrador [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211126/output/merge/main/SUB1c%2011bDayDeaMERGsub%20alltime%20Newfoundland%20and%20Labrador%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Newfoundland%20and%20Labrador%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/143808282-0eb974d5-75fc-42c6-a1cd-b1ae994164f6.png)
 
 *
 
@@ -71,7 +73,9 @@ Graphs for Newfoundland and Labrador were added here starting from uptake 202111
 
 **uptake 20211126**: **_DELP 20211123_**, IHME 20211119, IMPE 20211115, **_SRIV 20211126_**
 
+(2) Newfoundland and Labrador [Daily cases, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211126/output/merge/main/SUB1c%2011bDayCasMERGsub%20alltime%20Newfoundland%20and%20Labrador%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Newfoundland%20and%20Labrador%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/143808341-1a6db9dc-15a6-468f-8a1c-a02ed3c7a8a3.png)
 
 *
 
