@@ -999,26 +999,31 @@ Prince Edward Island predicted by none of the models. Reports to WHO available.
 
 (12) Quebec [Daily Infection-outcomes ratios, 3 scenarios, IHME, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211203/output/merge/main/graph%2091b%20COVID-19%20daily%20Infection%20outcomes%20ratios%2C%20Canada%2C%20Quebec%203%20scenarios%2C%20IHME.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/144696488-40e131df-593a-4f13-93e9-75ebbea8abb3.png)
 
 ****
 
 (12b) Quebec [Daily infection hospitalization & fatality ratios, 3 scenarios, IHME, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211203/output/merge/main/graph%2091b2%20COVID-19%20daily%20Infection%20outcomes%20ratios%2C%20Canada%2C%20Quebec%203%20scenarios%2C%20IHME.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/144696510-c2c9eb1b-4b64-4306-a7b4-6a23ed3a91fe.png)
 
 ****
 
 (13) Quebec [Daily mobility, 3 scenarios, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211203/output/merge/main/graph%2092a%20COVID-19%20daily%20mobility%2C%20Canada%2C%20Quebec%2C%203%20scenarios.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/144696553-8ae63ece-ac58-4fc2-a65a-115961502c29.png)
 
 ****
 
 (14) Quebec [Daily mask use, 3 scenarios, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211203/output/merge/main/graph%2093b%20COVID-19%20daily%20mask_use%2C%20Canada%2C%20Quebec%2C%203%20scenarios.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/144696583-d668cec2-d054-4b80-9dfb-9b642f5bfd6c.png)
 
 ****
 
 (15) Quebec [Percent cumulative vaccinated, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211203/output/merge/main/graph%2094b%20COVID-19%20percent%20cumulative%20vaccinated%2C%20Canada%2C%20Quebec.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/144696612-18f8a778-e999-4cc3-b288-6287971113d9.png)
 
 ****
 
