@@ -1036,6 +1036,7 @@ Prince Edward Island predicted by none of the models. Reports to WHO available.
 
 (1) Saskatchewan [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211203/output/merge/main/SUB1%2011bDayDeaMERGsub%20alltime%20Saskatchewan%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Saskatchewan%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/144696765-1592aea6-ea83-406c-9c71-0c4482430706.png)
 
 ****
 
