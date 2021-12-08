@@ -23,7 +23,9 @@ Graphs for Nunavut were added here starting from uptake 20211105 onwards.
 
 **uptake 20211203**: **_DELP 20211203_**, IHME 20211119, **_IMPE 20211129_**, **_SRIV 20211203_**
 
+(1) Nunavut [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211203/output/JOHN/graph%201%20c%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Nunavut%2C%20Johns%20Hopkins.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/144693498-afba7f1e-c9bf-43a1-ad2a-8ea4bf0ca74a.png)
 
 *
 
@@ -78,7 +80,9 @@ Graphs for Nunavut were added here starting from uptake 20211105 onwards.
 
 **uptake 20211203**: **_DELP 20211203_**, IHME 20211119, **_IMPE 20211129_**, **_SRIV 20211203_**
 
+(2) Nunavut [Daily cases, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211203/output/JOHN/graph%202%20c%20COVID-19%20daily%20cases%2C%20Canada%2C%20Nunavut%2C%20Johns%20Hopkins.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/144693520-e1343efc-2b9c-4848-aa55-a4955ef0c10a.png)
 
 *
 
