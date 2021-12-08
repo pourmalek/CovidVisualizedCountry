@@ -21,6 +21,12 @@ Graphs for Northwest Territories were added here starting from uptake 20211105 o
 
 *
 
+**uptake 20211203**: **_DELP 20211203_**, IHME 20211119, **_IMPE 20211129_**, **_SRIV 20211203_**
+
+
+
+*
+
 **uptake 20211126**: **_DELP 20211123_**, IHME 20211119, IMPE 20211115, **_SRIV 20211126_**
 
 (1) Northwest Territories [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211126/output/JOHN/graph%201%20c%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Northwest%20Territories%2C%20Johns%20Hopkins.pdf)
@@ -65,6 +71,12 @@ Graphs for Northwest Territories were added here starting from uptake 20211105 o
 
 #### graph (2) Northwest Territories - Daily cases, reference scenarios, all time
 
+
+
+
+*
+
+**uptake 20211203**: **_DELP 20211203_**, IHME 20211119, **_IMPE 20211129_**, **_SRIV 20211203_**
 
 
 
