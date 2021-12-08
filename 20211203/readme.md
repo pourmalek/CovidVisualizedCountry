@@ -286,7 +286,6 @@ PHAC not in this uptake.
 
 ![image](https://user-images.githubusercontent.com/30849720/144690959-f5f9638e-49f3-4ee8-a9f9-5a7a62e37d83.png)
 
-
 ****
 
 (10) Alberta [Daily cases or infections estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211203/output/merge/main/SUB10%2094bDayCERMERGsub%202021%20Alberta%20-%20COVID-19%20daily%20cases%20estimated%20to%20reported%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios%2C%202021.pdf)
