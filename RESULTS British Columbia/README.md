@@ -18,6 +18,12 @@
 
 *
 
+**uptake 20211203**: **_DELP 20211203_**, IHME 20211119, **_IMPE 20211129_**, **_SRIV 20211203_**
+
+
+
+*
+
 **uptake 20211126**: **_DELP 20211123_**, IHME 20211119, IMPE 20211115, **_SRIV 20211126_**
 
 (1) British Columbia [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211126/output/merge/main/SUB1%2011bDayDeaMERGsub%20alltime%20British%20Columbia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%20all%20time.pdf)
@@ -346,6 +352,12 @@
   
   
   
+
+
+
+*
+
+**uptake 20211203**: **_DELP 20211203_**, IHME 20211119, **_IMPE 20211129_**, **_SRIV 20211203_**
 
 
 
@@ -684,6 +696,12 @@
 
 *
 
+**uptake 20211203**: **_DELP 20211203_**, IHME 20211119, **_IMPE 20211129_**, **_SRIV 20211203_**
+
+
+
+*
+
 **uptake 20211126**: **_DELP 20211123_**, IHME 20211119, IMPE 20211115, **_SRIV 20211126_**
 
 (3) British Columbia [Daily deaths, 3 scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211126/output/merge/main/SUB3%2014b1DayDeaMERGsub%202021%203%20scenarios%20British%20Columbia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20British%20Columbia%2C%203%20scenarios%2C%202021.pdf)
@@ -1011,6 +1029,12 @@
   
   
 
+
+
+
+*
+
+**uptake 20211203**: **_DELP 20211203_**, IHME 20211119, **_IMPE 20211129_**, **_SRIV 20211203_**
 
 
 
@@ -1348,6 +1372,12 @@
 
 *
 
+**uptake 20211203**: **_DELP 20211203_**, IHME 20211119, **_IMPE 20211129_**, **_SRIV 20211203_**
+
+
+
+*
+
 **uptake 20211126**: **_DELP 20211123_**, IHME 20211119, IMPE 20211115, **_SRIV 20211126_**
 
 (5) British Columbia [Daily cases or infections, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211126/output/merge/main/SUB5%2032bDayCasMERGsub%202021%20British%20Columbia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%202021.pdf)
@@ -1671,6 +1701,12 @@
   
   
   
+
+
+*
+
+**uptake 20211203**: **_DELP 20211203_**, IHME 20211119, **_IMPE 20211129_**, **_SRIV 20211203_**
+
 
 
 *
@@ -2003,6 +2039,12 @@
 
 *
 
+**uptake 20211203**: **_DELP 20211203_**, IHME 20211119, **_IMPE 20211129_**, **_SRIV 20211203_**
+
+PHAC not in this uptake.
+
+*
+
 **uptake 20211126**: **_DELP 20211123_**, IHME 20211119, IMPE 20211115, **_SRIV 20211126_**
 
 PHAC not in this uptake.
@@ -2068,6 +2110,14 @@ PHAC not in this uptake.
 
 *
 
+**uptake 20211203**: **_DELP 20211203_**, IHME 20211119, **_IMPE 20211129_**, **_SRIV 20211203_**
+
+
+
+*
+
+**uptake 20211126**: **_DELP 20211123_**, IHME 20211119, IMPE 20211115, **_SRIV 20211126_**
+
 (6c) British Columbia [Daily estimated infections IHME to reported cases JOHN, main scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211126/output/merge/main/CAN4%20-%201%20daily%20estimated%20infections%20to%20reported%20cases%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%202021.pdf)
 
 ![image](https://user-images.githubusercontent.com/30849720/143798163-6b0fe696-e9d3-4894-8028-8706d04c7051.png)
@@ -2092,6 +2142,12 @@ PHAC not in this uptake.
   
   
   
+
+
+
+*
+
+**uptake 20211203**: **_DELP 20211203_**, IHME 20211119, **_IMPE 20211129_**, **_SRIV 20211203_**
 
 
 
@@ -2423,6 +2479,12 @@ PHAC not in this uptake.
   
   
   
+
+
+
+*
+
+**uptake 20211203**: **_DELP 20211203_**, IHME 20211119, **_IMPE 20211129_**, **_SRIV 20211203_**
 
 
 
@@ -2761,6 +2823,12 @@ PHAC not in this uptake.
 
 *
 
+**uptake 20211203**: **_DELP 20211203_**, IHME 20211119, **_IMPE 20211129_**, **_SRIV 20211203_**
+
+
+
+*
+
 **uptake 20211126**: **_DELP 20211123_**, IHME 20211119, IMPE 20211115, **_SRIV 20211126_**
 
 (9) British Columbia [Daily deaths estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211126/output/merge/main/SUB9%2092bDayDERMERGsub%202021%20British%20Columbia%20-%20COVID-19%20daily%20deaths%20estimated%20to%20reported%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%202021.pdf)
@@ -3090,6 +3158,12 @@ PHAC not in this uptake.
   
   
 
+
+
+
+*
+
+**uptake 20211203**: **_DELP 20211203_**, IHME 20211119, **_IMPE 20211129_**, **_SRIV 20211203_**
 
 
 
@@ -3431,6 +3505,12 @@ PHAC not in this uptake.
 
 *
 
+**uptake 20211203**: **_DELP 20211203_**, IHME 20211119, **_IMPE 20211129_**, **_SRIV 20211203_**
+
+uptake 20211203 and uptake 20211126 both use update 20211119.
+
+*
+
 **uptake 20211126**: **_DELP 20211123_**, IHME 20211119, IMPE 20211115, **_SRIV 20211126_**
 
 uptake 20211126 and uptake 20211119 both use update 20211119.
@@ -3547,6 +3627,12 @@ uptake 20210920 and uptake 20210916 both use IHME 20210916.
 
 *
 
+**uptake 20211203**: **_DELP 20211203_**, IHME 20211119, **_IMPE 20211129_**, **_SRIV 20211203_**
+
+uptake 20211203 and uptake 20211126 both use update 20211119.
+
+*
+
 **uptake 20211126**: **_DELP 20211123_**, IHME 20211119, IMPE 20211115, **_SRIV 20211126_**
 
 uptake 20211126 and uptake 20211119 both use update 20211119.
@@ -3656,6 +3742,12 @@ uptake 20210920 and uptake 20210916 both use IHME 20210916.
 
 *
 
+**uptake 20211203**: **_DELP 20211203_**, IHME 20211119, **_IMPE 20211129_**, **_SRIV 20211203_**
+
+uptake 20211203 and uptake 20211126 both use update 20211119.
+
+*
+
 **uptake 20211126**: **_DELP 20211123_**, IHME 20211119, IMPE 20211115, **_SRIV 20211126_**
 
 uptake 20211126 and uptake 20211119 both use update 20211119.
@@ -3706,6 +3798,12 @@ uptake 20211112 and uptake 20211105 both use update 20211104.
 
 
 
+
+*
+
+**uptake 20211203**: **_DELP 20211203_**, IHME 20211119, **_IMPE 20211129_**, **_SRIV 20211203_**
+
+uptake 20211203 and uptake 20211126 both use update 20211119.
 
 *
 
@@ -3825,6 +3923,12 @@ uptake 20210920 and uptake 20210916 both use IHME 20210916.
 
 *
 
+**uptake 20211203**: **_DELP 20211203_**, IHME 20211119, **_IMPE 20211129_**, **_SRIV 20211203_**
+
+uptake 20211203 and uptake 20211126 both use update 20211119.
+
+*
+
 **uptake 20211126**: **_DELP 20211123_**, IHME 20211119, IMPE 20211115, **_SRIV 20211126_**
 
 uptake 20211126 and uptake 20211119 both use update 20211119.
@@ -3936,6 +4040,12 @@ uptake 20210920 and uptake 20210916 both use IHME 20210916.
 
 
 
+
+*
+
+**uptake 20211203**: **_DELP 20211203_**, IHME 20211119, **_IMPE 20211129_**, **_SRIV 20211203_**
+
+uptake 20211203 and uptake 20211126 both use update 20211119.
 
 *
 
