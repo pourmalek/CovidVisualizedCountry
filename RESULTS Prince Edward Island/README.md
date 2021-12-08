@@ -21,6 +21,12 @@ Graphs for Prince Edward Island were added here starting from uptake 20211105 on
 
 *
 
+**uptake 20211210**: **_DELP 20211210_**, **_IHME 20211210_**, IMPE 20211129, **_SRIV 20211210_**
+
+
+
+*
+
 **uptake 20211203**: **_DELP 20211203_**, IHME 20211119, **_IMPE 20211129_**, **_SRIV 20211203_**
 
 (1) Prince Edward Island [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211203/output/JOHN/graph%201%20c%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Prince%20Edward%20Island%2C%20Johns%20Hopkins.pdf)
@@ -74,6 +80,12 @@ Graphs for Prince Edward Island were added here starting from uptake 20211105 on
 
 #### graph (2) Prince Edward Island - Daily cases, reference scenarios, all time
 
+
+
+
+*
+
+**uptake 20211210**: **_DELP 20211210_**, **_IHME 20211210_**, IMPE 20211129, **_SRIV 20211210_**
 
 
 
