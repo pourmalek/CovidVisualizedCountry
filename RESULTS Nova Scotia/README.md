@@ -20,7 +20,7 @@ Graphs for Nova Scotia were added here starting from uptake 20210726 onwards.
   
 *
 
-**uptake 20211210**: **_DELP 20211210_**, **_IHME 20211210_**, IMPE 20211129, **_SRIV 20211210_**
+**uptake 20211210**: **_DELP 20211210_**, IHME 20211119, IMPE 20211129, **_SRIV 20211210_**
 
 
 
@@ -248,7 +248,7 @@ Graphs for Nova Scotia were added here starting from uptake 20210726 onwards.
   
 *
 
-**uptake 20211210**: **_DELP 20211210_**, **_IHME 20211210_**, IMPE 20211129, **_SRIV 20211210_**
+**uptake 20211210**: **_DELP 20211210_**, IHME 20211119, IMPE 20211129, **_SRIV 20211210_**
 
 
 
@@ -477,7 +477,7 @@ Graphs for Nova Scotia were added here starting from uptake 20210726 onwards.
   
 *
 
-**uptake 20211210**: **_DELP 20211210_**, **_IHME 20211210_**, IMPE 20211129, **_SRIV 20211210_**
+**uptake 20211210**: **_DELP 20211210_**, IHME 20211119, IMPE 20211129, **_SRIV 20211210_**
 
 
 
@@ -704,7 +704,7 @@ Graphs for Nova Scotia were added here starting from uptake 20210726 onwards.
   
 *
 
-**uptake 20211210**: **_DELP 20211210_**, **_IHME 20211210_**, IMPE 20211129, **_SRIV 20211210_**
+**uptake 20211210**: **_DELP 20211210_**, IHME 20211119, IMPE 20211129, **_SRIV 20211210_**
 
 
 
@@ -931,7 +931,7 @@ Graphs for Nova Scotia were added here starting from uptake 20210726 onwards.
   
 *
 
-**uptake 20211210**: **_DELP 20211210_**, **_IHME 20211210_**, IMPE 20211129, **_SRIV 20211210_**
+**uptake 20211210**: **_DELP 20211210_**, IHME 20211119, IMPE 20211129, **_SRIV 20211210_**
 
 
 
@@ -1161,7 +1161,7 @@ Graphs for Nova Scotia were added here starting from uptake 20210726 onwards.
   
 *
 
-**uptake 20211210**: **_DELP 20211210_**, **_IHME 20211210_**, IMPE 20211129, **_SRIV 20211210_**
+**uptake 20211210**: **_DELP 20211210_**, IHME 20211119, IMPE 20211129, **_SRIV 20211210_**
 
 
 
@@ -1394,7 +1394,7 @@ Graphs for Nova Scotia were added here starting from uptake 20210726 onwards.
   
 *
 
-**uptake 20211210**: **_DELP 20211210_**, **_IHME 20211210_**, IMPE 20211129, **_SRIV 20211210_**
+**uptake 20211210**: **_DELP 20211210_**, IHME 20211119, IMPE 20211129, **_SRIV 20211210_**
 
 PHAC not in this uptake.
 
@@ -1468,7 +1468,7 @@ PHAC not in this uptake.
   
 *
 
-**uptake 20211210**: **_DELP 20211210_**, **_IHME 20211210_**, IMPE 20211129, **_SRIV 20211210_**
+**uptake 20211210**: **_DELP 20211210_**, IHME 20211119, IMPE 20211129, **_SRIV 20211210_**
 
 
 
@@ -1515,7 +1515,7 @@ PHAC not in this uptake.
   
 *
 
-**uptake 20211210**: **_DELP 20211210_**, **_IHME 20211210_**, IMPE 20211129, **_SRIV 20211210_**
+**uptake 20211210**: **_DELP 20211210_**, IHME 20211119, IMPE 20211129, **_SRIV 20211210_**
 
 
 
@@ -1747,7 +1747,7 @@ PHAC not in this uptake.
   
 *
 
-**uptake 20211210**: **_DELP 20211210_**, **_IHME 20211210_**, IMPE 20211129, **_SRIV 20211210_**
+**uptake 20211210**: **_DELP 20211210_**, IHME 20211119, IMPE 20211129, **_SRIV 20211210_**
 
 
 
@@ -1978,7 +1978,7 @@ PHAC not in this uptake.
   
 *
 
-**uptake 20211210**: **_DELP 20211210_**, **_IHME 20211210_**, IMPE 20211129, **_SRIV 20211210_**
+**uptake 20211210**: **_DELP 20211210_**, IHME 20211119, IMPE 20211129, **_SRIV 20211210_**
 
 
 
@@ -2210,7 +2210,7 @@ PHAC not in this uptake.
   
 *
 
-**uptake 20211210**: **_DELP 20211210_**, **_IHME 20211210_**, IMPE 20211129, **_SRIV 20211210_**
+**uptake 20211210**: **_DELP 20211210_**, IHME 20211119, IMPE 20211129, **_SRIV 20211210_**
 
 
 
@@ -2444,7 +2444,7 @@ PHAC not in this uptake.
 
 *
 
-**uptake 20211210**: **_DELP 20211210_**, **_IHME 20211210_**, IMPE 20211129, **_SRIV 20211210_**
+**uptake 20211210**: **_DELP 20211210_**, IHME 20211119, IMPE 20211129, **_SRIV 20211210_**
 
 
 
@@ -2568,7 +2568,7 @@ uptake 20210920 and uptake 20210916 both use IHME 20210916.
 
 *
 
-**uptake 20211210**: **_DELP 20211210_**, **_IHME 20211210_**, IMPE 20211129, **_SRIV 20211210_**
+**uptake 20211210**: **_DELP 20211210_**, IHME 20211119, IMPE 20211129, **_SRIV 20211210_**
 
 
 
@@ -2692,7 +2692,7 @@ uptake 20210920 and uptake 20210916 both use IHME 20210916.
 
 *
 
-**uptake 20211210**: **_DELP 20211210_**, **_IHME 20211210_**, IMPE 20211129, **_SRIV 20211210_**
+**uptake 20211210**: **_DELP 20211210_**, IHME 20211119, IMPE 20211129, **_SRIV 20211210_**
 
 
 
@@ -2751,7 +2751,7 @@ Uptake 20211112 and uptake 20211105 both use IHME update 20211104.
 
 *
 
-**uptake 20211210**: **_DELP 20211210_**, **_IHME 20211210_**, IMPE 20211129, **_SRIV 20211210_**
+**uptake 20211210**: **_DELP 20211210_**, IHME 20211119, IMPE 20211129, **_SRIV 20211210_**
 
 
 
@@ -2878,7 +2878,7 @@ uptake 20210920 and uptake 20210916 both use IHME 20210916.
 
 *
 
-**uptake 20211210**: **_DELP 20211210_**, **_IHME 20211210_**, IMPE 20211129, **_SRIV 20211210_**
+**uptake 20211210**: **_DELP 20211210_**, IHME 20211119, IMPE 20211129, **_SRIV 20211210_**
 
 
 
@@ -3005,7 +3005,7 @@ uptake 20210920 and uptake 20210916 both use IHME 20210916.
 
 *
 
-**uptake 20211210**: **_DELP 20211210_**, **_IHME 20211210_**, IMPE 20211129, **_SRIV 20211210_**
+**uptake 20211210**: **_DELP 20211210_**, IHME 20211119, IMPE 20211129, **_SRIV 20211210_**
 
 
 
