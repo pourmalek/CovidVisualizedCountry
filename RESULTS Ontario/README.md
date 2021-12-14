@@ -2150,7 +2150,7 @@ PHAC not in this uptake.
 
 **uptake 20211210**: **_DELP 20211210_**, IHME 20211119, IMPE 20211129, **_SRIV 20211210_**
 
-
+Both this and the previous uptake use the same model update, so the graphs are identical.
 
 *
 
@@ -3571,19 +3571,19 @@ PHAC not in this uptake.
 
 **uptake 20211210**: **_DELP 20211210_**, IHME 20211119, IMPE 20211129, **_SRIV 20211210_**
 
-
+Both this and the previous uptake use the same model update, so the graphs are identical.
 
 *
 
 **uptake 20211203**: **_DELP 20211203_**, IHME 20211119, **_IMPE 20211129_**, **_SRIV 20211203_**
 
-uptake 20211203 and uptake 20211126 both use update 20211119.
+Both this and the previous uptake use the same model update, so the graphs are identical.
 
 *
 
 **uptake 20211126**: **_DELP 20211123_**, IHME 20211119, IMPE 20211115, **_SRIV 20211126_**
 
-Uptake 20211126 and uptake 20211119 both use IHME update 20211119.
+Both this and the previous uptake use the same model update, so the graphs are identical.
 
 *
 
@@ -3597,7 +3597,7 @@ Uptake 20211126 and uptake 20211119 both use IHME update 20211119.
 
 **uptake 20211112**: **_DELP 20211112_**, IHME 20211104, **_IMPE 20211103_**, **_SRIV 20211112_**
 
-Uptake 20211112 and uptake 20211105 both use IHME update 20211104.
+Both this and the previous uptake use the same model update, so the graphs are identical.
 
 *
 
@@ -3611,9 +3611,7 @@ Uptake 20211112 and uptake 20211105 both use IHME update 20211104.
 
 **uptake 20211029**: **_DELP 20211029_**, IHME 20211021, **_IMPE 20211021_**, **_SRIV 20211029_**, PHAC 20211008
 
-(11) Ontario [R effective, 3 scenarios](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211029/output/IHME/graph%2072a%20C-19%20R%20effective%2C%20Canada%2C%20Ontario%2C%20IHME%2C%203%20scenarios.pdf)
-
-![image](https://user-images.githubusercontent.com/30849720/139521828-59529cd1-a591-4b78-830d-ca890a4b1158.png)
+Both this and the previous uptake use the same model update, so the graphs are identical.
 
 *
 
@@ -3700,20 +3698,20 @@ uptake 20210920 and uptake 20210916 both use IHME 20210916.
 
 **uptake 20211210**: **_DELP 20211210_**, IHME 20211119, IMPE 20211129, **_SRIV 20211210_**
 
-
+Both this and the previous uptake use the same model update, so the graphs are identical.
 
 *
 
 **uptake 20211203**: **_DELP 20211203_**, IHME 20211119, **_IMPE 20211129_**, **_SRIV 20211203_**
 
-uptake 20211203 and uptake 20211126 both use update 20211119.
+Both this and the previous uptake use the same model update, so the graphs are identical.
 
 *
 
 
 **uptake 20211126**: **_DELP 20211123_**, IHME 20211119, IMPE 20211115, **_SRIV 20211126_**
 
-Uptake 20211126 and uptake 20211119 both use IHME update 20211119.
+Both this and the previous uptake use the same model update, so the graphs are identical.
 
 *
 
@@ -3741,9 +3739,7 @@ Uptake 20211112 and uptake 20211105 both use IHME update 20211104.
 
 **uptake 20211029**: **_DELP 20211029_**, IHME 20211021, **_IMPE 20211021_**, **_SRIV 20211029_**, PHAC 20211008
 
-(12) Ontario [Daily Infection-outcomes ratios, 3 scenarios, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211029/output/merge/main/graph%2091b%20COVID-19%20daily%20Infection%20outcomes%20ratios%2C%20Canada%2C%20Ontario%203%20scenarios%2C%20IHME.pdf)
-
-![image](https://user-images.githubusercontent.com/30849720/139521845-230e6045-daf3-4be4-bfc6-2741f0493d0f.png)
+Both this and the previous uptake use the same model update, so the graphs are identical.
 
 *
 
@@ -3765,7 +3761,7 @@ Uptake 20211112 and uptake 20211105 both use IHME update 20211104.
 
 **uptake 20211008**: **_DELP 20211008_**, IHME 20211001, IMPE 20210924, LANL 20210926, **_SRIV 20211008_**, **_PHAC 20211008_**
 
-uptake 20211008 and uptake 20211001 both use IHME 20211001.
+Both this and the previous uptake use the same model update, so the graphs are identical.
 
 *
 
@@ -3779,7 +3775,7 @@ uptake 20211008 and uptake 20211001 both use IHME 20211001.
 
 **uptake 20210928**: DELP 20210927, IHME 20210923, **_IMPE 20210924_**, LANL 20210926, SRIV 20210928, PHAC 20210903
 
-uptake 20210928 and uptake 20210923 both use IHME 20210923.
+Both this and the previous uptake use the same model update, so the graphs are identical.
 
 *
 
@@ -3793,7 +3789,7 @@ uptake 20210928 and uptake 20210923 both use IHME 20210923.
 
 **uptake 20210920**: DELP 20210920, IHME 20210916, **_IMPE 20210909_**, LANL 20210919, SRIV 20210920, PHAC 20210903
 
-uptake 20210920 and uptake 20210916 both use IHME 20210916.
+Both this and the previous uptake use the same model update, so the graphs are identical.
 
 *
 
@@ -3827,20 +3823,20 @@ uptake 20210920 and uptake 20210916 both use IHME 20210916.
 
 **uptake 20211210**: **_DELP 20211210_**, IHME 20211119, IMPE 20211129, **_SRIV 20211210_**
 
-
+Both this and the previous uptake use the same model update, so the graphs are identical.
 
 *
 
 **uptake 20211203**: **_DELP 20211203_**, IHME 20211119, **_IMPE 20211129_**, **_SRIV 20211203_**
 
-uptake 20211203 and uptake 20211126 both use update 20211119.
+Both this and the previous uptake use the same model update, so the graphs are identical.
 
 *
 
 
 **uptake 20211126**: **_DELP 20211123_**, IHME 20211119, IMPE 20211115, **_SRIV 20211126_**
 
-Uptake 20211126 and uptake 20211119 both use IHME update 20211119.
+Both this and the previous uptake use the same model update, so the graphs are identical.
 
 *
 
@@ -3854,7 +3850,7 @@ Uptake 20211126 and uptake 20211119 both use IHME update 20211119.
 
 **uptake 20211112**: **_DELP 20211112_**, IHME 20211104, **_IMPE 20211103_**, **_SRIV 20211112_**
 
-Uptake 20211112 and uptake 20211105 both use IHME update 20211104.
+Both this and the previous uptake use the same model update, so the graphs are identical.
 
 *
 
@@ -3892,20 +3888,20 @@ Uptake 20211112 and uptake 20211105 both use IHME update 20211104.
 
 **uptake 20211210**: **_DELP 20211210_**, IHME 20211119, IMPE 20211129, **_SRIV 20211210_**
 
-
+Both this and the previous uptake use the same model update, so the graphs are identical.
 
 *
 
 **uptake 20211203**: **_DELP 20211203_**, IHME 20211119, **_IMPE 20211129_**, **_SRIV 20211203_**
 
-uptake 20211203 and uptake 20211126 both use update 20211119.
+Both this and the previous uptake use the same model update, so the graphs are identical.
 
 *
 
 
 **uptake 20211126**: **_DELP 20211123_**, IHME 20211119, IMPE 20211115, **_SRIV 20211126_**
 
-Uptake 20211126 and uptake 20211119 both use IHME update 20211119.
+Both this and the previous uptake use the same model update, so the graphs are identical.
 
 *
 
@@ -3919,7 +3915,7 @@ Uptake 20211126 and uptake 20211119 both use IHME update 20211119.
 
 **uptake 20211112**: **_DELP 20211112_**, IHME 20211104, **_IMPE 20211103_**, **_SRIV 20211112_**
 
-Uptake 20211112 and uptake 20211105 both use IHME update 20211104.
+Both this and the previous uptake use the same model update, so the graphs are identical.
 
 *
 
@@ -3949,7 +3945,7 @@ Uptake 20211112 and uptake 20211105 both use IHME update 20211104.
 
 **uptake 20211008**: **_DELP 20211008_**, IHME 20211001, IMPE 20210924, LANL 20210926, **_SRIV 20211008_**, **_PHAC 20211008_**
 
-uptake 20211008 and uptake 20211001 both use IHME 20211001.
+Both this and the previous uptake use the same model update, so the graphs are identical.
 
 *
 
@@ -3963,7 +3959,7 @@ uptake 20211008 and uptake 20211001 both use IHME 20211001.
 
 **uptake 20210928**: DELP 20210927, IHME 20210923, **_IMPE 20210924_**, LANL 20210926, SRIV 20210928, PHAC 20210903
 
-uptake 20210928 and uptake 20210923 both use IHME 20210923.
+Both this and the previous uptake use the same model update, so the graphs are identical.
 
 *
 
@@ -3977,7 +3973,7 @@ uptake 20210928 and uptake 20210923 both use IHME 20210923.
 
 **uptake 20210920**: DELP 20210920, IHME 20210916, **_IMPE 20210909_**, LANL 20210919, SRIV 20210920, PHAC 20210903
 
-uptake 20210920 and uptake 20210916 both use IHME 20210916.
+Both this and the previous uptake use the same model update, so the graphs are identical.
 
 *
 
@@ -4014,20 +4010,20 @@ uptake 20210920 and uptake 20210916 both use IHME 20210916.
 
 **uptake 20211210**: **_DELP 20211210_**, IHME 20211119, IMPE 20211129, **_SRIV 20211210_**
 
-
+Both this and the previous uptake use the same model update, so the graphs are identical.
 
 *
 
 **uptake 20211203**: **_DELP 20211203_**, IHME 20211119, **_IMPE 20211129_**, **_SRIV 20211203_**
 
-uptake 20211203 and uptake 20211126 both use update 20211119.
+Both this and the previous uptake use the same model update, so the graphs are identical.
 
 *
 
 
 **uptake 20211126**: **_DELP 20211123_**, IHME 20211119, IMPE 20211115, **_SRIV 20211126_**
 
-Uptake 20211126 and uptake 20211119 both use IHME update 20211119.
+Both this and the previous uptake use the same model update, so the graphs are identical.
 
 *
 
@@ -4041,7 +4037,7 @@ Uptake 20211126 and uptake 20211119 both use IHME update 20211119.
 
 **uptake 20211112**: **_DELP 20211112_**, IHME 20211104, **_IMPE 20211103_**, **_SRIV 20211112_**
 
-Uptake 20211112 and uptake 20211105 both use IHME update 20211104.
+Both this and the previous uptake use the same model update, so the graphs are identical.
 
 *
 
@@ -4055,9 +4051,7 @@ Uptake 20211112 and uptake 20211105 both use IHME update 20211104.
 
 **uptake 20211029**: **_DELP 20211029_**, IHME 20211021, **_IMPE 20211021_**, **_SRIV 20211029_**, PHAC 20211008
 
-(14) Ontario [Daily mask use, 3 scenarios, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211029/output/merge/main/graph%2093b%20COVID-19%20daily%20mask_use%2C%20Canada%2C%20Ontario%2C%203%20scenarios.pdf)
-
-![image](https://user-images.githubusercontent.com/30849720/139521877-7c7ee50a-7983-499e-bbe1-126891d3ae56.png)
+Both this and the previous uptake use the same model update, so the graphs are identical.
 
 *
 
@@ -4079,7 +4073,7 @@ Uptake 20211112 and uptake 20211105 both use IHME update 20211104.
 
 **uptake 20211008**: **_DELP 20211008_**, IHME 20211001, IMPE 20210924, LANL 20210926, **_SRIV 20211008_**, **_PHAC 20211008_**
 
-uptake 20211008 and uptake 20211001 both use IHME 20211001.
+Both this and the previous uptake use the same model update, so the graphs are identical.
 
 *
 
@@ -4093,7 +4087,7 @@ uptake 20211008 and uptake 20211001 both use IHME 20211001.
 
 **uptake 20210928**: DELP 20210927, IHME 20210923, **_IMPE 20210924_**, LANL 20210926, SRIV 20210928, PHAC 20210903
 
-uptake 20210928 and uptake 20210923 both use IHME 20210923.
+Both this and the previous uptake use the same model update, so the graphs are identical.
 
 *
 
@@ -4107,7 +4101,7 @@ uptake 20210928 and uptake 20210923 both use IHME 20210923.
 
 **uptake 20210920**: DELP 20210920, IHME 20210916, **_IMPE 20210909_**, LANL 20210919, SRIV 20210920, PHAC 20210903
 
-uptake 20210920 and uptake 20210916 both use IHME 20210916.
+Both this and the previous uptake use the same model update, so the graphs are identical.
 
 *
 
@@ -4143,20 +4137,20 @@ uptake 20210920 and uptake 20210916 both use IHME 20210916.
 
 **uptake 20211210**: **_DELP 20211210_**, IHME 20211119, IMPE 20211129, **_SRIV 20211210_**
 
-
+Both this and the previous uptake use the same model update, so the graphs are identical.
 
 *
 
 **uptake 20211203**: **_DELP 20211203_**, IHME 20211119, **_IMPE 20211129_**, **_SRIV 20211203_**
 
-uptake 20211203 and uptake 20211126 both use update 20211119.
+Both this and the previous uptake use the same model update, so the graphs are identical.
 
 *
 
 
 **uptake 20211126**: **_DELP 20211123_**, IHME 20211119, IMPE 20211115, **_SRIV 20211126_**
 
-Uptake 20211126 and uptake 20211119 both use IHME update 20211119.
+Both this and the previous uptake use the same model update, so the graphs are identical.
 
 *
 
@@ -4170,7 +4164,7 @@ Uptake 20211126 and uptake 20211119 both use IHME update 20211119.
 
 **uptake 20211112**: **_DELP 20211112_**, IHME 20211104, **_IMPE 20211103_**, **_SRIV 20211112_**
 
-Uptake 20211112 and uptake 20211105 both use IHME update 20211104.
+Both this and the previous uptake use the same model update, so the graphs are identical.
 
 *
 
@@ -4184,9 +4178,7 @@ Uptake 20211112 and uptake 20211105 both use IHME update 20211104.
 
 **uptake 20211029**: **_DELP 20211029_**, IHME 20211021, **_IMPE 20211021_**, **_SRIV 20211029_**, PHAC 20211008
 
-(15) Ontario [Percent cumulative vaccinated, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211029/output/merge/main/graph%2094b%20COVID-19%20percent%20cumulative%20vaccinated%2C%20Canada%2C%20Ontario.pdf)
-
-![image](https://user-images.githubusercontent.com/30849720/139521893-cf17105f-7d0f-45bd-ada0-62ae98701992.png)
+Both this and the previous uptake use the same model update, so the graphs are identical.
 
 *
 
@@ -4208,7 +4200,7 @@ Uptake 20211112 and uptake 20211105 both use IHME update 20211104.
 
 **uptake 20211008**: **_DELP 20211008_**, IHME 20211001, IMPE 20210924, LANL 20210926, **_SRIV 20211008_**, **_PHAC 20211008_**
 
-uptake 20211008 and uptake 20211001 both use IHME 20211001.
+Both this and the previous uptake use the same model update, so the graphs are identical.
 
 *
 
@@ -4222,7 +4214,7 @@ uptake 20211008 and uptake 20211001 both use IHME 20211001.
 
 **uptake 20210928**: DELP 20210927, IHME 20210923, **_IMPE 20210924_**, LANL 20210926, SRIV 20210928, PHAC 20210903
 
-uptake 20210928 and uptake 20210923 both use IHME 20210923.
+Both this and the previous uptake use the same model update, so the graphs are identical.
 
 *
 
@@ -4236,7 +4228,7 @@ uptake 20210928 and uptake 20210923 both use IHME 20210923.
 
 **uptake 20210920**: DELP 20210920, IHME 20210916, **_IMPE 20210909_**, LANL 20210919, SRIV 20210920, PHAC 20210903
 
-uptake 20210920 and uptake 20210916 both use IHME 20210916.
+Both this and the previous uptake use the same model update, so the graphs are identical.
 
 *
 
