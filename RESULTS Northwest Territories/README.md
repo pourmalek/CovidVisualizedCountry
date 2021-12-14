@@ -21,7 +21,7 @@ Graphs for Northwest Territories were added here starting from uptake 20211105 o
 
 *
 
-**uptake 20211210**: **_DELP 20211210_**, **_IHME 20211210_**, IMPE 20211129, **_SRIV 20211210_**
+**uptake 20211210**: **_DELP 20211210_**, IHME 20211119, IMPE 20211129, **_SRIV 20211210_**
 
 
 
@@ -84,7 +84,7 @@ Graphs for Northwest Territories were added here starting from uptake 20211105 o
 
 *
 
-**uptake 20211210**: **_DELP 20211210_**, **_IHME 20211210_**, IMPE 20211129, **_SRIV 20211210_**
+**uptake 20211210**: **_DELP 20211210_**, IHME 20211119, IMPE 20211129, **_SRIV 20211210_**
 
 
 
@@ -117,8 +117,7 @@ Graphs for Northwest Territories were added here starting from uptake 20211105 o
 **uptake 20211112**: **_DELP 20211112_**, IHME 20211104, **_IMPE 20211103_**, **_SRIV 20211112_**
 
 (2) Northwest Territories [Daily cases, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211112/output/JOHN/graph%202%20c%20COVID-19%20daily%20cases%2C%20Canada%2C%20Northwest%20Territories%2C%20Johns%20Hopkins.pdf)
-
-![image](https://user-images.githubusercontent.com/30849720/141696390-e7ad40e6-2cef-4405-a66a-a4921705a0c4.png)
+a![image](https://user-images.githubusercontent.com/30849720/141696390-e7ad40e6-2cef-4405-a66a-a4921705a0c4.png)
 
 *
 
