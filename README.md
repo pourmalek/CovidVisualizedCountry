@@ -19,6 +19,11 @@
 ### <div align="center"> at the country level, countries with subnational level estimates
 ## <div align="center"> :canada: Canada: national level and provinces
   
+ ### <div align="center"> [`National`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20CANADA%2C%20national) 
+ ### <div align="center"> [`Provinces together`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20CANADA%2C%20provinces)
+  
+ ### <div align="center"> [`Alberta`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20Alberta) [`British Columbia`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20British%20Columbia) [`Manitoba`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20Manitoba) [`New Brunswick`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20New%20Brunswick) [`Newfoundland and Labrador`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20Newfoundland%20and%20Labrador) [`Nova Scotia`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20Nova%20Scotia) [`Ontario`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20Ontario) [`Quebec`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20Quebec) [`Saskatchewan`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20Saskatchewan)
+  
   
 *****************************
   
