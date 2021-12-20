@@ -19,31 +19,31 @@ This is an emergency update, including only the official reports to WHO, as of J
 
 ****
 
-(1) Provinces together - [Daily cases, subnationals, 2021 Nov Dec](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211220/output/JOHN/graph%2011%20COVID-19%20daily%20deaths%2C%20Canada%2C%20subnational%2C%20Johns%20Hopkins.pdf)
+(1) Provinces together - [Daily cases, subnationals, 2021 Nov Dec](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211220/output/JOHN/graph%2023%20COVID-19%20daily%20cases%2C%20Canada%2C%20subnational%2C%20Johns%20Hopkins%202021%20Nov%20Dec.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/146829414-47cd9e9b-23e7-4ad1-a09a-71c7b707fd4e.png)
+
+****
+
+(2) Provinces together - [Daily cases, subnationals, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211220/output/JOHN/graph%2022%20COVID-19%20daily%20cases%2C%20Canada%2C%20subnational%2C%20Johns%20Hopkins.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/146829518-ff9a5b5f-2f32-4128-b29b-6ac9dafc4b95.png)
+
+****
+
+(3) Provinces together - [Daily cases, subnationals, 2020 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211220/output/JOHN/graph%2021%20COVID-19%20daily%20cases%2C%20Canada%2C%20subnational%2C%20Johns%20Hopkins.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/146829611-2b3693c2-e6ad-4df1-b489-1000ed58cd70.png)
+
+****
+
+(4) Provinces together - [Daily deaths, subnationals, 2021 Nov Dec](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211220/output/JOHN/graph%2013%20COVID-19%20daily%20deaths%2C%20Canada%2C%20subnational%2C%20Johns%20Hopkins%202021%20Nov%20Dec.pdf)
 
 ![image](https://user-images.githubusercontent.com/30849720/146828845-2f46d1b7-5b74-4a9a-aeed-b6bd30912de9.png)
 
 ****
 
-(2) Provinces together - [Daily cases, subnationals, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211220/output/JOHN/graph%2011%20COVID-19%20daily%20deaths%2C%20Canada%2C%20subnational%2C%20Johns%20Hopkins.pdf)
-
-![image](https://user-images.githubusercontent.com/30849720/146828845-2f46d1b7-5b74-4a9a-aeed-b6bd30912de9.png)
-
-****
-
-(3) Provinces together - [Daily cases, subnationals, 2020 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211220/output/JOHN/graph%2011%20COVID-19%20daily%20deaths%2C%20Canada%2C%20subnational%2C%20Johns%20Hopkins.pdf)
-
-![image](https://user-images.githubusercontent.com/30849720/146828845-2f46d1b7-5b74-4a9a-aeed-b6bd30912de9.png)
-
-****
-
-(4) Provinces together - [Daily deaths, subnationals, 2021 Nov Dec](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211220/output/JOHN/graph%2011%20COVID-19%20daily%20deaths%2C%20Canada%2C%20subnational%2C%20Johns%20Hopkins.pdf)
-
-![image](https://user-images.githubusercontent.com/30849720/146828845-2f46d1b7-5b74-4a9a-aeed-b6bd30912de9.png)
-
-****
-
-(5) Provinces together - [Daily deaths, subnationals, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211220/output/JOHN/graph%2011%20COVID-19%20daily%20deaths%2C%20Canada%2C%20subnational%2C%20Johns%20Hopkins.pdf)
+(5) Provinces together - [Daily deaths, subnationals, 2021](![Uploading image.png…]())
 
 ![image](https://user-images.githubusercontent.com/30849720/146828845-2f46d1b7-5b74-4a9a-aeed-b6bd30912de9.png)
 
