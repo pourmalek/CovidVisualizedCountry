@@ -8,7 +8,9 @@ This is an Omicron-induced emergency update, including only the official reports
 
 <br/><br/>
 
+## Observation: Reported daily cases are rising in Quebec and Ontario. 
 
+<br/><br/>
 
 ### Merged graphs of this uptake [here](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211220/graphs%20merge%2020211220.pdf)
 
