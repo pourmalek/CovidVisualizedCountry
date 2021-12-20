@@ -1587,7 +1587,7 @@ Both this and the previous uptake use the same model update, so the graphs are i
 
 *
 
-**uptake IHME 20211119**: **_DELP IHME 20211119_**, **_IHME IHME 20211119_**, IMPE 20211129, **_SRIV IHME 20211119_**
+**uptake 20211210**: **_DELP 20211210_**, IHME 20211119, IMPE 20211129, **_SRIV 20211210_**
 
 (7) Saskatchewan [Hospital-related outcomes, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211210/output/merge/main/SUB7%2071bDayHosMERGsub%20alltime%20Saskatchewan%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20Saskatchewan.pdf)
 
@@ -1829,7 +1829,7 @@ Both this and the previous uptake use the same model update, so the graphs are i
 
 *
 
-**uptake IHME 20211119**: **_DELP IHME 20211119_**, **_IHME IHME 20211119_**, IMPE 20211129, **_SRIV IHME 20211119_**
+**uptake 20211210**: **_DELP 20211210_**, IHME 20211119, IMPE 20211129, **_SRIV 20211210_**
 
 (8) Saskatchewan [Hospital-related outcomes, 2021, without IHME Bed need and IMPE Hospital demand](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211210/output/merge/main/SUB8%2073bDayHosMERGsub%202021%20woextremes%20Saskatchewan%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20Saskatchewan%2C%20wo%20extremes%2C%202021.pdf)
 
@@ -2070,7 +2070,7 @@ Both this and the previous uptake use the same model update, so the graphs are i
 
 *
 
-**uptake IHME 20211119**: **_DELP IHME 20211119_**, **_IHME IHME 20211119_**, IMPE 20211129, **_SRIV IHME 20211119_**
+**uptake 20211210**: **_DELP 20211210_**, IHME 20211119, IMPE 20211129, **_SRIV 20211210_**
 
 (9) Saskatchewan [Daily deaths estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211210/output/merge/main/SUB9%2092bDayDERMERGsub%202021%20Saskatchewan%20-%20COVID-19%20daily%20deaths%20estimated%20to%20reported%2C%20Canada%2C%20Saskatchewan%2C%20reference%20scenarios%2C%202021.pdf)
 
@@ -2312,7 +2312,7 @@ Both this and the previous uptake use the same model update, so the graphs are i
 
 *
 
-**uptake IHME 20211119**: **_DELP IHME 20211119_**, **_IHME IHME 20211119_**, IMPE 20211129, **_SRIV IHME 20211119_**
+**uptake 20211210**: **_DELP 20211210_**, IHME 20211119, IMPE 20211129, **_SRIV 20211210_**
 
 (10) Saskatchewan [Daily cases or infections estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211210/output/merge/main/SUB10%2094bDayCERMERGsub%202021%20Saskatchewan%20-%20COVID-19%20daily%20cases%20estimated%20to%20reported%2C%20Canada%2C%20Saskatchewan%2C%20reference%20scenarios%2C%202021.pdf)
 
@@ -2557,7 +2557,7 @@ Both this and the previous uptake use the same model update, so the graphs are i
 
 *
 
-**uptake IHME 20211119**: **_DELP IHME 20211119_**, **_IHME IHME 20211119_**, IMPE 20211129, **_SRIV IHME 20211119_**
+**uptake 20211210**: **_DELP 20211210_**, IHME 20211119, IMPE 20211129, **_SRIV 20211210_**
 
 Both this and the previous uptake use the same model update, so the graphs are identical.
 
@@ -2690,7 +2690,7 @@ Both this and the previous uptake use the same model update, so the graphs are i
 *
 
 
-**uptake IHME 20211119**: **_DELP IHME 20211119_**, **_IHME IHME 20211119_**, IMPE 20211129, **_SRIV IHME 20211119_**
+**uptake 20211210**: **_DELP 20211210_**, IHME 20211119, IMPE 20211129, **_SRIV 20211210_**
 
 Both this and the previous uptake use the same model update, so the graphs are identical.
 
@@ -2820,7 +2820,7 @@ Both this and the previous uptake use the same model update, so the graphs are i
 *
 
 
-**uptake IHME 20211119**: **_DELP IHME 20211119_**, **_IHME IHME 20211119_**, IMPE 20211129, **_SRIV IHME 20211119_**
+**uptake 20211210**: **_DELP 20211210_**, IHME 20211119, IMPE 20211129, **_SRIV 20211210_**
 
 Both this and the previous uptake use the same model update, so the graphs are identical.
 
@@ -2886,7 +2886,7 @@ Both this and the previous uptake use the same model update, so the graphs are i
 *
 
 
-**uptake IHME 20211119**: **_DELP IHME 20211119_**, **_IHME IHME 20211119_**, IMPE 20211129, **_SRIV IHME 20211119_**
+**uptake 20211210**: **_DELP 20211210_**, IHME 20211119, IMPE 20211129, **_SRIV 20211210_**
 
 Both this and the previous uptake use the same model update, so the graphs are identical.
 
@@ -3018,7 +3018,7 @@ Both this and the previous uptake use the same model update, so the graphs are i
 *
 
 
-**uptake IHME 20211119**: **_DELP IHME 20211119_**, **_IHME IHME 20211119_**, IMPE 20211129, **_SRIV IHME 20211119_**
+**uptake 20211210**: **_DELP 20211210_**, IHME 20211119, IMPE 20211129, **_SRIV 20211210_**
 
 Both this and the previous uptake use the same model update, so the graphs are identical.
 
@@ -3147,7 +3147,7 @@ Both this and the previous uptake use the same model update, so the graphs are i
 *
 
 
-**uptake IHME 20211119**: **_DELP IHME 20211119_**, **_IHME IHME 20211119_**, IMPE 20211129, **_SRIV IHME 20211119_**
+**uptake 20211210**: **_DELP 20211210_**, IHME 20211119, IMPE 20211129, **_SRIV 20211210_**
 
 Both this and the previous uptake use the same model update, so the graphs are identical.
 
