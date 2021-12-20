@@ -245,17 +245,7 @@ The codes in these repositories can be adapted for use for any country or region
 
 ****
 
-****
 
-****
-
-****
-
-****
-
-****
-
-****
 
 ### Selected graphs - Canada, national
 
