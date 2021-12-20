@@ -6,16 +6,19 @@ Graphs for Newfoundland and Labrador were added here starting from uptake 202111
 
   
 **** 
-****  
 
-  
-  
-  
+    
 #### graph (1) Newfoundland and Labrador - Daily deaths, reference scenarios, all time
 
 ****
 ****  
 
+
+
+
+*
+
+**uptake 20211217**: **_DELP 20211216_**, IHME 20211119, **_IMPE 20211205_**, **_SRIV 20211217_**
 
 
 
@@ -82,6 +85,12 @@ Graphs for Newfoundland and Labrador were added here starting from uptake 202111
 
 #### graph (2) Newfoundland and Labrador - Daily cases, reference scenarios, all time
 
+
+
+
+*
+
+**uptake 20211217**: **_DELP 20211216_**, IHME 20211119, **_IMPE 20211205_**, **_SRIV 20211217_**
 
 
 
