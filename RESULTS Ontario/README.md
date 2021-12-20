@@ -15,7 +15,9 @@
 
 **uptake 20211217**: **_DELP 20211216_**, IHME 20211119, **_IMPE 20211205_**, **_SRIV 20211217_**
 
+(1) Ontario [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211217/output/merge/main/SUB1%2011bDayDeaMERGsub%20alltime%20Ontario%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/146688801-75992a45-85ab-4113-86be-ce51823d58a5.png)
 
 *
 
@@ -366,10 +368,11 @@
 
 **uptake 20211217**: **_DELP 20211216_**, IHME 20211119, **_IMPE 20211205_**, **_SRIV 20211217_**
 
+(2) Ontario [Daily deaths, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211217/output/merge/main/SUB2%2012bDayDeaMERGsub%202021%20Ontario%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/146688830-39ea297a-6b50-46a6-afd6-671af60c2c3f.png)
 
 *
-
 
 **uptake 20211210**: **_DELP 20211210_**, IHME 20211119, IMPE 20211129, **_SRIV 20211210_**
 
@@ -719,10 +722,11 @@
 
 **uptake 20211217**: **_DELP 20211216_**, IHME 20211119, **_IMPE 20211205_**, **_SRIV 20211217_**
 
+(3) Ontario [Daily deaths, 3 scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211217/output/merge/main/SUB3%2014b1DayDeaMERGsub%202021%203%20scenarios%20Ontario%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Ontario%2C%203%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/146688849-398771b7-5acf-44bd-b27b-215d89692d9c.png)
 
 *
-
 
 **uptake 20211210**: **_DELP 20211210_**, IHME 20211119, IMPE 20211129, **_SRIV 20211210_**
 
@@ -1071,10 +1075,11 @@
 
 **uptake 20211217**: **_DELP 20211216_**, IHME 20211119, **_IMPE 20211205_**, **_SRIV 20211217_**
 
+(4) Ontario [Daily cases or infections, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211217/output/merge/main/SUB4%2031bDayCasMERGsub%20alltime%20Ontario%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/146688868-0d09858b-92ca-407e-b94e-933e65b35d27.png)
 
 *
-
 
 **uptake 20211210**: **_DELP 20211210_**, IHME 20211119, IMPE 20211129, **_SRIV 20211210_**
 
@@ -1424,10 +1429,11 @@
 
 **uptake 20211217**: **_DELP 20211216_**, IHME 20211119, **_IMPE 20211205_**, **_SRIV 20211217_**
 
+(5) Ontario [Daily cases or infections, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211217/output/merge/main/SUB5%2032bDayCasMERGsub%202021%20Ontario%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/146688886-4be2314b-1cd1-49a4-ac7b-653fc3574244.png)
 
 *
-
 
 **uptake 20211210**: **_DELP 20211210_**, IHME 20211119, IMPE 20211129, **_SRIV 20211210_**
 
@@ -1776,10 +1782,11 @@
 
 **uptake 20211217**: **_DELP 20211216_**, IHME 20211119, **_IMPE 20211205_**, **_SRIV 20211217_**
 
+(6) Ontario [Daily cases or infections, 3 scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211217/output/merge/main/SUB6%2034bDayCasMERGsub%202021%203scen%20Ontario%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Ontario%2C%203%20scenarios%2C%202021%2C%20uncertainty.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/146688906-1f28eb75-eb49-419e-b9cb-38c2b1d3a055.png)
 
 *
-
 
 **uptake 20211210**: **_DELP 20211210_**, IHME 20211119, IMPE 20211129, **_SRIV 20211210_**
 
@@ -2253,7 +2260,9 @@ Both this and the previous uptake use the same model update, so the graphs are i
 
 **uptake 20211217**: **_DELP 20211216_**, IHME 20211119, **_IMPE 20211205_**, **_SRIV 20211217_**
 
+(7) Ontario [Hospital-related outcomes, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211217/output/merge/main/SUB7%2071bDayHosMERGsub%20alltime%20Ontario%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20Ontario.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/146688943-a6bd7d54-0482-43e5-9d01-dc0087ac61f3.png)
 
 *
 
