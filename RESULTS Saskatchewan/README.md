@@ -734,7 +734,7 @@ Graphs for Saskatchewan were added here starting from uptake 20210726 onwards.
 
 *
 
-**uptake IHME 20211119**: **_DELP IHME 20211119_**, **_IHME IHME 20211119_**, IMPE 20211129, **_SRIV IHME 20211119_**
+**uptake 20211210**: **_DELP 20211210_**, IHME 20211119, IMPE 20211129, **_SRIV 20211210_**
 
 (4) Saskatchewan [Daily cases or infections, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211210/output/merge/main/SUB4%2031bDayCasMERGsub%20alltime%20Saskatchewan%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Saskatchewan%2C%20reference%20scenarios.pdf)
 
@@ -970,7 +970,7 @@ Graphs for Saskatchewan were added here starting from uptake 20210726 onwards.
 
 *
 
-**uptake IHME 20211119**: **_DELP IHME 20211119_**, **_IHME IHME 20211119_**, IMPE 20211129, **_SRIV IHME 20211119_**
+**uptake 20211210**: **_DELP 20211210_**, IHME 20211119, IMPE 20211129, **_SRIV 20211210_**
 
 (5) Saskatchewan [Daily cases or infections, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211210/output/merge/main/SUB5%2032bDayCasMERGsub%202021%20Saskatchewan%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Saskatchewan%2C%20reference%20scenarios%2C%202021.pdf)
 
@@ -1203,7 +1203,7 @@ Graphs for Saskatchewan were added here starting from uptake 20210726 onwards.
   
 *
 
-**uptake 20211217**: **_DELP 20211216_**, IHME 20211119, **_IMPE 20211205_**, **_SRIV 20211217_**
+**uptake 20211210**: **_DELP 20211210_**, IHME 20211119, IMPE 20211129, **_SRIV 20211210_**
 
 
 
@@ -1450,7 +1450,7 @@ PHAC not in this uptake.
 
 *
 
-**uptake IHME 20211119**: **_DELP IHME 20211119_**, **_IHME IHME 20211119_**, IMPE 20211129, **_SRIV IHME 20211119_**
+**uptake 20211210**: **_DELP 20211210_**, IHME 20211119, IMPE 20211129, **_SRIV 20211210_**
 
 PHAC not in this uptake.
 
