@@ -2,9 +2,9 @@
 Official reports to WHO, update 20211220
 
 
-*********************************************************************************************
-This is an emergency update, including only the official reports to WHO, as of Johns Hopkins.
-*********************************************************************************************
+***********************************************************************************************************
+This is an Omicron-induced emergency update, including only the official reports to WHO, via Johns Hopkins.
+***********************************************************************************************************
 
 <br/><br/>
 
