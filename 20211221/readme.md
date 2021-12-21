@@ -35,7 +35,7 @@ This is an Omicron-induced emergency update, including only the official reports
 
 (3) Provinces together - [Daily cases, subnationals, 2020 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211221/output/JOHN/graph%2021%20COVID-19%20daily%20cases%2C%20Canada%2C%20subnational%2C%20Johns%20Hopkins.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/146985775-0505028f-fcd6-46d9-9036-458c987a327e.png)
+![image](https://user-images.githubusercontent.com/30849720/146988477-4be56c24-77b4-4b45-9994-cdcb39341a24.png)
 
 ****
 
