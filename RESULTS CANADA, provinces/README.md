@@ -8,7 +8,21 @@ Note: The following additional graphs were added starting from uptake 20210923.
 
 *
 
-### Official reports to WHO, update 20211220
+### Official reports to WHO, update 20211221
+
+<br/><br/>
+
+## Observation: 
+  
+## Reported daily cases are rising in Quebec and Ontario (> 3,000), reaching the levels in 2021-01 (> 3,000) and 2021-04 (> 4,000) in Ontario, and already surpassed all-time levels in Quebec, including levels in 2021-04 (> 1,000) and in 2021-01 (> 2,000).  
+  
+## Reported daily cases are rising in Alberta and BritishColumbia (< 1,000 so far), surpassing the levels in 2021-09 in British Columbia.
+
+<br/><br/>
+
+(1) Provinces together - [Daily cases, subnationals, 2021 Nov Dec](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211221/output/JOHN/graph%2023%20COVID-19%20daily%20cases%2C%20Canada%2C%20subnational%2C%20Johns%20Hopkins%202021%20Nov%20Dec.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/146985650-cb334938-8f00-44c0-a9cf-4322b214f1dc.png)
 
 ****
 
