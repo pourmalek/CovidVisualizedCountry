@@ -175,7 +175,11 @@ The codes in these repositories can be adapted for use for any country or region
   
 ****
   
-## Observation: Reported daily cases are rising in Quebec and Ontario (> 3,000), reaching the levels in 2021-01 (> 3,000) and 2021-04 (> 4,000) in Ontario, and already surpassed all-time levels in Quebec, including levels in 2021-04 (> 1,000) and in 2021-01 (> 2,000).  
+## Observation: 
+  
+## Reported daily cases are rising in Quebec and Ontario (> 3,000), reaching the levels in 2021-01 (> 3,000) and 2021-04 (> 4,000) in Ontario, and already surpassed all-time levels in Quebec, including levels in 2021-04 (> 1,000) and in 2021-01 (> 2,000).  
+  
+## Reported daily cases are rising in Alberta and BritishColumbia (< 1,000 so far), surpassing the levels in 2021-09 in British Columbia.   
 
 (1) Provinces together - [Daily cases, subnationals, 2021 Nov Dec](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211221/output/JOHN/graph%2023%20COVID-19%20daily%20cases%2C%20Canada%2C%20subnational%2C%20Johns%20Hopkins%202021%20Nov%20Dec.pdf)
 
