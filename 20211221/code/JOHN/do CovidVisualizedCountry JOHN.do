@@ -641,19 +641,19 @@ qui graph export "graph 13 COVID-19 daily deaths, $country, subnational, Johns H
 * 21 daily cases, subnational, alltime
 
 twoway ///
-(line DayDeaMeSmA00S00XAB date, sort lwidth(medium) lcolor(cyan)) /// 1 "AB" 
-(line DayDeaMeSmA00S00XBC date, sort lwidth(medium) lcolor(blue)) /// 2 "BC" 
-(line DayDeaMeSmA00S00XMB date, sort lwidth(medium) lcolor(lime)) /// 3 "MB" 
-(line DayDeaMeSmA00S00XNB date, sort lwidth(medium) lcolor(dknavy)) /// 4 "NB" 
-(line DayDeaMeSmA00S00XNL date, sort lwidth(medium) lcolor(gold)) /// 5 "NL" 
-(line DayDeaMeSmA00S00XNS date, sort lwidth(medium) lcolor(magenta)) /// 6 "NS" 
-(line DayDeaMeSmA00S00XNT date, sort lwidth(medium) lcolor(dkorange) lpattern(tight_dot) lwidth(vthick)) /// 7 "NT" 
-(line DayDeaMeSmA00S00XNU date, sort lwidth(medium) lcolor(brown) lpattern(tight_dot) lwidth(vthick)) /// 8 "NU" 
-(line DayDeaMeSmA00S00XON date, sort lwidth(medium) lcolor(red)) /// 9 "ON" 
-(line DayDeaMeSmA00S00XPE date, sort lwidth(medium) lcolor(pink)) /// 10 "PE" 
-(line DayDeaMeSmA00S00XQC date, sort lwidth(medium) lcolor(black)) /// 11 "QC" 
-(line DayDeaMeSmA00S00XSK date, sort lwidth(medium) lcolor(lavender)) /// 12 "SK" 
-(line DayDeaMeSmA00S00XYT date, sort lwidth(medium) lcolor(black) lpattern(tight_dot) lwidth(vthick)) /// 13 "YT" 
+(line DayCasMeSmA00S00XAB date, sort lwidth(medium) lcolor(cyan)) /// 1 "AB" 
+(line DayCasMeSmA00S00XBC date, sort lwidth(medium) lcolor(blue)) /// 2 "BC" 
+(line DayCasMeSmA00S00XMB date, sort lwidth(medium) lcolor(lime)) /// 3 "MB" 
+(line DayCasMeSmA00S00XNB date, sort lwidth(medium) lcolor(dknavy)) /// 4 "NB" 
+(line DayCasMeSmA00S00XNL date, sort lwidth(medium) lcolor(gold)) /// 5 "NL" 
+(line DayCasMeSmA00S00XNS date, sort lwidth(medium) lcolor(magenta)) /// 6 "NS" 
+(line DayCasMeSmA00S00XNT date, sort lwidth(medium) lcolor(dkorange) lpattern(tight_dot) lwidth(vthick)) /// 7 "NT" 
+(line DayCasMeSmA00S00XNU date, sort lwidth(medium) lcolor(brown) lpattern(tight_dot) lwidth(vthick)) /// 8 "NU" 
+(line DayCasMeSmA00S00XON date, sort lwidth(medium) lcolor(red)) /// 9 "ON" 
+(line DayCasMeSmA00S00XPE date, sort lwidth(medium) lcolor(pink)) /// 10 "PE" 
+(line DayCasMeSmA00S00XQC date, sort lwidth(medium) lcolor(black)) /// 11 "QC" 
+(line DayCasMeSmA00S00XSK date, sort lwidth(medium) lcolor(lavender)) /// 12 "SK" 
+(line DayCasMeSmA00S00XYT date, sort lwidth(medium) lcolor(black) lpattern(tight_dot) lwidth(vthick)) /// 13 "YT" 
 if date >= td(01jan2020) & date <= td(31dec2021) /// 
 , xtitle(Date) xlabel(#25, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%9.0fc) labsize(small))  ylabel(, labsize(small) angle(forty_five)) ///
