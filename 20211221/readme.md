@@ -8,7 +8,11 @@ This is an Omicron-induced emergency update, including only the official reports
 
 <br/><br/>
 
-## Observation: Reported daily cases are rising in Quebec and Ontario (> 3,000), reaching the levels in 2021-01 (> 3,000) and 2021-04 (> 4,000) in Ontario, and already surpassed all-time levels in Quebec, including levels in 2021-04 (> 1,000) and in 2021-01 (> 2,000).
+## Observation: 
+  
+## Reported daily cases are rising in Quebec and Ontario (> 3,000), reaching the levels in 2021-01 (> 3,000) and 2021-04 (> 4,000) in Ontario, and already surpassed all-time levels in Quebec, including levels in 2021-04 (> 1,000) and in 2021-01 (> 2,000).  
+  
+## Reported daily cases are rising in Alberta and BritishColumbia (< 1,000 so far), surpassing the levels in 2021-09 in British Columbia.
 
 <br/><br/>
 
