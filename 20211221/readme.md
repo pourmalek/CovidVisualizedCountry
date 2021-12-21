@@ -23,16 +23,19 @@ This is an Omicron-induced emergency update, including only the official reports
 
 (1) Provinces together - [Daily cases, subnationals, 2021 Nov Dec](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211221/output/JOHN/graph%2023%20COVID-19%20daily%20cases%2C%20Canada%2C%20subnational%2C%20Johns%20Hopkins%202021%20Nov%20Dec.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/146985650-cb334938-8f00-44c0-a9cf-4322b214f1dc.png)
 
 ****
 
 (2) Provinces together - [Daily cases, subnationals, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211221/output/JOHN/graph%2022%20COVID-19%20daily%20cases%2C%20Canada%2C%20subnational%2C%20Johns%20Hopkins.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/146985716-d7fee45d-924d-44bc-9b14-3ec9e1507f2d.png)
 
 ****
 
 (3) Provinces together - [Daily cases, subnationals, 2020 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211221/output/JOHN/graph%2021%20COVID-19%20daily%20cases%2C%20Canada%2C%20subnational%2C%20Johns%20Hopkins.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/146985775-0505028f-fcd6-46d9-9036-458c987a327e.png)
 
 ****
 
