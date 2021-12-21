@@ -6,6 +6,21 @@
 Note: The following additional graphs were added starting from uptake 20210923. 
 
 
+*
+
+### Official reports to WHO, update 20211220
+
+****
+
+(1) Provinces together - [Daily cases, subnationals, 2021 Nov Dec](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211220/output/JOHN/graph%2023%20COVID-19%20daily%20cases%2C%20Canada%2C%20subnational%2C%20Johns%20Hopkins%202021%20Nov%20Dec.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/146829414-47cd9e9b-23e7-4ad1-a09a-71c7b707fd4e.png)
+
+## Observation: Reported daily cases are rising in Quebec and Ontario.
+
+****
+
+*
 
 **** 
 ****  
