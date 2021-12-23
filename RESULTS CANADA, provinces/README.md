@@ -22,7 +22,7 @@ Note: The following additional graphs were added starting from uptake 20210923.
 
 (1) Provinces together - [Daily cases, subnationals, 2021 Nov Dec](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211221/output/JOHN/graph%2023%20COVID-19%20daily%20cases%2C%20Canada%2C%20subnational%2C%20Johns%20Hopkins%202021%20Nov%20Dec.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/146985650-cb334938-8f00-44c0-a9cf-4322b214f1dc.png)
+![image](https://user-images.githubusercontent.com/30849720/147276747-9845af32-e477-472b-97ed-38a7ea5632bb.png)
 
 ****
 
