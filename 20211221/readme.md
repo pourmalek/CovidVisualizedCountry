@@ -779,7 +779,7 @@ Northwest Territories predicted by none of the models. Reports to WHO available.
 
 (15) Nova Scotia [Percent cumulative vaccinated, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211221/output/merge/main/graph%2094b%20COVID-19%20percent%20cumulative%20vaccinated%2C%20Canada%2C%20Nova%20Scotia.pdf)
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/30849720/147300195-d684b9b5-cc47-4e00-909a-8ef63504f384.png)
  
 ****
 
