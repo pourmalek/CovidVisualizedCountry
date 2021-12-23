@@ -47,6 +47,7 @@ This is an Omicron-induced emergency update, including only the official reports
 
 (5) Provinces together - [Daily deaths, subnationals, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211221/output/JOHN/graph%2012%20COVID-19%20daily%20deaths%2C%20Canada%2C%20subnational%2C%20Johns%20Hopkins.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/147277247-5ccb823d-d094-437e-acbd-b45ccf9fe3a3.png)
 
 ****
 
