@@ -1,0 +1,52 @@
+
+### Official reports to WHO, update 20211221
+
+
+***********************************************************************************************************
+This is an Omicron-induced emergency update, including only the official reports to WHO, via Johns Hopkins.
+***********************************************************************************************************
+
+<br/><br/>
+
+## Observation: Reported daily cases are rising in Quebec and Ontario. 
+
+<br/><br/>
+
+### Merged graphs of this uptake [here](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211221/graphs%20merge%2020211221.pdf)
+
+
+****
+
+## Selected graphs
+
+****
+
+(1) Provinces together - [Daily cases, subnationals, 2021 Nov Dec](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211221/output/JOHN/graph%2023%20COVID-19%20daily%20cases%2C%20Canada%2C%20subnational%2C%20Johns%20Hopkins%202021%20Nov%20Dec.pdf)
+
+
+****
+
+(2) Provinces together - [Daily cases, subnationals, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211221/output/JOHN/graph%2022%20COVID-19%20daily%20cases%2C%20Canada%2C%20subnational%2C%20Johns%20Hopkins.pdf)
+
+
+****
+
+(3) Provinces together - [Daily cases, subnationals, 2020 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211221/output/JOHN/graph%2021%20COVID-19%20daily%20cases%2C%20Canada%2C%20subnational%2C%20Johns%20Hopkins.pdf)
+
+
+****
+
+(4) Provinces together - [Daily deaths, subnationals, 2021 Nov Dec](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211221/output/JOHN/graph%2013%20COVID-19%20daily%20deaths%2C%20Canada%2C%20subnational%2C%20Johns%20Hopkins%202021%20Nov%20Dec.pdf)
+
+
+****
+
+(5) Provinces together - [Daily deaths, subnationals, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211221/output/JOHN/graph%2012%20COVID-19%20daily%20deaths%2C%20Canada%2C%20subnational%2C%20Johns%20Hopkins.pdf)
+
+
+****
+
+(6) Provinces together - [Daily deaths, subnationals, 2020 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211221/output/JOHN/graph%2011%20COVID-19%20daily%20deaths%2C%20Canada%2C%20subnational%2C%20Johns%20Hopkins.pdf)
+
+
+****
