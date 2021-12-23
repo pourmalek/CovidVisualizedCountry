@@ -23,6 +23,7 @@ This is an Omicron-induced emergency update, including only the official reports
 
 (1) Provinces together - [Daily cases, subnationals, 2021 Nov Dec](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211221/output/JOHN/graph%2023%20COVID-19%20daily%20cases%2C%20Canada%2C%20subnational%2C%20Johns%20Hopkins%202021%20Nov%20Dec.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/147276747-9845af32-e477-472b-97ed-38a7ea5632bb.png)
 
 ****
 
