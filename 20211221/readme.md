@@ -1231,9 +1231,21 @@ Prince Edward Island predicted by none of the models. Reports to WHO available.
  
 ****
 
-(6c) Saskatchewan [Daily estimated infections IHME, 5 scenarios](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211221/output/IHME/graph%2022a1%20C-19%20daily%20infections%2C%20Canada%2C%20Saskatchewan%205%20scenarios%2C%20IHME.pdf)
+(6c) Saskatchewan [Daily estimated infections IHME, 5 scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211221/output/IHME/graph%2022a1%20C-19%20daily%20infections%2C%20Canada%2C%20Saskatchewan%205%20scenarios%2C%20IHME.pdf)
 
 ![image](https://user-images.githubusercontent.com/30849720/147311882-0ecdae64-64d1-4243-981a-e1a0b8ad9a06.png)
+
+****
+
+(6d) Saskatchewan [Daily estimated infections IHME, 5 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211221/output/IHME/graph%2022a2%20C-19%20daily%20infections%2C%20Canada%2C%20Saskatchewan%205%20scenarios%2C%20IHME%202021.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/147371513-41cc1580-21f6-4e71-8573-154737763330.png)
+
+****
+
+(6e) Saskatchewan [Daily estimated infections IHME, 5 scenarios, 2022](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211221/output/IHME/graph%2022a3%20C-19%20daily%20infections%2C%20Canada%2C%20Saskatchewan%205%20scenarios%2C%20IHME%202022.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/147371548-f893308e-0285-4315-820a-3125f7fa9bbd.png)
 
 ****
 
