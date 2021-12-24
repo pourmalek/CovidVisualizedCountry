@@ -193,9 +193,9 @@ The codes in these repositories can be adapted for use for any country or region
  
 
 
-### LATEST UPTAKE: uptake [`20211217`](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211217/readme.md)
+### LATEST UPTAKE: uptake [`20211221`](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211221/readme.md)
 
-**_DELP 20211216_**, IHME 20211119, **_IMPE 20211205_**, **_SRIV 20211217_**
+**_DELP 20211222_**, **_IHME 20211221_**, IMPE 20211205, **_SRIV 20211219_**
 
 
 
@@ -1843,7 +1843,9 @@ Scenarios of IHME model before update 20211221:
 (uptake number) uptake date: study update date, study update date
   
 
-
+  
+(42) uptake [`20211221`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20211221): **_DELP 20211222_**, **_IHME 20211221_**, IMPE 20211205, **_SRIV 20211219_**
+  
 (41) uptake [`20211217`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20211217): **_DELP 20211216_**, IHME 20211119, **_IMPE 20211205_**, **_SRIV 20211217_**
   
 (40) uptake [`20211210`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20211210): **_DELP 20211210_**, IHME 20211119, IMPE 20211129, **_SRIV 20211210_**
