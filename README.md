@@ -694,7 +694,7 @@ PHAC not in this uptake.
 
 (2) Manitoba [Daily deaths, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211221/output/merge/main/SUB2%2012bDayDeaMERGsub%202021%20Manitoba%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios%2C%202021.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/147298257-66af7fb5-d7ed-4d4c-b471-07f73ddbe59d.png)
+![image](https://user-images.githubusercontent.com/30849720/147321563-4256388d-4e7f-4e3c-b361-a1d3f9c833e6.png)
 
 ****
 
