@@ -861,6 +861,7 @@ Nunavut predicted by none of the models. Reports to WHO available.
 
 (6b) Ontario [Daily estimated infections IHME to reported cases JOHN, main scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211221/output/merge/main/CAN4%20-%201%20daily%20estimated%20infections%20to%20reported%20cases%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/147301475-b609b7b1-12e2-4c48-9474-a9d22e311a2f.png)
  
 ****
 
