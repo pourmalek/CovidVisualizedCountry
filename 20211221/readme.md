@@ -947,13 +947,15 @@ Nunavut predicted by none of the models. Reports to WHO available.
 
 ****
 
-(6d) Ontario [Daily estimated infections IHME, 5 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211221/output/IHME/graph%2022a2%20C-19%20daily%20infections%2C%20Canada%2C%20Ontario%205%20scenarios%2C%20IHME.pdf)
+(6d) Ontario [Daily estimated infections IHME, 5 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211221/output/IHME/graph%2022a2%20C-19%20daily%20infections%2C%20Canada%2C%20Ontario%205%20scenarios%2C%20IHME%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/147369118-d5ef156d-aee3-4439-be84-5393c431bfa6.png)
 
 ****
 
-(6e) Ontario [Daily estimated infections IHME, 5 scenarios, 2022](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211221/output/IHME/graph%2022a3%20C-19%20daily%20infections%2C%20Canada%2C%20Ontario%205%20scenarios%2C%20IHME%202021.pdf)
+(6e) Ontario [Daily estimated infections IHME, 5 scenarios, 2022](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211221/output/IHME/graph%2022a3%20C-19%20daily%20infections%2C%20Canada%2C%20Ontario%205%20scenarios%2C%20IHME%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/147369161-62152842-3245-46b0-82bf-749ddab5a78b.png)
 
 ****
 
