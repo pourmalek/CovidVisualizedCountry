@@ -688,7 +688,7 @@ PHAC not in this uptake.
 
 (1) Manitoba [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211221/output/merge/main/SUB1%2011bDayDeaMERGsub%20alltime%20Manitoba%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/147298215-8b00fabe-6429-4203-8a39-4034062c157a.png)
+![image](https://user-images.githubusercontent.com/30849720/147321848-fc5fb82a-eefb-4412-8907-ba37217cc808.png)
 
 ****
 
