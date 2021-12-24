@@ -467,7 +467,7 @@ PHAC not in this uptake.
 
 (8) British Columbia [Hospital-related outcomes, 2021, without IHME Bed need and IMPE Hospital demand](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211221/output/merge/main/SUB8%2073bDayHosMERGsub%202021%20woextremes%20British%20Columbia%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20British%20Columbia%2C%20wo%20extremes%2C%202021.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/147297843-347ff090-760a-4699-a1ae-b96c739138ae.png)
+![image](https://user-images.githubusercontent.com/30849720/147367425-e5c5a782-f82a-4a0a-af3e-19ca52d80189.png)
 
 ****
 
