@@ -491,7 +491,7 @@ PHAC not in this uptake.
 
 (12) British Columbia [Daily Infection-outcomes ratios, 3 scenarios, IHME, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211221/output/merge/main/graph%2091b%20COVID-19%20daily%20Infection%20outcomes%20ratios%2C%20Canada%2C%20British%20Columbia%203%20scenarios%2C%20IHME.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/147297995-c63cb262-83f2-42c1-b87b-ddde07371a43.png)
+![image](https://user-images.githubusercontent.com/30849720/147367750-20cd7632-a8d9-413b-aa6e-dcdb763daa0d.png)
 
 ****
 
