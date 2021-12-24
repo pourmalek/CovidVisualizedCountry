@@ -771,6 +771,7 @@ Northwest Territories predicted by none of the models. Reports to WHO available.
 
 (13) Nova Scotia [Daily mobility, 3 scenarios, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211221/output/merge/main/graph%2092a%20COVID-19%20daily%20mobility%2C%20Canada%2C%20Nova%20Scotia%2C%203%20scenarios.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/147317431-5d691b2a-db27-4a6c-bed9-3a450f4a1824.png)
  
 ****
 
