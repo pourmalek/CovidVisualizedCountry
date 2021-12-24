@@ -485,7 +485,7 @@ PHAC not in this uptake.
 
 (11) British Columbia [R effective, 3 scenarios, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211221/output/IHME/graph%2072a%20C-19%20R%20effective%2C%20Canada%2C%20British%20Columbia%2C%20IHME%2C%203%20scenarios.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/147297952-13003be6-7c8d-438d-94ac-9a964f11caaf.png)
+![image](https://user-images.githubusercontent.com/30849720/147367624-c66256ce-02d0-4e5f-bc2a-7b5effd7d037.png)
 
 ****
 
