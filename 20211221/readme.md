@@ -1104,9 +1104,21 @@ Prince Edward Island predicted by none of the models. Reports to WHO available.
  
 ****
 
-(6c) Quebec [Daily estimated infections IHME, 5 scenarios](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211221/output/IHME/graph%2022a1%20C-19%20daily%20infections%2C%20Canada%2C%20Quebec%205%20scenarios%2C%20IHME.pdf)
+(6c) Quebec [Daily estimated infections IHME, 5 scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211221/output/IHME/graph%2022a1%20C-19%20daily%20infections%2C%20Canada%2C%20Quebec%205%20scenarios%2C%20IHME.pdf)
 
 ![image](https://user-images.githubusercontent.com/30849720/147302384-c245339f-0de6-4144-95f0-5e6c0de1d3ed.png)
+
+****
+
+(6d) Quebec [Daily estimated infections IHME, 5 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211221/output/IHME/graph%2022a2%20C-19%20daily%20infections%2C%20Canada%2C%20Quebec%205%20scenarios%2C%20IHME%202021.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/147369325-da067096-926e-4425-83a9-85d9b3f31231.png)
+
+****
+
+(6e) Quebec [Daily estimated infections IHME, 5 scenarios, 2022](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211221/output/IHME/graph%2022a3%20C-19%20daily%20infections%2C%20Canada%2C%20Quebec%205%20scenarios%2C%20IHME%202022.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/147369351-e20a0f59-9276-498b-9621-14ef04ff64fc.png)
 
 ****
 
