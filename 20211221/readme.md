@@ -441,9 +441,21 @@ PHAC not in this uptake.
 
 ****
 
-(6c) British Columbia [Daily estimated infections IHME, 5 scenarios](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211221/output/IHME/graph%2022a1%20C-19%20daily%20infections%2C%20Canada%2C%20British%20Columbia%205%20scenarios%2C%20IHME.pdf)
+(6c) British Columbia [Daily estimated infections IHME, 5 scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211221/output/IHME/graph%2022a1%20C-19%20daily%20infections%2C%20Canada%2C%20British%20Columbia%205%20scenarios%2C%20IHME.pdf)
 
 ![image](https://user-images.githubusercontent.com/30849720/147297752-817ff3af-c6ff-41a1-8d1b-1b91f2b0782d.png)
+
+****
+
+(6d) British Columbia [Daily estimated infections IHME, 5 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211221/output/IHME/graph%2022a2%20C-19%20daily%20infections%2C%20Canada%2C%20British%20Columbia%205%20scenarios%2C%20IHME%202021.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/147367355-cef73ede-68dc-49fa-a59b-0f76c0529039.png)
+
+****
+
+(6e) British Columbia [Daily estimated infections IHME, 5 scenarios, 2022](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211221/output/IHME/graph%2022a3%20C-19%20daily%20infections%2C%20Canada%2C%20British%20Columbia%205%20scenarios%2C%20IHME%202022.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/147367327-5204a814-a498-4364-a49c-aae1ab9798eb.png)
 
 ****
 
