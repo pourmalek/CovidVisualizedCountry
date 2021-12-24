@@ -509,7 +509,7 @@ PHAC not in this uptake.
 
 (14) British Columbia [Daily mask use, 3 scenarios, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211221/output/merge/main/graph%2093b%20COVID-19%20daily%20mask_use%2C%20Canada%2C%20British%20Columbia%2C%203%20scenarios.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/147298089-148f0976-b690-4267-bb16-4a0d5518d36c.png)
+![image](https://user-images.githubusercontent.com/30849720/147367894-d6b96836-a132-40a5-a16b-b25a567316c1.png)
 
 ****
 
