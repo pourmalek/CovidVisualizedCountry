@@ -561,7 +561,7 @@ PHAC not in this uptake.
 
 (6) Manitoba [Daily cases or infections, 3 scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211221/output/merge/main/SUB6%2034bDayCasMERGsub%202021%203scen%20Manitoba%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Manitoba%2C%203%20scenarios%2C%202021%2C%20uncertainty.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/147298398-02834ee1-7837-4551-b5ad-5993187c9cc4.png)
+![image](https://user-images.githubusercontent.com/30849720/147368261-32f1ecd5-80c6-4050-bbe6-345d0e96bd9f.png)
  
 ****
 
