@@ -1044,7 +1044,7 @@ Prince Edward Island predicted by none of the models. Reports to WHO available.
 
 (2) Prince Edward Island [Daily cases, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211221/output/JOHN/graph%202%20c%20COVID-19%20daily%20cases%2C%20Canada%2C%20Prince%20Edward%20Island%2C%20Johns%20Hopkins.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/147301977-e082a481-6c5e-467b-a6ad-7c3257af7945.png)
+![image](https://user-images.githubusercontent.com/30849720/147369235-eb7cd768-9d56-4467-b4e1-177e8300d096.png)
  
 ****
 
