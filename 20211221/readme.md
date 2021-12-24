@@ -6,7 +6,9 @@
 
 **_DELP 20211222_**, **_IHME 20211221_**, IMPE 20211205, **_SRIV 20211219_**
 
+
 <br/><br/>
+
 
 ### Scenarios of IHME model as of update 20211221:
 
@@ -21,6 +23,8 @@
 IHME Detected Infections vs. All Infections. Probably detected infections at the global level will be **_three times_** that previous peak that we saw for delta. https://www.healthdata.org/covid/video/insights-ihmes-latest-covid-19-model-run
 
 <br/><br/>
+
+****
 
 ****
 
