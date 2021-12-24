@@ -777,7 +777,7 @@ Northwest Territories predicted by none of the models. Reports to WHO available.
 
 (14) Nova Scotia [Daily mask use, 3 scenarios, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211221/output/merge/main/graph%2093b%20COVID-19%20daily%20mask_use%2C%20Canada%2C%20Nova%20Scotia%2C%203%20scenarios.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/147300154-9e91b5c0-6147-495b-97b2-dc3b4772028b.png)
+![image](https://user-images.githubusercontent.com/30849720/147316841-1d800621-ee52-45ca-b2f7-ea4961b779ea.png)
 
 ****
 
