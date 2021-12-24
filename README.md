@@ -964,25 +964,25 @@ Northwest Territories predicted by none of the models. Reports to WHO available.
 
 (12) Nova Scotia [Daily Infection-outcomes ratios, 3 scenarios, IHME, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211221/output/merge/main/graph%2091b%20COVID-19%20daily%20Infection%20outcomes%20ratios%2C%20Canada%2C%20Nova%20Scotia%203%20scenarios%2C%20IHME.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/147300064-d99a4ff4-85ff-4e15-9afb-f1525f44b9a4.png)
+![image](https://user-images.githubusercontent.com/30849720/147317112-9e5fbeb0-530d-4396-b1e4-6e0f43bec946.png)
  
 ****
 
 (12b) Nova Scotia [Daily infection hospitalization & fatality ratios, 3 scenarios, IHME, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211221/output/merge/main/graph%2091b2%20COVID-19%20daily%20Infection%20outcomes%20ratios%2C%20Canada%2C%20Nova%20Scotia%203%20scenarios%2C%20IHME.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/147300092-b7378625-65c5-46a4-9326-61f0543e11e6.png)
+![image](https://user-images.githubusercontent.com/30849720/147317298-7604d801-ff0a-4523-9f9f-4b90ab02193c.png)
  
 ****
 
 (13) Nova Scotia [Daily mobility, 3 scenarios, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211221/output/merge/main/graph%2092a%20COVID-19%20daily%20mobility%2C%20Canada%2C%20Nova%20Scotia%2C%203%20scenarios.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/147300121-e16db01e-bbc7-42ca-8bca-99ed478d3999.png)
+![image](https://user-images.githubusercontent.com/30849720/147317431-5d691b2a-db27-4a6c-bed9-3a450f4a1824.png)
  
 ****
 
 (14) Nova Scotia [Daily mask use, 3 scenarios, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211221/output/merge/main/graph%2093b%20COVID-19%20daily%20mask_use%2C%20Canada%2C%20Nova%20Scotia%2C%203%20scenarios.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/147300154-9e91b5c0-6147-495b-97b2-dc3b4772028b.png)
+![image](https://user-images.githubusercontent.com/30849720/147316841-1d800621-ee52-45ca-b2f7-ea4961b779ea.png)
 
 ****
 
