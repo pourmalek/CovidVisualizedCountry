@@ -765,6 +765,7 @@ Northwest Territories predicted by none of the models. Reports to WHO available.
 
 (12b) Nova Scotia [Daily infection hospitalization & fatality ratios, 3 scenarios, IHME, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211221/output/merge/main/graph%2091b2%20COVID-19%20daily%20Infection%20outcomes%20ratios%2C%20Canada%2C%20Nova%20Scotia%203%20scenarios%2C%20IHME.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/147317298-7604d801-ff0a-4523-9f9f-4b90ab02193c.png)
  
 ****
 
