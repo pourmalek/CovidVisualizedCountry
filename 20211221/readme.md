@@ -515,7 +515,7 @@ PHAC not in this uptake.
 
 (15) British Columbia [Percent cumulative vaccinated, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211221/output/merge/main/graph%2094b%20COVID-19%20percent%20cumulative%20vaccinated%2C%20Canada%2C%20British%20Columbia.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/147298166-a9a83563-480f-4add-a72c-f77a92f15ab7.png)
+![image](https://user-images.githubusercontent.com/30849720/147367961-63405921-f8b8-4f56-9d0b-05c67f7035f0.png)
 
 ****
 
