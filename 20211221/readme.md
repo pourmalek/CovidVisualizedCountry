@@ -787,13 +787,15 @@ Northwest Territories predicted by none of the models. Reports to WHO available.
 
 ****
 
-(6d) Nova Scotia [Daily estimated infections IHME, 5 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211221/output/IHME/graph%2022a1%20C-19%20daily%20infections%2C%20Canada%2C%20Nova%20Scotia%205%20scenarios%2C%20IHME.pdf)
+(6d) Nova Scotia [Daily estimated infections IHME, 5 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211221/output/IHME/graph%2022a2%20C-19%20daily%20infections%2C%20Canada%2C%20Nova%20Scotia%205%20scenarios%2C%20IHME%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/147368832-03474fe2-7b5c-4a38-add0-4f53c3ebdc6c.png)
 
 ****
 
-(6e) Nova Scotia [Daily estimated infections IHME, 5 scenarios, 2022](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211221/output/IHME/graph%2022a1%20C-19%20daily%20infections%2C%20Canada%2C%20Nova%20Scotia%205%20scenarios%2C%20IHME.pdf)
+(6e) Nova Scotia [Daily estimated infections IHME, 5 scenarios, 2022](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211221/output/IHME/graph%2022a3%20C-19%20daily%20infections%2C%20Canada%2C%20Nova%20Scotia%205%20scenarios%2C%20IHME%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/147368858-f7f93cc5-9c12-47da-8cb8-06426ae1a319.png)
 
 ****
 
