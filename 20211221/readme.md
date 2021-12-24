@@ -591,7 +591,7 @@ PHAC not in this uptake.
 
 (7) Manitoba [Hospital-related outcomes, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211221/output/merge/main/SUB7%2071bDayHosMERGsub%20alltime%20Manitoba%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20Manitoba.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/147298552-b0b3d619-6a24-418e-93df-7bb0135e483e.png)
+![image](https://user-images.githubusercontent.com/30849720/147368455-47ffc145-0634-4955-8ee6-b89012c38f9c.png)
  
 ****
 
