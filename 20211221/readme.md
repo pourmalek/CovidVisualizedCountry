@@ -320,11 +320,13 @@ PHAC not in this uptake.
 
 (6d) Alberta [Daily estimated infections IHME, 5 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211221/output/IHME/graph%2022a2%20C-19%20daily%20infections%2C%20Canada%2C%20Alberta%205%20scenarios%2C%20IHME%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/147367087-10dd26c1-d657-42bc-914d-24f8cea95bc0.png)
 
 ****
 
-(6e) Alberta [Daily estimated infections IHME, 5 scenarios, 2022](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211221/output/IHME/graph%2022a3%20C-19%20daily%20infections%2C%20Canada%2C%20Alberta%205%20scenarios%2C%20IHME%202021.pdf)
+(6e) Alberta [Daily estimated infections IHME, 5 scenarios, 2022](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211221/output/IHME/graph%2022a3%20C-19%20daily%20infections%2C%20Canada%2C%20Alberta%205%20scenarios%2C%20IHME%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/147367141-b466ce3c-bed6-4f57-a19a-05677c87dbfa.png)
 
 ****
 
