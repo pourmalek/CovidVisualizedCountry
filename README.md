@@ -203,7 +203,30 @@ The codes in these repositories can be adapted for use for any country or region
 
 
 
-
+                                                                          
+### Summary of Predictions
+                                                                          
+(A) IHME, Reference scenario, estimated DAILY INFECTIONS:
+                                                                          
+OUTCOME TYPE: Estimated daily infections include both asymptomatic and symptomatic cases, both undetected and detected cases, and all the mild, moderate, and severe cases. Number of daily infections are, by definition, more than the detected symptomatic cases.
+                                                                          
+RISE TIME: Number of estimated daily infections [not the symptomatic cases of disease] rise among provinces, first in Ontario, Quebec, and Manitoba (in December 2021), followed by British Columbia, Alberta, and Saskatchewan (in January 2022).
+                                                                          
+PEAK TIME: In Ontario, Quebec, and Manitoba estimated daily infections peak from mid- to end January 2022; in British Columbia, Alberta, and Nova Scotia in mid-to end February 2022, and in Saskatchewan in about mid-April 2022. Peak times are about (plus or minus) two weeks accurate.
+                                                                          
+PEAK VALUE: Number of estimated daily infections might reach 200,000 at the national level, 100,000 in Ontario, 80,000 in Quebec, 15,000 in British Columbia and in Alberta, 10,000 in Manitoba, 2,000 in Saskatchewan and in Nova Scotia.
+                                                                          
+SURPASS EXPECTED: Numbers of estimated daily infections in this wave are expected to surpass the highest numbers from the previous waves in Canada national level, Ontario, and Quebec (each by a factor of about 10); Nova Scotia (by a factor of about 9); Alberta, British Columbia, and Manitoba (each by a factor of about 3); and Saskatchewan (by a factor of about 1.3).
+                                                                          
+SURPASS SO FAR: The officially REPORTED CASES has already surpassed the IHME Reference scenario estimated daily infections in Alberta, and are close to surpass in British Columbia, Nova Scotia, and Saskatchewan.
+                                                                          
+(B) IHME, Reference scenario, estimated DAILY DEATHS:
+                                                                          
+Estimated daily deaths are expected to peak at less than 90 at the national level (mid- to end February 2022). They peaked at about 180 in May 2020 and about 160 in January 2021.
+                                                                          
+Estimated daily deaths are expected to peak at less than 60 in Quebec (mid- to end February 2022). They peaked at about 100 in May 2020 and about 60 in January 2021.
+                                                                          
+Estimated daily deaths are expected to peak at less than 30 in Ontario (end February, early March 2022). They peaked at about 60 in May 2020 and about 60 in January 2021.
 
 ********************************************************************************************************************************************
 
