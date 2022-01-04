@@ -22,6 +22,9 @@ IHME Detected Infections vs. All Infections. Probably detected infections at the
 
 <br/><br/>
 
+
+IMPE has included the Omicron variant in their model, as explained here: https://mrc-ide.github.io/global-lmic-reports/News.html
+
 ****
 
 ****
