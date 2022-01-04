@@ -25,6 +25,8 @@ IHME Detected Infections vs. All Infections. Probably detected infections at the
 
 IMPE has included the Omicron variant in their model, as explained here: https://mrc-ide.github.io/global-lmic-reports/News.html
 
+"For certain countries the impact of the Delta variant is now included in the model. Timings for the delta variant are derived from [`CoVariants`](https://github.com/hodcroftlab/covariants). For more information see updates to the model parameters and methods page"
+
 ****
 
 ****
