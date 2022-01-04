@@ -18,7 +18,7 @@ IMPE update 20211213 (2021-12-13_v9.csv.zip) released on 20220202.
 
 <br/><br/>
 
-**IHME** Detected Infections vs. All Infections. Probably detected infections at the global level will be **_three times_** that previous peak that we saw for delta. https://www.healthdata.org/covid/video/insights-ihmes-latest-covid-19-model-run
+**IHME** Detected Infections vs. All Infections. "Probably detected infections at the global level will be **_three times_** that previous peak that we saw for delta." Source: [`IHME COVID-19 Model Insights Blog`](https://www.healthdata.org/covid/video/insights-ihmes-latest-covid-19-model-run)
 
 <br/><br/>
 
