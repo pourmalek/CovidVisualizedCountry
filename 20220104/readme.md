@@ -554,7 +554,7 @@ PHAC not in this uptake.
 
 (6b) Manitoba [Daily estimated infections IHME to reported cases JOHN, main scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220104/output/merge/main/CAN4%20-%201%20daily%20estimated%20infections%20to%20reported%20cases%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/148244429-1794336a-62c0-47f4-ad5e-24da3fb59484.png)
+![image](https://user-images.githubusercontent.com/30849720/148250448-a266ffe2-21bb-4e21-a675-39e302fc5e77.png)
  
 ****
 
