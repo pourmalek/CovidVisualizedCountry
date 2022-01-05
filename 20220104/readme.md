@@ -8,6 +8,10 @@ IMPE update 20211213 (2021-12-13_v9.csv.zip) released on 20220202.
 
 <br/><br/>
 
+
+### Inclusion of the Omicron variant in meodels:
+
+
 ### Scenarios of IHME model as of update 20211221:
 
 * S01 = Current projection [Status Quo, Reference scenario]         
@@ -26,6 +30,11 @@ IMPE update 20211213 (2021-12-13_v9.csv.zip) released on 20220202.
 **IMPE** has included the Omicron variant in their model, as explained here: https://mrc-ide.github.io/global-lmic-reports/News.html
 
 "For certain countries the impact of the Delta variant is now included in the model. Timings for the delta variant are derived from [`CoVariants`](https://github.com/hodcroftlab/covariants). For more information see updates to the model [`parameters and methods`](https://mrc-ide.github.io/global-lmic-reports/parameters.html) page.
+
+
+**DELP** does not readily mentioned inclusion of Omicron in their model. However, their estimated cases show unprecedented increase. 
+
+**SRIV** does not readily mentioned inclusion of Omicron in their model, except, “Caution: Expect unreliable forecasts due to under-reporting around holidays and uncertainty in the prevalence of the Omicron variant.” However, their estimated cases show unprecedented increase. 
 
 ****
 
