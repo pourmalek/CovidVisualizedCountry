@@ -12,6 +12,11 @@ IMPE update 20211213 (2021-12-13_v9.csv.zip) released on 20220202.
 
 <br/><br/>
 
+### GET THE OUTCOME INDICATORS UNDER CONTROL
+
+<br/><br/>
+
+
 ********************************************
 
 CTV News Vancouver 
@@ -1177,16 +1182,19 @@ Prince Edward Island predicted by none of the models. Reports to WHO available.
 
 (3) Saskatchewan [Daily deaths, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220104/output/merge/main/SUB3%2014b1DayDeaMERGsub%202021%203%20scenarios%20Saskatchewan%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Saskatchewan%2C%203%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/148290949-f43b6d23-32dc-4fea-94a2-e16260173d29.png)
  
 ****
 
 (4) Saskatchewan [Daily cases or infections, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220104/output/merge/main/SUB4%2031bDayCasMERGsub%20alltime%20Saskatchewan%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Saskatchewan%2C%20reference%20scenarios.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/148291069-f2f285dc-e83f-4f44-9f1b-09ba04466730.png)
  
 ****
 
 (5) Saskatchewan [Daily cases or infections, reference scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220104/output/merge/main/SUB5%2032bDayCasMERGsub%202021%20Saskatchewan%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Saskatchewan%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/148291150-94ba8942-9c7b-490e-80ab-f6e436e50d28.png)
  
 ****
 
