@@ -8,7 +8,7 @@ IMPE update 20211213 (2021-12-13_v9.csv.zip) released on 20220202.
 
 <br/><br/>
 
-### Around the turn of the year, with the Omicron cases surge, most provinces stopped active case and contact tracing, testing, documenting, and reporting of cases. This created a factitious fall-down of the “reported cases”. 
+### Around the turn of the year, with the Omicron cases surge, most provinces stopped full-coverage case and contact tracing, testing, documenting, and reporting of all cases. This created a factitious fall-down of the “reported cases”. 
 
 <br/><br/>
 
