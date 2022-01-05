@@ -608,11 +608,13 @@ PHAC not in this uptake.
 
 (14) Manitoba [Daily mask use, 3 scenarios, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220104/output/merge/main/graph%2093b%20COVID-19%20daily%20mask_use%2C%20Canada%2C%20Manitoba%2C%203%20scenarios.pdf)
 
- 
+![image](https://user-images.githubusercontent.com/30849720/148250650-8b13b898-a810-448e-8226-0dba017c7683.png)
+  
 ****
 
 (15) Manitoba [Percent cumulative vaccinated, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220104/output/merge/main/graph%2094b%20COVID-19%20percent%20cumulative%20vaccinated%2C%20Canada%2C%20Manitoba.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/148250791-c756ab47-b1f8-4e08-b800-38d6baef765e.png)
  
 ****
 
