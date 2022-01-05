@@ -20,7 +20,7 @@ Published Dec. 29, 2021 4:37 p.m. PST
 
 https://bc.ctvnews.ca/b-c-officials-have-known-all-along-covid-19-cases-could-be-up-to-5-times-higher-than-reported-pho-1.5722807
 
-B.C. officials have known 'all along' COVID-19 cases could be up to 5 times higher than reported: PHO
+#### B.C. officials have known 'all along' COVID-19 cases could be up to 5 times higher than reported: PHO
 
 Dr. Bonnie Henry was asked at a news conference Friday how changes to guidance surrounding PCR testing might impact the total case counts reported each day by the Health Ministry.
 Last week, officials issued new guidelines around who should get the tests. Those who are vaccinated, are not considered high risk and have mild symptoms were told that instead of heading to a testing centre, they should just assume they have the disease and self-isolate.
@@ -995,16 +995,19 @@ Nunavut predicted by none of the models. Reports to WHO available.
 
 (13) Ontario [Daily mobility, 3 scenarios, all time, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220104/output/merge/main/graph%2092a%20COVID-19%20daily%20mobility%2C%20Canada%2C%20Ontario%2C%203%20scenarios.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/148279511-f21a0e26-deb5-46c7-8508-cae96c4854c2.png)
  
 ****
 
 (14) Ontario [Daily mask use, 3 scenarios, all time, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220104/output/merge/main/graph%2093b%20COVID-19%20daily%20mask_use%2C%20Canada%2C%20Ontario%2C%203%20scenarios.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/148279605-1451ff4f-5071-44d5-a00b-33319c086331.png)
  
 ****
 
 (15) Ontario [Percent cumulative vaccinated, 2021 on, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220104/output/merge/main/graph%2094b%20COVID-19%20percent%20cumulative%20vaccinated%2C%20Canada%2C%20Ontario.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/148279684-884a23ff-22bc-4932-934d-de07f6504819.png)
  
 ****
 
