@@ -90,7 +90,6 @@ PEAK VALUE: Number of estimated daily infections might reach 200,000 at the nati
                                                                           
 SURPASS EXPECTED: Numbers of estimated daily infections in this wave are expected to surpass the highest numbers from the previous waves in Canada national level, Ontario, and Quebec (each by a factor of about 10); Nova Scotia (by a factor of about 9); Alberta, British Columbia, and Manitoba (each by a factor of about 3); and Saskatchewan (by a factor of about 1.3).
                                                                           
-SURPASS SO FAR: The officially REPORTED CASES has already surpassed the IHME Reference scenario estimated daily infections in Alberta, and are close to surpass in British Columbia, Nova Scotia, and Saskatchewan.
                                                                           
 (B) IHME, Reference scenario, estimated DAILY DEATHS:
                                                                           
