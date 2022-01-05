@@ -8,7 +8,36 @@ IMPE update 20211213 (2021-12-13_v9.csv.zip) released on 20220202.
 
 <br/><br/>
 
-Around the turn of the year, with the Omicron cases surge, most provinces stopped active case and contact tracing, testing, documenting, and reporting of cases. This created a factitious fall-down of the “reported cases”. 
+### Around the turn of the year, with the Omicron cases surge, most provinces stopped active case and contact tracing, testing, documenting, and reporting of cases. This created a factitious fall-down of the “reported cases”. 
+
+<br/><br/>
+
+********************************************
+
+CTV News Vancouver 
+
+Published Dec. 29, 2021 4:37 p.m. PST
+
+https://bc.ctvnews.ca/b-c-officials-have-known-all-along-covid-19-cases-could-be-up-to-5-times-higher-than-reported-pho-1.5722807
+
+B.C. officials have known 'all along' COVID-19 cases could be up to 5 times higher than reported: PHO
+
+Dr. Bonnie Henry was asked at a news conference Friday how changes to guidance surrounding PCR testing might impact the total case counts reported each day by the Health Ministry.
+Last week, officials issued new guidelines around who should get the tests. Those who are vaccinated, are not considered high risk and have mild symptoms were told that instead of heading to a testing centre, they should just assume they have the disease and self-isolate.
+
+It's different advice than the ministry gave earlier in the pandemic, when anyone with any of the symptoms was told to seek a PCR test.
+
+So questions have been raised, as the province continues to release daily updates on case numbers and other figures, about how accurate that information actually is when many who would have been tested previously are now no longer getting a definitive diagnosis.
+Henry said that's actually always been the case.
+"All along, we know that the daily numbers are not reflecting everybody who has COVID in our province," Henry said during a news conference Wednesday.
+"That has been the case from the very beginning, and at different periods of time, the actual true number can be varied by four or five times what we're seeing in terms of PCR testing."
+Henry said health officials know from earlier in the pandemic when testing capacity was limited that, on average, there were probably three to four times the number of people testing positive who truly had COVID.
+"It varies by community as well, by where we see transmission happening in communities, but right now, that's very likely to be the same differential across the province because we are seeing – with the exception of the north right now – we're seeing these very high per cent positivity in the PCR testing across the province."
+
+Health Minister Adrian Dix said that positivity was about 14.5 per cent overall in the last seven days. "That gives us a sense of how this virus, this new strain, is spreading in many communities across the province," Henry said.
+
+********************************************
+
 
 <br/><br/>
 
