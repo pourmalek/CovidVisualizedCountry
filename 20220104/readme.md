@@ -159,11 +159,13 @@ R effective, IHME, not available for Canada at the national level.
 
 (11) Canada [Daily Infection-outcomes ratios, 3 scenarios, IHME, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220104/output/merge/main/graph%2091a%20COVID-19%20daily%20Infection%20outcomes%20ratios%2C%20Canada%2C%20National%203%20scenarios%2C%20IHME.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/148167547-fabf355d-d76e-41ce-81fa-95721fc0a966.png)
 
 ****
 
 (11b) Canada [Daily infection hospitalization & fatality ratios, 3 scenarios, IHME, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220104/output/merge/main/graph%2091a2%20COVID-19%20daily%20Infection%20outcomes%20ratios%2C%20Canada%2C%20National%203%20scenarios%2C%20IHME.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/148167595-6a26ed01-dd42-46e2-9aa0-ff71cf88c2fe.png)
 
 ****
 
@@ -179,6 +181,7 @@ Daily mobility, IHME, not available for Canada at the national level.
 
 (13) Canada [Percent cumulative vaccinated, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220104/output/merge/main/graph%2094a%20COVID-19%20percent%20cumulative%20vaccinated%2C%20Canada%2C%20National.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/148167663-f35fb022-9e9d-4ad3-aa9e-00e536ab0c1d.png)
 
 ****
 
