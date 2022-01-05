@@ -831,11 +831,13 @@ Nunavut predicted by none of the models. Reports to WHO available.
 
 (1) Nunavut [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220104/output/JOHN/graph%201%20c%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Nunavut%2C%20Johns%20Hopkins.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/148272187-bc3fb7b9-a2a5-488d-a5de-3da92ed840d4.png)
  
 ****
 
 (2) Nunavut [Daily cases, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220104/output/JOHN/graph%202%20c%20COVID-19%20daily%20cases%2C%20Canada%2C%20Nunavut%2C%20Johns%20Hopkins.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/148272292-490bbeb3-7e89-49b6-8351-104fc7b765b5.png)
  
 ****
 
@@ -850,16 +852,19 @@ Nunavut predicted by none of the models. Reports to WHO available.
 
 (1) Ontario [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220104/output/merge/main/SUB1%2011bDayDeaMERGsub%20alltime%20Ontario%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/148272519-4547ed95-92f9-47b1-b4e2-8159deba4bb8.png)
  
 ****
 
 (2) Ontario [Daily deaths, reference scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220104/output/merge/main/SUB2%2012bDayDeaMERGsub%202021%20Ontario%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/148272675-af0d7684-4fbf-4702-851f-767fad574cde.png)
  
 ****
 
 (3) Ontario [Daily deaths, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220104/output/merge/main/SUB3%2014b1DayDeaMERGsub%202021%203%20scenarios%20Ontario%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Ontario%2C%203%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/148273287-53fa3a7f-0a06-4d4c-9490-3ce97bed108f.png)
  
 ****
 
