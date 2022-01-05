@@ -98,6 +98,15 @@ Estimated daily deaths are expected to peak at less than 90 at the national leve
 Estimated daily deaths are expected to peak at less than 60 in Quebec (mid- to end February 2022). They peaked at about 100 in May 2020 and about 60 in January 2021.
                                                                           
 Estimated daily deaths are expected to peak at less than 30 in Ontario (end February, early March 2022). They peaked at about 60 in May 2020 and about 60 in January 2021.
+  
+<br/><br/>
+  
+### NOTE: Omicron peak could come earlier than IHME update 20211221 predictions
+  
+"Another [model] from the Institute for Health Metrics and Evaluation (IHME) at the University of Washington School of Medicine estimates infections could top out in late January, though that will likely soon be updated to an even earlier date." "It’s spreading much faster than we ever expected,” said Ali Mokdad, a professor of health metrics sciences at IHME."
+
+
+Source: "Forecasters say omicron peak could come this month" 2022-01-03 7:44 a.m. EST (https://www.washingtonpost.com/politics/2022/01/04/forecasters-say-omicron-peak-could-come-this-month/)  
 
 ****
 
