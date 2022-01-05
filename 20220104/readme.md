@@ -191,7 +191,7 @@ Daily mobility, IHME, not available for Canada at the national level.
 
 ****
 
-(12) Canada [Daily mask use, 3 scenarios, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220104/output/merge/main/graph%2093a%20COVID-19%20daily%20mask_use%2C%20Canada%2C%20National%2C%203%20scenarios.pdf) 
+(12) Canada [Daily mask use, 3 scenarios, all time, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220104/output/merge/main/graph%2093a%20COVID-19%20daily%20mask_use%2C%20Canada%2C%20National%2C%203%20scenarios.pdf) 
 
 ![image](https://user-images.githubusercontent.com/30849720/148167385-e332a2a7-1860-44eb-b238-dd04b7f14eba.png)
 
