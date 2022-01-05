@@ -9,7 +9,7 @@ IMPE update 20211213 (2021-12-13_v9.csv.zip) released on 20220202.
 <br/><br/>
 
 
-### Inclusion of the Omicron variant in meodels:
+### Inclusion of the Omicron variant in models:
 
 
 ### Scenarios of IHME model as of update 20211221:
