@@ -8,6 +8,9 @@ IMPE update 20211213 (2021-12-13_v9.csv.zip) released on 20220202.
 
 <br/><br/>
 
+Around the turn of the year, with the Omicron cases surge, most provinces stopped active case and contact tracing, testing, documenting, and reporting of cases. This created a factitious fall-down of the “reported cases”. 
+
+<br/><br/>
 
 ### Inclusion of the Omicron variant in models, as of 20220104:
 
@@ -957,6 +960,7 @@ Nunavut predicted by none of the models. Reports to WHO available.
 
 (12b) Ontario [Daily infection hospitalization & fatality ratios, 3 scenarios, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220104/output/merge/main/graph%2091b2%20COVID-19%20daily%20Infection%20outcomes%20ratios%2C%20Canada%2C%20Ontario%203%20scenarios%2C%20IHME.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/148277751-cefb9893-5ec8-4ca5-b353-5ca819ee777a.png)
  
 ****
 
