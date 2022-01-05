@@ -12,7 +12,7 @@ IMPE update 20211213 (2021-12-13_v9.csv.zip) released on 20220202.
 
 <br/><br/>
 
-### GET THE OUTCOME INDICATORS UNDER CONTROL
+### <div align="center">  GOOD FOR GETTING THE OUTCOME INDICATORS UNDER SOME CONTROL
 
 <br/><br/>
 
@@ -1200,11 +1200,13 @@ Prince Edward Island predicted by none of the models. Reports to WHO available.
 
 (6) Saskatchewan [Daily cases or infections, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220104/output/merge/main/SUB6%2034bDayCasMERGsub%202021%203scen%20Saskatchewan%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Saskatchewan%2C%203%20scenarios%2C%202021%2C%20uncertainty.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/148291425-3e796fc5-ef29-4972-917d-645e79532e32.png)
  
 ****
 
 (6b) Saskatchewan [Daily estimated infections IHME to reported cases JOHN, main scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220104/output/merge/main/CAN4%20-%201%20daily%20estimated%20infections%20to%20reported%20cases%2C%20Canada%2C%20Saskatchewan%2C%20reference%20scenarios.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/148291510-813cc38e-1820-45a5-9d28-a06baf735841.png)
  
 ****
 
