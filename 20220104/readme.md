@@ -466,36 +466,43 @@ PHAC not in this uptake.
 
 (10) British Columbia [Daily cases or infections estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220104/output/merge/main/SUB10%2094bDayCERMERGsub%202021%20British%20Columbia%20-%20COVID-19%20daily%20cases%20estimated%20to%20reported%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/148242773-7b3f8bd4-5380-4247-b70a-655070b1d107.png)
 
 ****
 
 (11) British Columbia [R effective, 3 scenarios, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220104/output/IHME/graph%2072a%20C-19%20R%20effective%2C%20Canada%2C%20British%20Columbia%2C%20IHME%2C%203%20scenarios.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/148242889-7f0f7122-ee73-4e83-ba22-a6367badde9e.png)
 
 ****
 
 (12) British Columbia [Daily Infection-outcomes ratios, 3 scenarios, IHME, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220104/output/merge/main/graph%2091b%20COVID-19%20daily%20Infection%20outcomes%20ratios%2C%20Canada%2C%20British%20Columbia%203%20scenarios%2C%20IHME.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/148242993-0c9cbc4d-d9b7-4cdd-8df6-4b071f014df2.png)
 
 ****
 
 (12b) British Columbia [Daily infection hospitalization & fatality ratios, 3 scenarios, IHME, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220104/output/merge/main/graph%2091b2%20COVID-19%20daily%20Infection%20outcomes%20ratios%2C%20Canada%2C%20British%20Columbia%203%20scenarios%2C%20IHME.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/148243093-e07b206d-77de-48c2-8702-85dce52808d8.png)
 
 ****
 
 (13) British Columbia [Daily mobility, 3 scenarios, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220104/output/merge/main/graph%2092a%20COVID-19%20daily%20mobility%2C%20Canada%2C%20British%20Columbia%2C%203%20scenarios.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/148243192-954e4eda-1c65-4885-b1b6-b7c14bbc94bf.png)
 
 ****
 
 (14) British Columbia [Daily mask use, 3 scenarios, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220104/output/merge/main/graph%2093b%20COVID-19%20daily%20mask_use%2C%20Canada%2C%20British%20Columbia%2C%203%20scenarios.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/148243300-75a6a163-98bb-4886-b9e6-4fd653be0f47.png)
 
 ****
 
 (15) British Columbia [Percent cumulative vaccinated, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220104/output/merge/main/graph%2094b%20COVID-19%20percent%20cumulative%20vaccinated%2C%20Canada%2C%20British%20Columbia.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/148243455-053bc07a-6e1f-4586-87e4-db24f8db7ed3.png)
 
 ****
 
