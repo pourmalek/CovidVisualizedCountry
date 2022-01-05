@@ -939,16 +939,19 @@ Nunavut predicted by none of the models. Reports to WHO available.
 
 (10) Ontario [Daily cases or infections estimated to reported, reference scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220104/output/merge/main/SUB10%2094bDayCERMERGsub%202021%20Ontario%20-%20COVID-19%20daily%20cases%20estimated%20to%20reported%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202021.pdf)
 
- 
+![image](https://user-images.githubusercontent.com/30849720/148276557-ee6394ea-0ee2-46b1-a17d-3b78e128653a.png)
+  
 ****
 
 (11) Ontario [R effective, 3 scenarios, all time, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220104/output/IHME/graph%2072a%20C-19%20R%20effective%2C%20Canada%2C%20Ontario%2C%20IHME%2C%203%20scenarios.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/148276637-3d51261b-7c2c-40c2-9a50-924aa96c546d.png)
  
 ****
 
 (12) Ontario [Daily Infection-outcomes ratios, 3 scenarios, IHME, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220104/output/merge/main/graph%2091b%20COVID-19%20daily%20Infection%20outcomes%20ratios%2C%20Canada%2C%20Ontario%203%20scenarios%2C%20IHME.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/148276708-66940a46-a460-4bcb-8428-6368afc973d7.png)
  
 ****
 
