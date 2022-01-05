@@ -1236,31 +1236,37 @@ Prince Edward Island predicted by none of the models. Reports to WHO available.
 
 (11) Saskatchewan [R effective, 3 scenarios, all time, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220104/output/IHME/graph%2072a%20C-19%20R%20effective%2C%20Canada%2C%20Saskatchewan%2C%20IHME%2C%203%20scenarios.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/148293869-f27ae4a0-2839-465d-9514-db8facdd679e.png)
   
 ****
 
 (12) Saskatchewan [Daily Infection-outcomes ratios, 3 scenarios, IHME, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220104/output/merge/main/graph%2091b%20COVID-19%20daily%20Infection%20outcomes%20ratios%2C%20Canada%2C%20Saskatchewan%203%20scenarios%2C%20IHME.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/148293978-7f40c3a6-7cf0-4a71-9d28-faef0d9a7857.png)
  
 ****
 
 (12b) Saskatchewan [Daily infection hospitalization & fatality ratios, 3 scenarios, IHME, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220104/output/merge/main/graph%2091b2%20COVID-19%20daily%20Infection%20outcomes%20ratios%2C%20Canada%2C%20Saskatchewan%203%20scenarios%2C%20IHME.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/148294062-2bb607ba-ed2e-4328-a050-0ec41ec721b3.png)
  
 ****
 
 (13) Saskatchewan [Daily mobility, 3 scenarios, all time, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220104/output/merge/main/graph%2092a%20COVID-19%20daily%20mobility%2C%20Canada%2C%20Saskatchewan%2C%203%20scenarios.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/148294144-b55c3623-a875-4e3d-b88d-9ad35a6b3299.png)
  
 ****
 
 (14) Saskatchewan [Daily mask use, 3 scenarios, all time, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220104/output/merge/main/graph%2093b%20COVID-19%20daily%20mask_use%2C%20Canada%2C%20Saskatchewan%2C%203%20scenarios.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/148294233-56eca658-05be-4e5d-b2ca-d7d25a9205ef.png)
  
 ****
 
 (15) Saskatchewan [Percent cumulative vaccinated, 2021 on, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220104/output/merge/main/graph%2094b%20COVID-19%20percent%20cumulative%20vaccinated%2C%20Canada%2C%20Saskatchewan.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/148294316-7d65737b-f10d-4499-a09f-713ecb505ae8.png)
  
 ****
 
@@ -1282,11 +1288,13 @@ Yukon predicted by none of the models. Reports to WHO available.
 
 (1) Yukon [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220104/output/JOHN/graph%201%20c%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Yukon%2C%20Johns%20Hopkins.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/148294394-a4764c70-1df4-4f87-b57d-636750bac4dc.png)
  
 ****
 
 (2) Yukon [Daily cases, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220104/output/JOHN/graph%202%20c%20COVID-19%20daily%20cases%2C%20Canada%2C%20Yukon%2C%20Johns%20Hopkins.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/148294469-a4902145-6fd8-4eb5-a625-245894a0b14d.png)
  
 ****
 
