@@ -442,7 +442,7 @@ PHAC not in this uptake.
 
 (6b) British Columbia [Daily estimated infections IHME to reported cases JOHN, main scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220104/output/merge/main/CAN4%20-%201%20daily%20estimated%20infections%20to%20reported%20cases%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%202021.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/148241903-f7caa1ba-eb30-4273-8cd6-d420c080dec5.png)
+![image](https://user-images.githubusercontent.com/30849720/148250266-e7127907-f557-4879-b783-d5b88a4ef3f0.png)
 
 ****
 
