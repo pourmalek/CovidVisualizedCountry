@@ -1,0 +1,60 @@
+### Selected graphs - New Brunswick 2022
+
+New Brunswick only predicted in DELP model.
+
+
+  
+**** 
+****  
+
+  
+  
+  
+#### graph (1) New Brunswick - Daily deaths, reference scenarios, all time
+
+****
+****  
+
+
+
+
+*
+
+**uptake 20220104**: **_DELP 20220104_**, IHME 20211221, **_IMPE 20211213_**, **_SRIV 20220104_**
+
+(1) New Brunswick [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220104/output/merge/main/SUB1b%2011bDayDeaMERGsub%20alltime%20New%20Brunswick%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20New%20Brunswick%2C%20reference%20scenarios%2C%20all%20time.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/148263986-66c5fd69-a558-4242-a4e0-d2c1cd83c778.png)
+ 
+*
+
+
+
+
+
+
+
+
+#### graph (2) New Brunswick - Daily cases, reference scenarios, all time
+
+****
+****  
+
+
+
+
+*
+
+**uptake 20220104**: **_DELP 20220104_**, IHME 20211221, **_IMPE 20211213_**, **_SRIV 20220104_**
+
+(2) New Brunswick [Daily cases, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220104/output/merge/main/SUB1b%2011bDayCasMERGsub%20alltime%20New%20Brunswick%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20New%20Brunswick%2C%20reference%20scenarios%2C%20all%20time.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/148264165-3ad9a7b5-e10a-4438-bccb-e3c19915de92.png)
+ 
+*
+
+
+
+
+****
+****
