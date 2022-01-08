@@ -178,7 +178,7 @@
 
 *
 
-(6b) Alberta [Daily estimated infections IHME to reported cases JOHN, main scenarios, 2021 on] (https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220104/output/merge/main/CAN4%20-%201%20daily%20estimated%20infections%20to%20reported%20cases%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios%202021.pdf) 
+(6b) Alberta [Daily estimated infections IHME to reported cases JOHN, main scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220104/output/merge/main/CAN4%20-%201%20daily%20estimated%20infections%20to%20reported%20cases%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios%202021.pdf) 
 
 
 *
@@ -323,6 +323,8 @@
 *
 
 **uptake 20220104**: **_DELP 20220104_**, IHME 20211221, **_IMPE 20211213_**, **_SRIV 20220104_**
+
+(11) Alberta [R effective, 3 scenarios, all time, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220104/output/IHME/graph%2072a%20C-19%20R%20effective%2C%20Canada%2C%20Alberta%2C%20IHME%2C%203%20scenarios.pdf)
 
 
 *
