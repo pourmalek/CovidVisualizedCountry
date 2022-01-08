@@ -1,6 +1,6 @@
 
 
-### Selected graphs - Alberta
+### Selected graphs - Alberta 2021
 
 Graphs for Alberta were added here starting from uptake 20210726 onwards.   
 
