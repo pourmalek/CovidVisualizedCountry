@@ -174,6 +174,11 @@
   
   
   
+  
+
+*
+
+(6b) Alberta [Daily estimated infections IHME to reported cases JOHN, main scenarios, 2021 on] (https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220104/output/merge/main/CAN4%20-%201%20daily%20estimated%20infections%20to%20reported%20cases%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios%202021.pdf) 
 
 
 *
