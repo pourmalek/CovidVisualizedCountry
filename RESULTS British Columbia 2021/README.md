@@ -18,6 +18,12 @@
 
 *
 
+**uptake 20220104**: **_DELP 20220104_**, IHME 20211221, **_IMPE 20211213_**, **_SRIV 20220104_**
+
+
+
+*
+
 **uptake 20211217**: **_DELP 20211216_**, IHME 20211119, **_IMPE 20211205_**, **_SRIV 20211217_**
 
 (1) British Columbia [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211217/output/merge/main/SUB1%2011bDayDeaMERGsub%20alltime%20British%20Columbia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%20all%20time.pdf)
@@ -370,6 +376,12 @@
   
   
   
+
+
+
+*
+
+**uptake 20220104**: **_DELP 20220104_**, IHME 20211221, **_IMPE 20211213_**, **_SRIV 20220104_**
 
 
 
@@ -732,6 +744,12 @@
 
 *
 
+**uptake 20220104**: **_DELP 20220104_**, IHME 20211221, **_IMPE 20211213_**, **_SRIV 20220104_**
+
+
+
+*
+
 **uptake 20211217**: **_DELP 20211216_**, IHME 20211119, **_IMPE 20211205_**, **_SRIV 20211217_**
 
 (3) British Columbia [Daily deaths, 3 scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211217/output/merge/main/SUB3%2014b1DayDeaMERGsub%202021%203%20scenarios%20British%20Columbia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20British%20Columbia%2C%203%20scenarios%2C%202021.pdf)
@@ -1083,6 +1101,12 @@
   
   
 
+
+
+
+*
+
+**uptake 20220104**: **_DELP 20220104_**, IHME 20211221, **_IMPE 20211213_**, **_SRIV 20220104_**
 
 
 
@@ -1444,6 +1468,12 @@
 
 *
 
+**uptake 20220104**: **_DELP 20220104_**, IHME 20211221, **_IMPE 20211213_**, **_SRIV 20220104_**
+
+
+
+*
+
 **uptake 20211217**: **_DELP 20211216_**, IHME 20211119, **_IMPE 20211205_**, **_SRIV 20211217_**
 
 (5) British Columbia [Daily cases or infections, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211217/output/merge/main/SUB5%2032bDayCasMERGsub%202021%20British%20Columbia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%202021.pdf)
@@ -1791,6 +1821,12 @@
   
   
   
+
+
+*
+
+**uptake 20220104**: **_DELP 20220104_**, IHME 20211221, **_IMPE 20211213_**, **_SRIV 20220104_**
+
 
 
 *
@@ -2147,6 +2183,12 @@
 
 *
 
+**uptake 20220104**: **_DELP 20220104_**, IHME 20211221, **_IMPE 20211213_**, **_SRIV 20220104_**
+
+
+
+*
+
 **uptake 20211217**: **_DELP 20211216_**, IHME 20211119, **_IMPE 20211205_**, **_SRIV 20211217_**
 
 PHAC not in this uptake.
@@ -2228,6 +2270,12 @@ Both this and the previous uptake use the same model update, so the graphs are i
 
 *
 
+**uptake 20220104**: **_DELP 20220104_**, IHME 20211221, **_IMPE 20211213_**, **_SRIV 20220104_**
+
+
+
+*
+
 **uptake 20211217**: **_DELP 20211216_**, IHME 20211119, **_IMPE 20211205_**, **_SRIV 20211217_**
 
 Both this and the previous uptake use the same model update, so the graphs are identical.
@@ -2272,6 +2320,12 @@ Both this and the previous uptake use the same model update, so the graphs are i
   
   
   
+
+
+
+*
+
+**uptake 20220104**: **_DELP 20220104_**, IHME 20211221, **_IMPE 20211213_**, **_SRIV 20220104_**
 
 
 
@@ -2627,6 +2681,12 @@ Both this and the previous uptake use the same model update, so the graphs are i
   
   
   
+
+
+
+*
+
+**uptake 20220104**: **_DELP 20220104_**, IHME 20211221, **_IMPE 20211213_**, **_SRIV 20220104_**
 
 
 
@@ -2989,6 +3049,12 @@ Both this and the previous uptake use the same model update, so the graphs are i
 
 *
 
+**uptake 20220104**: **_DELP 20220104_**, IHME 20211221, **_IMPE 20211213_**, **_SRIV 20220104_**
+
+
+
+*
+
 **uptake 20211217**: **_DELP 20211216_**, IHME 20211119, **_IMPE 20211205_**, **_SRIV 20211217_**
 
 (9) British Columbia [Daily deaths estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211217/output/merge/main/SUB9%2092bDayDERMERGsub%202021%20British%20Columbia%20-%20COVID-19%20daily%20deaths%20estimated%20to%20reported%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%202021.pdf)
@@ -3342,6 +3408,12 @@ Both this and the previous uptake use the same model update, so the graphs are i
   
   
 
+
+
+
+*
+
+**uptake 20220104**: **_DELP 20220104_**, IHME 20211221, **_IMPE 20211213_**, **_SRIV 20220104_**
 
 
 
@@ -3707,6 +3779,12 @@ Both this and the previous uptake use the same model update, so the graphs are i
 
 *
 
+**uptake 20220104**: **_DELP 20220104_**, IHME 20211221, **_IMPE 20211213_**, **_SRIV 20220104_**
+
+
+
+*
+
 **uptake 20211217**: **_DELP 20211216_**, IHME 20211119, **_IMPE 20211205_**, **_SRIV 20211217_**
 
 Both this and the previous uptake use the same model update, so the graphs are identical.
@@ -3839,6 +3917,12 @@ Both this and the previous uptake use the same model update, so the graphs are i
 
 *
 
+**uptake 20220104**: **_DELP 20220104_**, IHME 20211221, **_IMPE 20211213_**, **_SRIV 20220104_**
+
+
+
+*
+
 **uptake 20211217**: **_DELP 20211216_**, IHME 20211119, **_IMPE 20211205_**, **_SRIV 20211217_**
 
 Both this and the previous uptake use the same model update, so the graphs are identical.
@@ -3964,6 +4048,12 @@ Both this and the previous uptake use the same model update, so the graphs are i
 
 *
 
+**uptake 20220104**: **_DELP 20220104_**, IHME 20211221, **_IMPE 20211213_**, **_SRIV 20220104_**
+
+
+
+*
+
 **uptake 20211217**: **_DELP 20211216_**, IHME 20211119, **_IMPE 20211205_**, **_SRIV 20211217_**
 
 Both this and the previous uptake use the same model update, so the graphs are identical.
@@ -4028,6 +4118,12 @@ Both this and the previous uptake use the same model update, so the graphs are i
 
 
 
+
+
+
+*
+
+**uptake 20220104**: **_DELP 20220104_**, IHME 20211221, **_IMPE 20211213_**, **_SRIV 20220104_**
 
 
 
@@ -4165,6 +4261,12 @@ Both this and the previous uptake use the same model update, so the graphs are i
 
 *
 
+**uptake 20220104**: **_DELP 20220104_**, IHME 20211221, **_IMPE 20211213_**, **_SRIV 20220104_**
+
+
+
+*
+
 **uptake 20211217**: **_DELP 20211216_**, IHME 20211119, **_IMPE 20211205_**, **_SRIV 20211217_**
 
 Both this and the previous uptake use the same model update, so the graphs are identical.
@@ -4290,6 +4392,12 @@ Both this and the previous uptake use the same model update, so the graphs are i
 
 
 
+
+
+
+*
+
+**uptake 20220104**: **_DELP 20220104_**, IHME 20211221, **_IMPE 20211213_**, **_SRIV 20220104_**
 
 
 
