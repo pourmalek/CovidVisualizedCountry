@@ -45,7 +45,7 @@
 
   
   
-#### graph (1) British Columbia - Daily deaths, reference scenarios, all time
+#### graph (2) British Columbia - Daily deaths, reference scenarios, 2021 on
 
   
 
@@ -77,7 +77,7 @@
 
   
   
-#### graph (1) British Columbia - Daily deaths, reference scenarios, all time
+#### graph (3) British Columbia - Daily deaths, 3 scenarios, 2021 on
 
   
 
@@ -113,7 +113,7 @@
 
   
   
-#### graph (1) British Columbia - Daily deaths, reference scenarios, all time
+#### graph (4) British Columbia - Daily cases or infections, reference scenarios, all time
 
   
 
@@ -148,7 +148,7 @@
 
   
   
-#### graph (1) British Columbia - Daily deaths, reference scenarios, all time
+#### graph (5) British Columbia - Daily cases or infections, reference scenarios, 2021 on
 
   
 
@@ -183,7 +183,7 @@
 
   
   
-#### graph (1) British Columbia - Daily deaths, reference scenarios, all time
+#### graph (6) British Columbia - Daily cases or infections, 3 scenarios, 2021 on
 
   
 
@@ -217,7 +217,7 @@
 
   
   
-#### graph (1) British Columbia - Daily deaths, reference scenarios, all time
+#### graph (6b) British Columbia - Daily estimated infections IHME to reported cases JOHN, main scenarios, 2021 on
 
   
 
@@ -250,7 +250,7 @@
 
   
   
-#### graph (1) British Columbia - Daily deaths, reference scenarios, all time
+#### graph (7) British Columbia - Hospital-related outcomes, all time
 
   
 
@@ -283,7 +283,7 @@
 
   
   
-#### graph (1) British Columbia - Daily deaths, reference scenarios, all time
+#### graph (8) British Columbia - Hospital-related outcomes, 2021, without IHME Bed need and IMPE Hospital demand
 
   
 
@@ -316,7 +316,7 @@
 
   
   
-#### graph (1) British Columbia - Daily deaths, reference scenarios, all time
+#### graph (9) British Columbia - Daily deaths estimated to reported, reference scenarios, 2021 on
 
   
 
@@ -349,7 +349,7 @@
 
   
   
-#### graph (1) British Columbia - Daily deaths, reference scenarios, all time
+#### graph (10) British Columbia - Daily cases or infections estimated to reported, reference scenarios, 2021 on
 
   
 
@@ -384,7 +384,7 @@
 
   
   
-#### graph (1) British Columbia - Daily deaths, reference scenarios, all time
+#### graph (11) British Columbia - R effective, 3 scenarios, all time, IHME
 
   
 
@@ -419,7 +419,7 @@
 
   
   
-#### graph (1) British Columbia - Daily deaths, reference scenarios, all time
+#### graph (12) British Columbia - Daily Infection-outcomes ratios, 3 scenarios, IHME, 2021 on
 
   
 
@@ -454,7 +454,7 @@
 
   
   
-#### graph (1) British Columbia - Daily deaths, reference scenarios, all time
+#### graph (12b) British Columbia - Daily infection hospitalization & fatality ratios, 3 scenarios, IHME, 2021 on
 
   
 
@@ -491,7 +491,7 @@
 
   
   
-#### graph (1) British Columbia - Daily deaths, reference scenarios, all time
+#### graph (13) British Columbia - Daily mobility, 3 scenarios, all time, IHME
 
   
 
@@ -527,7 +527,7 @@
 
   
   
-#### graph (1) British Columbia - Daily deaths, reference scenarios, all time
+#### graph (14) British Columbia - Daily mask use, 3 scenarios, all time, IHME
 
   
 
@@ -564,7 +564,7 @@
 
   
   
-#### graph (1) British Columbia - Daily deaths, reference scenarios, all time
+#### graph (15) British Columbia - Percent cumulative vaccinated, 2021 on, IHME
 
   
 
