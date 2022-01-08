@@ -1,15 +1,4 @@
 
-### Selected graphs - Nova Scotia
-
-Graphs for Nova Scotia were added here starting from uptake 20210726 onwards. 
-
-  
-**** 
-****  
-
-  
-  
-
 ### Selected graphs - Nova Scotia 2021
 
 Graphs for Nova Scotia were added here starting from uptake 20210726 onwards. 
