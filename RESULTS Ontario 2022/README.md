@@ -28,7 +28,7 @@
 ****
 ****
   
-#### graph (1) Ontario - Daily deaths, reference scenarios, all time
+#### graph (2) Ontario - Daily deaths, reference scenarios, 2021 on
  
   
   
@@ -54,7 +54,7 @@
 ****
 ****
   
-#### graph (1) Ontario - Daily deaths, reference scenarios, all time
+#### graph (3) Ontario - Daily deaths, 3 scenarios, 2021 on
  
   
   
@@ -78,7 +78,7 @@
 ****
 ****
   
-#### graph (1) Ontario - Daily deaths, reference scenarios, all time
+#### graph (4) Ontario - Daily cases or infections, reference scenarios, all time
  
   
   
@@ -104,7 +104,7 @@
 ****
 ****
   
-#### graph (1) Ontario - Daily deaths, reference scenarios, all time
+#### graph (5) Ontario - Daily cases or infections, reference scenarios, 2021 on
  
   
   
@@ -130,7 +130,7 @@
 ****
 ****
   
-#### graph (1) Ontario - Daily deaths, reference scenarios, all time
+#### graph (6) Ontario - Daily cases or infections, 3 scenarios, 2021 on
  
   
   
@@ -154,7 +154,7 @@
 ****
 ****
   
-#### graph (1) Ontario - Daily deaths, reference scenarios, all time
+#### graph (6b) Ontario - Daily estimated infections IHME to reported cases JOHN, main scenarios, 2021 on
  
   
   
@@ -181,8 +181,8 @@
 ****
 ****
   
-#### graph (1) Ontario - Daily deaths, reference scenarios, all time
- 
+#### graph (7) Ontario - Hospital-related outcomes, all time
+
   
   
   
@@ -207,7 +207,7 @@
 ****
 ****
   
-#### graph (1) Ontario - Daily deaths, reference scenarios, all time
+#### graph (8) Ontario - Hospital-related outcomes, 2021, without IHME Bed need and IMPE Hospital demand
  
   
   
@@ -234,7 +234,7 @@
 ****
 ****
   
-#### graph (1) Ontario - Daily deaths, reference scenarios, all time
+#### graph (9) Ontario - Daily deaths estimated to reported, reference scenarios, 2021 on
  
   
   
@@ -259,7 +259,7 @@
 ****
 ****
   
-#### graph (1) Ontario - Daily deaths, reference scenarios, all time
+#### graph (10) Ontario - Daily cases or infections estimated to reported, reference scenarios, 2021 on
  
   
   
@@ -284,7 +284,7 @@
 ****
 ****
   
-#### graph (1) Ontario - Daily deaths, reference scenarios, all time
+#### graph (11) Ontario - R effective, 3 scenarios, all time, IHME
  
   
   
@@ -309,7 +309,7 @@
 ****
 ****
   
-#### graph (1) Ontario - Daily deaths, reference scenarios, all time
+#### graph (12) Ontario - Daily Infection-outcomes ratios, 3 scenarios, IHME, 2021 on
  
   
   
@@ -335,7 +335,7 @@
 ****
 ****
   
-#### graph (1) Ontario - Daily deaths, reference scenarios, all time
+#### graph (12b) Ontario - Daily infection hospitalization & fatality ratios, 3 scenarios, IHME
  
   
   
@@ -359,7 +359,7 @@
 ****
 ****
   
-#### graph (1) Ontario - Daily deaths, reference scenarios, all time
+#### graph (13) Ontario - Daily mobility, 3 scenarios, all time, IHME
  
   
   
@@ -383,7 +383,7 @@
 ****
 ****
   
-#### graph (1) Ontario - Daily deaths, reference scenarios, all time
+#### graph (14) Ontario - Daily mask use, 3 scenarios, all time, IHME
  
   
   
@@ -409,7 +409,7 @@
 ****
 ****
   
-#### graph (1) Ontario - Daily deaths, reference scenarios, all time
+#### graph (15) Ontario - Percent cumulative vaccinated, 2021 on, IHME
  
   
   
