@@ -32,7 +32,7 @@
 
 
 
-#### graph (1) Saskatchewan - Daily deaths, reference scenarios, all time
+#### graph (2) Saskatchewan - Daily deaths, reference scenarios, 2021 on
   
 ****
 ****
@@ -58,7 +58,7 @@
 
 
 
-#### graph (1) Saskatchewan - Daily deaths, reference scenarios, all time
+#### graph (3) Saskatchewan - Daily deaths, 3 scenarios, 2021 on
   
 ****
 ****
@@ -85,7 +85,7 @@
 
 
 
-#### graph (1) Saskatchewan - Daily deaths, reference scenarios, all time
+#### graph (4) Saskatchewan - Daily cases or infections, reference scenarios, all time
   
 ****
 ****
@@ -111,7 +111,7 @@
 
 
 
-#### graph (1) Saskatchewan - Daily deaths, reference scenarios, all time
+#### graph (5) Saskatchewan - Daily cases or infections, reference scenarios, 2021 on
   
 ****
 ****
@@ -138,7 +138,7 @@
 
 
 
-#### graph (1) Saskatchewan - Daily deaths, reference scenarios, all time
+#### graph (6) Saskatchewan - Daily cases or infections, 3 scenarios, 2021 on
   
 ****
 ****
@@ -167,7 +167,7 @@
 
 
 
-#### graph (1) Saskatchewan - Daily deaths, reference scenarios, all time
+#### graph (6b) Saskatchewan - Daily estimated infections IHME to reported cases JOHN, main scenarios, 2021 on
   
 ****
 ****
@@ -196,7 +196,7 @@
 
 
 
-#### graph (1) Saskatchewan - Daily deaths, reference scenarios, all time
+#### graph (7) Saskatchewan - Hospital-related outcomes, all time
   
 ****
 ****
@@ -224,7 +224,7 @@
 
 
 
-#### graph (1) Saskatchewan - Daily deaths, reference scenarios, all time
+#### graph (8) Saskatchewan - Hospital-related outcomes, 2021 on, without IHME Bed need and IMPE Hospital demand
   
 ****
 ****
@@ -251,7 +251,7 @@
 
 
 
-#### graph (1) Saskatchewan - Daily deaths, reference scenarios, all time
+#### graph (9) Saskatchewan - Daily deaths estimated to reported, reference scenarios, 2021 on
   
 ****
 ****
@@ -278,7 +278,7 @@
 
 
 
-#### graph (1) Saskatchewan - Daily deaths, reference scenarios, all time
+#### graph (10) Saskatchewan - Daily cases or infections estimated to reported, reference scenarios, 2021 on
   
 ****
 ****
@@ -306,7 +306,7 @@
 
 
 
-#### graph (1) Saskatchewan - Daily deaths, reference scenarios, all time
+#### graph (11) Saskatchewan - R effective, 3 scenarios, all time, IHME
   
 ****
 ****
@@ -332,7 +332,7 @@
 
 
 
-#### graph (1) Saskatchewan - Daily deaths, reference scenarios, all time
+#### graph (12) Saskatchewan - Daily Infection-outcomes ratios, 3 scenarios, IHME, 2021 on
   
 ****
 ****
@@ -359,7 +359,7 @@
 
 
 
-#### graph (1) Saskatchewan - Daily deaths, reference scenarios, all time
+#### graph (12b) Saskatchewan - Daily infection hospitalization & fatality ratios, 3 scenarios, IHME, 2021 on
   
 ****
 ****
@@ -386,7 +386,7 @@
 
 
 
-#### graph (1) Saskatchewan - Daily deaths, reference scenarios, all time
+#### graph (13) Saskatchewan - Daily mobility, 3 scenarios, all time, IHME
   
 ****
 ****
@@ -413,7 +413,7 @@
 
 
 
-#### graph (1) Saskatchewan - Daily deaths, reference scenarios, all time
+#### graph (14) Saskatchewan - Daily mask use, 3 scenarios, all time, IHME
   
 ****
 ****
@@ -440,7 +440,7 @@
 
 
 
-#### graph (1) Saskatchewan - Daily deaths, reference scenarios, all time
+#### graph (15) Saskatchewan - Percent cumulative vaccinated, 2021 on, IHME
   
 ****
 ****
