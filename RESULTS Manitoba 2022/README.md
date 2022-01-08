@@ -1,7 +1,6 @@
 
-### Selected graphs - Manitoba 2021
+### Selected graphs - Manitoba 2022
 
-Graphs for Manitoba were added here starting from uptake 20210726 onwards. 
   
 **** 
 ****  
