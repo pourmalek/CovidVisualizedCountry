@@ -10,7 +10,7 @@
 
 *
 
-**uptake 20211217**: **_DELP 20211216_**, IHME 20211119, **_IMPE 20211205_**, **_SRIV 20211217_**
+**uptake 20220104**: **_DELP 20220104_**, IHME 20211221, **_IMPE 20211213_**, **_SRIV 20220104_**
 
 (1) Canada [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220104/output/merge/main/CAN1%2011aDayDeaMERGnat%20alltime%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
@@ -36,7 +36,7 @@
 
 *
 
-**uptake 20211217**: **_DELP 20211216_**, IHME 20211119, **_IMPE 20211205_**, **_SRIV 20211217_**
+**uptake 20220104**: **_DELP 20220104_**, IHME 20211221, **_IMPE 20211213_**, **_SRIV 20220104_**
 
 (2) Canada [Daily deaths, reference scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220104/output/merge/main/CAN2%2012aDayDeaMERGnat%202021%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%202021.pdf)
 
@@ -54,7 +54,7 @@
 ****
 ****  
  
-#### graph (2) Canada - Daily deaths, reference scenarios, 2021  
+#### graph (3) Canada - Daily deaths, 3 scenarios, 2021 on
   
   
   
@@ -63,7 +63,7 @@
 
 *
 
-**uptake 20211217**: **_DELP 20211216_**, IHME 20211119, **_IMPE 20211205_**, **_SRIV 20211217_**
+**uptake 20220104**: **_DELP 20220104_**, IHME 20211221, **_IMPE 20211213_**, **_SRIV 20220104_**
 
 (3) Canada [Daily deaths, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220104/output/merge/main/CAN3%2014a2DayDeaMERGnat%202021%203%20scenarios%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20National%2C%203%20scenarios%2C%202021.pdf)
 
@@ -80,7 +80,7 @@
 ****
 ****  
  
-#### graph (2) Canada - Daily deaths, reference scenarios, 2021  
+#### graph (4) Canada - Daily cases or infections, reference scenarios, all time
   
   
   
@@ -89,7 +89,7 @@
 
 *
 
-**uptake 20211217**: **_DELP 20211216_**, IHME 20211119, **_IMPE 20211205_**, **_SRIV 20211217_**
+**uptake 20220104**: **_DELP 20220104_**, IHME 20211221, **_IMPE 20211213_**, **_SRIV 20220104_**
 
 (4) Canada [Daily cases or infections, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220104/output/merge/main/CAN4%2031aDayCasMERGnat%20alltime%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20National%2C%20reference%20scenarios.pdf)
 
@@ -108,7 +108,7 @@
 ****
 ****  
  
-#### graph (2) Canada - Daily deaths, reference scenarios, 2021  
+#### graph (5) Canada - Daily cases or infections, reference scenarios, 2021 on
   
   
   
@@ -117,7 +117,7 @@
 
 *
 
-**uptake 20211217**: **_DELP 20211216_**, IHME 20211119, **_IMPE 20211205_**, **_SRIV 20211217_**
+**uptake 20220104**: **_DELP 20220104_**, IHME 20211221, **_IMPE 20211213_**, **_SRIV 20220104_**
 
 (5) Canada [Daily cases or infections, reference scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220104/output/merge/main/CAN5%2032aDayCasMERGnat%202021%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%202021.pdf)
 
@@ -136,7 +136,7 @@
 ****
 ****  
  
-#### graph (2) Canada - Daily deaths, reference scenarios, 2021  
+#### graph (6) Canada - Daily cases or infections, 3 scenarios, 2021 on
   
   
   
@@ -145,7 +145,7 @@
 
 *
 
-**uptake 20211217**: **_DELP 20211216_**, IHME 20211119, **_IMPE 20211205_**, **_SRIV 20211217_**
+**uptake 20220104**: **_DELP 20220104_**, IHME 20211221, **_IMPE 20211213_**, **_SRIV 20220104_**
 
 (6) Canada [Daily cases or infections, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220104/output/merge/main/CAN6%2034aDayCasMERGnat%202021%203scen%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20National%2C%203%20scenarios%2C%202021%2C%20uncertainty.pdf)
 
@@ -162,7 +162,7 @@
 ****
 ****  
  
-#### graph (2) Canada - Daily deaths, reference scenarios, 2021  
+#### graph (6b) Canada - Daily estimated infections IHME IMPE to reported cases JOHN, main scenarios, 2021 on
   
   
   
@@ -171,7 +171,7 @@
 
 *
 
-**uptake 20211217**: **_DELP 20211216_**, IHME 20211119, **_IMPE 20211205_**, **_SRIV 20211217_**
+**uptake 20220104**: **_DELP 20220104_**, IHME 20211221, **_IMPE 20211213_**, **_SRIV 20220104_**
 
 (6b) Canada [Daily estimated infections IHME IMPE to reported cases JOHN, main scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220104/output/merge/main/CAN4%20-%202%20daily%20estimated%20infections%20to%20reported%20cases%2C%20Canada%2C%20National%2C%20reference%20scenarios%202021.pdf)
 
@@ -190,7 +190,7 @@
 ****
 ****  
  
-#### graph (2) Canada - Daily deaths, reference scenarios, 2021  
+#### graph (6c) Canada - Daily estimated infections IHME, 5 scenarios, all time
   
   
   
@@ -199,7 +199,7 @@
 
 *
 
-**uptake 20211217**: **_DELP 20211216_**, IHME 20211119, **_IMPE 20211205_**, **_SRIV 20211217_**
+**uptake 20220104**: **_DELP 20220104_**, IHME 20211221, **_IMPE 20211213_**, **_SRIV 20220104_**
 
 (6c) Canada [Daily estimated infections IHME, 5 scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220104/output/IHME/graph%2022a1%20C-19%20daily%20infections%2C%20Canada%2C%20%20National%205%20scenarios%2C%20IHME.pdf)
 
@@ -218,7 +218,7 @@
 ****
 ****  
  
-#### graph (2) Canada - Daily deaths, reference scenarios, 2021  
+#### graph (6d) Canada - Daily estimated infections IHME, 5 scenarios, 2021 on
   
   
   
@@ -227,7 +227,7 @@
 
 *
 
-**uptake 20211217**: **_DELP 20211216_**, IHME 20211119, **_IMPE 20211205_**, **_SRIV 20211217_**
+**uptake 20220104**: **_DELP 20220104_**, IHME 20211221, **_IMPE 20211213_**, **_SRIV 20220104_**
 
 (6d) Canada [Daily estimated infections IHME, 5 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220104/output/IHME/graph%2022a2%20C-19%20daily%20infections%2C%20Canada%2C%20%20National%205%20scenarios%2C%20IHME%202021.pdf)
 
@@ -246,7 +246,7 @@
 ****
 ****  
  
-#### graph (2) Canada - Daily deaths, reference scenarios, 2021  
+#### graph (6e) Canada - Daily estimated infections IHME, 5 scenarios, 2022
   
   
   
@@ -255,7 +255,7 @@
 
 *
 
-**uptake 20211217**: **_DELP 20211216_**, IHME 20211119, **_IMPE 20211205_**, **_SRIV 20211217_**
+**uptake 20220104**: **_DELP 20220104_**, IHME 20211221, **_IMPE 20211213_**, **_SRIV 20220104_**
 
 (6e) Canada [Daily estimated infections IHME, 5 scenarios, 2022](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220104/output/IHME/graph%2022a3%20C-19%20daily%20infections%2C%20Canada%2C%20%20National%205%20scenarios%2C%20IHME%202022.pdf)
 
@@ -274,7 +274,7 @@
 ****
 ****  
  
-#### graph (2) Canada - Daily deaths, reference scenarios, 2021  
+#### graph (7) Canada - Hospital-related outcomes, all time
   
   
   
@@ -283,7 +283,7 @@
 
 *
 
-**uptake 20211217**: **_DELP 20211216_**, IHME 20211119, **_IMPE 20211205_**, **_SRIV 20211217_**
+**uptake 20220104**: **_DELP 20220104_**, IHME 20211221, **_IMPE 20211213_**, **_SRIV 20220104_**
 
 (7) Canada [Hospital-related outcomes, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220104/output/merge/main/CAN7%2071a1DayHosMERGnat%20%20alltime%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20National.pdf)
 
@@ -304,7 +304,7 @@
 ****
 ****  
  
-#### graph (2) Canada - Daily deaths, reference scenarios, 2021  
+#### graph (8) Canada - Hospital-related outcomes, 2021 on, without IHME Bed need and IMPE Hospital demand
   
   
   
@@ -313,7 +313,7 @@
 
 *
 
-**uptake 20211217**: **_DELP 20211216_**, IHME 20211119, **_IMPE 20211205_**, **_SRIV 20211217_**
+**uptake 20220104**: **_DELP 20220104_**, IHME 20211221, **_IMPE 20211213_**, **_SRIV 20220104_**
 
 (8) Canada [Hospital-related outcomes, 2021 on, without IHME Bed need and IMPE Hospital demand](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220104/output/merge/main/CAN8%2073a2DayHosMERGnat%202021%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20National%2C%20wo%20extremes%2C%202021.pdf)
 
@@ -334,7 +334,7 @@
 ****
 ****  
  
-#### graph (2) Canada - Daily deaths, reference scenarios, 2021  
+#### graph (9) Canada - Daily deaths estimated to reported, reference scenarios, 2021 on
   
   
   
@@ -343,7 +343,7 @@
 
 *
 
-**uptake 20211217**: **_DELP 20211216_**, IHME 20211119, **_IMPE 20211205_**, **_SRIV 20211217_**
+**uptake 20220104**: **_DELP 20220104_**, IHME 20211221, **_IMPE 20211213_**, **_SRIV 20220104_**
 
 (9) Canada [Daily deaths estimated to reported, reference scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220104/output/merge/main/CAN9%2092aDayDERMERGnat%202021%20-%20COVID-19%20daily%20deaths%20estimated%20to%20reported%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%202021.pdf)
 
@@ -363,7 +363,7 @@
 ****
 ****  
  
-#### graph (2) Canada - Daily deaths, reference scenarios, 2021  
+#### graph (10) Canada - Daily cases or infections estimated to reported, reference scenarios, 2021 on
   
   
   
@@ -372,7 +372,7 @@
 
 *
 
-**uptake 20211217**: **_DELP 20211216_**, IHME 20211119, **_IMPE 20211205_**, **_SRIV 20211217_**
+**uptake 20220104**: **_DELP 20220104_**, IHME 20211221, **_IMPE 20211213_**, **_SRIV 20220104_**
 
 (10) Canada [Daily cases or infections estimated to reported, reference scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220104/output/merge/main/CAN10%2094aDayCERMERGnat%202021%20-%20COVID-19%20daily%20cases%20estimated%20to%20reported%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%202021.pdf)
 
@@ -394,16 +394,9 @@
 ****
 ****  
  
-#### graph (2) Canada - Daily deaths, reference scenarios, 2021  
+#### graph (2) Canada - R effective, IHME
   
-  
-  
-
-
-
 *
-
-**uptake 20211217**: **_DELP 20211216_**, IHME 20211119, **_IMPE 20211205_**, **_SRIV 20211217_**
 
 R effective, IHME, not available for Canada at the national level. 
 
@@ -424,7 +417,7 @@ R effective, IHME, not available for Canada at the national level.
 ****
 ****  
  
-#### graph (2) Canada - Daily deaths, reference scenarios, 2021  
+#### graph (11) Canada - Daily Infection-outcomes ratios, 3 scenarios, IHME, 2021 on 
   
   
   
@@ -433,7 +426,7 @@ R effective, IHME, not available for Canada at the national level.
 
 *
 
-**uptake 20211217**: **_DELP 20211216_**, IHME 20211119, **_IMPE 20211205_**, **_SRIV 20211217_**
+**uptake 20220104**: **_DELP 20220104_**, IHME 20211221, **_IMPE 20211213_**, **_SRIV 20220104_**
 
 (11) Canada [Daily Infection-outcomes ratios, 3 scenarios, IHME, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220104/output/merge/main/graph%2091a%20COVID-19%20daily%20Infection%20outcomes%20ratios%2C%20Canada%2C%20National%203%20scenarios%2C%20IHME.pdf)
 
@@ -452,7 +445,7 @@ R effective, IHME, not available for Canada at the national level.
 ****
 ****  
  
-#### graph (2) Canada - Daily deaths, reference scenarios, 2021  
+#### graph (11b) Canada - Daily infection hospitalization & fatality ratios, 3 scenarios, IHME, 2021 on
   
   
   
@@ -461,7 +454,7 @@ R effective, IHME, not available for Canada at the national level.
 
 *
 
-**uptake 20211217**: **_DELP 20211216_**, IHME 20211119, **_IMPE 20211205_**, **_SRIV 20211217_**
+**uptake 20220104**: **_DELP 20220104_**, IHME 20211221, **_IMPE 20211213_**, **_SRIV 20220104_**
 
 (11b) Canada [Daily infection hospitalization & fatality ratios, 3 scenarios, IHME, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220104/output/merge/main/graph%2091a2%20COVID-19%20daily%20Infection%20outcomes%20ratios%2C%20Canada%2C%20National%203%20scenarios%2C%20IHME.pdf)
 
@@ -484,14 +477,7 @@ R effective, IHME, not available for Canada at the national level.
  
 #### graph (2) Canada - Daily deaths, reference scenarios, 2021  
   
-  
-  
-
-
-
 *
-
-**uptake 20211217**: **_DELP 20211216_**, IHME 20211119, **_IMPE 20211205_**, **_SRIV 20211217_**
 
 Daily mobility, IHME, not available for Canada at the national level. 
 
@@ -509,7 +495,7 @@ Daily mobility, IHME, not available for Canada at the national level.
 ****
 ****  
  
-#### graph (2) Canada - Daily deaths, reference scenarios, 2021  
+#### graph (12) Canada - Daily mask use, 3 scenarios, all time, IHME
   
   
   
@@ -518,7 +504,7 @@ Daily mobility, IHME, not available for Canada at the national level.
 
 *
 
-**uptake 20211217**: **_DELP 20211216_**, IHME 20211119, **_IMPE 20211205_**, **_SRIV 20211217_**
+**uptake 20220104**: **_DELP 20220104_**, IHME 20211221, **_IMPE 20211213_**, **_SRIV 20220104_**
 
 (12) Canada [Daily mask use, 3 scenarios, all time, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220104/output/merge/main/graph%2093a%20COVID-19%20daily%20mask_use%2C%20Canada%2C%20National%2C%203%20scenarios.pdf) 
 
@@ -535,7 +521,7 @@ Daily mobility, IHME, not available for Canada at the national level.
 ****
 ****  
  
-#### graph (2) Canada - Daily deaths, reference scenarios, 2021  
+#### graph (13) Canada - Percent cumulative vaccinated, 2021 on, IHME
   
   
   
@@ -544,7 +530,7 @@ Daily mobility, IHME, not available for Canada at the national level.
 
 *
 
-**uptake 20211217**: **_DELP 20211216_**, IHME 20211119, **_IMPE 20211205_**, **_SRIV 20211217_**
+**uptake 20220104**: **_DELP 20220104_**, IHME 20211221, **_IMPE 20211213_**, **_SRIV 20220104_**
 
 (13) Canada [Percent cumulative vaccinated, 2021 on, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220104/output/merge/main/graph%2094a%20COVID-19%20percent%20cumulative%20vaccinated%2C%20Canada%2C%20National.pdf)
 
