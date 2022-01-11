@@ -758,7 +758,7 @@ twoway ///
 (line DayDeaMeRaA03S02 date, sort lcolor(magenta)) /// 6 "IMPE"
 (line DayDeaMeRaA05S00 date, sort lcolor(green)) /// 7 "SRIV"
 if date >= td(01jan2021) & provincestate == " National" ///
-, xtitle(Date) xlabel(#15, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+, xtitle(Date) xlabel(#16, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily deaths) title("COVID-19 daily deaths, $country, National", size(medium)) /// 
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
@@ -1484,7 +1484,7 @@ twoway ///
 (line DayITCMeSmA02S01XXXsm_median date, sort lcolor(black) lwidth(thin) lpattern(dash)) /// 5 "IHME"
 (line DayITCMeRaA03S02sm_median date, sort lcolor(magenta) lwidth(thin) lpattern(dash)) /// 6 "IMPE"
 if date >= td(01jan2021) & provincestate == " National" ///
-, xtitle(Date) xlabel(#15, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+, xtitle(Date) xlabel(#16, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily estimated infections to reported cases) title("COVID-19 daily estimated infections to reported cases, $country, National", size(medium)) /// 
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
@@ -1515,7 +1515,7 @@ twoway ///
 (line DayITCMeSmA02S01XABsm date, sort lcolor(black) lwidth(thick)) /// 
 (line DayITCMeSmA02S01XABsm_median date, sort lcolor(black) lwidth(thin) lpattern(dash)) /// 
 if date >= td(01jan2021) ///
-, xtitle(Date) xlabel(#15, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+, xtitle(Date) xlabel(#16, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily estimated infections to reported cases) title("COVID-19 daily estimated infections to reported cases, $country, Alberta", size(medium)) /// 
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
@@ -1543,7 +1543,7 @@ twoway ///
 (line DayITCMeSmA02S01XBCsm date, sort lcolor(black) lwidth(thick)) /// 
 (line DayITCMeSmA02S01XBCsm_median date, sort lcolor(black) lwidth(thin) lpattern(dash)) /// 
 if date >= td(01jan2021) ///
-, xtitle(Date) xlabel(#15, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+, xtitle(Date) xlabel(#16, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily estimated infections to reported cases) title("COVID-19 daily estimated infections to reported cases, $country, British Columbia", size(medium)) /// 
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
@@ -1571,7 +1571,7 @@ twoway ///
 (line DayITCMeSmA02S01XMBsm date, sort lcolor(black) lwidth(thick)) /// 
 (line DayITCMeSmA02S01XMBsm_median date, sort lcolor(black) lwidth(thin) lpattern(dash)) /// 
 if date >= td(01jan2021) ///
-, xtitle(Date) xlabel(#15, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+, xtitle(Date) xlabel(#16, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily estimated infections to reported cases) title("COVID-19 daily estimated infections to reported cases, $country, Manitoba", size(medium)) /// 
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
@@ -1599,7 +1599,7 @@ twoway ///
 (line DayITCMeSmA02S01XNSsm date, sort lcolor(black) lwidth(thick)) /// 
 (line DayITCMeSmA02S01XNSsm_median date, sort lcolor(black) lwidth(thin) lpattern(dash)) /// 
 if date >= td(01jan2021) ///
-, xtitle(Date) xlabel(#15, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+, xtitle(Date) xlabel(#16, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily estimated infections to reported cases) title("COVID-19 daily estimated infections to reported cases, $country, Nova Scotia", size(medium)) /// 
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
@@ -1628,7 +1628,7 @@ twoway ///
 (line DayITCMeSmA02S01XONsm date, sort lcolor(black) lwidth(thick)) /// 
 (line DayITCMeSmA02S01XONsm_median date, sort lcolor(black) lwidth(thin) lpattern(dash)) /// 
 if date >= td(01jan2021) ///
-, xtitle(Date) xlabel(#15, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+, xtitle(Date) xlabel(#16, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily estimated infections to reported cases) title("COVID-19 daily estimated infections to reported cases, $country, Ontario", size(medium)) /// 
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
@@ -1656,7 +1656,7 @@ twoway ///
 (line DayITCMeSmA02S01XQCsm date, sort lcolor(black) lwidth(thick)) /// 
 (line DayITCMeSmA02S01XQCsm_median date, sort lcolor(black) lwidth(thin) lpattern(dash)) /// 
 if date >= td(01jan2021) ///
-, xtitle(Date) xlabel(#15, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+, xtitle(Date) xlabel(#16, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily estimated infections to reported cases) title("COVID-19 daily estimated infections to reported cases, $country, Quebec", size(medium)) /// 
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
@@ -1684,7 +1684,7 @@ twoway ///
 (line DayITCMeSmA02S01XSKsm date, sort lcolor(black) lwidth(thick)) /// 
 (line DayITCMeSmA02S01XSKsm_median date, sort lcolor(black) lwidth(thin) lpattern(dash)) /// 
 if date >= td(01jan2021) ///
-, xtitle(Date) xlabel(#15, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+, xtitle(Date) xlabel(#16, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily estimated infections to reported cases) title("COVID-19 daily estimated infections to reported cases, $country, Saskatchewan", size(medium)) /// 
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
@@ -3619,7 +3619,7 @@ twoway ///
 (line inf_hosp_A02S03 date, sort lcolor(black) lpattern(dash)) ///
 (line infection_fatality_A02S03 date, sort lcolor(red) lpattern(dash)) ///
 if date >= td(01jan2021) & provincestate == " National"  ///
-, xtitle(Date) xlabel(#15, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+, xtitle(Date) xlabel(#16, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%9.2fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily infection-outcome ratios) title("C-19 daily infection-outcome ratios, $country, National, IHME", size(medium)) ///
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
@@ -3645,7 +3645,7 @@ twoway ///
 (line inf_hosp_A02S03 date, sort lcolor(black) lpattern(dash)) ///
 (line infection_fatality_A02S03 date, sort lcolor(red) lpattern(dash)) ///
 if date >= td(01jan2021) & provincestate == " National"  ///
-, xtitle(Date) xlabel(#15, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+, xtitle(Date) xlabel(#16, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%9.3fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily infection-outcome ratios) title("C-19 daily infection hospitalization & fatality ratios, $country, National, IHME", size(medium)) ///
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
@@ -3677,7 +3677,7 @@ twoway ///
 (line inf_hosp_A02S03 date, sort lcolor(black) lpattern(dash)) ///
 (line infection_fatality_A02S03 date, sort lcolor(red) lpattern(dash)) ///
 if date >= td(01jan2021) & provincestate == "`l'"  ///
-, xtitle(Date) xlabel(#15, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+, xtitle(Date) xlabel(#16, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%9.2fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily infection-outcome ratios) title("C-19 daily infection-outcome ratios, $country, `l', IHME", size(medium)) ///
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
@@ -3709,7 +3709,7 @@ twoway ///
 (line inf_hosp_A02S03 date, sort lcolor(black) lpattern(dash)) ///
 (line infection_fatality_A02S03 date, sort lcolor(red) lpattern(dash)) ///
 if date >= td(01jan2021) & provincestate == "`l'"  ///
-, xtitle(Date) xlabel(#15, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+, xtitle(Date) xlabel(#16, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%9.3fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily infection-outcome ratios) title("C-19 daily infection hospitalization & fatality ratios, $country, `l', IHME", size(medium)) ///
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
@@ -3737,7 +3737,7 @@ twoway ///
 (line mobility_mean_A02S03 date, sort lcolor(red)) ///
 (line mobility_mean_A02S01 date, sort lcolor(black)) ///
 if date >= td(01jan2020) & provincestate == " National" ///
-, xtitle(Date) xlabel(#24, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+, xtitle(Date) xlabel(#29, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%12.1fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily % change in mobility from baseline) title("C-19 daily % change in mobility, $country, National, IHME", size(medium)) ///
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
@@ -3762,7 +3762,7 @@ twoway ///
 (line mobility_mean_A02S03 date, sort lcolor(red)) ///
 (line mobility_mean_A02S01 date, sort lcolor(black)) ///
 if date >= td(01jan2020)  & provincestate == "`l'"  ///
-, xtitle(Date) xlabel(#24, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+, xtitle(Date) xlabel(#29, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%12.1fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily % change in mobility from baseline) title("C-19 daily % change in mobility, $country, `l', IHME", size(medium)) ///
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
@@ -3786,7 +3786,7 @@ twoway ///
 (line mask_use_mean_A02S03 date, sort lcolor(red)) ///
 (line mask_use_mean_A02S01 date, sort lcolor(black)) ///
 if date >= td(01jan2020) & provincestate == " National" ///
-, xtitle(Date) xlabel(#24, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+, xtitle(Date) xlabel(#29, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%12.1fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily mask use) title("C-19 daily mask use, $country, National, IHME, 3 scenarios", size(medium)) ///
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
@@ -3812,7 +3812,7 @@ twoway ///
 (line mask_use_mean_A02S03 date, sort lcolor(red)) ///
 (line mask_use_mean_A02S01 date, sort lcolor(black)) ///
 if date >= td(01jan2020) & provincestate == "`l'" ///
-, xtitle(Date) xlabel(#24, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+, xtitle(Date) xlabel(#29, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%12.1fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily mask use) title("C-19 daily mask use, $country, `l', IHME, 3 scenarios", size(medium)) ///
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
@@ -3836,7 +3836,7 @@ twoway ///
 (line cumul_effective_vax_pct date, sort lcolor(blue)) ///
 (line cumul_fully_vax_pct date, sort lcolor(green) lwidth(thick)) ///
 if date >= td(01dec2020) & provincestate == " National" ///
-, xtitle(Date) xlabel(#15, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+, xtitle(Date) xlabel(#17, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.1fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Cumulative vaccinated percent) title("C-19 cumulative vaccinated %, $country, National, IHME", size(medium)) ///
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
@@ -3863,7 +3863,7 @@ twoway ///
 (line cumul_effective_vax_pct date, sort lcolor(blue)) ///
 (line cumul_fully_vax_pct date, sort lcolor(green) lwidth(thick)) ///
 if date >= td(01dec2020) & provincestate == "`l'" ///
-, xtitle(Date) xlabel(#15, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+, xtitle(Date) xlabel(#17, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.1fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Cumulative vaccinated percent) title("C-19 cumulative vaccinated %, $country, `l', IHME", size(medium)) ///
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
@@ -3888,7 +3888,7 @@ twoway ///
 (line cumul_effective_vax date, sort lcolor(blue)) ///
 (line cumul_fully_vax date, sort lcolor(green) lwidth(thick)) ///
 if date >= td(01dec2020) & provincestate == " National" ///
-, xtitle(Date) xlabel(#15, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+, xtitle(Date) xlabel(#17, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Cumulative vaccinated number) title("C-19 cumulative vaccinated number, $country, National, IHME", size(medium)) ///
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
@@ -3915,7 +3915,7 @@ twoway ///
 (line cumul_effective_vax date, sort lcolor(blue)) ///
 (line cumul_fully_vax date, sort lcolor(green) lwidth(thick)) ///
 if date >= td(01dec2020) & provincestate == "`l'" ///
-, xtitle(Date) xlabel(#15, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+, xtitle(Date) xlabel(#17, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Cumulative vaccinated number) title("C-19 cumulative vaccinated number, $country, `l', IHME", size(medium)) ///
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
@@ -3943,7 +3943,7 @@ twoway ///
 (line cumul_effective_vax date, sort lcolor(blue)) ///
 (line cumul_fully_vax date, sort lcolor(green) lwidth(thick)) ///
 if date >= td(01dec2020) & provincestate == " National" ///
-, xtitle(Date) xlabel(#15, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+, xtitle(Date) xlabel(#17, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Cumulative vaccinated number) title("C-19 cumulative vaccinated number, $country, National, IHME", size(medium)) ///
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
@@ -3957,7 +3957,116 @@ qui graph export "graph 94c COVID-19 number cumulative vaccinated, $country, Nat
 
 
 
+
+
+
+
+
+
+
+
+*****************	
+
+* Calculated daily detected infections, IHME reference scenario = S1 	   
+	   
+levelsof provincestate_mostaffected, local(levels)
+
+foreach l of local levels {
+	   
+twoway ///
+(line DayCasMeSmA00S00 date, sort lcolor(cyan) lwidth(thick)) /// 1 JOHN
+(line daily_infections_A02S01 date, sort lcolor(black)) ///
+(line DayINFDetMeSmA02S01 date, sort lcolor(red)) ///
+if date >= td(01jan2020) & provincestate == "`l'" ///
+, xtitle(Date) xlabel(#28, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
+ytitle(Daily outcomes) title("COVID-19 daily detected infections, $country, `l', IHME, reference scenario", size(medium)) ///
+xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///	///
+legend(order(1 "Daily cases smooth JOHN" 2 "Daily infections (raw data) IHME" 3 "Calculated daily detected infections IHME" ) rows(2) size(small)) ///
+note("Reference scenario = Current projection;" ///
+"Calculated daily detected infections = Daily infections * Infection detection ratio")
+	   
+graph save "graph 101 COVID-19 daily detected infections, $country `l' reference scenario CI, IHME.gph", replace
+graph export "graph 101 COVID-19 daily detected infections, $country `l' reference scenario CI, IHME.pdf", replace
+
+}
 *
+
+
+
+*****************	
+
+* Calculated daily hospitalized infections, IHME reference scenario = S1 	
+
+levelsof provincestate_mostaffected, local(levels)
+
+foreach l of local levels {   
+	   
+twoway ///	   
+(line DayAdmMeSmA02S01 date, sort lcolor(black)) ///
+(line DayINFHosMeSmA02S01 date, sort lcolor(red)) ///
+if date >= td(01jan2020) & provincestate == "`l'" ///
+, xtitle(Date) xlabel(#28, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
+ytitle(Daily outcomes) title("COVID-19 daily hospitalized infections, $country, `l', IHME, reference scenario", size(medium)) ///
+xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///	///
+legend(order(1 "Daily hospital admissions" 2 "Calculated daily hospitalized infections") size(small)) ///
+note("Reference scenario = Current projection;" ///
+"Calculated daily hospitalized infections = Daily infections * Infection hospitalization ratio")
+	   
+graph save "graph 102 COVID-19 daily hospitalized infections, $country `l' reference scenario CI, IHME.gph", replace
+graph export "graph 102 COVID-19 daily hospitalized infections, $country `l' reference scenario CI, IHME.pdf", replace
+
+}
+*
+
+
+
+
+*****************	
+
+* Calculated daily fatal infections, IHME reference scenario = S1 	   
+
+levelsof provincestate_mostaffected, local(levels)
+
+foreach l of local levels {
+
+twoway /// 	   
+(line DayDeaMeSmA00S00 date, sort lcolor(cyan) lwidth(vthick)) /// 1 Daily deaths smooth JOHN
+(line DayDeaMeSmA02S01 date, sort lcolor(black) lwidth(medthick)) /// 2 Daily deaths IHME
+(line DayDeXMeSmA02S01 date, sort lcolor(gold)lwidth(medthick)) /// 3 Daily excess deaths IHME
+(line DayINFFatMeSmA02S01 date, sort lcolor(red)) /// 4 Daily fatal infections IHME 
+if date >= td(01jan2020) & provincestate == "`l'" ///
+, xtitle(Date) xlabel(#28, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
+ytitle(Daily outcomes) title("COVID-19 daily fatal infections, $country, `l', IHME, reference scenario", size(medium)) ///
+xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///	///
+legend(order(1 "Daily deaths smooth JOHN" 2 "Daily deaths IHME" ///
+3 "Daily excess deaths IHME" 4 "Calculated daily fatal infections IHME") rows(2) size(small)) ///
+note("Reference scenario = Current projection;" ///
+"Calculated daily fatal infections = Daily infections * Infection fatality ratio")
+	   
+graph save "graph 103 COVID-19 daily fatal infections, $country `l' reference scenario CI, IHME.gph", replace
+graph export "graph 103 COVID-19 daily fatal infections, $country `l' reference scenario CI, IHME.pdf", replace
+
+}
+*
+
+
+
+
+
+
+
+
+
+
+
+
+*
+
+
+qui compress
 
 save "CovidVisualizedCountry merge.dta", replace
 
