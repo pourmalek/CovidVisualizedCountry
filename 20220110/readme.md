@@ -201,6 +201,26 @@ Daily mobility, IHME, not available for Canada at the national level.
 
 ****
 
+(14) Canada [Daily detected infections, reference scenario, all time, IHME]()
+
+Calculated daily detected infections = Daily infections * Infection detection ratio
+
+
+****
+
+(15) Canada [Daily hospitalized infections, reference scenario, all time, IHME]()
+
+Calculated daily hospitalized infections = Daily infections * Infection hospitalization ratio
+
+
+****
+
+(16) Canada [Daily fatal infections, reference scenario, all time, IHME]()
+
+Calculated daily fatal infections = Daily infections * Infection fatality ratio
+
+
+****
 
 
 
