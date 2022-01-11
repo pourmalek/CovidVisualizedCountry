@@ -3963,11 +3963,36 @@ qui graph export "graph 94c COVID-19 number cumulative vaccinated, $country, Nat
 
 
 
+*****************	
+
+* Calculated daily detected infections, IHME reference scenario = S1, National	   
+	   
+twoway ///
+(line DayCasMeSmA00S00 date, sort lcolor(cyan) lwidth(thick)) /// 1 JOHN
+(line daily_infections_A02S01 date, sort lcolor(black)) ///
+(line DayINFDetMeSmA02S01 date, sort lcolor(red)) ///
+if date >= td(01jan2020) & provincestate == " National" ///
+, xtitle(Date) xlabel(#28, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
+ytitle(Daily outcomes) title("COVID-19 daily detected infections, $country, National, IHME, reference scenario", size(medium)) ///
+xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///	///
+legend(order(1 "Daily cases smooth JOHN" 2 "Daily infections (raw data) IHME" 3 "Calculated daily detected infections IHME" ) rows(2) size(small)) ///
+note("Reference scenario = Current projection;" ///
+"Calculated daily detected infections = Daily infections * Infection detection ratio") yscale(titlegap(2))
+	   
+graph save "graph 101a COVID-19 daily detected infections, $country National reference scenario CI, IHME.gph", replace
+graph export "graph 101a COVID-19 daily detected infections, $country National reference scenario CI, IHME.pdf", replace
+
+
+
+
+
+
 
 
 *****************	
 
-* Calculated daily detected infections, IHME reference scenario = S1 	   
+* Calculated daily detected infections, IHME reference scenario = S1, provinces separate	   
 	   
 levelsof provincestate_mostaffected, local(levels)
 
@@ -3984,19 +4009,108 @@ ytitle(Daily outcomes) title("COVID-19 daily detected infections, $country, `l',
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///	///
 legend(order(1 "Daily cases smooth JOHN" 2 "Daily infections (raw data) IHME" 3 "Calculated daily detected infections IHME" ) rows(2) size(small)) ///
 note("Reference scenario = Current projection;" ///
-"Calculated daily detected infections = Daily infections * Infection detection ratio")
+"Calculated daily detected infections = Daily infections * Infection detection ratio") yscale(titlegap(2))
 	   
-graph save "graph 101 COVID-19 daily detected infections, $country `l' reference scenario CI, IHME.gph", replace
-graph export "graph 101 COVID-19 daily detected infections, $country `l' reference scenario CI, IHME.pdf", replace
+graph save "graph 101b COVID-19 daily detected infections, $country `l' reference scenario CI, IHME.gph", replace
+graph export "graph 101b COVID-19 daily detected infections, $country `l' reference scenario CI, IHME.pdf", replace
 
 }
 *
 
 
 
+
+
+
+
+
 *****************	
 
-* Calculated daily hospitalized infections, IHME reference scenario = S1 	
+* Calculated daily detected infections, IHME reference scenario = S1, provinces together with national 
+	   
+twoway ///
+(line DayINFDetMeSmA02S01XAB date, sort lwidth(medium) lcolor(cyan)) /// 1 "AB" cyan
+(line DayINFDetMeSmA02S01XBC date, sort lwidth(medium) lcolor(blue)) /// 2 "BC" blue
+(line DayINFDetMeSmA02S01XMB date, sort lwidth(medium) lcolor(lime)) /// 3 "MB" lime
+(line DayINFDetMeSmA02S01XNS date, sort lwidth(medium) lcolor(magenta)) /// 4 "NS" magenta
+(line DayINFDetMeSmA02S01XNL date, sort lwidth(medium) lcolor(gray)) /// 5 "NL"
+(line DayINFDetMeSmA02S01XNS date, sort lwidth(medium) lcolor(magenta)) /// 6 "NS" magenta
+(line DayINFDetMeSmA02S01XON date, sort lwidth(medium) lcolor(red)) /// 7 "ON" red
+(line DayINFDetMeSmA02S01XQC date, sort lwidth(medium) lcolor(black)) /// 8 "QC" black
+(line DayINFDetMeSmA02S01XSK date, sort lwidth(medium) lcolor(orange)) /// 9 "SK" orange
+(line DayINFDetMeSmA02S01XXX date, sort lwidth(thick) lcolor(gray)) /// 10 "CAN" 
+if date >= td(01jan2020) ///
+, xtitle(Date) xlabel(#28, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
+ytitle(Daily outcomes) title("COVID-19 daily detected infections, $country, IHME, reference scenario", size(medium)) ///
+xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///	///
+legend(order(1 "AB" 2 "BC" 3 "MB" 5 "NL" 6 "NS" 7 "ON" 8 "QC" 9 "SK" 10 "CAN") rows(2) size(small)) ///
+note("Reference scenario = Current projection;" ///
+"Calculated daily detected infections = Daily infections * Infection detection ratio") yscale(titlegap(2))
+	   
+graph save "graph 101c COVID-19 daily detected infections, $country provinces with national reference scenario CI, IHME.gph", replace
+graph export "graph 101c COVID-19 daily detected infections, $country provinces with national reference scenario CI, IHME.pdf", replace
+
+
+
+
+
+*****************	
+
+* Calculated daily detected infections, IHME reference scenario = S1, provinces together wo national 
+	   
+twoway ///
+(line DayINFDetMeSmA02S01XAB date, sort lwidth(medium) lcolor(cyan)) /// 1 "AB" cyan
+(line DayINFDetMeSmA02S01XBC date, sort lwidth(medium) lcolor(blue)) /// 2 "BC" blue
+(line DayINFDetMeSmA02S01XMB date, sort lwidth(medium) lcolor(lime)) /// 3 "MB" lime
+(line DayINFDetMeSmA02S01XNS date, sort lwidth(medium) lcolor(magenta)) /// 4 "NS" magenta
+(line DayINFDetMeSmA02S01XNL date, sort lwidth(medium) lcolor(gray)) /// 5 "NL"
+(line DayINFDetMeSmA02S01XNS date, sort lwidth(medium) lcolor(magenta)) /// 6 "NS" magenta
+(line DayINFDetMeSmA02S01XON date, sort lwidth(medium) lcolor(red)) /// 7 "ON" red
+(line DayINFDetMeSmA02S01XQC date, sort lwidth(medium) lcolor(black)) /// 8 "QC" black
+(line DayINFDetMeSmA02S01XSK date, sort lwidth(medium) lcolor(orange)) /// 9 "SK" orange
+if date >= td(01jan2020) ///
+, xtitle(Date) xlabel(#28, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
+ytitle(Daily outcomes) title("COVID-19 daily detected infections, $country, IHME, reference scenario", size(medium)) ///
+xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///	///
+legend(order(1 "AB" 2 "BC" 3 "MB" 5 "NL" 6 "NS" 7 "ON" 8 "QC" 9 "SK") rows(2) size(small)) ///
+note("Reference scenario = Current projection;" ///
+"Calculated daily detected infections = Daily infections * Infection detection ratio") yscale(titlegap(2))
+	   
+graph save "graph 101d COVID-19 daily detected infections, $country provinces wo national reference scenario CI, IHME.gph", replace
+graph export "graph 101d COVID-19 daily detected infections, $country provinces wo national reference scenario CI, IHME.pdf", replace
+
+
+
+
+*****************	
+
+* Calculated daily hospitalized infections, IHME reference scenario = S1, National 	
+
+twoway ///	   
+(line DayAdmMeSmA02S01 date, sort lcolor(black)) ///
+(line DayINFHosMeSmA02S01 date, sort lcolor(red)) ///
+if date >= td(01jan2020) & provincestate == " National" ///
+, xtitle(Date) xlabel(#28, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
+ytitle(Daily outcomes) title("COVID-19 daily hospitalized infections, $country, National, IHME, reference scenario", size(medium)) ///
+xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///	///
+legend(order(1 "Daily hospital admissions" 2 "Calculated daily hospitalized infections") size(small)) ///
+note("Reference scenario = Current projection;" ///
+"Calculated daily hospitalized infections = Daily infections * Infection hospitalization ratio") yscale(titlegap(2))
+	   
+graph save "graph 102a COVID-19 daily hospitalized infections, $country National reference scenario CI, IHME.gph", replace
+graph export "graph 102a COVID-19 daily hospitalized infections, $country National reference scenario CI, IHME.pdf", replace
+
+
+
+
+
+
+*****************	
+
+* Calculated daily hospitalized infections, IHME reference scenario = S1, provinces separate
 
 levelsof provincestate_mostaffected, local(levels)
 
@@ -4012,10 +4126,10 @@ ytitle(Daily outcomes) title("COVID-19 daily hospitalized infections, $country, 
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///	///
 legend(order(1 "Daily hospital admissions" 2 "Calculated daily hospitalized infections") size(small)) ///
 note("Reference scenario = Current projection;" ///
-"Calculated daily hospitalized infections = Daily infections * Infection hospitalization ratio")
+"Calculated daily hospitalized infections = Daily infections * Infection hospitalization ratio") yscale(titlegap(2))
 	   
-graph save "graph 102 COVID-19 daily hospitalized infections, $country `l' reference scenario CI, IHME.gph", replace
-graph export "graph 102 COVID-19 daily hospitalized infections, $country `l' reference scenario CI, IHME.pdf", replace
+graph save "graph 102b COVID-19 daily hospitalized infections, $country `l' reference scenario CI, IHME.gph", replace
+graph export "graph 102b COVID-19 daily hospitalized infections, $country `l' reference scenario CI, IHME.pdf", replace
 
 }
 *
@@ -4023,9 +4137,41 @@ graph export "graph 102 COVID-19 daily hospitalized infections, $country `l' ref
 
 
 
+
+
+
+
 *****************	
 
-* Calculated daily fatal infections, IHME reference scenario = S1 	   
+* Calculated daily fatal infections, IHME reference scenario = S1, National   
+
+twoway /// 	   
+(line DayDeaMeSmA00S00 date, sort lcolor(cyan) lwidth(vthick)) /// 1 Daily deaths smooth JOHN
+(line DayDeaMeSmA02S01 date, sort lcolor(black) lwidth(medthick)) /// 2 Daily deaths IHME
+(line DayDeXMeSmA02S01 date, sort lcolor(gold)lwidth(medthick)) /// 3 Daily excess deaths IHME
+(line DayINFFatMeSmA02S01 date, sort lcolor(red)) /// 4 Daily fatal infections IHME 
+if date >= td(01jan2020) & provincestate == " National" ///
+, xtitle(Date) xlabel(#28, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
+ytitle(Daily outcomes) title("COVID-19 daily fatal infections, $country, National, IHME, reference scenario", size(medium)) ///
+xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///	///
+legend(order(1 "Daily deaths smooth JOHN" 2 "Daily deaths IHME" ///
+3 "Daily excess deaths IHME" 4 "Calculated daily fatal infections IHME") rows(2) size(small)) ///
+note("Reference scenario = Current projection;" ///
+"Calculated daily fatal infections = Daily infections * Infection fatality ratio") yscale(titlegap(2))
+	   
+graph save "graph 103a COVID-19 daily fatal infections, $country National reference scenario CI, IHME.gph", replace
+graph export "graph 103a COVID-19 daily fatal infections, $country National reference scenario CI, IHME.pdf", replace
+
+
+
+
+
+
+
+*****************	
+
+* Calculated daily fatal infections, IHME reference scenario = S1, provinces separate
 
 levelsof provincestate_mostaffected, local(levels)
 
@@ -4044,10 +4190,10 @@ xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) lege
 legend(order(1 "Daily deaths smooth JOHN" 2 "Daily deaths IHME" ///
 3 "Daily excess deaths IHME" 4 "Calculated daily fatal infections IHME") rows(2) size(small)) ///
 note("Reference scenario = Current projection;" ///
-"Calculated daily fatal infections = Daily infections * Infection fatality ratio")
+"Calculated daily fatal infections = Daily infections * Infection fatality ratio") yscale(titlegap(2))
 	   
-graph save "graph 103 COVID-19 daily fatal infections, $country `l' reference scenario CI, IHME.gph", replace
-graph export "graph 103 COVID-19 daily fatal infections, $country `l' reference scenario CI, IHME.pdf", replace
+graph save "graph 103b COVID-19 daily fatal infections, $country `l' reference scenario CI, IHME.gph", replace
+graph export "graph 103b COVID-19 daily fatal infections, $country `l' reference scenario CI, IHME.pdf", replace
 
 }
 *
@@ -4058,6 +4204,62 @@ graph export "graph 103 COVID-19 daily fatal infections, $country `l' reference 
 
 
 
+
+*****************	
+
+* Calculated daily fatal infections, IHME reference scenario = S1, provinces together with national    
+
+twoway /// 	   
+(line DayINFFatMeSmA02S01XAB date, sort lwidth(medium) lcolor(cyan)) /// 1 "AB" cyan
+(line DayINFFatMeSmA02S01XBC date, sort lwidth(medium) lcolor(blue)) /// 2 "BC" blue
+(line DayINFFatMeSmA02S01XMB date, sort lwidth(medium) lcolor(lime)) /// 3 "MB" lime
+(line DayINFFatMeSmA02S01XNS date, sort lwidth(medium) lcolor(magenta)) /// 4 "NS" magenta
+(line DayINFFatMeSmA02S01XNL date, sort lwidth(medium) lcolor(gray)) /// 5 "NL"
+(line DayINFFatMeSmA02S01XNS date, sort lwidth(medium) lcolor(magenta)) /// 6 "NS" magenta
+(line DayINFFatMeSmA02S01XON date, sort lwidth(medium) lcolor(red)) /// 7 "ON" red
+(line DayINFFatMeSmA02S01XQC date, sort lwidth(medium) lcolor(black)) /// 8 "QC" black
+(line DayINFFatMeSmA02S01XSK date, sort lwidth(medium) lcolor(orange)) /// 9 "SK" orange
+(line DayINFFatMeSmA02S01XXX date, sort lwidth(thick) lcolor(gray)) /// 10 "CAN" 
+if date >= td(01jan2020) ///
+, xtitle(Date) xlabel(#28, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
+ytitle(Daily outcomes) title("COVID-19 daily fatal infections, $country, IHME, reference scenario", size(medium)) ///
+xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///	///
+legend(order(1 "AB" 2 "BC" 3 "MB" 5 "NL" 6 "NS" 7 "ON" 8 "QC" 9 "SK" 10 "CAN") rows(2) size(small)) ///
+note("Reference scenario = Current projection;" ///
+"Calculated daily fatal infections = Daily infections * Infection fatality ratio") yscale(titlegap(2))
+	   
+graph save "graph 103c COVID-19 daily fatal infections, $country provinces together with national reference scenario CI, IHME.gph", replace
+graph export "graph 103c COVID-19 daily fatal infections, $country provinces together with national reference scenario CI, IHME.pdf", replace
+
+
+
+
+
+
+* Calculated daily fatal infections, IHME reference scenario = S1, provinces together wo national    
+
+twoway /// 	   
+(line DayINFFatMeSmA02S01XAB date, sort lwidth(medium) lcolor(cyan)) /// 1 "AB" cyan
+(line DayINFFatMeSmA02S01XBC date, sort lwidth(medium) lcolor(blue)) /// 2 "BC" blue
+(line DayINFFatMeSmA02S01XMB date, sort lwidth(medium) lcolor(lime)) /// 3 "MB" lime
+(line DayINFFatMeSmA02S01XNS date, sort lwidth(medium) lcolor(magenta)) /// 4 "NS" magenta
+(line DayINFFatMeSmA02S01XNL date, sort lwidth(medium) lcolor(gray)) /// 5 "NL"
+(line DayINFFatMeSmA02S01XNS date, sort lwidth(medium) lcolor(magenta)) /// 6 "NS" magenta
+(line DayINFFatMeSmA02S01XON date, sort lwidth(medium) lcolor(red)) /// 7 "ON" red
+(line DayINFFatMeSmA02S01XQC date, sort lwidth(medium) lcolor(black)) /// 8 "QC" black
+(line DayINFFatMeSmA02S01XSK date, sort lwidth(medium) lcolor(orange)) /// 9 "SK" orange
+if date >= td(01jan2020) ///
+, xtitle(Date) xlabel(#28, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
+ytitle(Daily outcomes) title("COVID-19 daily fatal infections, $country, IHME, reference scenario", size(medium)) ///
+xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///	///
+legend(order(1 "AB" 2 "BC" 3 "MB" 5 "NL" 6 "NS" 7 "ON" 8 "QC" 9 "SK") rows(2) size(small)) ///
+note("Reference scenario = Current projection;" ///
+"Calculated daily fatal infections = Daily infections * Infection fatality ratio") yscale(titlegap(2))
+	   
+graph save "graph 103c COVID-19 daily fatal infections, $country provinces together wo national reference scenario CI, IHME.gph", replace
+graph export "graph 103c COVID-19 daily fatal infections, $country provinces together wo national reference scenario CI, IHME.pdf", replace
 
 
 
