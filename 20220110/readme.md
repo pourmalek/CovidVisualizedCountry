@@ -201,24 +201,27 @@ Daily mobility, IHME, not available for Canada at the national level.
 
 ****
 
-(14) Canada [Daily detected infections, reference scenario, all time, IHME]()
+(14) Canada [Daily detected infections, reference scenario, all time, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220110/output/merge/main/graph%20101a%20COVID-19%20daily%20detected%20infections%2C%20Canada%20National%20reference%20scenario%20CI%2C%20IHME.pdf)
 
 Calculated daily detected infections = Daily infections * Infection detection ratio
 
+![image](https://user-images.githubusercontent.com/30849720/149039827-90495b26-24cc-4504-a0fe-afb187512a69.png)
 
 ****
 
-(15) Canada [Daily hospitalized infections, reference scenario, all time, IHME]()
+(15) Canada [Daily hospitalized infections, reference scenario, all time, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220110/output/merge/main/graph%20102a%20COVID-19%20daily%20hospitalized%20infections%2C%20Canada%20National%20reference%20scenario%20CI%2C%20IHME.pdf)
 
 Calculated daily hospitalized infections = Daily infections * Infection hospitalization ratio
 
+![image](https://user-images.githubusercontent.com/30849720/149039968-de27e7d9-4dcf-46ab-9f7d-b54b63d22e43.png)
 
 ****
 
-(16) Canada [Daily fatal infections, reference scenario, all time, IHME]()
+(16) Canada [Daily fatal infections, reference scenario, all time, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220110/output/merge/main/graph%20103a%20COVID-19%20daily%20fatal%20infections%2C%20Canada%20National%20reference%20scenario%20CI%2C%20IHME.pdf)
 
 Calculated daily fatal infections = Daily infections * Infection fatality ratio
 
+![image](https://user-images.githubusercontent.com/30849720/149040054-766e4ad2-14dd-45fc-8168-cc3fb72c2dd5.png)
 
 ****
 
