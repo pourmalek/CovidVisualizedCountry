@@ -60,23 +60,13 @@
 
 ### Selected graphs - [New Brunswick](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220110/readme.md#selected-graphs---new-brunswick-1)
 
-### Selected graphs - [Newfoundland and Labrador](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220110/readme.md#selected-graphs---newfoundland-and-labrador-1)
-
-### Selected graphs - [Northwest Territories](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220110/readme.md#selected-graphs---northwest-territories-1)
-
 ### Selected graphs - [Nova Scotia](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220110/readme.md#selected-graphs---nova-scotia-1)
 
-### Selected graphs - [Nunavut](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220110/readme.md#selected-graphs---nunavut-1)
-
 ### Selected graphs - [Ontario](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220110/readme.md#selected-graphs---ontario-1)
-
-### Selected graphs - [Prince Edward Island](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220110/readme.md#selected-graphs---prince-edward-island-1)
 
 ### Selected graphs - [Quebec](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220110/readme.md#selected-graphs---quebec-1)
 
 ### Selected graphs - [Saskatchewan](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220110/readme.md#selected-graphs---saskatchewan-1)
-
-### Selected graphs - [Yukon](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220110/readme.md#selected-graphs---yukon-1)
 
 
 
