@@ -5,26 +5,6 @@
 
 
 <br/><br/>
-
-***********************************************************************************************************************************************************
-***********************************************************************************************************************************************************
-
-## The Omicron variant, Farshad Pourmalek's take, 2021-12-15:
-
-## Given all available evidence so far, Omicron will most probably leave more cases, hospitalizations, and even deaths compared to previous waves, due to exponential growth – even with counterfactual scenarios of full lockdowns and highest coverages 3 doses of mRNA vaccines. Percent fatality and hospitalization lower than delta, but absolute numbers, higher. 
-
-## Most politicians and half-politician-half-scientists repeat the same negligent mistakes with every new variant of concern. Refractory to treatment.
-
-Farshad Pourmalek, December 15, 2021 
-
-<br/><br/>
-
-************************************************************************************************************************************************************
-************************************************************************************************************************************************************
-
-
-
-<br/><br/>
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) 
 [![DOI](https://zenodo.org/badge/358416574.svg)](https://zenodo.org/badge/latestdoi/358416574)
 [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/5197/badge)](https://bestpractices.coreinfrastructure.org/projects/5197)
