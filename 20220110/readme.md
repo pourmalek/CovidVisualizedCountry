@@ -8,37 +8,6 @@
 <br/><br/>
 
 
-### Inclusion of the Omicron variant in models, as of 20220110:
-
-
-### Scenarios of IHME model as of update 20211221:
-
-* S01 = Current projection [Status Quo, Reference scenario]         
-* S02 = 80% mask use [Best scenario]                    
-* S03 = High severity of Omicron [Worse scenario]       
-* S04 = Third dose of vaccine [Second best scenario]               
-* S05 = Reduced vaccine hesitancy [Third best scenario] 
-
-<br/><br/>
-
-**IHME** Detected Infections vs. All Infections. "Probably detected infections at the global level will be **_three times_** that previous peak that we saw for delta." Source: [`IHME COVID-19 Model Insights Blog`](https://www.healthdata.org/covid/video/insights-ihmes-latest-covid-19-model-run)
-
-<br/><br/>
-
-
-**IMPE** has included the Omicron variant in their model, as explained here: https://mrc-ide.github.io/global-lmic-reports/News.html
-
-"For certain countries the impact of the Delta variant is now included in the model. Timings for the delta variant are derived from [`CoVariants`](https://github.com/hodcroftlab/covariants). For more information see updates to the model [`parameters and methods`](https://mrc-ide.github.io/global-lmic-reports/parameters.html) page.
-
-
-**DELP** does not readily mentioned inclusion of Omicron in their model. However, their estimated cases show unprecedented increase. 
-
-**SRIV** does not readily mentioned inclusion of Omicron in their model, except, “Caution: Expect unreliable forecasts due to under-reporting around holidays and uncertainty in the prevalence of the Omicron variant.” However, their estimated cases show unprecedented increase. 
-
-<br/><br/>
-
-
-
 
 ****
 
