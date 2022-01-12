@@ -432,8 +432,29 @@ Calculated daily fatal infections = Daily infections * Infection fatality ratio
 
 (15) Alberta [Percent cumulative vaccinated, 2021 on, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220110/output/merge/main/graph%2094b%20COVID-19%20percent%20cumulative%20vaccinated%2C%20Canada%2C%20Alberta.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/149043727-086583fc-aad9-42c1-a760-b50ef185f757.png)
 
 ****
+
+(16) Alberta [Calculated daily detected infections, reference scenario, all time, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220110/output/merge/main/graph%20101b%20COVID-19%20daily%20detected%20infections%2C%20Canada%20Alberta%20reference%20scenario%20CI%2C%20IHME.pdf)
+
+Calculated daily fatal infections = Daily infections * Infection fatality ratio
+
+![image](https://user-images.githubusercontent.com/30849720/149043973-61cf6414-db9c-45b1-b8e8-a69322e8a302.png)
+
+****
+
+(17) Alberta [Calculated daily fatal infections, reference scenario, all time, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220110/output/merge/main/graph%20103b%20COVID-19%20daily%20fatal%20infections%2C%20Canada%20Alberta%20reference%20scenario%20CI%2C%20IHME.pdf)
+
+Calculated daily fatal infections = Daily infections * Infection fatality ratio
+
+![image](https://user-images.githubusercontent.com/30849720/149044155-a3de10fe-2cd8-4205-a4c8-d724bf5df2a0.png)
+
+****
+
+
+
+
 
 
 
