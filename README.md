@@ -31,7 +31,7 @@ Farshad Pourmalek, December 15, 2021
 
 
 ### Combine and visualize international periodically updated estimates of COVID-19 pandemic
-### plus the _PHAC-McMaster model_
+
 
 ### <div align="center"> at the country level, countries with subnational level estimates
 ## <div align="center"> :canada: Canada: national level and provinces
@@ -59,7 +59,7 @@ Farshad Pourmalek, December 15, 2021
   
 #### :eyes: SEE the graphs, code, and data of periodical updates of COVID-19 pandemic models’ estimates: 
   
-#### by models: [Delphi](https://covidanalytics.io/projections), [IHME](https://covid19.healthdata.org/canada?view=daily-deaths&tab=trend), [Imperial college](https://github.com/mrc-ide/global-lmic-reports/tree/master/CAN), [Los Alamos](https://covid-19.bsvgateway.org), and [Srivastava](https://scc-usc.github.io/ReCOVER-COVID-19/#/), plus the [_PHAC-McMaster model_](https://nccid.ca/phac-modelling/)
+#### by models: [Delphi](https://covidanalytics.io/projections), [IHME](https://covid19.healthdata.org/canada?view=daily-deaths&tab=trend), [Imperial college](https://github.com/mrc-ide/global-lmic-reports/tree/master/CAN), [Los Alamos](https://covid-19.bsvgateway.org), and [Srivastava](https://scc-usc.github.io/ReCOVER-COVID-19/#/)
   
 #### for [daily deaths](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/README.md#1-canada-daily-deaths-reference-scenarios-all-time), [daily cases or infections](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/README.md#4-canada-daily-cases-or-infections-reference-scenarios-all-time), [hospitalizations](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/README.md#7-canada-hospital-related-outcomes-all-time)
   
@@ -131,7 +131,6 @@ The codes in these repositories can be adapted for use for any country or region
   
 ### For Canada, the IHME model provides subnational estimates for SEVEN provinces: Alberta, British Columbia, Manitoba, Nova Scotia, Ontario, Quebec, and Saskatchewan. The DELP model provides subnational estimates for NINE provinces, the seven above, and New Brunswick, and Newfoundland and Labrador. 
   
-### The PHAC-McMaster model provides estimates of cases at the national and SIX provinces’ levels (AB, BC, MB, ON, QC, SK).
   
 ### Northwest Territories, Nunavut, Prince Edward Island, and Yukon are not included in any models. Only the reports to WHO are available for them. 
   
@@ -251,8 +250,7 @@ Source: "Forecasters say omicron peak could come this month" 2022-01-03 7:44 a.m
 **LANL**: Los Alamos National Laboratories. COVID-19 pandemic model developed by Los Alamos National Laboratories, Los Alamos
   
 **SRIV**: Srivastava, Ajitesh. COVID-19 pandemic model developed by Ajitesh Srivastava, University of Southern California, Los Angeles
-  
-**PHAC**: [PHAC-McMaster model](https://nccid.ca/phac-modelling/). COVID-19 pandemic model, Public Health Agency of Canada and McMaster University
+
   
   
   
@@ -872,14 +870,7 @@ Farshad Pourmalek, MD PhD
 <br/><br/>
 
   
-**Post-hoc: The _PHAC-McMaster model_** 
 
-The PHAC-McMaster model estimation results were added starting with uptake 20210903 of CovidVisualizedCountry using update 20210903 of the PHAC-McMaster model.
-
-
-Reference: Government of Canada. Mathematical modelling and COVID-19, Canada’s approach. https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/epidemiological-economic-research-data/mathematical-modelling.html Date modified: 2021-09-03. Accessed on 4 September 2021. _AND_ National Collaborating Centre for Infectious Diseases (NCCID), University of Manitoba. PHAC Models on COVID-19. https://nccid.ca/phac-modelling/  No Date. Accessed on 4 September 2021.
-
-See [here]( https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210910/code/PHAC/PHAC-McMaster%20model%2020210903.pdf) for details.
   
 
 <br/><br/>
@@ -1250,27 +1241,6 @@ Scenarios of IHME model before update 20211221:
 * Note: SRIV has 3 sets of scenrios; [see](https://github.com/scc-usc/ReCOVER-COVID-19)
 <br/><br/>
   
-#### A11 PHAC
-  
-- [PHAC-McMaster model](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210910/code/PHAC/PHAC-McMaster%20model%2020210903.pdf) Scenarios for cases by Non-Pharmaceutical Intervention levels: 
-
-* S01 Reference scenario: If we maintain the current levels of transmission.
-
-* S01 Better scenario: If public health measures reduce transmission by 25%.
-
-* S03 Worse scenario: If further reopening increases transmission by 25%.
-
-
-- PHAC-McMaster model Scenarios for cases hospitalized per 100 K population by combinations of Vaccinations and Non-Pharmaceutical Interventions:
-
-* S01 Reference scenario: Updated scenario with current rate of vaccination.
-
-* S02 Better scenario: Updated scenario with increased uptake among ages 18-39 and expedited vaccination rate.
-  <br/><br/>
-
-  
-  <br/><br/>
-
   
 
 
