@@ -594,7 +594,8 @@ Newfoundland and Labrador only predicted in DELP model.
 
 (6) Quebec [Daily cases or infections, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220110/output/merge/main/SUB6%2034bDayCasMERGsub%202021%203scen%20Quebec%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Quebec%2C%203%20scenarios%2C%202021%2C%20uncertainty.pdf)
 
- 
+ ![image](https://user-images.githubusercontent.com/30849720/149049402-d05c31e1-110a-4d27-b118-1cd362c76010.png)
+
 ****
 
 
@@ -612,22 +613,26 @@ Newfoundland and Labrador only predicted in DELP model.
 
 (1) Saskatchewan [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220110/output/merge/main/SUB1%2011bDayDeaMERGsub%20alltime%20Saskatchewan%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Saskatchewan%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
- 
+ ![image](https://user-images.githubusercontent.com/30849720/149049462-17eea700-666b-45c4-89bf-43b2c7163cc1.png)
+
 ****
 
 (3) Saskatchewan [Daily deaths, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220110/output/merge/main/SUB3%2014b1DayDeaMERGsub%202021%203%20scenarios%20Saskatchewan%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Saskatchewan%2C%203%20scenarios%2C%202021.pdf)
 
- 
+ ![image](https://user-images.githubusercontent.com/30849720/149049532-086ca9a4-11c5-4666-8b21-f3e3507cea68.png)
+
 ****
 
 (4) Saskatchewan [Daily cases or infections, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220110/output/merge/main/SUB4%2031bDayCasMERGsub%20alltime%20Saskatchewan%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Saskatchewan%2C%20reference%20scenarios.pdf)
 
- 
+ ![image](https://user-images.githubusercontent.com/30849720/149049598-c96f5219-735f-45d7-8872-931afc5dd080.png)
+
 ****
 
 (6) Saskatchewan [Daily cases or infections, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220110/output/merge/main/SUB6%2034bDayCasMERGsub%202021%203scen%20Saskatchewan%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Saskatchewan%2C%203%20scenarios%2C%202021%2C%20uncertainty.pdf)
 
- 
+ ![image](https://user-images.githubusercontent.com/30849720/149049658-3c1c6b08-a9b5-4660-8e0b-81907f36337b.png)
+
 ****
 
  
