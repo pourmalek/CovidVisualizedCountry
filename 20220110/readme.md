@@ -440,7 +440,7 @@ Calculated daily fatal infections = Daily infections * Infection fatality ratio
 
 Calculated daily fatal infections = Daily infections * Infection fatality ratio
 
-![image](https://user-images.githubusercontent.com/30849720/149043973-61cf6414-db9c-45b1-b8e8-a69322e8a302.png)
+![image](https://user-images.githubusercontent.com/30849720/149044359-a2d16bfb-7d1f-493f-8155-e0998d949a3b.png)
 
 ****
 
