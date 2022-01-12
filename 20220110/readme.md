@@ -451,12 +451,14 @@ New Brunswick only predicted in DELP model.
 
 (1) New Brunswick [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220110/output/merge/main/SUB1b%2011bDayDeaMERGsub%20alltime%20New%20Brunswick%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20New%20Brunswick%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
- 
+ ![image](https://user-images.githubusercontent.com/30849720/149047435-21b5caf7-12fb-45a1-99e5-185b155501be.png)
+
 ****
 
 (2) New Brunswick [Daily cases, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220110/output/merge/main/SUB1b%2011bDayCasMERGsub%20alltime%20New%20Brunswick%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20New%20Brunswick%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
- 
+ ![image](https://user-images.githubusercontent.com/30849720/149047506-1df0bdde-5f28-486e-9539-81b75ac8975d.png)
+
 ****
 
 
