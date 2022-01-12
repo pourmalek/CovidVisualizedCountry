@@ -409,22 +409,26 @@ Calculated daily fatal infections = Daily infections * Infection fatality ratio
 
 (1) Manitoba [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220110/output/merge/main/SUB1%2011bDayDeaMERGsub%20alltime%20Manitoba%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/149047207-8a1b2799-0290-4d3e-9c4a-9595e6df84cf.png)
 
 ****
 
 (3) Manitoba [Daily deaths, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220110/output/merge/main/SUB3%2014b1DayDeaMERGsub%202021%203%20scenarios%20Manitoba%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Manitoba%2C%203%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/149047266-f5b5512c-4e51-4021-a5bf-cf30f221e8f9.png)
 
 ****
 
 (4) Manitoba [Daily cases or infections, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220110/output/merge/main/SUB4%2031bDayCasMERGsub%20alltime%20Manitoba%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios.pdf)
 
- 
+ ![image](https://user-images.githubusercontent.com/30849720/149047319-4cdefa82-4531-42f1-a829-44417eb5b5cb.png)
+
 ****
 
 (6) Manitoba [Daily cases or infections, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220110/output/merge/main/SUB6%2034bDayCasMERGsub%202021%203scen%20Manitoba%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Manitoba%2C%203%20scenarios%2C%202021%2C%20uncertainty.pdf)
 
- 
+ ![image](https://user-images.githubusercontent.com/30849720/149047351-df98368a-13c9-4852-b102-2a67c1068889.png)
+
 ****
 
 
