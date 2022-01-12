@@ -530,27 +530,6 @@ Newfoundland and Labrador only predicted in DELP model.
 
 
 
-****
-****
-
-
-### Selected graphs - Nunavut
-
-Nunavut predicted by none of the models. Reports to WHO available.
-
-****
-
-(1) Nunavut [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220110/output/JOHN/graph%201%20c%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Nunavut%2C%20Johns%20Hopkins.pdf)
-
- 
-****
-
-(2) Nunavut [Daily cases, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220110/output/JOHN/graph%202%20c%20COVID-19%20daily%20cases%2C%20Canada%2C%20Nunavut%2C%20Johns%20Hopkins.pdf)
-
- 
-****
-
-
 
 
 ****
@@ -582,28 +561,6 @@ Nunavut predicted by none of the models. Reports to WHO available.
 
 
 
-
-
-
-****
-****
-
-
-### Selected graphs - Prince Edward Island
-
-Prince Edward Island predicted by none of the models. Reports to WHO available. 
-
-****
-
-(1) Prince Edward Island [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220110/output/JOHN/graph%201%20c%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Prince%20Edward%20Island%2C%20Johns%20Hopkins.pdf)
-
- 
-****
-
-(2) Prince Edward Island [Daily cases, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220110/output/JOHN/graph%202%20c%20COVID-19%20daily%20cases%2C%20Canada%2C%20Prince%20Edward%20Island%2C%20Johns%20Hopkins.pdf)
-
- 
-****
 
 
 
@@ -675,30 +632,6 @@ Prince Edward Island predicted by none of the models. Reports to WHO available.
  
 
 
-
-
-
-
-
-****
-****
-
-
-### Selected graphs - Yukon
-
-Yukon predicted by none of the models. Reports to WHO available.
-
-****
-
-(1) Yukon [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220110/output/JOHN/graph%201%20c%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Yukon%2C%20Johns%20Hopkins.pdf)
-
- 
-****
-
-(2) Yukon [Daily cases, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220110/output/JOHN/graph%202%20c%20COVID-19%20daily%20cases%2C%20Canada%2C%20Yukon%2C%20Johns%20Hopkins.pdf)
-
- 
-****
 
 
 
