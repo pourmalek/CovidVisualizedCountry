@@ -164,12 +164,9 @@ The codes in these repositories can be adapted for use for any country or region
 ### Selected graphs from latest uptake - [New Brunswick](https://github.com/pourmalek/CovidVisualizedCountry#selected-graphs---new-brunswick)
 
 ### Selected graphs from latest uptake - [Newfoundland and Labrador](https://github.com/pourmalek/CovidVisualizedCountry#selected-graphs---newfoundland-and-labrador)
-
-### Selected graphs from latest uptake - [Northwest Territories](https://github.com/pourmalek/CovidVisualizedCountry#selected-graphs---northwest-territories)
   
 ### Selected graphs from latest uptake - [Nova Scotia](https://github.com/pourmalek/CovidVisualizedCountry#selected-graphs---nova-scotia)
   
-### Selected graphs from latest uptake - [Nunavut](https://github.com/pourmalek/CovidVisualizedCountry#selected-graphs---nunavut)
   
 ### Selected graphs from latest uptake - [Ontario](https://github.com/pourmalek/CovidVisualizedCountry#selected-graphs---ontario) 
   
@@ -179,7 +176,6 @@ The codes in these repositories can be adapted for use for any country or region
 
 ### Selected graphs from latest uptake - [Saskatchewan](https://github.com/pourmalek/CovidVisualizedCountry#selected-graphs---saskatchewan)  
   
-### Selected graphs from latest uptake - [Yukon](https://github.com/pourmalek/CovidVisualizedCountry#selected-graphs---yukon)
 
 ****
 
