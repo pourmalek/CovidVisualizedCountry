@@ -1,7 +1,7 @@
 # CovidVisualizedCountry
 
 
-## ! THE MOST RECENT WEEKLY SITUATION REPORT, EVERY MONDAY MORNING, [HERE](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/27%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2027%20-%202022-01-04.pdf). 
+## ! THE MOST RECENT WEEKLY SITUATION REPORT, EVERY MONDAY MORNING, [HERE](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/28%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2028%20-%202022-01-10.pdf). 
 
 
 <br/><br/>
@@ -176,7 +176,7 @@ Source: "Forecasters say omicron peak could come this month" 2022-01-03 7:44 a.m
 ********************************************************************************************************************************************
 
   
-# :eyes: SEE: [Canada COVID-19 epidemic models situation report No 27 - 2022-01-04](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/27%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2027%20-%202022-01-04.pdf)  
+# :eyes: SEE: [Canada COVID-19 epidemic models situation report No 28 - 2022-01-10](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/28%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2028%20-%202022-01-10.pdf)  
   
 ********************************************************************************************************************************************
   
