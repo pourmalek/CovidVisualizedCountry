@@ -16,10 +16,10 @@
 ### <div align="center"> at the country level, countries with subnational level estimates
 ## <div align="center"> :canada: Canada: national level and provinces
   
- ### <div align="center"> [`National`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20CANADA%2C%20national) 
- ### <div align="center"> [`Provinces together`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20CANADA%2C%20provinces)
+ ### <div align="center"> [`National`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20CANADA%2C%20national%202022) 
+ ### <div align="center"> [`Provinces together`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20CANADA%2C%20provinces%202022)
   
- ### <div align="center"> [`Alberta`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20Alberta) [`British Columbia`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20British%20Columbia) [`Manitoba`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20Manitoba) [`New Brunswick`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20New%20Brunswick) [`Newfoundland and Labrador`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20Newfoundland%20and%20Labrador) [`Nova Scotia`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20Nova%20Scotia) [`Ontario`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20Ontario) [`Quebec`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20Quebec) [`Saskatchewan`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20Saskatchewan)
+ ### <div align="center"> [`Alberta`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20Alberta%202022) [`British Columbia`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20British%20Columbia%202022) [`Manitoba`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20Manitoba%202022) [`New Brunswick`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20New%20Brunswick%202022) [`Newfoundland and Labrador`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20Newfoundland%20and%20Labrador%202022) [`Nova Scotia`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20Nova%20Scotia%202022) [`Ontario`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20Ontario%202022) [`Quebec`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20Quebec%202022) [`Saskatchewan`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20Saskatchewan%202022)
   
   
 *****************************
