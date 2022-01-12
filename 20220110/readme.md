@@ -232,43 +232,6 @@ Calculated daily fatal infections = Daily infections * Infection fatality ratio
 
 ****
 
-(4a) Canada provinces [Calculated daily detected infections, provinces with national, reference scenario, all time, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220110/output/merge/main/graph%20101c%20COVID-19%20daily%20detected%20infections%2C%20Canada%20provinces%20with%20national%20reference%20scenario%20CI%2C%20IHME.pdf)
-
-Calculated daily detected infections = Daily infections * Infection detection ratio
-
-
-The "Calculated daily fatal infections" peaks higher for Quebec than for National level Canada. There is either an error in my  "calculation” or else. 
-
-
-![image](https://user-images.githubusercontent.com/30849720/149041367-879be56d-a11b-4e4f-aa31-22b1185f2fac.png)
-
-****
-
-(4b) Canada provinces [Calculated daily detected infections, provinces without national, reference scenario, all time, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220110/output/merge/main/graph%20101d%20COVID-19%20daily%20detected%20infections%2C%20Canada%20provinces%20wo%20national%20reference%20scenario%20CI%2C%20IHME.pdf)
-
-Calculated daily detected infections = Daily infections * Infection detection ratio
-
-![image](https://user-images.githubusercontent.com/30849720/149041448-d9667873-0eee-4a3d-bd55-0eecd97d7dff.png)
-
-****
-
-(4a) Canada provinces [Calculated daily fatal infections, provinces with national, reference scenario, all time, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220110/output/merge/main/graph%20103c%20COVID-19%20daily%20fatal%20infections%2C%20Canada%20provinces%20together%20with%20national%20reference%20scenario%20CI%2C%20IHME.pdf)
-
-Calculated daily fatal infections = Daily infections * Infection fatality ratio
-
-![image](https://user-images.githubusercontent.com/30849720/149041723-2b0dd818-5859-443d-bced-37710606be34.png)
-
-****
-
-(5b) Canada provinces [Calculated daily fatal infections, provinces without national, reference scenario, all time, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220110/output/merge/main/graph%20103c%20COVID-19%20daily%20fatal%20infections%2C%20Canada%20provinces%20together%20wo%20national%20reference%20scenario%20CI%2C%20IHME.pdf)
-
-Calculated daily fatal infections = Daily infections * Infection fatality ratio
-
-![image](https://user-images.githubusercontent.com/30849720/149041854-8e0fccee-87bc-4f4d-8963-bfbba2385049.png)
-
-****
-
-
 
 
 
