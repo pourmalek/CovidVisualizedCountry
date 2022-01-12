@@ -285,8 +285,6 @@
 
 Calculated daily detected infections = Daily infections * Infection detection ratio
 
-The "Calculated daily fatal infections" peaks higher for Quebec than for National level Canada. There is either an error in my  "calculation” or else. 
-
 ![image](https://user-images.githubusercontent.com/30849720/149041367-879be56d-a11b-4e4f-aa31-22b1185f2fac.png)
 
 *
