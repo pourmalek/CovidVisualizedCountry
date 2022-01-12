@@ -266,30 +266,23 @@ Calculated daily fatal infections = Daily infections * Infection fatality ratio
 
 (3a) Canada provinces [Daily infections, reference scenarios, all time, IHME, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220110/output/IHME/graph%2021a1%20C-19%20daily%20infections%2C%20Canada%2C%20subnational%2C%20IHME%2C%20reference%20scenario.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/149040620-0675b03a-fc9a-4526-96ca-7a3d6db11dda.png)
 
 ****
 
 (3b) Canada provinces [Daily infections, reference scenarios, all time, IHME, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220110/output/IHME/graph%2021a2%20C-19%20daily%20infections%2C%20Canada%2C%20subnational%2C%20IHME%2C%20reference%20scenario%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/149040676-9246797f-9a99-475a-8646-bf3c638518f0.png)
 
 ****
 
 (3c) Canada provinces [Daily infections, reference scenarios, all time, IHME, 2022](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220110/output/IHME/graph%2021a3%20C-19%20daily%20infections%2C%20Canada%2C%20subnational%2C%20IHME%2C%20reference%20scenario%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/149040740-536beae9-e547-497b-9036-5d6dc25b8c36.png)
 
 ****
 
-(4) Canada provinces [Daily infections, reference scenarios, all time, PHAC]
 
-PHAC not in this uptake. 
-
-****
-
-(5) Canada provinces [Daily infections, reference scenarios, all time, PHAC, without the national level]
-
-PHAC not in this uptake. 
-
-****
 
 
 
