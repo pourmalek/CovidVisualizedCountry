@@ -21,10 +21,10 @@ di "$country"                                                                   
 global DELPdate 20220114
 *            2/ --------
 
-global IMPEdate 2021-12-26_v9
+global IMPEdate 2022-01-02_v9
 *            3/ -------------
 
-global SRIVdate 2022-01-14
+global SRIVdate 2022-01-13
 *            4/ ----------
 
 
@@ -140,6 +140,8 @@ do "$pathCovidVisualizedCountry/IMPE/do CovidVisualizedCountry IMPE.do"
 // do "$pathCovidVisualizedCountry/LANL/do CovidVisualizedCountry LANL.do" // The LANL COVID-19 Team made its last real-time forecast on September 27th, 2021. [for 20210926]. This is more than two weeks old and will not be used. 
 
 do "$pathCovidVisualizedCountry/SRIV/do CovidVisualizedCountry SRIV.do" 
+
+do "$pathCovidVisualizedCountry/PHAC/do CovidVisualizedCountry PHAC.do" 
 
 do "$pathCovidVisualizedCountry/merge/do CovidVisualizedCountry merge.do" 
 
