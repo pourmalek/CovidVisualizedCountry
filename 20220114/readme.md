@@ -13,7 +13,8 @@ S2 Best [80% mask use]
 S4 Second best [Third dose]               
 S5 Third best [Reduced vaccine hesitancy]
 
-Previous S3 "severe omicron" [Worse] is not available in this update. 
+Previous S3 "severe omicron" [Worse] is not available in this update. The "current projection" or "reference scenario" is functionally the "worse scenario". 
+
 
 
 **SRIV** update 20220114 cannot be downloaded. Issue with https://raw.githubusercontent.com/scc-usc/ReCOVER-COVID-19/master/results/historical_forecasts/$SRIVdate/2022-01-14/
