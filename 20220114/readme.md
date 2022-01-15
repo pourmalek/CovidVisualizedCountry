@@ -90,6 +90,7 @@ https://www.canada.ca/content/dam/phac-aspc/documents/services/diseases-maladies
 
 (4) Canada [Daily cases or infections, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220114/output/merge/main/CAN4%2031aDayCasMERGnat%20alltime%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20National%2C%20reference%20scenarios.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/149641474-10ea74e8-3878-438d-9cb2-14e3de3d798c.png)
 
 ****
 
