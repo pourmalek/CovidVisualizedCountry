@@ -2,7 +2,7 @@
 
 ### Study update dates in uptake 20220114
 
-**_DELP 2022014_**, **_IHME 20220114_**, **_IMPE 20211226_**, **_SRIV 20220113_**, **_PHAC 20220114_**
+**_DELP 2022014_**, **_IHME 20220114_**, **_IMPE 20220109_**, **_SRIV 20220113_**, **_PHAC 20220114_**
 
 SRIV update 20220114 cannot be downloaded. Issue with https://raw.githubusercontent.com/scc-usc/ReCOVER-COVID-19/master/results/historical_forecasts/$SRIVdate/2022-01-14/
 
