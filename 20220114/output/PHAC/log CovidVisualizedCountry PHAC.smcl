@@ -1,0 +1,961 @@
+{smcl}
+{com}{sf}{ul off}{txt}{.-}
+      name:  {res}<unnamed>
+       {txt}log:  {res}/Users/farshadpourmalek/Downloads/CovidVisualizedCountry-main/20220114/code/PHAC/log CovidVisualizedCountry PHAC.smcl
+  {txt}log type:  {res}smcl
+ {txt}opened on:  {res}15 Jan 2022, 09:20:15
+{txt}
+{com}. 
+. ***************************************************************************
+. * This is "do CovidVisualizedCountry PHAC.do"
+. 
+. * Project: Combine and visualize international periodically updating 
+. * estimates of COVID-19 at the country level (CovidVisualizedCountry)
+. * Person: Farshad Pourmalek pourmalek_farshad at yahoo dotcom
+. * Time (initial): 2021-04-14
+. ***************************************************************************
+. 
+. 
+.                                                                                                          ***************************
+. * To change update date, find and replace all, 20220114 (old), with 20220114 (new) <<--           <<<--- * change update date here *
+.                                                                                                          ***************************
+. 
+. 
+.                                                                                                                                                                                                                  
+.                                                                                                                                                                                                                  
+. /*
+> PHAC = PHAC-McMaster model
+> Public Health Agency of Canada. Update on COVID-19 in Canada: Epidemiology and Modelling, January 14, 2022. 
+> https://www.canada.ca/content/dam/phac-aspc/documents/services/diseases-maladies/coronavirus-disease-covid-19/epidemiological-economic-research-data/update-covid-19-canada-epidemiology-modelling-20220114-en.pdf                                                                                                                                                       
+> */                                                                                                                                                                                                               
+.                 
+.                 
+.                 
+. * get digitized estimates from PHAC-McMaster model      
+. 
+. 
+. * Daily cases, national level, page 11; New daily hospital admissions page 12
+.                 
+.                 
+. import excel using "PHAC-McMaster model 20220114 dig.xlsx", clear firstrow sheet("CAN")                 
+{res}{txt}
+{com}.                                                         
+. * day1is20211201 
+. 
+. gen date = td(01dec2021)
+{txt}
+{com}. 
+. replace date = date[_n-1] + 1 in 2/l
+{txt}(76 real changes made)
+
+{com}. 
+. format date %tdDDMonCCYY
+{txt}
+{com}. 
+. 
+. rename casesworsemean DayCasMeSmA11S01
+{res}{txt}
+{com}. label var DayCasMeSmA11S01 "Daily Cases mean PHAC worse scenario"
+{txt}
+{com}. * worse scenario = Without the recent strengthening of public health measures
+. 
+. rename casesbettermean DayCasMeSmA11S02
+{res}{txt}
+{com}. label var DayCasMeSmA11S02 "Daily Cases mean PHAC better scenario"
+{txt}
+{com}. * better scenario = If current public health measures strongly reduce transmission
+. 
+. rename hospitaladmissionsworsemean DayHosMeSmA11S01
+{res}{txt}
+{com}. label var DayHosMeSmA11S01 "New daily hospital admissions PHAC worse scenario"
+{txt}
+{com}. * worse scenario = Assuming hospitalization rate of Omicron is the same as Delta variant
+. 
+. rename hospitaladmissionsbettermean DayHosMeSmA11S02
+{res}{txt}
+{com}. label var DayHosMeSmA11S02 "New daily hospital admissions PHAC better scenario"
+{txt}
+{com}. * better scenario = Assuming hospitalization rate of Omicron is 40% that of Delta variant
+. 
+.                                                 
+. gen provincestate = " National"                                         
+{txt}
+{com}.                                                                                         
+. gen loc_grand_name = "$country" 
+{txt}
+{com}. 
+. sort loc_grand_name provincestate date 
+{txt}
+{com}. 
+. order loc_grand_name provincestate date DayCasMeSmA11S01 DayCasMeSmA11S02 DayHosMeSmA11S01 DayHosMeSmA11S02
+{txt}
+{com}. 
+. keep loc_grand_name provincestate date DayCasMeSmA11S01 DayCasMeSmA11S02 DayHosMeSmA11S01 DayHosMeSmA11S02
+{txt}
+{com}.         
+. 
+. qui compress                                            
+{txt}
+{com}.                                                                                         
+. save "CovidVisualizedCountry PHAC $country.dta", replace                                                                                
+{txt}file CovidVisualizedCountry PHAC Canada.dta saved
+
+{com}.                                 
+.                                 
+.                                 
+.                                 
+.                                                                                         
+. * Daily cases, provinces, page 18; New daily hospital admissions page 19
+. 
+. 
+. * British Columbia
+. 
+. import excel using "PHAC-McMaster model 20220114 dig.xlsx", clear firstrow sheet("BC")                  
+{res}{txt}
+{com}. 
+. * day1is20211201
+.                                 
+. gen date = td(01dec2021)
+{txt}
+{com}. 
+. replace date = date[_n-1] + 1 in 2/l
+{txt}(89 real changes made)
+
+{com}. 
+. format date %tdDDMonCCYY        
+{txt}
+{com}. 
+. 
+. rename casesworsemean DayCasMeSmA11S01
+{res}{txt}
+{com}. label var DayCasMeSmA11S01 "Daily Cases mean PHAC worse scenario"
+{txt}
+{com}. * worse scenario = Without the recent strengthening of public health measures
+. 
+. rename casesbettermean DayCasMeSmA11S02
+{res}{txt}
+{com}. label var DayCasMeSmA11S02 "Daily Cases mean PHAC better scenario"
+{txt}
+{com}. * better scenario = If current public health measures strongly reduce transmission
+. 
+. rename hospitaladmissionsworsemean DayHosMeSmA11S01
+{res}{txt}
+{com}. label var DayHosMeSmA11S01 "New daily hospital admissions PHAC worse scenario"
+{txt}
+{com}. * worse scenario = Assuming hospitalization rate of Omicron is the same as Delta variant
+. 
+. rename hospitaladmissionsbettermean DayHosMeSmA11S02
+{res}{txt}
+{com}. label var DayHosMeSmA11S02 "New daily hospital admissions PHAC better scenario"
+{txt}
+{com}. * better scenario = Assuming hospitalization rate of Omicron is 40% that of Delta variant
+. 
+. 
+. 
+.                                         
+. gen provincestate = "British Columbia"          
+{txt}
+{com}. 
+. gen loc_grand_name = "$country" 
+{txt}
+{com}. 
+. sort loc_grand_name provincestate date 
+{txt}
+{com}. 
+. order loc_grand_name provincestate date DayCasMeSmA11S01 DayCasMeSmA11S02 DayHosMeSmA11S01 DayHosMeSmA11S02
+{txt}
+{com}. 
+. keep loc_grand_name provincestate date DayCasMeSmA11S01 DayCasMeSmA11S02 DayHosMeSmA11S01 DayHosMeSmA11S02
+{txt}
+{com}. 
+. qui compress                                            
+{txt}
+{com}.                                                                                         
+. save "CovidVisualizedCountry PHAC BC.dta", replace      
+{txt}file CovidVisualizedCountry PHAC BC.dta saved
+
+{com}. 
+. 
+. 
+. * Alberta
+. 
+. import excel using "PHAC-McMaster model 20220114 dig.xlsx", clear firstrow sheet("AB")                  
+{res}{txt}
+{com}. 
+. * day1is20211201 
+.                                 
+. gen date = td(01dec2021) 
+{txt}
+{com}. 
+. replace date = date[_n-1] + 1 in 2/l
+{txt}(89 real changes made)
+
+{com}. 
+. format date %tdDDMonCCYY        
+{txt}
+{com}. 
+. 
+. rename casesworsemean DayCasMeSmA11S01
+{res}{txt}
+{com}. label var DayCasMeSmA11S01 "Daily Cases mean PHAC worse scenario"
+{txt}
+{com}. * worse scenario = Without the recent strengthening of public health measures
+. 
+. rename casesbettermean DayCasMeSmA11S02
+{res}{txt}
+{com}. label var DayCasMeSmA11S02 "Daily Cases mean PHAC better scenario"
+{txt}
+{com}. * better scenario = If current public health measures strongly reduce transmission
+. 
+. rename hospitaladmissionsworsemean DayHosMeSmA11S01
+{res}{txt}
+{com}. label var DayHosMeSmA11S01 "New daily hospital admissions PHAC worse scenario"
+{txt}
+{com}. * worse scenario = Assuming hospitalization rate of Omicron is the same as Delta variant
+. 
+. rename hospitaladmissionsbettermean DayHosMeSmA11S02
+{res}{txt}
+{com}. label var DayHosMeSmA11S02 "New daily hospital admissions PHAC better scenario"
+{txt}
+{com}. * better scenario = Assuming hospitalization rate of Omicron is 40% that of Delta variant
+. 
+. 
+.                                         
+. gen provincestate = "Alberta"   
+{txt}
+{com}. 
+. gen loc_grand_name = "$country" 
+{txt}
+{com}. 
+. sort loc_grand_name provincestate date 
+{txt}
+{com}. 
+. order loc_grand_name provincestate date DayCasMeSmA11S01 DayCasMeSmA11S02 DayHosMeSmA11S01 DayHosMeSmA11S02
+{txt}
+{com}. 
+. keep loc_grand_name provincestate date DayCasMeSmA11S01 DayCasMeSmA11S02 DayHosMeSmA11S01 DayHosMeSmA11S02
+{txt}
+{com}. 
+. qui compress                                            
+{txt}
+{com}.                                                                                         
+. save "CovidVisualizedCountry PHAC AB.dta", replace      
+{txt}file CovidVisualizedCountry PHAC AB.dta saved
+
+{com}. 
+. 
+. 
+. * Saskatchewan
+. 
+. import excel using "PHAC-McMaster model 20220114 dig.xlsx", clear firstrow sheet("SK")                  
+{res}{txt}
+{com}. 
+. * day1is20211201 
+.                                 
+. gen date = td(01dec2021) 
+{txt}
+{com}. 
+. replace date = date[_n-1] + 1 in 2/l
+{txt}(89 real changes made)
+
+{com}. 
+. format date %tdDDMonCCYY        
+{txt}
+{com}. 
+. 
+. rename casesworsemean DayCasMeSmA11S01
+{res}{txt}
+{com}. label var DayCasMeSmA11S01 "Daily Cases mean PHAC worse scenario"
+{txt}
+{com}. * worse scenario = Without the recent strengthening of public health measures
+. 
+. rename casesbettermean DayCasMeSmA11S02
+{res}{txt}
+{com}. label var DayCasMeSmA11S02 "Daily Cases mean PHAC better scenario"
+{txt}
+{com}. * better scenario = If current public health measures strongly reduce transmission
+. 
+. rename hospitaladmissionsworsemean DayHosMeSmA11S01
+{res}{txt}
+{com}. label var DayHosMeSmA11S01 "New daily hospital admissions PHAC worse scenario"
+{txt}
+{com}. * worse scenario = Assuming hospitalization rate of Omicron is the same as Delta variant
+. 
+. rename hospitaladmissionsbettermean DayHosMeSmA11S02
+{res}{txt}
+{com}. label var DayHosMeSmA11S02 "New daily hospital admissions PHAC better scenario"
+{txt}
+{com}. * better scenario = Assuming hospitalization rate of Omicron is 40% that of Delta variant
+. 
+.                                         
+. gen provincestate = "Saskatchewan"      
+{txt}
+{com}. 
+. gen loc_grand_name = "$country" 
+{txt}
+{com}. 
+. sort loc_grand_name provincestate date 
+{txt}
+{com}. 
+. order loc_grand_name provincestate date DayCasMeSmA11S01 DayCasMeSmA11S02 DayHosMeSmA11S01 DayHosMeSmA11S02
+{txt}
+{com}. 
+. keep loc_grand_name provincestate date DayCasMeSmA11S01 DayCasMeSmA11S02 DayHosMeSmA11S01 DayHosMeSmA11S02
+{txt}
+{com}. 
+. qui compress                                            
+{txt}
+{com}.                                                                                         
+. save "CovidVisualizedCountry PHAC SK.dta", replace      
+{txt}file CovidVisualizedCountry PHAC SK.dta saved
+
+{com}. 
+. 
+. 
+. 
+. * Manitoba
+. 
+. import excel using "PHAC-McMaster model 20220114 dig.xlsx", clear firstrow sheet("MB")                  
+{res}{txt}
+{com}. 
+. * day1is20211201 
+.                                 
+. gen date = td(01dec2021) 
+{txt}
+{com}. 
+. replace date = date[_n-1] + 1 in 2/l
+{txt}(89 real changes made)
+
+{com}. 
+. format date %tdDDMonCCYY        
+{txt}
+{com}. 
+. 
+. rename casesworsemean DayCasMeSmA11S01
+{res}{txt}
+{com}. label var DayCasMeSmA11S01 "Daily Cases mean PHAC worse scenario"
+{txt}
+{com}. * worse scenario = Without the recent strengthening of public health measures
+. 
+. rename casesbettermean DayCasMeSmA11S02
+{res}{txt}
+{com}. label var DayCasMeSmA11S02 "Daily Cases mean PHAC better scenario"
+{txt}
+{com}. * better scenario = If current public health measures strongly reduce transmission
+. 
+. rename hospitaladmissionsworsemean DayHosMeSmA11S01
+{res}{txt}
+{com}. label var DayHosMeSmA11S01 "New daily hospital admissions PHAC worse scenario"
+{txt}
+{com}. * worse scenario = Assuming hospitalization rate of Omicron is the same as Delta variant
+. 
+. rename hospitaladmissionsbettermean DayHosMeSmA11S02
+{res}{txt}
+{com}. label var DayHosMeSmA11S02 "New daily hospital admissions PHAC better scenario"
+{txt}
+{com}. * better scenario = Assuming hospitalization rate of Omicron is 40% that of Delta variant
+. 
+. 
+. 
+.                                         
+. gen provincestate = "Manitoba"          
+{txt}
+{com}. 
+. gen loc_grand_name = "$country" 
+{txt}
+{com}. 
+. sort loc_grand_name provincestate date 
+{txt}
+{com}. 
+. order loc_grand_name provincestate date DayCasMeSmA11S01 DayCasMeSmA11S02 DayHosMeSmA11S01 DayHosMeSmA11S02
+{txt}
+{com}. 
+. keep loc_grand_name provincestate date DayCasMeSmA11S01 DayCasMeSmA11S02 DayHosMeSmA11S01 DayHosMeSmA11S02
+{txt}
+{com}. 
+. qui compress                                            
+{txt}
+{com}.                                                                                         
+. save "CovidVisualizedCountry PHAC MB.dta", replace      
+{txt}file CovidVisualizedCountry PHAC MB.dta saved
+
+{com}. 
+.                                                         
+.                                                         
+.                                                         
+.                                                         
+. * Ontario
+. 
+. import excel using "PHAC-McMaster model 20220114 dig.xlsx", clear firstrow sheet("ON")                  
+{res}{txt}
+{com}. 
+. * day1is20211201
+.                                 
+. gen date = td(01dec2021)
+{txt}
+{com}. 
+. replace date = date[_n-1] + 1 in 2/l
+{txt}(89 real changes made)
+
+{com}. 
+. format date %tdDDMonCCYY        
+{txt}
+{com}. 
+. 
+. rename casesworsemean DayCasMeSmA11S01
+{res}{txt}
+{com}. label var DayCasMeSmA11S01 "Daily Cases mean PHAC worse scenario"
+{txt}
+{com}. * worse scenario = Without the recent strengthening of public health measures
+. 
+. rename casesbettermean DayCasMeSmA11S02
+{res}{txt}
+{com}. label var DayCasMeSmA11S02 "Daily Cases mean PHAC better scenario"
+{txt}
+{com}. * better scenario = If current public health measures strongly reduce transmission
+. 
+. rename hospitaladmissionsworsemean DayHosMeSmA11S01
+{res}{txt}
+{com}. label var DayHosMeSmA11S01 "New daily hospital admissions PHAC worse scenario"
+{txt}
+{com}. * worse scenario = Assuming hospitalization rate of Omicron is the same as Delta variant
+. 
+. rename hospitaladmissionsbettermean DayHosMeSmA11S02
+{res}{txt}
+{com}. label var DayHosMeSmA11S02 "New daily hospital admissions PHAC better scenario"
+{txt}
+{com}. * better scenario = Assuming hospitalization rate of Omicron is 40% that of Delta variant
+. 
+.                                         
+. gen provincestate = "Ontario"   
+{txt}
+{com}. 
+. gen loc_grand_name = "$country"         
+{txt}
+{com}. 
+. sort loc_grand_name provincestate date 
+{txt}
+{com}. 
+. order loc_grand_name provincestate date DayCasMeSmA11S01 DayCasMeSmA11S02 DayHosMeSmA11S01 DayHosMeSmA11S02
+{txt}
+{com}. 
+. keep loc_grand_name provincestate date DayCasMeSmA11S01 DayCasMeSmA11S02 DayHosMeSmA11S01 DayHosMeSmA11S02
+{txt}
+{com}. 
+. qui compress                                            
+{txt}
+{com}.                                                                                         
+. save "CovidVisualizedCountry PHAC ON.dta", replace      
+{txt}file CovidVisualizedCountry PHAC ON.dta saved
+
+{com}. 
+. 
+. 
+. 
+. * Quebec
+. 
+. import excel using "PHAC-McMaster model 20220114 dig.xlsx", clear firstrow sheet("QC")                  
+{res}{txt}
+{com}. 
+. * day1is20211201 
+.                                 
+. gen date = td(01dec2021) 
+{txt}
+{com}. 
+. replace date = date[_n-1] + 1 in 2/l
+{txt}(89 real changes made)
+
+{com}. 
+. format date %tdDDMonCCYY        
+{txt}
+{com}. 
+. 
+. rename casesworsemean DayCasMeSmA11S01
+{res}{txt}
+{com}. label var DayCasMeSmA11S01 "Daily Cases mean PHAC worse scenario"
+{txt}
+{com}. * worse scenario = Without the recent strengthening of public health measures
+. 
+. rename casesbettermean DayCasMeSmA11S02
+{res}{txt}
+{com}. label var DayCasMeSmA11S02 "Daily Cases mean PHAC better scenario"
+{txt}
+{com}. * better scenario = If current public health measures strongly reduce transmission
+. 
+. rename hospitaladmissionsworsemean DayHosMeSmA11S01
+{res}{txt}
+{com}. label var DayHosMeSmA11S01 "New daily hospital admissions PHAC worse scenario"
+{txt}
+{com}. * worse scenario = Assuming hospitalization rate of Omicron is the same as Delta variant
+. 
+. rename hospitaladmissionsbettermean DayHosMeSmA11S02
+{res}{txt}
+{com}. label var DayHosMeSmA11S02 "New daily hospital admissions PHAC better scenario"
+{txt}
+{com}. * better scenario = Assuming hospitalization rate of Omicron is 40% that of Delta variant
+. 
+.                                         
+. gen provincestate = "Quebec"            
+{txt}
+{com}. 
+. gen loc_grand_name = "$country"         
+{txt}
+{com}. 
+. sort loc_grand_name provincestate date 
+{txt}
+{com}. 
+. order loc_grand_name provincestate date DayCasMeSmA11S01 DayCasMeSmA11S02 DayHosMeSmA11S01 DayHosMeSmA11S02
+{txt}
+{com}. 
+. keep loc_grand_name provincestate date DayCasMeSmA11S01 DayCasMeSmA11S02 DayHosMeSmA11S01 DayHosMeSmA11S02
+{txt}
+{com}. 
+. qui compress                                            
+{txt}
+{com}.                                                                                         
+. save "CovidVisualizedCountry PHAC QC.dta", replace      
+{txt}file CovidVisualizedCountry PHAC QC.dta saved
+
+{com}. 
+. 
+. *
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. * combine
+. 
+. 
+. use "CovidVisualizedCountry PHAC $country.dta", clear
+{txt}
+{com}. 
+. sort loc_grand_name provincestate date
+{txt}
+{com}. 
+. append using "CovidVisualizedCountry PHAC BC.dta"                                                                               
+{txt}{p 0 7 2}
+(note: variable
+provincestate was 
+str9, now str16 to accommodate using data's values)
+{p_end}
+
+{com}. append using "CovidVisualizedCountry PHAC AB.dta"                                                                               
+{txt}
+{com}. append using "CovidVisualizedCountry PHAC SK.dta"                                                                               
+{txt}
+{com}. append using "CovidVisualizedCountry PHAC MB.dta"                                                                               
+{txt}
+{com}. append using "CovidVisualizedCountry PHAC ON.dta"                                                                               
+{txt}
+{com}. append using "CovidVisualizedCountry PHAC QC.dta"       
+{txt}
+{com}.                                                                         
+.                                                                         
+. sort loc_grand_name provincestate date
+{txt}
+{com}. 
+. 
+. 
+. 
+. qui compress
+{txt}
+{com}. 
+. save "CovidVisualizedCountry PHAC.dta", replace
+{txt}file CovidVisualizedCountry PHAC.dta saved
+
+{com}. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+.  
+. 
+. ********************
+.                                                                 
+. * graphs                                                                
+.                                                                 
+.                                                                 
+. grstyle init
+{res}{txt}
+{com}. 
+. grstyle color background white
+{txt}
+{com}. 
+. 
+. use "CovidVisualizedCountry PHAC.dta", clear 
+{txt}
+{com}. 
+. 
+. 
+. 
+. 
+. ****
+. * daily cases, two scenarios, PHAC, National 
+. 
+. twoway ///
+> (line DayCasMeSmA11S02 date, sort lwidth(thick) lcolor(green)) /// "Better scenario"
+> (line DayCasMeSmA11S01 date, sort lwidth(thick) lcolor(red)) /// "Worse scenario"
+> if date >= td(01dec2021) & date <= td(01mar2022) & provincestate == " National" ///
+> , xtitle(Date) xlabel(, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+> xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
+> ytitle(Daily cases) title("COVID-19 daily cases, $country, National, PHAC", size(medium)) /// 
+> xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
+> legend(order(1 "Better" 2 "Worse") size(small) row(1)) ///
+> subtitle("Two scenarios, PHAC-McMaster model", size(small)) ///
+> note("Better scenario = If current public health measures strongly reduce transmission" ///
+> "Worse scenario = Without the recent strengthening of public health measures")
+{res}{txt}
+{com}. 
+. qui graph save "1 National - C19 daily cases, $country, National, PHAC.gph", replace
+{txt}
+{com}. qui graph export "1 National - C19 daily cases, $country, National, PHAC.pdf", replace
+{txt}
+{com}. 
+. 
+. 
+. ****
+. * daily cases, two scenarios, PHAC, Alberta
+. 
+. twoway ///
+> (line DayCasMeSmA11S02 date, sort lwidth(thick) lcolor(green)) /// "Better scenario"
+> (line DayCasMeSmA11S01 date, sort lwidth(thick) lcolor(red)) /// "Worse scenario"
+> if date >= td(01dec2021) & date <= td(01mar2022) & provincestate == "Alberta" ///
+> , xtitle(Date) xlabel(, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+> xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
+> ytitle(Daily cases) title("COVID-19 daily cases, $country, Alberta, PHAC", size(medium)) /// 
+> xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
+> legend(order(1 "Better" 2 "Worse") size(small) row(1)) ///
+> subtitle("Two scenarios, PHAC-McMaster model", size(small)) ///
+> note("Better scenario = If current public health measures strongly reduce transmission" ///
+> "Worse scenario = Without the recent strengthening of public health measures")
+{res}{txt}
+{com}. 
+. qui graph save "1 Alberta - C19 daily cases, $country, PHAC.gph", replace
+{txt}
+{com}. qui graph export "1 Alberta - C19 daily cases, $country, PHAC.pdf", replace
+{txt}
+{com}. 
+. 
+. 
+. ****
+. * daily cases, two scenarios, PHAC, British Columbia
+. 
+. twoway ///
+> (line DayCasMeSmA11S02 date, sort lwidth(thick) lcolor(green)) /// "Better scenario"
+> (line DayCasMeSmA11S01 date, sort lwidth(thick) lcolor(red)) /// "Worse scenario"
+> if date >= td(01dec2021) & date <= td(01mar2022) & provincestate == "British Columbia" ///
+> , xtitle(Date) xlabel(, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+> xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
+> ytitle(Daily cases) title("COVID-19 daily cases, $country, British Columbia, PHAC", size(medium)) /// 
+> xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
+> legend(order(1 "Better" 2 "Worse") size(small) row(1)) ///
+> subtitle("Two scenarios, PHAC-McMaster model", size(small)) ///
+> note("Better scenario = If current public health measures strongly reduce transmission" ///
+> "Worse scenario = Without the recent strengthening of public health measures")
+{res}{txt}
+{com}. 
+. qui graph save "1 British Columbia - C19 daily cases, $country, PHAC.gph", replace
+{txt}
+{com}. qui graph export "1 British Columbia - C19 daily cases, $country, PHAC.pdf", replace
+{txt}
+{com}. 
+. 
+. 
+. ****
+. * daily cases, two scenarios, PHAC, Manitoba
+. 
+. twoway ///
+> (line DayCasMeSmA11S02 date, sort lwidth(thick) lcolor(green)) /// "Better scenario"
+> (line DayCasMeSmA11S01 date, sort lwidth(thick) lcolor(red)) /// "Worse scenario"
+> if date >= td(01dec2021) & date <= td(01mar2022) & provincestate == "Manitoba" ///
+> , xtitle(Date) xlabel(, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+> xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
+> ytitle(Daily cases) title("COVID-19 daily cases, $country, Manitoba, PHAC", size(medium)) /// 
+> xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
+> legend(order(1 "Better" 2 "Worse") size(small) row(1)) ///
+> subtitle("Two scenarios, PHAC-McMaster model", size(small)) ///
+> note("Better scenario = If current public health measures strongly reduce transmission" ///
+> "Worse scenario = Without the recent strengthening of public health measures")
+{res}{txt}
+{com}. 
+. qui graph save "1 Manitoba - C19 daily cases, $country, PHAC.gph", replace
+{txt}
+{com}. qui graph export "1 Manitoba - C19 daily cases, $country, PHAC.pdf", replace
+{txt}
+{com}. 
+. 
+. 
+. 
+. ****
+. * daily cases, two scenarios, PHAC, Ontario
+. 
+. twoway ///
+> (line DayCasMeSmA11S02 date, sort lwidth(thick) lcolor(green)) /// "Better scenario"
+> (line DayCasMeSmA11S01 date, sort lwidth(thick) lcolor(red)) /// "Worse scenario"
+> if date >= td(01dec2021) & date <= td(01mar2022) & provincestate == "Ontario" ///
+> , xtitle(Date) xlabel(, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+> xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
+> ytitle(Daily cases) title("COVID-19 daily cases, $country, Manitoba, PHAC", size(medium)) /// 
+> xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
+> legend(order(1 "Better" 2 "Worse") size(small) row(1)) ///
+> subtitle("Two scenarios, PHAC-McMaster model", size(small)) ///
+> note("Better scenario = If current public health measures strongly reduce transmission" ///
+> "Worse scenario = Without the recent strengthening of public health measures")
+{res}{txt}
+{com}. 
+. qui graph save "1 Ontario - C19 daily cases, $country, PHAC.gph", replace
+{txt}
+{com}. qui graph export "1 Ontario - C19 daily cases, $country, PHAC.pdf", replace
+{txt}
+{com}. 
+. 
+. 
+. ****
+. * daily cases, two scenarios, PHAC, Quebec
+. 
+. twoway ///
+> (line DayCasMeSmA11S02 date, sort lwidth(thick) lcolor(green)) /// "Better scenario"
+> (line DayCasMeSmA11S01 date, sort lwidth(thick) lcolor(red)) /// "Worse scenario"
+> if date >= td(01dec2021) & date <= td(01mar2022) & provincestate == "Quebec" ///
+> , xtitle(Date) xlabel(, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+> xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
+> ytitle(Daily cases) title("COVID-19 daily cases, $country, Manitoba, PHAC", size(medium)) /// 
+> xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
+> legend(order(1 "Better" 2 "Worse") size(small) row(1)) ///
+> subtitle("Two scenarios, PHAC-McMaster model", size(small)) ///
+> note("Better scenario = If current public health measures strongly reduce transmission" ///
+> "Worse scenario = Without the recent strengthening of public health measures")
+{res}{txt}
+{com}. 
+. qui graph save "1 Quebec - C19 daily cases, $country, PHAC.gph", replace
+{txt}
+{com}. qui graph export "1 Quebec - C19 daily cases, $country, PHAC.pdf", replace
+{txt}
+{com}. 
+. 
+. 
+. 
+. ****
+. * daily cases, two scenarios, PHAC, Saskatchewan
+. 
+. twoway ///
+> (line DayCasMeSmA11S02 date, sort lwidth(thick) lcolor(green)) /// "Better scenario"
+> (line DayCasMeSmA11S01 date, sort lwidth(thick) lcolor(red)) /// "Worse scenario"
+> if date >= td(01dec2021) & date <= td(01mar2022) & provincestate == "Saskatchewan" ///
+> , xtitle(Date) xlabel(, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+> xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
+> ytitle(Daily cases) title("COVID-19 daily cases, $country, Manitoba, PHAC", size(medium)) /// 
+> xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
+> legend(order(1 "Better" 2 "Worse") size(small) row(1)) ///
+> subtitle("Two scenarios, PHAC-McMaster model", size(small)) ///
+> note("Better scenario = If current public health measures strongly reduce transmission" ///
+> "Worse scenario = Without the recent strengthening of public health measures")
+{res}{txt}
+{com}. 
+. qui graph save "1 Saskatchewan - C19 daily cases, $country, PHAC.gph", replace
+{txt}
+{com}. qui graph export "1 Saskatchewan - C19 daily cases, $country, PHAC.pdf", replace
+{txt}
+{com}. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. ****
+. * New daily hospital admissions, two scenarios, PHAC, National 
+. 
+. twoway ///
+> (line DayHosMeSmA11S02 date, sort lwidth(thick) lcolor(green)) /// "Better scenario"
+> (line DayHosMeSmA11S01 date, sort lwidth(thick) lcolor(red)) /// "Worse scenario"
+> if date >= td(01dec2021) & date <= td(01mar2022) & provincestate == " National" ///
+> , xtitle(Date) xlabel(, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+> xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
+> ytitle(New daily hospital admissions) title("COVID-19 New daily hospital admissions, $country, National, PHAC", size(medium)) /// 
+> xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
+> legend(order(1 "Better" 2 "Worse") size(small) row(1)) ///
+> subtitle("Two scenarios, PHAC-McMaster model", size(small)) ///
+> note("Better scenario = Assuming hospitalization rate of Omicron is 40% that of Delta variant" ///
+> "Worse scenario = Assuming hospitalization rate of Omicron is the same as Delta variant")
+{res}{txt}
+{com}. 
+. qui graph save "2 National - C19 New daily hospital admissions, $country, National, PHAC.gph", replace
+{txt}
+{com}. qui graph export "2 National - C19 New daily hospital admissions, $country, National, PHAC.pdf", replace
+{txt}
+{com}. 
+. 
+. 
+. ****
+. * New daily hospital admissions, two scenarios, PHAC, Alberta
+. 
+. twoway ///
+> (line DayHosMeSmA11S02 date, sort lwidth(thick) lcolor(green)) /// "Better scenario"
+> (line DayHosMeSmA11S01 date, sort lwidth(thick) lcolor(red)) /// "Worse scenario"
+> if date >= td(01dec2021) & date <= td(01mar2022) & provincestate == "Alberta" ///
+> , xtitle(Date) xlabel(, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+> xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
+> ytitle(New daily hospital admissions) title("COVID-19 New daily hospital admissions, $country, Alberta, PHAC", size(medium)) /// 
+> xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
+> legend(order(1 "Better" 2 "Worse") size(small) row(1)) ///
+> subtitle("Two scenarios, PHAC-McMaster model", size(small)) ///
+> note("Better scenario = Assuming hospitalization rate of Omicron is 40% that of Delta variant" ///
+> "Worse scenario = Assuming hospitalization rate of Omicron is the same as Delta variant")
+{res}{txt}
+{com}. 
+. qui graph save "2 Alberta - C19 New daily hospital admissions, $country, PHAC.gph", replace
+{txt}
+{com}. qui graph export "2 Alberta - C19 New daily hospital admissions, $country, PHAC.pdf", replace
+{txt}
+{com}. 
+. 
+. 
+. ****
+. * New daily hospital admissions, two scenarios, PHAC, British Columbia
+. 
+. twoway ///
+> (line DayHosMeSmA11S02 date, sort lwidth(thick) lcolor(green)) /// "Better scenario"
+> (line DayHosMeSmA11S01 date, sort lwidth(thick) lcolor(red)) /// "Worse scenario"
+> if date >= td(01dec2021) & date <= td(01mar2022) & provincestate == "British Columbia" ///
+> , xtitle(Date) xlabel(, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+> xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
+> ytitle(New daily hospital admissions) title("COVID-19 New daily hospital admissions, $country, British Columbia, PHAC", size(medium)) /// 
+> xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
+> legend(order(1 "Better" 2 "Worse") size(small) row(1)) ///
+> subtitle("Two scenarios, PHAC-McMaster model", size(small)) ///
+> note("Better scenario = Assuming hospitalization rate of Omicron is 40% that of Delta variant" ///
+> "Worse scenario = Assuming hospitalization rate of Omicron is the same as Delta variant")
+{res}{txt}
+{com}. 
+. qui graph save "2 British Columbia - C19 New daily hospital admissions, $country, PHAC.gph", replace
+{txt}
+{com}. qui graph export "2 British Columbia - C19 New daily hospital admissions, $country, PHAC.pdf", replace
+{txt}
+{com}. 
+. 
+. 
+. ****
+. * New daily hospital admissions, two scenarios, PHAC, Manitoba
+. 
+. twoway ///
+> (line DayHosMeSmA11S02 date, sort lwidth(thick) lcolor(green)) /// "Better scenario"
+> (line DayHosMeSmA11S01 date, sort lwidth(thick) lcolor(red)) /// "Worse scenario"
+> if date >= td(01dec2021) & date <= td(01mar2022) & provincestate == "Manitoba" ///
+> , xtitle(Date) xlabel(, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+> xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
+> ytitle(New daily hospital admissions) title("COVID-19 New daily hospital admissions, $country, Manitoba, PHAC", size(medium)) /// 
+> xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
+> legend(order(1 "Better" 2 "Worse") size(small) row(1)) ///
+> subtitle("Two scenarios, PHAC-McMaster model", size(small)) ///
+> note("Better scenario = Assuming hospitalization rate of Omicron is 40% that of Delta variant" ///
+> "Worse scenario = Assuming hospitalization rate of Omicron is the same as Delta variant")
+{res}{txt}
+{com}. 
+. qui graph save "2 Manitoba - C19 New daily hospital admissions, $country, PHAC.gph", replace
+{txt}
+{com}. qui graph export "2 Manitoba - C19 New daily hospital admissions, $country, PHAC.pdf", replace
+{txt}
+{com}. 
+. 
+. 
+. 
+. ****
+. * New daily hospital admissions, two scenarios, PHAC, Ontario
+. 
+. twoway ///
+> (line DayHosMeSmA11S02 date, sort lwidth(thick) lcolor(green)) /// "Better scenario"
+> (line DayHosMeSmA11S01 date, sort lwidth(thick) lcolor(red)) /// "Worse scenario"
+> if date >= td(01dec2021) & date <= td(01mar2022) & provincestate == "Ontario" ///
+> , xtitle(Date) xlabel(, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+> xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
+> ytitle(New daily hospital admissions) title("COVID-19 New daily hospital admissions, $country, Manitoba, PHAC", size(medium)) /// 
+> xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
+> legend(order(1 "Better" 2 "Worse") size(small) row(1)) ///
+> subtitle("Two scenarios, PHAC-McMaster model", size(small)) ///
+> note("Better scenario = Assuming hospitalization rate of Omicron is 40% that of Delta variant" ///
+> "Worse scenario = Assuming hospitalization rate of Omicron is the same as Delta variant")
+{res}{txt}
+{com}. 
+. qui graph save "2 Ontario - C19 New daily hospital admissions, $country, PHAC.gph", replace
+{txt}
+{com}. qui graph export "2 Ontario - C19 New daily hospital admissions, $country, PHAC.pdf", replace
+{txt}
+{com}. 
+. 
+. 
+. ****
+. * New daily hospital admissions, two scenarios, PHAC, Quebec
+. 
+. twoway ///
+> (line DayHosMeSmA11S02 date, sort lwidth(thick) lcolor(green)) /// "Better scenario"
+> (line DayHosMeSmA11S01 date, sort lwidth(thick) lcolor(red)) /// "Worse scenario"
+> if date >= td(01dec2021) & date <= td(01mar2022) & provincestate == "Quebec" ///
+> , xtitle(Date) xlabel(, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+> xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
+> ytitle(New daily hospital admissions) title("COVID-19 New daily hospital admissions, $country, Manitoba, PHAC", size(medium)) /// 
+> xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
+> legend(order(1 "Better" 2 "Worse") size(small) row(1)) ///
+> subtitle("Two scenarios, PHAC-McMaster model", size(small)) ///
+> note("Better scenario = Assuming hospitalization rate of Omicron is 40% that of Delta variant" ///
+> "Worse scenario = Assuming hospitalization rate of Omicron is the same as Delta variant")
+{res}{txt}
+{com}. 
+. qui graph save "2 Quebec - C19 New daily hospital admissions, $country, PHAC.gph", replace
+{txt}
+{com}. qui graph export "2 Quebec - C19 New daily hospital admissions, $country, PHAC.pdf", replace
+{txt}
+{com}. 
+. 
+. 
+. 
+. ****
+. * New daily hospital admissions, two scenarios, PHAC, Saskatchewan
+. 
+. twoway ///
+> (line DayHosMeSmA11S02 date, sort lwidth(thick) lcolor(green)) /// "Better scenario"
+> (line DayHosMeSmA11S01 date, sort lwidth(thick) lcolor(red)) /// "Worse scenario"
+> if date >= td(01dec2021) & date <= td(01mar2022) & provincestate == "Saskatchewan" ///
+> , xtitle(Date) xlabel(, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+> xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
+> ytitle(New daily hospital admissions) title("COVID-19 New daily hospital admissions, $country, Manitoba, PHAC", size(medium)) /// 
+> xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
+> legend(order(1 "Better" 2 "Worse") size(small) row(1)) ///
+> subtitle("Two scenarios, PHAC-McMaster model", size(small)) ///
+> note("Better scenario = Assuming hospitalization rate of Omicron is 40% that of Delta variant" ///
+> "Worse scenario = Assuming hospitalization rate of Omicron is the same as Delta variant")
+{res}{txt}
+{com}. 
+. qui graph save "2 Saskatchewan - C19 New daily hospital admissions, $country, PHAC.gph", replace
+{txt}
+{com}. qui graph export "2 Saskatchewan - C19 New daily hospital admissions, $country, PHAC.pdf", replace
+{txt}
+{com}. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. 
+. view "log CovidVisualizedCountry PHAC.smcl"
+{txt}
+{com}. 
+. log close
+      {txt}name:  {res}<unnamed>
+       {txt}log:  {res}/Users/farshadpourmalek/Downloads/CovidVisualizedCountry-main/20220114/code/PHAC/log CovidVisualizedCountry PHAC.smcl
+  {txt}log type:  {res}smcl
+ {txt}closed on:  {res}15 Jan 2022, 09:20:29
+{txt}{.-}
+{smcl}
+{txt}{sf}{ul off}
