@@ -104,6 +104,7 @@ https://www.canada.ca/content/dam/phac-aspc/documents/services/diseases-maladies
 
 (6b) Canada [Daily estimated infections IHME IMPE to reported cases JOHN, main scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220114/output/merge/main/CAN4%20-%202%20daily%20estimated%20infections%20to%20reported%20cases%2C%20Canada%2C%20National%2C%20reference%20scenarios%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/149642089-596c90f1-fa09-4b97-91c0-29780bfb237c.png)
 
 ****
 
