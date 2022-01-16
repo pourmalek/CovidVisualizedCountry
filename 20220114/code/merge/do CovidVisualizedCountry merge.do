@@ -1015,7 +1015,7 @@ xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, l
 ytitle(Daily deaths) title("COVID-19 daily deaths, $country, National", size(medium)) ///
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
 legend(order(1 "JOHN raw" 2 "JOHN smooth" 3 "IHME" 5 "IMPE") size(small) row(1)) ///
-subtitle("IHME AND IMPE 2 scenarios, after 2021-01-01", size(small)) ///
+subtitle("IHME 2 scenarios AND IMPE 3 scenarios, after 2021-01-01", size(small)) ///
 note("Better and worse scenarios: tight dot (|||||) curves; IHME (Better) and IMPE") 
 
 qui graph save "CAN3 14a1DayDeaMERGnat 2021 2 scenarios - COVID-19 daily deaths, $country, National, 2 scenarios, 2021.gph", replace
@@ -1044,7 +1044,7 @@ xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, l
 ytitle(Daily deaths) title("COVID-19 daily deaths, $country, National", size(medium)) ///
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
 legend(order(1 "JOHN raw" 2 "JOHN smooth" 3 "IHME" 6 "IHME excess" 7 "IMPE") size(small) row(1)) ///
-subtitle("IHME AND IMPE 2 scenarios, after 2021-01-01", size(small)) ///
+subtitle("IHME 2 scenarios AND IMPE 3 scenarios, after 2021-01-01", size(small)) ///
 note("Better and worse scenarios: tight dot (|||||) curves; IHME (Better) and IMPE") 
 
 qui graph save "CAN3 14a2DayDeaMERGnat 2021 2 scenarios - COVID-19 daily deaths, $country, National, 2 scenarios, 2021.gph", replace
@@ -1434,7 +1434,7 @@ qui graph export "18aDayDeaMERGnat 2021 IMPE 3sce CI - COVID-19 daily deaths, $c
 twoway ///
 (line DayCasMeRaA00S00 date, sort lcolor(cyan) lwidth(medium) lpattern(tight_dot)) /// 1 "JOHN raw"
 (line DayCasMeSmA00S00 date, sort lcolor(cyan*1.2) lwidth(thick)) /// 2 "JOHN smooth"
-(line DayCasMeSmA00S02 date, sort lcolor(cyan*1.2)) /// 3 "JOHN smooth by 5"
+(line DayCasMeSmA00S02 date, sort lcolor(cyan*1.2) lpattern(dash)) /// 3 "JOHN smooth by 5"
 (line DayCasMeRaA01S00 date, sort lcolor(red)) /// 4 "DELP"
 (line DayINFMeSmA02S01 date, sort lcolor(black)) /// 5 "IHME"
 (line DayINFMeRaA03S02 date, sort lcolor(magenta)) /// 6 "IMPE"
@@ -1465,7 +1465,7 @@ qui graph export "CAN4 31aDayCasMERGnat alltime - COVID-19 daily cases, $country
 twoway ///
 (line DayCasMeRaA00S00 date, sort lcolor(cyan) lwidth(medium) lpattern(tight_dot)) /// 1 "JOHN raw"
 (line DayCasMeSmA00S00 date, sort lcolor(cyan*1.2) lwidth(thick)) /// 2 "JOHN smooth"
-(line DayCasMeSmA00S02 date, sort lcolor(cyan*1.2)) /// 3 "JOHN smooth by 5"
+(line DayCasMeSmA00S02 date, sort lcolor(cyan*1.2) lpattern(dash)) /// 3 "JOHN smooth by 5"
 (line DayCasMeRaA01S00 date, sort lcolor(red)) /// 4 "DELP"
 (line DayINFMeSmA02S01 date, sort lcolor(black)) /// 5 "IHME"
 (line DayINFMeRaA03S02 date, sort lcolor(magenta)) /// 6 "IMPE"
@@ -1763,7 +1763,7 @@ foreach l of local levels {
 twoway ///
 (line DayCasMeRaA00S00 date, sort lcolor(cyan) lwidth(medium) lpattern(tight_dot)) /// 1 "JOHN raw"
 (line DayCasMeSmA00S00 date, sort lcolor(cyan*1.2) lwidth(thick)) /// 2 "JOHN smooth"
-(line DayCasMeSmA00S02 date, sort lcolor(cyan*1.2)) /// 3 "JOHN smooth by 5"
+(line DayCasMeSmA00S02 date, sort lcolor(cyan*1.2) lpattern(dash)) /// 3 "JOHN smooth by 5"
 (line DayCasMeRaA01S00 date, sort lcolor(red*0.8) lwidth(medium) lpattern(tight_dot)) /// 4 "DELP raw"
 (line DayCasMeSmA01S00 date, sort lcolor(red) lwidth(medthick)) /// 5 "DELP smooth"
 (line DayINFMeSmA02S01 date, sort lcolor(black)) /// 6 "IHME"
@@ -1843,7 +1843,7 @@ qui graph export "SUB1c 11bDayCasMERGsub alltime Newfoundland and Labrador - COV
 twoway ///
 (line DayCasMeRaA00S00 date, sort lcolor(cyan) lwidth(medium) lpattern(tight_dot)) /// 1 "JOHN raw"
 (line DayCasMeSmA00S00 date, sort lcolor(cyan*1.2) lwidth(thick)) /// 2 "JOHN smooth"
-(line DayCasMeSmA00S02 date, sort lcolor(cyan*1.2)) /// 3 "JOHN smooth by 5"
+(line DayCasMeSmA00S02 date, sort lcolor(cyan*1.2) lpattern(dash)) /// 3 "JOHN smooth by 5"
 (line DayCasMeRaA01S00 date, sort lcolor(red)) /// 4 "DELP"
 (line DayINFMeSmA02S01 date, sort lcolor(black)) /// 5 "IHME"
 (line DayINFMeRaA03S02 date, sort lcolor(magenta)) /// 6 "IMPE"
@@ -1879,7 +1879,7 @@ foreach l of local levels {
 twoway ///
 (line DayCasMeRaA00S00 date, sort lcolor(cyan) lwidth(medium) lpattern(tight_dot)) /// 1 "JOHN raw"
 (line DayCasMeSmA00S00 date, sort lcolor(cyan*1.2) lwidth(thick)) /// 2 "JOHN smooth"
-(line DayCasMeSmA00S02 date, sort lcolor(cyan*1.2)) /// 3 "JOHN smooth by 5"
+(line DayCasMeSmA00S02 date, sort lcolor(cyan*1.2) lpattern(dash)) /// 3 "JOHN smooth by 5"
 (line DayCasMeRaA01S00 date, sort lcolor(red)) /// 4 "DELP"
 (line DayINFMeSmA02S01 date, sort lcolor(black)) /// 5 "IHME"
 (line DayCasMeSmA11S02 date, sort lcolor(gold) lwidth(medthick)) /// 6 "PHAC better"
@@ -1913,7 +1913,7 @@ qui graph export "SUB5 32bDayCasMERGsub 2021 `l' - COVID-19 daily cases, $countr
 twoway ///
 (line DayCasMeRaA00S00 date, sort lcolor(cyan) lwidth(medium) lpattern(tight_dot)) /// 1 "JOHN raw"
 (line DayCasMeSmA00S00 date, sort lcolor(cyan*1.2) lwidth(thick)) /// 2 "JOHN smooth"
-(line DayCasMeSmA00S02 date, sort lcolor(cyan*1.2)) /// 3 "JOHN smooth by 5"
+(line DayCasMeSmA00S02 date, sort lcolor(cyan*1.2) lpattern(dash)) /// 3 "JOHN smooth by 5"
 (line DayCasMeRaA01S00 date, sort lcolor(red)) /// 4 DELP mean
 (line DayCasLoRaA01S00 date, sort lcolor(red) lpattern(dash)) /// 5 DELP lower
 (line DayCasUpRaA01S00 date, sort lcolor(red) lpattern(dash)) /// 6 DELP upper
@@ -1958,7 +1958,7 @@ foreach l of local levels {
 twoway ///
 (line DayCasMeRaA00S00 date, sort lcolor(cyan) lwidth(medium) lpattern(tight_dot)) /// 1 "JOHN raw"
 (line DayCasMeSmA00S00 date, sort lcolor(cyan*1.2) lwidth(thick)) /// 2 "JOHN smooth"
-(line DayCasMeSmA00S02 date, sort lcolor(cyan*1.2)) /// 3 "JOHN smooth by 5"
+(line DayCasMeSmA00S02 date, sort lcolor(cyan*1.2) lpattern(dash)) /// 3 "JOHN smooth by 5"
 (line DayCasMeRaA01S00 date, sort lcolor(red)) /// 4 DELP mean
 (line DayCasLoRaA01S00 date, sort lcolor(red) lpattern(dash)) /// 5 DELP lower
 (line DayCasUpRaA01S00 date, sort lcolor(red) lpattern(dash)) /// 6 DELP upper
@@ -1995,7 +1995,7 @@ qui graph export "33bDayCasMERGsub 2021 CI `l' - COVID-19 daily cases, $country,
 twoway ///
 (line DayCasMeRaA00S00 date, sort lcolor(cyan) lwidth(medium) lpattern(tight_dot)) /// 1 "JOHN raw"
 (line DayCasMeSmA00S00 date, sort lcolor(cyan*1.2) lwidth(thick)) /// 2 "JOHN smooth"
-(line DayCasMeSmA00S02 date, sort lcolor(cyan*1.2)) /// 3 "JOHN smooth by 5"
+(line DayCasMeSmA00S02 date, sort lcolor(cyan*1.2) lpattern(dash)) /// 3 "JOHN smooth by 5"
 (line DayINFMeSmA02S01 date, sort lcolor(black)) /// 4 IHME mean, reference scenario
 (line DayINFMeSmA02S02 date, sort lcolor(black) lwidth(thick) lpattern(tight_dot)) /// 5 IHME mean, better scenario
 (line DayINFMeRaA03S02 date, sort lcolor(magenta)) /// 6 IMPE mean, reference scenario
@@ -2022,6 +2022,167 @@ qui graph export "CAN6 34aDayCasMERGnat 2021 3scen - COVID-19 daily cases, $coun
 
 
 
+******
+* 22a1 daily infections, 4 scenarios, all time
+
+levelsof provincestate, local(levels)
+
+foreach l of local levels {
+  
+twoway ///
+(line DayINFMeSmA02S01 date, sort lcolor(black) lwidth(medthick)) ///
+(line DayINFMeSmA02S05 date, sort lcolor(purple)) ///
+(line DayINFMeSmA02S04 date, sort lcolor(cyan) lwidth(vthick) lpattern(tight_dot)) ///
+(line DayINFMeSmA02S02 date, sort lcolor(green)) /// 
+if provincestate == "`l'" & date >= td(01jan2020) ///	   
+, xtitle(Date) xlabel(#28, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
+ytitle(Daily infections) title("C-19 daily infections, $country, `l', IHME, 3 scenarios", size(medium)) ///
+xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
+legend(order(1 "Reference" 2 "3rd Best" 3 "2nd Best" 4 "Best") rows(1)) ///
+note("Reference = Current projection" ///
+"3rd best = Reduced vaccine hesitancy; 2nd Best = Vaccine 3rd dose; Best = 80% mask use")
+
+qui graph save "graph 22a1 C-19 daily infections, $country, `l' 4 scenarios, IHME.gph", replace
+qui graph export "graph 22a1 C-19 daily infections, $country, `l' 4 scenarios, IHME.pdf", replace
+
+}
+*
+
+
+
+******
+* 22a2 daily infections, 3 scenarios, 2021
+
+levelsof provincestate, local(levels)
+
+foreach l of local levels {
+  
+twoway ///
+(line DayINFMeSmA02S01 date, sort lcolor(black) lwidth(medthick)) ///
+(line DayINFMeSmA02S05 date, sort lcolor(purple)) ///
+(line DayINFMeSmA02S04 date, sort lcolor(cyan) lwidth(vthick) lpattern(tight_dot)) ///
+(line DayINFMeSmA02S02 date, sort lcolor(green)) /// 
+if provincestate == "`l'" & date >= td(01jan2021) ///	   
+, xtitle(Date) xlabel(#16, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
+ytitle(Daily infections) title("C-19 daily infections, $country, `l', IHME, 3 scenarios", size(medium)) ///
+xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
+legend(order(1 "Reference" 2 "3rd Best" 3 "2nd Best" 4 "Best") rows(1)) ///
+note("Reference = Current projection" ///
+"3rd best = Reduced vaccine hesitancy; 2nd Best = Vaccine 3rd dose; Best = 80% mask use")
+
+qui graph save "graph 22a2 C-19 daily infections, $country, `l' 3 scenarios, IHME 2021.gph", replace
+qui graph export "graph 22a2 C-19 daily infections, $country, `l' 3 scenarios, IHME 2021.pdf", replace
+
+}
+*
+
+
+
+******
+* 22a3 daily infections, 3 scenarios, 2021, National
+
+twoway ///
+(line DayINFMeSmA02S01 date, sort lcolor(black) lwidth(medthick)) ///
+(line DayINFMeSmA02S05 date, sort lcolor(purple)) ///
+(line DayINFMeSmA02S04 date, sort lcolor(cyan) lwidth(vthick) lpattern(tight_dot)) ///
+(line DayINFMeSmA02S02 date, sort lcolor(green)) /// 
+if provincestate == " National" & date >= td(01jan2022) ///	   
+, xtitle(Date) xlabel(#4, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
+ytitle(Daily infections) title("C-19 daily infections, $country, National, IHME, 3 scenarios", size(medium)) ///
+xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
+legend(order(1 "Reference" 2 "3rd Best" 3 "2nd Best" 4 "Best") rows(1)) ///
+note("Worse = High severity of Omicron; Reference = Current projection" ///
+"3rd best = Reduced vaccine hesitancy; 2nd Best = Vaccine 3rd dose; Best = 80% mask use")
+
+qui graph save "graph 22a3 C-19 daily infections, $country, National 3 scenarios, IHME 2022.gph", replace
+qui graph export "graph 22a3 C-19 daily infections, $country, National 3 scenarios, IHME 2022.pdf", replace
+
+
+
+
+
+
+******
+* 22a1 daily infections, 4 scenarios, all time, National
+
+twoway ///
+(line DayINFMeSmA02S01 date, sort lcolor(black) lwidth(medthick)) ///
+(line DayINFMeSmA02S05 date, sort lcolor(purple)) ///
+(line DayINFMeSmA02S04 date, sort lcolor(cyan) lwidth(vthick) lpattern(tight_dot)) ///
+(line DayINFMeSmA02S02 date, sort lcolor(green)) /// 
+if provincestate == " National" & date >= td(01jan2020) ///	   
+, xtitle(Date) xlabel(#28, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
+ytitle(Daily infections) title("C-19 daily infections, $country, National, IHME, 3 scenarios", size(medium)) ///
+xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
+legend(order(1 "Reference" 2 "3rd Best" 3 "2nd Best" 4 "Best") rows(1)) ///
+note("Reference = Current projection" ///
+"3rd best = Reduced vaccine hesitancy; 2nd Best = Vaccine 3rd dose; Best = 80% mask use")
+
+qui graph save "graph 22a1 C-19 daily infections, $country, National 4 scenarios, IHME.gph", replace
+qui graph export "graph 22a1 C-19 daily infections, $country, National 4 scenarios, IHME.pdf", replace
+
+
+*
+
+
+
+******
+* 22a2 daily infections, 3 scenarios, 2021, National
+
+twoway ///
+(line DayINFMeSmA02S01 date, sort lcolor(black) lwidth(medthick)) ///
+(line DayINFMeSmA02S05 date, sort lcolor(purple)) ///
+(line DayINFMeSmA02S04 date, sort lcolor(cyan) lwidth(vthick) lpattern(tight_dot)) ///
+(line DayINFMeSmA02S02 date, sort lcolor(green)) /// 
+if provincestate == " National" & date >= td(01jan2021) ///	   
+, xtitle(Date) xlabel(#16, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
+ytitle(Daily infections) title("C-19 daily infections, $country, National, IHME, 3 scenarios", size(medium)) ///
+xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
+legend(order(1 "Reference" 2 "3rd Best" 3 "2nd Best" 4 "Best") rows(1)) ///
+note("Reference = Current projection" ///
+"3rd best = Reduced vaccine hesitancy; 2nd Best = Vaccine 3rd dose; Best = 80% mask use")
+
+qui graph save "graph 22a2 C-19 daily infections, $country, National 3 scenarios, IHME 2021.gph", replace
+qui graph export "graph 22a2 C-19 daily infections, $country, National 3 scenarios, IHME 2021.pdf", replace
+
+
+
+
+
+
+******
+* 22a3 daily infections, 3 scenarios, 2021
+
+levelsof provincestate, local(levels)
+
+foreach l of local levels {
+  
+twoway ///
+(line DayINFMeSmA02S01 date, sort lcolor(black) lwidth(medthick)) ///
+(line DayINFMeSmA02S05 date, sort lcolor(purple)) ///
+(line DayINFMeSmA02S04 date, sort lcolor(cyan) lwidth(vthick) lpattern(tight_dot)) ///
+(line DayINFMeSmA02S02 date, sort lcolor(green)) /// 
+if provincestate == "`l'" & date >= td(01jan2022) ///	   
+, xtitle(Date) xlabel(#4, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
+ytitle(Daily infections) title("C-19 daily infections, $country, `l', IHME, 3 scenarios", size(medium)) ///
+xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
+legend(order(1 "Reference" 2 "3rd Best" 3 "2nd Best" 4 "Best") rows(1)) ///
+note("Worse = High severity of Omicron; Reference = Current projection" ///
+"3rd best = Reduced vaccine hesitancy; 2nd Best = Vaccine 3rd dose; Best = 80% mask use")
+
+qui graph save "graph 22a3 C-19 daily infections, $country, `l' 3 scenarios, IHME 2022.gph", replace
+qui graph export "graph 22a3 C-19 daily infections, $country, `l' 3 scenarios, IHME 2022.pdf", replace
+
+}
+*
+
+
 
 
 ****
@@ -2034,7 +2195,7 @@ foreach l of local levels {
 twoway ///
 (line DayCasMeRaA00S00 date, sort lcolor(cyan) lwidth(medium) lpattern(tight_dot)) /// 1 "JOHN raw"
 (line DayCasMeSmA00S00 date, sort lcolor(cyan*1.2) lwidth(thick)) /// 2 "JOHN smooth"
-(line DayCasMeSmA00S02 date, sort lcolor(cyan*1.2)) /// 3 "JOHN smooth by 5"
+(line DayCasMeSmA00S02 date, sort lcolor(cyan*1.2) lpattern(dash)) /// 3 "JOHN smooth by 5"
 (line DayINFMeSmA02S01 date, sort lcolor(black)) /// 4 IHME mean, reference scenario
 (line DayINFMeSmA02S02 date, sort lcolor(green) lwidth(thick) lpattern(tight_dot)) /// 5 IHME mean, better scenario
 (line DayCasMeSmA11S02 date, sort lcolor(gold) lwidth(medthick)) /// 6 "PHAC better"
@@ -2603,26 +2764,23 @@ qui graph export "CAN7 71a1DayHosMERGnat  alltime - COVID-19 hospital-related ou
 * daily hospital-related outcomes, National, with IHME bed capcity
 
 twoway ///
-(line DayHosMeRaA01S00 date, sort lcolor(red) lwidth(thick)) /// 1 DELP Hospitalized (Daily Cases Active Hospitalized Mean DELP S0)
-(line DayVenMeRaA01S00 date, sort lcolor(red) lpattern(dash)  lwidth(thick)) /// 2 DELP Ventilated (Daily Cases Active Ventilated Mean DELP S0)
-(line DayBedMeSmA02S01 date, sort lcolor(black)) /// 3 IHME Bed need (Daily Beds needed Mean IHME S1)
-(line DayIcuMeSmA02S01 date, sort lcolor(green)) /// 4 IHME ICU need (Daily ICU beds needed Mean IHME S1)
-(line DayAdmMeSmA02S01 date, sort lcolor(yellow)) /// 5 IHME Admissions (Daily hospital admissions Mean IHME S1)
-(line DayHodMeRaA03S01 date, sort lcolor(magenta)) /// 6 IMPE Hosp demand (Daily hospital demand Mean A03 S01 )
-(line DayHoiMeRaA03S01 date, sort lcolor(magenta) lpattern(dash)) /// 7 IMPE Hosp incidence (Daily hospital incidence Mean A03 S01 )
-(line DayIcdMeRaA03S01 date, sort lcolor(magenta) lpattern(dash_dot)) /// 8 IMPE ICU demand (Daily ICU demand Mean A03 S01 )
-(line DayIciMeRaA03S01 date, sort lcolor(magenta) lpattern(longdash_shortdash)) /// 9 IMPE ICU incidence (Daily ICU incidence Mean A03 S01 )
-(line DayBEDMeSmA02    date, sort lcolor(black) lpattern(dash)) /// 10 "IHME All bed capcity"
-(line DayICUMeSmA02    date, sort lcolor(cyan) lpattern(dash)) /// 11 "IHME ICU bed capacity"
+(line DayVenMeRaA01S00 date, sort lcolor(red) lpattern(dash)  lwidth(thick)) /// 1 DELP Ventilated (Daily Cases Active Ventilated Mean DELP S0)
+(line DayIcuMeSmA02S01 date, sort lcolor(green)) /// 2 IHME ICU need (Daily ICU beds needed Mean IHME S1)
+(line DayAdmMeSmA02S01 date, sort lcolor(yellow)) /// 3 IHME Admissions (Daily hospital admissions Mean IHME S1)
+(line DayHodMeRaA03S01 date, sort lcolor(magenta)) /// 4 IMPE Hosp demand (Daily hospital demand Mean A03 S01 )
+(line DayHoiMeRaA03S01 date, sort lcolor(magenta) lpattern(dash)) /// 5 IMPE Hosp incidence (Daily hospital incidence Mean A03 S01 )
+(line DayIcdMeRaA03S01 date, sort lcolor(magenta) lpattern(dash_dot)) /// 6 IMPE ICU demand (Daily ICU demand Mean A03 S01 )
+(line DayIciMeRaA03S01 date, sort lcolor(magenta) lpattern(longdash_shortdash)) /// 7 IMPE ICU incidence (Daily ICU incidence Mean A03 S01 )
+(line DayHosMeSmA11S02 date, sort lcolor(gold) lwidth(medthick)) /// 8 PHAC New daily hospital admissions better scenario 
+(line DayHosMeSmA11S01 date, sort lcolor(brown) lwidth(medthick)) /// 9 PHAC New daily hospital admissions worse scenario 
 if date >= td(01jan2020) & provincestate == " National" ///
 , xtitle(Date) xlabel(#$monthspast01jan2020merge, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily outcomes) title("COVID-19 daily hospital-related outcomes $country, National", size(medium)) ///
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
-legend(order(1 "DELP Hospitalized" 2 "DELP Ventilated" 3 "IHME Bed need" 4 "IHME ICU need" ///
-5 "IHME Admissions" 6 "IMPE Hosp demand" ///
-7 "IMPE Hosp incidence" 8 "IMPE ICU demand" 9 "IMPE ICU incidence" ///
-10 "IHME All bed capcity" 11 "IHME ICU bed capacity") rows(5) size(small)) ///
+legend(order(1 "DELP Ventilated" 2 "IHME ICU need" 3 "IHME Admissions" 4 "IMPE Hosp demand" ///
+5 "IMPE Hosp incidence" 6 "IMPE ICU demand" 7 "IMPE ICU incidence" 8 "PHAC New daily hospital admissions better" ///
+9 "PHAC New daily hospital admissions worse") rows(5) size(small)) ///
 subtitle("reference scenarios", size(small))
 
 qui graph save "CAN7 71a2DayHosMERGnat alltime - COVID-19 hospital-related outcomes, $country, National.gph", replace
