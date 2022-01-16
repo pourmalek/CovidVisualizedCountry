@@ -10,9 +10,9 @@
 
 The current scenarios of IHME include:
 
-(S1) Current projection
-(S2) Reduced vaccine hesitancy
-(S3) Third dose
+(S1) Current projection,
+(S2) Reduced vaccine hesitancy,
+(S3) Third dose,
 (S4) 80% mask use
 
 
