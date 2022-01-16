@@ -131,9 +131,9 @@ The codes in these repositories can be adapted for use for any country or region
 ********************************************************************************************************************************************
   
 
-### LATEST UPTAKE: uptake [`20220110`](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220110/readme.md)
+### LATEST UPTAKE: uptake [`20220114`](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220114/readme.md)
 
-**_DELP 20220110_**, **_IHME 20220110_**, IMPE 20211213, **_SRIV 20220110_**
+**_DELP 20220114_**, **_IHME 20220114_**, **_IMPE 20220109_**, **_SRIV 20220113_**, **_PHAC 20220114_**
 
 
 
@@ -1154,7 +1154,7 @@ Scenarios of IHME model as of update 20211221:
 
 * S01 = Current projection [Status Quo, Reference scenario]         
 * S02 = 80% mask use [Best scenario]                    
-* S03 = High severity of Omicron [Worse scenario]       
+* S03 = High severity of Omicron [Worse scenario] (discontinued with update 20220114)       
 * S04 = Third dose of vaccine [Second best scenario]               
 * S05 = Reduced vaccine hesitancy [Third best scenario] 
 
@@ -1203,6 +1203,8 @@ Scenarios of IHME model before update 20211221:
 
 
 
+
+(44) uptake [`20220114`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20220114): **_DELP 20220114_**, **_IHME 20220114_**, **_IMPE 20220109_**, **_SRIV 20220113_**, **_PHAC 20220114_**
   
 (44) uptake [`20220110`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20220110): **_DELP 20220110_**, **_IHME 20220110_**, IMPE 20211213, **_SRIV 20220110_**
   
