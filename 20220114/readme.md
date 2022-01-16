@@ -114,7 +114,7 @@ PHAC = PHAC-McMaster model, update 20220114 Public Health Agency of Canada. Upda
 
 ****
 
-(8) Canada [Hospital-related outcomes, all time, without IHME Bed need and IMPE Hospital demand](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220114/output/merge/main/CAN7%2071a2DayHosMERGnat%20%20alltime%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20National.pdf)
+(8) Canada [Hospital-related outcomes, all time, without DELP Hospitalized DELP, DELP Ventilated, and IHME Bed need](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220114/output/merge/main/CAN7%2071a2DayHosMERGnat%20%20alltime%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20National.pdf)
 
 ![image](https://user-images.githubusercontent.com/30849720/149647457-b16ba2a6-77b0-4453-8dfc-be2bee950325.png)
 
@@ -122,16 +122,19 @@ PHAC = PHAC-McMaster model, update 20220114 Public Health Agency of Canada. Upda
 
 (9) Canada [Daily deaths estimated to reported, reference scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220114/output/merge/main/CAN9%2092aDayDERMERGnat%202021%20-%20COVID-19%20daily%20deaths%20estimated%20to%20reported%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/149647533-ffcf5ad6-df83-46f4-9960-c9909ffc482f.png)
 
 ****
 
 (10) Canada [Daily cases or infections estimated to reported, reference scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220114/output/merge/main/CAN10%2094aDayCERMERGnat%202021%20-%20COVID-19%20daily%20cases%20estimated%20to%20reported%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/149647545-e9aea097-be73-4cca-8094-7676bf9a8e5c.png)
 
 ****
 
-(11) Canada [Daily Infection-outcomes ratios, 3 scenarios, IHME, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220114/output/merge/main/graph%2091a%20COVID-19%20daily%20Infection%20outcomes%20ratios%2C%20Canada%2C%20National%203%20scenarios%2C%20IHME.pdf)
+(11) Canada [Daily Infection-outcomes ratios, 2 scenarios, IHME, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220114/output/merge/main/graph%2091a%20COVID-19%20daily%20Infection%20outcomes%20ratios%2C%20Canada%2C%20National%202%20scenarios%2C%20IHME.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/149647569-f2601c4d-b258-487b-9147-a20207e2921b.png)
 
 ****
 
