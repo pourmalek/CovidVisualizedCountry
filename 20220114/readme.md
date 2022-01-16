@@ -152,6 +152,7 @@ PHAC = PHAC-McMaster model, update 20220114 Public Health Agency of Canada. Upda
 
 (13) Canada [Percent cumulative vaccinated, 2021 on, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220114/output/merge/main/graph%2094a%20COVID-19%20percent%20cumulative%20vaccinated%2C%20Canada%2C%20National.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/149647884-64604bb7-1dd7-4947-87a2-ddef6fb68091.png)
 
 ****
 
