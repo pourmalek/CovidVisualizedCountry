@@ -225,6 +225,41 @@ PHAC = PHAC-McMaster model, update 20220114 Public Health Agency of Canada. Upda
 
 ****
 
+(5a) Canada provinces [Daily Cases mean better scenario, with national, PHAC](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220114/output/PHAC/4a%20provinces%20with%20national%20-%20C19%20Daily%20Cases%20mean%20better%20scenario%2C%20Canada%2C%20PHAC.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/149672671-0fddc5c2-9536-4452-b3a1-d6727138b55b.png)
+
+****
+
+(5b) Canada provinces [Daily Cases mean better scenario, without national, PHAC](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220114/output/PHAC/4b%20provinces%20without%20national%20-%20C19%20Daily%20Cases%20mean%20better%20scenario%2C%20Canada%2C%20PHAC.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/149672701-44bcc12b-ae66-445f-967c-fbaa5742d677.png)
+
+****
+
+(6a) Canada provinces [Daily New hospital admissions mean worse scenario, with national, PHAC](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220114/output/PHAC/5a%20provinces%20with%20national%20-%20C19%20Daily%20New%20daily%20hospital%20admissions%20mean%20worse%20scenario%2C%20Canada%2C%20PHAC.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/149672766-b9385b9c-95cd-4bc8-a40f-f03dae5a4239.png)
+
+****
+
+(6b) Canada provinces [Daily New hospital admissions mean worse scenario, without national, PHAC](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220114/output/PHAC/5b%20provinces%20without%20national%20-%20C19%20Daily%20New%20daily%20hospital%20admissions%20mean%20worse%20scenario%2C%20Canada%2C%20PHAC.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/149672794-97685076-487d-471a-84ad-ffcbd70bb568.png)
+
+****
+
+(7a) Canada provinces [Daily New hospital admissions mean better scenario, with national, PHAC](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220114/output/PHAC/6a%20provinces%20with%20national%20-%20C19%20Daily%20New%20daily%20hospital%20admissions%20mean%20better%20scenario%2C%20Canada%2C%20PHAC.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/149672839-80df6b28-cb0a-4733-b9f4-293a14c3e1bc.png)
+
+****
+
+(7b) Canada provinces [Daily New hospital admissions mean better scenario, without national, PHAC](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220114/output/PHAC/6b%20provinces%20without%20national%20-%20C19%20Daily%20New%20daily%20hospital%20admissions%20mean%20better%20scenario%2C%20Canada%2C%20PHAC.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/149672874-581baf35-e658-45dc-b74a-789ecbbf5815.png)
+
+****
 
 
 
