@@ -125,6 +125,7 @@ https://www.canada.ca/content/dam/phac-aspc/documents/services/diseases-maladies
 
 (7) Canada [Hospital-related outcomes, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220114/output/merge/main/CAN7%2071a1DayHosMERGnat%20%20alltime%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20National.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/149642475-abb0b12a-17f5-4809-a342-6b25e6ec5ace.png)
 
 ****
 
