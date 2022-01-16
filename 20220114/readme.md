@@ -449,6 +449,7 @@ Newfoundland and Labrador only predicted in DELP model.
 
 (4) Ontario [Daily cases or infections, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220114/output/merge/main/SUB4%2031bDayCasMERGsub%20alltime%20Ontario%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/149670207-f4b1558a-af4d-4808-a304-cdf3f8ecd6c3.png)
 
 ****
 
