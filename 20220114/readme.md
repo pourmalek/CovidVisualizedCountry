@@ -78,7 +78,7 @@ PHAC = PHAC-McMaster model, update 20220114 Public Health Agency of Canada. Upda
 
 ****
 
-(6) Canada [Daily cases or infections, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220114/output/merge/main/CAN6%2034aDayCasMERGnat%202021%203scen%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20National%2C%203%20scenarios%2C%202021%2C%20uncertainty.pdf)
+(6) Canada [Daily cases or infections, all scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220114/output/merge/main/CAN6%2034aDayCasMERGnat%202021%203scen%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20National%2C%203%20scenarios%2C%202021%2C%20uncertainty.pdf)
 
 ![image](https://user-images.githubusercontent.com/30849720/149647262-f181817d-2eef-4f8c-b6d7-22659a57f3bd.png)
 
@@ -90,19 +90,19 @@ PHAC = PHAC-McMaster model, update 20220114 Public Health Agency of Canada. Upda
 
 ****
 
-(6c) Canada [Daily estimated infections IHME, 5 scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220114/output/merge/main/graph%2022a1%20C-19%20daily%20infections%2C%20Canada%2C%20%20National%204%20scenarios%2C%20IHME.pdf)
+(6c) Canada [Daily estimated infections IHME, all scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220114/output/merge/main/graph%2022a1%20C-19%20daily%20infections%2C%20Canada%2C%20%20National%204%20scenarios%2C%20IHME.pdf)
 
 ![image](https://user-images.githubusercontent.com/30849720/149647310-04d79d05-4057-4d35-88ee-3a8b9cb81f90.png)
 
 ****
 
-(6d) Canada [Daily estimated infections IHME, 5 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220114/output/merge/main/graph%2022a2%20C-19%20daily%20infections%2C%20Canada%2C%20%20National%203%20scenarios%2C%20IHME%202021.pdf)
+(6d) Canada [Daily estimated infections IHME, all scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220114/output/merge/main/graph%2022a2%20C-19%20daily%20infections%2C%20Canada%2C%20%20National%203%20scenarios%2C%20IHME%202021.pdf)
 
 ![image](https://user-images.githubusercontent.com/30849720/149647353-e46f2442-6810-4e31-bf87-78da7c2e8538.png)
 
 ****
 
-(6e) Canada [Daily estimated infections IHME, 5 scenarios, 2022](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220114/output/merge/main/graph%2022a3%20C-19%20daily%20infections%2C%20Canada%2C%20%20National%203%20scenarios%2C%20IHME%202022.pdf)
+(6e) Canada [Daily estimated infections IHME, all scenarios, 2022](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220114/output/merge/main/graph%2022a3%20C-19%20daily%20infections%2C%20Canada%2C%20%20National%203%20scenarios%2C%20IHME%202022.pdf)
 
 ![image](https://user-images.githubusercontent.com/30849720/149647378-944ec2b8-07b0-4c7f-bc38-7242cf3bcb45.png)
 
@@ -138,7 +138,7 @@ PHAC = PHAC-McMaster model, update 20220114 Public Health Agency of Canada. Upda
 
 ****
 
-(11b) Canada [Daily infection hospitalization & fatality ratios, 3 scenarios, IHME, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220114/output/merge/main/graph%2091a2%20COVID-19%20daily%20Infection%20outcomes%20ratios%2C%20Canada%2C%20National%203%20scenarios%2C%20IHME.pdf)
+(11b) Canada [Daily infection hospitalization & fatality ratios, 2 scenarios, IHME, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220114/output/merge/main/graph%2091a2%20COVID-19%20daily%20Infection%20outcomes%20ratios%2C%20Canada%2C%20National%203%20scenarios%2C%20IHME.pdf)
 
 
 ****
