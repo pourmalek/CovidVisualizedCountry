@@ -235,11 +235,13 @@ PHAC = PHAC-McMaster model, update 20220114 Public Health Agency of Canada. Upda
 
 (1) Alberta [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220114/output/merge/main/SUB1%2011bDayDeaMERGsub%20alltime%20Alberta%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/149669559-e0295482-79b0-4a9c-83ff-17006d2335d9.png)
 
 ****
 
-(3) Alberta [Daily deaths, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220114/output/merge/main/SUB3%2014b1DayDeaMERGsub%202021%203%20scenarios%20Alberta%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Alberta%2C%203%20scenarios%2C%202021.pdf)
+(3) Alberta [Daily deaths, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220114/output/merge/main/SUB3%2014b1DayDeaMERGsub%202021%202%20scenarios%20Alberta%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Alberta%2C%202%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/149669647-518f629a-8735-42c5-8a0a-17bf492cf588.png)
 
 ****
 
@@ -275,8 +277,9 @@ PHAC = PHAC-McMaster model, update 20220114 Public Health Agency of Canada. Upda
 
 ****
 
-(3) British Columbia [Daily deaths, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220114/output/merge/main/SUB3%2014b1DayDeaMERGsub%202021%203%20scenarios%20British%20Columbia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20British%20Columbia%2C%203%20scenarios%2C%202021.pdf)
+(3) British Columbia [Daily deaths, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220114/output/merge/main/SUB3%2014b1DayDeaMERGsub%202021%202%20scenarios%20British%20Columbia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20British%20Columbia%2C%202%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/149669674-ecdf1553-e2c3-4751-8925-fe0a09876e07.png)
 
 ****
 
@@ -308,8 +311,9 @@ PHAC = PHAC-McMaster model, update 20220114 Public Health Agency of Canada. Upda
 
 ****
 
-(3) Manitoba [Daily deaths, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220114/output/merge/main/SUB3%2014b1DayDeaMERGsub%202021%203%20scenarios%20Manitoba%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Manitoba%2C%203%20scenarios%2C%202021.pdf)
+(3) Manitoba [Daily deaths, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220114/output/merge/main/SUB3%2014b1DayDeaMERGsub%202021%202%20scenarios%20Manitoba%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Manitoba%2C%202%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/149669702-9f7161cf-30fc-4fad-952c-35c860ac7375.png)
 
 ****
 
@@ -395,8 +399,9 @@ Newfoundland and Labrador only predicted in DELP model.
 
 ****
 
-(3) Nova Scotia [Daily deaths, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220114/output/merge/main/SUB3%2014b1DayDeaMERGsub%202021%203%20scenarios%20Nova%20Scotia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Nova%20Scotia%2C%203%20scenarios%2C%202021.pdf)
+(3) Nova Scotia [Daily deaths, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220114/output/merge/main/SUB3%2014b1DayDeaMERGsub%202021%202%20scenarios%20Nova%20Scotia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Nova%20Scotia%2C%202%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/149669755-dbd0b26d-5ef5-46cc-a81c-90caa9c16dd5.png)
  
 ****
 
@@ -431,8 +436,9 @@ Newfoundland and Labrador only predicted in DELP model.
 
 ****
 
-(3) Ontario [Daily deaths, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220114/output/merge/main/SUB3%2014b1DayDeaMERGsub%202021%203%20scenarios%20Ontario%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Ontario%2C%203%20scenarios%2C%202021.pdf)
+(3) Ontario [Daily deaths, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220114/output/merge/main/SUB3%2014b1DayDeaMERGsub%202021%202%20scenarios%20Ontario%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Ontario%2C%202%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/149669802-e3309271-ea97-4c47-a6b4-a300b7b750e6.png)
 
 ****
 
@@ -469,8 +475,9 @@ Newfoundland and Labrador only predicted in DELP model.
  
 ****
 
-(3) Quebec [Daily deaths, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220114/output/merge/main/SUB3%2014b1DayDeaMERGsub%202021%203%20scenarios%20Quebec%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Quebec%2C%203%20scenarios%2C%202021.pdf)
+(3) Quebec [Daily deaths, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220114/output/merge/main/SUB3%2014b1DayDeaMERGsub%202021%202%20scenarios%20Quebec%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Quebec%2C%202%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/149669846-1e4294a2-33f2-4191-8c1e-f73495ce3ecb.png)
 
 ****
 
@@ -502,8 +509,9 @@ Newfoundland and Labrador only predicted in DELP model.
 
 ****
 
-(3) Saskatchewan [Daily deaths, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220114/output/merge/main/SUB3%2014b1DayDeaMERGsub%202021%203%20scenarios%20Saskatchewan%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Saskatchewan%2C%203%20scenarios%2C%202021.pdf)
+(3) Saskatchewan [Daily deaths, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220114/output/merge/main/SUB3%2014b1DayDeaMERGsub%202021%202%20scenarios%20Saskatchewan%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Saskatchewan%2C%202%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/149669883-9e7f1111-d922-43a3-baba-be0e5c0e4881.png)
 
 ****
 
