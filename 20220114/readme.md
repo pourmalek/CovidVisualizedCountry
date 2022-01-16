@@ -213,7 +213,17 @@ PHAC = PHAC-McMaster model, update 20220114 Public Health Agency of Canada. Upda
 
 ****
 
+(4a) Canada provinces [Daily Cases mean worse scenario, with national, PHAC](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220114/output/PHAC/3a%20provinces%20with%20national%20-%20C19%20Daily%20Cases%20mean%20worse%20scenario%2C%20Canada%2C%20PHAC.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/149672577-d116376c-75ac-4049-813f-1543fd41eb3d.png)
+
+****
+
+(4b) Canada provinces [Daily Cases mean worse scenario, without national, PHAC](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220114/output/PHAC/3b%20provinces%20without%20national%20-%20C19%20Daily%20Cases%20mean%20worse%20scenario%2C%20Canada%2C%20PHAC.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/149672614-b232c427-1730-4628-be36-b2534b645ff2.png)
+
+****
 
 
 
