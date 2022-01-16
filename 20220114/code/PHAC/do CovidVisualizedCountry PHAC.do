@@ -368,6 +368,7 @@ order loc_grand_name provincestate date DayCasMeSmA11S01 DayCasMeSmA11S02 DayHos
 
 keep loc_grand_name provincestate date DayCasMeSmA11S01 DayCasMeSmA11S02 DayHosMeSmA11S01 DayHosMeSmA11S02
 
+
 qui compress						
 											
 save "CovidVisualizedCountry PHAC QC.dta", replace	
@@ -399,6 +400,62 @@ append using "CovidVisualizedCountry PHAC QC.dta"
 									
 sort loc_grand_name provincestate date
 
+
+
+
+* gen vars by provincestate 
+
+foreach var of varlist ///
+DayCasMeSmA11S01 DayCasMeSmA11S02 DayHosMeSmA11S01 DayHosMeSmA11S02 {
+
+*
+			 
+qui gen `var'XAB = `var' 
+qui replace `var'XAB = . if provincestate != "Alberta"
+
+qui gen `var'XBC = `var'
+qui replace `var'XBC = . if provincestate != "British Columbia"
+
+qui gen `var'XMB = `var'
+qui replace `var'XMB = . if provincestate != "Manitoba"
+
+qui gen `var'XXX = `var'
+qui replace `var'XXX = . if provincestate != " National"
+
+qui gen `var'XNB = `var'
+qui replace `var'XNB = . if provincestate != "New Brunswick"
+
+qui gen `var'XNL = `var'
+qui replace `var'XNL = . if provincestate != "Newfoundland and Labrador"
+
+qui gen `var'XNS = `var'
+qui replace `var'XNS = . if provincestate != "Nova Scotia"
+
+qui gen `var'XON = `var'
+qui replace `var'XON = . if provincestate != "Ontario"
+
+qui gen `var'XQC = `var'
+qui replace `var'XQC = . if provincestate != "Quebec"
+
+qui gen `var'XSK = `var'
+qui replace `var'XSK = . if provincestate != "Saskatchewan"
+
+
+label var `var'XAB "`var' Alberta"
+label var `var'XBC "`var' British Columbia"
+label var `var'XMB "`var' Manitoba"
+label var `var'XXX "`var' National"
+label var `var'XNB "`var' New Brunswick"
+label var `var'XNL "`var' Newfoundland and Labrador"
+label var `var'XNS "`var' Nova Scotia"
+label var `var'XON "`var' Ontario"
+label var `var'XQC "`var' Quebec"
+label var `var'XSK "`var' Saskatchewan"
+
+
+                
+}
+*
 
 
 
@@ -732,6 +789,219 @@ note("Better scenario = Assuming hospitalization rate of Omicron is 40% that of 
 
 qui graph save "2 Saskatchewan - C19 New daily hospital admissions, $country, PHAC.gph", replace
 qui graph export "2 Saskatchewan - C19 New daily hospital admissions, $country, PHAC.pdf", replace
+
+
+
+
+
+
+* Daily Cases mean worse scenario, provinces together, with national
+
+twoway ///
+(line DayCasMeSmA11S01XAB date, sort lwidth(medium) lcolor(cyan)) /// 1 "AB" cyan
+(line DayCasMeSmA11S01XBC date, sort lwidth(medium) lcolor(blue)) /// 2 "BC" blue
+(line DayCasMeSmA11S01XMB date, sort lwidth(medium) lcolor(lime)) /// 3 "MB" lime
+(line DayCasMeSmA11S01XNS date, sort lwidth(medium) lcolor(magenta)) /// 4 "NS" magenta
+(line DayCasMeSmA11S01XNL date, sort lwidth(medium) lcolor(gray)) /// 5 "NL"
+(line DayCasMeSmA11S01XNS date, sort lwidth(medium) lcolor(magenta)) /// 6 "NS" magenta
+(line DayCasMeSmA11S01XON date, sort lwidth(medium) lcolor(red)) /// 7 "ON" red
+(line DayCasMeSmA11S01XQC date, sort lwidth(medium) lcolor(black)) /// 8 "QC" black
+(line DayCasMeSmA11S01XSK date, sort lwidth(medium) lcolor(orange)) /// 9 "SK" orange
+(line DayCasMeSmA11S01XXX date, sort lwidth(thick) lcolor(gray)) /// 10 "CAN" 
+, xtitle(Date) xlabel(, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(forty_five)) ///
+ytitle(Daily cases) title("C-19 Daily Cases mean worse scenario, $country, PHAC", size(medium)) ///
+xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
+legend(order(1 "AB" 2 "BC" 3 "MB" 5 "NL" 6 "NS" 7 "ON" 8 "QC" 9 "SK" 10 "CAN") rows(2) size(small)) ///
+subtitle("Worse scenario: Without the recent strengthening of public health measures", size(small)) 
+
+qui graph save "3a provinces with national - C19 Daily Cases mean worse scenario, $country, PHAC.gph", replace
+qui graph export "3a provinces with national - C19 Daily Cases mean worse scenario, $country, PHAC.pdf", replace
+
+
+
+
+
+* Daily Cases mean worse scenario, provinces together, without national
+
+twoway ///
+(line DayCasMeSmA11S01XAB date, sort lwidth(medium) lcolor(cyan)) /// 1 "AB" cyan
+(line DayCasMeSmA11S01XBC date, sort lwidth(medium) lcolor(blue)) /// 2 "BC" blue
+(line DayCasMeSmA11S01XMB date, sort lwidth(medium) lcolor(lime)) /// 3 "MB" lime
+(line DayCasMeSmA11S01XNS date, sort lwidth(medium) lcolor(magenta)) /// 4 "NS" magenta
+(line DayCasMeSmA11S01XNL date, sort lwidth(medium) lcolor(gray)) /// 5 "NL"
+(line DayCasMeSmA11S01XNS date, sort lwidth(medium) lcolor(magenta)) /// 6 "NS" magenta
+(line DayCasMeSmA11S01XON date, sort lwidth(medium) lcolor(red)) /// 7 "ON" red
+(line DayCasMeSmA11S01XQC date, sort lwidth(medium) lcolor(black)) /// 8 "QC" black
+(line DayCasMeSmA11S01XSK date, sort lwidth(medium) lcolor(orange)) /// 9 "SK" orange
+, xtitle(Date) xlabel(, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(forty_five)) ///
+ytitle(Daily cases) title("C-19 Daily Cases mean worse scenario, $country, PHAC", size(medium)) ///
+xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
+legend(order(1 "AB" 2 "BC" 3 "MB" 5 "NL" 6 "NS" 7 "ON" 8 "QC" 9 "SK") rows(2) size(small)) ///
+subtitle("Worse scenario: Without the recent strengthening of public health measures", size(small)) 
+
+qui graph save "3b provinces without national - C19 Daily Cases mean worse scenario, $country, PHAC.gph", replace
+qui graph export "3b provinces without national - C19 Daily Cases mean worse scenario, $country, PHAC.pdf", replace
+
+
+
+
+
+* Daily Cases mean better scenario, provinces together, with national
+
+twoway ///
+(line DayCasMeSmA11S02XAB date, sort lwidth(medium) lcolor(cyan)) /// 1 "AB" cyan
+(line DayCasMeSmA11S02XBC date, sort lwidth(medium) lcolor(blue)) /// 2 "BC" blue
+(line DayCasMeSmA11S02XMB date, sort lwidth(medium) lcolor(lime)) /// 3 "MB" lime
+(line DayCasMeSmA11S02XNS date, sort lwidth(medium) lcolor(magenta)) /// 4 "NS" magenta
+(line DayCasMeSmA11S02XNL date, sort lwidth(medium) lcolor(gray)) /// 5 "NL"
+(line DayCasMeSmA11S02XNS date, sort lwidth(medium) lcolor(magenta)) /// 6 "NS" magenta
+(line DayCasMeSmA11S02XON date, sort lwidth(medium) lcolor(red)) /// 7 "ON" red
+(line DayCasMeSmA11S02XQC date, sort lwidth(medium) lcolor(black)) /// 8 "QC" black
+(line DayCasMeSmA11S02XSK date, sort lwidth(medium) lcolor(orange)) /// 9 "SK" orange
+(line DayCasMeSmA11S02XXX date, sort lwidth(thick) lcolor(gray)) /// 10 "CAN" 
+, xtitle(Date) xlabel(, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(forty_five)) ///
+ytitle(Daily cases) title("C-19 Daily Cases mean better scenario, $country, PHAC", size(medium)) ///
+xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
+legend(order(1 "AB" 2 "BC" 3 "MB" 5 "NL" 6 "NS" 7 "ON" 8 "QC" 9 "SK" 10 "CAN") rows(2) size(small)) ///
+subtitle("Better scenario: If current public health measures strongly reduce transmission", size(small)) 
+
+qui graph save "4a provinces with national - C19 Daily Cases mean better scenario, $country, PHAC.gph", replace
+qui graph export "4a provinces with national - C19 Daily Cases mean better scenario, $country, PHAC.pdf", replace
+
+
+
+
+
+* Daily Cases mean better scenario, provinces together, without national
+
+twoway ///
+(line DayCasMeSmA11S02XAB date, sort lwidth(medium) lcolor(cyan)) /// 1 "AB" cyan
+(line DayCasMeSmA11S02XBC date, sort lwidth(medium) lcolor(blue)) /// 2 "BC" blue
+(line DayCasMeSmA11S02XMB date, sort lwidth(medium) lcolor(lime)) /// 3 "MB" lime
+(line DayCasMeSmA11S02XNS date, sort lwidth(medium) lcolor(magenta)) /// 4 "NS" magenta
+(line DayCasMeSmA11S02XNL date, sort lwidth(medium) lcolor(gray)) /// 5 "NL"
+(line DayCasMeSmA11S02XNS date, sort lwidth(medium) lcolor(magenta)) /// 6 "NS" magenta
+(line DayCasMeSmA11S02XON date, sort lwidth(medium) lcolor(red)) /// 7 "ON" red
+(line DayCasMeSmA11S02XQC date, sort lwidth(medium) lcolor(black)) /// 8 "QC" black
+(line DayCasMeSmA11S02XSK date, sort lwidth(medium) lcolor(orange)) /// 9 "SK" orange
+, xtitle(Date) xlabel(, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(forty_five)) ///
+ytitle(Daily cases) title("C-19 Daily Cases mean better scenario, $country, PHAC", size(medium)) ///
+xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
+legend(order(1 "AB" 2 "BC" 3 "MB" 5 "NL" 6 "NS" 7 "ON" 8 "QC" 9 "SK") rows(2) size(small)) ///
+subtitle("Better scenario: If current public health measures strongly reduce transmission", size(small)) 
+
+qui graph save "4b provinces without national - C19 Daily Cases mean better scenario, $country, PHAC.gph", replace
+qui graph export "4b provinces without national - C19 Daily Cases mean better scenario, $country, PHAC.pdf", replace
+
+
+
+
+
+* New daily hospital admissions mean worse scenario, provinces together, with national
+
+twoway ///
+(line DayHosMeSmA11S01XAB date, sort lwidth(medium) lcolor(cyan)) /// 1 "AB" cyan
+(line DayHosMeSmA11S01XBC date, sort lwidth(medium) lcolor(blue)) /// 2 "BC" blue
+(line DayHosMeSmA11S01XMB date, sort lwidth(medium) lcolor(lime)) /// 3 "MB" lime
+(line DayHosMeSmA11S01XNS date, sort lwidth(medium) lcolor(magenta)) /// 4 "NS" magenta
+(line DayHosMeSmA11S01XNL date, sort lwidth(medium) lcolor(gray)) /// 5 "NL"
+(line DayHosMeSmA11S01XNS date, sort lwidth(medium) lcolor(magenta)) /// 6 "NS" magenta
+(line DayHosMeSmA11S01XON date, sort lwidth(medium) lcolor(red)) /// 7 "ON" red
+(line DayHosMeSmA11S01XQC date, sort lwidth(medium) lcolor(black)) /// 8 "QC" black
+(line DayHosMeSmA11S01XSK date, sort lwidth(medium) lcolor(orange)) /// 9 "SK" orange
+(line DayHosMeSmA11S01XXX date, sort lwidth(thick) lcolor(gray)) /// 10 "CAN" 
+, xtitle(Date) xlabel(, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(forty_five)) ///
+ytitle(Daily new daily hospital admissions) title("C-19 Daily new hospital admissions mean worse scenario, $country, PHAC", size(medium)) ///
+xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
+legend(order(1 "AB" 2 "BC" 3 "MB" 5 "NL" 6 "NS" 7 "ON" 8 "QC" 9 "SK" 10 "CAN") rows(2) size(small)) ///
+subtitle("Worse scenario: Assuming hospitalization rate of Omicron is the same as Delta variant", size(small)) 
+
+qui graph save "5a provinces with national - C19 Daily New daily hospital admissions mean worse scenario, $country, PHAC.gph", replace
+qui graph export "5a provinces with national - C19 Daily New daily hospital admissions mean worse scenario, $country, PHAC.pdf", replace
+
+
+
+
+
+* New daily hospital admissions mean worse scenario, provinces together, without national
+
+twoway ///
+(line DayHosMeSmA11S01XAB date, sort lwidth(medium) lcolor(cyan)) /// 1 "AB" cyan
+(line DayHosMeSmA11S01XBC date, sort lwidth(medium) lcolor(blue)) /// 2 "BC" blue
+(line DayHosMeSmA11S01XMB date, sort lwidth(medium) lcolor(lime)) /// 3 "MB" lime
+(line DayHosMeSmA11S01XNS date, sort lwidth(medium) lcolor(magenta)) /// 4 "NS" magenta
+(line DayHosMeSmA11S01XNL date, sort lwidth(medium) lcolor(gray)) /// 5 "NL"
+(line DayHosMeSmA11S01XNS date, sort lwidth(medium) lcolor(magenta)) /// 6 "NS" magenta
+(line DayHosMeSmA11S01XON date, sort lwidth(medium) lcolor(red)) /// 7 "ON" red
+(line DayHosMeSmA11S01XQC date, sort lwidth(medium) lcolor(black)) /// 8 "QC" black
+(line DayHosMeSmA11S01XSK date, sort lwidth(medium) lcolor(orange)) /// 9 "SK" orange
+, xtitle(Date) xlabel(, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(forty_five)) ///
+ytitle(Daily new daily hospital admissions) title("C-19 Daily new hospital admissions mean worse scenario, $country, PHAC", size(medium)) ///
+xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
+legend(order(1 "AB" 2 "BC" 3 "MB" 5 "NL" 6 "NS" 7 "ON" 8 "QC" 9 "SK") rows(2) size(small)) ///
+subtitle("Worse scenario: Assuming hospitalization rate of Omicron is the same as Delta variant", size(small)) 
+
+qui graph save "5b provinces without national - C19 Daily New daily hospital admissions mean worse scenario, $country, PHAC.gph", replace
+qui graph export "5b provinces without national - C19 Daily New daily hospital admissions mean worse scenario, $country, PHAC.pdf", replace
+
+
+
+
+
+* New daily hospital admissions mean better scenario, provinces together, with national
+
+twoway ///
+(line DayHosMeSmA11S02XAB date, sort lwidth(medium) lcolor(cyan)) /// 1 "AB" cyan
+(line DayHosMeSmA11S02XBC date, sort lwidth(medium) lcolor(blue)) /// 2 "BC" blue
+(line DayHosMeSmA11S02XMB date, sort lwidth(medium) lcolor(lime)) /// 3 "MB" lime
+(line DayHosMeSmA11S02XNS date, sort lwidth(medium) lcolor(magenta)) /// 4 "NS" magenta
+(line DayHosMeSmA11S02XNL date, sort lwidth(medium) lcolor(gray)) /// 5 "NL"
+(line DayHosMeSmA11S02XNS date, sort lwidth(medium) lcolor(magenta)) /// 6 "NS" magenta
+(line DayHosMeSmA11S02XON date, sort lwidth(medium) lcolor(red)) /// 7 "ON" red
+(line DayHosMeSmA11S02XQC date, sort lwidth(medium) lcolor(black)) /// 8 "QC" black
+(line DayHosMeSmA11S02XSK date, sort lwidth(medium) lcolor(orange)) /// 9 "SK" orange
+(line DayHosMeSmA11S02XXX date, sort lwidth(thick) lcolor(gray)) /// 10 "CAN" 
+, xtitle(Date) xlabel(, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(forty_five)) ///
+ytitle(Daily new daily hospital admissions) title("C-19 Daily new hospital admissions mean better scenario, $country, PHAC", size(medium)) ///
+xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
+legend(order(1 "AB" 2 "BC" 3 "MB" 5 "NL" 6 "NS" 7 "ON" 8 "QC" 9 "SK" 10 "CAN") rows(2) size(small)) ///
+subtitle("Better scenario: Assuming hospitalization rate of Omicron is 40% that of Delta variant", size(small)) 
+
+qui graph save "6a provinces with national - C19 Daily New daily hospital admissions mean better scenario, $country, PHAC.gph", replace
+qui graph export "6a provinces with national - C19 Daily New daily hospital admissions mean better scenario, $country, PHAC.pdf", replace
+
+
+
+
+
+* New daily hospital admissions mean better scenario, provinces together, without national
+
+twoway ///
+(line DayHosMeSmA11S02XAB date, sort lwidth(medium) lcolor(cyan)) /// 1 "AB" cyan
+(line DayHosMeSmA11S02XBC date, sort lwidth(medium) lcolor(blue)) /// 2 "BC" blue
+(line DayHosMeSmA11S02XMB date, sort lwidth(medium) lcolor(lime)) /// 3 "MB" lime
+(line DayHosMeSmA11S02XNS date, sort lwidth(medium) lcolor(magenta)) /// 4 "NS" magenta
+(line DayHosMeSmA11S02XNL date, sort lwidth(medium) lcolor(gray)) /// 5 "NL"
+(line DayHosMeSmA11S02XNS date, sort lwidth(medium) lcolor(magenta)) /// 6 "NS" magenta
+(line DayHosMeSmA11S02XON date, sort lwidth(medium) lcolor(red)) /// 7 "ON" red
+(line DayHosMeSmA11S02XQC date, sort lwidth(medium) lcolor(black)) /// 8 "QC" black
+(line DayHosMeSmA11S02XSK date, sort lwidth(medium) lcolor(orange)) /// 9 "SK" orange
+, xtitle(Date) xlabel(, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(forty_five)) ///
+ytitle(Daily new daily hospital admissions) title("C-19 Daily new hospital admissions mean better scenario, $country, PHAC", size(medium)) ///
+xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
+legend(order(1 "AB" 2 "BC" 3 "MB" 5 "NL" 6 "NS" 7 "ON" 8 "QC" 9 "SK") rows(2) size(small)) ///
+subtitle("Better scenario: Assuming hospitalization rate of Omicron is 40% that of Delta variant", size(small)) 
+
+qui graph save "6b provinces without national - C19 Daily New daily hospital admissions mean better scenario, $country, PHAC.gph", replace
+qui graph export "6b provinces without national - C19 Daily New daily hospital admissions mean better scenario, $country, PHAC.pdf", replace
 
 
 
