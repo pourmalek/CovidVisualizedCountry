@@ -141,6 +141,7 @@ https://www.canada.ca/content/dam/phac-aspc/documents/services/diseases-maladies
 
 (10) Canada [Daily cases or infections estimated to reported, reference scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220114/output/merge/main/CAN10%2094aDayCERMERGnat%202021%20-%20COVID-19%20daily%20cases%20estimated%20to%20reported%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/149643816-0a6980bd-2849-48ce-957a-87c5a2573f92.png)
 
 ****
 
@@ -148,13 +149,15 @@ R effective, IHME, not available for Canada at the national level.
 
 ****
 
-(11) Canada [Daily Infection-outcomes ratios, 3 scenarios, IHME, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220114/output/merge/main/graph%2091a%20COVID-19%20daily%20Infection%20outcomes%20ratios%2C%20Canada%2C%20National%203%20scenarios%2C%20IHME.pdf)
+(11) Canada [Daily Infection-outcomes ratios, 3 scenarios, IHME, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220114/output/merge/main/graph%2091a%20COVID-19%20daily%20Infection%20outcomes%20ratios%2C%20Canada%2C%20National%202%20scenarios%2C%20IHME.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/149643845-75ed9d01-1073-412f-9bd2-8242443ca5a6.png)
 
 ****
 
-(11b) Canada [Daily infection hospitalization & fatality ratios, 3 scenarios, IHME, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220114/output/merge/main/graph%2091a2%20COVID-19%20daily%20Infection%20outcomes%20ratios%2C%20Canada%2C%20National%203%20scenarios%2C%20IHME.pdf)
+(11b) Canada [Daily infection hospitalization & fatality ratios, 3 scenarios, IHME, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220114/output/merge/main/graph%2091a2%20COVID-19%20daily%20Infection%20outcomes%20ratios%2C%20Canada%2C%20National%202%20scenarios%2C%20IHME.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/149643857-57d3d866-61a7-4102-8616-607111315ec9.png)
 
 ****
 
@@ -162,13 +165,15 @@ Daily mobility, IHME, not available for Canada at the national level.
 
 ****
 
-(12) Canada [Daily mask use, 3 scenarios, all time, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220114/output/merge/main/graph%2093a%20COVID-19%20daily%20mask_use%2C%20Canada%2C%20National%2C%203%20scenarios.pdf) 
+(12) Canada [Daily mask use, 2 scenarios, all time, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220114/output/merge/main/graph%2093a%20COVID-19%20daily%20mask_use%2C%20Canada%2C%20National%2C%202%20scenarios.pdf) 
 
+![image](https://user-images.githubusercontent.com/30849720/149643894-c3cdf7e6-2f1e-40a8-a7fb-127c3a5817a3.png)
 
 ****
 
 (13) Canada [Percent cumulative vaccinated, 2021 on, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220114/output/merge/main/graph%2094a%20COVID-19%20percent%20cumulative%20vaccinated%2C%20Canada%2C%20National.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/149643935-2d03c9e8-42e0-45b8-8116-73da95173a04.png)
 
 ****
 
