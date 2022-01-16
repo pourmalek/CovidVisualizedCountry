@@ -84,6 +84,7 @@ https://www.canada.ca/content/dam/phac-aspc/documents/services/diseases-maladies
 
 (3) Canada [Daily deaths, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220114/output/merge/main/CAN3%2014a2DayDeaMERGnat%202021%202%20scenarios%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20National%2C%202%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/149645861-b606b94d-4e20-4513-8ddd-ec2ede72270f.png)
 
 ****
 
