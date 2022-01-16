@@ -489,6 +489,7 @@ Newfoundland and Labrador only predicted in DELP model.
 
 (4) Quebec [Daily cases or infections, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220114/output/merge/main/SUB4%2031bDayCasMERGsub%20alltime%20Quebec%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/149670237-1dceedfd-4c26-4255-bbcb-ff075aa30c8a.png)
  
 ****
 
