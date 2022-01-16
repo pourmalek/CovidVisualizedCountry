@@ -4,9 +4,21 @@
 
 **_DELP 2022014_**, **_IHME 20220114_**, **_IMPE 20220109_**, **_SRIV 20220113_**, **_PHAC 20220114_**
 
-SRIV update 20220114 cannot be downloaded. Issue with https://raw.githubusercontent.com/scc-usc/ReCOVER-COVID-19/master/results/historical_forecasts/$SRIVdate/2022-01-14/
+<br/><br/>
 
-PHAC = PHAC-McMaster model, update 20220114 Public Health Agency of Canada. Update on COVID-19 in Canada: Epidemiology and Modelling, January 14, 2022. https://www.canada.ca/content/dam/phac-aspc/documents/services/diseases-maladies/coronavirus-disease-covid-19/epidemiological-economic-research-data/update-covid-19-canada-epidemiology-modelling-20220114-en.pdf
+**IHME**: The previous [S1] "severe omicron" is not available in IHME update 20220114. The "current projection" or "reference scenario" is functionally the "worse scenario", i.e., the scenario with highest magnitude of estimated deaths and infections. 
+
+The current scenarios of IHME include:
+
+(S1) Current projection
+(S2) Reduced vaccine hesitancy
+(S3) Third dose
+(S4) 80% mask use
+
+
+**SRIV** update 20220114 cannot be downloaded. Issue with https://raw.githubusercontent.com/scc-usc/ReCOVER-COVID-19/master/results/historical_forecasts/$SRIVdate/2022-01-14/
+
+**PHAC** = PHAC-McMaster model, update 20220114 Public Health Agency of Canada. Update on COVID-19 in Canada: Epidemiology and Modelling, January 14, 2022. https://www.canada.ca/content/dam/phac-aspc/documents/services/diseases-maladies/coronavirus-disease-covid-19/epidemiological-economic-research-data/update-covid-19-canada-epidemiology-modelling-20220114-en.pdf
 
 
 <br/><br/>
