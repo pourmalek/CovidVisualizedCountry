@@ -25,12 +25,6 @@ See code [here](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20
 
 
 ****
-
-
-
-### Merged graphs of this uptake [here](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210727/graphs%20merge%2020210727.pdf)
-
-
 ****
 
 ## Selected graphs
