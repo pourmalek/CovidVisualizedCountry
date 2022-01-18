@@ -113,11 +113,6 @@ Source: "Forecasters say omicron peak could come this month" 2022-01-03 7:44 a.m
 ****
 
 
-### Merged graphs of this uptake [here](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220104/graphs%20merge%2020220104.pdf)
-
-
-****
-
 ## Selected graphs
 
 
