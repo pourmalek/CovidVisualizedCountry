@@ -1204,7 +1204,7 @@ Scenarios of IHME model before update 20211221:
 
 
 
-### uptakes in this repository, since April 2021 
+### uptakes in this repository, since June 2021 
 
 
 **_bold italic fonts_** show the uptake was triggered by either IHME or IMPE (before 20211008), or the model updates that are new in this uptake (20211008 and afterwards). 
@@ -1214,6 +1214,16 @@ Scenarios of IHME model before update 20211221:
 (uptake number) uptake date: study update date, study update date
 
 . 
+  
+  
+  
+
+  
+(01) uptake [`20210603`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20210603): DELP 20210603, IHME 20210528, IMPE 20210527, LANL 20210526, SRIV 20210603
+  
+  
+  
+  below is old
   
   
   **_DELP 2022014_**, IHME 20220110, **_IMPE 20211226_**, NO SRIV
