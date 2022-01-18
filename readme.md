@@ -132,7 +132,7 @@ Omicron not only is disrupting health care services, but it also poses an unprec
   <br/><br/>
 
 
-# :eyes: SEE: See the predictions of the GLOBAL and REGIONAL COVID-19 pandemic trajectory, in: [Global COVID-19 epidemic models situation report No 24 – 2022-01-14](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/24%20Global%20and%20regional%20COVID-19%20epidemic%20models%20situation%20report%20No%2024%20–%202022-01-14.pdf)  
+# :eyes: SEE: See Canada COVID-19 epidemic models situation report No 29 - 2022-01-14, here: [https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/29%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2029%20-%202022-01-14.pdf)  
 
   
 ****
