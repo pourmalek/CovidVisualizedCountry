@@ -1220,6 +1220,11 @@ Scenarios of IHME model before update 20211221:
   
   
   
+(17) uptake [`20210730`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20210730): DELP 20210730, **_IHME 20210730_**, IMPE 20210719, LANL 20210725, SRIV 20210730 | [Canada COVID-19 epidemic models situation report No 02 - 2021-08-01](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/02%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2002%20on%2020210801.pdf)
+  
+(16) uptake [`20210727`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20210727): DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727
+  
+(15) uptake [`20210726`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20210726): DELP 20210726, **_IHME 20210723 version 2_**, IMPE 20210709, LANL 20210718, SRIV 20210726
   
 (14) uptake [`20210723`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20210723): DELP 20210723, **_IHME 20210723_**, IMPE 20210709, LANL 20210718, SRIV 20210723
   
