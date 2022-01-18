@@ -16,9 +16,6 @@ This is an Omicron-induced emergency update, including only the official reports
 
 <br/><br/>
 
-### Merged graphs of this uptake [here](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211221/graphs%20merge%2020211221.pdf)
-
-
 ****
 
 ## Selected graphs
