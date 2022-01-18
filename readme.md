@@ -1380,7 +1380,7 @@ Scenarios of IHME model before update 20211221:
   
 [RESULTS Yukon 2021](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20Yukon%202021)
   
-[`RESULTS Yukon 2022`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20Yukon%202022)
+[RESULTS Yukon 2022](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20Yukon%202022)
   
 
   
@@ -1484,7 +1484,7 @@ SOURCE REPOSITORY LICENCE: https://covidcompare.io/about
 <br/><br/>
   
   
-[![DOI](https://zenodo.org/badge/357850528.svg)](https://zenodo.org/badge/latestdoi/357850528)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5019482.svg)](https://doi.org/10.5281/zenodo.5019482)
 
 
 [`DOI`](https://zenodo.org/record/5019030#.YNNftS295O0)  
