@@ -10,11 +10,6 @@ IMPE update 20210702 (2021-07-02_v8.csv.zip) released on 20210709.
 ****
 
 
-### Merged graphs of this uptake [here](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210709/graphs%20merge%2020210709.pdf)
-
-
-****
-
 ## Selected graphs
 
 ### Selected graphs - [Canada](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210709/readme.md#selected-graphs---canada-1)
