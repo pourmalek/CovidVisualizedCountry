@@ -42,9 +42,9 @@
   
 #### :eyes: SEE the graphs, code, and data of periodical updates of COVID-19 pandemic models’ estimates: 
   
-#### of models: [Delphi](https://covidanalytics.io/projections), [IHME](https://covid19.healthdata.org/canada?view=daily-deaths&tab=trend), [Imperial college](https://github.com/mrc-ide/global-lmic-reports/blob/master/CAN/2021-06-18/index.pdf), [Los Alamos](https://covid-19.bsvgateway.org), and [Srivastava](https://scc-usc.github.io/ReCOVER-COVID-19/#/), 
+#### of models: [Delphi](https://covidanalytics.io/projections), [IHME](https://covid19.healthdata.org/canada?view=daily-deaths&tab=trend), [Imperial college](https://github.com/mrc-ide/global-lmic-reports/blob/master/CAN/2021-06-18/index.pdf), [Los Alamos](https://covid-19.bsvgateway.org), [Srivastava](https://scc-usc.github.io/ReCOVER-COVID-19/#/), [PHAC](https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/epidemiological-economic-research-data/mathematical-modelling.html)
   
-#### for daily (and total) [deaths](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/README.md#1-daily-deaths-reference-scenarios-all-time), [cases or infections](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/README.md#4-daily-cases-or-infections-reference-scenarios-all-time), and [hospitalizations](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/README.md#7-hospital-related-outcomes-all-time), 
+#### for daily (and total) [deaths](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/README.md#1-daily-deaths-reference-scenarios-all-time), [cases or infections](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/README.md#4-daily-cases-or-infections-reference-scenarios-all-time), and [hospitalizations](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/README.md#7-hospital-related-outcomes-all-time)
 
 ********************************************************************************************************************************************
 ********************************************************************************************************************************************
