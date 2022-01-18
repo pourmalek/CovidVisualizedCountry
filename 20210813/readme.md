@@ -20,12 +20,6 @@ Note: Predictions of IHME update 20210806 and IHME update 20210730 for Canada an
 ****
 ****
 
-
-### Merged graphs of this uptake [here](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210813/graphs%20merge%2020210813.pdf)
-
-
-****
-
 ## Selected graphs
 
 
