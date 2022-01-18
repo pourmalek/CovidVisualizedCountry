@@ -1320,74 +1320,73 @@ Scenarios of IHME model before update 20211221:
 
 ## IV. SELECTED GRAPHS FROM PREVIOUS UPTAKES
   
-### Selected graphs from previous uptakes are stored in another web page: [RESULTS, PREVIOUS UPTAKES](https://github.com/pourmalek/covir2/tree/main/RESULTS%2C%20PREVIOUS%20UPTAKES), _links to which are also provided below:_
+### Selected graphs from previous uptakes are stored in the followingweb pages: 
   
-### List of graphs 
+[RESULTS Alberta 2021]()
   
-[(1) Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS,%20PREVIOUS%20UPTAKES/README.md#1-daily-deaths-reference-scenarios-all-time)
+[RESULTS Alberta 2022]()
+  
+[RESULTS British Columbia 2021]()
+  
+[RESULTS British Columbia 2022]()
+  
+[RESULTS CANADA, national 2021]()
+  
+[RESULTS CANADA, national 2022]()
+  
+[RESULTS CANADA, provinces 2021]()
+  
+[RESULTS CANADA, provinces 2022]()
+  
+[RESULTS Manitoba 2021]()
+  
+[RESULTS Manitoba 2022]()
+  
+[RESULTS New Brunswick 2021]()
+  
+[RESULTS New Brunswick 2022]()
+  
+[RESULTS Newfoundland and Labrador 2021]()
+  
+[RESULTS Newfoundland and Labrador 2022]()
+  
+[RESULTS Northwest Territories 2021]()
+  
+[RESULTS Northwest Territories 2022]()
+  
+[RESULTS Nova Scotia 2021]()
+  
+[RESULTS Nova Scotia 2022]()
+  
+[RESULTS Nunavut 2021]()
+  
+[RESULTS Nunavut 2022]()
+  
+[RESULTS Ontario 2021]()
+  
+[RESULTS Ontario 2022]()
+  
+[RESULTS Prince Edward Island 2021]()
+  
+[RESULTS Prince Edward Island 2022]()
+  
+[RESULTS Quebec 2021]()
+  
+[RESULTS Quebec 2022]()
+  
+[RESULTS Saskatchewan 2021]()
+  
+[RESULTS Saskatchewan 2022]()
+  
+[RESULTS Yukon 2021]()
+  
+[RESULTS Yukon 2022]()
+  
 
-[(2) Daily deaths, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS,%20PREVIOUS%20UPTAKES/README.md#2-daily-deaths-reference-scenarios-2021)
   
-[(3) Daily deaths, 3 scenarios, 2011](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS,%20PREVIOUS%20UPTAKES/README.md#3-daily-deaths-3-scenarios-2011)
   
-[(3b) Daily deaths, 3 scenarios, 2021, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS,%20PREVIOUS%20UPTAKES/README.md#3b-daily-deaths-3-scenarios-2021-ihme)
-
-[(3c) Daily deaths, 3 scenarios, 2021, IMPE](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS,%20PREVIOUS%20UPTAKES/README.md#3c-daily-deaths-3-scenarios-2021-impe)
   
-[(4) Daily cases, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS,%20PREVIOUS%20UPTAKES/README.md#4-daily-cases-or-infections-reference-scenarios-all-time)
-  
-[(5) Daily cases, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS,%20PREVIOUS%20UPTAKES/README.md#5-daily-cases-or-infections-reference-scenarios-2021)
-  
-[(6) Daily cases, 3 scenarios, 2011](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS,%20PREVIOUS%20UPTAKES/README.md#6-daily-cases-or-infections-3-scenarios-2011)
-  
-[(7) Hospital-related outcomes, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS,%20PREVIOUS%20UPTAKES/README.md#7-hospital-related-outcomes-all-time)
-  
-[(8) Hospital-related outcomes, 2021, without IHME Bed need and IMPE Hospital demand](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS,%20PREVIOUS%20UPTAKES/README.md#8-hospital-related-outcomes-2021-without-ihme-bed-need-and-impe-hospital-demand)
-  
-[(9) Daily deaths estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS,%20PREVIOUS%20UPTAKES/README.md#9-daily-deaths-estimated-to-reported-reference-scenarios-2021)
-  
-[(10) Daily cases estimated to reported, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS,%20PREVIOUS%20UPTAKES/README.md#10-daily-cases-or-infections-estimated-to-reported-cases-reference-scenarios-2021)
-  
-.  
  
-[(11) Daily Infection-outcome ratios, 3 scenarios, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS,%20PREVIOUS%20UPTAKES/README.md#11-daily-infection-outcomes-ratios-global-3-scenarios-all-time-ihme)
-
-[(12) Daily mobility, scenarios IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS,%20PREVIOUS%20UPTAKES/README.md#12-daily-mobility-global-3-scenarios-all-time-ihme)
-
-[(13) Daily mask use, 3 scenarios, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS,%20PREVIOUS%20UPTAKES/README.md#13-daily-mask_use-global-3-scenarios-ihme)
-
-[(14) Percent cumulative vaccinated, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS,%20PREVIOUS%20UPTAKES/README.md#14-percent-cumulative-vaccinated-ihme)
-
-****
-  
-  
-  
-  
-  
-
-
-
-
-
-
-
-  
-  
-  
-  
-  
-  
-
-
-
-
-
-
-
-
-****
-
-<br/><br/>
 
  
 ********************************************************************************************************************************************
