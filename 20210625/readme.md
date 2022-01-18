@@ -8,11 +8,6 @@ DELP 20210625, **_IHME 20210625_**, IMPE 20210618, LANL 20210613, SRIV 20210624
 ****
 
 
-### Merged graphs of this uptake [here](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210625/graphs%20merge%2020210625.pdf)
-
-
-****
-
 ## Selected graphs
 
 ### Selected graphs - [Canada](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210625/readme.md#selected-graphs---canada-1)
