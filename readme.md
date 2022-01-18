@@ -112,6 +112,25 @@ For a sample application of “covir2” to a country without subnational estima
   
   <br/><br/>
   
+  
+**IHME**: The previous [S1] "severe omicron" is not available in IHME update 20220114. The "current projection" or "reference scenario" is functionally the "worse scenario", i.e., the scenario with highest magnitude of estimated deaths and infections. 
+
+The current scenarios of IHME include:
+
+(S1) Current projection,
+(S2) Reduced vaccine hesitancy,
+(S3) Third dose,
+(S4) 80% mask use
+
+
+**SRIV** update 20220114 cannot be downloaded. Issue with https://raw.githubusercontent.com/scc-usc/ReCOVER-COVID-19/master/results/historical_forecasts/$SRIVdate/2022-01-14/
+
+**PHAC** = PHAC-McMaster model, update 20220114 Public Health Agency of Canada. Update on COVID-19 in Canada: Epidemiology and Modelling, January 14, 2022. https://www.canada.ca/content/dam/phac-aspc/documents/services/diseases-maladies/coronavirus-disease-covid-19/epidemiological-economic-research-data/update-covid-19-canada-epidemiology-modelling-20220114-en.pdf
+
+  
+    <br/><br/>
+
+  
 ### Summary of predictions (uptake 20220114)
 
 Note on why the SRIV model is not used in the graphs of this uptake: The file format and the included variables in the SRIV 20220114 update have changed, compared to their 20220113 and previous updates, in a way that I cannot locate the estimates of deaths and cases. Therefore, I resorted to using the SRIV 20220113 update for this uptake. The magnitudes of the estimates in the SRIV 20220113 update are several times – and generally highly implausibly – more than the estimates from all other models. That suppresses all the curves of the other models in the graphs. Therefore, in this uptake, the estimates from the SRIV model are not included.
