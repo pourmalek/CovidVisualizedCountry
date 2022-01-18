@@ -57,12 +57,6 @@ Better scenario: WITH public health measures this fall/winter. (Note: In PHAC-Mc
 ****
 ****
 
-
-### Merged graphs of this uptake [here](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211022/graphs%20merge%2020211022.pdf)
-
-
-****
-
 ## Selected graphs
 
 
