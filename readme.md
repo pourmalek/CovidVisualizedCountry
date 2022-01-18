@@ -1322,7 +1322,7 @@ Scenarios of IHME model before update 20211221:
   
 ### Selected graphs from previous uptakes are stored in the followingweb pages: 
   
-[RESULTS Alberta 2021]()
+[RESULTS Alberta 2021](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20Alberta%202021)
   
 [RESULTS Alberta 2022]()
   
