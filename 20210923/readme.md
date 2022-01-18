@@ -49,12 +49,6 @@ IHME update 20210923 includes a few new types of estimates, including Cumulative
 ****
 ****
 
-
-### Merged graphs of this uptake [here](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210923/graphs%20merge%2020210923.pdf)
-
-
-****
-
 ## Selected graphs
 
 
