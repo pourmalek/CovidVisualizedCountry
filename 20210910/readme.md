@@ -6,7 +6,7 @@ DELP 20210910, **_IHME 20210910_**, IMPE 20210825, LANL 20210905, SRIV 20210910,
 
 <br/><br/>
 
-[IHME COVID-19 Results Briefing - Canada - 20210909](http://www.healthdata.org/sites/default/files/covid_briefs/101_briefing_Canada.pdf) || [PDF](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210910/IHME%20COVID-19%20Results%20Briefing%20-%20Canada%20-%2020210909.pdf)
+[IHME COVID-19 Results Briefing - Canada - 20210909](http://www.healthdata.org/sites/default/files/covid_briefs/101_briefing_Canada.pdf)
 
 <br/><br/>
 
