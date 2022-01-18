@@ -111,7 +111,7 @@ For a sample application of “covir2” to a country without subnational estima
 
 ### LATEST UPTAKE: uptake [`20220114`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20220114)
  
-**_DELP 2022014_**, IHME 20220110, **_IMPE 20211226_**, NO SRIV
+**_DELP 2022014_**, **_IHME 20220114_**, **_IMPE 20220102_**, **_SRIV 20220113_**, **_PHAC 20220114_**
   
   
   <br/><br/>
