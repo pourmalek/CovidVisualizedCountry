@@ -42,7 +42,7 @@
   
 #### :eyes: SEE the graphs, code, and data of periodical updates of COVID-19 pandemic models’ estimates: 
   
-#### by models: [Delphi](https://covidanalytics.io/projections), [IHME](https://covid19.healthdata.org/canada?view=daily-deaths&tab=trend), [Imperial college](https://github.com/mrc-ide/global-lmic-reports/blob/master/CAN/2021-06-18/index.pdf), [Los Alamos](https://covid-19.bsvgateway.org), and [Srivastava](https://scc-usc.github.io/ReCOVER-COVID-19/#/), 
+#### of models: [Delphi](https://covidanalytics.io/projections), [IHME](https://covid19.healthdata.org/canada?view=daily-deaths&tab=trend), [Imperial college](https://github.com/mrc-ide/global-lmic-reports/blob/master/CAN/2021-06-18/index.pdf), [Los Alamos](https://covid-19.bsvgateway.org), and [Srivastava](https://scc-usc.github.io/ReCOVER-COVID-19/#/), 
   
 #### for daily (and total) [deaths](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/README.md#1-daily-deaths-reference-scenarios-all-time), [cases or infections](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/README.md#4-daily-cases-or-infections-reference-scenarios-all-time), and [hospitalizations](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/README.md#7-hospital-related-outcomes-all-time), 
 
@@ -959,8 +959,8 @@ GitHub repositories allow others to view and/or download, scrutinize, and verify
 *************************************************
 #### The three GitHub repositories created in this project are:
 .
-**CovidVisualizedCountry**, COVID-19 pandemic estimates at the global level [13] 
-https://github.com/pourmalek/CovidVisualizedCountry               
+**CovidVisualizedGlobal**, COVID-19 pandemic estimates at the global level [13] 
+https://github.com/pourmalek/CovidVisualizedGlobal              
 .
 **CovidVisualizedCountry**, COVID-19 pandemic estimates at the country level: Canada [14] 
 https://github.com/pourmalek/CovidVisualizedCountry               
@@ -1217,8 +1217,22 @@ Scenarios of IHME model before update 20211221:
   
   
 
+
   
+
+(24) uptake [`20210902`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20210902): DELP 20210902,  **_IHME 20210902_**, IMPE 20210825, LANL 20210829, SRIV 20210902 | [Canada COVID-19 epidemic models situation report No 07 - 2021-09-02](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/07%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2007%20-%202021-09-02.pdf)
+
+(23) uptake [`20210901`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20210901): DELP 20210901, IHME 20210826, **_IMPE 20210825_**, LANL 20210829, SRIV 20210901 | [Canada COVID-19 epidemic models situation report No 06 - 2021-09-01](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/06%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2006%20-%202021-09-01.pdf)
   
+(22) uptake [`20210826`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20210826): DELP 20210826, **_IHME 20210826_**, IMPE 20210819, LANL 20210822, SRIV 20210826 | [Canada COVID-19 epidemic models situation report No 05 - 2021-08-28](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/05%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2005%20-%202021-08-28.pdf)
+  
+(21) uptake [`20210824`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20210824): DELP 20210824, IHME 20210819, **_IMPE 20210819_**, LANL 20210822, SRIV 20210824 | [Canada COVID-19 epidemic models situation report No 04 - 2021-08-24](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/04%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2004%20-%202021-08-24.pdf)
+  
+(20) uptake [`20210819`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20210819): DELP 20210819, **_IHME 20210819_**, IMPE 20210806, LANL 20210815, SRIV 20210819 | [Canada COVID-19 epidemic models situation report No 03 - 2021-08-23](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/03%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2003%20-%202021-08-23.pdf)
+  
+(19) uptake [`20210813`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20210813): DELP 20210813, IHME 20210806, **_IMPE 20210806_**, LANL 20210808, SRIV 20210813
+  
+(18) uptake [`20210806`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20210806): DELP 20210806, **_IHME 20210806_**, IMPE 20210719, LANL 20210801, SRIV 20210801
   
 (17) uptake [`20210730`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20210730): DELP 20210730, **_IHME 20210730_**, IMPE 20210719, LANL 20210725, SRIV 20210730 | [Canada COVID-19 epidemic models situation report No 02 - 2021-08-01](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/02%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2002%20on%2020210801.pdf)
   
