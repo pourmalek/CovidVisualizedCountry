@@ -1487,12 +1487,12 @@ SOURCE REPOSITORY LICENCE: https://covidcompare.io/about
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5019482.svg)](https://doi.org/10.5281/zenodo.5019482)
 
 
-[`DOI`](https://zenodo.org/record/5019030#.YNNftS295O0)  
+[`DOI`](https://zenodo.org/record/5019482#.YebmXy-976Y)  
   
 <br/><br/>
   
   
-Pourmalek, F. GitHub repository “CovidVisualizedCountry”: Combine and visualize international periodically updating estimates of COVID-19 pandemic at the global level. Version 1.1, Released June 23, 2021. http://doi.org/10.5281/zenodo.5019030 , https://github.com/pourmalek/CovidVisualizedCountry 
+Pourmalek, F. GitHub repository “CovidVisualizedCountry”: Combine and visualize international periodically updating estimates of COVID-19 pandemic at the global level. Version 1.1, Released June 23, 2021. https://doi.org/10.5281/zenodo.5019482 , https://github.com/pourmalek/CovidVisualizedCountry 
   
   
 
