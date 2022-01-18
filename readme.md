@@ -1324,63 +1324,63 @@ Scenarios of IHME model before update 20211221:
   
 [RESULTS Alberta 2021](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20Alberta%202021)
   
-[RESULTS Alberta 2022]()
+[RESULTS Alberta 2022](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20Alberta%202022)
   
-[RESULTS British Columbia 2021]()
+[RESULTS British Columbia 2021](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20British%20Columbia%202021)
   
-[RESULTS British Columbia 2022]()
+[RESULTS British Columbia 2022](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20British%20Columbia%202022)
   
-[RESULTS CANADA, national 2021]()
+[RESULTS CANADA, national 2021](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20CANADA%2C%20national%202021)
   
-[RESULTS CANADA, national 2022]()
+[RESULTS CANADA, national 2022](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20CANADA%2C%20national%202022)
   
-[RESULTS CANADA, provinces 2021]()
+[RESULTS CANADA, provinces 2021](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20CANADA%2C%20provinces%202021)
   
-[RESULTS CANADA, provinces 2022]()
+[RESULTS CANADA, provinces 2022](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20CANADA%2C%20provinces%202022)
   
-[RESULTS Manitoba 2021]()
+[RESULTS Manitoba 2021](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20Manitoba%202021)
   
-[RESULTS Manitoba 2022]()
+[RESULTS Manitoba 2022](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20Manitoba%202022)
   
-[RESULTS New Brunswick 2021]()
+[RESULTS New Brunswick 2021](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20New%20Brunswick%202021)
   
-[RESULTS New Brunswick 2022]()
+[RESULTS New Brunswick 2022](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20New%20Brunswick%202022)
   
-[RESULTS Newfoundland and Labrador 2021]()
+[RESULTS Newfoundland and Labrador 2021](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20Newfoundland%20and%20Labrador%202021)
   
-[RESULTS Newfoundland and Labrador 2022]()
+[RESULTS Newfoundland and Labrador 2022](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20Newfoundland%20and%20Labrador%202022)
   
-[RESULTS Northwest Territories 2021]()
+[RESULTS Northwest Territories 2021](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20Northwest%20Territories%202021)
   
-[RESULTS Northwest Territories 2022]()
+[RESULTS Northwest Territories 2022](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20Northwest%20Territories%202022)
   
-[RESULTS Nova Scotia 2021]()
+[RESULTS Nova Scotia 2021](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20Nova%20Scotia%202021)
   
-[RESULTS Nova Scotia 2022]()
+[RESULTS Nova Scotia 2022](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20Nova%20Scotia%202022)
   
-[RESULTS Nunavut 2021]()
+[RESULTS Nunavut 2021](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20Nunavut%202021)
   
-[RESULTS Nunavut 2022]()
+[RESULTS Nunavut 2022](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20Nunavut%202022)
   
-[RESULTS Ontario 2021]()
+[RESULTS Ontario 2021](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20Ontario%202021)
   
-[RESULTS Ontario 2022]()
+[RESULTS Ontario 2022](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20Ontario%202022)
   
-[RESULTS Prince Edward Island 2021]()
+[RESULTS Prince Edward Island 2021](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20Prince%20Edward%20Island%202021)
   
-[RESULTS Prince Edward Island 2022]()
+[RESULTS Prince Edward Island 2022](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20Prince%20Edward%20Island%202022)
   
-[RESULTS Quebec 2021]()
+[RESULTS Quebec 2021](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20Quebec%202021)
   
-[RESULTS Quebec 2022]()
+[RESULTS Quebec 2022](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20Quebec%202022)
   
-[RESULTS Saskatchewan 2021]()
+[RESULTS Saskatchewan 2021](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20Saskatchewan%202021)
   
-[RESULTS Saskatchewan 2022]()
+[RESULTS Saskatchewan 2022](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20Saskatchewan%202022)
   
-[RESULTS Yukon 2021]()
+[RESULTS Yukon 2021](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20Yukon%202021)
   
-[RESULTS Yukon 2022]()
+[`RESULTS Yukon 2022`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20Yukon%202022)
   
 
   
