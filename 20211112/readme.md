@@ -14,12 +14,6 @@ IMPE update 20211103 (2021-11-03_v9.csv.zip) released on 20211110.
 ****
 ****
 
-
-### Merged graphs of this uptake [here](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211112/graphs%20merge%2020211112.pdf)
-
-
-****
-
 ## Selected graphs
 
 
