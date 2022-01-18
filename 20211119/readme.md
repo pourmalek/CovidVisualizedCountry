@@ -12,12 +12,6 @@
 ****
 ****
 
-
-### Merged graphs of this uptake [here](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211119/graphs%20merge%2020211119.pdf)
-
-
-****
-
 ## Selected graphs
 
 
