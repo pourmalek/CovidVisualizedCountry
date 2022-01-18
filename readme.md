@@ -1217,10 +1217,13 @@ Scenarios of IHME model before update 20211221:
   
   
   
+(33) uptake [`20211015`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20211015): **_DELP 20211015_**, **_IHME 20211015_**, **_IMPE 20211006_**, **_SRIV 20211015_**, PHAC 20211008 | [Canada COVID-19 epidemic models situation report No 16 - 2021-10-15](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/16%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2016%20-%202021-10-15.pdf)    
+  
+(32) uptake [`20211008`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20211008): **_DELP 20211008_**, IHME 20211001, IMPE 20210924, LANL 20210926, **_SRIV 20211008_**, **_PHAC 20211008_** | [Canada COVID-19 epidemic models situation report No 15 - 2021-10-08](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/15%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2015%20-%202021-10-08.pdf)    
+  
+(31) uptake [`20211001`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20211001): DELP 20210930, **_IHME 20211001_**, IMPE 20210924, LANL 20210926, SRIV 20210930, PHAC 20210903 | [Canada COVID-19 epidemic models situation report No 14 - 2021-10-01](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/14%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2014%20-%202021-10-01.pdf)  
 
-  
-(30) uptake [`20210928`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20210928): DDELP 20210927, IHME 20210923, **_IMPE 20210924_**, LANL 20210926, SRIV 20210928, PHAC 20210903 | [Canada COVID-19 epidemic models situation report No 13 - 2021-09-28](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/13%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2013%20-%202021-09-28.pdf)  
-  
+(30) uptake [`20210928`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20210928): DELP 20210927, IHME 20210923, **_IMPE 20210924_**, LANL 20210926, SRIV 20210928, PHAC 20210903 | [Canada COVID-19 epidemic models situation report No 13 - 2021-09-28](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/13%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2013%20-%202021-09-28.pdf)  
   
 (29) uptake [`20210923`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20210923): DELP 20210923, **_IHME 20210923_**, IMPE 20210909, LANL 20210919, SRIV 20210923, PHAC 20210903 | [Canada COVID-19 epidemic models situation report No 12 - 2021-09-23](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/12%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2012%20-%202021-09-23.pdf)  
   
