@@ -41,11 +41,6 @@ and dates 2021???? before 20210806.
 ****
 
 
-### Merged graphs of this uptake [here](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210806/graphs%20merge%2020210806.pdf)
-
-
-****
-
 ## Selected graphs
 
 
