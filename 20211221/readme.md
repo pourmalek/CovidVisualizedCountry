@@ -52,14 +52,6 @@ Estimated daily deaths are expected to peak at less than 30 in Ontario (end Febr
 
 ****
 
-****
-
-
-### Merged graphs of this uptake [here](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20211221/graphs%20merge%2020211221.pdf)
-
-
-****
-
 ## Selected graphs
 
 
