@@ -39,12 +39,6 @@ Better scenario: Updated scenario with increased uptake among ages 18-39 and exp
 ****
 ****
 
-
-### Merged graphs of this uptake [here](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20210903/graphs%20merge%2020210903.pdf)
-
-
-****
-
 ## Selected graphs
 
 
