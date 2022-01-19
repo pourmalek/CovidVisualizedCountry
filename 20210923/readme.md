@@ -1,6 +1,6 @@
 ! Read the Canada COVID-19 epidemic models situation report No 12 - 2021-09-23 [here](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/12%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2012%20-%202021-09-23.pdf).
 
-<br/><br/>
+<br/><br/> 
 
 
 ### Study update dates in uptake 20210923
