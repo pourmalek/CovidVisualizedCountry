@@ -1,6 +1,6 @@
 ! Read the Canada COVID-19 epidemic models situation report No 15 - 2021-10-08 [here](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/15%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2015%20-%202021-10-08.pdf).
 
-<br/><br/>
+<br/><br/> 
 
 
 ### Study update dates in uptake 20211008
