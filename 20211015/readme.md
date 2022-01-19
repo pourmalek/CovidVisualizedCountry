@@ -3,7 +3,7 @@
 <br/><br/>
 
 
-### Study update dates in uptake 20211015
+### Study update dates in uptake 20211015 
 
 **_DELP 20211015_**, **_IHME 20211015_**, **_IMPE 20211006_**, **_SRIV 20211015_**, PHAC 20211008
 
