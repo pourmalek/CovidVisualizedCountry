@@ -1,6 +1,6 @@
 ! Read the Canada COVID-19 epidemic models situation report No 10 - 2021-09-16 [here](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/10%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2010%20-%202021-09-16.pdf).
 
-### Study update dates in uptake 20210916
+### Study update dates in uptake 20210916 
 
 DELP 20210916, **_IHME 20210916_**, IMPE 20210825, LANL 20210912, SRIV 20210916, PHAC 20210903
 
