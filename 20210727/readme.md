@@ -1,4 +1,4 @@
-### Study update dates in uptake 20210727
+### Study update dates in uptake 20210727 
 
 DELP 20210727, IHME 20210723 version 2, **_IMPE 20210719_**, LANL 20210725, SRIV 20210727
 
