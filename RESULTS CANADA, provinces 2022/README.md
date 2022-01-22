@@ -14,6 +14,12 @@
 
 *
 
+**uptake 20220114**: **_DELP 2022014_**, **_IHME 20220114_**, **_IMPE 20220102_**, **_SRIV 20220113_**, **_PHAC 20220114_**
+
+
+
+*
+
 **uptake 20220110**: **_DELP 20220110_**, **_IHME 20220110_**, IMPE 20211213, **_SRIV 20220110_**
 
 (1a) Canada provinces [Daily reported deaths, reference scenarios, all time, IHME, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220110/output/IHME/graph%2011a1%20C-19%20daily%20reported%20deaths%2C%20Canada%2C%20subnational%2C%20IHME%2C%20reference%20scenario.pdf)
@@ -47,6 +53,12 @@
   
   
   
+
+*
+
+**uptake 20220114**: **_DELP 2022014_**, **_IHME 20220114_**, **_IMPE 20220102_**, **_SRIV 20220113_**, **_PHAC 20220114_**
+
+
 
 *
 
@@ -87,6 +99,12 @@
 
 *
 
+**uptake 20220114**: **_DELP 2022014_**, **_IHME 20220114_**, **_IMPE 20220102_**, **_SRIV 20220113_**, **_PHAC 20220114_**
+
+
+
+*
+
 **uptake 20220110**: **_DELP 20220110_**, **_IHME 20220110_**, IMPE 20211213, **_SRIV 20220110_**
 
 (1c) Canada provinces [Daily reported deaths, reference scenarios, all time, IHME, 2022](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220110/output/IHME/graph%2011a3%20C-19%20daily%20reported%20deaths%2C%20Canada%2C%20subnational%2C%20IHME%2C%20reference%20scenario%202022.pdf)
@@ -121,6 +139,12 @@
   
   
   
+
+*
+
+**uptake 20220114**: **_DELP 2022014_**, **_IHME 20220114_**, **_IMPE 20220102_**, **_SRIV 20220113_**, **_PHAC 20220114_**
+
+
 
 *
 
@@ -159,6 +183,12 @@
   
   
   
+
+*
+
+**uptake 20220114**: **_DELP 2022014_**, **_IHME 20220114_**, **_IMPE 20220102_**, **_SRIV 20220113_**, **_PHAC 20220114_**
+
+
 
 *
 
@@ -201,6 +231,12 @@
 
 *
 
+**uptake 20220114**: **_DELP 2022014_**, **_IHME 20220114_**, **_IMPE 20220102_**, **_SRIV 20220113_**, **_PHAC 20220114_**
+
+
+
+*
+
 **uptake 20220110**: **_DELP 20220110_**, **_IHME 20220110_**, IMPE 20211213, **_SRIV 20220110_**
 
 (3b) Canada provinces [Daily infections, reference scenarios, all time, IHME, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220110/output/IHME/graph%2021a2%20C-19%20daily%20infections%2C%20Canada%2C%20subnational%2C%20IHME%2C%20reference%20scenario%202021.pdf)
@@ -239,6 +275,12 @@
   
   
   
+
+*
+
+**uptake 20220114**: **_DELP 2022014_**, **_IHME 20220114_**, **_IMPE 20220102_**, **_SRIV 20220113_**, **_PHAC 20220114_**
+
+
 
 *
 
