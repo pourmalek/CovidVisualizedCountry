@@ -1,0 +1,868 @@
+{smcl}
+{com}{sf}{ul off}{txt}{.-}
+      name:  {res}<unnamed>
+       {txt}log:  {res}/Users/farshadpourmalek/Downloads/CovidVisualizedCountry-main/longitudinal/code/JOHN/log CovidVisualizedCountry JOHN.smcl
+  {txt}log type:  {res}smcl
+ {txt}opened on:  {res}20 Jan 2022, 19:56:16
+{txt}
+{com}. 
+. ***************************************************************************
+. * This is "do CovidVisualizedCountry JOHN.do"
+. 
+. * Project: Combine and visualize international periodically updating 
+. * estimates of COVID-19 at the country level (CovidVisualizedCountry)
+. * Person: Farshad Pourmalek pourmalek_farshad at yahoo dotcom
+. * Time (initial): 2021-04-14
+. ***************************************************************************
+. 
+. 
+. 
+. 
+. ****************************************
+. 
+. * get Johns Hopkins data for deaths
+. 
+. 
+. import delimited ///
+> "https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_global.csv" ///
+> , clear varnames(1) colrange(1:2)
+{res}{text}(2 vars, 280 obs)
+
+{com}. 
+. save "time_series_covid19_deaths_global col 2.dta", replace
+{txt}file time_series_covid19_deaths_global col 2.dta saved
+
+{com}. 
+. 
+. import delimited ///
+> "https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_global.csv" ///
+> , clear varnames(1) colrange(5)
+{res}{text}(729 vars, 280 obs)
+
+{com}. 
+. save "time_series_covid19_deaths_global col 5 on.dta", replace
+{txt}file time_series_covid19_deaths_global col 5 on.dta saved
+
+{com}. 
+. 
+. use "time_series_covid19_deaths_global col 2.dta", clear 
+{txt}
+{com}. 
+. merge 1:1 _n using "time_series_covid19_deaths_global col 5 on.dta"
+{res}
+{txt}{col 5}Result{col 38}# of obs.
+{col 5}{hline 41}
+{col 5}not matched{col 30}{res}               0
+{txt}{col 5}matched{col 30}{res}             280{txt}  (_merge==3)
+{col 5}{hline 41}
+
+{com}. 
+. drop _merge
+{txt}
+{com}. 
+. replace countryregion = trim(countryregion)
+{txt}(0 real changes made)
+
+{com}. 
+. rename countryregion loc_grand_name
+{res}{txt}
+{com}. 
+. label var loc_grand_name loc_grand_name
+{txt}
+{com}. 
+. keep if loc_grand_name == "$country"
+{txt}(264 observations deleted)
+
+{com}. 
+. qui destring v*, replace
+{txt}
+{com}. 
+. save "time_series_covid19_deaths_global.dta", replace 
+{txt}file time_series_covid19_deaths_global.dta saved
+
+{com}. 
+. 
+. 
+. 
+. 
+. * gen national sum
+. 
+. collapse (sum) v*, by(loc_grand_name) 
+{txt}
+{com}. 
+. gen provincestate = " National"
+{txt}
+{com}. 
+. order provincestate
+{txt}
+{com}. 
+. save "time_series_covid19_deaths_global National sum.dta", replace
+{txt}file time_series_covid19_deaths_global National sum.dta saved
+
+{com}. 
+. 
+. 
+. * append National sum to subNationals
+. 
+. use "time_series_covid19_deaths_global.dta", clear 
+{txt}
+{com}. 
+. gen provincestate_proper = provincestate // non-provincestate_proper is included in National sum
+{txt}
+{com}. 
+. replace provincestate_proper = "" if provincestate == "Diamond Princess" | ///
+>  provincestate == "Grand Princess" |  provincestate == "Repatriated Travellers"
+{txt}(3 real changes made)
+
+{com}. 
+. drop if provincestate_proper == ""
+{txt}(3 observations deleted)
+
+{com}. 
+. qui append using "time_series_covid19_deaths_global National sum.dta"
+{txt}
+{com}. 
+. order provincestate loc_grand_name, last 
+{txt}
+{com}. 
+. save "time_series_covid19_deaths_global with National sum.dta", replace
+{txt}file time_series_covid19_deaths_global with National sum.dta saved
+
+{com}. 
+. 
+. * reshape 
+. 
+. order loc_grand_name, last
+{txt}
+{com}. 
+. gen counter = _n
+{txt}
+{com}. 
+. qui reshape long v, i(counter) 
+{txt}
+{com}. 
+. drop counter 
+{txt}
+{com}. 
+. codebook _j
+
+{txt}{hline}
+{res}_j{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}int{txt})
+
+{col 18}range:  [{res}1{txt},{res}729{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}729{col 51}{txt}missing .:  {res}0{txt}/{res}10,206
+
+{txt}{col 19}mean:{res}{col 26}     365
+{txt}{col 15}std. dev:{res}{col 26} 210.454
+
+{txt}{col 12}percentiles:{col 32}10%{col 42}25%{col 52}50%{col 62}75%{col 72}90%
+{res}{col 27}      73{col 37}     183{col 47}     365{col 57}     547{col 67}     657
+{txt}
+{com}. 
+. 
+. * JOHN starts from 22 Jan 2020
+. 
+. gen date = date("22 Jan 2020", "DMY")
+{txt}
+{com}. 
+. sort loc_grand_name date
+{txt}
+{com}. 
+. bysort loc_grand_name: replace date = date + _j - 1
+{txt}(10,192 real changes made)
+
+{com}. 
+. format date %td
+{txt}
+{com}. 
+. codebook date
+
+{txt}{hline}
+{res}date{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric daily date ({res}float{txt})
+
+{col 18}range:  [{res}21936{txt},{res}22664{txt}]{col 55}units:  {res}1
+{col 8}{txt}or equivalently:  [{res}22jan2020{txt},{res}19jan2022{txt}]{col 55}units:  {res}days
+{col 10}{txt}unique values:  {res}729{col 51}{txt}missing .:  {res}0{txt}/{res}10,206
+
+{txt}{col 19}mean:{res}{col 26}   22300{txt} = {res}20jan2021{txt}
+{col 15}std. dev:{res}{col 26} 210.454
+
+{txt}{col 12}percentiles:{col 32}10%{col 42}25%{col 52}50%{col 62}75%{col 72}90%
+{res}{col 27}   22008{col 37}   22118{col 47}   22300{col 57}   22482{col 67}   22592
+{col 26}03apr2020{col 36}22jul2020{col 46}20jan2021{col 56}21jul2021{col 66}08nov2021
+{txt}
+{com}. 
+. order date 
+{txt}
+{com}. 
+. rename v TotDeaMeRaA00S00
+{res}{txt}
+{com}. 
+. label var TotDeaMeRaA00S00 "Total deaths raw A00 JOHN"
+{txt}
+{com}. 
+. destring TotDeaMeRaA00S00, replace
+{txt}TotDeaMeRaA00S00 already numeric; no {res}replace
+{txt}
+{com}. 
+. gen DayDeaMeRaA00S00 =  TotDeaMeRaA00S00[_n] - TotDeaMeRaA00S00[_n-1]
+{txt}(1 missing value generated)
+
+{com}. 
+. label var DayDeaMeRaA00S00 "Daily deaths raw A00 JOHN"
+{txt}
+{com}. 
+. replace DayDeaMeRaA00S00 = TotDeaMeRaA00S00 if _j == 1
+{txt}(14 real changes made)
+
+{com}. 
+. drop _j 
+{txt}
+{com}. 
+. order loc_grand_name date provincestate_proper DayDeaMeRaA00S00 TotDeaMeRaA00S00                
+{txt}
+{com}. 
+. sort loc_grand_name provincestate_proper date 
+{txt}
+{com}. 
+. 
+. * replace outcomes = . before first date reported
+. 
+. 
+. levelsof provincestate, local(levels)
+{txt}`" National"' `"Alberta"' `"British Columbia"' `"Manitoba"' `"New Brunswick"' `"Newfoundland and Labrador"' `"Northwest Territories"' `"Nova Scotia"' `"Nunavut"' `"Ontario"' `"Prince Edward Island"' `"Quebec"' `"Saskatchewan"' `"Yukon"'
+
+{com}. 
+. foreach l of local levels {c -(}
+{txt}  2{com}. 
+. summ date if provincestate == "`l'" & TotDeaMeRaA00S00 == 0
+{txt}  3{com}. 
+. gen TotDeaMeRaA00S00zerodate = r(max)
+{txt}  4{com}. 
+. replace DayDeaMeRaA00S00 = . if date <= r(max) & provincestate == "`l'"
+{txt}  5{com}. 
+. replace TotDeaMeRaA00S00 = . if date <= r(max) & provincestate == "`l'"
+{txt}  6{com}. 
+. drop TotDeaMeRaA00S00zerodate
+{txt}  7{com}. 
+. {c )-}
+
+{txt}    Variable {c |}        Obs        Mean    Std. Dev.       Min        Max
+{hline 13}{c +}{hline 57}
+{space 8}date {c |}{res}         47       21959    13.71131      21936      21982
+{txt}(47 real changes made, 47 to missing)
+(47 real changes made, 47 to missing)
+
+    Variable {c |}        Obs        Mean    Std. Dev.       Min        Max
+{hline 13}{c +}{hline 57}
+{space 8}date {c |}{res}         58     21964.5    16.88688      21936      21993
+{txt}(58 real changes made, 58 to missing)
+(58 real changes made, 58 to missing)
+
+    Variable {c |}        Obs        Mean    Std. Dev.       Min        Max
+{hline 13}{c +}{hline 57}
+{space 8}date {c |}{res}         47       21959    13.71131      21936      21982
+{txt}(47 real changes made, 47 to missing)
+(47 real changes made, 47 to missing)
+
+    Variable {c |}        Obs        Mean    Std. Dev.       Min        Max
+{hline 13}{c +}{hline 57}
+{space 8}date {c |}{res}         65       21968    18.90767      21936      22000
+{txt}(65 real changes made, 65 to missing)
+(65 real changes made, 65 to missing)
+
+    Variable {c |}        Obs        Mean    Std. Dev.       Min        Max
+{hline 13}{c +}{hline 57}
+{space 8}date {c |}{res}        134     22002.5    38.82654      21936      22069
+{txt}(134 real changes made, 134 to missing)
+(134 real changes made, 134 to missing)
+
+    Variable {c |}        Obs        Mean    Std. Dev.       Min        Max
+{hline 13}{c +}{hline 57}
+{space 8}date {c |}{res}         68     21969.5    19.77372      21936      22003
+{txt}(68 real changes made, 68 to missing)
+(68 real changes made, 68 to missing)
+
+    Variable {c |}        Obs        Mean    Std. Dev.       Min        Max
+{hline 13}{c +}{hline 57}
+{space 8}date {c |}{res}        581       22226    167.8645      21936      22516
+{txt}(581 real changes made, 581 to missing)
+(581 real changes made, 581 to missing)
+
+    Variable {c |}        Obs        Mean    Std. Dev.       Min        Max
+{hline 13}{c +}{hline 57}
+{space 8}date {c |}{res}         77       21974    22.37186      21936      22012
+{txt}(77 real changes made, 77 to missing)
+(77 real changes made, 77 to missing)
+
+    Variable {c |}        Obs        Mean    Std. Dev.       Min        Max
+{hline 13}{c +}{hline 57}
+{space 8}date {c |}{res}        333       22102    96.27305      21936      22268
+{txt}(333 real changes made, 333 to missing)
+(333 real changes made, 333 to missing)
+
+    Variable {c |}        Obs        Mean    Std. Dev.       Min        Max
+{hline 13}{c +}{hline 57}
+{space 8}date {c |}{res}         55       21963    16.02082      21936      21990
+{txt}(55 real changes made, 55 to missing)
+(55 real changes made, 55 to missing)
+
+    Variable {c |}        Obs        Mean    Std. Dev.       Min        Max
+{hline 13}{c +}{hline 57}
+{space 8}date {c |}{res}        722    22297.39     208.733      21936      22658
+{txt}(723 real changes made, 723 to missing)
+(723 real changes made, 723 to missing)
+
+    Variable {c |}        Obs        Mean    Std. Dev.       Min        Max
+{hline 13}{c +}{hline 57}
+{space 8}date {c |}{res}         55       21963    16.02082      21936      21990
+{txt}(55 real changes made, 55 to missing)
+(55 real changes made, 55 to missing)
+
+    Variable {c |}        Obs        Mean    Std. Dev.       Min        Max
+{hline 13}{c +}{hline 57}
+{space 8}date {c |}{res}         68     21969.5    19.77372      21936      22003
+{txt}(68 real changes made, 68 to missing)
+(68 real changes made, 68 to missing)
+
+    Variable {c |}        Obs        Mean    Std. Dev.       Min        Max
+{hline 13}{c +}{hline 57}
+{space 8}date {c |}{res}        282     22076.5     81.5506      21936      22217
+{txt}(282 real changes made, 282 to missing)
+(282 real changes made, 282 to missing)
+
+{com}. *
+. 
+. qui compress
+{txt}
+{com}. 
+. save "$country JOHN deaths.dta", replace
+{txt}file Canada JOHN deaths.dta saved
+
+{com}. 
+. 
+. 
+. 
+. ****************************************
+. 
+. * get Johns Hopkins data for cases
+. 
+. 
+. import delimited ///
+> "https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv" ///
+> , clear varnames(1) colrange(1:2)
+{res}{text}(2 vars, 280 obs)
+
+{com}. 
+. save "time_series_covid19_confirmed_global col 2.dta", replace
+{txt}file time_series_covid19_confirmed_global col 2.dta saved
+
+{com}. 
+. 
+. import delimited ///
+> "https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv" ///
+> , clear varnames(1) colrange(5)
+{res}{text}(729 vars, 280 obs)
+
+{com}. 
+. save "time_series_covid19_confirmed_global col 5 on.dta", replace
+{txt}file time_series_covid19_confirmed_global col 5 on.dta saved
+
+{com}. 
+. 
+. use "time_series_covid19_confirmed_global col 2.dta", clear 
+{txt}
+{com}. 
+. merge 1:1 _n using "time_series_covid19_confirmed_global col 5 on.dta"
+{res}
+{txt}{col 5}Result{col 38}# of obs.
+{col 5}{hline 41}
+{col 5}not matched{col 30}{res}               0
+{txt}{col 5}matched{col 30}{res}             280{txt}  (_merge==3)
+{col 5}{hline 41}
+
+{com}. 
+. drop _merge
+{txt}
+{com}. 
+. replace countryregion = trim(countryregion)
+{txt}(0 real changes made)
+
+{com}. 
+. rename countryregion loc_grand_name
+{res}{txt}
+{com}. 
+. label var loc_grand_name loc_grand_name
+{txt}
+{com}. 
+. keep if loc_grand_name == "$country"
+{txt}(264 observations deleted)
+
+{com}. 
+. qui destring v*, replace
+{txt}
+{com}. 
+. save "time_series_covid19_confirmed_global.dta", replace 
+{txt}file time_series_covid19_confirmed_global.dta saved
+
+{com}. 
+. 
+. 
+. * gen National sum
+. 
+. collapse (sum) v*, by(loc_grand_name) 
+{txt}
+{com}. 
+. gen provincestate = " National"
+{txt}
+{com}. 
+. order provincestate
+{txt}
+{com}. 
+. save "time_series_covid19_confirmed_global national sum.dta", replace
+{txt}file time_series_covid19_confirmed_global national sum.dta saved
+
+{com}. 
+. 
+. 
+. * append national sum to subnationals
+. 
+. use "time_series_covid19_confirmed_global.dta", clear 
+{txt}
+{com}. 
+. gen provincestate_proper = provincestate // non-provincestate_proper is included in national sum // provincestate names for "$country"
+{txt}
+{com}. 
+. replace provincestate_proper = "" if provincestate == "Diamond Princess" | ///
+>  provincestate == "Grand Princess" |  provincestate == "Repatriated Travellers"
+{txt}(3 real changes made)
+
+{com}. 
+. drop if provincestate_proper == ""
+{txt}(3 observations deleted)
+
+{com}. 
+. qui append using "time_series_covid19_confirmed_global national sum.dta"
+{txt}
+{com}. 
+. order provincestate loc_grand_name, last 
+{txt}
+{com}. 
+. save "time_series_covid19_confirmed_global with national sum.dta", replace
+{txt}file time_series_covid19_confirmed_global with national sum.dta saved
+
+{com}. 
+. 
+. * reshape 
+. 
+. order loc_grand_name, last
+{txt}
+{com}. 
+. gen counter = _n
+{txt}
+{com}. 
+. qui reshape long v, i(counter) 
+{txt}
+{com}. 
+. drop counter 
+{txt}
+{com}. 
+. codebook _j
+
+{txt}{hline}
+{res}_j{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric ({res}int{txt})
+
+{col 18}range:  [{res}1{txt},{res}729{txt}]{col 55}units:  {res}1
+{col 10}{txt}unique values:  {res}729{col 51}{txt}missing .:  {res}0{txt}/{res}10,206
+
+{txt}{col 19}mean:{res}{col 26}     365
+{txt}{col 15}std. dev:{res}{col 26} 210.454
+
+{txt}{col 12}percentiles:{col 32}10%{col 42}25%{col 52}50%{col 62}75%{col 72}90%
+{res}{col 27}      73{col 37}     183{col 47}     365{col 57}     547{col 67}     657
+{txt}
+{com}. 
+. 
+. * JOHN starts from 22 Jan 2020
+. 
+. gen date = date("22 Jan 2020", "DMY")
+{txt}
+{com}. 
+. sort loc_grand_name date
+{txt}
+{com}. 
+. bysort loc_grand_name: replace date = date + _j - 1
+{txt}(10,192 real changes made)
+
+{com}. 
+. format date %td
+{txt}
+{com}. 
+. codebook date
+
+{txt}{hline}
+{res}date{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric daily date ({res}float{txt})
+
+{col 18}range:  [{res}21936{txt},{res}22664{txt}]{col 55}units:  {res}1
+{col 8}{txt}or equivalently:  [{res}22jan2020{txt},{res}19jan2022{txt}]{col 55}units:  {res}days
+{col 10}{txt}unique values:  {res}729{col 51}{txt}missing .:  {res}0{txt}/{res}10,206
+
+{txt}{col 19}mean:{res}{col 26}   22300{txt} = {res}20jan2021{txt}
+{col 15}std. dev:{res}{col 26} 210.454
+
+{txt}{col 12}percentiles:{col 32}10%{col 42}25%{col 52}50%{col 62}75%{col 72}90%
+{res}{col 27}   22008{col 37}   22118{col 47}   22300{col 57}   22482{col 67}   22592
+{col 26}03apr2020{col 36}22jul2020{col 46}20jan2021{col 56}21jul2021{col 66}08nov2021
+{txt}
+{com}. 
+. order date 
+{txt}
+{com}. 
+. rename v TotCasMeRaA00S00
+{res}{txt}
+{com}. 
+. label var TotCasMeRaA00S00 "Total cases raw A00 JOHN"
+{txt}
+{com}. 
+. destring TotCasMeRaA00S00, replace
+{txt}TotCasMeRaA00S00 already numeric; no {res}replace
+{txt}
+{com}. 
+. gen DayCasMeRaA00S00 =  TotCasMeRaA00S00[_n] - TotCasMeRaA00S00[_n-1]
+{txt}(1 missing value generated)
+
+{com}. 
+. label var DayCasMeRaA00S00 "Daily cases raw A00 JOHN"
+{txt}
+{com}. 
+. replace DayCasMeRaA00S00 = TotCasMeRaA00S00 if _j == 1
+{txt}(14 real changes made)
+
+{com}. 
+. drop _j 
+{txt}
+{com}. 
+. order loc_grand_name date provincestate_proper DayCasMeRaA00S00 TotCasMeRaA00S00        
+{txt}
+{com}. 
+. sort loc_grand_name provincestate_proper date 
+{txt}
+{com}. 
+. 
+. * replace outcomes = . before first date reported
+. 
+. 
+. levelsof provincestate, local(levels)
+{txt}`" National"' `"Alberta"' `"British Columbia"' `"Manitoba"' `"New Brunswick"' `"Newfoundland and Labrador"' `"Northwest Territories"' `"Nova Scotia"' `"Nunavut"' `"Ontario"' `"Prince Edward Island"' `"Quebec"' `"Saskatchewan"' `"Yukon"'
+
+{com}. 
+. foreach l of local levels {c -(}
+{txt}  2{com}. 
+. summ date if provincestate == "`l'" & TotCasMeRaA00S00 == 0
+{txt}  3{com}. 
+. gen TotCasMeRaA00S00zerodate = r(max)
+{txt}  4{com}. 
+. replace DayCasMeRaA00S00 = . if date <= r(max) & provincestate == "`l'"
+{txt}  5{com}. 
+. replace TotCasMeRaA00S00 = . if date <= r(max) & provincestate == "`l'"
+{txt}  6{com}. 
+. drop TotCasMeRaA00S00zerodate
+{txt}  7{com}. 
+. {c )-}
+
+{txt}    Variable {c |}        Obs        Mean    Std. Dev.       Min        Max
+{hline 13}{c +}{hline 57}
+{space 8}date {c |}{res}          4     21937.5    1.290994      21936      21939
+{txt}(4 real changes made, 4 to missing)
+(4 real changes made, 4 to missing)
+
+    Variable {c |}        Obs        Mean    Std. Dev.       Min        Max
+{hline 13}{c +}{hline 57}
+{space 8}date {c |}{res}         44     21957.5    12.84523      21936      21979
+{txt}(44 real changes made, 44 to missing)
+(44 real changes made, 44 to missing)
+
+    Variable {c |}        Obs        Mean    Std. Dev.       Min        Max
+{hline 13}{c +}{hline 57}
+{space 8}date {c |}{res}          6     21938.5    1.870829      21936      21941
+{txt}(6 real changes made, 6 to missing)
+(6 real changes made, 6 to missing)
+
+    Variable {c |}        Obs        Mean    Std. Dev.       Min        Max
+{hline 13}{c +}{hline 57}
+{space 8}date {c |}{res}         51       21961    14.86607      21936      21986
+{txt}(51 real changes made, 51 to missing)
+(51 real changes made, 51 to missing)
+
+    Variable {c |}        Obs        Mean    Std. Dev.       Min        Max
+{hline 13}{c +}{hline 57}
+{space 8}date {c |}{res}         49       21960    14.28869      21936      21984
+{txt}(49 real changes made, 49 to missing)
+(49 real changes made, 49 to missing)
+
+    Variable {c |}        Obs        Mean    Std. Dev.       Min        Max
+{hline 13}{c +}{hline 57}
+{space 8}date {c |}{res}         53       21962    15.44345      21936      21988
+{txt}(53 real changes made, 53 to missing)
+(53 real changes made, 53 to missing)
+
+    Variable {c |}        Obs        Mean    Std. Dev.       Min        Max
+{hline 13}{c +}{hline 57}
+{space 8}date {c |}{res}         64     21967.5    18.61899      21936      21999
+{txt}(64 real changes made, 64 to missing)
+(64 real changes made, 64 to missing)
+
+    Variable {c |}        Obs        Mean    Std. Dev.       Min        Max
+{hline 13}{c +}{hline 57}
+{space 8}date {c |}{res}         54     21962.5    15.73213      21936      21989
+{txt}(54 real changes made, 54 to missing)
+(54 real changes made, 54 to missing)
+
+    Variable {c |}        Obs        Mean    Std. Dev.       Min        Max
+{hline 13}{c +}{hline 57}
+{space 8}date {c |}{res}        289       22080    83.57133      21936      22224
+{txt}(289 real changes made, 289 to missing)
+(289 real changes made, 289 to missing)
+
+    Variable {c |}        Obs        Mean    Std. Dev.       Min        Max
+{hline 13}{c +}{hline 57}
+{space 8}date {c |}{res}          4     21937.5    1.290994      21936      21939
+{txt}(4 real changes made, 4 to missing)
+(4 real changes made, 4 to missing)
+
+    Variable {c |}        Obs        Mean    Std. Dev.       Min        Max
+{hline 13}{c +}{hline 57}
+{space 8}date {c |}{res}         53       21962    15.44345      21936      21988
+{txt}(53 real changes made, 53 to missing)
+(53 real changes made, 53 to missing)
+
+    Variable {c |}        Obs        Mean    Std. Dev.       Min        Max
+{hline 13}{c +}{hline 57}
+{space 8}date {c |}{res}         34     21952.5    9.958246      21936      21969
+{txt}(34 real changes made, 34 to missing)
+(34 real changes made, 34 to missing)
+
+    Variable {c |}        Obs        Mean    Std. Dev.       Min        Max
+{hline 13}{c +}{hline 57}
+{space 8}date {c |}{res}         51       21961    14.86607      21936      21986
+{txt}(51 real changes made, 51 to missing)
+(51 real changes made, 51 to missing)
+
+    Variable {c |}        Obs        Mean    Std. Dev.       Min        Max
+{hline 13}{c +}{hline 57}
+{space 8}date {c |}{res}         64     21967.5    18.61899      21936      21999
+{txt}(64 real changes made, 64 to missing)
+(64 real changes made, 64 to missing)
+
+{com}. *
+. 
+. qui compress
+{txt}
+{com}. 
+. save "$country JOHN cases.dta", replace
+{txt}file Canada JOHN cases.dta saved
+
+{com}. 
+. 
+. 
+. 
+. 
+. 
+. ****************************************
+. 
+. * merge deaths and cases 
+. 
+. use "$country JOHN deaths.dta", clear 
+{txt}
+{com}. 
+. merge 1:1 date loc_grand_name provincestate using "$country JOHN Cases.dta"
+{res}
+{txt}{col 5}Result{col 38}# of obs.
+{col 5}{hline 41}
+{col 5}not matched{col 30}{res}               0
+{txt}{col 5}matched{col 30}{res}          10,206{txt}  (_merge==3)
+{col 5}{hline 41}
+
+{com}. 
+. drop _merge
+{txt}
+{com}. 
+. 
+. 
+. 
+. 
+. ******************
+. 
+. * smooth 
+. 
+. encode provincestate, gen(provincestate_encoded)
+{txt}
+{com}. 
+. tsset provincestate_encoded date, daily   
+{res}{txt}{col 8}panel variable:  {res}provincestate_encoded (strongly balanced)
+{txt}{col 9}time variable:  {res}{col 25}date, 22jan2020 to 19jan2022
+{txt}{col 17}delta:  {res}1 day
+{txt}
+{com}. 
+. 
+. tssmooth ma DayDeaMeRaA00S00_window = DayDeaMeRaA00S00 if DayDeaMeRaA00S00 >= 0, window(3 1 3)
+{txt}The smoother applied was
+{res}{p 5 5 5} by provincestate_encoded : (1/7)*[x(t-3) + x(t-2) + x(t-1) + 1*x(t) + x(t+1) + x(t+2) + x(t+3)]; x(t)= DayDeaMeRaA00S00 {p_end}
+{txt}
+{com}. 
+. tssmooth ma DayDeaMeSmA00S00 = DayDeaMeRaA00S00_window, weights( 1 2 3 <4> 3 2 1) replace
+{txt}The smoother applied was
+{res}{p 5 5 5} by provincestate_encoded : (1/16)*[1*x(t-3) + 2*x(t-2) + 3*x(t-1) + 4*x(t) + 3*x(t+1) + 2*x(t+2) + ...; x(t)= DayDeaMeRaA00S00_window
+{txt}
+{smcl}
+{com}. 
+. label var DayDeaMeSmA00S00 "Daily deaths smooth A00 JOHN"
+{txt}
+{com}. 
+. drop DayDeaMeRaA00S00_window
+{txt}
+{com}. 
+. 
+. tssmooth ma DayCasMeRaA00S00_window = DayCasMeRaA00S00 if DayCasMeRaA00S00 >= 0, window(3 1 3)
+{txt}The smoother applied was
+{res}{p 5 5 5} by provincestate_encoded : (1/7)*[x(t-3) + x(t-2) + x(t-1) + 1*x(t) + x(t+1) + x(t+2) + x(t+3)]; x(t)= DayCasMeRaA00S00 {p_end}
+{txt}
+{com}. 
+. tssmooth ma DayCasMeSmA00S00 = DayCasMeRaA00S00_window, weights( 1 2 3 <4> 3 2 1) replace
+{txt}The smoother applied was
+{res}{p 5 5 5} by provincestate_encoded : (1/16)*[1*x(t-3) + 2*x(t-2) + 3*x(t-1) + 4*x(t) + 3*x(t+1) + 2*x(t+2) + ...; x(t)= DayCasMeRaA00S00_window
+{txt}
+{smcl}
+{com}. 
+. label var DayCasMeSmA00S00 "Daily cases smooth A00 JOHN"
+{txt}
+{com}. 
+. drop DayCasMeRaA00S00_window
+{txt}
+{com}. 
+. 
+. 
+. drop provincestate_encoded
+{txt}
+{com}. 
+. tsset, clear
+{txt}
+{com}. 
+. 
+. *
+. 
+. * gen vars by provincestate 
+. 
+. foreach var of varlist DayDeaMeRaA00S00 TotDeaMeRaA00S00 DayCasMeRaA00S00 TotCasMeRaA00S00 ///
+> DayDeaMeSmA00S00 DayCasMeSmA00S00 {c -(}
+{txt}  2{com}. 
+. *
+. 
+. qui gen `var'XAB = `var' 
+{txt}  3{com}. qui replace `var'XAB = . if provincestate != "Alberta"
+{txt}  4{com}. 
+. qui gen `var'XBC = `var'
+{txt}  5{com}. qui replace `var'XBC = . if provincestate != "British Columbia"
+{txt}  6{com}. 
+. qui gen `var'XMB = `var'
+{txt}  7{com}. qui replace `var'XMB = . if provincestate != "Manitoba"
+{txt}  8{com}. 
+. qui gen `var'XXX = `var'
+{txt}  9{com}. qui replace `var'XXX = . if provincestate != " National"
+{txt} 10{com}. 
+. qui gen `var'XNB = `var'
+{txt} 11{com}. qui replace `var'XNB = . if provincestate != "New Brunswick"
+{txt} 12{com}. 
+. qui gen `var'XNL = `var'
+{txt} 13{com}. qui replace `var'XNL = . if provincestate != "Newfoundland and Labrador"
+{txt} 14{com}. 
+. qui gen `var'XNT = `var'
+{txt} 15{com}. qui replace `var'XNT = . if provincestate != "Northwest Territories"
+{txt} 16{com}. 
+. qui gen `var'XNS = `var'
+{txt} 17{com}. qui replace `var'XNS = . if provincestate != "Nova Scotia"
+{txt} 18{com}. 
+. qui gen `var'XNU = `var'
+{txt} 19{com}. qui replace `var'XNU = . if provincestate != "Nunavut"
+{txt} 20{com}. 
+. qui gen `var'XON = `var'
+{txt} 21{com}. qui replace `var'XON = . if provincestate != "Ontario"
+{txt} 22{com}. 
+. qui gen `var'XPE = `var'
+{txt} 23{com}. qui replace `var'XPE = . if provincestate != "Prince Edward Island"
+{txt} 24{com}. 
+. qui gen `var'XQC = `var'
+{txt} 25{com}. qui replace `var'XQC = . if provincestate != "Quebec"
+{txt} 26{com}. 
+. qui gen `var'XSK = `var'
+{txt} 27{com}. qui replace `var'XSK = . if provincestate != "Saskatchewan"
+{txt} 28{com}. 
+. qui gen `var'XYT = `var'
+{txt} 29{com}. qui replace `var'XYT = . if provincestate != "Yukon"
+{txt} 30{com}. 
+. label var `var'XAB "`var' Alberta"
+{txt} 31{com}. label var `var'XBC "`var' British Columbia"
+{txt} 32{com}. label var `var'XMB "`var' Manitoba"
+{txt} 33{com}. label var `var'XXX "`var' National"
+{txt} 34{com}. label var `var'XNB "`var' New Brunswick"
+{txt} 35{com}. label var `var'XNL "`var' Newfoundland and Labrador"
+{txt} 36{com}. label var `var'XNT "`var' Northwest Territories"
+{txt} 37{com}. label var `var'XNS "`var' Nova Scotia"
+{txt} 38{com}. label var `var'XNU "`var' Nunavut"
+{txt} 39{com}. label var `var'XON "`var' Ontario"
+{txt} 40{com}. label var `var'XPE "`var' Prince Edward Island"
+{txt} 41{com}. label var `var'XQC "`var' Quebec"
+{txt} 42{com}. label var `var'XSK "`var' Saskatchewan"
+{txt} 43{com}. label var `var'XYT "`var' Yukon"
+{txt} 44{com}. 
+. 
+.                 
+. {c )-}
+{txt}
+{com}. *
+. 
+. 
+. drop provincestate_proper DayDeaMeRaA00S00 TotDeaMeRaA00S00 DayCasMeRaA00S00 TotCasMeRaA00S00 DayDeaMeSmA00S00 DayCasMeSmA00S00
+{txt}
+{com}. 
+. sort loc_grand_name provincestate date
+{txt}
+{com}. 
+. order loc_grand_name provincestate date
+{txt}
+{com}. 
+. qui compress
+{txt}
+{com}. 
+. save "CovidVisualizedCountry JOHN.dta", replace
+{txt}file CovidVisualizedCountry JOHN.dta saved
+
+{com}. 
+. 
+. 
+. 
+. 
+. 
+. view "log CovidVisualizedCountry JOHN.smcl"
+{txt}
+{com}. 
+. log close
+      {txt}name:  {res}<unnamed>
+       {txt}log:  {res}/Users/farshadpourmalek/Downloads/CovidVisualizedCountry-main/longitudinal/code/JOHN/log CovidVisualizedCountry JOHN.smcl
+  {txt}log type:  {res}smcl
+ {txt}closed on:  {res}20 Jan 2022, 19:56:39
+{txt}{.-}
+{smcl}
+{txt}{sf}{ul off}
