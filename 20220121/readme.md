@@ -92,6 +92,7 @@ The current scenarios of IHME include:
 
 (6) Canada [Daily cases or infections, all scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220121/output/merge/main/CAN5%2032aDayCasMERGnat%202021%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/150665096-2ef80595-16b4-4b1d-ae70-bb0ca474b035.png)
 
 ****
 
