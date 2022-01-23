@@ -110,6 +110,7 @@ The current scenarios of IHME include:
 
 (6d) Canada [Daily estimated infections IHME, all scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220121/output/merge/main/graph%2022a2%20C-19%20daily%20infections%2C%20Canada%2C%20%20National%203%20scenarios%2C%20IHME%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/150688591-a423f36a-3f4f-422f-977a-973135448dd2.png)
 
 ****
 
