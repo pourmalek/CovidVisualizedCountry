@@ -116,21 +116,25 @@ The current scenarios of IHME include:
 
 (6e) Canada [Daily estimated infections IHME, all scenarios, 2022](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220121/output/merge/main/graph%2022a3%20C-19%20daily%20infections%2C%20Canada%2C%20%20National%203%20scenarios%2C%20IHME%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/150689081-f0a3508f-a228-4746-98c9-ee3401f3d868.png)
 
 ****
 
 (7) Canada [Hospital-related outcomes, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220121/output/merge/main/CAN7%2071a1DayHosMERGnat%20%20alltime%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20National.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/150689108-dc11fea1-a4d2-41aa-b954-43fcf63601d3.png)
 
 ****
 
 (8) Canada [Hospital-related outcomes, all time, without DELP Hospitalized DELP, DELP Ventilated, and IHME Bed need](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220121/output/merge/main/CAN7%2071a2DayHosMERGnat%20%20alltime%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20National.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/150689153-df4ec21c-d570-45d3-988d-ab470bd19714.png)
 
 ****
 
 (9) Canada [Daily deaths estimated to reported, reference scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220121/output/merge/main/CAN9%2092aDayDERMERGnat%202021%20-%20COVID-19%20daily%20deaths%20estimated%20to%20reported%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/150689202-62ae993a-87df-4a65-bd0c-64d386607385.png)
 
 ****
 
