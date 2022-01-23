@@ -215,11 +215,13 @@ The current scenarios of IHME include:
 
 (3b) Canada provinces [Daily infections, reference scenarios, all time, IHME, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220121/output/IHME/graph%2021a2%20C-19%20daily%20infections%2C%20Canada%2C%20subnational%2C%20IHME%2C%20reference%20scenario%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/150691361-021adf87-eb70-4176-804f-dcf8cedef353.png)
 
 ****
 
 (3c) Canada provinces [Daily infections, reference scenarios, all time, IHME, 2022](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220121/output/IHME/graph%2021a3%20C-19%20daily%20infections%2C%20Canada%2C%20subnational%2C%20IHME%2C%20reference%20scenario%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/150691383-224d5b01-dd97-4d91-add9-b293e48b42ba.png)
 
 ****
 
