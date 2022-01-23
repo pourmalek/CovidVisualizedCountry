@@ -1,9 +1,9 @@
 {smcl}
-{txt}{sf}{ul off}{.-}
+{com}{sf}{ul off}{txt}{.-}
       name:  {res}<unnamed>
        {txt}log:  {res}/Users/farshadpourmalek/Downloads/CovidVisualizedCountry-main/20220121/code/merge/log CovidVisualizedCountry merge.smcl
   {txt}log type:  {res}smcl
- {txt}opened on:  {res}23 Jan 2022, 10:47:44
+ {txt}opened on:  {res}23 Jan 2022, 13:10:55
 {txt}
 {com}. 
 . 
@@ -870,8 +870,7 @@ all files already exist and are up to date.
 {txt}
 {com}. 
 . save "CovidVisualizedCountry merge.dta", replace
-{txt}(note: file CovidVisualizedCountry merge.dta not found)
-file CovidVisualizedCountry merge.dta saved
+{txt}file CovidVisualizedCountry merge.dta saved
 
 {com}. 
 . 
@@ -994,7 +993,7 @@ now 732
 
 {txt}Contains data from {res}CovidVisualizedCountry merge.dta
 {txt}  obs:{res}        11,161                          
-{txt} vars:{res}         2,172                          23 Jan 2022 10:48
+{txt} vars:{res}         2,172                          23 Jan 2022 13:11
 {txt} size:{res}    84,031,169                          
 {txt}{hline}
               storage   display    value
@@ -9293,7 +9292,6 @@ Sorted by: {res}loc_grand_name  provincestate  date
 {res}{txt}
 {com}.            
 . graph save "graph 101c COVID-19 daily detected infections, $country provinces with national reference scenario CI, IHME.gph", replace
-{txt}(note: file graph 101c COVID-19 daily detected infections, Canada provinces with national reference scenario CI, IHME.gph not found)
 {res}{txt}(file graph 101c COVID-19 daily detected infections, Canada provinces with national reference scenario CI, IHME.gph saved)
 
 {com}. graph export "graph 101c COVID-19 daily detected infections, $country provinces with national reference scenario CI, IHME.pdf", replace
@@ -9329,7 +9327,6 @@ Sorted by: {res}loc_grand_name  provincestate  date
 {res}{txt}
 {com}.            
 . graph save "graph 101d COVID-19 daily detected infections, $country provinces wo national reference scenario CI, IHME.gph", replace
-{txt}(note: file graph 101d COVID-19 daily detected infections, Canada provinces wo national reference scenario CI, IHME.gph not found)
 {res}{txt}(file graph 101d COVID-19 daily detected infections, Canada provinces wo national reference scenario CI, IHME.gph saved)
 
 {com}. graph export "graph 101d COVID-19 daily detected infections, $country provinces wo national reference scenario CI, IHME.pdf", replace
@@ -9357,7 +9354,6 @@ Sorted by: {res}loc_grand_name  provincestate  date
 {res}{txt}
 {com}.            
 . graph save "graph 102a COVID-19 daily hospitalized infections, $country National reference scenario CI, IHME.gph", replace
-{txt}(note: file graph 102a COVID-19 daily hospitalized infections, Canada National reference scenario CI, IHME.gph not found)
 {res}{txt}(file graph 102a COVID-19 daily hospitalized infections, Canada National reference scenario CI, IHME.gph saved)
 
 {com}. graph export "graph 102a COVID-19 daily hospitalized infections, $country National reference scenario CI, IHME.pdf", replace
@@ -9395,25 +9391,18 @@ Sorted by: {res}loc_grand_name  provincestate  date
 {txt}  4{com}. graph export "graph 102b COVID-19 daily hospitalized infections, $country `l' reference scenario CI, IHME.pdf", replace
 {txt}  5{com}. 
 . {c )-}
-{res}{txt}(note: file graph 102b COVID-19 daily hospitalized infections, Canada Alberta reference scenario CI, IHME.gph not found)
 {res}{txt}(file graph 102b COVID-19 daily hospitalized infections, Canada Alberta reference scenario CI, IHME.gph saved)
 (file /Users/farshadpourmalek/Downloads/CovidVisualizedCountry-main/20220121/code/merge/graph 102b COVID-19 daily hospitalized infections, Canada Alberta reference scenario CI, IHME.pdf written in PDF format)
-{res}{txt}(note: file graph 102b COVID-19 daily hospitalized infections, Canada British Columbia reference scenario CI, IHME.gph not found)
 {res}{txt}(file graph 102b COVID-19 daily hospitalized infections, Canada British Columbia reference scenario CI, IHME.gph saved)
 (file /Users/farshadpourmalek/Downloads/CovidVisualizedCountry-main/20220121/code/merge/graph 102b COVID-19 daily hospitalized infections, Canada British Columbia reference scenario CI, IHME.pdf written in PDF format)
-{res}{txt}(note: file graph 102b COVID-19 daily hospitalized infections, Canada Manitoba reference scenario CI, IHME.gph not found)
 {res}{txt}(file graph 102b COVID-19 daily hospitalized infections, Canada Manitoba reference scenario CI, IHME.gph saved)
 (file /Users/farshadpourmalek/Downloads/CovidVisualizedCountry-main/20220121/code/merge/graph 102b COVID-19 daily hospitalized infections, Canada Manitoba reference scenario CI, IHME.pdf written in PDF format)
-{res}{txt}(note: file graph 102b COVID-19 daily hospitalized infections, Canada Nova Scotia reference scenario CI, IHME.gph not found)
 {res}{txt}(file graph 102b COVID-19 daily hospitalized infections, Canada Nova Scotia reference scenario CI, IHME.gph saved)
 (file /Users/farshadpourmalek/Downloads/CovidVisualizedCountry-main/20220121/code/merge/graph 102b COVID-19 daily hospitalized infections, Canada Nova Scotia reference scenario CI, IHME.pdf written in PDF format)
-{res}{txt}(note: file graph 102b COVID-19 daily hospitalized infections, Canada Ontario reference scenario CI, IHME.gph not found)
 {res}{txt}(file graph 102b COVID-19 daily hospitalized infections, Canada Ontario reference scenario CI, IHME.gph saved)
 (file /Users/farshadpourmalek/Downloads/CovidVisualizedCountry-main/20220121/code/merge/graph 102b COVID-19 daily hospitalized infections, Canada Ontario reference scenario CI, IHME.pdf written in PDF format)
-{res}{txt}(note: file graph 102b COVID-19 daily hospitalized infections, Canada Quebec reference scenario CI, IHME.gph not found)
 {res}{txt}(file graph 102b COVID-19 daily hospitalized infections, Canada Quebec reference scenario CI, IHME.gph saved)
 (file /Users/farshadpourmalek/Downloads/CovidVisualizedCountry-main/20220121/code/merge/graph 102b COVID-19 daily hospitalized infections, Canada Quebec reference scenario CI, IHME.pdf written in PDF format)
-{res}{txt}(note: file graph 102b COVID-19 daily hospitalized infections, Canada Saskatchewan reference scenario CI, IHME.gph not found)
 {res}{txt}(file graph 102b COVID-19 daily hospitalized infections, Canada Saskatchewan reference scenario CI, IHME.gph saved)
 (file /Users/farshadpourmalek/Downloads/CovidVisualizedCountry-main/20220121/code/merge/graph 102b COVID-19 daily hospitalized infections, Canada Saskatchewan reference scenario CI, IHME.pdf written in PDF format)
 
@@ -9447,7 +9436,6 @@ Sorted by: {res}loc_grand_name  provincestate  date
 {res}{txt}
 {com}.            
 . graph save "graph 103a COVID-19 daily fatal infections, $country National reference scenario CI, IHME.gph", replace
-{txt}(note: file graph 103a COVID-19 daily fatal infections, Canada National reference scenario CI, IHME.gph not found)
 {res}{txt}(file graph 103a COVID-19 daily fatal infections, Canada National reference scenario CI, IHME.gph saved)
 
 {com}. graph export "graph 103a COVID-19 daily fatal infections, $country National reference scenario CI, IHME.pdf", replace
@@ -9489,25 +9477,18 @@ Sorted by: {res}loc_grand_name  provincestate  date
 {txt}  4{com}. graph export "graph 103b COVID-19 daily fatal infections, $country `l' reference scenario CI, IHME.pdf", replace
 {txt}  5{com}. 
 . {c )-}
-{res}{txt}(note: file graph 103b COVID-19 daily fatal infections, Canada Alberta reference scenario CI, IHME.gph not found)
 {res}{txt}(file graph 103b COVID-19 daily fatal infections, Canada Alberta reference scenario CI, IHME.gph saved)
 (file /Users/farshadpourmalek/Downloads/CovidVisualizedCountry-main/20220121/code/merge/graph 103b COVID-19 daily fatal infections, Canada Alberta reference scenario CI, IHME.pdf written in PDF format)
-{res}{txt}(note: file graph 103b COVID-19 daily fatal infections, Canada British Columbia reference scenario CI, IHME.gph not found)
 {res}{txt}(file graph 103b COVID-19 daily fatal infections, Canada British Columbia reference scenario CI, IHME.gph saved)
 (file /Users/farshadpourmalek/Downloads/CovidVisualizedCountry-main/20220121/code/merge/graph 103b COVID-19 daily fatal infections, Canada British Columbia reference scenario CI, IHME.pdf written in PDF format)
-{res}{txt}(note: file graph 103b COVID-19 daily fatal infections, Canada Manitoba reference scenario CI, IHME.gph not found)
 {res}{txt}(file graph 103b COVID-19 daily fatal infections, Canada Manitoba reference scenario CI, IHME.gph saved)
 (file /Users/farshadpourmalek/Downloads/CovidVisualizedCountry-main/20220121/code/merge/graph 103b COVID-19 daily fatal infections, Canada Manitoba reference scenario CI, IHME.pdf written in PDF format)
-{res}{txt}(note: file graph 103b COVID-19 daily fatal infections, Canada Nova Scotia reference scenario CI, IHME.gph not found)
 {res}{txt}(file graph 103b COVID-19 daily fatal infections, Canada Nova Scotia reference scenario CI, IHME.gph saved)
 (file /Users/farshadpourmalek/Downloads/CovidVisualizedCountry-main/20220121/code/merge/graph 103b COVID-19 daily fatal infections, Canada Nova Scotia reference scenario CI, IHME.pdf written in PDF format)
-{res}{txt}(note: file graph 103b COVID-19 daily fatal infections, Canada Ontario reference scenario CI, IHME.gph not found)
 {res}{txt}(file graph 103b COVID-19 daily fatal infections, Canada Ontario reference scenario CI, IHME.gph saved)
 (file /Users/farshadpourmalek/Downloads/CovidVisualizedCountry-main/20220121/code/merge/graph 103b COVID-19 daily fatal infections, Canada Ontario reference scenario CI, IHME.pdf written in PDF format)
-{res}{txt}(note: file graph 103b COVID-19 daily fatal infections, Canada Quebec reference scenario CI, IHME.gph not found)
 {res}{txt}(file graph 103b COVID-19 daily fatal infections, Canada Quebec reference scenario CI, IHME.gph saved)
 (file /Users/farshadpourmalek/Downloads/CovidVisualizedCountry-main/20220121/code/merge/graph 103b COVID-19 daily fatal infections, Canada Quebec reference scenario CI, IHME.pdf written in PDF format)
-{res}{txt}(note: file graph 103b COVID-19 daily fatal infections, Canada Saskatchewan reference scenario CI, IHME.gph not found)
 {res}{txt}(file graph 103b COVID-19 daily fatal infections, Canada Saskatchewan reference scenario CI, IHME.gph saved)
 (file /Users/farshadpourmalek/Downloads/CovidVisualizedCountry-main/20220121/code/merge/graph 103b COVID-19 daily fatal infections, Canada Saskatchewan reference scenario CI, IHME.pdf written in PDF format)
 
@@ -9546,7 +9527,6 @@ Sorted by: {res}loc_grand_name  provincestate  date
 {res}{txt}
 {com}.            
 . graph save "graph 103c COVID-19 daily fatal infections, $country provinces together with national reference scenario CI, IHME.gph", replace
-{txt}(note: file graph 103c COVID-19 daily fatal infections, Canada provinces together with national reference scenario CI, IHME.gph not found)
 {res}{txt}(file graph 103c COVID-19 daily fatal infections, Canada provinces together with national reference scenario CI, IHME.gph saved)
 
 {com}. graph export "graph 103c COVID-19 daily fatal infections, $country provinces together with national reference scenario CI, IHME.pdf", replace
@@ -9581,7 +9561,6 @@ Sorted by: {res}loc_grand_name  provincestate  date
 {res}{txt}
 {com}.            
 . graph save "graph 103d COVID-19 daily fatal infections, $country provinces together wo national reference scenario CI, IHME.gph", replace
-{txt}(note: file graph 103d COVID-19 daily fatal infections, Canada provinces together wo national reference scenario CI, IHME.gph not found)
 {res}{txt}(file graph 103d COVID-19 daily fatal infections, Canada provinces together wo national reference scenario CI, IHME.gph saved)
 
 {com}. graph export "graph 103d COVID-19 daily fatal infections, $country provinces together wo national reference scenario CI, IHME.pdf", replace
@@ -10086,7 +10065,7 @@ Sorted by: {res}loc_grand_name  provincestate  date
       {txt}name:  {res}<unnamed>
        {txt}log:  {res}/Users/farshadpourmalek/Downloads/CovidVisualizedCountry-main/20220121/code/merge/log CovidVisualizedCountry merge.smcl
   {txt}log type:  {res}smcl
- {txt}closed on:  {res}23 Jan 2022, 10:57:34
+ {txt}closed on:  {res}23 Jan 2022, 13:20:42
 {txt}{.-}
 {smcl}
 {txt}{sf}{ul off}
