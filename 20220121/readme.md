@@ -227,6 +227,7 @@ The current scenarios of IHME include:
 
 (4a) Canada provinces [Daily Cases mean worse scenario, with national, PHAC](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220121/output/PHAC/3a%20provinces%20with%20national%20-%20C19%20Daily%20Cases%20mean%20worse%20scenario%2C%20Canada%2C%20PHAC.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/150691581-48655f11-f5be-4c2d-80c0-b2f070b712fa.png)
 
 ****
 
