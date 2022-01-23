@@ -146,16 +146,19 @@ The current scenarios of IHME include:
 
 (11) Canada [Daily Infection-outcomes ratios, 2 scenarios, IHME, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220121/output/merge/main/graph%2091a%20COVID-19%20daily%20Infection%20outcomes%20ratios%2C%20Canada%2C%20National%202%20scenarios%2C%20IHME.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/150689750-dcde05b2-1f24-4899-ba03-4b2b8d0d7bbd.png)
 
 ****
 
 (11b) Canada [Daily infection hospitalization & fatality ratios, 2 scenarios, IHME, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220121/output/merge/main/graph%2091a2%20COVID-19%20daily%20Infection%20outcomes%20ratios%2C%20Canada%2C%20National%202%20scenarios%2C%20IHME.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/150689775-14371f26-f3ba-4f2a-87b0-f23b4566a092.png)
 
 ****
 
-(12) Canada [Daily mask use, 3 scenarios, all time, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220121/output/merge/main/graph%2093a%20COVID-19%20daily%20mask_use%2C%20Canada%2C%20National%2C%202%20scenarios.pdf) 
+(12) Canada [Daily mask use, 2 scenarios, all time, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220121/output/merge/main/graph%2093a%20COVID-19%20daily%20mask_use%2C%20Canada%2C%20National%2C%202%20scenarios.pdf) 
 
+![image](https://user-images.githubusercontent.com/30849720/150689803-d2137c6b-ab32-44ed-86be-6d149c71722d.png)
 
 ****
 
