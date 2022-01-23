@@ -66,7 +66,7 @@ The current scenarios of IHME include:
 
 ****
 
-(2) Canada [Daily deaths, reference scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/20220121/output/merge/CAN2%2012aDayDeaMERGnat%202021%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%202021.pdf)
+(2) Canada [Daily deaths, reference scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220121/output/merge/CAN2%2012aDayDeaMERGnat%202021%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%202021.pdf)
 
 ![image](https://user-images.githubusercontent.com/30849720/150664563-f8923404-bade-4ff1-8942-6c0977931489.png)
 
