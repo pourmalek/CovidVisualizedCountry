@@ -62,31 +62,37 @@ The current scenarios of IHME include:
 
 (1) Canada [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220121/output/merge/main/CAN1%2011aDayDeaMERGnat%20alltime%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/150664558-aa81ae88-4fd8-42b0-a517-b1110a5848e4.png)
 
 ****
 
 (2) Canada [Daily deaths, reference scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220121/output/merge/main/CAN2%2012aDayDeaMERGnat%202021%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/150664563-f8923404-bade-4ff1-8942-6c0977931489.png)
 
 ****
 
 (3) Canada [Daily deaths, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220121/output/merge/main/CAN3%2014a2DayDeaMERGnat%202021%202%20scenarios%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20National%2C%202%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/150664574-61cd0532-5ae0-465a-b035-b0836ffe074d.png)
 
 ****
 
 (4) Canada [Daily cases or infections, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220121/output/merge/main/CAN4%2031aDayCasMERGnat%20alltime%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20National%2C%20reference%20scenarios.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/150664584-f5864d27-d641-4c09-96ca-2922c57a9cd8.png)
 
 ****
 
 (5) Canada [Daily cases or infections, reference scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220121/output/merge/main/CAN5%2032aDayCasMERGnat%202021%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/150664852-dc7ae18c-a5f5-4ca1-bf50-8696737278a2.png)
 
 ****
 
-(6) Canada [Daily cases or infections, all scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220121/output/merge/main/CAN6%2034aDayCasMERGnat%202021%203scen%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20National%2C%203%20scenarios%2C%202021%2C%20uncertainty.pdf)
+(6) Canada [Daily cases or infections, all scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220121/output/merge/main/CAN5%2032aDayCasMERGnat%202021%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/150665096-2ef80595-16b4-4b1d-ae70-bb0ca474b035.png)
 
 ****
 

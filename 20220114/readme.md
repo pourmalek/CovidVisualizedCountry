@@ -90,9 +90,9 @@ The current scenarios of IHME include:
 
 ****
 
-(6) Canada [Daily cases or infections, all scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220114/output/merge/main/CAN6%2034aDayCasMERGnat%202021%203scen%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20National%2C%203%20scenarios%2C%202021%2C%20uncertainty.pdf)
+(6) Canada [Daily cases or infections, all scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220114/output/merge/main/CAN5%2032aDayCasMERGnat%202021%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%202021.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/149647262-f181817d-2eef-4f8c-b6d7-22659a57f3bd.png)
+![image](https://user-images.githubusercontent.com/30849720/150665039-e0f8d5e7-0215-4684-ae2c-98c5ccaf522b.png)
 
 ****
 
