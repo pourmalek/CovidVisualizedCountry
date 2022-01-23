@@ -4454,6 +4454,211 @@ graph export "graph 103d COVID-19 daily fatal infections, $country provinces tog
 ********************
 
 
+
+
+
+* Selected graphs - Canada, provinces --- JOHN
+
+
+
+****
+* 1 a daily deaths, national, all subnational
+
+twoway ///
+(line DayDeaMeSmA00S00XAB date, sort lwidth(medium) lcolor(cyan)) /// 1 "AB" cyan
+(line DayDeaMeSmA00S00XBC date, sort lwidth(medium) lcolor(blue)) /// 2 "BC" blue
+(line DayDeaMeSmA00S00XMB date, sort lwidth(medium) lcolor(lime)) /// 3 "MB" lime
+(line DayDeaMeSmA00S00XNB date, sort lwidth(medthin) lpattern(dash) lcolor(brown)) /// 4 "NB"
+(line DayDeaMeSmA00S00XNL date, sort lwidth(medthin) lpattern(dash) lcolor(gray)) /// 5 "NL"
+(line DayDeaMeSmA00S00XNT date, sort lwidth(medthin) lpattern(dash) lcolor(khaki)) /// 6 "NT"
+(line DayDeaMeSmA00S00XNS date, sort lwidth(medium) lcolor(magenta)) /// 7 "NS" magenta
+(line DayDeaMeSmA00S00XNU date, sort lwidth(medthin) lpattern(dash) lcolor(lavender)) /// 8 "NU"
+(line DayDeaMeSmA00S00XON date, sort lwidth(medium) lcolor(red)) /// 9 "ON" red
+(line DayDeaMeSmA00S00XPE date, sort lwidth(medthin) lpattern(dash) lcolor(gold)) /// 10 "PE" 
+(line DayDeaMeSmA00S00XQC date, sort lwidth(medium) lcolor(black)) /// 11 "QC" black
+(line DayDeaMeSmA00S00XSK date, sort lwidth(medium) lcolor(orange)) /// 12 "SK" orange
+(line DayDeaMeSmA00S00XYT date, sort lwidth(medthin) lpattern(dash) lcolor(green)) /// 13 "YT'"
+(line DayDeaMeSmA00S00XXX date, sort lwidth(thick) lcolor(gray)) /// 14 "CAN" 
+, xtitle(Date) xlabel(#$monthspast01jan2020, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(forty_five)) ///
+ytitle(Daily deaths) title("COVID-19 daily deaths, smooth, $country, Johns Hopkins", size(medium)) ///
+xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
+legend(order(1 "AB" 2 "BC" 3 "MB" 4 "NB" 5 "NL" 6 "NT" ///
+7 "NS" 8 "NU" 9 "ON" 10 "PE" 11 "QC" 12 "SK" 13 "YT" 14 "CAN") rows(3) size(small)) ///
+subtitle("All provinces and territories", size(small)) 
+
+qui graph save "graph 1 a COVID-19 daily deaths, $country, subnational, Johns Hopkins.gph", replace
+qui graph export "graph 1 a COVID-19 daily deaths, $country, subnational, Johns Hopkins.pdf", replace
+
+
+
+
+
+****
+* 1 b2 daily deaths, subnational, 2021 on
+
+twoway ///
+(line DayDeaMeSmA00S00XAB date, sort lwidth(medium) lcolor(cyan)) /// 1 "AB" 
+(line DayDeaMeSmA00S00XBC date, sort lwidth(medium) lcolor(blue)) /// 2 "BC" 
+(line DayDeaMeSmA00S00XMB date, sort lwidth(medium) lcolor(lime)) /// 3 "MB" 
+(line DayDeaMeSmA00S00XNB date, sort lwidth(medium) lcolor(dknavy)) /// 4 "NB" 
+(line DayDeaMeSmA00S00XNL date, sort lwidth(medium) lcolor(gold)) /// 5 "NL" 
+(line DayDeaMeSmA00S00XNS date, sort lwidth(medium) lcolor(magenta)) /// 6 "NS" 
+(line DayDeaMeSmA00S00XNT date, sort lwidth(medium) lcolor(dkorange) lpattern(tight_dot) lwidth(vthick)) /// 7 "NT" 
+(line DayDeaMeSmA00S00XNU date, sort lwidth(medium) lcolor(brown) lpattern(tight_dot) lwidth(vthick)) /// 8 "NU" 
+(line DayDeaMeSmA00S00XON date, sort lwidth(medium) lcolor(red)) /// 9 "ON" 
+(line DayDeaMeSmA00S00XPE date, sort lwidth(medium) lcolor(pink)) /// 10 "PE" 
+(line DayDeaMeSmA00S00XQC date, sort lwidth(medium) lcolor(black)) /// 11 "QC" 
+(line DayDeaMeSmA00S00XSK date, sort lwidth(medium) lcolor(lavender)) /// 12 "SK" 
+(line DayDeaMeSmA00S00XYT date, sort lwidth(medium) lcolor(black) lpattern(tight_dot) lwidth(vthick)) /// 13 "YT" 
+if date >= td(01jan2021) /// 
+, xtitle(Date) xlabel(#$monthspast01jan2021, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(forty_five)) ///
+ytitle(Daily deaths) title("COVID-19 daily deaths, smooth, $country, Johns Hopkins", size(medium)) ///
+xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
+legend(order(1 "AB" 2 "BC" 3 "MB" 4 "NB" 5 "NL" 6 "NS" 7 "NT" 8 "NU" 9 "ON" 10 "PE" 11 "QC" 12 "SK" 13 "YT") rows(2) size(small)) 
+
+qui graph save "graph 1 b2 COVID-19 daily deaths, $country, subnational, Johns Hopkins.gph", replace
+qui graph export "graph 1 b2 COVID-19 daily deaths, $country, subnational, Johns Hopkins.pdf", replace
+
+
+
+
+
+****
+* 1 b3 daily deaths, subnational, 2022
+
+twoway ///
+(line DayDeaMeSmA00S00XAB date, sort lwidth(medium) lcolor(cyan)) /// 1 "AB" 
+(line DayDeaMeSmA00S00XBC date, sort lwidth(medium) lcolor(blue)) /// 2 "BC" 
+(line DayDeaMeSmA00S00XMB date, sort lwidth(medium) lcolor(lime)) /// 3 "MB" 
+(line DayDeaMeSmA00S00XNB date, sort lwidth(medium) lcolor(dknavy)) /// 4 "NB" 
+(line DayDeaMeSmA00S00XNL date, sort lwidth(medium) lcolor(gold)) /// 5 "NL" 
+(line DayDeaMeSmA00S00XNS date, sort lwidth(medium) lcolor(magenta)) /// 6 "NS" 
+(line DayDeaMeSmA00S00XNT date, sort lwidth(medium) lcolor(dkorange) lpattern(tight_dot) lwidth(vthick)) /// 7 "NT" 
+(line DayDeaMeSmA00S00XNU date, sort lwidth(medium) lcolor(brown) lpattern(tight_dot) lwidth(vthick)) /// 8 "NU" 
+(line DayDeaMeSmA00S00XON date, sort lwidth(medium) lcolor(red)) /// 9 "ON" 
+(line DayDeaMeSmA00S00XPE date, sort lwidth(medium) lcolor(pink)) /// 10 "PE" 
+(line DayDeaMeSmA00S00XQC date, sort lwidth(medium) lcolor(black)) /// 11 "QC" 
+(line DayDeaMeSmA00S00XSK date, sort lwidth(medium) lcolor(lavender)) /// 12 "SK" 
+(line DayDeaMeSmA00S00XYT date, sort lwidth(medium) lcolor(black) lpattern(tight_dot) lwidth(vthick)) /// 13 "YT" 
+if date >= td(01jan2022) & date <= td(01feb2022) /// 
+, xtitle(Date) xlabel(, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(forty_five)) ///
+ytitle(Daily deaths) title("COVID-19 daily deaths, smooth, $country, Johns Hopkins", size(medium)) ///
+xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
+legend(order(1 "AB" 2 "BC" 3 "MB" 4 "NB" 5 "NL" 6 "NS" 7 "NT" 8 "NU" 9 "ON" 10 "PE" 11 "QC" 12 "SK" 13 "YT") rows(2) size(small)) 
+
+qui graph save "graph 1 b3 COVID-19 daily deaths, $country, subnational, Johns Hopkins.gph", replace
+qui graph export "graph 1 b3 COVID-19 daily deaths, $country, subnational, Johns Hopkins.pdf", replace
+
+
+
+
+
+
+****
+* 11 a daily cases, national, all subnational
+
+twoway ///
+(line DayCasMeSmA00S00XAB date, sort lwidth(medium) lcolor(cyan)) /// 1 "AB" cyan
+(line DayCasMeSmA00S00XBC date, sort lwidth(medium) lcolor(blue)) /// 2 "BC" blue
+(line DayCasMeSmA00S00XMB date, sort lwidth(medium) lcolor(lime)) /// 3 "MB" lime
+(line DayCasMeSmA00S00XNB date, sort lwidth(medthin) lpattern(dash) lcolor(brown)) /// 4 "NB"
+(line DayCasMeSmA00S00XNL date, sort lwidth(medthin) lpattern(dash) lcolor(gray)) /// 5 "NL"
+(line DayCasMeSmA00S00XNT date, sort lwidth(medthin) lpattern(dash) lcolor(khaki)) /// 6 "NT"
+(line DayCasMeSmA00S00XNS date, sort lwidth(medium) lcolor(magenta)) /// 7 "NS" magenta
+(line DayCasMeSmA00S00XNU date, sort lwidth(medthin) lpattern(dash) lcolor(lavender)) /// 8 "NU"
+(line DayCasMeSmA00S00XON date, sort lwidth(medium) lcolor(red)) /// 9 "ON" red
+(line DayCasMeSmA00S00XPE date, sort lwidth(medthin) lpattern(dash) lcolor(gold)) /// 10 "PE" 
+(line DayCasMeSmA00S00XQC date, sort lwidth(medium) lcolor(black)) /// 11 "QC" black
+(line DayCasMeSmA00S00XSK date, sort lwidth(medium) lcolor(orange)) /// 12 "SK" orange
+(line DayCasMeSmA00S00XYT date, sort lwidth(medthin) lpattern(dash) lcolor(green)) /// 13 "YT'"
+(line DayCasMeSmA00S00XXX date, sort lwidth(thick) lcolor(gray)) /// 14 "CAN" 
+, xtitle(Date) xlabel(#$monthspast01jan2020, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(forty_five)) ///
+ytitle(Daily cases) title("COVID-19 daily cases, smooth, $country, Johns Hopkins", size(medium)) ///
+xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
+legend(order(1 "AB" 2 "BC" 3 "MB" 4 "NB" 5 "NL" 6 "NT" ///
+7 "NS" 8 "NU" 9 "ON" 10 "PE" 11 "QC" 12 "SK" 13 "YT" 14 "CAN") rows(3) size(small)) ///
+subtitle("All provinces and territories", size(small)) 
+
+qui graph save "graph 11 a COVID-19 daily cases, $country, subnational, Johns Hopkins.gph", replace
+qui graph export "graph 11 a COVID-19 daily cases, $country, subnational, Johns Hopkins.pdf", replace
+
+
+
+
+
+****
+* 11 b2 daily cases, subnational, 2021 on
+
+twoway ///
+(line DayCasMeSmA00S00XAB date, sort lwidth(medium) lcolor(cyan)) /// 1 "AB" 
+(line DayCasMeSmA00S00XBC date, sort lwidth(medium) lcolor(blue)) /// 2 "BC" 
+(line DayCasMeSmA00S00XMB date, sort lwidth(medium) lcolor(lime)) /// 3 "MB" 
+(line DayCasMeSmA00S00XNB date, sort lwidth(medium) lcolor(dknavy)) /// 4 "NB" 
+(line DayCasMeSmA00S00XNL date, sort lwidth(medium) lcolor(gold)) /// 5 "NL" 
+(line DayCasMeSmA00S00XNS date, sort lwidth(medium) lcolor(magenta)) /// 6 "NS" 
+(line DayCasMeSmA00S00XNT date, sort lwidth(medium) lcolor(dkorange) lpattern(tight_dot) lwidth(vthick)) /// 7 "NT" 
+(line DayCasMeSmA00S00XNU date, sort lwidth(medium) lcolor(brown) lpattern(tight_dot) lwidth(vthick)) /// 8 "NU" 
+(line DayCasMeSmA00S00XON date, sort lwidth(medium) lcolor(red)) /// 9 "ON" 
+(line DayCasMeSmA00S00XPE date, sort lwidth(medium) lcolor(pink)) /// 10 "PE" 
+(line DayCasMeSmA00S00XQC date, sort lwidth(medium) lcolor(black)) /// 11 "QC" 
+(line DayCasMeSmA00S00XSK date, sort lwidth(medium) lcolor(lavender)) /// 12 "SK" 
+(line DayCasMeSmA00S00XYT date, sort lwidth(medium) lcolor(black) lpattern(tight_dot) lwidth(vthick)) /// 13 "YT" 
+if date >= td(01jan2021) /// 
+, xtitle(Date) xlabel(#$monthspast01jan2021, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(forty_five)) ///
+ytitle(Daily cases) title("COVID-19 daily cases, smooth, $country, Johns Hopkins", size(medium)) ///
+xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
+legend(order(1 "AB" 2 "BC" 3 "MB" 4 "NB" 5 "NL" 6 "NS" 7 "NT" 8 "NU" 9 "ON" 10 "PE" 11 "QC" 12 "SK" 13 "YT") rows(2) size(small)) 
+
+qui graph save "graph 11 b2 COVID-19 daily cases, $country, subnational, Johns Hopkins.gph", replace
+qui graph export "graph 11 b2 COVID-19 daily cases, $country, subnational, Johns Hopkins.pdf", replace
+
+
+
+
+
+****
+* 1 b3 daily cases, subnational, 2022
+
+twoway ///
+(line DayCasMeSmA00S00XAB date, sort lwidth(medium) lcolor(cyan)) /// 1 "AB" 
+(line DayCasMeSmA00S00XBC date, sort lwidth(medium) lcolor(blue)) /// 2 "BC" 
+(line DayCasMeSmA00S00XMB date, sort lwidth(medium) lcolor(lime)) /// 3 "MB" 
+(line DayCasMeSmA00S00XNB date, sort lwidth(medium) lcolor(dknavy)) /// 4 "NB" 
+(line DayCasMeSmA00S00XNL date, sort lwidth(medium) lcolor(gold)) /// 5 "NL" 
+(line DayCasMeSmA00S00XNS date, sort lwidth(medium) lcolor(magenta)) /// 6 "NS" 
+(line DayCasMeSmA00S00XNT date, sort lwidth(medium) lcolor(dkorange) lpattern(tight_dot) lwidth(vthick)) /// 7 "NT" 
+(line DayCasMeSmA00S00XNU date, sort lwidth(medium) lcolor(brown) lpattern(tight_dot) lwidth(vthick)) /// 8 "NU" 
+(line DayCasMeSmA00S00XON date, sort lwidth(medium) lcolor(red)) /// 9 "ON" 
+(line DayCasMeSmA00S00XPE date, sort lwidth(medium) lcolor(pink)) /// 10 "PE" 
+(line DayCasMeSmA00S00XQC date, sort lwidth(medium) lcolor(black)) /// 11 "QC" 
+(line DayCasMeSmA00S00XSK date, sort lwidth(medium) lcolor(lavender)) /// 12 "SK" 
+(line DayCasMeSmA00S00XYT date, sort lwidth(medium) lcolor(black) lpattern(tight_dot) lwidth(vthick)) /// 13 "YT" 
+if date >= td(01jan2022) & date <= td(01feb2022) /// 
+, xtitle(Date) xlabel(, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(forty_five)) ///
+ytitle(Daily cases) title("COVID-19 daily cases, smooth, $country, Johns Hopkins", size(medium)) ///
+xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
+legend(order(1 "AB" 2 "BC" 3 "MB" 4 "NB" 5 "NL" 6 "NS" 7 "NT" 8 "NU" 9 "ON" 10 "PE" 11 "QC" 12 "SK" 13 "YT") rows(2) size(small)) 
+
+qui graph save "graph 11 b3 COVID-19 daily cases, $country, subnational, Johns Hopkins.gph", replace
+qui graph export "graph 11 b3 COVID-19 daily cases, $country, subnational, Johns Hopkins.pdf", replace
+
+
+
+
+
+
+
+
+
+
+
+
 * Selected graphs - Canada, provinces --- IHME
 
 
