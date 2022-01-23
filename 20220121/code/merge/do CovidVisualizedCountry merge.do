@@ -4009,7 +4009,7 @@ qui graph export "graph 92a COVID-19 daily mobility, $country, `l', 2 scenarios.
 
 
 
-* daily mask_use Percent of population reporting always wearing a mask when leaving home, National 
+* daily mask use Percent of population reporting always wearing a mask when leaving home, National 
 
 twoway ///
 (line mask_use_mean_A02S02 date, sort lcolor(lime) lpattern(tight_dot) lwidth(vthick)) ///
