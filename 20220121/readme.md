@@ -164,6 +164,7 @@ The current scenarios of IHME include:
 
 (13) Canada [Percent cumulative vaccinated, 2021 on, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220121/output/merge/main/graph%2094a%20COVID-19%20percent%20cumulative%20vaccinated%2C%20Canada%2C%20National.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/150689909-4c81c0e7-4273-447e-b13e-c24c2b53c3cc.png)
 
 ****
 
