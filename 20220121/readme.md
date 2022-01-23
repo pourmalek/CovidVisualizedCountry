@@ -203,21 +203,25 @@ The current scenarios of IHME include:
 
 (2) Canada provinces [Daily excess deaths, reference scenarios, all time, IHME, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220121/output/IHME/graph%2012a%20C-19%20daily%20excess%20deaths%2C%20Canada%2C%20subnational%2C%20IHME%2C%20reference%20scenario.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/150691237-53f17c4d-83fb-427f-91bc-5bedd6003a4f.png)
 
 ****
 
 (3a) Canada provinces [Daily infections, reference scenarios, all time, IHME, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220121/output/IHME/graph%2021a1%20C-19%20daily%20infections%2C%20Canada%2C%20subnational%2C%20IHME%2C%20reference%20scenario.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/150691295-edd3af29-9c4c-4545-a481-df94660a5650.png)
 
 ****
 
 (3b) Canada provinces [Daily infections, reference scenarios, all time, IHME, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220121/output/IHME/graph%2021a2%20C-19%20daily%20infections%2C%20Canada%2C%20subnational%2C%20IHME%2C%20reference%20scenario%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/150691361-021adf87-eb70-4176-804f-dcf8cedef353.png)
 
 ****
 
 (3c) Canada provinces [Daily infections, reference scenarios, all time, IHME, 2022](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220121/output/IHME/graph%2021a3%20C-19%20daily%20infections%2C%20Canada%2C%20subnational%2C%20IHME%2C%20reference%20scenario%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/150691383-224d5b01-dd97-4d91-add9-b293e48b42ba.png)
 
 ****
 
