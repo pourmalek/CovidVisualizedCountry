@@ -4836,6 +4836,33 @@ qui graph export "graph 21a3 C-19 daily infections, $country, subnational, IHME,
 
 
 
+******
+* 12a daily excess deaths, national, all subnational, reference scenario = S1 
+
+twoway ///
+(line DayDeXMeSmA02S01XAB date, sort lwidth(medium) lcolor(cyan)) /// 1 "AB" cyan
+(line DayDeXMeSmA02S01XBC date, sort lwidth(medium) lcolor(blue)) /// 2 "BC" blue
+(line DayDeXMeSmA02S01XMB date, sort lwidth(medium) lcolor(lime)) /// 3 "MB" lime
+(line DayDeXMeSmA02S01XNS date, sort lwidth(medium) lcolor(magenta)) /// 4 "NS" magenta
+(line DayDeXMeSmA02S01XNL date, sort lwidth(medium) lcolor(gray)) /// 5 "NL"
+(line DayDeXMeSmA02S01XNS date, sort lwidth(medium) lcolor(magenta)) /// 6 "NS" magenta
+(line DayDeXMeSmA02S01XON date, sort lwidth(medium) lcolor(red)) /// 7 "ON" red
+(line DayDeXMeSmA02S01XQC date, sort lwidth(medium) lcolor(black)) /// 8 "QC" black
+(line DayDeXMeSmA02S01XSK date, sort lwidth(medium) lcolor(orange)) /// 9 "SK" orange
+(line DayDeXMeSmA02S01XXX date, sort lwidth(thick) lcolor(gray)) /// 10 "CAN" 
+, xtitle(Date) xlabel(#$monthspast01jan2020IHME, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(forty_five)) ///
+ytitle(Daily excess deaths) title("C-19 daily excess deaths, $country, IHME, reference scenario", size(medium)) ///
+xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
+legend(order(1 "AB" 2 "BC" 3 "MB" 5 "NL" 6 "NS" 7 "ON" 8 "QC" 9 "SK" 10 "CAN") rows(2) size(small)) ///
+subtitle("All provinces avilable in IHME", size(small)) ///
+note("Reference scenario = Current projection")
+
+qui graph save "graph 12a C-19 daily excess deaths, $country, subnational, IHME, reference scenario.gph", replace
+qui graph export "graph 12a C-19 daily excess deaths, $country, subnational, IHME, reference scenario.pdf", replace
+
+
+
 
 
 
