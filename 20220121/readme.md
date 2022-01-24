@@ -16,7 +16,7 @@ The current scenarios of IHME include:
 (S4) 80% mask use
 
 
-
+**SRIV** not included in graphs due to highly implausibly high estimates. 
 
 **PHAC** = PHAC-McMaster model, update 20220121 Public Health Agency of Canada. Update on COVID-19 in Canada: Epidemiology and Modelling, January 14, 2022. https://www.canada.ca/content/dam/phac-aspc/documents/services/diseases-maladies/coronavirus-disease-covid-19/epidemiological-economic-research-data/update-covid-19-canada-epidemiology-modelling-20220121-en.pdf
 
