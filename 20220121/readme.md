@@ -183,17 +183,17 @@ The current scenarios of IHME include:
 
 ### Selected graphs - Canada, provinces
 
-(0a) Canada provinces [Daily reported deaths, all time, JOHN](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220121/output/merge/graph%2011a1%20C-19%20daily%20reported%20deaths%2C%20Canada%2C%20subnational%2C%20IHME%2C%20reference%20scenario.pdf)
+(0a) Canada provinces [Daily reported deaths, all time, JOHN](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220121/output/merge/graph%201%20a%20COVID-19%20daily%20deaths%2C%20Canada%2C%20subnational%2C%20Johns%20Hopkins.pdf)
 
 
 ****
 
-(0b) Canada provinces [Daily reported deaths, 2021 on, JOHN](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220121/output/merge/graph%2011a1%20C-19%20daily%20reported%20deaths%2C%20Canada%2C%20subnational%2C%20IHME%2C%20reference%20scenario.pdf)
+(0b) Canada provinces [Daily reported deaths, 2021 on, JOHN](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220121/output/merge/graph%201%20b2%20COVID-19%20daily%20deaths%2C%20Canada%2C%20subnational%2C%20Johns%20Hopkins.pdf)
 
 
 ****
 
-(0c) Canada provinces [Daily reported deaths,2022, JOHN](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220121/output/merge/graph%2011a1%20C-19%20daily%20reported%20deaths%2C%20Canada%2C%20subnational%2C%20IHME%2C%20reference%20scenario.pdf)
+(0c) Canada provinces [Daily reported deaths,2022, JOHN](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220121/output/merge/graph%201%20b3%20COVID-19%20daily%20deaths%2C%20Canada%2C%20subnational%2C%20Johns%20Hopkins.pdf)
 
 
 ****
@@ -218,6 +218,22 @@ The current scenarios of IHME include:
 (2) Canada provinces [Daily excess deaths, reference scenarios, all time, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/20220121/output/IHME/graph%2012a%20C-19%20daily%20excess%20deaths%2C%20Canada%2C%20subnational%2C%20IHME%2C%20reference%20scenario.pdf)
 
 ![image](https://user-images.githubusercontent.com/30849720/150691237-53f17c4d-83fb-427f-91bc-5bedd6003a4f.png)
+
+
+****
+
+(00a) Canada provinces [Daily reported deaths, all time, JOHN](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220121/output/merge/graph%2011%20a%20COVID-19%20daily%20cases%2C%20Canada%2C%20subnational%2C%20Johns%20Hopkins.pdf)
+
+
+****
+
+(00b) Canada provinces [Daily reported deaths, 2021 on, JOHN](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220121/output/merge/graph%2011%20b2%20COVID-19%20daily%20cases%2C%20Canada%2C%20subnational%2C%20Johns%20Hopkins.pdf)
+
+
+****
+
+(00c) Canada provinces [Daily reported deaths,2022, JOHN](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220121/output/merge/graph%2011%20b3%20COVID-19%20daily%20cases%2C%20Canada%2C%20subnational%2C%20Johns%20Hopkins.pdf)
+
 
 ****
 
