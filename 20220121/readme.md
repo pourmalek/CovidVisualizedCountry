@@ -335,6 +335,7 @@ The current scenarios of IHME include:
 
 (3) Alberta [Daily deaths, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220121/output/merge/SUB2%2012bDayDeaMERGsub%202021%20Alberta%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/150808062-89cd7798-b199-446c-90d5-da5a6840de7a.png)
 
 ****
 
@@ -407,6 +408,7 @@ The current scenarios of IHME include:
 
 (3) Manitoba [Daily deaths, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220121/output/merge/SUB2%2012bDayDeaMERGsub%202021%20Manitoba%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/150808650-5d192559-d2bd-4838-ac93-50a41d51b3c8.png)
 
 ****
 
@@ -495,6 +497,7 @@ Newfoundland and Labrador only predicted in DELP model.
 
 (3) Nova Scotia [Daily deaths, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220121/output/merge/SUB2%2012bDayDeaMERGsub%202021%20Nova%20Scotia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Nova%20Scotia%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/150808818-374810ce-3f31-4cbf-917b-d969e0ee0439.png)
  
 ****
 
@@ -532,6 +535,7 @@ Newfoundland and Labrador only predicted in DELP model.
 
 (3) Ontario [Daily deaths, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220121/output/merge/SUB2%2012bDayDeaMERGsub%202021%20Ontario%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/150809009-286df26d-ebb2-4ab4-b206-98da588c25c0.png)
 
 ****
 
@@ -571,6 +575,7 @@ Newfoundland and Labrador only predicted in DELP model.
 
 (3) Quebec [Daily deaths, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220121/output/merge/SUB2%2012bDayDeaMERGsub%202021%20Quebec%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/150809178-a29f6b35-6192-436e-8783-8ad6c4c3f2bd.png)
 
 ****
 
@@ -605,6 +610,7 @@ Newfoundland and Labrador only predicted in DELP model.
 
 (3) Saskatchewan [Daily deaths, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220121/output/merge/SUB2%2012bDayDeaMERGsub%202021%20Saskatchewan%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Saskatchewan%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/150809304-edc6d848-a443-49a7-a85f-3934f20d7a00.png)
 
 ****
 
