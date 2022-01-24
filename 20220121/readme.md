@@ -341,6 +341,7 @@ The current scenarios of IHME include:
 
 (4) Alberta [Daily cases or infections, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220121/output/merge/graph%2022a1%20C-19%20daily%20infections%2C%20Canada%2C%20Alberta%204%20scenarios%2C%20IHME.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/150831030-0abd65d7-bf4a-4205-883a-20619b45e200.png)
 
 ****
 
@@ -379,6 +380,7 @@ The current scenarios of IHME include:
 
 (4) British Columbia [Daily cases or infections, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220121/output/merge/graph%2022a1%20C-19%20daily%20infections%2C%20Canada%2C%20British%20Columbia%204%20scenarios%2C%20IHME.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/150831157-f2b5e7f4-18f9-402d-8667-ca9df9442a50.png)
 
 ****
 
@@ -414,6 +416,7 @@ The current scenarios of IHME include:
 
 (4) Manitoba [Daily cases or infections, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220121/output/merge/graph%2022a1%20C-19%20daily%20infections%2C%20Canada%2C%20Manitoba%204%20scenarios%2C%20IHME.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/150831275-c14168e8-b2a1-4901-abf5-a1d546387a75.png)
 
 ****
 
@@ -503,6 +506,7 @@ Newfoundland and Labrador only predicted in DELP model.
 
 (4) Nova Scotia [Daily cases or infections, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220121/output/merge/graph%2022a1%20C-19%20daily%20infections%2C%20Canada%2C%20Nova%20Scotia%204%20scenarios%2C%20IHME.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/150831427-2e11691a-710c-4fa6-93b6-5eab5cac9b9c.png)
 
 ****
 
@@ -541,6 +545,7 @@ Newfoundland and Labrador only predicted in DELP model.
 
 (4) Ontario [Daily cases or infections, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220121/output/merge/graph%2022a1%20C-19%20daily%20infections%2C%20Canada%2C%20Ontario%204%20scenarios%2C%20IHME.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/150831580-b6701d7f-03fa-40e5-8016-83b2d93713a8.png)
 
 ****
 
@@ -581,6 +586,7 @@ Newfoundland and Labrador only predicted in DELP model.
 
 (4) Quebec [Daily cases or infections, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220121/output/merge/graph%2022a1%20C-19%20daily%20infections%2C%20Canada%2C%20Quebec%204%20scenarios%2C%20IHME.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/150831724-75dec394-ff61-4fa7-a044-3b1a497512b6.png)
  
 ****
 
