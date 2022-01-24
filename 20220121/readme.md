@@ -201,19 +201,19 @@ The current scenarios of IHME include:
 
 ****
 
-(1a) Canada provinces [Daily reported deaths, reference scenarios, all time, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220121/output/merge/graph%2011a1%20C-19%20daily%20reported%20deaths%2C%20Canada%2C%20subnational%2C%20IHME%2C%20reference%20scenario.pdf)
+(1a) Canada provinces [Daily reported deaths, reference scenarios, all time, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220121/output/merge/graph%201%20a%20COVID-19%20daily%20deaths%2C%20Canada%2C%20subnational%2C%20Johns%20Hopkins.pdf)
 
 ![image](https://user-images.githubusercontent.com/30849720/150706908-14c65291-1bfc-42ae-af82-f51e5205a866.png)
 
 ****
 
-(1b) Canada provinces [Daily reported deaths, reference scenarios, 2021 on, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/20220121/output/IHME/graph%2011a2%20C-19%20daily%20reported%20deaths%2C%20Canada%2C%20subnational%2C%20IHME%2C%20reference%20scenario%202021.pdf)
+(1b) Canada provinces [Daily reported deaths, reference scenarios, 2021 on, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220121/output/merge/graph%201%20b2%20COVID-19%20daily%20deaths%2C%20Canada%2C%20subnational%2C%20Johns%20Hopkins.pdf)
 
 ![image](https://user-images.githubusercontent.com/30849720/150690922-b2a5c3ab-479b-4309-a303-118455f7a9aa.png)
 
 ****
 
-(1c) Canada provinces [Daily reported deaths, reference scenarios, 2022, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/20220121/output/IHME/graph%2011a3%20C-19%20daily%20reported%20deaths%2C%20Canada%2C%20subnational%2C%20IHME%2C%20reference%20scenario%202022.pdf)
+(1c) Canada provinces [Daily reported deaths, reference scenarios, 2022, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220121/output/merge/graph%201%20b3%20COVID-19%20daily%20deaths%2C%20Canada%2C%20subnational%2C%20Johns%20Hopkins.pdf)
 
 ![image](https://user-images.githubusercontent.com/30849720/150690990-e953eee9-1de5-4ebe-8953-0461e8ca6826.png)
 
