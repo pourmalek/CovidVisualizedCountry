@@ -130,7 +130,7 @@ The current scenarios of IHME include:
 <br/><br/>
   
   
-#### Summary of uptake 20220119 with IHME update 20220119, IMPE update 20220102, and PHAC update 20220114
+### Summary of uptake 20220119 with IHME update 20220119, IMPE update 20220102, and PHAC update 20220114
 
 #### Daily Deaths
 
