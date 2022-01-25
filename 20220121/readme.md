@@ -24,6 +24,38 @@ The current scenarios of IHME include:
 <br/><br/>
 
 
+### Summary of uptake 20220119 with IHME update 20220119, IMPE update 20220102, and PHAC update 20220114
+
+#### Daily Deaths
+
+The officially reported daily deaths are rising in Quebec (surpassed 70), British Columbia (surpassed 10), Manitoba (surpassed 8), New Brunswick (surpassed 3), and Nova Scotia (surpassed 2). Daily deaths peaked above 30 in Ontario before mid-January 2022. 
+
+The IHME model estimates show decline of the daily deaths started in about mid-January 2022 at the national level, Quebec, Ontario, Alberta, British Columbia, and Manitoba.
+
+The officially reported daily deaths have surpassed IHME estimates at the national level, British Columbia, Manitoba, Nova Scotia, Quebec, and Saskatchewan. 
+
+
+#### Daily Cases or Infections
+
+The officially reported daily cases are declining in Ontario, Quebec, and Alberta. Daily cases are rising in British Columbia and stagnating in other provinces and territories. 
+
+The IHME model estimates show decline of the daily infections started in late December 2021 at the national level, in Quebec, Ontario, British Columbia, and Manitoba, and to begin in early January 2022 in Alberta and Saskatchewan. 
+
+The PHAC model estimates show decline of the daily infections at the national level and in Quebec, Ontario, Alberta, Manitoba, British Columbia, and Saskatchewan in January 2022. 
+
+The PHAC model estimates – both their better and the worse scenario – were way higher than the officially reported daily cases in Alberta, British Columbia, Manitoba, Ontario, and Saskatchewan. However, the reported daily cases surpassed (above 70) both scenarios of the PHAC model in Quebec.
+
+#### Peak Times
+
+Comparison of previous IHME model estimates of peak times with official reports shows that the model estimates might have about two weeks error, i.e., their estimates of peak times might be within two weeks sooner to two weeks later than the peak times in the official reports. 
+  
+<br/><br/>
+  
+# :eyes: SEE: See Canada COVID-19 epidemic models situation report No 30 - 2022-01-21, [here](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/30%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2030%20-%202022-01-21.pdf)  
+
+<br/><br/>
+
+
 
 ****
 
