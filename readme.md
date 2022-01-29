@@ -113,7 +113,7 @@ For a sample application of “covir2” to a country without subnational estima
 <br/><br/>
   
   
-#### Summarty of prediction in uptake 20220128
+#### Summary of prediction in uptake 20220128
 
 Daily reported deaths are on the rise in all locations. 
 
