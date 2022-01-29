@@ -227,19 +227,19 @@ The current scenarios of IHME include:
 
 ****
 
-(00a) Canada provinces [Daily reported deaths, all time, JOHN](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220128/output/merge/graph%2011%20a%20COVID-19%20daily%20cases%2C%20Canada%2C%20subnational%2C%20Johns%20Hopkins.pdf)
+(00a) Canada provinces [Daily reported cases, all time, JOHN](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220128/output/merge/graph%2011%20a%20COVID-19%20daily%20cases%2C%20Canada%2C%20subnational%2C%20Johns%20Hopkins.pdf)
 
 ![image](https://user-images.githubusercontent.com/30849720/151642981-c490715f-9df3-45c4-a95b-d7ef030e05bc.png)
 
 ****
 
-(00b) Canada provinces [Daily reported deaths, 2021 on, JOHN](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220128/output/merge/graph%2011%20b2%20COVID-19%20daily%20cases%2C%20Canada%2C%20subnational%2C%20Johns%20Hopkins.pdf)
+(00b) Canada provinces [Daily reported cases, 2021 on, JOHN](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220128/output/merge/graph%2011%20b2%20COVID-19%20daily%20cases%2C%20Canada%2C%20subnational%2C%20Johns%20Hopkins.pdf)
 
 ![image](https://user-images.githubusercontent.com/30849720/151643023-86cb45e2-1fc0-42e2-bd21-eb6de0aa651f.png)
 
 ****
 
-(00c) Canada provinces [Daily reported deaths,2022, JOHN](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220128/output/merge/graph%2011%20b3%20COVID-19%20daily%20cases%2C%20Canada%2C%20subnational%2C%20Johns%20Hopkins.pdf)
+(00c) Canada provinces [Daily reported cases,2022, JOHN](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220128/output/merge/graph%2011%20b3%20COVID-19%20daily%20cases%2C%20Canada%2C%20subnational%2C%20Johns%20Hopkins.pdf)
 
 ![image](https://user-images.githubusercontent.com/30849720/151643053-3076f193-5238-4f0b-819b-af9bbb1befdd.png)
 
