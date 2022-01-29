@@ -16,11 +16,30 @@ The current scenarios of IHME include:
 (S4) 80% mask use
 
 
+**IMPE 20220102** is about one month old. 
+
+
 **SRIV**: SRIV updates 20220127 and 20220128 do not contain global (each country) estimates files.
 
 
 
 **PHAC** = PHAC-McMaster model, update 20220128 Public Health Agency of Canada. Update on COVID-19 in Canada: Epidemiology and Modelling, January 14, 2022. https://www.canada.ca/content/dam/phac-aspc/documents/services/diseases-maladies/coronavirus-disease-covid-19/epidemiological-economic-research-data/update-covid-19-canada-epidemiology-modelling-20220128-en.pdf
+
+
+
+*******
+
+
+#### Summarty of prediction in uptake 20220128
+
+Daily reported deaths are on the rise in all locations. 
+
+Daily reported deaths are all-time high at the national level, in Quebec, Ontario, New Brunswick, and Newfoundland and Labrador. Daily reported deaths are about 90% all-time high in Alberta, British Columbia, and Manitoba. Second notches (double tips) show in Quebec, Alberta, and British Columbia.  
+
+Daily reported deaths have surpassed IHME predictions of 20220121 in all locations. 
+
+Daily reported cases are all-time high with several times difference at the national level and in all provinces. PHAC model did not predict the second notches (double tips) in Quebec, Alberta, and British Columbia.  
+
 
 
 <br/><br/>
