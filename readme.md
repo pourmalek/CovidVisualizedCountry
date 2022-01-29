@@ -110,8 +110,7 @@ For a sample application of “covir2” to a country without subnational estima
 **_DELP 20220128_**, IHME 20220121, IMPE 20220102, **_SRIV 20220126_**, PHAC 20220114 
  
   
-  
-  <br/><br/>
+<br/><br/>
   
   
 #### Summarty of prediction in uptake 20220128
@@ -125,7 +124,7 @@ Daily reported deaths have surpassed IHME predictions of 20220121 in all locatio
 Daily reported cases are all-time high with several times difference at the national level and in all provinces. PHAC model did not predict the second notches (double tips) in Quebec, Alberta, and British Columbia.    
   
   
-    <br/><br/>
+<br/><br/>
 
   
 **IHME**: The previous [S1] "severe omicron" is not available in IHME update 20220114. The "current projection" or "reference scenario" is functionally the "worse scenario", i.e., the scenario with highest magnitude of estimated deaths and infections. 
