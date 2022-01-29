@@ -223,31 +223,37 @@ The current scenarios of IHME include:
 
 (2) Canada provinces [Daily excess deaths, reference scenarios, all time, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220128/output/merge/CAN2%2012aDayDeaMERGnat%202021%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/151642963-7435fa22-e208-43cb-bc01-4c7c70a94167.png)
 
 ****
 
 (00a) Canada provinces [Daily reported deaths, all time, JOHN](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220128/output/merge/graph%2011%20a%20COVID-19%20daily%20cases%2C%20Canada%2C%20subnational%2C%20Johns%20Hopkins.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/151642981-c490715f-9df3-45c4-a95b-d7ef030e05bc.png)
 
 ****
 
 (00b) Canada provinces [Daily reported deaths, 2021 on, JOHN](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220128/output/merge/graph%2011%20b2%20COVID-19%20daily%20cases%2C%20Canada%2C%20subnational%2C%20Johns%20Hopkins.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/151643023-86cb45e2-1fc0-42e2-bd21-eb6de0aa651f.png)
 
 ****
 
 (00c) Canada provinces [Daily reported deaths,2022, JOHN](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220128/output/merge/graph%2011%20b3%20COVID-19%20daily%20cases%2C%20Canada%2C%20subnational%2C%20Johns%20Hopkins.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/151643053-3076f193-5238-4f0b-819b-af9bbb1befdd.png)
 
 ****
 
 (3a) Canada provinces [Daily infections, reference scenarios, all time, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220128/output/merge/graph%2021a1%20C-19%20daily%20infections%2C%20Canada%2C%20subnational%2C%20IHME%2C%20reference%20scenario.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/151643080-94242dae-1182-4129-bd89-68018a014586.png)
 
 ****
 
 (3b) Canada provinces [Daily infections, reference scenarios, 2021 on, IHME](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220128/output/merge/graph%2021a2%20C-19%20daily%20infections%2C%20Canada%2C%20subnational%2C%20IHME%2C%20reference%20scenario%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/151643097-452a2996-c626-48fc-aeb9-afaf61cf4234.png)
 
 ****
 
