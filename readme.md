@@ -1,6 +1,6 @@
 # CovidVisualizeCountry
 
-## ! THE MOST RECENT WEEKLY SITUATION REPORT, EVERY MONDAY MORNING, [HERE](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/30%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2030%20-%202022-01-21.pdf).
+## ! THE MOST RECENT WEEKLY SITUATION REPORT, EVERY MONDAY MORNING, [HERE](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/31%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2031%20-%202022-01-28.pdf).
 
 
 <br/><br/>
@@ -142,7 +142,7 @@ The current scenarios of IHME include:
   
 <br/><br/>
   
-# :eyes: SEE: See Canada COVID-19 epidemic models situation report No 30 - 2022-01-21, [here](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/30%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2030%20-%202022-01-21.pdf)  
+# :eyes: SEE: See Canada COVID-19 epidemic models situation report No 31 - 2022-01-28, [here](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/31%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2031%20-%202022-01-28.pdf)  
 
 <br/><br/>
   
