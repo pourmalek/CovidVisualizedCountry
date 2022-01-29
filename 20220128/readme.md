@@ -499,21 +499,25 @@ Newfoundland and Labrador only predicted in DELP model.
 
 (1) Nova Scotia [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220128/output/merge/SUB1%2011bDayDeaMERGsub%20alltime%20Nova%20Scotia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Nova%20Scotia%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/151667610-18423167-2e3b-4e5b-b5ff-08bd9b9bd620.png)
 
 ****
 
 (3) Nova Scotia [Daily deaths, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220128/output/merge/SUB2%2012bDayDeaMERGsub%202021%20Nova%20Scotia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Nova%20Scotia%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/151667642-7ef699d0-76ba-4095-aa16-2eeb865cf19f.png)
  
 ****
 
 (4) Nova Scotia [Daily cases or infections, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220128/output/merge/graph%2022a1%20C-19%20daily%20infections%2C%20Canada%2C%20Nova%20Scotia%204%20scenarios%2C%20IHME.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/151667671-7219169f-c838-4ce8-a224-d7dae877cf61.png)
 
 ****
 
 (6) Nova Scotia [Daily cases or infections, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220128/output/merge/SUB5%2032bDayCasMERGsub%202021%20Nova%20Scotia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Nova%20Scotia%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/151667761-7adaa5ef-783c-4f27-b452-82ec450407a7.png)
 
 ****
 
@@ -535,21 +539,25 @@ Newfoundland and Labrador only predicted in DELP model.
 
 (1) Ontario [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220128/output/merge/SUB1%2011bDayDeaMERGsub%20alltime%20Ontario%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/151667798-a974d7ad-0ada-4ca2-b98d-38fb56f30183.png)
 
 ****
 
 (3) Ontario [Daily deaths, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220128/output/merge/SUB2%2012bDayDeaMERGsub%202021%20Ontario%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/151668153-8b6919a9-ef87-4c37-b381-3cca371f479a.png)
 
 ****
 
 (4) Ontario [Daily cases or infections, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220128/output/merge/graph%2022a1%20C-19%20daily%20infections%2C%20Canada%2C%20Ontario%204%20scenarios%2C%20IHME.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/151668195-7a2762b2-1bec-4ab3-bc22-a8dc74b66b7a.png)
 
 ****
 
 (6) Ontario [Daily cases or infections, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220128/output/merge/SUB5%2032bDayCasMERGsub%202021%20Ontario%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/151668226-c85aae99-6537-42a6-80d1-2d835c2de890.png)
 
 ****
 
@@ -573,16 +581,19 @@ Newfoundland and Labrador only predicted in DELP model.
 
 (1) Quebec [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220128/output/merge/SUB1%2011bDayDeaMERGsub%20alltime%20Quebec%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/151668266-83b62b18-a5e9-4b06-b231-17ddfaa38fd3.png)
 
 ****
 
 (3) Quebec [Daily deaths, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220128/output/merge/SUB2%2012bDayDeaMERGsub%202021%20Quebec%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/151668284-988af6b4-315b-43ca-ad51-336c2ff40423.png)
 
 ****
 
 (4) Quebec [Daily cases or infections, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220128/output/merge/graph%2022a1%20C-19%20daily%20infections%2C%20Canada%2C%20Quebec%204%20scenarios%2C%20IHME.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/151668309-b7139390-997f-43c9-b7bc-cf8c2fe1455c.png)
  
 ****
 
