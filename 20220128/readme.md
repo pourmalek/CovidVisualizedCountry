@@ -100,16 +100,19 @@ The current scenarios of IHME include:
 
 (6b) Canada [Daily estimated infections IHME IMPE to reported cases JOHN, main scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220128/output/merge/CAN4%20-%202%20daily%20estimated%20infections%20to%20reported%20cases%2C%20Canada%2C%20National%2C%20reference%20scenarios%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/151642255-65e9d6e5-9a59-424b-9e24-79e773fc26ef.png)
 
 ****
 
 (6c) Canada [Daily estimated infections IHME, all scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220128/output/merge/graph%2022a1%20C-19%20daily%20infections%2C%20Canada%2C%20%20National%204%20scenarios%2C%20IHME.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/151642297-25d3cbc1-0762-47e8-85c0-e01d9596c9de.png)
 
 ****
 
 (6d) Canada [Daily estimated infections IHME, all scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220128/output/merge/graph%2022a2%20C-19%20daily%20infections%2C%20Canada%2C%20%20National%203%20scenarios%2C%20IHME%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/151642347-942aabe8-d4d0-4119-bb1f-b64f359e501c.png)
 
 ****
 
