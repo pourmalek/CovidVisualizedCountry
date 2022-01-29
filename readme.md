@@ -114,6 +114,20 @@ For a sample application of “covir2” to a country without subnational estima
   <br/><br/>
   
   
+#### Summarty of prediction in uptake 20220128
+
+Daily reported deaths are on the rise in all locations. 
+
+Daily reported deaths are all-time high at the national level, in Quebec, Ontario, New Brunswick, and Newfoundland and Labrador. Daily reported deaths are about 90% all-time high in Alberta, British Columbia, and Manitoba. Second notches (double tips) show in Quebec, Alberta, and British Columbia.  
+
+Daily reported deaths have surpassed IHME predictions of 20220121 in all locations. 
+
+Daily reported cases are all-time high with several times difference at the national level and in all provinces. PHAC model did not predict the second notches (double tips) in Quebec, Alberta, and British Columbia.    
+  
+  
+    <br/><br/>
+
+  
 **IHME**: The previous [S1] "severe omicron" is not available in IHME update 20220114. The "current projection" or "reference scenario" is functionally the "worse scenario", i.e., the scenario with highest magnitude of estimated deaths and infections. 
 
 The current scenarios of IHME include:
