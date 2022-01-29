@@ -105,9 +105,9 @@ For a sample application of “covir2” to a country without subnational estima
 ********************************************************************************************************************************************
 ********************************************************************************************************************************************
 
-### LATEST UPTAKE: uptake [`20220121`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20220121)
+### LATEST UPTAKE: uptake [`20220128`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20220128)
   
-**_DELP 20220121_**, **_IHME 20220121_**, IMPE 20220102, **_SRIV 20220119_**, **_PHAC 20220114_**  
+**_DELP 20220128_**, IHME 20220121, IMPE 20220102, **_SRIV 20220126_**, PHAC 20220114 
  
   
   
@@ -1259,10 +1259,11 @@ Scenarios of IHME model before update 20211221:
 . 
   
   
+   
   
+(48) uptake [`20220128`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20220128): **_DELP 20220128_**, IHME 20220121, IMPE 20220102, **_SRIV 20220126_**, PHAC 20220114 | [Canada COVID-19 epidemic models situation report No 31 - 2022-01-28]()   
   
-  
-(47) uptake [`20220121`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20220121): **_DELP 20220121_**, **_IHME 20220121_**, IMPE 20220102, **_SRIV 20220119_**, **_PHAC 20220114_** | [Canada COVID-19 epidemic models situation report No 30 - 2022-01-19]()    
+(47) uptake [`20220121`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20220121): **_DELP 20220121_**, **_IHME 20220121_**, IMPE 20220102, **_SRIV 20220119_**, PHAC 20220114 | [Canada COVID-19 epidemic models situation report No 30 - 2022-01-21](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/30%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2030%20-%202022-01-21.pdf)    
   
 (46) uptake [`20220114`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20220114): **_DELP 2022014_**, **_IHME 20220114_**, **_IMPE 20220102_**, **_SRIV 20220113_**, **_PHAC 20220114_** | [Canada COVID-19 epidemic models situation report No 29 - 2022-01-14](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/29%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2029%20-%202022-01-14.pdf)    
   
