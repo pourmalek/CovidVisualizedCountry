@@ -1,6 +1,6 @@
 ! Read the Canada COVID-19 epidemic models situation report No 31 - 2022-01-28 [here](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/31%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2031%20-%202022-01-28.pdf).
 
-### Study update dates in uptake 20220128 
+### Study update dates in uptake 20220128  
 
 **_DELP 20220128_**, IHME 20220121, IMPE 20220102, **_SRIV 20220126_**, PHAC 20220114
 
