@@ -2,7 +2,10 @@
 
 ### Study update dates in uptake 20220204  
 
-**_DELP 20220204_**, **_IHME 20220204_**, IMPE 20220102, **_SRIV 20220204_**, PHAC 20220114
+**_DELP 20220204_**, **_IHME 20220204_**, IMPE NO, **_SRIV 20220204_**, PHAC 20220114
+
+
+**IMPE 20220102** is > one month old and is not included in the graphs.
 
 <br/><br/>
 
@@ -14,10 +17,6 @@ The current scenarios of IHME include:
 (S2) Reduced vaccine hesitancy,
 (S3) Third dose,
 (S4) 80% mask use
-
-
-**IMPE 20220102** is about one month old. 
-
 
 
 **PHAC** = PHAC-McMaster model, update 20220204 Public Health Agency of Canada. Update on COVID-19 in Canada: Epidemiology and Modelling, January 14, 2022. https://www.canada.ca/content/dam/phac-aspc/documents/services/diseases-maladies/coronavirus-disease-covid-19/epidemiological-economic-research-data/update-covid-19-canada-epidemiology-modelling-20220204-en.pdf
