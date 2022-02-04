@@ -24,7 +24,7 @@ di "$country"                                                                   
 global DELPdate 20220204
 *            2/ --------
 
-global IMPEdate 2022-01-02_v9
+global IMPEdate 2022-01-02_v9 // IMPE 20220102 is > one month old and is not included in the graphs.
 *            3/ -------------
 
 global SRIVdate 2022-02-04
@@ -119,7 +119,7 @@ do "$pathCovidVisualizedCountry/DELP/do CovidVisualizedCountry DELP.do"
 
 do "$pathCovidVisualizedCountry/IHME/do CovidVisualizedCountry IHME.do" 
 
-do "$pathCovidVisualizedCountry/IMPE/do CovidVisualizedCountry IMPE.do" 
+// do "$pathCovidVisualizedCountry/IMPE/do CovidVisualizedCountry IMPE.do" // IMPE 20220102 is > one month old and is not included in the graphs.
 
 // do "$pathCovidVisualizedCountry/LANL/do CovidVisualizedCountry LANL.do" // The LANL COVID-19 Team made its last real-time forecast on September 27th, 2021. [for 20210926]. This is more than two weeks old and will not be used. 
 
