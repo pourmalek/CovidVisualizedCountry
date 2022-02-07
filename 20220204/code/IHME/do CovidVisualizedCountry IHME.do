@@ -727,6 +727,8 @@ sort date location_name
 
 drop location_id date_original version_name
 
+duplicates drop
+
 save "Reference country.dta", replace
 
 
@@ -970,6 +972,7 @@ sort date location_name
 
 drop location_id date_original version_name
 
+duplicates drop
 
 save "Masks country.dta", replace
 
@@ -1218,6 +1221,7 @@ sort date location_name
 
 drop location_id date_original version_name
 
+duplicates drop
 
 save "Third dose country.dta", replace
 

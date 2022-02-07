@@ -373,8 +373,6 @@ save "CovidVisualizedCountry DELP.dta", replace
 
 
 
-
-
 view "log CovidVisualizedCountry DELP.smcl"
 
 log close
