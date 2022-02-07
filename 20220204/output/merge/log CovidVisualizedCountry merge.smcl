@@ -3,7 +3,7 @@
       name:  {res}<unnamed>
        {txt}log:  {res}/Users/farshadpourmalek/Downloads/CovidVisualizedCountry-main/20220204/code/merge/log CovidVisualizedCountry merge.smcl
   {txt}log type:  {res}smcl
- {txt}opened on:  {res} 6 Feb 2022, 16:48:50
+ {txt}opened on:  {res} 6 Feb 2022, 18:22:49
 {txt}
 {com}. 
 . 
@@ -170,14 +170,14 @@
 . 
 . 
 . gen DayITDMeSmA02S01  =  DayINFMeSmA02S01  / DayDeaMeSmA02S01 
-{txt}(6,221 missing values generated)
+{txt}(5,005 missing values generated)
 
 {com}. 
 . label var DayITDMeSmA02S01   "Daily infections to Deaths S1 IHME"
 {txt}
 {com}. 
 . gen TotITDMeSmA02S01  =  TotINFMeSmA02S01  / TotDeaMeSmA02S01 
-{txt}(6,188 missing values generated)
+{txt}(4,972 missing values generated)
 
 {com}. 
 . label var TotITDMeSmA02S01   "Total infections to Deaths S1 IHME"
@@ -219,7 +219,7 @@
 . 
 . 
 . gen DayITCMeSmA02S01XXX =  DayINFMeSmA02S01XXX / DayCasMeRaA00S00
-{txt}(10,768 missing values generated)
+{txt}(10,732 missing values generated)
 
 {com}. 
 . label var DayITCMeSmA02S01XXX  "Daily Infections IHME to cases JOHN National"
@@ -227,7 +227,7 @@
 {com}. 
 . 
 . gen DayITCMeSmA02S01XAB =  DayINFMeSmA02S01XAB / DayCasMeRaA00S00
-{txt}(10,906 missing values generated)
+{txt}(10,884 missing values generated)
 
 {com}. 
 . label var DayITCMeSmA02S01XAB  "Daily Infections IHME to cases JOHN Alberta"
@@ -235,7 +235,7 @@
 {com}. 
 . 
 . gen DayITCMeSmA02S01XBC =  DayINFMeSmA02S01XBC / DayCasMeRaA00S00
-{txt}(10,981 missing values generated)
+{txt}(10,959 missing values generated)
 
 {com}. 
 . label var DayITCMeSmA02S01XBC  "Daily Infections IHME to cases JOHN British Columbia"
@@ -243,7 +243,7 @@
 {com}. 
 . 
 . gen DayITCMeSmA02S01XMB =  DayINFMeSmA02S01XMB / DayCasMeRaA00S00
-{txt}(10,901 missing values generated)
+{txt}(10,877 missing values generated)
 
 {com}. 
 . label var DayITCMeSmA02S01XMB  "Daily Infections IHME to cases JOHN Manitoba"
@@ -251,7 +251,7 @@
 {com}. 
 . 
 . gen DayITCMeSmA02S01XNS =  DayINFMeSmA02S01XNS / DayCasMeRaA00S00
-{txt}(10,976 missing values generated)
+{txt}(10,950 missing values generated)
 
 {com}. 
 . label var DayITCMeSmA02S01XNS  "Daily Infections IHME to cases JOHN Nova Scotia"
@@ -259,7 +259,7 @@
 {com}. 
 . 
 . gen DayITCMeSmA02S01XON =  DayINFMeSmA02S01XON / DayCasMeRaA00S00
-{txt}(10,775 missing values generated)
+{txt}(10,739 missing values generated)
 
 {com}. 
 . label var DayITCMeSmA02S01XON  "Daily Infections IHME to cases JOHN Ontario"
@@ -267,7 +267,7 @@
 {com}. 
 . 
 . gen DayITCMeSmA02S01XQC =  DayINFMeSmA02S01XQC / DayCasMeRaA00S00
-{txt}(10,779 missing values generated)
+{txt}(10,746 missing values generated)
 
 {com}. 
 . label var DayITCMeSmA02S01XQC  "Daily Infections IHME to cases JOHN Quebec"
@@ -275,7 +275,7 @@
 {com}. 
 . 
 . gen DayITCMeSmA02S01XSK =  DayINFMeSmA02S01XSK / DayCasMeRaA00S00
-{txt}(10,823 missing values generated)
+{txt}(10,792 missing values generated)
 
 {com}. 
 . label var DayITCMeSmA02S01XSK  "Daily Infections IHME to cases JOHN Saskatchewan"
@@ -381,7 +381,7 @@ all files already exist and are up to date.
 {com}. 
 . 
 . gen DayDERMeSmA02S01 = DayDeaMeSmA02S01 / DayDeaMeRaA00S00
-{txt}(8,027 missing values generated)
+{txt}(7,826 missing values generated)
 
 {com}. 
 . label var DayDERMeSmA02S01 "Daily Deaths estim to reported Mean not smoothed IHME S1"
@@ -420,7 +420,7 @@ all files already exist and are up to date.
 {com}. 
 . 
 . gen DayIERMeSmA02S01 = DayINFMeSmA02S01 / DayCasMeRaA00S00
-{txt}(6,773 missing values generated)
+{txt}(6,543 missing values generated)
 
 {com}. 
 . label var DayIERMeSmA02S01 "Daily infections estim to reported cases Mean not smoothed IHME S1"
@@ -462,7 +462,7 @@ all files already exist and are up to date.
 {com}. 
 . 
 . gen TotDERMeSmA02S01 = TotDeaMeSmA02S01 / TotDeaMeRaA00S00
-{txt}(6,240 missing values generated)
+{txt}(5,952 missing values generated)
 
 {com}. 
 . label var TotDERMeSmA02S01 "Total Deaths estim to reported Mean not smoothed IHME S1"
@@ -504,7 +504,7 @@ all files already exist and are up to date.
 {com}. 
 . 
 . gen TotIERMeSmA02S01 = TotINFMeSmA02S01 / TotCasMeRaA00S00
-{txt}(6,041 missing values generated)
+{txt}(5,753 missing values generated)
 
 {com}. 
 . label var TotIERMeSmA02S01 "Total infections estim to reported cases Mean not smoothed IHME S1"
@@ -716,7 +716,7 @@ now 732
 
 {txt}Contains data from {res}CovidVisualizedCountry merge.dta
 {txt}  obs:{res}        11,469                          
-{txt} vars:{res}         1,880                          6 Feb 2022 16:49
+{txt} vars:{res}         1,880                          6 Feb 2022 18:23
 {txt} size:{res}    72,610,239                          
 {txt}{hline}
               storage   display    value
@@ -4551,7 +4551,7 @@ Sorted by: {res}loc_grand_name  provincestate  date
 
 {txt}    Variable {c |}        Obs        Mean    Std. Dev.       Min        Max
 {hline 13}{c +}{hline 57}
-{space 8}date {c |}{res}      5,576       22297    201.2244      21949      22645
+{space 8}date {c |}{res}      6,792       22373    245.1031      21949      22797
 {txt}
 {com}. 
 . gen IHMEmaxdate = r(max)
@@ -4569,7 +4569,7 @@ Sorted by: {res}loc_grand_name  provincestate  date
 {txt}
 {com}. 
 . di $monthspast01jan2020IHME
-{res}25
+{res}30
 {txt}
 {com}. 
 . 
@@ -4585,7 +4585,7 @@ Sorted by: {res}loc_grand_name  provincestate  date
 {txt}
 {com}. 
 . di $monthspast01jan2021IHME
-{res}13
+{res}18
 {txt}
 {com}. 
 . 
@@ -4601,7 +4601,7 @@ Sorted by: {res}loc_grand_name  provincestate  date
 {txt}
 {com}. 
 . di $monthspast01jan2022IHME
-{res}1
+{res}6
 {txt}
 {com}. 
 . 
@@ -9003,7 +9003,7 @@ Sorted by: {res}loc_grand_name  provincestate  date
       {txt}name:  {res}<unnamed>
        {txt}log:  {res}/Users/farshadpourmalek/Downloads/CovidVisualizedCountry-main/20220204/code/merge/log CovidVisualizedCountry merge.smcl
   {txt}log type:  {res}smcl
- {txt}closed on:  {res} 6 Feb 2022, 16:55:50
+ {txt}closed on:  {res} 6 Feb 2022, 18:33:00
 {txt}{.-}
 {smcl}
 {txt}{sf}{ul off}

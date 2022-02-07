@@ -19,11 +19,7 @@ log using "log CovidVisualizedCountry IHME.smcl", replace
 ***************************************************************************
 
 
-                                                                                                         ***************************
-* To change update date, find and replace all, 2022-01-14 (old), with 2022-01-14 (new) <<--       <<<--- * change update date here *
-                                                                                                         ***************************
 
-/* severe_omicron is not available in this update. The "current projection" or "reference scenario" is functionally the "worse scenario". */
 																								 
 clear 
  
@@ -70,9 +66,6 @@ copy https://ihmecovid19storage.blob.core.windows.net/latest/data_download_file_
 
 * import csv files
 
-
-
-* my designation  variable name  var value   web site https://covid19.healthdata.org/global?view=daily-deaths&tab=trend
 
 
 * scenario name = version_name = reference = Projection
@@ -221,7 +214,6 @@ save "data_download_file_reference_2020.dta", replace
 
 use "data_download_file_reference_2021.dta", clear 
 
-
 local varlist reff_mean reff_lower reff_upper infection_fatality infection_detection infection_hospitalization
 
 foreach v of local varlist {
@@ -237,8 +229,10 @@ foreach v of local varlist {
 }
 *
 
-save "data_download_file_reference_2022.dta", replace 
+save "data_download_file_reference_2021.dta", replace 
 
+
+use "data_download_file_reference_2022.dta", clear 
 
 local varlist reff_mean reff_lower reff_upper infection_fatality infection_detection infection_hospitalization
 
