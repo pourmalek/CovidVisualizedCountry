@@ -58,6 +58,7 @@
 ****
 ****
 
+
 ### Selected graphs - Canada, National
 
 ****
@@ -137,7 +138,31 @@
 
 ### Selected graphs - Canada, Provinces
 
+****
 
+(1) Canada Provinces [Daily reported deaths, JOHN, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220204/output/merge/01%20provinces%20C-19%20daily%20deaths%2C%20Canada%2C%20JOHN%202020.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/152903356-45cda692-7267-43c8-b14f-60c4ff21c39e.png)
+
+****
+
+(2) Canada Provinces [Daily reported deaths, JOHN, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220204/output/merge/02%20provinces%20C-19%20daily%20deaths%2C%20Canada%2C%20JOHN%202021.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/152903511-22917b4d-4d89-4f8a-83ea-6155b28c6970.png)
+
+****
+
+(3) Canada Provinces [Daily reported deaths, JOHN, 2022](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220204/output/merge/03%20provinces%20C-19%20daily%20deaths%2C%20Canada%2C%20JOHN%202022.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/152903675-029eae19-81ec-44ea-aac2-77ea48feacbd.png)
+
+****
+
+(4) Canada Provinces [Daily reported deaths, without National, Ontario, and Quebec, JOHN, 2022](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220204/output/merge/04%20provinces%20C-19%20daily%20deaths%2C%20Canada%2C%20JOHN%202022.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/152903843-44edd52b-935e-4f22-8183-c04ef66699f9.png)
+
+****
 
 
 
