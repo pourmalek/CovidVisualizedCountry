@@ -351,7 +351,7 @@
 
 ****
 
-(4) British Columbia [Daily cases or infections, Reference scenario, 2021 on]
+(4) British Columbia [Daily cases or infections, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220204/output/merge/13%20British%20Columbia%20C-19%20daily%20cases%20or%20infections%2C%20Canada%2C%20reference%20scenarios%2C%202021%20on.pdf)
 
 ****
 
@@ -385,7 +385,7 @@
 
 ****
 
-(4) Manitoba [Daily cases or infections, Reference scenario, 2021 on]
+(4) Manitoba [Daily cases or infections, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220204/output/merge/13%20Manitoba%20C-19%20daily%20cases%20or%20infections%2C%20Canada%2C%20reference%20scenarios%2C%202021%20on.pdf)
 
 
 ****
@@ -430,7 +430,7 @@
 
 ****
 
-(4) Nova Scotia [Daily cases or infections, Reference scenario, 2021 on]
+(4) Nova Scotia [Daily cases or infections, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220204/output/merge/13%20Nova%20Scotia%20C-19%20daily%20cases%20or%20infections%2C%20Canada%2C%20reference%20scenarios%2C%202021%20on.pdf)
 
 
 ****
@@ -465,7 +465,7 @@
 
 ****
 
-(4) Ontario [Daily cases or infections, Reference scenario, 2021 on]
+(4) Ontario [Daily cases or infections, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220204/output/merge/13%20Ontario%20C-19%20daily%20cases%20or%20infections%2C%20Canada%2C%20reference%20scenarios%2C%202021%20on.pdf)
 
 
 ****
@@ -501,7 +501,7 @@
 
 ****
 
-(4) Quebec [Daily cases or infections, Reference scenario, 2021 on]
+(4) Quebec [Daily cases or infections, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220204/output/merge/13%20Quebec%20C-19%20daily%20cases%20or%20infections%2C%20Canada%2C%20reference%20scenarios%2C%202021%20on.pdf)
 
 
 ****
@@ -538,7 +538,7 @@
 
 ****
 
-(4) Saskatchewan [Daily cases or infections, Reference scenario, 2021 on]
+(4) Saskatchewan [Daily cases or infections, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220204/output/merge/13%20Saskatchewan%20C-19%20daily%20cases%20or%20infections%2C%20Canada%2C%20reference%20scenarios%2C%202021%20on.pdf)
 
 
 ****
