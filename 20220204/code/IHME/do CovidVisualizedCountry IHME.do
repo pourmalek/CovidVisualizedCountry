@@ -1003,52 +1003,52 @@ drop year month day date2
 * rename variables
 
 * Total Reported Deaths smoothed
-rename seir_cumulative_unscaled_mean  TotDeaMeSmA02S04
-rename seir_cumulative_unscaled_lower TotDeaLoSmA02S04
-rename seir_cumulative_unscaled_upper TotDeaUpSmA02S04
-label var TotDeaMeSmA02S04 "Total Reported Deaths Mean smoothed IHME S4" // Cumulative reported deaths (mean estimate)
-label var TotDeaLoSmA02S04 "Total Reported Deaths Lower smoothed IHME S4" // Cumulative reported deaths (lower 95% confidence interval)
-label var TotDeaUpSmA02S04 "Total Reported Deaths Upper smoothed IHME S4" // Cumulative reported deaths (upper 95% confidence interval)
+rename seir_cumulative_unscaled_mean  TotDeaMeSmA02S03
+rename seir_cumulative_unscaled_lower TotDeaLoSmA02S03
+rename seir_cumulative_unscaled_upper TotDeaUpSmA02S03
+label var TotDeaMeSmA02S03 "Total Reported Deaths Mean smoothed IHME S3" // Cumulative reported deaths (mean estimate)
+label var TotDeaLoSmA02S03 "Total Reported Deaths Lower smoothed IHME S3" // Cumulative reported deaths (lower 95% confidence interval)
+label var TotDeaUpSmA02S03 "Total Reported Deaths Upper smoothed IHME S3" // Cumulative reported deaths (upper 95% confidence interval)
 
 * Total Excess Deaths smoothed
-rename seir_cumulative_mean  TotDeXMeSmA02S04
-rename seir_cumulative_lower TotDeXLoSmA02S04
-rename seir_cumulative_upper TotDeXUpSmA02S04
-label var TotDeXMeSmA02S04 "Total Excess Deaths Mean smoothed IHME S4" // Cumulative excess deaths (mean estimate)
-label var TotDeXLoSmA02S04 "Total Excess Deaths Lower smoothed IHME S4" // Cumulative excess deaths (lower 95% confidence interval)
-label var TotDeXUpSmA02S04 "Total Excess Deaths Upper smoothed IHME S4" // Cumulative excess deaths (upper 95% confidence interval)
+rename seir_cumulative_mean  TotDeXMeSmA02S03
+rename seir_cumulative_lower TotDeXLoSmA02S03
+rename seir_cumulative_upper TotDeXUpSmA02S03
+label var TotDeXMeSmA02S03 "Total Excess Deaths Mean smoothed IHME S3" // Cumulative excess deaths (mean estimate)
+label var TotDeXLoSmA02S03 "Total Excess Deaths Lower smoothed IHME S3" // Cumulative excess deaths (lower 95% confidence interval)
+label var TotDeXUpSmA02S03 "Total Excess Deaths Upper smoothed IHME S3" // Cumulative excess deaths (upper 95% confidence interval)
 
 * Daily Reported Deaths smoothed
-rename seir_daily_unscaled_mean  DayDeaMeSmA02S04
-rename seir_daily_unscaled_lower DayDeaLoSmA02S04
-rename seir_daily_unscaled_upper DayDeaUpSmA02S04
-label var DayDeaMeSmA02S04 "Daily Reported Deaths Mean smoothed IHME S4" // Daily reported deaths (mean estimate)
-label var DayDeaLoSmA02S04 "Daily Reported Deaths Lower smoothed IHME S4" // Daily reported deaths (lower 95% confidence interval)
-label var DayDeaUpSmA02S04 "Daily Reported Deaths Upper smoothed IHME S4" // Daily reported deaths upper 95% confidence interval)
+rename seir_daily_unscaled_mean  DayDeaMeSmA02S03
+rename seir_daily_unscaled_lower DayDeaLoSmA02S03
+rename seir_daily_unscaled_upper DayDeaUpSmA02S03
+label var DayDeaMeSmA02S03 "Daily Reported Deaths Mean smoothed IHME S3" // Daily reported deaths (mean estimate)
+label var DayDeaLoSmA02S03 "Daily Reported Deaths Lower smoothed IHME S3" // Daily reported deaths (lower 95% confidence interval)
+label var DayDeaUpSmA02S03 "Daily Reported Deaths Upper smoothed IHME S3" // Daily reported deaths upper 95% confidence interval)
 	
 * Daily Excess Deaths smoothed
-rename seir_daily_mean  DayDeXMeSmA02S04
-rename seir_daily_lower DayDeXLoSmA02S04
-rename seir_daily_upper DayDeXUpSmA02S04
-label var DayDeXMeSmA02S04 "Daily Excess Deaths Mean smoothed IHME S4" // Daily excess deaths (mean estimate)
-label var DayDeXLoSmA02S04 "Daily Excess Deaths Lower smoothed IHME S4" // Daily excess deaths (lower 95% confidence interval)
-label var DayDeXUpSmA02S04 "Daily Excess Deaths Upper smoothed IHME S4" // Daily excess deaths upper 95% confidence interval)
+rename seir_daily_mean  DayDeXMeSmA02S03
+rename seir_daily_lower DayDeXLoSmA02S03
+rename seir_daily_upper DayDeXUpSmA02S03
+label var DayDeXMeSmA02S03 "Daily Excess Deaths Mean smoothed IHME S3" // Daily excess deaths (mean estimate)
+label var DayDeXLoSmA02S03 "Daily Excess Deaths Lower smoothed IHME S3" // Daily excess deaths (lower 95% confidence interval)
+label var DayDeXUpSmA02S03 "Daily Excess Deaths Upper smoothed IHME S3" // Daily excess deaths upper 95% confidence interval)
 		
 * Total infections smoothed
-rename inf_cuml_mean  TotINFMeSmA02S04
-rename inf_cuml_lower TotINFLoSmA02S04
-rename inf_cuml_upper TotINFUpSmA02S04
-label var TotINFMeSmA02S04 "Total infections Mean smoothed IHME S4" // Cumulative infections (mean estimate)
-label var TotINFLoSmA02S04 "Total infections Lower smoothed IHME S4" // Cumulative infections (lower 95% confidence interval)
-label var TotINFUpSmA02S04 "Total infections Upper smoothed IHME S4" // Cumulative infections (upper 95% confidence interval)
+rename inf_cuml_mean  TotINFMeSmA02S03
+rename inf_cuml_lower TotINFLoSmA02S03
+rename inf_cuml_upper TotINFUpSmA02S03
+label var TotINFMeSmA02S03 "Total infections Mean smoothed IHME S3" // Cumulative infections (mean estimate)
+label var TotINFLoSmA02S03 "Total infections Lower smoothed IHME S3" // Cumulative infections (lower 95% confidence interval)
+label var TotINFUpSmA02S03 "Total infections Upper smoothed IHME S3" // Cumulative infections (upper 95% confidence interval)
 
 * Daily infections smoothed
-rename inf_mean  DayINFMeSmA02S04 // previously est_infections_mean
-rename inf_lower DayINFLoSmA02S04 // previously est_infections_lower
-rename inf_upper DayINFUpSmA02S04 // previously est_infections_upper
-label var DayINFMeSmA02S04 "Daily infections Mean smoothed IHME S4" // Daily infections (mean estimate)
-label var DayINFLoSmA02S04 "Daily infections Lower smoothed IHME S4" // Daily infections (lower 95% confidence interval)
-label var DayINFUpSmA02S04 "Daily infections Upper smoothed IHME S4" // Daily infections (upper 95% confidence interval)
+rename inf_mean  DayINFMeSmA02S03 // previously est_infections_mean
+rename inf_lower DayINFLoSmA02S03 // previously est_infections_lower
+rename inf_upper DayINFUpSmA02S03 // previously est_infections_upper
+label var DayINFMeSmA02S03 "Daily infections Mean smoothed IHME S3" // Daily infections (mean estimate)
+label var DayINFLoSmA02S03 "Daily infections Lower smoothed IHME S3" // Daily infections (lower 95% confidence interval)
+label var DayINFUpSmA02S03 "Daily infections Upper smoothed IHME S3" // Daily infections (upper 95% confidence interval)
 
 
 
@@ -1056,27 +1056,27 @@ label var DayINFUpSmA02S04 "Daily infections Upper smoothed IHME S4" // Daily in
 
 * other variables 
 
-rename reff_mean reff_mean_A02S04
-rename reff_lower reff_lower_A02S04
-rename reff_upper reff_upper_A02S04
-label var reff_mean_A02S04 "IHME R effective (mean estimate) S4"
-label var reff_lower_A02S04 "IHME R effective (lower 95% confidence interval) S4"
-label var reff_upper_A02S04 "IHME R effective (upper 95% confidence interval) S4"
+rename reff_mean reff_mean_A02S03
+rename reff_lower reff_lower_A02S03
+rename reff_upper reff_upper_A02S03
+label var reff_mean_A02S03 "IHME R effective (mean estimate) S3"
+label var reff_lower_A02S03 "IHME R effective (lower 95% confidence interval) S3"
+label var reff_upper_A02S03 "IHME R effective (upper 95% confidence interval) S3"
 
-rename cumulative_cases cumulative_cases_A02S04
-rename cumulative_deaths cumulative_deaths_A02S04
-rename cumulative_hospitalizations cumulative_hosp_A02S04
-rename daily_deaths daily_deaths_A02S04
-// rename daily_infections daily_infections_A02S04
-rename cumulative_deaths_unscaled cumul_deaths_unscaled_A02S04
-rename daily_deaths_unscaled dai_dea_unscaled_A02S04
-label var cumulative_cases_A02S04 "IHME Cumulative cases (raw data) S4"
-label var cumulative_deaths_A02S04 "IHME Cumulative deaths (raw data with excess mortality scalar applied) S4"
-label var cumulative_hosp_A02S04 "IHME Cumulative hospitalizations (raw data) S4"
-label var daily_deaths_A02S04 "IHME Daily deaths (raw data with excess mortality scalar applied) S4"
-// label var daily_infections_A02S04 "IHME Daily infections (raw data)"
-label var cumul_deaths_unscaled_A02S04 "IHME umulative deaths (raw data without excess mortality scalar applied) S4"
-label var dai_dea_unscaled_A02S04 "IHME Daily deaths (raw data without excess mortality scalar applied) S4"
+rename cumulative_cases cumulative_cases_A02S03
+rename cumulative_deaths cumulative_deaths_A02S03
+rename cumulative_hospitalizations cumulative_hosp_A02S03
+rename daily_deaths daily_deaths_A02S03
+// rename daily_infections daily_infections_A02S03
+rename cumulative_deaths_unscaled cumul_deaths_unscaled_A02S03
+rename daily_deaths_unscaled dai_dea_unscaled_A02S03
+label var cumulative_cases_A02S03 "IHME Cumulative cases (raw data) S3"
+label var cumulative_deaths_A02S03 "IHME Cumulative deaths (raw data with excess mortality scalar applied) S3"
+label var cumulative_hosp_A02S03 "IHME Cumulative hospitalizations (raw data) S3"
+label var daily_deaths_A02S03 "IHME Daily deaths (raw data with excess mortality scalar applied) S3"
+// label var daily_infections_A02S03 "IHME Daily infections (raw data)"
+label var cumul_deaths_unscaled_A02S03 "IHME umulative deaths (raw data without excess mortality scalar applied) S3"
+label var dai_dea_unscaled_A02S03 "IHME Daily deaths (raw data without excess mortality scalar applied) S3"
 
 
 
@@ -1128,71 +1128,71 @@ inf_hosp				Infection hospitalization ratio
 */
 
 
-rename mobility_mean mobility_mean_A02S04
-rename mask_use_mean mask_use_mean_A02S04
-label var mobility_mean_A02S04 "IHME Percent change in mobility from baseline (mean) S4"
-label var mask_use_mean_A02S04 "IHME Percent of population reporting always wearing a mask when leaving home S4"
+rename mobility_mean mobility_mean_A02S03
+rename mask_use_mean mask_use_mean_A02S03
+label var mobility_mean_A02S03 "IHME Percent change in mobility from baseline (mean) S3"
+label var mask_use_mean_A02S03 "IHME Percent of population reporting always wearing a mask when leaving home S3"
 
-rename hospital_beds_mean hospital_beds_mean_A02S04
-rename hospital_beds_upper hospital_beds_upper_A02S04
-rename hospital_beds_lower hospital_beds_lower_A02S04
-rename icu_beds_mean icu_beds_mean_A02S04
-rename icu_beds_upper icu_beds_upper_A02S04
-rename icu_beds_lower icu_beds_lower_A02S04
-rename admis_mean admis_mean_A02S04
-rename admis_upper admis_upper_A02S04
-rename admis_lower admis_lower_A02S04
-label var hospital_beds_mean_A02S04 "IHME Daily C-19 hospital beds needed (mean estimate) S4"
-label var hospital_beds_upper_A02S04 "IHME Daily C-19 hospital beds needed (upper 95% confidence interval) S4"
-label var hospital_beds_lower_A02S04 "IHME Daily C-19 hospital beds needed (lower 95% confidence interval) S4"
-label var icu_beds_mean_A02S04	"IHME Daily C-19 ICU beds needed (mean estimate) S4"
-label var icu_beds_upper_A02S04 "IHME Daily C-19 ICU beds needed (upper 95% confidence interval) S4"
-label var icu_beds_lower_A02S04 "IHME Daily C-19 ICU beds needed (lower 95% confidence interval) S4"
-label var admis_mean_A02S04 "IHME Daily C-19 hospital admissions (mean estimate) S4"
-label var admis_upper_A02S04 "IHME Daily C-19 hospital admissions (mean estimate) S4"
-label var admis_lower_A02S04 "IHME Daily C-19 hospital admissions (mean estimate) S4"
-
-
-rename infection_fatality infection_fatality_A02S04
-rename infection_detection infection_detection_A02S04
-rename infection_hospitalization inf_hosp_A02S04
-label var infection_fatality_A02S04 "IHME Infection fatality ratio S4"
-label var infection_detection_A02S04 "IHME Infection detection ratio S4"
-label var inf_hosp_A02S04 "IHME Infection hospitalization ratio S4"
+rename hospital_beds_mean hospital_beds_mean_A02S03
+rename hospital_beds_upper hospital_beds_upper_A02S03
+rename hospital_beds_lower hospital_beds_lower_A02S03
+rename icu_beds_mean icu_beds_mean_A02S03
+rename icu_beds_upper icu_beds_upper_A02S03
+rename icu_beds_lower icu_beds_lower_A02S03
+rename admis_mean admis_mean_A02S03
+rename admis_upper admis_upper_A02S03
+rename admis_lower admis_lower_A02S03
+label var hospital_beds_mean_A02S03 "IHME Daily C-19 hospital beds needed (mean estimate) S3"
+label var hospital_beds_upper_A02S03 "IHME Daily C-19 hospital beds needed (upper 95% confidence interval) S3"
+label var hospital_beds_lower_A02S03 "IHME Daily C-19 hospital beds needed (lower 95% confidence interval) S3"
+label var icu_beds_mean_A02S03	"IHME Daily C-19 ICU beds needed (mean estimate) S3"
+label var icu_beds_upper_A02S03 "IHME Daily C-19 ICU beds needed (upper 95% confidence interval) S3"
+label var icu_beds_lower_A02S03 "IHME Daily C-19 ICU beds needed (lower 95% confidence interval) S3"
+label var admis_mean_A02S03 "IHME Daily C-19 hospital admissions (mean estimate) S3"
+label var admis_upper_A02S03 "IHME Daily C-19 hospital admissions (mean estimate) S3"
+label var admis_lower_A02S03 "IHME Daily C-19 hospital admissions (mean estimate) S3"
 
 
+rename infection_fatality infection_fatality_A02S03
+rename infection_detection infection_detection_A02S03
+rename infection_hospitalization inf_hosp_A02S03
+label var infection_fatality_A02S03 "IHME Infection fatality ratio S3"
+label var infection_detection_A02S03 "IHME Infection detection ratio S3"
+label var inf_hosp_A02S03 "IHME Infection hospitalization ratio S3"
 
 
 
-*
 
-rename hospital_beds_mean_A02S04		DayBedMeSmA02S04
-rename hospital_beds_upper_A02S04		DayBedLoSmA02S04
-rename hospital_beds_lower_A02S04		DayBedUpSmA02S04
-
-label var DayBedMeSmA02S04 "IHME Daily C-19 hospital beds needed (mean estimate) S4"
-label var DayBedLoSmA02S04 "IHME Daily C-19 hospital beds needed (upper 95% confidence interval) S4"
-label var DayBedUpSmA02S04 "IHME Daily C-19 hospital beds needed (lower 95% confidence interval) S4"
 
 *
 
-rename icu_beds_mean_A02S04			DayIcuMeSmA02S04
-rename icu_beds_lower_A02S04		DayIcuLoSmA02S04
-rename icu_beds_upper_A02S04		DayIcuUpSmA02S04
+rename hospital_beds_mean_A02S03		DayBedMeSmA02S03
+rename hospital_beds_upper_A02S03		DayBedLoSmA02S03
+rename hospital_beds_lower_A02S03		DayBedUpSmA02S03
 
-label var DayIcuMeSmA02S04"IHME Daily C-19 ICU beds needed (mean estimate) S4"
-label var DayIcuLoSmA02S04 "IHME Daily C-19 ICU beds needed (upper 95% confidence interval) S4"
-label var DayIcuUpSmA02S04 "IHME Daily C-19 ICU beds needed (lower 95% confidence interval) S4"
+label var DayBedMeSmA02S03 "IHME Daily C-19 hospital beds needed (mean estimate) S3"
+label var DayBedLoSmA02S03 "IHME Daily C-19 hospital beds needed (upper 95% confidence interval) S3"
+label var DayBedUpSmA02S03 "IHME Daily C-19 hospital beds needed (lower 95% confidence interval) S3"
 
 *
 
-rename admis_mean_A02S04		DayAdmMeSmA02S04
-rename admis_lower_A02S04		DayAdmLoSmA02S04
-rename admis_upper_A02S04		DayAdmUpSmA02S04
+rename icu_beds_mean_A02S03			DayIcuMeSmA02S03
+rename icu_beds_lower_A02S03		DayIcuLoSmA02S03
+rename icu_beds_upper_A02S03		DayIcuUpSmA02S03
 
-label var DayAdmMeSmA02S04 "IHME Daily C-19 hospital admissions (mean estimate) S4"
-label var DayAdmLoSmA02S04 "IHME Daily C-19 hospital admissions (mean estimate) S4"
-label var DayAdmUpSmA02S04 "IHME Daily C-19 hospital admissions (mean estimate) S4"
+label var DayIcuMeSmA02S03"IHME Daily C-19 ICU beds needed (mean estimate) S3"
+label var DayIcuLoSmA02S03 "IHME Daily C-19 ICU beds needed (upper 95% confidence interval) S3"
+label var DayIcuUpSmA02S03 "IHME Daily C-19 ICU beds needed (lower 95% confidence interval) S3"
+
+*
+
+rename admis_mean_A02S03		DayAdmMeSmA02S03
+rename admis_lower_A02S03		DayAdmLoSmA02S03
+rename admis_upper_A02S03		DayAdmUpSmA02S03
+
+label var DayAdmMeSmA02S03 "IHME Daily C-19 hospital admissions (mean estimate) S3"
+label var DayAdmLoSmA02S03 "IHME Daily C-19 hospital admissions (mean estimate) S3"
+label var DayAdmUpSmA02S03 "IHME Daily C-19 hospital admissions (mean estimate) S3"
 
 *
 
