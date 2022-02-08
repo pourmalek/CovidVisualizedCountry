@@ -1035,13 +1035,13 @@ twoway ///
 (line DayCasMeSmA11S01XMB date, sort lwidth(medium) lcolor(lime)) /// 3 "MB" lime
 (line DayCasMeSmA11S01XNL date, sort lwidth(medium) lcolor(gold)) /// 4 "NL" gold
 (line DayCasMeSmA11S01XNS date, sort lwidth(medium) lcolor(magenta)) /// 5 "NS" magenta
-(line DayCasMeSmA11S01XSK date, sort lwidth(medium) lcolor(orange)) /// 8 "SK" orange
+(line DayCasMeSmA11S01XSK date, sort lwidth(medium) lcolor(orange)) /// 6 "SK" orange
 if date >= td(01dec2021) & date <= td(01mar2022) ///
 , xtitle(Date) xlabel(, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(forty_five)) ///
 ytitle(Daily cases) title("C-19 Daily Cases mean worse scenario, $country, PHAC", size(medium)) ///
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
-legend(order(1 "AB" 2 "BC" 3 "MB" 4 "NL" 5 "NS" 6 "ON" 7 "QC" 8 "SK") rows(2) size(small)) ///
+legend(order(1 "AB" 2 "BC" 3 "MB" 4 "NL" 5 "NS" 6 "SK") rows(2) size(small)) ///
 subtitle("Worse scenario: Without the recent strengthening of public health measures", size(small)) ///
 note("Without National, Ontario, and Quebec", size(small)) yscale(titlegap(2))
 
@@ -1087,13 +1087,13 @@ twoway ///
 (line DayCasMeSmA11S02XMB date, sort lwidth(medium) lcolor(lime)) /// 3 "MB" lime
 (line DayCasMeSmA11S02XNL date, sort lwidth(medium) lcolor(gold)) /// 4 "NL" gold
 (line DayCasMeSmA11S02XNS date, sort lwidth(medium) lcolor(magenta)) /// 5 "NS" magenta
-(line DayCasMeSmA11S02XSK date, sort lwidth(medium) lcolor(orange)) /// 8 "SK" orange
+(line DayCasMeSmA11S02XSK date, sort lwidth(medium) lcolor(orange)) /// 6 "SK" orange
 if date >= td(01dec2021) & date <= td(01mar2022) ///
 , xtitle(Date) xlabel(, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(forty_five)) ///
 ytitle(Daily cases) title("C-19 Daily Cases mean better scenario, $country, PHAC", size(medium)) ///
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
-legend(order(1 "AB" 2 "BC" 3 "MB" 4 "NL" 5 "NS" 6 "ON" 7 "QC" 8 "SK") rows(2) size(small)) ///
+legend(order(1 "AB" 2 "BC" 3 "MB" 4 "NL" 5 "NS" 6 "SK") rows(2) size(small)) ///
 subtitle("Better scenario: If current public health measures strongly reduce transmission", size(small)) ///
 note("Without National, Ontario, and Quebec", size(small)) yscale(titlegap(2))
 
