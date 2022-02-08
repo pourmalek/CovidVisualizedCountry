@@ -142,7 +142,11 @@
 
 ****
 
-Official reports to WHO, via JOHN
+#### (a) Official reports to WHO, via JOHN || (b) Models: IHME || (c) Models: PHAC
+
+****
+
+#### (a) Official reports to WHO, via JOHN
 
 ****
 
@@ -194,7 +198,7 @@ Official reports to WHO, via JOHN
 
 ****
 
-Models: IHME
+#### (b) Models: IHME
 
 ****
 
