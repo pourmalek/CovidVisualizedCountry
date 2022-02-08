@@ -33,7 +33,7 @@
 
 ### Selected graphs - [Canada, National](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20220204#selected-graphs---canada-national-1)
 
-### Selected graphs - [Canada, Provinces](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20220204#selected-graphs---canada-provinces-1)
+### Selected graphs - [Canada, Provinces together](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20220204#selected-graphs---canada-provinces-together-1)
 
 ### Selected graphs - [Alberta](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20220204#selected-graphs---alberta-1)
 
