@@ -294,8 +294,13 @@
 ### Selected graphs - Alberta
 
 
+****
 
+(1) Alberta Provinces [Daily deaths, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220204/output/merge/09%20Alberta%20C-19%20daily%20deaths%2C%20Canada%2C%20reference%20scenarios%2C%202020%20on.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/152916900-455d1ee3-0f23-4c97-9db2-186b3749734a.png)
+
+****
 
 
 
