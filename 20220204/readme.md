@@ -413,7 +413,27 @@
 ### Selected graphs - Nova Scotia
 
 
+****
 
+(1) Nova Scotia [Daily deaths, Reference scenario, 2020 on]
+
+
+****
+
+(2) Nova Scotia [Daily deaths, Reference scenario, 2021 on]
+
+
+****
+
+(3) Nova Scotia [Daily cases or infections, Reference scenario, 2020 on]
+
+
+****
+
+(4) Nova Scotia [Daily cases or infections, Reference scenario, 2021 on]
+
+
+****
 
 
 
@@ -428,6 +448,27 @@
 
 ### Selected graphs - Ontario
 
+****
+
+(1) Ontario [Daily deaths, Reference scenario, 2020 on]
+
+
+****
+
+(2) Ontario [Daily deaths, Reference scenario, 2021 on]
+
+
+****
+
+(3) Ontario [Daily cases or infections, Reference scenario, 2020 on]
+
+
+****
+
+(4) Ontario [Daily cases or infections, Reference scenario, 2021 on]
+
+
+****
 
 
 
@@ -443,6 +484,27 @@
 
 ### Selected graphs - Quebec
 
+****
+
+(1) Quebec [Daily deaths, Reference scenario, 2020 on]
+
+
+****
+
+(2) Quebec [Daily deaths, Reference scenario, 2021 on]
+
+
+****
+
+(3) Quebec [Daily cases or infections, Reference scenario, 2020 on]
+
+
+****
+
+(4) Quebec [Daily cases or infections, Reference scenario, 2021 on]
+
+
+****
 
 
 
@@ -459,6 +521,27 @@
 ### Selected graphs - Saskatchewan
 
 
+****
+
+(1) Saskatchewan [Daily deaths, Reference scenario, 2020 on]
+
+
+****
+
+(2) Saskatchewan [Daily deaths, Reference scenario, 2021 on]
+
+
+****
+
+(3) Saskatchewan [Daily cases or infections, Reference scenario, 2020 on]
+
+
+****
+
+(4) Saskatchewan [Daily cases or infections, Reference scenario, 2021 on]
+
+
+****
 
  
 
