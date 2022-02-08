@@ -547,21 +547,25 @@
 
 (1) Saskatchewan [Daily deaths, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220204/output/merge/09%20Saskatchewan%20C-19%20daily%20deaths%2C%20Canada%2C%20reference%20scenarios%2C%202020%20on.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/153008743-2c493351-6ed7-4bac-ba9f-4d9d848d4a99.png)
 
 ****
 
 (2) Saskatchewan [Daily deaths, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220204/output/merge/10%20Saskatchewan%20C-19%20daily%20deaths%2C%20Canada%2C%20reference%20scenarios%2C%202021%20on.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/153008842-63ec794c-8941-4e1c-a077-bc5c26ba0afd.png)
 
 ****
 
 (3) Saskatchewan [Daily cases or infections, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220204/output/merge/12%20Saskatchewan%20C-19%20daily%20cases%20or%20infections%2C%20Canada%2C%20reference%20scenarios%2C%202020%20on.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/153008980-d1b0e81a-59de-41b2-87ac-433ec517562d.png)
 
 ****
 
 (4) Saskatchewan [Daily cases or infections, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220204/output/merge/13%20Saskatchewan%20C-19%20daily%20cases%20or%20infections%2C%20Canada%2C%20reference%20scenarios%2C%202021%20on.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/153009119-4555fa0f-ad30-4087-9504-d75d2636d497.png)
 
 ****
 
