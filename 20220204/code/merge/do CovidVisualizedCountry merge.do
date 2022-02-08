@@ -877,7 +877,7 @@ qui graph export "21 `l' C-19 percent cumulative vaccinated, $country, `l'.pdf",
 
 
 *******************************************************
-* 22 daily reported deaths, reference scenario, 2020 on
+* 22 daily deaths, reference scenario, 2020 on
 
 twoway ///
 (line DayDeaMeSmA02S01XXX date, sort lwidth(medthick) lcolor(gray)) /// 1 "CAN" 
@@ -891,13 +891,13 @@ twoway ///
 (line DayDeaMeSmA02S01XSK date, sort lwidth(medium) lcolor(orange)) /// 9 "SK" orange
 , xtitle(Date) xlabel(#$monthspast01jan2020IHME, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(forty_five)) ///
-ytitle(Daily reported deaths) title("C-19 daily reported deaths, $country provinces, IHME, 2020 on", size(medium)) ///
+ytitle(Daily deaths) title("C-19 daily deaths, $country provinces, IHME, 2020 on", size(medium)) ///
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
 legend(order(1 "CAN" 2 "AB" 3 "BC" 4 "MB" 5 "NL" 6 "NS" 7 "ON" 8 "QC" 9 "SK" ) rows(2) size(small)) ///
 note("Reference scenario")
 
-qui graph save "22 provinces C-19 daily reported deaths, $country, IHME, 2020 on.gph", replace
-qui graph export "22 provinces C-19 daily reported deaths, $country, IHME, 2020 on.pdf", replace
+qui graph save "22 provinces C-19 daily deaths, $country, IHME, 2020 on.gph", replace
+qui graph export "22 provinces C-19 daily deaths, $country, IHME, 2020 on.pdf", replace
 
 
 
@@ -905,7 +905,7 @@ qui graph export "22 provinces C-19 daily reported deaths, $country, IHME, 2020 
 
 
 *******************************************************
-* 23 daily reported deaths, reference scenario, 2021 on
+* 23 daily deaths, reference scenario, 2021 on
 
 twoway ///
 (line DayDeaMeSmA02S01XXX date, sort lwidth(medthick) lcolor(gray)) /// 1 "CAN" 
@@ -920,13 +920,13 @@ twoway ///
 if date >= td(01nov2021) /// 
 , xtitle(Date) xlabel(#5, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(forty_five)) ///
-ytitle(Daily reported deaths) title("C-19 daily reported deaths, $country provinces, IHME, Nov 2021 on", size(medium)) ///
+ytitle(Daily deaths) title("C-19 daily deaths, $country provinces, IHME, Nov 2021 on", size(medium)) ///
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
 legend(order(1 "CAN" 2 "AB" 3 "BC" 4 "MB" 5 "NL" 6 "NS" 7 "ON" 8 "QC" 9 "SK" ) rows(2) size(small)) ///
 note("Reference scenario")
 
-qui graph save "23 provinces C-19 daily reported deaths, $country, IHME, 2021 on.gph", replace
-qui graph export "23 provinces C-19 daily reported deaths, $country, IHME, 2021 on.pdf", replace
+qui graph save "23 provinces C-19 daily deaths, $country, IHME, 2021 on.gph", replace
+qui graph export "23 provinces C-19 daily deaths, $country, IHME, 2021 on.pdf", replace
 
 
 
