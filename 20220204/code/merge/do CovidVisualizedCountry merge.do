@@ -564,15 +564,18 @@ foreach l of local levels {
 
 twoway ///
 (line DayCasMeSmA00S00 date, sort lcolor(cyan) lwidth(vthick)) /// 1 "JOHN smooth"
-(line DayCasMeSmA01S00 date, sort lcolor(red) lwidth(medthick)) /// 2 "DELP smooth"
+(line DayCasMeSmA01S00 date, sort lcolor(red)) /// 2 "DELP smooth"
 (line DayINFMeSmA02S01 date, sort lcolor(black)) /// 3 "IHME"
+(line DayCasMeSmA11S02 date, sort lcolor(gold)) /// 4 "PHAC better"
+(line DayCasMeSmA11S01 date, sort lcolor(brown)) /// 5 "PHAC worse"
 if date >= td(01jan2020) & provincestate == "`l'" ///
 , xtitle(Date) xlabel(#$monthspast01jan2020merge, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily cases or infections) title("C-19 daily cases or infections, $country, `l', 2020 on", size(medium)) /// 
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
-legend(order(1 "JOHN cases" 2 "DELP cases" 3 "IHME infections") size(small) row(1)) ///
-subtitle("reference scenarios", size(small)) 
+legend(order(1 "JOHN cases" 2 "DELP cases" 3 "IHME infections" ///
+4 "PHAC cases better" 5 "PHAC cases worse") size(small) row(2)) ///
+subtitle("DELP and IHME: reference scenarios; PHAC: better and worse scenarios", size(small)) 
 
 qui graph save "12 `l' C-19 daily cases or infections, $country, reference scenarios, 2020 on.gph", replace
 qui graph export "12 `l' C-19 daily cases or infections, $country, reference scenarios, 2020 on.pdf", replace
@@ -594,15 +597,18 @@ foreach l of local levels {
 
 twoway ///
 (line DayCasMeSmA00S00 date, sort lcolor(cyan) lwidth(vthick)) /// 1 "JOHN smooth"
-(line DayCasMeSmA01S00 date, sort lcolor(red) lwidth(medthick)) /// 2 "DELP smooth"
+(line DayCasMeSmA01S00 date, sort lcolor(red)) /// 2 "DELP smooth"
 (line DayINFMeSmA02S01 date, sort lcolor(black)) /// 3 "IHME"
+(line DayCasMeSmA11S02 date, sort lcolor(gold)) /// 4 "PHAC better"
+(line DayCasMeSmA11S01 date, sort lcolor(brown)) /// 5 "PHAC worse"
 if date >= td(01jan2021) & provincestate == "`l'" ///
 , xtitle(Date) xlabel(#$monthspast01jan2020merge, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily cases or infections) title("C-19 daily cases or infections, $country, `l', 2021 on", size(medium)) /// 
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
-legend(order(1 "JOHN cases" 2 "DELP cases" 3 "IHME infections") size(small) row(1)) ///
-subtitle("reference scenarios", size(small)) 
+legend(order(1 "JOHN cases" 2 "DELP cases" 3 "IHME infections" ///
+4 "PHAC cases better" 5 "PHAC cases worse") size(small) row(2)) ///
+subtitle("DELP and IHME: reference scenarios; PHAC: better and worse scenarios", size(small)) 
 
 qui graph save "13 `l' C-19 daily cases or infections, $country, reference scenarios, 2021 on.gph", replace
 qui graph export "13 `l' C-19 daily cases or infections, $country, reference scenarios, 2021 on.pdf", replace
