@@ -302,6 +302,27 @@
 
 ****
 
+(2) Alberta Provinces [Daily deaths, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220204/output/merge/10%20Alberta%20C-19%20daily%20deaths%2C%20Canada%2C%20reference%20scenarios%2C%202021%20on.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/152917058-c45b0609-17ef-41b5-84a4-73b62b6da78b.png)
+
+****
+
+(3) Alberta Provinces [Daily cases or infections, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220204/output/merge/12%20Alberta%20C-19%20daily%20cases%20or%20infections%2C%20Canada%2C%20reference%20scenarios%2C%202020%20on.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/152917198-84bf83c1-146c-4649-9fed-4d8d20fff21d.png)
+
+****
+
+(4) Alberta Provinces [Daily cases or infections, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220204/output/merge/13%20Alberta%20C-19%20daily%20cases%20or%20infections%2C%20Canada%2C%20reference%20scenarios%2C%202021%20on.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/152917284-20455f21-8698-4b06-ad26-e407f6d87231.png)
+
+****
+
+
+
+
 
 
 
