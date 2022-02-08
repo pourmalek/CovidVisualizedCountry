@@ -97,6 +97,12 @@
 
 ****
 
+(5) Canada [Daily hospital-related outcomes, Reference scenarios, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220204/output/merge/16%20%20National%20C-19%20hospital-related%20outcomes%2C%20Canada.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/152901585-6e536605-8484-44bf-ba74-9865c1e86175.png)
+
+****
+
 
 
 
