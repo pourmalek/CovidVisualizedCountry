@@ -121,6 +121,18 @@
 
 ****
 
+(9) Canada [Daily proportion of population reporting always wearing a mask when leaving home, IHME, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220204/output/merge/20%20%20National%20C-19%20daily%20mask%20use%2C%20Canada.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/152902430-fd7b98c3-e3fc-4fa2-a309-403db5489831.png)
+
+****
+
+(10) Canada [Percent cumulative vaccinated, IHME, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220204/output/merge/21%20%20National%20C-19%20percent%20cumulative%20vaccinated%2C%20Canada%2C%20%20National.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/152902580-6aed7bf8-427c-4ae6-b42d-e07ffe97b139.png)
+
+****
+
 
 
 
