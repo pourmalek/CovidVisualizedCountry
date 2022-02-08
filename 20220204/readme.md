@@ -164,6 +164,20 @@
 
 ****
 
+(5) Canada Provinces [Daily reported cases, JOHN, 2020 on]
+
+****
+
+(6) Canada Provinces [Daily reported cases, JOHN, 2021 on]
+****
+
+(7) Canada Provinces [Daily reported cases, JOHN, 2022]
+****
+
+(8) Canada Provinces [Daily reported cases, without National, Ontario, and Quebec, JOHN, 2022]
+
+****
+
 
 
 
