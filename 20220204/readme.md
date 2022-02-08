@@ -138,7 +138,7 @@
 ****
 
 
-### Selected graphs - Canada, Provinces
+### Selected graphs - Canada, Provinces together
 
 ****
 
@@ -194,13 +194,15 @@ Official reports to WHO, via JOHN
 
 ****
 
-Models: DELP, IHME
+Models: IHME
 
 ****
 
+(9) Canada Provinces [Daily deaths, Reference scenario, IHME, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220204/output/merge/22%20provinces%20C-19%20daily%20deaths%2C%20Canada%2C%20IHME%2C%202020%20on.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/152908213-9033bfb0-a4b9-4283-8d5e-dea9c5989d96.png)
 
-
+****
 
 
 
