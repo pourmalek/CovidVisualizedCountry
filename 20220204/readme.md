@@ -337,23 +337,21 @@
 
 ****
 
-(1) British Columbia [Daily deaths, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220204/output/merge/09%20british-columbia%20C-19%20daily%20deaths%2C%20Canada%2C%20reference%20scenarios%2C%202020%20on.pdf)
+(1) British Columbia [Daily deaths, Reference scenario, 2020 on]
 
 
 ****
 
-(2) British Columbia [Daily deaths, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220204/output/merge/10%20Bbritish-columbia%20C-19%20daily%20deaths%2C%20Canada%2C%20reference%20scenarios%2C%202021%20on.pdf)
+(2) British Columbia [Daily deaths, Reference scenario, 2021 on]
+
+****
+
+(3) British Columbia [Daily cases or infections, Reference scenario, 2020 on]
 
 
 ****
 
-(3) British Columbia [Daily cases or infections, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220204/output/merge/12%20british-columbia%20C-19%20daily%20cases%20or%20infections%2C%20Canada%2C%20reference%20scenarios%2C%202020%20on.pdf)
-
-
-****
-
-(4) British Columbia [Daily cases or infections, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220204/output/merge/13%20british-columbia%20C-19%20daily%20cases%20or%20infections%2C%20Canada%2C%20reference%20scenarios%2C%202021%20on.pdf)
-
+(4) British Columbia [Daily cases or infections, Reference scenario, 2021 on]
 
 ****
 
@@ -369,6 +367,28 @@
 ### Selected graphs - Manitoba
 
 
+
+****
+
+(1) Manitoba [Daily deaths, Reference scenario, 2020 on]
+
+
+****
+
+(2) Manitoba [Daily deaths, Reference scenario, 2021 on]
+
+
+****
+
+(3) Manitoba [Daily cases or infections, Reference scenario, 2020 on]
+
+
+****
+
+(4) Manitoba [Daily cases or infections, Reference scenario, 2021 on]
+
+
+****
 
 
 
