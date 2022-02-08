@@ -31,9 +31,9 @@
 
 
 
-### Selected graphs - [Canada, national](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20220204#selected-graphs---canada-national-1)
+### Selected graphs - [Canada, National](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20220204#selected-graphs---canada-national-1)
 
-### Selected graphs - [Canada, provinces](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20220204#selected-graphs---canada-provinces-1)
+### Selected graphs - [Canada, Provinces](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20220204#selected-graphs---canada-provinces-1)
 
 ### Selected graphs - [Alberta](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20220204#selected-graphs---alberta-1)
 
@@ -68,55 +68,55 @@
 
 ****
 
-(2) Canada [Daily deaths, All scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220204/output/merge/15%20%20National%20C-19%20daily%20cases%20or%20infections%2C%20Canada%2C%20all%20scenarios%2C%202021%20on.pdf)
+(2) Canada National [Daily deaths, All scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220204/output/merge/15%20%20National%20C-19%20daily%20cases%20or%20infections%2C%20Canada%2C%20all%20scenarios%2C%202021%20on.pdf)
 
 ![image](https://user-images.githubusercontent.com/30849720/152901320-de95c830-b74a-4df9-8ac6-59a43210cef4.png)
 
 ****
 
-(3) Canada [Daily cases or infections, Reference scenarios, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220204/output/merge/12%20%20National%20C-19%20daily%20cases%20or%20infections%2C%20Canada%2C%20reference%20scenarios%2C%202020%20on.pdf)
+(3) Canada National [Daily cases or infections, Reference scenarios, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220204/output/merge/12%20%20National%20C-19%20daily%20cases%20or%20infections%2C%20Canada%2C%20reference%20scenarios%2C%202020%20on.pdf)
 
 ![image](https://user-images.githubusercontent.com/30849720/152900750-14e32482-8554-431e-b06b-2dcb7eb89fba.png)
 
 ****
 
-(4) Canada [Daily cases or infections, All scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220204/output/merge/15%20%20National%20C-19%20daily%20cases%20or%20infections%2C%20Canada%2C%20all%20scenarios%2C%202021%20on.pdf)
+(4) Canada National [Daily cases or infections, All scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220204/output/merge/15%20%20National%20C-19%20daily%20cases%20or%20infections%2C%20Canada%2C%20all%20scenarios%2C%202021%20on.pdf)
 
 ![image](https://user-images.githubusercontent.com/30849720/152901016-cb404b7b-f16e-47e7-8cf7-0e7029987ce0.png)
 
 ****
 
-(5) Canada [Daily hospital-related outcomes, Reference scenarios, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220204/output/merge/16%20%20National%20C-19%20hospital-related%20outcomes%2C%20Canada.pdf)
+(5) Canada National [Daily hospital-related outcomes, Reference scenarios, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220204/output/merge/16%20%20National%20C-19%20hospital-related%20outcomes%2C%20Canada.pdf)
 
 ![image](https://user-images.githubusercontent.com/30849720/152901585-6e536605-8484-44bf-ba74-9865c1e86175.png)
 
 ****
 
-(6) Canada [Daily Infection outcomes ratios, Reference scenarios, IHME, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220204/output/merge/17%20%20National%20C-19%20daily%20Infection%20outcomes%20ratios%2C%20Canada%2C%20reference%20scenarios%2C%20IHME.pdf)
+(6) Canada National [Daily Infection outcomes ratios, Reference scenarios, IHME, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220204/output/merge/17%20%20National%20C-19%20daily%20Infection%20outcomes%20ratios%2C%20Canada%2C%20reference%20scenarios%2C%20IHME.pdf)
 
 ![image](https://user-images.githubusercontent.com/30849720/152901770-b635b769-ca32-4d58-b9a0-6485ab06e11a.png)
 
 ****
 
-(7) Canada [Daily Infection hospitalization and fatality ratios, Reference scenario, IHME, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220204/output/merge/18%20%20National%20C-19%20daily%20Infection%20hospitalization%20and%20fatality%20ratios%2C%20Canada%2C%20reference%20scenarios%2C%20IHME.pdf)
+(7) Canada National [Daily Infection hospitalization and fatality ratios, Reference scenario, IHME, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220204/output/merge/18%20%20National%20C-19%20daily%20Infection%20hospitalization%20and%20fatality%20ratios%2C%20Canada%2C%20reference%20scenarios%2C%20IHME.pdf)
 
 ![image](https://user-images.githubusercontent.com/30849720/152901895-3c29d627-f326-46d0-a02c-c3a65452b076.png)
 
 ****
 
-(8) Canada [Daily percent change in mobility, Reference scenario, IHME, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220204/output/merge/19%20%20National%20C-19%20daily%20mobility%2C%20Canada.pdf)
+(8) Canada National [Daily percent change in mobility, Reference scenario, IHME, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220204/output/merge/19%20%20National%20C-19%20daily%20mobility%2C%20Canada.pdf)
 
 ![image](https://user-images.githubusercontent.com/30849720/152902158-a498363a-68cb-47ff-9ef0-be6f880e0e62.png)
 
 ****
 
-(9) Canada [Daily proportion of population reporting always wearing a mask when leaving home, IHME, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220204/output/merge/20%20%20National%20C-19%20daily%20mask%20use%2C%20Canada.pdf)
+(9) Canada National [Daily proportion of population reporting always wearing a mask when leaving home, IHME, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220204/output/merge/20%20%20National%20C-19%20daily%20mask%20use%2C%20Canada.pdf)
 
 ![image](https://user-images.githubusercontent.com/30849720/152902430-fd7b98c3-e3fc-4fa2-a309-403db5489831.png)
 
 ****
 
-(10) Canada [Percent cumulative vaccinated, IHME, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220204/output/merge/21%20%20National%20C-19%20percent%20cumulative%20vaccinated%2C%20Canada%2C%20%20National.pdf)
+(10) Canada National [Percent cumulative vaccinated, IHME, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220204/output/merge/21%20%20National%20C-19%20percent%20cumulative%20vaccinated%2C%20Canada%2C%20%20National.pdf)
 
 ![image](https://user-images.githubusercontent.com/30849720/152902580-6aed7bf8-427c-4ae6-b42d-e07ffe97b139.png)
 
@@ -135,7 +135,7 @@
 ****
 
 
-### Selected graphs - Canada, provinces
+### Selected graphs - Canada, Provinces
 
 
 
