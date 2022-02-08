@@ -54,22 +54,11 @@
 
 
 
-****
-
-### Selected graphs - Canada, national
-
-
-
-
-
-
 
 ****
 ****
 
-
-### Selected graphs - Canada, provinces
-
+### Selected graphs - Canada, National
 
 ****
 
@@ -132,6 +121,26 @@
 ![image](https://user-images.githubusercontent.com/30849720/152902580-6aed7bf8-427c-4ae6-b42d-e07ffe97b139.png)
 
 ****
+
+
+
+
+
+
+
+
+
+
+****
+****
+
+
+### Selected graphs - Canada, provinces
+
+
+
+
+
 
 
 
