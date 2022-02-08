@@ -230,27 +230,54 @@
 
 ****
 
-(13) Canada Provinces [Daily Cases mean worse scenario, with National, PHAC](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220204/output/merge/26%20provinces%20C19%20Daily%20Cases%20mean%20worse%20scenario%2C%20Canada%2C%20PHAC.pdf)
+(13) Canada Provinces [Daily cases mean, worse scenario, with National, PHAC](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220204/output/merge/26%20provinces%20C19%20Daily%20Cases%20mean%20worse%20scenario%2C%20Canada%2C%20PHAC.pdf)
 
 ![image](https://user-images.githubusercontent.com/30849720/152912857-15106f7d-c03e-4b52-a341-0ea3028c4eec.png)
 
 ****
 
-(14) Canada Provinces [Daily Cases mean worse scenario, without National, Ontario, and Quebec, PHAC](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220204/output/merge/27%20provinces%20C19%20Daily%20Cases%20mean%20worse%20scenario%2C%20Canada%2C%20PHAC%20wo%20national.pdf)
+(14) Canada Provinces [Daily cases mean, worse scenario, without National, Ontario, and Quebec, PHAC](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220204/output/merge/27%20provinces%20C19%20Daily%20Cases%20mean%20worse%20scenario%2C%20Canada%2C%20PHAC%20wo%20national.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/152916090-30dd7e28-49e0-4b22-8e48-ad7d1d0da6e5.png)
 
 ****
 
-(15) Canada Provinces [Daily Cases mean better scenario, with National, PHAC](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220204/output/merge/28%20provinces%20C19%20Daily%20Cases%20mean%20better%20scenario%2C%20Canada%2C%20PHAC.pdf)
+(15) Canada Provinces [Daily cases mean, better scenario, with National, PHAC](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220204/output/merge/28%20provinces%20C19%20Daily%20Cases%20mean%20better%20scenario%2C%20Canada%2C%20PHAC.pdf)
 
 ![image](https://user-images.githubusercontent.com/30849720/152914232-d9bd0b03-cc82-4c11-a319-c0968e6cf054.png)
 
 ****
 
-(16) Canada Provinces [Daily Cases mean better scenario, without National, Ontario, and Quebec, PHAC](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220204/output/merge/29%20provinces%20C19%20Daily%20Cases%20mean%20better%20scenario%2C%20Canada%2C%20PHAC%20wo%20national.pdf)
+(16) Canada Provinces [Daily cases mean, better scenario, without National, Ontario, and Quebec, PHAC](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220204/output/merge/29%20provinces%20C19%20Daily%20Cases%20mean%20better%20scenario%2C%20Canada%2C%20PHAC%20wo%20national.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/152916130-a7f0e8a3-7c54-4604-9754-352b42f0345b.png)
 
 ****
+
+(17) Canada Provinces [Daily hospital admissions mean, worse scenario, with national, PHAC](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220204/output/merge/30%20provinces%20C19%20Daily%20hospital%20admissions%20mean%20worse%20scenario%2C%20Canada%2C%20PHAC.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/152916369-1dc4ce4d-219f-4ab9-9cbb-8833655d1010.png)
+
+****
+
+(18) Canada Provinces [Daily hospital admissions mean, worse scenario, without National, Ontario, and Quebec, PHAC](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220204/output/merge/31%20provinces%20C19%20Daily%20hospital%20admissions%20mean%20worse%20scenario%2C%20Canada%2C%20PHAC%20%20wo%20national.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/152916489-0cbdec58-3792-474e-8ff9-569796889084.png)
+
+****
+
+(19) Canada Provinces [Daily hospital admissions mean, better scenario, with national, PHAC](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220204/output/merge/32%20provinces%20C19%20Daily%20hospital%20admissions%20mean%20better%20scenario%2C%20Canada%2C%20PHAC.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/152916577-9c93df50-eedc-4b29-84bd-6b852c11cfc0.png)
+
+****
+
+(20) Canada Provinces [Daily hospital admissions mean, better scenario, without National, Ontario, and Quebec, PHAC](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220204/output/merge/33%20provinces%20C19%20Daily%20hospital%20admissions%20mean%20better%20scenario%2C%20Canada%2C%20PHAC%20%20wo%20national.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/152916643-9451380c-ef90-4b93-a008-1d4db3b06608.png)
+
+****
+
 
 
 
@@ -266,6 +293,32 @@
 
 ### Selected graphs - Alberta
 
+
+****
+
+(1) Alberta Provinces [Daily deaths, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220204/output/merge/09%20Alberta%20C-19%20daily%20deaths%2C%20Canada%2C%20reference%20scenarios%2C%202020%20on.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/152916900-455d1ee3-0f23-4c97-9db2-186b3749734a.png)
+
+****
+
+(2) Alberta Provinces [Daily deaths, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220204/output/merge/10%20Alberta%20C-19%20daily%20deaths%2C%20Canada%2C%20reference%20scenarios%2C%202021%20on.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/152917058-c45b0609-17ef-41b5-84a4-73b62b6da78b.png)
+
+****
+
+(3) Alberta Provinces [Daily cases or infections, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220204/output/merge/12%20Alberta%20C-19%20daily%20cases%20or%20infections%2C%20Canada%2C%20reference%20scenarios%2C%202020%20on.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/152917198-84bf83c1-146c-4649-9fed-4d8d20fff21d.png)
+
+****
+
+(4) Alberta Provinces [Daily cases or infections, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220204/output/merge/13%20Alberta%20C-19%20daily%20cases%20or%20infections%2C%20Canada%2C%20reference%20scenarios%2C%202021%20on.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/152917284-20455f21-8698-4b06-ad26-e407f6d87231.png)
+
+****
 
 
 
