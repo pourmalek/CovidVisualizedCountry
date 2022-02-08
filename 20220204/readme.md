@@ -337,12 +337,12 @@
 
 ****
 
-(1) British Columbia [Daily deaths, Reference scenario, 2020 on]
+(1) British Columbia [Daily deaths, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220204/output/merge/09%20British%20Columbia%20C-19%20daily%20deaths%2C%20Canada%2C%20reference%20scenarios%2C%202020%20on.pdf)
 
 
 ****
 
-(2) British Columbia [Daily deaths, Reference scenario, 2021 on]
+(2) British Columbia [Daily deaths, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220204/output/merge/10%20British%20Columbia%20C-19%20daily%20deaths%2C%20Canada%2C%20reference%20scenarios%2C%202021%20on.pdf)
 
 ****
 
@@ -370,12 +370,12 @@
 
 ****
 
-(1) Manitoba [Daily deaths, Reference scenario, 2020 on]
+(1) Manitoba [Daily deaths, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220204/output/merge/09%20Manitoba%20C-19%20daily%20deaths%2C%20Canada%2C%20reference%20scenarios%2C%202020%20on.pdf)
 
 
 ****
 
-(2) Manitoba [Daily deaths, Reference scenario, 2021 on]
+(2) Manitoba [Daily deaths, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220204/output/merge/10%20Manitoba%20C-19%20daily%20deaths%2C%20Canada%2C%20reference%20scenarios%2C%202021%20on.pdf)
 
 
 ****
@@ -415,12 +415,12 @@
 
 ****
 
-(1) Nova Scotia [Daily deaths, Reference scenario, 2020 on]
+(1) Nova Scotia [Daily deaths, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220204/output/merge/09%20Nova%20Scotia%20C-19%20daily%20deaths%2C%20Canada%2C%20reference%20scenarios%2C%202020%20on.pdf)
 
 
 ****
 
-(2) Nova Scotia [Daily deaths, Reference scenario, 2021 on]
+(2) Nova Scotia [Daily deaths, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220204/output/merge/10%20Nova%20Scotia%20C-19%20daily%20deaths%2C%20Canada%2C%20reference%20scenarios%2C%202021%20on.pdf)
 
 
 ****
@@ -450,12 +450,12 @@
 
 ****
 
-(1) Ontario [Daily deaths, Reference scenario, 2020 on]
+(1) Ontario [Daily deaths, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220204/output/merge/09%20Ontario%20C-19%20daily%20deaths%2C%20Canada%2C%20reference%20scenarios%2C%202020%20on.pdf)
 
 
 ****
 
-(2) Ontario [Daily deaths, Reference scenario, 2021 on]
+(2) Ontario [Daily deaths, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220204/output/merge/10%20Ontario%20C-19%20daily%20deaths%2C%20Canada%2C%20reference%20scenarios%2C%202021%20on.pdf)
 
 
 ****
@@ -486,12 +486,12 @@
 
 ****
 
-(1) Quebec [Daily deaths, Reference scenario, 2020 on]
+(1) Quebec [Daily deaths, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220204/output/merge/09%20Quebec%20C-19%20daily%20deaths%2C%20Canada%2C%20reference%20scenarios%2C%202020%20on.pdf)
 
 
 ****
 
-(2) Quebec [Daily deaths, Reference scenario, 2021 on]
+(2) Quebec [Daily deaths, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220204/output/merge/10%20Quebec%20C-19%20daily%20deaths%2C%20Canada%2C%20reference%20scenarios%2C%202021%20on.pdf)
 
 
 ****
@@ -523,12 +523,12 @@
 
 ****
 
-(1) Saskatchewan [Daily deaths, Reference scenario, 2020 on]
+(1) Saskatchewan [Daily deaths, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220204/output/merge/09%20Saskatchewan%20C-19%20daily%20deaths%2C%20Canada%2C%20reference%20scenarios%2C%202020%20on.pdf)
 
 
 ****
 
-(2) Saskatchewan [Daily deaths, Reference scenario, 2021 on]
+(2) Saskatchewan [Daily deaths, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220204/output/merge/10%20Saskatchewan%20C-19%20daily%20deaths%2C%20Canada%2C%20reference%20scenarios%2C%202021%20on.pdf)
 
 
 ****
