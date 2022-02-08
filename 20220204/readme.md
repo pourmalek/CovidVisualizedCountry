@@ -242,6 +242,18 @@
 
 ****
 
+(15) Canada Provinces [Daily Cases mean better scenario, with National, PHAC](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220204/output/merge/28%20provinces%20C19%20Daily%20Cases%20mean%20better%20scenario%2C%20Canada%2C%20PHAC.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/152914232-d9bd0b03-cc82-4c11-a319-c0968e6cf054.png)
+
+****
+
+(16) Canada Provinces [Daily Cases mean better scenario, without National, Ontario, and Quebec, PHAC](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220204/output/merge/29%20provinces%20C19%20Daily%20Cases%20mean%20better%20scenario%2C%20Canada%2C%20PHAC%20wo%20national.pdf)
+
+
+
+****
+
 
 
 
