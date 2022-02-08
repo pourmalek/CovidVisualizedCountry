@@ -85,9 +85,11 @@
 
 ****
 
+(3) Canada [Daily cases or infections, Reference scenarios, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220204/output/merge/12%20%20National%20C-19%20daily%20cases%20or%20infections%2C%20Canada%2C%20reference%20scenarios%2C%202020%20on.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/152900750-14e32482-8554-431e-b06b-2dcb7eb89fba.png)
 
-
+****
 
 
 
