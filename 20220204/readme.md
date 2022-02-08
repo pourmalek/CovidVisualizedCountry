@@ -91,6 +91,15 @@
 
 ****
 
+(4) Canada [Daily cases or infections, All scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220204/output/merge/15%20%20National%20C-19%20daily%20cases%20or%20infections%2C%20Canada%2C%20all%20scenarios%2C%202021%20on.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/152901016-cb404b7b-f16e-47e7-8cf7-0e7029987ce0.png)
+
+****
+
+
+
+
 
 
 
