@@ -21,31 +21,31 @@
 
 ****
 
-(2) Provinces together [Daily reported deaths, JOHN, 2021 on]
+(2) Provinces together [Daily reported deaths, JOHN, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220210%20JOHN/output/merge/02%20provinces%20C-19%20daily%20deaths%2C%20Canada%2C%20JOHN%202021.pdf)
 
 *****
 
-(3) Provinces together [Daily reported deaths, JOHN, 2022]
+(3) Provinces together [Daily reported deaths, JOHN, 2022](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220210%20JOHN/output/merge/03%20provinces%20C-19%20daily%20deaths%2C%20Canada%2C%20JOHN%202022.pdf)
 
 ****
 
-(4) Provinces together [Daily reported deaths, Without National, Ontario, and Quebec, JOHN, 2022]
+(4) Provinces together [Daily reported deaths, Without National, Ontario, and Quebec, JOHN, 2022](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220210%20JOHN/output/merge/04%20provinces%20C-19%20daily%20deaths%2C%20Canada%2C%20JOHN%202022.pdf)
 
 ****
 
-(5) Provinces together [Daily reported cases, JOHN, 2020 on]
+(5) Provinces together [Daily reported cases, JOHN, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220210%20JOHN/output/merge/05%20provinces%20C-19%20daily%20cases%2C%20Canada%2C%20JOHN%202020.pdf)
 
 ****
 
-(6) Provinces together [Daily reported cases, JOHN, 2021 on]
+(6) Provinces together [Daily reported cases, JOHN, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220210%20JOHN/output/merge/06%20provinces%20C-19%20daily%20cases%2C%20Canada%2C%20JOHN%202021.pdf)
 
 *****
 
-(7) Provinces together [Daily reported cases, JOHN, 2022]
+(7) Provinces together [Daily reported cases, JOHN, 2022](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220210%20JOHN/output/merge/07%20provinces%20C-19%20daily%20cases%2C%20Canada%2C%20JOHN%202022.pdf)
 
 ****
 
-(8) Provinces together [Daily reported cases, Without National, Ontario, and Quebec, JOHN, 2022]
+(8) Provinces together [Daily reported cases, Without National, Ontario, and Quebec, JOHN, 2022](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220210%20JOHN/output/merge/08%20provinces%20C-19%20daily%20cases%2C%20Canada%2C%20JOHN%202022.pdf)
 
 ****
 
