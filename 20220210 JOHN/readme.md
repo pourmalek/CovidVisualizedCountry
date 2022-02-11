@@ -13,6 +13,8 @@ Officially reported COVID-19 daily deaths in the omicron wave were higher than t
 
 Daily deaths were all-time highest in Ontario and were all-time except-the-first wave highest at the national level and in Quebec. 
 
+The total number of deaths in the omicron wave were higher than that in the delta wave in Ontario and Quebec. 
+
 Daily deaths are on the rise at the national level, in Quebec, Alberta, British Columbia, and Manitoba. 
 
 Officially reported COVID-19 daily cases are on the rise at the national level, in Alberta, British Columbia, and Manitoba. 
