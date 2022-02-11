@@ -23,6 +23,8 @@
 
 (2) Provinces together [Daily reported deaths, JOHN, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220210%20JOHN/output/merge/02%20provinces%20C-19%20daily%20deaths%2C%20Canada%2C%20JOHN%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/153682783-cb1de96c-bfb4-4ff8-bd67-84afc657406e.png)
+
 *****
 
 (3) Provinces together [Daily reported deaths, JOHN, 2022](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220210%20JOHN/output/merge/03%20provinces%20C-19%20daily%20deaths%2C%20Canada%2C%20JOHN%202022.pdf)
@@ -31,9 +33,12 @@
 
 (4) Provinces together [Daily reported deaths, Without National, Ontario, and Quebec, JOHN, 2022](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220210%20JOHN/output/merge/04%20provinces%20C-19%20daily%20deaths%2C%20Canada%2C%20JOHN%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/153682854-bf6d5dec-0c86-43c0-a8ba-d8ad1024a821.png)
+
 ****
 
 (5) Provinces together [Daily reported cases, JOHN, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220210%20JOHN/output/merge/05%20provinces%20C-19%20daily%20cases%2C%20Canada%2C%20JOHN%202020.pdf)
+
 
 ****
 
