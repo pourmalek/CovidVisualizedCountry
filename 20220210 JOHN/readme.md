@@ -29,28 +29,37 @@
 
 (3) Provinces together [Daily reported deaths, JOHN, 2022](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220210%20JOHN/output/merge/03%20provinces%20C-19%20daily%20deaths%2C%20Canada%2C%20JOHN%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/153682854-bf6d5dec-0c86-43c0-a8ba-d8ad1024a821.png)
+
 ****
 
 (4) Provinces together [Daily reported deaths, Without National, Ontario, and Quebec, JOHN, 2022](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220210%20JOHN/output/merge/04%20provinces%20C-19%20daily%20deaths%2C%20Canada%2C%20JOHN%202022.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/153682854-bf6d5dec-0c86-43c0-a8ba-d8ad1024a821.png)
+![image](https://user-images.githubusercontent.com/30849720/153682984-189f97b1-dc24-4e3f-8249-ac85de086316.png)
 
 ****
 
 (5) Provinces together [Daily reported cases, JOHN, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220210%20JOHN/output/merge/05%20provinces%20C-19%20daily%20cases%2C%20Canada%2C%20JOHN%202020.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/153683056-11e81262-9781-44d7-a583-625d095da0b4.png)
 
 ****
 
 (6) Provinces together [Daily reported cases, JOHN, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220210%20JOHN/output/merge/06%20provinces%20C-19%20daily%20cases%2C%20Canada%2C%20JOHN%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/153683114-710a5170-24d3-48d4-92b6-9701e6ea6102.png)
+
 *****
 
 (7) Provinces together [Daily reported cases, JOHN, 2022](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220210%20JOHN/output/merge/07%20provinces%20C-19%20daily%20cases%2C%20Canada%2C%20JOHN%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/153683163-76be2cc1-eef9-4f41-be5c-362926ce2352.png)
+
 ****
 
 (8) Provinces together [Daily reported cases, Without National, Ontario, and Quebec, JOHN, 2022](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220210%20JOHN/output/merge/08%20provinces%20C-19%20daily%20cases%2C%20Canada%2C%20JOHN%202022.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/153683214-248bbd71-b149-4740-8383-3040f3e5cac2.png)
 
 ****
 
