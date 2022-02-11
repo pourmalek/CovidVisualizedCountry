@@ -15,7 +15,9 @@
 
 ****
 
-(1) Provinces together [Daily reported deaths, JOHN, 2020 on]
+(1) Provinces together [Daily reported deaths, JOHN, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220210%20JOHN/output/merge/01%20provinces%20C-19%20daily%20deaths%2C%20Canada%2C%20JOHN%202020.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/153665069-59a202fe-21f8-4bda-bd97-78d47e6e3f3a.png)
 
 ****
 
