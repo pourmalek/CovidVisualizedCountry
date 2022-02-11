@@ -6,7 +6,7 @@
 <br/><br/>
 
 
-###$ Suumary of findings 2022-02-10:
+#### Suumary of findings 2022-02-10:
 
 
 Officially reported COVID-19 daily deaths in the omicron wave were higher than that for the Delta wave in all provinces and at the national level. 
