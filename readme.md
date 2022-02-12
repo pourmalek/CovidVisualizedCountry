@@ -1,6 +1,10 @@
 # CovidVisualizeCountry
 
-## ! THE MOST RECENT WEEKLY SITUATION REPORT, EVERY MONDAY MORNING, [HERE](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/32%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2032%20-%202022-02-04.pdf).
+## ! THE MOST RECENT WEEKLY SITUATION REPORT, EVERY MONDAY MORNING, HERE:
+
+[Canada COVID-19 epidemic models situation report No 33 - 2022-02-10](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/33%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2033%20-%202022-02-10.pdf)
+
+[Canada COVID-19 epidemic models situation report No 32 - 2022-02-04](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/32%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2032%20-%202022-02-04.pdf).
 
 
 <br/><br/>
