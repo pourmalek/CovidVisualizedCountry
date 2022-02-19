@@ -123,7 +123,7 @@ do "$pathCovidVisualizedCountry/IHME/do CovidVisualizedCountry IHME.do"
 
 // do "$pathCovidVisualizedCountry/LANL/do CovidVisualizedCountry LANL.do" // The LANL COVID-19 Team made its last real-time forecast on September 27th, 2021. [for 20210926]. This is more than two weeks old and will not be used. 
 
-do "$pathCovidVisualizedCountry/SRIV/do CovidVisualizedCountry SRIV.do" 
+// do "$pathCovidVisualizedCountry/SRIV/do CovidVisualizedCountry SRIV.do" 
 
 // do "$pathCovidVisualizedCountry/PHAC/do CovidVisualizedCountry PHAC.do" 
 
