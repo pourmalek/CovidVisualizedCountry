@@ -68,9 +68,9 @@
 
 ****
 
-(2) Canada National [Daily deaths, All scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220218/output/merge/15%20%20National%20C-19%20daily%20cases%20or%20infections%2C%20Canada%2C%20all%20scenarios%2C%202021%20on.pdf)
+(2) Canada National [Daily deaths, All scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220218/output/merge/10%20%20National%20C-19%20daily%20deaths%2C%20Canada%2C%20reference%20scenarios%2C%202021%20on.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/154802551-96bb9245-df2b-45e1-b3c4-4f369882af72.png)
+![image](https://user-images.githubusercontent.com/30849720/154802726-464bf6a8-0374-4d20-bcff-35918aea8c1c.png)
 
 ****
 
