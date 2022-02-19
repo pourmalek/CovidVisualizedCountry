@@ -257,11 +257,13 @@
 
 (3) Alberta [Daily cases or infections, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220218/output/merge/12%20Alberta%20C-19%20daily%20cases%20or%20infections%2C%20Canada%2C%20reference%20scenarios%2C%202020%20on.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/154809638-0cae79ba-304b-4bb2-a57b-95e627abc51a.png)
 
 ****
 
 (4) Alberta [Daily cases or infections, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220218/output/merge/13%20Alberta%20C-19%20daily%20cases%20or%20infections%2C%20Canada%2C%20reference%20scenarios%2C%202021%20on.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/154809685-0c5cbc79-cb08-40ba-a3ee-071f2fa37441.png)
 
 ****
 
@@ -284,21 +286,25 @@
 
 (1) British Columbia [Daily deaths, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220218/output/merge/09%20British%20Columbia%20C-19%20daily%20deaths%2C%20Canada%2C%20reference%20scenarios%2C%202020%20on.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/154809721-8464d5a5-1608-4ae0-aa46-62a5bdb2f14c.png)
 
 ****
 
 (2) British Columbia [Daily deaths, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220218/output/merge/10%20British%20Columbia%20C-19%20daily%20deaths%2C%20Canada%2C%20reference%20scenarios%2C%202021%20on.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/154809748-f8e9c0ab-b0ba-491c-b4db-5d485f5e4737.png)
 
 ****
 
 (3) British Columbia [Daily cases or infections, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220218/output/merge/12%20British%20Columbia%20C-19%20daily%20cases%20or%20infections%2C%20Canada%2C%20reference%20scenarios%2C%202020%20on.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/154809770-422c21a9-9c60-4e65-8165-be27b1f61789.png)
 
 ****
 
 (4) British Columbia [Daily cases or infections, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220218/output/merge/13%20British%20Columbia%20C-19%20daily%20cases%20or%20infections%2C%20Canada%2C%20reference%20scenarios%2C%202021%20on.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/154809805-a5e25a52-5a5f-471a-9584-a171bb6ef157.png)
 
 ****
 
