@@ -54,11 +54,13 @@
 
 (7) Provinces together [Daily reported cases, JOHN, 2022](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220225%20JOHN/output/merge/07%20provinces%20C-19%20daily%20cases%2C%20Canada%2C%20JOHN%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/156907521-90a791e2-3536-475d-a109-7c2abd8166c6.png)
 
 ****
 
 (8) Provinces together [Daily reported cases, Without National, Ontario, and Quebec, JOHN, 2022](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220225%20JOHN/output/merge/08%20provinces%20C-19%20daily%20cases%2C%20Canada%2C%20JOHN%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/156907554-6738b195-d529-4d25-bf64-f1d90e18097f.png)
 
 ****
 
