@@ -7,6 +7,13 @@
 <br/><br/>
 
 
+Summary 20220304:
+
+COVID-19 reported cases and deaths are on the rise again in Canada at the national level and in all provinces. 
+
+<br/><br/>
+
+
 ****
 
 ****
