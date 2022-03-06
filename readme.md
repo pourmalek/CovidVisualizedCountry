@@ -4,8 +4,6 @@
 
 ! Read the Canada COVID-19 epidemic models situation report No 36 - 2022-03-04 [here](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/36%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2036%20-%202022-03-04.pdf).
 
-[Canada COVID-19 epidemic models situation report No 34 - 2022-02-18](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/34%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2034%20-%202022-02-18.pdf)
-
 ! Read the Canada COVID-19 epidemic models situation report No 35 - 2022-02-25 [here](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/35%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2035%20-%202022-02-25.pdf).
 
 
