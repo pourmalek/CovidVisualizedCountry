@@ -1,0 +1,510 @@
+{smcl}
+{txt}{sf}{ul off}{.-}
+      name:  {res}<unnamed>
+       {txt}log:  {res}/Users/farshadpourmalek/Downloads/CovidVisualizedCountry-main/20220304 JOHN/code/merge/log CovidVisualizedCountry merge.smcl
+  {txt}log type:  {res}smcl
+ {txt}opened on:  {res} 5 Mar 2022, 18:58:11
+{txt}
+{com}. 
+. 
+. ***************************************************************************
+. * This is "do CovidVisualizedCountry merge.do"
+. 
+. * Project: Combine and visualize interNational periodically updating 
+. * estimates of C-19 at the country level (CovidVisualizedCountry)
+. * Person: Farshad Pourmalek pourmalek_farshad at yahoo dotcom
+. * Time (initial): 2021-04-14
+. ***************************************************************************
+. 
+. 
+. 
+. 
+. clear
+{txt}
+{com}. 
+. * JOHN
+. 
+. if regexm(c(os),"Mac") == 1 {c -(}
+. 
+.         use "$pathCovidVisualizedCountry/JOHN/CovidVisualizedCountry JOHN.dta", clear 
+. {c )-}
+{txt}
+{com}. else if regexm(c(os),"Windows") == 1 use "$pathCovidVisualizedCountry\JOHN\CovidVisualizedCountry JOHN.dta", clear 
+{txt}
+{com}. 
+. 
+. 
+. * 
+. 
+. label var loc_grand_name "Location"
+{txt}
+{com}. 
+. label var provincestate "Province"
+{txt}
+{com}. 
+. label var date "date"
+{txt}
+{com}. 
+. 
+. 
+.  
+. *
+. 
+. sort date
+{txt}
+{com}. 
+. save "CovidVisualizedCountry merge.dta", replace
+{txt}(note: file CovidVisualizedCountry merge.dta not found)
+file CovidVisualizedCountry merge.dta saved
+
+{com}. 
+. 
+. *
+. 
+. 
+. * gen calendar file
+. 
+. 
+. clear
+{txt}
+{com}. 
+. di td(01jan2020) // 21915
+{res}21915
+{txt}
+{com}. 
+. di td(01jan2022) // 22646
+{res}22646
+{txt}
+{com}. 
+. di td(01jan2022) - td(01jan2020) // 731 + 1 = 732
+{res}731
+{txt}
+{com}. 
+. 
+. 
+. set obs 732
+{txt}{p}
+number of observations (_N)  was 0,
+now 732
+{p_end}
+
+{com}. 
+. gen date = .
+{txt}(732 missing values generated)
+
+{com}. 
+. replace date = 21915 in 1
+{txt}(1 real change made)
+
+{com}. 
+. replace date = date[_n-1] + 1 in 2/l
+{txt}(731 real changes made)
+
+{com}. 
+. replace date = date[_n-1] + 1 in 2/732
+{txt}(0 real changes made)
+
+{com}. 
+. format date %tdDDMonCCYY
+{txt}
+{com}. 
+. codebook date
+
+{txt}{hline}
+{res}date{right:(unlabeled)}
+{txt}{hline}
+
+{col 19}type:  numeric daily date ({res}float{txt})
+
+{col 18}range:  [{res}21915{txt},{res}22646{txt}]{col 55}units:  {res}1
+{col 8}{txt}or equivalently:  [{res}01jan2020{txt},{res}01jan2022{txt}]{col 55}units:  {res}days
+{col 10}{txt}unique values:  {res}732{col 51}{txt}missing .:  {res}0{txt}/{res}732
+
+{txt}{col 19}mean:{res}{col 26} 22280.5{txt} = {res}31dec2020{txt} (+ 12 hours)
+{col 15}std. dev:{res}{col 26} 211.454
+
+{txt}{col 12}percentiles:{col 32}10%{col 42}25%{col 52}50%{col 62}75%{col 72}90%
+{res}{col 27}   21988{col 37} 22097.5{col 47} 22280.5{col 57} 22463.5{col 67}   22573
+{col 26}14mar2020{col 36}01jul2020{col 46}31dec2020{col 56}02jul2021{col 66}20oct2021
+{txt}
+{com}. 
+. 
+. merge m:m date using "CovidVisualizedCountry merge.dta"
+{res}
+{txt}{col 5}Result{col 38}# of obs.
+{col 5}{hline 41}
+{col 5}not matched{col 30}{res}             889
+{txt}{col 9}from master{col 30}{res}              21{txt}  (_merge==1)
+{col 9}from using{col 30}{res}             868{txt}  (_merge==2)
+
+{col 5}matched{col 30}{res}           9,954{txt}  (_merge==3)
+{col 5}{hline 41}
+
+{com}. 
+. replace loc_grand_name = "$country"
+{txt}(21 real changes made)
+
+{com}. 
+. sort loc_grand_name provincestate date
+{txt}
+{com}. 
+. isid loc_grand_name provincestate date, missok
+{txt}
+{com}. 
+. drop _merge
+{txt}
+{com}. 
+. 
+. 
+. qui compress
+{txt}
+{com}. 
+. 
+. save "CovidVisualizedCountry merge.dta", replace
+{txt}file CovidVisualizedCountry merge.dta saved
+
+{com}. 
+. 
+. 
+. 
+. 
+.  
+. ***************
+. 
+. ***************
+. 
+. * graphs 
+. 
+. 
+. grstyle init
+{res}{txt}
+{com}. 
+. grstyle color background white
+{txt}
+{com}. 
+. 
+. 
+. 
+. 
+. **********
+. 
+. * gen monthspast vars for #thicknumber of graphs - merge
+. 
+. 
+. summ date
+
+{txt}    Variable {c |}        Obs        Mean    Std. Dev.       Min        Max
+{hline 13}{c +}{hline 57}
+{space 8}date {c |}{res}     10,843    22321.23    223.6222      21915      22708
+{txt}
+{com}. 
+. gen mergemaxdate = r(max)
+{txt}
+{com}. 
+. 
+. gen monthspast01jan2020merge = ((mergemaxdate - td(01jan2020)) / 30) + 1
+{txt}
+{com}. 
+. replace monthspast01jan2020merge = round(monthspast01jan2020merge)
+{txt}(10,843 real changes made)
+
+{com}. 
+. global monthspast01jan2020merge = monthspast01jan2020merge
+{txt}
+{com}. 
+. di $monthspast01jan2020merge
+{res}27
+{txt}
+{com}. 
+. 
+. 
+. gen monthspast01jan2021merge = ((mergemaxdate - td(01jan2021)) / 30) + 1
+{txt}
+{com}. 
+. replace monthspast01jan2021merge = round(monthspast01jan2021merge)
+{txt}(10,843 real changes made)
+
+{com}. 
+. global monthspast01jan2021merge = monthspast01jan2021merge
+{txt}
+{com}. 
+. di $monthspast01jan2021merge
+{res}15
+{txt}
+{com}. 
+. 
+. 
+. gen monthspast01jan2022merge = ((mergemaxdate - td(01jan2022)) / 30) + 1
+{txt}
+{com}. 
+. replace monthspast01jan2022merge = round(monthspast01jan2022merge)
+{txt}(10,843 real changes made)
+
+{com}. 
+. global monthspast01jan2022merge = monthspast01jan2022merge
+{txt}
+{com}. 
+. di $monthspast01jan2022merge
+{res}3
+{txt}
+{com}. 
+. 
+. 
+. 
+. *******************************************************
+. 
+. 
+. 
+. * Selected graphs - Canada, provinces --- JOHN
+. 
+. 
+. 
+. *******************************************************
+. * 1 daily deaths, provinces, 2020 on
+. 
+. twoway ///
+> (line DayDeaMeSmA00S00XXX date, sort lwidth(medthick) lcolor(gray)) /// 1 "CAN" 
+> (line DayDeaMeSmA00S00XAB date, sort lwidth(medium) lcolor(cyan)) /// 2 "AB" cyan
+> (line DayDeaMeSmA00S00XBC date, sort lwidth(medium) lcolor(blue)) /// 3 "BC" blue
+> (line DayDeaMeSmA00S00XMB date, sort lwidth(medium) lcolor(lime)) /// 4 "MB" lime
+> (line DayDeaMeSmA00S00XNL date, sort lwidth(medium) lcolor(gold)) /// 5 "NL" gold
+> (line DayDeaMeSmA00S00XNS date, sort lwidth(medium) lcolor(magenta)) /// 6 "NS" magenta
+> (line DayDeaMeSmA00S00XON date, sort lwidth(medium) lcolor(red)) /// 7 "ON" red
+> (line DayDeaMeSmA00S00XQC date, sort lwidth(medium) lcolor(black)) /// 9 "QC" black
+> (line DayDeaMeSmA00S00XSK date, sort lwidth(medium) lcolor(brown)) /// 8 "SK" orange
+> if date >= td(01jan2020) & date <= td(01mar2022) ///
+> , xtitle(Date) xlabel(#27, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+> xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(forty_five)) ///
+> ytitle(Daily deaths) title("C-19 daily deaths, smooth, $country provinces, JOHN, 2020 on", size(medium)) ///
+> xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
+> legend(order(1 "CAN" 2 "AB" 3 "BC" 4 "MB" 5 "NL" 6 "NS" 7 "ON" 8 "QC" 9 "SK" ) rows(2) size(small))  
+{res}{txt}
+{com}. 
+. qui graph export "01 provinces C-19 daily deaths, $country, JOHN 2020.pdf", replace
+{txt}
+{com}. 
+. 
+. 
+. 
+. 
+. *******************************************************
+. * 2 daily deaths, provinces, 2021 on
+. 
+. twoway ///
+> (line DayDeaMeSmA00S00XXX date, sort lwidth(medthick) lcolor(gray)) /// 1 "CAN" 
+> (line DayDeaMeSmA00S00XAB date, sort lwidth(medium) lcolor(cyan)) /// 2 "AB" cyan
+> (line DayDeaMeSmA00S00XBC date, sort lwidth(medium) lcolor(blue)) /// 3 "BC" blue
+> (line DayDeaMeSmA00S00XMB date, sort lwidth(medium) lcolor(lime)) /// 4 "MB" lime
+> (line DayDeaMeSmA00S00XNL date, sort lwidth(medium) lcolor(gold)) /// 5 "NL" gold
+> (line DayDeaMeSmA00S00XNS date, sort lwidth(medium) lcolor(magenta)) /// 6 "NS" magenta
+> (line DayDeaMeSmA00S00XON date, sort lwidth(medium) lcolor(red)) /// 7 "ON" red
+> (line DayDeaMeSmA00S00XQC date, sort lwidth(medium) lcolor(black)) /// 9 "QC" black
+> (line DayDeaMeSmA00S00XSK date, sort lwidth(medium) lcolor(brown)) /// 8 "SK" orange
+> if date >= td(01jan2021) & date <= td(01mar2022) ///
+> , xtitle(Date) xlabel(#15, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+> xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(forty_five)) ///
+> ytitle(Daily deaths) title("C-19 daily deaths, smooth, $country provinces, JOHN, 2021 on", size(medium)) ///
+> xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
+> legend(order(1 "CAN" 2 "AB" 3 "BC" 4 "MB" 5 "NL" 6 "NS" 7 "ON" 8 "QC" 9 "SK" ) rows(2) size(small))  
+{res}{txt}
+{com}. 
+. qui graph export "02 provinces C-19 daily deaths, $country, JOHN 2021.pdf", replace
+{txt}
+{com}. 
+. 
+. 
+. 
+. 
+. 
+. *******************************************************
+. * 3 daily deaths, provinces, 2022 on
+. 
+. twoway ///
+> (line DayDeaMeSmA00S00XXX date, sort lwidth(medthick) lcolor(gray)) /// 1 "CAN" 
+> (line DayDeaMeSmA00S00XAB date, sort lwidth(medium) lcolor(cyan)) /// 2 "AB" cyan
+> (line DayDeaMeSmA00S00XBC date, sort lwidth(medium) lcolor(blue)) /// 3 "BC" blue
+> (line DayDeaMeSmA00S00XMB date, sort lwidth(medium) lcolor(lime)) /// 4 "MB" lime
+> (line DayDeaMeSmA00S00XNL date, sort lwidth(medium) lcolor(gold)) /// 5 "NL" gold
+> (line DayDeaMeSmA00S00XNS date, sort lwidth(medium) lcolor(magenta)) /// 6 "NS" magenta
+> (line DayDeaMeSmA00S00XON date, sort lwidth(medium) lcolor(red)) /// 7 "ON" red
+> (line DayDeaMeSmA00S00XQC date, sort lwidth(medium) lcolor(black)) /// 9 "QC" black
+> (line DayDeaMeSmA00S00XSK date, sort lwidth(medium) lcolor(brown)) /// 8 "SK" orange
+> if date >= td(01jan2022) & date <= td(01mar2022) ///
+> , xtitle(Date) xlabel(#3, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+> xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(forty_five)) ///
+> ytitle(Daily deaths) title("C-19 daily deaths, smooth, $country provinces, JOHN, 2022", size(medium)) ///
+> xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
+> legend(order(1 "CAN" 2 "AB" 3 "BC" 4 "MB" 5 "NL" 6 "NS" 7 "ON" 8 "QC" 9 "SK" ) rows(2) size(small))  
+{res}{txt}
+{com}. 
+. qui graph export "03 provinces C-19 daily deaths, $country, JOHN 2022.pdf", replace
+{txt}
+{com}. 
+. 
+. 
+. 
+. 
+. 
+. *******************************************************
+. * 4 daily deaths, provinces, 2022 on
+. 
+. twoway ///
+> (line DayDeaMeSmA00S00XAB date, sort lwidth(medium) lcolor(cyan)) /// 1 "AB" cyan
+> (line DayDeaMeSmA00S00XBC date, sort lwidth(medium) lcolor(blue)) /// 2 "BC" blue
+> (line DayDeaMeSmA00S00XMB date, sort lwidth(medium) lcolor(lime)) /// 3 "MB" lime
+> (line DayDeaMeSmA00S00XNL date, sort lwidth(medium) lcolor(gold)) /// 4 "NL" gold
+> (line DayDeaMeSmA00S00XNS date, sort lwidth(medium) lcolor(magenta)) /// 5 "NS" magenta
+> (line DayDeaMeSmA00S00XSK date, sort lwidth(medium) lcolor(brown)) /// 6 "SK" orange
+> if date >= td(01jan2022) & date <= td(01mar2022) ///
+> , xtitle(Date) xlabel(#3, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+> xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(forty_five)) ///
+> ytitle(Daily deaths) title("C-19 daily deaths, smooth, $country provinces, JOHN, 2022", size(medium)) ///
+> xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
+> legend(order(1 "AB" 2 "BC" 3 "MB" 4 "NL" 5 "NS" 6 "SK" ) rows(1) size(small)) ///
+> subtitle("Without National, Ontario, and Quebec", size(small))
+{res}{txt}
+{com}. 
+. qui graph export "04 provinces C-19 daily deaths, $country, JOHN 2022.pdf", replace
+{txt}
+{com}. 
+. 
+. 
+. 
+. 
+. *******************************************************
+. * 5 daily cases, provinces, 2020 on
+. 
+. twoway ///
+> (line DayCasMeSmA00S00XXX date, sort lwidth(medthick) lcolor(gray)) /// 1 "CAN" 
+> (line DayCasMeSmA00S00XAB date, sort lwidth(medium) lcolor(cyan)) /// 2 "AB" cyan
+> (line DayCasMeSmA00S00XBC date, sort lwidth(medium) lcolor(blue)) /// 3 "BC" blue
+> (line DayCasMeSmA00S00XMB date, sort lwidth(medium) lcolor(lime)) /// 4 "MB" lime
+> (line DayCasMeSmA00S00XNL date, sort lwidth(medium) lcolor(gold)) /// 5 "NL" gold
+> (line DayCasMeSmA00S00XNS date, sort lwidth(medium) lcolor(magenta)) /// 6 "NS" magenta
+> (line DayCasMeSmA00S00XON date, sort lwidth(medium) lcolor(red)) /// 7 "ON" red
+> (line DayCasMeSmA00S00XQC date, sort lwidth(medium) lcolor(black)) /// 8 "QC" black
+> (line DayCasMeSmA00S00XSK date, sort lwidth(medium) lcolor(brown)) /// 9 "SK" orange
+> if date >= td(01jan2020) & date <= td(01mar2022) ///
+> , xtitle(Date) xlabel(#27, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+> xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(forty_five)) ///
+> ytitle(Daily cases) title("C-19 daily cases, smooth, $country provinces, JOHN, 2020 on", size(medium)) ///
+> xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
+> legend(order(1 "CAN" 2 "AB" 3 "BC" 4 "MB" 5 "NL" 6 "NS" 7 "ON" 8 "QC" 9 "SK" ) rows(2) size(small)) 
+{res}{txt}
+{com}. 
+. qui graph export "05 provinces C-19 daily cases, $country, JOHN 2020.pdf", replace
+{txt}
+{com}. 
+. 
+. 
+. 
+. 
+. *******************************************************
+. * 6 daily cases, provinces, 2021 on
+. 
+. twoway ///
+> (line DayCasMeSmA00S00XXX date, sort lwidth(medthick) lcolor(gray)) /// 1 "CAN" 
+> (line DayCasMeSmA00S00XAB date, sort lwidth(medium) lcolor(cyan)) /// 2 "AB" cyan
+> (line DayCasMeSmA00S00XBC date, sort lwidth(medium) lcolor(blue)) /// 3 "BC" blue
+> (line DayCasMeSmA00S00XMB date, sort lwidth(medium) lcolor(lime)) /// 4 "MB" lime
+> (line DayCasMeSmA00S00XNL date, sort lwidth(medium) lcolor(gold)) /// 5 "NL" gold
+> (line DayCasMeSmA00S00XNS date, sort lwidth(medium) lcolor(magenta)) /// 6 "NS" magenta
+> (line DayCasMeSmA00S00XON date, sort lwidth(medium) lcolor(red)) /// 7 "ON" red
+> (line DayCasMeSmA00S00XQC date, sort lwidth(medium) lcolor(black)) /// 8 "QC" black
+> (line DayCasMeSmA00S00XSK date, sort lwidth(medium) lcolor(brown)) /// 9 "SK" orange
+> if date >= td(01jan2021) & date <= td(01mar2022) ///
+> , xtitle(Date) xlabel(#15, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+> xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(forty_five)) ///
+> ytitle(Daily cases) title("C-19 daily cases, smooth, $country provinces, JOHN, 2021 on", size(medium)) ///
+> xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
+> legend(order(1 "CAN" 2 "AB" 3 "BC" 4 "MB" 5 "NL" 6 "NS" 7 "ON" 8 "QC" 9 "SK" ) rows(2) size(small)) 
+{res}{txt}
+{com}. 
+. qui graph export "06 provinces C-19 daily cases, $country, JOHN 2021.pdf", replace
+{txt}
+{com}. 
+. 
+. 
+. 
+. 
+. 
+. *******************************************************
+. * 7 daily cases, provinces, 2022 on
+. 
+. twoway ///
+> (line DayCasMeSmA00S00XXX date, sort lwidth(medthick) lcolor(gray)) /// 1 "CAN" 
+> (line DayCasMeSmA00S00XAB date, sort lwidth(medium) lcolor(cyan)) /// 2 "AB" cyan
+> (line DayCasMeSmA00S00XBC date, sort lwidth(medium) lcolor(blue)) /// 3 "BC" blue
+> (line DayCasMeSmA00S00XMB date, sort lwidth(medium) lcolor(lime)) /// 4 "MB" lime
+> (line DayCasMeSmA00S00XNL date, sort lwidth(medium) lcolor(gold)) /// 5 "NL" gold
+> (line DayCasMeSmA00S00XNS date, sort lwidth(medium) lcolor(magenta)) /// 6 "NS" magenta
+> (line DayCasMeSmA00S00XON date, sort lwidth(medium) lcolor(red)) /// 7 "ON" red
+> (line DayCasMeSmA00S00XQC date, sort lwidth(medium) lcolor(black)) /// 8 "QC" black
+> (line DayCasMeSmA00S00XSK date, sort lwidth(medium) lcolor(brown)) /// 9 "SK" orange
+> if date >= td(01jan2022) & date <= td(01mar2022) ///
+> , xtitle(Date) xlabel(#3, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+> xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(forty_five)) ///
+> ytitle(Daily cases) title("C-19 daily cases, smooth, $country provinces, JOHN, 2022", size(medium)) ///
+> xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
+> legend(order(1 "CAN" 2 "AB" 3 "BC" 4 "MB" 5 "NL" 6 "NS" 7 "ON" 8 "QC" 9 "SK" ) rows(2) size(small)) 
+{res}{txt}
+{com}. 
+. qui graph export "07 provinces C-19 daily cases, $country, JOHN 2022.pdf", replace
+{txt}
+{com}. 
+. 
+. 
+. 
+. 
+. 
+. *******************************************************
+. * 8 daily cases, provinces, 2022 on
+. 
+. twoway ///
+> (line DayCasMeSmA00S00XAB date, sort lwidth(medium) lcolor(cyan)) /// 1 "AB" cyan
+> (line DayCasMeSmA00S00XBC date, sort lwidth(medium) lcolor(blue)) /// 2 "BC" blue
+> (line DayCasMeSmA00S00XMB date, sort lwidth(medium) lcolor(lime)) /// 3 "MB" lime
+> (line DayCasMeSmA00S00XNL date, sort lwidth(medium) lcolor(gold)) /// 4 "NL" gold
+> (line DayCasMeSmA00S00XNS date, sort lwidth(medium) lcolor(magenta)) /// 5 "NS" magenta
+> (line DayCasMeSmA00S00XSK date, sort lwidth(medium) lcolor(brown)) /// 6 "SK" orange
+> if date >= td(01jan2022) & date <= td(01mar2022) ///
+> , xtitle(Date) xlabel(#3, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+> xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(forty_five)) ///
+> ytitle(Daily cases) title("C-19 daily cases, smooth, $country provinces, JOHN, 2022", size(medium)) ///
+> xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
+> legend(order(1 "AB" 2 "BC" 3 "MB" 4 "NL" 5 "NS" 6 "SK" ) rows(1) size(small)) ///
+> subtitle("Without National, Ontario, and Quebec", size(small))
+{res}{txt}
+{com}. 
+. qui graph export "08 provinces C-19 daily cases, $country, JOHN 2022.pdf", replace
+{txt}
+{com}. 
+. 
+. 
+. 
+. 
+. 
+. 
+. ************
+. 
+. * restore native scheme (of the local machine)
+. 
+. set scheme $nativescheme
+{txt}
+{com}. 
+. di c(scheme)
+{res}_GRSTYLE_
+{txt}
+{com}. 
+. 
+. view "log CovidVisualizedCountry merge.smcl"
+{txt}
+{com}. 
+. log close
+      {txt}name:  {res}<unnamed>
+       {txt}log:  {res}/Users/farshadpourmalek/Downloads/CovidVisualizedCountry-main/20220304 JOHN/code/merge/log CovidVisualizedCountry merge.smcl
+  {txt}log type:  {res}smcl
+ {txt}closed on:  {res} 5 Mar 2022, 18:58:23
+{txt}{.-}
+{smcl}
+{txt}{sf}{ul off}
