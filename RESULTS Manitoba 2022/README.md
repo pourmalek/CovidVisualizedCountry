@@ -27,7 +27,9 @@
 
 **uptake 20220114**: **_DELP 2022014_**, **_IHME 20220114_**, **_IMPE 20220102_**, **_SRIV 20220113_**, **_PHAC 20220114_**
 
+(1) Manitoba [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220114/output/merge/main/SUB1%2011bDayDeaMERGsub%20alltime%20Manitoba%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/149671007-2dd97a31-47be-4e3a-acf9-985e0be1c45e.png)
 
 *
 
@@ -76,7 +78,9 @@
 
 **uptake 20220114**: **_DELP 2022014_**, **_IHME 20220114_**, **_IMPE 20220102_**, **_SRIV 20220113_**, **_PHAC 20220114_**
 
+(3) Manitoba [Daily deaths, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220114/output/merge/main/SUB3%2014b1DayDeaMERGsub%202021%202%20scenarios%20Manitoba%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Manitoba%2C%202%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/149669702-9f7161cf-30fc-4fad-952c-35c860ac7375.png)
 
 *
 
@@ -121,7 +125,9 @@
 
 **uptake 20220114**: **_DELP 2022014_**, **_IHME 20220114_**, **_IMPE 20220102_**, **_SRIV 20220113_**, **_PHAC 20220114_**
 
+(4) Manitoba [Daily cases or infections, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220114/output/merge/main/SUB6%2034bDayCasMERGsub%202021%203scen%20Manitoba%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Manitoba%2C%202%20scenarios%2C%202021%2C%20uncertainty.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/149670065-9c82f10b-0d94-4ca1-b041-3a7e0c429648.png)
 
 *
 
@@ -171,7 +177,9 @@
 
 **uptake 20220114**: **_DELP 2022014_**, **_IHME 20220114_**, **_IMPE 20220102_**, **_SRIV 20220113_**, **_PHAC 20220114_**
 
+(6) Manitoba [Daily cases or infections, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220114/output/merge/main/SUB6%2034bDayCasMERGsub%202021%203scen%20Manitoba%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Manitoba%2C%202%20scenarios%2C%202021%2C%20uncertainty.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/149670643-7977ad75-5a59-4291-bb75-3083c0bd0d54.png)
 
 *
 
