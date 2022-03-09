@@ -20,7 +20,7 @@ New Brunswick only predicted in DELP model.
 
 *
 
-**uptake 20220121**: **_DELP 20220121_**, **_IHME 20220121_**, IMPE 20220102, **_SRIV 20220119_**, **_PHAC 20220114_** 
+**uptake 20220121**: **_DELP 20220121_**, **_IHME 20220121_**, IMPE 20220102, **_SRIV 20220119_**, PHAC 20220114
 
 
 
@@ -66,7 +66,7 @@ New Brunswick only predicted in DELP model.
 
 *
 
-**uptake 20220121**: **_DELP 20220121_**, **_IHME 20220121_**, IMPE 20220102, **_SRIV 20220119_**, **_PHAC 20220114_** 
+**uptake 20220121**: **_DELP 20220121_**, **_IHME 20220121_**, IMPE 20220102, **_SRIV 20220119_**, PHAC 20220114
 
 
 
