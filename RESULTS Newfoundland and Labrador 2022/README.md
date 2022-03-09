@@ -15,7 +15,7 @@ Newfoundland and Labrador only predicted in DELP model.
 
 *
 
-**uptake 20220114**: **_DELP 2022014_**, **_IHME 20220114_**, **_IMPE 20220102_**, **_SRIV 20220113_**, **_PHAC 20220114_**
+**uptake 20220114**: **_DELP 2022014_**, **_IHME 20220114_**, **_IMPE 20220102_**, **_SRIV 20220113_**, PHAC 20220114
 
 
 
@@ -54,7 +54,7 @@ Newfoundland and Labrador only predicted in DELP model.
 
 *
 
-**uptake 20220114**: **_DELP 2022014_**, **_IHME 20220114_**, **_IMPE 20220102_**, **_SRIV 20220113_**, **_PHAC 20220114_**
+**uptake 20220114**: **_DELP 2022014_**, **_IHME 20220114_**, **_IMPE 20220102_**, **_SRIV 20220113_**, PHAC 20220114
 
 
 
