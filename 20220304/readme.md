@@ -234,8 +234,9 @@
 
 ****
 
-(2) Alberta [Daily deaths, Reference scenario, 2021 on]()
+(2) Alberta [Daily deaths, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220304/output/merge/SUB2%2012bDayDeaMERGsub%202021%20Alberta%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/157583658-fdf4beb2-a252-4b45-a469-3ba817ec5d91.png)
 
 ****
 
