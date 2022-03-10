@@ -656,6 +656,22 @@ di $monthspast01jan2022merge
 
 
 ******************
+
+* gen monthspast vars for #thicknumber of graphs -- JOHN
+
+gen monthspast01jan2020JOHN = monthspast01jan2020merge - 2
+global monthspast01jan2020JOHN = monthspast01jan2020JOHN
+
+gen monthspast01jan2021JOHN = monthspast01jan2021merge - 2
+global monthspast01jan2021JOHN = monthspast01jan2021JOHN
+
+gen monthspast01jan2022JOHN = monthspast01jan2022merge - 2
+global monthspast01jan2022JOHN = monthspast01jan2022JOHN
+
+
+
+ 
+ 
  
 
  
@@ -3862,8 +3878,8 @@ twoway ///
 (line DayDeaMeSmA00S00XON date, sort lwidth(medium) lcolor(red)) /// 7 "ON" red
 (line DayDeaMeSmA00S00XQC date, sort lwidth(medium) lcolor(black)) /// 9 "QC" black
 (line DayDeaMeSmA00S00XSK date, sort lwidth(medium) lcolor(brown)) /// 8 "SK" orange
-if date >= td(01jan2020) & date <= td(01mar2022) ///
-, xtitle(Date) xlabel(#27, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+if date >= td(01jan2020) & date <= td(01apr2022) ///
+, xtitle(Date) xlabel(#$monthspast01jan2020JOHN, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(forty_five)) ///
 ytitle(Daily deaths) title("C-19 daily deaths, smooth, $country provinces, JOHN, 2020 on", size(medium)) ///
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
@@ -3888,8 +3904,8 @@ twoway ///
 (line DayDeaMeSmA00S00XON date, sort lwidth(medium) lcolor(red)) /// 7 "ON" red
 (line DayDeaMeSmA00S00XQC date, sort lwidth(medium) lcolor(black)) /// 9 "QC" black
 (line DayDeaMeSmA00S00XSK date, sort lwidth(medium) lcolor(brown)) /// 8 "SK" orange
-if date >= td(01jan2021) & date <= td(01mar2022) ///
-, xtitle(Date) xlabel(#15, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+if date >= td(01jan2021) & date <= td(01apr2022) ///
+, xtitle(Date) xlabel(#$monthspast01jan2021JOHN, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(forty_five)) ///
 ytitle(Daily deaths) title("C-19 daily deaths, smooth, $country provinces, JOHN, 2021 on", size(medium)) ///
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
@@ -3915,8 +3931,8 @@ twoway ///
 (line DayDeaMeSmA00S00XON date, sort lwidth(medium) lcolor(red)) /// 7 "ON" red
 (line DayDeaMeSmA00S00XQC date, sort lwidth(medium) lcolor(black)) /// 9 "QC" black
 (line DayDeaMeSmA00S00XSK date, sort lwidth(medium) lcolor(brown)) /// 8 "SK" orange
-if date >= td(01jan2022) & date <= td(01mar2022) ///
-, xtitle(Date) xlabel(#3, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+if date >= td(01jan2022) & date <= td(01apr2022) ///
+, xtitle(Date) xlabel(#$monthspast01jan2022JOHN, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(forty_five)) ///
 ytitle(Daily deaths) title("C-19 daily deaths, smooth, $country provinces, JOHN, 2022", size(medium)) ///
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
@@ -3930,7 +3946,7 @@ qui graph export "graph 03 provinces C-19 daily deaths, $country, JOHN 2022.pdf"
 
 
 *******************************************************
-* 4 daily deaths, provinces, 2022 on
+* 4 daily deaths, provinces, 2022 on, Without National, Ontario, and Quebec
 
 twoway ///
 (line DayDeaMeSmA00S00XAB date, sort lwidth(medium) lcolor(cyan)) /// 1 "AB" cyan
@@ -3939,8 +3955,8 @@ twoway ///
 (line DayDeaMeSmA00S00XNL date, sort lwidth(medium) lcolor(gold)) /// 4 "NL" gold
 (line DayDeaMeSmA00S00XNS date, sort lwidth(medium) lcolor(magenta)) /// 5 "NS" magenta
 (line DayDeaMeSmA00S00XSK date, sort lwidth(medium) lcolor(brown)) /// 6 "SK" orange
-if date >= td(01jan2022) & date <= td(01mar2022) ///
-, xtitle(Date) xlabel(#3, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+if date >= td(01jan2022) & date <= td(01apr2022) ///
+, xtitle(Date) xlabel(#$monthspast01jan2022JOHN, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(forty_five)) ///
 ytitle(Daily deaths) title("C-19 daily deaths, smooth, $country provinces, JOHN, 2022", size(medium)) ///
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
@@ -3966,8 +3982,8 @@ twoway ///
 (line DayCasMeSmA00S00XON date, sort lwidth(medium) lcolor(red)) /// 7 "ON" red
 (line DayCasMeSmA00S00XQC date, sort lwidth(medium) lcolor(black)) /// 8 "QC" black
 (line DayCasMeSmA00S00XSK date, sort lwidth(medium) lcolor(brown)) /// 9 "SK" orange
-if date >= td(01jan2020) & date <= td(01mar2022) ///
-, xtitle(Date) xlabel(#27, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+if date >= td(01jan2020) & date <= td(01apr2022) ///
+, xtitle(Date) xlabel(#$monthspast01jan2020JOHN, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(forty_five)) ///
 ytitle(Daily cases) title("C-19 daily cases, smooth, $country provinces, JOHN, 2020 on", size(medium)) ///
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
@@ -3992,8 +4008,8 @@ twoway ///
 (line DayCasMeSmA00S00XON date, sort lwidth(medium) lcolor(red)) /// 7 "ON" red
 (line DayCasMeSmA00S00XQC date, sort lwidth(medium) lcolor(black)) /// 8 "QC" black
 (line DayCasMeSmA00S00XSK date, sort lwidth(medium) lcolor(brown)) /// 9 "SK" orange
-if date >= td(01jan2021) & date <= td(01mar2022) ///
-, xtitle(Date) xlabel(#15, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+if date >= td(01jan2021) & date <= td(01apr2022) ///
+, xtitle(Date) xlabel(#$monthspast01jan2021JOHN, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(forty_five)) ///
 ytitle(Daily cases) title("C-19 daily cases, smooth, $country provinces, JOHN, 2021 on", size(medium)) ///
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
@@ -4019,8 +4035,8 @@ twoway ///
 (line DayCasMeSmA00S00XON date, sort lwidth(medium) lcolor(red)) /// 7 "ON" red
 (line DayCasMeSmA00S00XQC date, sort lwidth(medium) lcolor(black)) /// 8 "QC" black
 (line DayCasMeSmA00S00XSK date, sort lwidth(medium) lcolor(brown)) /// 9 "SK" orange
-if date >= td(01jan2022) & date <= td(01mar2022) ///
-, xtitle(Date) xlabel(#3, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+if date >= td(01jan2022) & date <= td(01apr2022) ///
+, xtitle(Date) xlabel(#$monthspast01jan2022JOHN, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(forty_five)) ///
 ytitle(Daily cases) title("C-19 daily cases, smooth, $country provinces, JOHN, 2022", size(medium)) ///
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
@@ -4034,7 +4050,7 @@ qui graph export "graph 07 provinces C-19 daily cases, $country, JOHN 2022.pdf",
 
 
 *******************************************************
-* 8 daily cases, provinces, 2022 on
+* 8 daily cases, provinces, 2022 on, Without National, Ontario, and Quebec
 
 twoway ///
 (line DayCasMeSmA00S00XAB date, sort lwidth(medium) lcolor(cyan)) /// 1 "AB" cyan
@@ -4043,8 +4059,8 @@ twoway ///
 (line DayCasMeSmA00S00XNL date, sort lwidth(medium) lcolor(gold)) /// 4 "NL" gold
 (line DayCasMeSmA00S00XNS date, sort lwidth(medium) lcolor(magenta)) /// 5 "NS" magenta
 (line DayCasMeSmA00S00XSK date, sort lwidth(medium) lcolor(brown)) /// 6 "SK" orange
-if date >= td(01jan2022) & date <= td(01mar2022) ///
-, xtitle(Date) xlabel(#3, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+if date >= td(01jan2022) & date <= td(01apr2022) ///
+, xtitle(Date) xlabel(#$monthspast01jan2022JOHN, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(forty_five)) ///
 ytitle(Daily cases) title("C-19 daily cases, smooth, $country provinces, JOHN, 2022", size(medium)) ///
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
@@ -4105,10 +4121,10 @@ twoway ///
 (line DayDeaMeSmA02S01XON date, sort lwidth(medium) lcolor(red)) /// 7 "ON" red
 (line DayDeaMeSmA02S01XQC date, sort lwidth(medium) lcolor(black)) /// 8 "QC" black
 (line DayDeaMeSmA02S01XSK date, sort lwidth(medium) lcolor(orange)) /// 9 "SK" orange
-if date >= td(01nov2021) /// 
+if date >= td(01jan2021) /// 
 , xtitle(Date) xlabel(#$monthspast01jan2021merge, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(forty_five)) ///
-ytitle(Daily deaths) title("C-19 daily deaths, $country provinces, IHME, Nov 2021 on", size(medium)) ///
+ytitle(Daily deaths) title("C-19 daily deaths, $country provinces, IHME, 2021 on", size(medium)) ///
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
 legend(order(1 "CAN" 2 "AB" 3 "BC" 4 "MB" 5 "NL" 6 "NS" 7 "ON" 8 "QC" 9 "SK" ) rows(2) size(small)) ///
 note("Reference scenario")
@@ -4118,8 +4134,37 @@ qui graph export "graph 23 provinces C-19 daily deaths, $country, IHME, 2021 on.
 
 
 
+
 *******************************************************
-* 24 daily infections, reference scenario, 2020 on
+* 24 daily deaths, reference scenario, 2022 on
+
+twoway ///
+(line DayDeaMeSmA02S01XXX date, sort lwidth(medthick) lcolor(gray)) /// 1 "CAN" 
+(line DayDeaMeSmA02S01XAB date, sort lwidth(medium) lcolor(cyan)) /// 2 "AB" cyan
+(line DayDeaMeSmA02S01XBC date, sort lwidth(medium) lcolor(blue)) /// 3 "BC" blue
+(line DayDeaMeSmA02S01XMB date, sort lwidth(medium) lcolor(lime)) /// 4 "MB" lime
+(line DayDeaMeSmA02S01XNL date, sort lwidth(medium) lcolor(gold)) /// 5 "NL" gold
+(line DayDeaMeSmA02S01XNS date, sort lwidth(medium) lcolor(magenta)) /// 6 "NS" magenta
+(line DayDeaMeSmA02S01XON date, sort lwidth(medium) lcolor(red)) /// 7 "ON" red
+(line DayDeaMeSmA02S01XQC date, sort lwidth(medium) lcolor(black)) /// 8 "QC" black
+(line DayDeaMeSmA02S01XSK date, sort lwidth(medium) lcolor(orange)) /// 9 "SK" orange
+if date >= td(01jan2022) /// 
+, xtitle(Date) xlabel(#$monthspast01jan2022merge, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(forty_five)) ///
+ytitle(Daily deaths) title("C-19 daily deaths, $country provinces, IHME, 2022 on", size(medium)) ///
+xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
+legend(order(1 "CAN" 2 "AB" 3 "BC" 4 "MB" 5 "NL" 6 "NS" 7 "ON" 8 "QC" 9 "SK" ) rows(2) size(small)) ///
+note("Reference scenario")
+
+qui graph export "graph 24 provinces C-19 daily deaths, $country, IHME, 2022 on.pdf", replace
+
+
+
+
+
+
+*******************************************************
+* 25 daily infections, reference scenario, 2020 on
 
 twoway ///
 (line DayINFMeSmA02S01XXX date, sort lwidth(medthick) lcolor(gray)) /// 1 "CAN" 
@@ -4138,7 +4183,7 @@ xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) lege
 legend(order(1 "CAN" 2 "AB" 3 "BC" 4 "MB" 5 "NL" 6 "NS" 7 "ON" 8 "QC" 9 "SK" ) rows(2) size(small)) ///
 note("Reference scenario")
 
-qui graph export "graph 24 provinces C-19 daily infections, $country, IHME, 2020 on.pdf", replace
+qui graph export "graph 25 provinces C-19 daily infections, $country, IHME, 2020 on.pdf", replace
 
 
 
@@ -4146,7 +4191,7 @@ qui graph export "graph 24 provinces C-19 daily infections, $country, IHME, 2020
 
 
 *******************************************************
-* 25 daily infections, reference scenario, Nov 2021 on
+* 26 daily infections, reference scenario, 2021 on
 
 twoway ///
 (line DayINFMeSmA02S01XXX date, sort lwidth(medthick) lcolor(gray)) /// 1 "CAN" 
@@ -4158,31 +4203,42 @@ twoway ///
 (line DayINFMeSmA02S01XON date, sort lwidth(medium) lcolor(red)) /// 7 "ON" red
 (line DayINFMeSmA02S01XQC date, sort lwidth(medium) lcolor(black)) /// 8 "QC" black
 (line DayINFMeSmA02S01XSK date, sort lwidth(medium) lcolor(orange)) /// 9 "SK" orange
-if date >= td(01nov2021) /// 
+if date >= td(01jan2021) /// 
 , xtitle(Date) xlabel(#$monthspast01jan2021merge, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(forty_five)) ///
-ytitle(Daily infections) title("C-19 daily infections, $country provinces, IHME, Nov 2021 on", size(medium)) ///
+ytitle(Daily infections) title("C-19 daily infections, $country provinces, IHME, 2021 on", size(medium)) ///
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
 legend(order(1 "CAN" 2 "AB" 3 "BC" 4 "MB" 5 "NL" 6 "NS" 7 "ON" 8 "QC" 9 "SK" ) rows(2) size(small)) ///
 note("Reference scenario")
 
-qui graph export "graph 25 provinces C-19 daily infections, $country, IHME, 2021 on.pdf", replace
+qui graph export "graph 26 provinces C-19 daily infections, $country, IHME, 2021 on.pdf", replace
 
 
 
 
 
+*******************************************************
+* 27 daily infections, reference scenario, 2021 on
 
+twoway ///
+(line DayINFMeSmA02S01XXX date, sort lwidth(medthick) lcolor(gray)) /// 1 "CAN" 
+(line DayINFMeSmA02S01XAB date, sort lwidth(medium) lcolor(cyan)) /// 2 "AB" cyan
+(line DayINFMeSmA02S01XBC date, sort lwidth(medium) lcolor(blue)) /// 3 "BC" blue
+(line DayINFMeSmA02S01XMB date, sort lwidth(medium) lcolor(lime)) /// 4 "MB" lime
+(line DayINFMeSmA02S01XNL date, sort lwidth(medium) lcolor(gold)) /// 5 "NL" gold
+(line DayINFMeSmA02S01XNS date, sort lwidth(medium) lcolor(magenta)) /// 6 "NS" magenta
+(line DayINFMeSmA02S01XON date, sort lwidth(medium) lcolor(red)) /// 7 "ON" red
+(line DayINFMeSmA02S01XQC date, sort lwidth(medium) lcolor(black)) /// 8 "QC" black
+(line DayINFMeSmA02S01XSK date, sort lwidth(medium) lcolor(orange)) /// 9 "SK" orange
+if date >= td(01jan2022) /// 
+, xtitle(Date) xlabel(#$monthspast01jan2022merge, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(forty_five)) ///
+ytitle(Daily infections) title("C-19 daily infections, $country provinces, IHME, 2022 on", size(medium)) ///
+xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
+legend(order(1 "CAN" 2 "AB" 3 "BC" 4 "MB" 5 "NL" 6 "NS" 7 "ON" 8 "QC" 9 "SK" ) rows(2) size(small)) ///
+note("Reference scenario")
 
-
-
-
-
-
-
-
-
-
+qui graph export "graph 27 provinces C-19 daily infections, $country, IHME, 2022 on.pdf", replace
 
 
 
