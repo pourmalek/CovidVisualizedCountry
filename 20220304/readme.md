@@ -219,11 +219,13 @@
 
 (12) Canada Provinces [Daily infections, Reference scenario, IHME, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220304/output/merge/graph%2024%20provinces%20C-19%20daily%20infections%2C%20Canada%2C%20IHME%2C%202020%20on.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/157726773-ddee1ba3-1a73-4f3c-9ee6-7ae7e845b51a.png)
 
 ****
 
 (13) Canada Provinces [Daily infections, Reference scenario, IHME, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220304/output/merge/graph%2025%20provinces%20C-19%20daily%20infections%2C%20Canada%2C%20IHME%2C%202021%20on.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/157726858-54dea9cf-c912-404c-a5e3-c07027d07c25.png)
 
 ****
 
