@@ -247,8 +247,9 @@
 
 ****
 
-(4) Alberta [Daily cases or infections, Reference scenario, 2021 on]()
+(4) Alberta [Daily cases or infections, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220304/output/merge/SUB5%2032bDayCasMERGsub%202021%20Alberta%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/157599888-c26ae907-185f-4cfa-bedc-ba3a590b9e6d.png)
 
 ****
 
@@ -287,8 +288,9 @@
 
 ****
 
-(4) British Columbia [Daily cases or infections, Reference scenario, 2021 on]()
+(4) British Columbia [Daily cases or infections, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220304/output/merge/SUB5%2032bDayCasMERGsub%202021%20British%20Columbia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/157599982-3bf396fb-e870-4b3e-8405-117856643c99.png)
 
 ****
 
@@ -325,8 +327,9 @@
 
 ****
 
-(4) Manitoba [Daily cases or infections, Reference scenario, 2021 on]()
+(4) Manitoba [Daily cases or infections, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220304/output/merge/SUB5%2032bDayCasMERGsub%202021%20Manitoba%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/157600085-7c00f5b5-5330-4668-857b-6c641e47cd4b.png)
 
 ****
 
@@ -373,7 +376,9 @@
 
 ****
 
-(4) Nova Scotia [Daily cases or infections, Reference scenario, 2021 on]()
+(4) Nova Scotia [Daily cases or infections, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220304/output/merge/SUB5%2032bDayCasMERGsub%202021%20Nova%20Scotia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Nova%20Scotia%2C%20reference%20scenarios%2C%202021.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/157600160-5f013e32-516d-480f-8271-7de8b632b7f1.png)
 
 ****
 
@@ -410,8 +415,9 @@
 
 ****
 
-(4) Ontario [Daily cases or infections, Reference scenario, 2021 on]()
+(4) Ontario [Daily cases or infections, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220304/output/merge/SUB5%2032bDayCasMERGsub%202021%20Ontario%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/157600275-bb55e376-06f9-4c0c-80cb-ea5e0ea38ef0.png)
 
 ****
 
@@ -449,7 +455,9 @@
 
 ****
 
-(4) Quebec [Daily cases or infections, Reference scenario, 2021 on]()
+(4) Quebec [Daily cases or infections, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220304/output/merge/SUB5%2032bDayCasMERGsub%202021%20Quebec%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%202021.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/157600366-e73a80f2-f9bc-4d6c-bd1c-55603893f28c.png)
 
 
 ****
@@ -489,8 +497,9 @@
 
 ****
 
-(4) Saskatchewan [Daily cases or infections, Reference scenario, 2021 on]()
+(4) Saskatchewan [Daily cases or infections, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220304/output/merge/SUB5%2032bDayCasMERGsub%202021%20Saskatchewan%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Saskatchewan%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/157600448-9ad9209b-1436-48d5-bbea-3f6a18d80fe8.png)
 
 ****
 
