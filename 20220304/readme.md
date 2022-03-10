@@ -72,8 +72,9 @@
 
 ****
 
-(3) Canada National [Daily cases or infections, Reference scenarios, 2020 on]()
+(3) Canada National [Daily cases or infections, Reference scenarios, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220304/output/merge/CAN4%2031aDayCasMERGnat%20alltime%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20National%2C%20reference%20scenarios.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/157577194-16bf970c-ac69-4089-9246-e7f5b4f93504.png)
 
 ****
 
@@ -83,8 +84,9 @@
 
 ****
 
-(5) Canada National [Daily hospital-related outcomes, Reference scenarios, 2020 on]()
+(5) Canada National [Daily hospital-related outcomes, Reference scenarios, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220304/output/merge/CAN7%2071a1DayHosMERGnat%20%20alltime%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20National.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/157580781-df994a5f-4e43-4914-8eb5-df800b0ea964.png)
 
 ****
 
