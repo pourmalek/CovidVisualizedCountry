@@ -90,28 +90,33 @@
 
 ****
 
-(6) Canada National [Daily Infection outcomes ratios, Reference scenarios, IHME, 2021 on]()
+(6) Canada National [Daily Infection outcomes ratios, Reference scenarios, IHME, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220304/output/merge/CAN8%2073aDayHosMERGnat%202021%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20National%2C%20wo%20extremes%2C%202021.pdf)
 
-
-****
-
-(7) Canada National [Daily Infection hospitalization and fatality ratios, Reference scenario, IHME, 2021 on]()
-
+![image](https://user-images.githubusercontent.com/30849720/157581047-e3a0edcf-1066-4ab6-8030-4b87bd9735dc.png)
 
 ****
 
-(8) Canada National [Daily percent change in mobility, Reference scenario, IHME, 2020 on]()
+(7) Canada National [Daily Infection hospitalization and fatality ratios, Reference scenario, IHME, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220304/output/merge/graph%2091a%20COVID-19%20daily%20Infection%20outcomes%20ratios%2C%20Canada%2C%20National%203%20scenarios%2C%20IHME.pdf)
 
-
-****
-
-(9) Canada National [Daily mask use, IHME, 2020 on]()
-
+![image](https://user-images.githubusercontent.com/30849720/157581260-177c6d98-06f8-468f-b43e-f7837f445d3e.png)
 
 ****
 
-(10) Canada National [Percent cumulative vaccinated, IHME, 2020 on]()
+(8) Canada National [Daily percent change in mobility, Reference scenario, IHME, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220304/output/merge/graph%2091a2%20COVID-19%20daily%20Infection%20outcomes%20ratios%2C%20Canada%2C%20National%203%20scenarios%2C%20IHME.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/157581343-806a0a0b-2e98-49d1-8f16-3a2f80c2f88e.png)
+
+****
+
+(9) Canada National [Daily mask use, IHME, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220304/output/merge/graph%2093a%20COVID-19%20daily%20mask_use%2C%20Canada%2C%20National%2C%203%20scenarios.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/157581476-c91d8d14-2abc-40f2-ae41-4c6f4ecb14e0.png)
+
+****
+
+(10) Canada National [Percent cumulative vaccinated, IHME, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220304/output/merge/graph%2094a%20COVID-19%20percent%20cumulative%20vaccinated%2C%20Canada%2C%20National.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/157581580-44747584-8a5e-484e-85ce-977cde5d0896.png)
 
 ****
 
