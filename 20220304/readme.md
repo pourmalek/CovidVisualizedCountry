@@ -173,23 +173,25 @@
 
 (5) Canada Provinces [Daily reported cases, JOHN, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220304/output/merge/graph%2005%20provinces%20C-19%20daily%20cases%2C%20Canada%2C%20JOHN%202020.pdf)
 
-
+![image](https://user-images.githubusercontent.com/30849720/157725612-9306baf1-47b2-4a59-9b88-761fc5003d92.png)
 
 ****
 
 (6) Canada Provinces [Daily reported cases, JOHN, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220304/output/merge/graph%2006%20provinces%20C-19%20daily%20cases%2C%20Canada%2C%20JOHN%202021.pdf)
 
-
+![image](https://user-images.githubusercontent.com/30849720/157725729-449aade7-dd3b-4bc9-bdf8-3a0f1bbde4e8.png)
 
 ****
 
 (7) Canada Provinces [Daily reported cases, JOHN, 2022](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220304/output/merge/graph%2007%20provinces%20C-19%20daily%20cases%2C%20Canada%2C%20JOHN%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/157725837-363c99b3-0980-4b32-8f3d-fef362c0959e.png)
 
 ****
 
 (8) Canada Provinces [Daily reported cases, without National, Ontario, and Quebec, JOHN, 2022](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220304/output/merge/graph%2008%20provinces%20C-19%20daily%20cases%2C%20Canada%2C%20JOHN%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/157725929-e909d240-d4c9-4205-a99c-e0fae1eace59.png)
 
 ****
 
