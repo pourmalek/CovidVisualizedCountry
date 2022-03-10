@@ -229,8 +229,9 @@
 
 ****
 
-(14) Canada Provinces [Daily infections, Reference scenario, IHME, 2022]()
+(14) Canada Provinces [Daily infections, Reference scenario, IHME, 2022](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220304/output/merge/graph%2027%20provinces%20C-19%20daily%20infections%2C%20Canada%2C%20IHME%2C%202022%20on.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/157727850-e2e66247-40c6-4d8c-b569-f7ed3cf446a4.png)
 
 ****
 
