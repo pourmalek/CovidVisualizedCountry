@@ -3,7 +3,7 @@
       name:  {res}<unnamed>
        {txt}log:  {res}/Users/farshadpourmalek/Downloads/CovidVisualizedCountry-main/20220304/code/merge/log CovidVisualizedCountry merge.smcl
   {txt}log type:  {res}smcl
- {txt}opened on:  {res} 9 Mar 2022, 17:58:24
+ {txt}opened on:  {res} 9 Mar 2022, 18:11:15
 {txt}
 {com}. 
 . 
@@ -973,7 +973,7 @@ now 732
 
 {txt}Contains data from {res}CovidVisualizedCountry merge.dta
 {txt}  obs:{res}        11,715                          
-{txt} vars:{res}         2,091                          9 Mar 2022 17:58
+{txt} vars:{res}         2,091                          9 Mar 2022 18:11
 {txt} size:{res}    85,308,630                          
 {txt}{hline}
               storage   display    value
@@ -5102,7 +5102,7 @@ Sorted by: {res}loc_grand_name  provincestate  date
 {txt}
 {com}. 
 . 
-. gen monthspast01jan2020merge = ((mergemaxdate - td(01jan2020)) / 30)
+. gen monthspast01jan2020merge = ((mergemaxdate - td(01jan2020)) / 30) + 1
 {txt}
 {com}. 
 . replace monthspast01jan2020merge = round(monthspast01jan2020merge)
@@ -5113,12 +5113,12 @@ Sorted by: {res}loc_grand_name  provincestate  date
 {txt}
 {com}. 
 . di $monthspast01jan2020merge
-{res}29
+{res}30
 {txt}
 {com}. 
 . 
 . 
-. gen monthspast01jan2021merge = ((mergemaxdate - td(01jan2021)) / 30)
+. gen monthspast01jan2021merge = ((mergemaxdate - td(01jan2021)) / 30) + 1
 {txt}
 {com}. 
 . replace monthspast01jan2021merge = round(monthspast01jan2021merge)
@@ -5129,12 +5129,12 @@ Sorted by: {res}loc_grand_name  provincestate  date
 {txt}
 {com}. 
 . di $monthspast01jan2021merge
-{res}17
+{res}18
 {txt}
 {com}. 
 . 
 . 
-. gen monthspast01jan2022merge = ((mergemaxdate - td(01jan2022)) / 30)
+. gen monthspast01jan2022merge = ((mergemaxdate - td(01jan2022)) / 30) + 1
 {txt}
 {com}. 
 . replace monthspast01jan2022merge = round(monthspast01jan2022merge)
@@ -5145,7 +5145,7 @@ Sorted by: {res}loc_grand_name  provincestate  date
 {txt}
 {com}. 
 . di $monthspast01jan2022merge
-{res}5
+{res}6
 {txt}
 {com}. 
 . 
@@ -8669,7 +8669,7 @@ Sorted by: {res}loc_grand_name  provincestate  date
       {txt}name:  {res}<unnamed>
        {txt}log:  {res}/Users/farshadpourmalek/Downloads/CovidVisualizedCountry-main/20220304/code/merge/log CovidVisualizedCountry merge.smcl
   {txt}log type:  {res}smcl
- {txt}closed on:  {res} 9 Mar 2022, 18:04:54
+ {txt}closed on:  {res} 9 Mar 2022, 18:18:16
 {txt}{.-}
 {smcl}
 {txt}{sf}{ul off}
