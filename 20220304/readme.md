@@ -139,11 +139,11 @@
 
 ****
 
-#### (a) Official reports to WHO, via JOHN || (b) Models: IHME 
+#### _(a) Official reports to WHO, via JOHN || (b) Models: IHME_ 
 
 ****
 
-#### (a) Official reports to WHO, via JOHN
+#### _(a) Official reports to WHO, via JOHN_
 
 ****
 
@@ -190,7 +190,7 @@
 
 ****
 
-#### (b) Models: IHME
+#### _(b) Models: IHME_
 
 ****
 
