@@ -241,8 +241,9 @@
 
 ****
 
-(3) Alberta [Daily cases or infections, Reference scenario, 2020 on]()
+(3) Alberta [Daily cases or infections, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220304/output/merge/SUB4%2031bDayCasMERGsub%20alltime%20Alberta%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/157598098-abe29496-30a6-4a45-a94a-318f078c15e1.png)
 
 ****
 
@@ -280,8 +281,9 @@
 
 ****
 
-(3) British Columbia [Daily cases or infections, Reference scenario, 2020 on]()
+(3) British Columbia [Daily cases or infections, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220304/output/merge/SUB4%2031bDayCasMERGsub%20alltime%20British%20Columbia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/157598228-5b34c579-b57f-4234-9bb8-a038a80eeb5b.png)
 
 ****
 
