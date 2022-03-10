@@ -62,7 +62,7 @@
 
 (1) Canada [Daily deaths, Reference scenarios, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220304/output/merge/CAN1%2011aDayDeaMERGnat%20alltime%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/157572381-c174b472-10d9-4421-acb7-3658b3093b81.png)
+![image](https://user-images.githubusercontent.com/30849720/157575510-43f650de-0b99-4fd8-9eaf-a7442feae722.png)
 
 ****
 
