@@ -199,23 +199,27 @@
 
 ****
 
-(9) Canada Provinces [Daily deaths, Reference scenario, IHME, 2020 on]()
+(9) Canada Provinces [Daily deaths, Reference scenario, IHME, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220304/output/merge/graph%2022%20provinces%20C-19%20daily%20deaths%2C%20Canada%2C%20IHME%2C%202020%20on.pdf)
 
-
-****
-
-(10) Canada Provinces [Daily deaths, Reference scenario, IHME, Nov 2021 on]()
-
+![image](https://user-images.githubusercontent.com/30849720/157701156-73f72436-6bc0-4fda-9b63-c080a844767e.png)
 
 ****
 
-(11) Canada Provinces [Daily infections, Reference scenario, IHME, 2020 on]()
+(10) Canada Provinces [Daily deaths, Reference scenario, IHME, Nov 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220304/output/merge/graph%2023%20provinces%20C-19%20daily%20deaths%2C%20Canada%2C%20IHME%2C%202021%20on.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/157701392-01ab72ad-57ec-4a56-8876-8486c9f19fe7.png)
 
 ****
 
-(12) Canada Provinces [Daily infections, Reference scenario, IHME, Nov 2021 on]()
+(11) Canada Provinces [Daily infections, Reference scenario, IHME, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220304/output/merge/graph%2024%20provinces%20C-19%20daily%20infections%2C%20Canada%2C%20IHME%2C%202020%20on.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/157701694-1aea0836-e2ba-4263-bbd8-010664e10ea6.png)
+
+****
+
+(12) Canada Provinces [Daily infections, Reference scenario, IHME, Nov 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220304/output/merge/graph%2025%20provinces%20C-19%20daily%20infections%2C%20Canada%2C%20IHME%2C%202021%20on.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/157702019-7329631e-b385-4ea8-b631-65349d926a5b.png)
 
 ****
 
