@@ -72,13 +72,14 @@
 
 ****
 
-(3) Canada National [Daily cases or infections, Reference scenarios, 2020 on]()
+(3) Canada National [Daily cases or infections, Reference scenarios, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220304/output/merge/CAN5%2032aDayCasMERGnat%202021%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%202021.pdf)
 
 
 ****
 
 (4) Canada National [Daily cases or infections, All scenarios, 2021 on]()
 
+![image](https://user-images.githubusercontent.com/30849720/157576775-629d24c0-9858-4dd0-a191-c2a460338dca.png)
 
 ****
 
