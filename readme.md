@@ -115,7 +115,7 @@ The [`CovidLongitudinal`](https://github.com/pourmalek/CovidLongitudinal) reposi
 <br/><br/>
  
   
-# :eyes: SEE: See Canada COVID-19 epidemic models situation report No 38 - 2022-03-10, [https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/38%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2038%20-%202022-03-10.pdf]
+# :eyes: SEE: See Canada COVID-19 epidemic models situation report No 38 - 2022-03-10, [here](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/38%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2038%20-%202022-03-10.pdf)
 
 <br/><br/>
   
