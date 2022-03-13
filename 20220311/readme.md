@@ -9,6 +9,20 @@
 
 <br/><br/>
 
+#### Summary 20220311:
+
+#### Observation:
+
+Reported daily cases are stagnating after their recent decrease at the national level and in all provinces. 
+
+Reported daily deaths have stopped decreasing after their recent decrease at the national level and in all provinces. They are stagnating in Ontario and Quebec, and increasing Alberta, British Columbia, and Manitoba. Reporting by Saskatchewan is grossly manipulated and unreliable.  
+
+#### Probability:
+
+![image](https://user-images.githubusercontent.com/30849720/158061654-ec56bdfc-901a-46b7-8785-97b9e7fe2e76.png)
+
+ 
+#### Even though the models are highly divergent about the future trajectory of the epidemic, the above-observed trajectories of the reported daily deaths and cases might signify a new surge.
 
 
 
