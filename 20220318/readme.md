@@ -57,13 +57,15 @@
 
 ****
 
-(1) Canada [Daily deaths, Reference scenarios, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220318/output/merge/CAN1%2011aDayDeaMERGnat%20alltime%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%20all%20time.pdf)
+(1) Canada [Daily deaths, Reference scenarios, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220318/output/CAN1%2011aDayDeaMERGnat%20alltime%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/159370336-6fe7a21e-e76e-4c6b-9fb6-dff050d27303.png)
  
 ****
 
-(2) Canada National [Daily deaths, All scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220318/output/merge/CAN2%2012aDayDeaMERGnat%202021%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%202021.pdf)
+(2) Canada National [Daily deaths, All scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220318/output/CAN2%2012aDayDeaMERGnat%202021%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/159370521-d7e57dc1-d3d7-443f-8408-4f7c0a15521d.png)
  
 ****
 
