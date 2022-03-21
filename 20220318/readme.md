@@ -8,12 +8,6 @@
 
 
 <br/><br/>
- =
-
-*******
-
-
-<br/><br/>
 
 
 
@@ -69,8 +63,9 @@
  
 ****
 
-(3) Canada National [Daily cases or infections, Reference scenarios, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220318/output/merge/CAN4%2031aDayCasMERGnat%20alltime%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20National%2C%20reference%20scenarios.pdf)
+(3) Canada National [Daily cases or infections, Reference scenarios, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220318/output/CAN4%2031aDayCasMERGnat%20alltime%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20National%2C%20reference%20scenarios.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/159371122-c5c900a4-02e5-4844-a93b-69f91b131767.png)
  
 ****
 
