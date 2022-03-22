@@ -970,10 +970,10 @@ and /20220318/ denotes the date of uptake.
 *********
 
   
-[Data management](https://github.com/pourmalek/CovidVisualizedMethodology#data-management) describes the template for models’ output data management used in this repository. 
+[`Data management`](https://github.com/pourmalek/CovidVisualizedMethodology#data-management) describes the template for models’ output data management used in this repository. 
 
 
-[Periodical updates and uptakes](https://github.com/pourmalek/CovidVisualizedMethodology#periodical-updates-and-uptakes) describes the rule for periodical uptakes used in this repository. 
+[`Periodical updates and uptakes`](https://github.com/pourmalek/CovidVisualizedMethodology#periodical-updates-and-uptakes) describes the rule for periodical uptakes used in this repository. 
  
   
 [`Bugs and issues`](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/Bugs%20and%20issues.md) describes how to report bugs and issues. 
