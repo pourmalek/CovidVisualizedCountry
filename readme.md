@@ -954,11 +954,11 @@ There were no sources of funding for this research.
 
 The Stata _codes_ can be executed on local machines:
 
-Run in Stata the _master Stata do file_ on your local machine after the _downloaded _repository directory_ is stored in the root of /Downloads/ folder of your local machine.
+Run in Stata the _master do file_ on your local machine after the _downloaded repository directory_ is stored in the root of /Downloads/ folder of your local machine.
   
-For CovidVisualizedCountry, the _master Stata do file_ is:
+For CovidVisualizedCountry, the _master do file_ is:
   
-CovidVisualizedCountry/20220318/code/master/do CovidVisualizedCountry master.do
+CovidVisualizedCountry-main/20220318/code/master/do CovidVisualizedCountry master.do
   
 and the _downloaded repository directory_ is:
   
@@ -985,6 +985,7 @@ and /20220318/ denotes the date of uptake.
 <br/><br/>   
   
 ************************************
+
 
   
 
