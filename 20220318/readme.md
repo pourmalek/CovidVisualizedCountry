@@ -9,7 +9,7 @@ Last run of this uptake on March 22, 2022.
 
 <br/><br/>
 
-In recent days, the official reports of daily deaths from Canada to the World Health Organization indicate that the Ministry of Health of Canada though twice and they say they did not have that many deaths they had reported before, i.e., reports of negative number of daily deaths. 
+In recent days, the official reports of daily deaths from Canada to the World Health Organization indicate that the Ministry of Health of Canada thought twice and they say they did not have that many deaths they had reported before, i.e., reports of negative number of daily deaths. 
 
 
 
@@ -488,8 +488,9 @@ In recent days, the official reports of daily deaths from Canada to the World He
  
 ****
 
-(2) Saskatchewan [Daily deaths, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220318/output/merge/SUB2%2012bDayDeaMERGsub%202021%20Saskatchewan%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Saskatchewan%2C%20reference%20scenarios%2C%202021.pdf)
+(2) Saskatchewan [Daily deaths, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220318/output/SUB2%2012bDayDeaMERGsub%202021%20Saskatchewan%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Saskatchewan%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/159546568-c96d53d7-f50d-4057-b135-9aaa96435778.png)
  
 ****
 
