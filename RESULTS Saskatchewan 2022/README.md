@@ -20,7 +20,9 @@
 
 **uptake 20220121**: **_DELP 20220121_**, **_IHME 20220121_**, IMPE 20220102, **_SRIV 20220119_**, PHAC 20220114
 
+(1) Saskatchewan [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220121/output/merge/SUB1%2011bDayDeaMERGsub%20alltime%20Saskatchewan%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Saskatchewan%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/150806272-603932f3-4723-4eb6-bb13-42ce2b9108c9.png)
 
 *
 
@@ -74,7 +76,9 @@
 
 **uptake 20220121**: **_DELP 20220121_**, **_IHME 20220121_**, IMPE 20220102, **_SRIV 20220119_**, PHAC 20220114
 
+(3) Saskatchewan [Daily deaths, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220121/output/merge/SUB2%2012bDayDeaMERGsub%202021%20Saskatchewan%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Saskatchewan%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/150809304-edc6d848-a443-49a7-a85f-3934f20d7a00.png)
 
 *
 
@@ -124,7 +128,9 @@
 
 **uptake 20220121**: **_DELP 20220121_**, **_IHME 20220121_**, IMPE 20220102, **_SRIV 20220119_**, PHAC 20220114
 
+(4) Saskatchewan [Daily cases or infections, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220121/output/merge/graph%2022a1%20C-19%20daily%20infections%2C%20Canada%2C%20Saskatchewan%204%20scenarios%2C%20IHME.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/150832072-3ab6bc1a-9e79-4b84-9c6d-450cd1e10402.png)
 
 *
 
@@ -176,7 +182,9 @@
 
 **uptake 20220121**: **_DELP 20220121_**, **_IHME 20220121_**, IMPE 20220102, **_SRIV 20220119_**, PHAC 20220114
 
+(6) Saskatchewan [Daily cases or infections, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220121/output/merge/SUB5%2032bDayCasMERGsub%202021%20Saskatchewan%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Saskatchewan%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/150834900-95ac1a08-f86e-442f-827c-91b034b9dcce.png)
 
 *
 
