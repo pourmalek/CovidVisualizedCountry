@@ -457,6 +457,7 @@ In recent days, the official reports of daily deaths from Canada to the World He
 
 (2) Quebec [Daily deaths, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220318/output/SUB2%2012bDayDeaMERGsub%202021%20Quebec%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/159548748-5f1af110-bae1-4f1f-913a-10445ec564a7.png)
  
 ****
 
