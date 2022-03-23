@@ -13,7 +13,9 @@
 
 **uptake 20220104**: **_DELP 20220104_**, IHME 20211221, **_IMPE 20211213_**, **_SRIV 20220104_**
 
+(1) Canada [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220104/output/merge/main/CAN1%2011aDayDeaMERGnat%20alltime%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/148160889-d97f848a-5505-4198-8fcc-db4a2e1e16a4.png)
 
 *
 
@@ -91,7 +93,9 @@ This graph was not generated for this uptake.
 
 **uptake 20220104**: **_DELP 20220104_**, IHME 20211221, **_IMPE 20211213_**, **_SRIV 20220104_**
 
+(2) Canada [Daily deaths, reference scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220104/output/merge/main/CAN2%2012aDayDeaMERGnat%202021%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/148160951-56c87f9f-11e6-423d-8a8a-da59892cb740.png)
 
 *
 
@@ -161,7 +165,7 @@ This graph was not generated for this uptake.
 ****
 ****  
  
-#### graph (3) Canada - Daily deaths, scenarios, 2021 on
+#### graph (3) Canada - Daily deaths, reference and alternate scenarios, 2021 on
   
   
   
@@ -172,7 +176,9 @@ This graph was not generated for this uptake.
 
 **uptake 20220104**: **_DELP 20220104_**, IHME 20211221, **_IMPE 20211213_**, **_SRIV 20220104_**
 
+(3) Canada [Daily deaths, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220104/output/merge/main/CAN3%2014a2DayDeaMERGnat%202021%203%20scenarios%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20National%2C%203%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/148161159-b9f9812b-a04b-47fd-9bf6-a1e0d8df3147.png)
 
 *
 
@@ -401,7 +407,7 @@ This graph was not generated for this uptake.
 ****
 ****  
  
-#### graph (6) Canada - Daily cases or infections, scenarios, 2021 on
+#### graph (6) Canada - Daily cases or infections, reference and alternate scenarios, 2021 on
   
   
   
@@ -479,7 +485,7 @@ This graph was not generated for this uptake.
 ****
 ****  
  
-#### graph (6b) Canada - Daily estimated infections IHME IMPE to reported cases JOHN, main scenarios, 2021 on
+#### graph (6b) Canada - Daily estimated infections IHME IMPE to reported cases JOHN, reference scenarios, 2021 on
   
   
   
@@ -557,7 +563,7 @@ This graph was not generated for this uptake.
 ****
 ****  
  
-#### graph (6c) Canada - Daily estimated infections IHME, scenarios, all time
+#### graph (6c) Canada - Daily estimated infections IHME, reference and alternate scenarios, all time
   
   
   
@@ -635,7 +641,7 @@ This graph was not generated for this uptake.
 ****
 ****  
  
-#### graph (6d) Canada - Daily estimated infections IHME, scenarios, 2021 on
+#### graph (6d) Canada - Daily estimated infections IHME, reference and alternate scenarios, 2021 on
   
   
   
@@ -713,7 +719,7 @@ This graph was not generated for this uptake.
 ****
 ****  
  
-#### graph (6e) Canada - Daily estimated infections IHME, scenarios, 2022
+#### graph (6e) Canada - Daily estimated infections IHME, reference and alternate scenarios, 2022
   
   
   
@@ -791,7 +797,7 @@ This graph was not generated for this uptake.
 ****
 ****  
  
-#### graph (7) Canada - Hospital-related outcomes, all time
+#### graph (7) Canada - Hospital-related outcomes, reference scenarios, all time
   
   
   
@@ -875,7 +881,7 @@ This graph was not generated for this uptake.
 ****
 ****  
  
-#### graph (8) Canada - Hospital-related outcomes, 2021 on, without IHME Bed need and IMPE Hospital demand
+#### graph (8) Canada - Hospital-related outcomes, reference scenarios, 2021 on, without IHME Bed need and IMPE Hospital demand
   
   
   
@@ -1129,7 +1135,7 @@ This graph was not generated for this uptake.
 ****
 ****  
  
-#### graph (11) Canada - Daily Infection-outcomes ratios, scenarios, IHME, 2021 on 
+#### graph (11) Canada - Daily Infection-outcomes ratios, reference and alternate scenarios, IHME, 2021 on 
   
   
   
@@ -1211,7 +1217,7 @@ This graph was not generated for this uptake.
 ****
 ****  
  
-#### graph (11b) Canada - Daily infection hospitalization & fatality ratios, scenarios, IHME, 2021 on
+#### graph (11b) Canada - Daily infection hospitalization & fatality ratios, reference and alternate scenarios, IHME, 2021 on
   
   
   
@@ -1300,7 +1306,7 @@ This graph was not generated for this uptake.
 ****
 ****  
  
-#### graph (12) Canada - Daily mask use, scenarios, all time, IHME
+#### graph (12) Canada - Daily mask use, reference and alternate scenarios, all time, IHME
   
   
   
@@ -1380,7 +1386,7 @@ This graph was not generated for this uptake.
 ****
 ****  
  
-#### graph (13) Canada - Percent cumulative vaccinated, 2021 on, IHME
+#### graph (13) Canada - Percent cumulative vaccinated, reference scenario, 2021 on, IHME
   
   
   
