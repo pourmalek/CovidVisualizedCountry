@@ -11,6 +11,12 @@
 
 *
 
+**uptake 20220204**: **_DELP 20220204_**, **_IHME 20220204_**, NO IMPE, NO SRIV, PHAC 20220114
+
+
+
+*
+
 **uptake 20220128**: **_DELP 20220128_**, IHME 20220121, IMPE 20220102, **_SRIV 20220126_**, PHAC 20220114
 
 (1) Canada [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220128/output/merge/CAN1%2011aDayDeaMERGnat%20alltime%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%20all%20time.pdf)
@@ -69,6 +75,12 @@
 
 *
 
+**uptake 20220204**: **_DELP 20220204_**, **_IHME 20220204_**, NO IMPE, NO SRIV, PHAC 20220114
+
+
+
+*
+
 **uptake 20220128**: **_DELP 20220128_**, IHME 20220121, IMPE 20220102, **_SRIV 20220126_**, PHAC 20220114
 
 (2) Canada [Daily deaths, reference scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220128/output/merge/CAN2%2012aDayDeaMERGnat%202021%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%202021.pdf)
@@ -119,10 +131,16 @@
 ****
 ****  
  
-#### graph (3) Canada - Daily deaths, 3 scenarios, 2021 on
+#### graph (3) Canada - Daily deaths, scenarios, 2021 on
   
   
   
+
+
+
+*
+
+**uptake 20220204**: **_DELP 20220204_**, **_IHME 20220204_**, NO IMPE, NO SRIV, PHAC 20220114
 
 
 
@@ -181,6 +199,12 @@
   
   
   
+
+
+
+*
+
+**uptake 20220204**: **_DELP 20220204_**, **_IHME 20220204_**, NO IMPE, NO SRIV, PHAC 20220114
 
 
 
@@ -246,6 +270,12 @@
 
 *
 
+**uptake 20220204**: **_DELP 20220204_**, **_IHME 20220204_**, NO IMPE, NO SRIV, PHAC 20220114
+
+
+
+*
+
 **uptake 20220128**: **_DELP 20220128_**, IHME 20220121, IMPE 20220102, **_SRIV 20220126_**, PHAC 20220114
 
 (5) Canada [Daily cases or infections, reference scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220128/output/merge/CAN5%2032aDayCasMERGnat%202021%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%202021.pdf)
@@ -297,10 +327,16 @@
 ****
 ****  
  
-#### graph (6) Canada - Daily cases or infections, 3 scenarios, 2021 on
+#### graph (6) Canada - Daily cases or infections, scenarios, 2021 on
   
   
   
+
+
+
+*
+
+**uptake 20220204**: **_DELP 20220204_**, **_IHME 20220204_**, NO IMPE, NO SRIV, PHAC 20220114
 
 
 
@@ -364,6 +400,12 @@
 
 *
 
+**uptake 20220204**: **_DELP 20220204_**, **_IHME 20220204_**, NO IMPE, NO SRIV, PHAC 20220114
+
+
+
+*
+
 **uptake 20220128**: **_DELP 20220128_**, IHME 20220121, IMPE 20220102, **_SRIV 20220126_**, PHAC 20220114
 
 (6b) Canada [Daily estimated infections IHME IMPE to reported cases JOHN, main scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220128/output/merge/CAN4%20-%202%20daily%20estimated%20infections%20to%20reported%20cases%2C%20Canada%2C%20National%2C%20reference%20scenarios%202021.pdf)
@@ -415,10 +457,16 @@
 ****
 ****  
  
-#### graph (6c) Canada - Daily estimated infections IHME, 5 scenarios, all time
+#### graph (6c) Canada - Daily estimated infections IHME, scenarios, all time
   
   
   
+
+
+
+*
+
+**uptake 20220204**: **_DELP 20220204_**, **_IHME 20220204_**, NO IMPE, NO SRIV, PHAC 20220114
 
 
 
@@ -475,10 +523,16 @@
 ****
 ****  
  
-#### graph (6d) Canada - Daily estimated infections IHME, 5 scenarios, 2021 on
+#### graph (6d) Canada - Daily estimated infections IHME, scenarios, 2021 on
   
   
   
+
+
+
+*
+
+**uptake 20220204**: **_DELP 20220204_**, **_IHME 20220204_**, NO IMPE, NO SRIV, PHAC 20220114
 
 
 
@@ -535,10 +589,16 @@
 ****
 ****  
  
-#### graph (6e) Canada - Daily estimated infections IHME, 5 scenarios, 2022
+#### graph (6e) Canada - Daily estimated infections IHME, scenarios, 2022
   
   
   
+
+
+
+*
+
+**uptake 20220204**: **_DELP 20220204_**, **_IHME 20220204_**, NO IMPE, NO SRIV, PHAC 20220114
 
 
 
@@ -599,6 +659,12 @@
   
   
   
+
+
+
+*
+
+**uptake 20220204**: **_DELP 20220204_**, **_IHME 20220204_**, NO IMPE, NO SRIV, PHAC 20220114
 
 
 
@@ -666,6 +732,12 @@
 
 *
 
+**uptake 20220204**: **_DELP 20220204_**, **_IHME 20220204_**, NO IMPE, NO SRIV, PHAC 20220114
+
+
+
+*
+
 **uptake 20220128**: **_DELP 20220128_**, IHME 20220121, IMPE 20220102, **_SRIV 20220126_**, PHAC 20220114
 
 (8) Canada [Hospital-related outcomes, all time, without DELP Hospitalized DELP, DELP Ventilated, and IHME Bed need](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220128/output/merge/CAN7%2071a2DayHosMERGnat%20%20alltime%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20National.pdf)
@@ -728,6 +800,12 @@
 
 *
 
+**uptake 20220204**: **_DELP 20220204_**, **_IHME 20220204_**, NO IMPE, NO SRIV, PHAC 20220114
+
+
+
+*
+
 **uptake 20220128**: **_DELP 20220128_**, IHME 20220121, IMPE 20220102, **_SRIV 20220126_**, PHAC 20220114
 
 (9) Canada [Daily deaths estimated to reported, reference scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220128/output/merge/CAN9%2092aDayDERMERGnat%202021%20-%20COVID-19%20daily%20deaths%20estimated%20to%20reported%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%202021.pdf)
@@ -784,6 +862,12 @@
   
   
   
+
+
+
+*
+
+**uptake 20220204**: **_DELP 20220204_**, **_IHME 20220204_**, NO IMPE, NO SRIV, PHAC 20220114
 
 
 
@@ -853,10 +937,16 @@
 ****
 ****  
  
-#### graph (11) Canada - Daily Infection-outcomes ratios, 3 scenarios, IHME, 2021 on 
+#### graph (11) Canada - Daily Infection-outcomes ratios, scenarios, IHME, 2021 on 
   
   
   
+
+
+
+*
+
+**uptake 20220204**: **_DELP 20220204_**, **_IHME 20220204_**, NO IMPE, NO SRIV, PHAC 20220114
 
 
 
@@ -913,10 +1003,16 @@
 ****
 ****  
  
-#### graph (11b) Canada - Daily infection hospitalization & fatality ratios, 3 scenarios, IHME, 2021 on
+#### graph (11b) Canada - Daily infection hospitalization & fatality ratios, scenarios, IHME, 2021 on
   
   
   
+
+
+
+*
+
+**uptake 20220204**: **_DELP 20220204_**, **_IHME 20220204_**, NO IMPE, NO SRIV, PHAC 20220114
 
 
 
@@ -982,10 +1078,16 @@
 ****
 ****  
  
-#### graph (12) Canada - Daily mask use, 3 scenarios, all time, IHME
+#### graph (12) Canada - Daily mask use, scenarios, all time, IHME
   
   
   
+
+
+
+*
+
+**uptake 20220204**: **_DELP 20220204_**, **_IHME 20220204_**, NO IMPE, NO SRIV, PHAC 20220114
 
 
 
@@ -1044,6 +1146,12 @@
   
   
   
+
+
+
+*
+
+**uptake 20220204**: **_DELP 20220204_**, **_IHME 20220204_**, NO IMPE, NO SRIV, PHAC 20220114
 
 
 
