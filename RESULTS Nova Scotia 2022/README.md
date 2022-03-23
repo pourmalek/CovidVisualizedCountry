@@ -22,6 +22,14 @@
   
 *
 
+**uptake 20220218**: **_DELP 20220218_**, **_IHME 20220218_**, NO IMPE, NO SRIV
+
+(1) Nova Scotia [Daily deaths, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220218/output/merge/09%20Nova%20Scotia%20C-19%20daily%20deaths%2C%20Canada%2C%20reference%20scenarios%2C%202020%20on.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/154810000-3836b461-e7ac-4b4a-9df1-230185eddb0f.png)
+
+*
+
 **uptake 20220204**: **_DELP 20220204_**, **_IHME 20220204_**, NO IMPE, NO SRIV, PHAC 20220114
 
 (1) Nova Scotia [Daily deaths, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220204/output/merge/09%20Nova%20Scotia%20C-19%20daily%20deaths%2C%20Canada%2C%20reference%20scenarios%2C%202020%20on.pdf)
@@ -91,6 +99,14 @@
   
 *
 
+**uptake 20220218**: **_DELP 20220218_**, **_IHME 20220218_**, NO IMPE, NO SRIV
+
+(2) Nova Scotia [Daily deaths, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220218/output/merge/10%20Nova%20Scotia%20C-19%20daily%20deaths%2C%20Canada%2C%20reference%20scenarios%2C%202021%20on.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/154810030-864609c6-1752-4c78-8e7e-11cf2bb3dfda.png)
+
+*
+
 **uptake 20220204**: **_DELP 20220204_**, **_IHME 20220204_**, NO IMPE, NO SRIV, PHAC 20220114
 
 (2) Nova Scotia [Daily deaths, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220204/output/merge/10%20Nova%20Scotia%20C-19%20daily%20deaths%2C%20Canada%2C%20reference%20scenarios%2C%202021%20on.pdf)
@@ -154,8 +170,15 @@
   
   
   
-  
  
+
+*
+
+**uptake 20220218**: **_DELP 20220218_**, **_IHME 20220218_**, NO IMPE, NO SRIV
+
+(3) Nova Scotia [Daily cases or infections, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220218/output/merge/12%20Nova%20Scotia%20C-19%20daily%20cases%20or%20infections%2C%20Canada%2C%20reference%20scenarios%2C%202020%20on.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/154810068-ac726f0f-2085-485e-bf96-206bb7ce642d.png)
 
 *
 
@@ -229,6 +252,14 @@
   
   
   
+*
+
+**uptake 20220218**: **_DELP 20220218_**, **_IHME 20220218_**, NO IMPE, NO SRIV
+
+(4) Nova Scotia [Daily cases or infections, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220218/output/merge/13%20Nova%20Scotia%20C-19%20daily%20cases%20or%20infections%2C%20Canada%2C%20reference%20scenarios%2C%202021%20on.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/154810104-2d20c802-d44c-4a29-a617-99b32d089a16.png)
+
 *
 
 **uptake 20220204**: **_DELP 20220204_**, **_IHME 20220204_**, NO IMPE, NO SRIV, PHAC 20220114
