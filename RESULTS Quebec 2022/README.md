@@ -10,6 +10,14 @@
   
 *
 
+**uptake 20220204**: **_DELP 20220204_**, **_IHME 20220204_**, NO IMPE, NO SRIV, PHAC 20220114
+
+(1) Quebec [Daily deaths, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220204/output/merge/09%20Quebec%20C-19%20daily%20deaths%2C%20Canada%2C%20reference%20scenarios%2C%202020%20on.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/153007959-fc70353b-84df-4a0e-8b9b-d2abdaeb7f6e.png)
+
+*
+
 **uptake 20220128**: **_DELP 20220128_**, IHME 20220121, IMPE 20220102, **_SRIV 20220126_**, PHAC 20220114
 
 (1) Quebec [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220128/output/merge/SUB1%2011bDayDeaMERGsub%20alltime%20Quebec%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%20all%20time.pdf)
@@ -73,6 +81,14 @@
   
 *
 
+**uptake 20220204**: **_DELP 20220204_**, **_IHME 20220204_**, NO IMPE, NO SRIV, PHAC 20220114
+
+(2) Quebec [Daily deaths, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220204/output/merge/10%20Quebec%20C-19%20daily%20deaths%2C%20Canada%2C%20reference%20scenarios%2C%202021%20on.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/153008095-76a0423d-9114-4e12-a9f7-ffd3e00fa10d.png)
+
+*
+
 **uptake 20220128**: **_DELP 20220128_**, IHME 20220121, IMPE 20220102, **_SRIV 20220126_**, PHAC 20220114
 
 (3) Quebec [Daily deaths, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220128/output/merge/SUB2%2012bDayDeaMERGsub%202021%20Quebec%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%202021.pdf)
@@ -128,6 +144,14 @@
   
   
   
+*
+
+**uptake 20220204**: **_DELP 20220204_**, **_IHME 20220204_**, NO IMPE, NO SRIV, PHAC 20220114
+
+(3) Quebec [Daily cases or infections, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220204/output/merge/12%20Quebec%20C-19%20daily%20cases%20or%20infections%2C%20Canada%2C%20reference%20scenarios%2C%202020%20on.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/153008209-1edf1e51-1236-4242-bc43-07c8d8c96689.png)
+
 *
 
 **uptake 20220128**: **_DELP 20220128_**, IHME 20220121, IMPE 20220102, **_SRIV 20220126_**, PHAC 20220114
@@ -189,6 +213,14 @@
   
   
   
+*
+
+**uptake 20220204**: **_DELP 20220204_**, **_IHME 20220204_**, NO IMPE, NO SRIV, PHAC 20220114
+
+(4) Quebec [Daily cases or infections, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220204/output/merge/13%20Quebec%20C-19%20daily%20cases%20or%20infections%2C%20Canada%2C%20reference%20scenarios%2C%202021%20on.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/153008335-ca9ff5ae-f5ed-49cd-9bef-8a4539bd796a.png)
+
 *
 
 **uptake 20220128**: **_DELP 20220128_**, IHME 20220121, IMPE 20220102, **_SRIV 20220126_**, PHAC 20220114
