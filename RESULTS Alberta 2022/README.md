@@ -15,6 +15,14 @@
 
 *
 
+**uptake 20220204**: **_DELP 20220204_**, **_IHME 20220204_**, NO IMPE, NO SRIV, PHAC 20220114
+
+(1) Alberta [Daily deaths, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220204/output/merge/09%20Alberta%20C-19%20daily%20deaths%2C%20Canada%2C%20reference%20scenarios%2C%202020%20on.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/152916900-455d1ee3-0f23-4c97-9db2-186b3749734a.png)
+
+*
+
 **uptake 20220128**: **_DELP 20220128_**, IHME 20220121, IMPE 20220102, **_SRIV 20220126_**, PHAC 20220114
 
 (1) Alberta [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220128/output/merge/SUB1%2011bDayDeaMERGsub%20alltime%20Alberta%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios%2C%20all%20time.pdf)
@@ -82,6 +90,14 @@
 
 *
 
+**uptake 20220204**: **_DELP 20220204_**, **_IHME 20220204_**, NO IMPE, NO SRIV, PHAC 20220114
+
+(2) Alberta [Daily deaths, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220204/output/merge/10%20Alberta%20C-19%20daily%20deaths%2C%20Canada%2C%20reference%20scenarios%2C%202021%20on.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/152917058-c45b0609-17ef-41b5-84a4-73b62b6da78b.png)
+
+*
+
 **uptake 20220128**: **_DELP 20220128_**, IHME 20220121, IMPE 20220102, **_SRIV 20220126_**, PHAC 20220114
 
 (3) Alberta [Daily deaths, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220128/output/merge/SUB2%2012bDayDeaMERGsub%202021%20Alberta%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios%2C%202021.pdf)
@@ -135,7 +151,13 @@
   
 
 
+*
 
+**uptake 20220204**: **_DELP 20220204_**, **_IHME 20220204_**, NO IMPE, NO SRIV, PHAC 20220114
+
+(3) Alberta [Daily cases or infections, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220204/output/merge/12%20Alberta%20C-19%20daily%20cases%20or%20infections%2C%20Canada%2C%20reference%20scenarios%2C%202020%20on.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/152919320-3e561b9c-e0b3-4063-8d0b-773062fea07d.png)
 
 *
 
@@ -199,6 +221,13 @@
 
 
 
+*
+
+**uptake 20220204**: **_DELP 20220204_**, **_IHME 20220204_**, NO IMPE, NO SRIV, PHAC 20220114
+
+(4) Alberta [Daily cases or infections, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220204/output/merge/13%20Alberta%20C-19%20daily%20cases%20or%20infections%2C%20Canada%2C%20reference%20scenarios%2C%202021%20on.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/152919396-5e788510-8786-497a-b98f-561a0e756619.png)
 
 *
 
