@@ -14,6 +14,12 @@
 
 *
 
+**uptake 20220218**: **_DELP 20220218_**, **_IHME 20220218_**, NO IMPE, NO SRIV
+
+
+
+*
+
 **uptake 20220104**: **_DELP 20220104_**, IHME 20211221, **_IMPE 20211213_**, **_SRIV 20220104_**
 
 (1a) Canada provinces [Daily reported deaths, reference scenarios, all time, IHME, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220104/output/IHME/graph%2011a1%20C-19%20daily%20reported%20deaths%2C%20Canada%2C%20subnational%2C%20IHME%2C%20reference%20scenario.pdf)
@@ -87,14 +93,16 @@
 **** 
 ****  
 
-
-
-
-  
 #### graph (1b) Canada, provinces - Daily reported deaths, reference scenarios, all time, IHME, 2021 on
   
   
   
+
+*
+
+**uptake 20220218**: **_DELP 20220218_**, **_IHME 20220218_**, NO IMPE, NO SRIV
+
+
 
 *
 
@@ -176,6 +184,12 @@
   
   
   
+
+*
+
+**uptake 20220218**: **_DELP 20220218_**, **_IHME 20220218_**, NO IMPE, NO SRIV
+
+
 
 *
 
@@ -262,6 +276,12 @@ This graph was not generated for this uptake.
 
 *
 
+**uptake 20220218**: **_DELP 20220218_**, **_IHME 20220218_**, NO IMPE, NO SRIV
+
+
+
+*
+
 **uptake 20220104**: **_DELP 20220104_**, IHME 20211221, **_IMPE 20211213_**, **_SRIV 20220104_**
 
 (2) Canada provinces [Daily excess deaths, reference scenarios, all time, IHME, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220104/output/IHME/graph%2012a%20C-19%20daily%20excess%20deaths%2C%20Canada%2C%20subnational%2C%20IHME%2C%20reference%20scenario.pdf)
@@ -332,15 +352,19 @@ This graph was not generated for this uptake.
 
 **** 
 ****  
-
-
-
-
   
 #### graph (3a) Canada, provinces - Daily infections, reference scenarios, all time, IHME, all time
   
   
   
+  
+  
+
+*
+
+**uptake 20220218**: **_DELP 20220218_**, **_IHME 20220218_**, NO IMPE, NO SRIV
+
+
 
 *
 
@@ -420,14 +444,18 @@ This graph was not generated for this uptake.
 **** 
 ****  
 
-
-
-
-  
 #### graph (3b) Canada, provinces - Daily infections, reference scenarios, all time, IHME, 2021 on
   
   
   
+  
+  
+
+*
+
+**uptake 20220218**: **_DELP 20220218_**, **_IHME 20220218_**, NO IMPE, NO SRIV
+
+
 
 *
 
@@ -509,14 +537,18 @@ This graph was not generated for this uptake.
 **** 
 ****  
 
-
-
-
-  
 #### graph (3c) Canada, provinces - Daily infections, reference scenarios, all time, IHME, 2022
   
   
   
+  
+
+
+*
+
+**uptake 20220218**: **_DELP 20220218_**, **_IHME 20220218_**, NO IMPE, NO SRIV
+
+
 
 *
 
