@@ -17,6 +17,14 @@
 
 *
 
+**uptake 20220318**: **_DELP 20220318_**, **_IHME 20220318_**, IMPE 20220120, **_SRIV 20220318_**
+
+(1) Alberta [Daily deaths, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220318/output/SUB1%2011bDayDeaMERGsub%20alltime%20Alberta%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios%2C%20all%20time.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/159540310-4e43e15a-2384-4b38-ac88-1b3ba7f771d9.png)
+
+*
+
 **uptake 20220311**: **_DELP 20220311_**, IHME 20220218, IMPE 20220120, **_SRIV 20220311_**
 
 
@@ -132,6 +140,14 @@
 
 *
 
+**uptake 20220318**: **_DELP 20220318_**, **_IHME 20220318_**, IMPE 20220120, **_SRIV 20220318_**
+
+(2) Alberta [Daily deaths, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220318/output/SUB2%2012bDayDeaMERGsub%202021%20Alberta%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios%2C%202021.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/159544768-0ce94b33-f246-4037-9285-e791d110d908.png)
+
+*
+
 **uptake 20220311**: **_DELP 20220311_**, IHME 20220218, IMPE 20220120, **_SRIV 20220311_**
 
 (2) Alberta [Daily deaths, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220311/output/merge/SUB2%2012bDayDeaMERGsub%202021%20Alberta%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios%2C%202021.pdf)
@@ -232,6 +248,14 @@
   
   
 
+
+*
+
+**uptake 20220318**: **_DELP 20220318_**, **_IHME 20220318_**, IMPE 20220120, **_SRIV 20220318_**
+
+(3) Alberta [Daily cases or infections, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220318/output/SUB4%2031bDayCasMERGsub%20alltime%20Alberta%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/159547204-56c44ef4-276f-4e87-9b60-dcab0c6d277c.png)
 
 *
 
@@ -342,6 +366,14 @@
   
 
 
+
+*
+
+**uptake 20220318**: **_DELP 20220318_**, **_IHME 20220318_**, IMPE 20220120, **_SRIV 20220318_**
+
+(4) Alberta [Daily cases or infections, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220318/output/SUB5%2032bDayCasMERGsub%202021%20Alberta%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios%2C%202021.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/159552506-5448c057-3c3f-47c2-a108-67aa5125844e.png)
 
 *
 
