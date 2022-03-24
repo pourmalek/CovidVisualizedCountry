@@ -17,6 +17,12 @@
 
 *
 
+**uptake 20220218**: **_DELP 20220218_**, **_IHME 20220218_**, NO IMPE, NO SRIV
+
+
+
+*
+
 **uptake 20220104**: **_DELP 20220104_**, IHME 20211221, **_IMPE 20211213_**, **_SRIV 20220104_**
 
 (1) Alberta [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220104/output/merge/main/SUB1%2011bDayDeaMERGsub%20alltime%20Alberta%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios%2C%20all%20time.pdf)
@@ -107,6 +113,12 @@
 
 *
 
+**uptake 20220218**: **_DELP 20220218_**, **_IHME 20220218_**, NO IMPE, NO SRIV
+
+
+
+*
+
 **uptake 20220104**: **_DELP 20220104_**, IHME 20211221, **_IMPE 20211213_**, **_SRIV 20220104_**
 
 (3) Alberta [Daily deaths, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220104/output/merge/main/SUB3%2014b1DayDeaMERGsub%202021%203%20scenarios%20Alberta%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Alberta%2C%203%20scenarios%2C%202021.pdf)
@@ -183,6 +195,14 @@
   
   
 
+
+*
+
+**uptake 20220218**: **_DELP 20220218_**, **_IHME 20220218_**, NO IMPE, NO SRIV
+
+(2) Alberta [Daily deaths, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220218/output/merge/10%20Alberta%20C-19%20daily%20deaths%2C%20Canada%2C%20reference%20scenarios%2C%202021%20on.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/154803810-0bd5b412-55f7-40ba-9df5-81aab3e2b83b.png)
 
 *
 
@@ -267,6 +287,12 @@
   
   
   
+
+
+
+*
+
+**uptake 20220218**: **_DELP 20220218_**, **_IHME 20220218_**, NO IMPE, NO SRIV
 
 
 
