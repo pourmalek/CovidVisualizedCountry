@@ -13,7 +13,9 @@
 
 **uptake 20220304**: **_DELP 20220304_**, IHME 20220218, **_IMPE 20220120_**, **_SRIV 20220301_**
 
+(1) Canada [Daily deaths, Reference scenarios, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220304/output/merge/CAN1%2011aDayDeaMERGnat%20alltime%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/157575510-43f650de-0b99-4fd8-9eaf-a7442feae722.png)
 
 *
 
@@ -107,7 +109,9 @@ This graph was not generated for this uptake.
 
 **uptake 20220304**: **_DELP 20220304_**, IHME 20220218, **_IMPE 20220120_**, **_SRIV 20220301_**
 
+(2) Canada National [Daily deaths, All scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220304/output/merge/CAN2%2012aDayDeaMERGnat%202021%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/157575633-1913a1de-dd96-4d5e-bcd8-1963d8ae5733.png)
 
 *
 
@@ -204,7 +208,7 @@ This graph was not generated for this uptake.
 
 **uptake 20220304**: **_DELP 20220304_**, IHME 20220218, **_IMPE 20220120_**, **_SRIV 20220301_**
 
-
+This graph was not generated for this uptake. 
 
 *
 
@@ -296,7 +300,9 @@ This graph was not generated for this uptake.
 
 **uptake 20220304**: **_DELP 20220304_**, IHME 20220218, **_IMPE 20220120_**, **_SRIV 20220301_**
 
+(3) Canada National [Daily cases or infections, Reference scenarios, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220304/output/merge/CAN4%2031aDayCasMERGnat%20alltime%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20National%2C%20reference%20scenarios.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/157577194-16bf970c-ac69-4089-9246-e7f5b4f93504.png)
 
 *
 
@@ -394,7 +400,9 @@ This graph was not generated for this uptake.
 
 **uptake 20220304**: **_DELP 20220304_**, IHME 20220218, **_IMPE 20220120_**, **_SRIV 20220301_**
 
+(4) Canada National [Daily cases or infections, All scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220304/output/merge/CAN5%2032aDayCasMERGnat%202021%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/157576775-629d24c0-9858-4dd0-a191-c2a460338dca.png)
 
 *
 
@@ -490,7 +498,7 @@ This graph was not generated for this uptake.
 
 **uptake 20220304**: **_DELP 20220304_**, IHME 20220218, **_IMPE 20220120_**, **_SRIV 20220301_**
 
-
+This graph was not generated for this uptake. 
 
 *
 
@@ -582,7 +590,7 @@ This graph was not generated for this uptake.
 
 **uptake 20220304**: **_DELP 20220304_**, IHME 20220218, **_IMPE 20220120_**, **_SRIV 20220301_**
 
-
+This graph was not generated for this uptake. 
 
 *
 
@@ -674,7 +682,7 @@ This graph was not generated for this uptake.
 
 **uptake 20220304**: **_DELP 20220304_**, IHME 20220218, **_IMPE 20220120_**, **_SRIV 20220301_**
 
-
+This graph was not generated for this uptake. 
 
 *
 
@@ -766,7 +774,7 @@ This graph was not generated for this uptake.
 
 **uptake 20220304**: **_DELP 20220304_**, IHME 20220218, **_IMPE 20220120_**, **_SRIV 20220301_**
 
-
+This graph was not generated for this uptake. 
 
 *
 
@@ -858,7 +866,7 @@ This graph was not generated for this uptake.
 
 **uptake 20220304**: **_DELP 20220304_**, IHME 20220218, **_IMPE 20220120_**, **_SRIV 20220301_**
 
-
+This graph was not generated for this uptake. 
 
 *
 
@@ -950,7 +958,9 @@ This graph was not generated for this uptake.
 
 **uptake 20220304**: **_DELP 20220304_**, IHME 20220218, **_IMPE 20220120_**, **_SRIV 20220301_**
 
+(5) Canada National [Daily hospital-related outcomes, Reference scenarios, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220304/output/merge/CAN7%2071a1DayHosMERGnat%20%20alltime%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20National.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/157580781-df994a5f-4e43-4914-8eb5-df800b0ea964.png)
 
 *
 
@@ -1050,7 +1060,9 @@ This graph was not generated for this uptake.
 
 **uptake 20220304**: **_DELP 20220304_**, IHME 20220218, **_IMPE 20220120_**, **_SRIV 20220301_**
 
+(6) Canada National [Daily hospital-related outcomes, without IHME Bed need, IMPE Hospital demand, Reference scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220304/output/merge/CAN8%2073aDayHosMERGnat%202021%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20National%2C%20wo%20extremes%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/157581047-e3a0edcf-1066-4ab6-8030-4b87bd9735dc.png)
 
 *
 
@@ -1150,7 +1162,7 @@ This graph was not generated for this uptake.
 
 **uptake 20220304**: **_DELP 20220304_**, IHME 20220218, **_IMPE 20220120_**, **_SRIV 20220301_**
 
-
+This graph was not generated for this uptake. 
 
 *
 
@@ -1243,7 +1255,7 @@ This graph was not generated for this uptake.
 
 **uptake 20220304**: **_DELP 20220304_**, IHME 20220218, **_IMPE 20220120_**, **_SRIV 20220301_**
 
-
+This graph was not generated for this uptake. 
 
 *
 
@@ -1348,7 +1360,7 @@ This graph was not generated for this uptake.
 
 **uptake 20220304**: **_DELP 20220304_**, IHME 20220218, **_IMPE 20220120_**, **_SRIV 20220301_**
 
-
+This graph was not generated for this uptake. 
 
 *
 
@@ -1446,7 +1458,9 @@ This graph was not generated for this uptake.
 
 **uptake 20220304**: **_DELP 20220304_**, IHME 20220218, **_IMPE 20220120_**, **_SRIV 20220301_**
 
+(7) Canada National [Daily Infection hospitalization and fatality ratios, Reference scenario, IHME, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220304/output/merge/graph%2091a%20COVID-19%20daily%20Infection%20outcomes%20ratios%2C%20Canada%2C%20National%203%20scenarios%2C%20IHME.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/157581260-177c6d98-06f8-468f-b43e-f7837f445d3e.png)
 
 *
 
@@ -1551,7 +1565,9 @@ This graph was not generated for this uptake.
 
 **uptake 20220304**: **_DELP 20220304_**, IHME 20220218, **_IMPE 20220120_**, **_SRIV 20220301_**
 
+(9) Canada National [Daily mask use, IHME, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220304/output/merge/graph%2093a%20COVID-19%20daily%20mask_use%2C%20Canada%2C%20National%2C%203%20scenarios.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/157581476-c91d8d14-2abc-40f2-ae41-4c6f4ecb14e0.png)
 
 *
 
@@ -1647,7 +1663,9 @@ This graph was not generated for this uptake.
 
 **uptake 20220304**: **_DELP 20220304_**, IHME 20220218, **_IMPE 20220120_**, **_SRIV 20220301_**
 
+(10) Canada National [Percent cumulative vaccinated, IHME, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220304/output/merge/graph%2094a%20COVID-19%20percent%20cumulative%20vaccinated%2C%20Canada%2C%20National.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/157581580-44747584-8a5e-484e-85ce-977cde5d0896.png)
 
 *
 
