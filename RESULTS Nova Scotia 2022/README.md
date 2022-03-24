@@ -24,7 +24,9 @@
 
 **uptake 20220318**: **_DELP 20220318_**, **_IHME 20220318_**, IMPE 20220120, **_SRIV 20220318_**
 
+(1) Nova Scotia [Daily deaths, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220318/output/SUB1%2011bDayDeaMERGsub%20alltime%20Nova%20Scotia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Nova%20Scotia%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/159540821-b4bdcc00-760a-4745-b51d-2a132afd8a83.png)
 
 *
 
@@ -139,7 +141,9 @@
 
 **uptake 20220318**: **_DELP 20220318_**, **_IHME 20220318_**, IMPE 20220120, **_SRIV 20220318_**
 
+(2) Nova Scotia [Daily deaths, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220318/output/SUB2%2012bDayDeaMERGsub%202021%20Nova%20Scotia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Nova%20Scotia%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/159545285-3b9ce049-414f-4294-b0ad-0f561ca61989.png)
 
 *
 
@@ -251,7 +255,9 @@
 
 **uptake 20220318**: **_DELP 20220318_**, **_IHME 20220318_**, IMPE 20220120, **_SRIV 20220318_**
 
+(3) Nova Scotia [Daily cases or infections, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220318/output/SUB4%2031bDayCasMERGsub%20alltime%20Nova%20Scotia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Nova%20Scotia%2C%20reference%20scenarios.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/159547689-beb26f6f-f62c-4aba-9823-d06c523703b1.png)
 
 *
 
@@ -369,7 +375,9 @@
 
 **uptake 20220318**: **_DELP 20220318_**, **_IHME 20220318_**, IMPE 20220120, **_SRIV 20220318_**
 
+(4) Nova Scotia [Daily cases or infections, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220318/output/SUB5%2032bDayCasMERGsub%202021%20Nova%20Scotia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Nova%20Scotia%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/159553488-9c88b11a-32a6-46e5-84ca-3b427d4373c4.png)
 
 *
 
