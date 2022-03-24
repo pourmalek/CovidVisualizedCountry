@@ -18,6 +18,14 @@
   
 *
 
+**uptake 20220218**: **_DELP 20220218_**, **_IHME 20220218_**, NO IMPE, NO SRIV
+
+(1) Manitoba [Daily deaths, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220218/output/merge/09%20Manitoba%20C-19%20daily%20deaths%2C%20Canada%2C%20reference%20scenarios%2C%202020%20on.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/154809850-c9048a48-d7a2-443a-84f6-67207c4e1883.png)
+
+*
+
 **uptake 20220104**: **_DELP 20220104_**, IHME 20211221, **_IMPE 20211213_**, **_SRIV 20220104_**
 
 (1) Manitoba [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220104/output/merge/main/SUB1%2011bDayDeaMERGsub%20alltime%20Manitoba%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios%2C%20all%20time.pdf)
@@ -102,6 +110,14 @@
   
 *
 
+**uptake 20220218**: **_DELP 20220218_**, **_IHME 20220218_**, NO IMPE, NO SRIV
+
+(2) Manitoba [Daily deaths, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220218/output/merge/10%20Manitoba%20C-19%20daily%20deaths%2C%20Canada%2C%20reference%20scenarios%2C%202021%20on.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/154809883-982591df-eddb-4676-a684-cefa91728486.png)
+
+*
+
 **uptake 20220104**: **_DELP 20220104_**, IHME 20211221, **_IMPE 20211213_**, **_SRIV 20220104_**
 
 (3) Manitoba [Daily deaths, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220104/output/merge/main/SUB3%2014b1DayDeaMERGsub%202021%203%20scenarios%20Manitoba%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Manitoba%2C%203%20scenarios%2C%202021.pdf)
@@ -180,6 +196,14 @@
   
  
   
+*
+
+**uptake 20220218**: **_DELP 20220218_**, **_IHME 20220218_**, NO IMPE, NO SRIV
+
+(3) Manitoba [Daily cases or infections, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220218/output/merge/12%20Manitoba%20C-19%20daily%20cases%20or%20infections%2C%20Canada%2C%20reference%20scenarios%2C%202020%20on.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/154809925-04bd0fee-4c93-4417-9884-4c2f9e831380.png)
+
 *
 
 **uptake 20220104**: **_DELP 20220104_**, IHME 20211221, **_IMPE 20211213_**, **_SRIV 20220104_**
@@ -265,6 +289,14 @@
   
  
   
+*
+
+**uptake 20220218**: **_DELP 20220218_**, **_IHME 20220218_**, NO IMPE, NO SRIV
+
+(4) Manitoba [Daily cases or infections, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220218/output/merge/13%20Manitoba%20C-19%20daily%20cases%20or%20infections%2C%20Canada%2C%20reference%20scenarios%2C%202021%20on.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/154809967-51e28dd6-d380-4b8c-933a-b07892a4d929.png)
+
 *
 
 **uptake 20220104**: **_DELP 20220104_**, IHME 20211221, **_IMPE 20211213_**, **_SRIV 20220104_**
