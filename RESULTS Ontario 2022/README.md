@@ -12,6 +12,14 @@
   
 *
 
+**uptake 20220311**: **_DELP 20220311_**, IHME 20220218, IMPE 20220120, **_SRIV 20220311_**
+
+(1) Ontario [Daily deaths, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220311/output/merge/SUB1%2011bDayDeaMERGsub%20alltime%20Ontario%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%20all%20time.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/158005303-cf2b0515-1659-4ec4-8bf6-2629e994f4f5.png)
+
+*
+
 **uptake 20220304**: **_DELP 20220304_**, IHME 20220218, **_IMPE 20220120_**, **_SRIV 20220301_**
 
 (1) Ontario [Daily deaths, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220304/output/merge/SUB1%2011bDayDeaMERGsub%20alltime%20Ontario%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%20all%20time.pdf)
@@ -114,6 +122,14 @@
   
 *
 
+**uptake 20220311**: **_DELP 20220311_**, IHME 20220218, IMPE 20220120, **_SRIV 20220311_**
+
+(2) Ontario [Daily deaths, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220311/output/merge/SUB2%2012bDayDeaMERGsub%202021%20Ontario%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202021.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/158005330-c587cdc0-b14e-4331-bcb0-ec84a4c67a5f.png)
+
+*
+
 **uptake 20220304**: **_DELP 20220304_**, IHME 20220218, **_IMPE 20220120_**, **_SRIV 20220301_**
 
 (2) Ontario [Daily deaths, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220304/output/merge/SUB2%2012bDayDeaMERGsub%202021%20Ontario%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202021.pdf)
@@ -210,6 +226,14 @@
   
   
   
+*
+
+**uptake 20220311**: **_DELP 20220311_**, IHME 20220218, IMPE 20220120, **_SRIV 20220311_**
+
+(3) Ontario [Daily cases or infections, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220311/output/merge/SUB4%2031bDayCasMERGsub%20alltime%20Ontario%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/158005347-abd2fad0-1955-406e-a930-da4723ce6794.png)
+
 *
 
 **uptake 20220304**: **_DELP 20220304_**, IHME 20220218, **_IMPE 20220120_**, **_SRIV 20220301_**
@@ -315,6 +339,14 @@
   
   
   
+*
+
+**uptake 20220311**: **_DELP 20220311_**, IHME 20220218, IMPE 20220120, **_SRIV 20220311_**
+
+(4) Ontario [Daily cases or infections, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220311/output/merge/SUB5%2032bDayCasMERGsub%202021%20Ontario%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202021.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/158005366-09af5429-3889-4537-b81d-b50fd0e57679.png)
+
 *
 
 **uptake 20220304**: **_DELP 20220304_**, IHME 20220218, **_IMPE 20220120_**, **_SRIV 20220301_**
