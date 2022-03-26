@@ -250,7 +250,7 @@ This graph was not generated for this uptake.
  
 *
 
-This graph has been retired after the uptake 20220104. 
+This graph has been retired to save space after the uptake 20220104. 
 
 *
 
@@ -575,7 +575,7 @@ This graph was not generated for this uptake.
   
 *
 
-This graph has been retired after the uptake 20220104. 
+This graph has been retired to save space after the uptake 20220104.
 
 *  
 
@@ -652,42 +652,11 @@ This graph was not generated for this uptake.
  
 #### graph (6b) Canada - Daily estimated infections IHME IMPE to reported cases JOHN, reference scenarios, 2021 on
   
-  
-  
-
-
-
 *
 
-**uptake 20220325**: **_DELP 20220325_**, **_IHME 20220322_**, IMPE 20220120, **_SRIV 20220325_**
+This graph has been retired to save space after the uptake 20220104.
 
-
-
-*
-
-**uptake 20220318**: **_DELP 20220318_**, **_IHME 20220318_**, IMPE 20220120, **_SRIV 20220318_**
-
-This graph was not generated for this uptake.
-
-*
-
-**uptake 20220311**: **_DELP 20220311_**, IHME 20220218, IMPE 20220120, **_SRIV 20220311_**
-
-This graph was not generated for this uptake. 
-
-*
-
-**uptake 20220304**: **_DELP 20220304_**, IHME 20220218, **_IMPE 20220120_**, **_SRIV 20220301_**
-
-This graph was not generated for this uptake. 
-
-*
-
-**uptake 20220218**: **_DELP 20220218_**, **_IHME 20220218_**, NO IMPE, NO SRIV
-
-This graph was not generated for this uptake. 
-
-*
+*  
 
 **uptake 20220104**: **_DELP 20220104_**, IHME 20211221, **_IMPE 20211213_**, **_SRIV 20220104_**
 
@@ -762,43 +731,12 @@ This graph was not generated for this uptake.
  
 #### graph (6c) Canada - Daily estimated infections IHME, reference and alternate scenarios, all time
   
+*
+
+This graph has been retired to save space after the uptake 20220104.
+
+*  
   
-  
-
-
-
-*
-
-**uptake 20220325**: **_DELP 20220325_**, **_IHME 20220322_**, IMPE 20220120, **_SRIV 20220325_**
-
-
-
-*
-
-**uptake 20220318**: **_DELP 20220318_**, **_IHME 20220318_**, IMPE 20220120, **_SRIV 20220318_**
-
-This graph was not generated for this uptake.
-
-*
-
-**uptake 20220311**: **_DELP 20220311_**, IHME 20220218, IMPE 20220120, **_SRIV 20220311_**
-
-This graph was not generated for this uptake. 
-
-*
-
-**uptake 20220304**: **_DELP 20220304_**, IHME 20220218, **_IMPE 20220120_**, **_SRIV 20220301_**
-
-This graph was not generated for this uptake. 
-
-*
-
-**uptake 20220218**: **_DELP 20220218_**, **_IHME 20220218_**, NO IMPE, NO SRIV
-
-This graph was not generated for this uptake. 
-
-*
-
 **uptake 20220104**: **_DELP 20220104_**, IHME 20211221, **_IMPE 20211213_**, **_SRIV 20220104_**
 
 (6c) Canada [Daily estimated infections IHME, 5 scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220104/output/IHME/graph%2022a1%20C-19%20daily%20infections%2C%20Canada%2C%20%20National%205%20scenarios%2C%20IHME.pdf)
@@ -872,42 +810,11 @@ This graph was not generated for this uptake.
  
 #### graph (6d) Canada - Daily estimated infections IHME, reference and alternate scenarios, 2021 on
   
-  
-  
-
-
-
 *
 
-**uptake 20220325**: **_DELP 20220325_**, **_IHME 20220322_**, IMPE 20220120, **_SRIV 20220325_**
+This graph has been retired to save space after the uptake 20220104.
 
-
-
-*
-
-**uptake 20220318**: **_DELP 20220318_**, **_IHME 20220318_**, IMPE 20220120, **_SRIV 20220318_**
-
-This graph was not generated for this uptake.
-
-*
-
-**uptake 20220311**: **_DELP 20220311_**, IHME 20220218, IMPE 20220120, **_SRIV 20220311_**
-
-This graph was not generated for this uptake. 
-
-*
-
-**uptake 20220304**: **_DELP 20220304_**, IHME 20220218, **_IMPE 20220120_**, **_SRIV 20220301_**
-
-This graph was not generated for this uptake. 
-
-*
-
-**uptake 20220218**: **_DELP 20220218_**, **_IHME 20220218_**, NO IMPE, NO SRIV
-
-This graph was not generated for this uptake. 
-
-*
+*  
 
 **uptake 20220104**: **_DELP 20220104_**, IHME 20211221, **_IMPE 20211213_**, **_SRIV 20220104_**
 
@@ -982,42 +889,11 @@ This graph was not generated for this uptake.
  
 #### graph (6e) Canada - Daily estimated infections IHME, reference and alternate scenarios, 2022
   
-  
-  
-
-
-
 *
 
-**uptake 20220325**: **_DELP 20220325_**, **_IHME 20220322_**, IMPE 20220120, **_SRIV 20220325_**
+This graph has been retired to save space after the uptake 20220104.
 
-
-
-*
-
-**uptake 20220318**: **_DELP 20220318_**, **_IHME 20220318_**, IMPE 20220120, **_SRIV 20220318_**
-
-This graph was not generated for this uptake.
-
-*
-
-**uptake 20220311**: **_DELP 20220311_**, IHME 20220218, IMPE 20220120, **_SRIV 20220311_**
-
-This graph was not generated for this uptake. 
-
-*
-
-**uptake 20220304**: **_DELP 20220304_**, IHME 20220218, **_IMPE 20220120_**, **_SRIV 20220301_**
-
-This graph was not generated for this uptake. 
-
-*
-
-**uptake 20220218**: **_DELP 20220218_**, **_IHME 20220218_**, NO IMPE, NO SRIV
-
-This graph was not generated for this uptake. 
-
-*
+*  
 
 **uptake 20220104**: **_DELP 20220104_**, IHME 20211221, **_IMPE 20211213_**, **_SRIV 20220104_**
 
@@ -1101,7 +977,9 @@ This graph was not generated for this uptake.
 
 **uptake 20220325**: **_DELP 20220325_**, **_IHME 20220322_**, IMPE 20220120, **_SRIV 20220325_**
 
+(5) Canada National [Daily hospital-related outcomes, Reference scenarios, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220325/output/CAN7%2071a1DayHosMERGnat%20%20alltime%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20National.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/160223094-15da24d4-a9e4-4ed4-aeec-900a8efefcf2.png)
 
 *
 
@@ -1225,7 +1103,9 @@ This graph was not generated for this uptake.
 
 **uptake 20220325**: **_DELP 20220325_**, **_IHME 20220322_**, IMPE 20220120, **_SRIV 20220325_**
 
+(6) Canada National [Daily hospital-related outcomes, without IHME Bed need, IMPE Hospital demand, Reference scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220325/output/CAN8%2073aDayHosMERGnat%202021%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20National%2C%20wo%20extremes%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/160223115-41e880a6-4b67-44c3-ba8f-3edf4e2630bb.png)
 
 *
 
@@ -1340,42 +1220,11 @@ This graph was not generated for this uptake.
  
 #### graph (9) Canada - Daily deaths estimated to reported, reference scenarios, 2021 on
   
-  
-  
-
-
-
 *
 
-**uptake 20220325**: **_DELP 20220325_**, **_IHME 20220322_**, IMPE 20220120, **_SRIV 20220325_**
+This graph has been retired to save space after the uptake 20220104.
 
-
-
-*
-
-**uptake 20220318**: **_DELP 20220318_**, **_IHME 20220318_**, IMPE 20220120, **_SRIV 20220318_**
-
-This graph was not generated for this uptake.
-
-*
-
-**uptake 20220311**: **_DELP 20220311_**, IHME 20220218, IMPE 20220120, **_SRIV 20220311_**
-
-This graph was not generated for this uptake.
-
-*
-
-**uptake 20220304**: **_DELP 20220304_**, IHME 20220218, **_IMPE 20220120_**, **_SRIV 20220301_**
-
-This graph was not generated for this uptake. 
-
-*
-
-**uptake 20220218**: **_DELP 20220218_**, **_IHME 20220218_**, NO IMPE, NO SRIV
-
-This graph was not generated for this uptake. 
-
-*
+*  
 
 **uptake 20220104**: **_DELP 20220104_**, IHME 20211221, **_IMPE 20211213_**, **_SRIV 20220104_**
 
@@ -1451,42 +1300,11 @@ This graph was not generated for this uptake.
  
 #### graph (10) Canada - Daily cases or infections estimated to reported, reference scenarios, 2021 on
   
-  
-  
-
-
-
 *
 
-**uptake 20220325**: **_DELP 20220325_**, **_IHME 20220322_**, IMPE 20220120, **_SRIV 20220325_**
+This graph has been retired to save space after the uptake 20220104.
 
-
-
-*
-
-**uptake 20220318**: **_DELP 20220318_**, **_IHME 20220318_**, IMPE 20220120, **_SRIV 20220318_**
-
-This graph was not generated for this uptake.
-
-*
-
-**uptake 20220311**: **_DELP 20220311_**, IHME 20220218, IMPE 20220120, **_SRIV 20220311_**
-
-This graph was not generated for this uptake.
-
-*
-
-**uptake 20220304**: **_DELP 20220304_**, IHME 20220218, **_IMPE 20220120_**, **_SRIV 20220301_**
-
-This graph was not generated for this uptake. 
-
-*
-
-**uptake 20220218**: **_DELP 20220218_**, **_IHME 20220218_**, NO IMPE, NO SRIV
-
-This graph was not generated for this uptake. 
-
-*
+*  
 
 **uptake 20220104**: **_DELP 20220104_**, IHME 20211221, **_IMPE 20211213_**, **_SRIV 20220104_**
 
@@ -1572,7 +1390,7 @@ This graph was not generated for this uptake.
 ****
 ****  
  
-#### graph (11) Canada - Daily Infection-outcomes ratios, reference and alternate scenarios, IHME, 2021 on 
+#### graph (11) Canada - Daily Infection-outcomes ratios, IHME, 2021 on 
   
   
   
@@ -1583,7 +1401,9 @@ This graph was not generated for this uptake.
 
 **uptake 20220325**: **_DELP 20220325_**, **_IHME 20220322_**, IMPE 20220120, **_SRIV 20220325_**
 
+(7) Canada National [Daily Infection hospitalization and fatality ratios, Reference scenario, IHME, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220325/output/graph%2091a2%20COVID-19%20daily%20Infection%20outcomes%20ratios%2C%20Canada%2C%20National%203%20scenarios%2C%20IHME.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/160223134-07c9de55-989c-4a7f-a163-ea99d0f5112f.png)
 
 *
 
