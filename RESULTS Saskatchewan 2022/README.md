@@ -20,7 +20,9 @@
 
 **uptake 20220325**: **_DELP 20220325_**, **_IHME 20220322_**, IMPE 20220120, **_SRIV 20220325_**
 
+(1) Saskatchewan [Daily deaths, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220325/output/SUB1%2011bDayDeaMERGsub%20alltime%20Saskatchewan%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Saskatchewan%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/160244619-ee5248a9-5a4d-4e17-8a44-df8c83024373.png)
 
 *
 
@@ -144,7 +146,9 @@
 
 **uptake 20220325**: **_DELP 20220325_**, **_IHME 20220322_**, IMPE 20220120, **_SRIV 20220325_**
 
+(2) Saskatchewan [Daily deaths, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220325/output/SUB2%2012bDayDeaMERGsub%202021%20Saskatchewan%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Saskatchewan%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/160244640-3c1125f7-dcd0-47cb-9429-7f143dc0becd.png)
 
 *
 
@@ -265,7 +269,9 @@
 
 **uptake 20220325**: **_DELP 20220325_**, **_IHME 20220322_**, IMPE 20220120, **_SRIV 20220325_**
 
+(3) Saskatchewan [Daily cases or infections, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220325/output/SUB4%2031bDayCasMERGsub%20alltime%20Saskatchewan%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Saskatchewan%2C%20reference%20scenarios.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/160244662-29309420-c5cd-481d-a40f-ebc16c8e195f.png)
 
 *
 
@@ -388,7 +394,9 @@
 
 **uptake 20220325**: **_DELP 20220325_**, **_IHME 20220322_**, IMPE 20220120, **_SRIV 20220325_**
 
+(4) Saskatchewan [Daily cases or infections, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220325/output/SUB5%2032bDayCasMERGsub%202021%20Saskatchewan%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Saskatchewan%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/160244692-31f62c61-8729-40c1-bb01-9323377fe773.png)
 
 *
 
