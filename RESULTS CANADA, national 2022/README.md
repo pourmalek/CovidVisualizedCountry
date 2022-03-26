@@ -13,7 +13,9 @@
 
 **uptake 20220325**: **_DELP 20220325_**, **_IHME 20220322_**, IMPE 20220120, **_SRIV 20220325_**
 
+(1) Canada [Daily deaths, Reference scenarios, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220325/output/CAN1%2011aDayDeaMERGnat%20alltime%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/160223005-fbc2f567-0a55-4e25-8edd-17d95baf2555.png)
 
 *
 
@@ -131,7 +133,9 @@ This graph was not generated for this uptake.
 
 **uptake 20220325**: **_DELP 20220325_**, **_IHME 20220322_**, IMPE 20220120, **_SRIV 20220325_**
 
+(2) Canada National [Daily deaths, All scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220325/output/CAN2%2012aDayDeaMERGnat%202021%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/160223025-2689c1fa-b961-4897-b540-8d1b3c2c07ca.png)
 
 *
 
@@ -243,40 +247,10 @@ This graph was not generated for this uptake.
  
 #### graph (3) Canada - Daily deaths, reference and alternate scenarios, 2021 on
   
-  
-  
-
-
-
+ 
 *
 
-**uptake 20220325**: **_DELP 20220325_**, **_IHME 20220322_**, IMPE 20220120, **_SRIV 20220325_**
-
-
-
-*
-
-**uptake 20220318**: **_DELP 20220318_**, **_IHME 20220318_**, IMPE 20220120, **_SRIV 20220318_**
-
-This graph was not generated for this uptake.
-
-*
-
-**uptake 20220311**: **_DELP 20220311_**, IHME 20220218, IMPE 20220120, **_SRIV 20220311_**
-
-This graph was not generated for this uptake.
-
-*
-
-**uptake 20220304**: **_DELP 20220304_**, IHME 20220218, **_IMPE 20220120_**, **_SRIV 20220301_**
-
-This graph was not generated for this uptake. 
-
-*
-
-**uptake 20220218**: **_DELP 20220218_**, **_IHME 20220218_**, NO IMPE, NO SRIV
-
-This graph was not generated for this uptake. 
+This graph has been retired after the uptake 20220104. 
 
 *
 
@@ -362,7 +336,9 @@ This graph was not generated for this uptake.
 
 **uptake 20220325**: **_DELP 20220325_**, **_IHME 20220322_**, IMPE 20220120, **_SRIV 20220325_**
 
+(3) Canada National [Daily cases or infections, Reference scenarios, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220325/output/CAN4%2031aDayCasMERGnat%20alltime%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20National%2C%20reference%20scenarios.pdf)
 
+ ![image](https://user-images.githubusercontent.com/30849720/160223050-606622f3-fddd-4218-b12c-5d3142402b88.png)
 
 *
 
@@ -484,7 +460,9 @@ This graph was not generated for this uptake.
 
 **uptake 20220325**: **_DELP 20220325_**, **_IHME 20220322_**, IMPE 20220120, **_SRIV 20220325_**
 
+(4) Canada National [Daily cases or infections, All scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220325/output/82aDayCTDMERGnat%202021%20-%20COVID-19%20daily%20cases%20to%20deaths%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/160223077-281c32e1-6573-4ee9-a7cd-8f9e10ea8ab2.png)
 
 *
 
@@ -595,42 +573,11 @@ This graph was not generated for this uptake.
  
 #### graph (6) Canada - Daily cases or infections, reference and alternate scenarios, 2021 on
   
-  
-  
-
-
-
 *
 
-**uptake 20220325**: **_DELP 20220325_**, **_IHME 20220322_**, IMPE 20220120, **_SRIV 20220325_**
+This graph has been retired after the uptake 20220104. 
 
-
-
-*
-
-**uptake 20220318**: **_DELP 20220318_**, **_IHME 20220318_**, IMPE 20220120, **_SRIV 20220318_**
-
-This graph was not generated for this uptake.
-
-*
-
-**uptake 20220311**: **_DELP 20220311_**, IHME 20220218, IMPE 20220120, **_SRIV 20220311_**
-
-This graph was not generated for this uptake. 
-
-*
-
-**uptake 20220304**: **_DELP 20220304_**, IHME 20220218, **_IMPE 20220120_**, **_SRIV 20220301_**
-
-This graph was not generated for this uptake. 
-
-*
-
-**uptake 20220218**: **_DELP 20220218_**, **_IHME 20220218_**, NO IMPE, NO SRIV
-
-This graph was not generated for this uptake. 
-
-*
+*  
 
 **uptake 20220104**: **_DELP 20220104_**, IHME 20211221, **_IMPE 20211213_**, **_SRIV 20220104_**
 
