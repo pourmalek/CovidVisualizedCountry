@@ -1423,81 +1423,11 @@ This graph was not generated for this uptake.
 
 *
 
-**uptake 20220304**: **_DELP 20220304_**, IHME 20220218, **_IMPE 20220120_**, **_SRIV 20220301_**
-
-This graph was not generated for this uptake. 
-
-*
-
-**uptake 20220218**: **_DELP 20220218_**, **_IHME 20220218_**, NO IMPE, NO SRIV
-
-(6) Canada National [Daily Infection outcomes ratios, Reference scenarios, IHME, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220218/output/merge/17%20%20National%20C-19%20daily%20Infection%20outcomes%20ratios%2C%20Canada%2C%20reference%20scenarios%2C%20IHME.pdf)
-
-![image](https://user-images.githubusercontent.com/30849720/154802874-b538c4bf-e4c9-4bdb-88a2-759a2f61a685.png)
-
-*
-
-**uptake 20220104**: **_DELP 20220104_**, IHME 20211221, **_IMPE 20211213_**, **_SRIV 20220104_**
-
-(11) Canada [Daily Infection-outcomes ratios, 3 scenarios, IHME, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220104/output/merge/main/graph%2091a%20COVID-19%20daily%20Infection%20outcomes%20ratios%2C%20Canada%2C%20National%203%20scenarios%2C%20IHME.pdf)
-
-![image](https://user-images.githubusercontent.com/30849720/148167547-fabf355d-d76e-41ce-81fa-95721fc0a966.png)
-
-*
-
 **uptake 20220218**: **_DELP 20220218_**, **_IHME 20220218_**, NO IMPE, NO SRIV
 
 (7) Canada National [Daily Infection hospitalization and fatality ratios, Reference scenario, IHME, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220218/output/merge/18%20%20National%20C-19%20daily%20Infection%20hospitalization%20and%20fatality%20ratios%2C%20Canada%2C%20reference%20scenarios%2C%20IHME.pdf)
 
 ![image](https://user-images.githubusercontent.com/30849720/154802900-175682f3-1afc-4f60-8229-51058e02bf8f.png)
-
-*
-
-**uptake 20220204**: **_DELP 20220204_**, **_IHME 20220204_**, NO IMPE, NO SRIV, PHAC 20220114
-
-(6) Canada National [Daily Infection outcomes ratios, Reference scenarios, IHME, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220204/output/merge/17%20%20National%20C-19%20daily%20Infection%20outcomes%20ratios%2C%20Canada%2C%20reference%20scenarios%2C%20IHME.pdf)
-
-![image](https://user-images.githubusercontent.com/30849720/152901770-b635b769-ca32-4d58-b9a0-6485ab06e11a.png)
-
-*
-
-**uptake 20220128**: **_DELP 20220128_**, IHME 20220121, IMPE 20220102, **_SRIV 20220126_**, PHAC 20220114
-
-(11) Canada [Daily Infection-outcomes ratios, 2 scenarios, IHME, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220128/output/merge/graph%2091a%20COVID-19%20daily%20Infection%20outcomes%20ratios%2C%20Canada%2C%20National%202%20scenarios%2C%20IHME.pdf)
-
-![image](https://user-images.githubusercontent.com/30849720/151642653-a8d52374-46bb-4549-b059-702d7a3e347f.png)
-
-*
-
-**uptake 20220121**: **_DELP 20220121_**, **_IHME 20220121_**, IMPE 20220102, **_SRIV 20220119_**, PHAC 20220114
-
-(11) Canada [Daily Infection-outcomes ratios, 2 scenarios, IHME, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220121/output/merge/graph%2091a%20COVID-19%20daily%20Infection%20outcomes%20ratios%2C%20Canada%2C%20National%202%20scenarios%2C%20IHME.pdf)
-
-![image](https://user-images.githubusercontent.com/30849720/150689750-dcde05b2-1f24-4899-ba03-4b2b8d0d7bbd.png)
-
-*
-
-**uptake 20220114**: **_DELP 2022014_**, **_IHME 20220114_**, **_IMPE 20220102_**, **_SRIV 20220113_**, **_PHAC 20220114_**
-
-(11) Canada [Daily Infection-outcomes ratios, 2 scenarios, IHME, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220114/output/merge/main/graph%2091a%20COVID-19%20daily%20Infection%20outcomes%20ratios%2C%20Canada%2C%20National%202%20scenarios%2C%20IHME.pdf)
-
-![image](https://user-images.githubusercontent.com/30849720/149647569-f2601c4d-b258-487b-9147-a20207e2921b.png)
-
-*
-
-**uptake 20220110**: **_DELP 20220110_**, **_IHME 20220110_**, IMPE 20211213, **_SRIV 20220110_**
-
-(11) Canada [Daily Infection-outcomes ratios, 3 scenarios, IHME, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220110/output/merge/main/graph%2091a%20COVID-19%20daily%20Infection%20outcomes%20ratios%2C%20Canada%2C%20National%203%20scenarios%2C%20IHME.pdf)
-
-![image](https://user-images.githubusercontent.com/30849720/148998992-0abb0c0a-8cb6-4613-ae16-4b7d7ba8155e.png)
-
-*
-
-**uptake 20220104**: **_DELP 20220104_**, IHME 20211221, **_IMPE 20211213_**, **_SRIV 20220104_**
-
-(11) Canada [Daily Infection-outcomes ratios, 3 scenarios, IHME, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220104/output/merge/main/graph%2091a%20COVID-19%20daily%20Infection%20outcomes%20ratios%2C%20Canada%2C%20National%203%20scenarios%2C%20IHME.pdf)
-
-![image](https://user-images.githubusercontent.com/30849720/148167547-fabf355d-d76e-41ce-81fa-95721fc0a966.png)
 
 *
 
