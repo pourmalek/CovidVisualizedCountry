@@ -116,7 +116,9 @@ Reported daily deaths have stopped decreasing after their recent decrease at the
 
 ****
 
-(8) Canada National [Daily Infection hospitalization and fatality ratios, Reference scenario, IHME, 2021 on]()
+(8) Canada National [Daily Infection hospitalization and fatality ratios, Reference scenario, IHME, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220311/output/merge/graph%2091a2%20COVID-19%20daily%20Infection%20outcomes%20ratios%2C%20Canada%2C%20National%203%20scenarios%2C%20IHME.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/160250878-7d1f6364-abdc-4ad2-b010-947ac4c1a28c.png)
 
 ****
 
