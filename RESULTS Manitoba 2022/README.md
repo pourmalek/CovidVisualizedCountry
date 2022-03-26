@@ -20,7 +20,9 @@
 
 **uptake 20220325**: **_DELP 20220325_**, **_IHME 20220322_**, IMPE 20220120, **_SRIV 20220325_**
 
+(1) Manitoba [Daily deaths, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220325/output/SUB1%2011bDayDeaMERGsub%20alltime%20Manitoba%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/160244048-6f3a5154-60d0-4dd4-8ca6-6675bedb0dc5.png)
 
 *
 
@@ -142,7 +144,9 @@
 
 **uptake 20220325**: **_DELP 20220325_**, **_IHME 20220322_**, IMPE 20220120, **_SRIV 20220325_**
 
+(2) Manitoba [Daily deaths, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220325/output/SUB2%2012bDayDeaMERGsub%202021%20Manitoba%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/160244069-4658c9f9-412e-4ad6-85df-ae2aa3a6a1f0.png)
 
 *
 
@@ -260,7 +264,9 @@
 
 **uptake 20220325**: **_DELP 20220325_**, **_IHME 20220322_**, IMPE 20220120, **_SRIV 20220325_**
 
+(3) Manitoba [Daily cases or infections, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220325/output/SUB4%2031bDayCasMERGsub%20alltime%20Manitoba%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/160244096-4dedaac4-9e60-46fe-9618-386fe443293d.png)
 
 *
 
@@ -383,7 +389,9 @@
 
 **uptake 20220325**: **_DELP 20220325_**, **_IHME 20220322_**, IMPE 20220120, **_SRIV 20220325_**
 
+(4) Manitoba [Daily cases or infections, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220325/output/SUB5%2032bDayCasMERGsub%202021%20Manitoba%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/160244132-21e5f3e4-0b83-4633-b432-5c7747ba18aa.png)
 
 *
 
