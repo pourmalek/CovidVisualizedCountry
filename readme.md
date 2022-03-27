@@ -12,9 +12,10 @@
 [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/5197/badge)](https://bestpractices.coreinfrastructure.org/projects/5197)
 
 
-### Combine and visualize international periodically updated estimates of COVID-19 pandemic 
+### Combine and visualize predictions of international periodically updated COVID-19 pandemic models
 
-### <div align="center"> at the at the country level, countries with subnational level estimates 
+
+### <div align="center"> for countries with subnational level estimates
   
 ## <div align="center"> Canada :canada:
   
