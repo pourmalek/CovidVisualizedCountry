@@ -4,6 +4,36 @@
 ****  
 
 
+### (a) Reported deaths and cases via JOHN
+
+### (b) IHME model’s predictions for provinces together
+
+
+**** 
+**** 
+
+### (a) Reported deaths and cases via JOHN
+
+here
+
+
+
+
+
+
+
+
+
+
+
+**** 
+**** 
+
+### (a) Reported deaths and cases via JOHN
+
+The IHME and DELP models provide predictions for subnational levels. Below are the IHME model’s predictions for provinces together.  
+
+****
 
 
   
