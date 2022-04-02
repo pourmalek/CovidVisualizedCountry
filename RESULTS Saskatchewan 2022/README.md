@@ -141,7 +141,7 @@
 
 
 
-#### graph (3) Saskatchewan - Daily deaths, 3 scenarios, 2021 on
+#### graph (2) Saskatchewan - Daily deaths, 3 scenarios, 2021 on
   
 ****
 ****
@@ -272,7 +272,7 @@
 
 
 
-#### graph (4) Saskatchewan - Daily cases or infections, reference scenarios, all time
+#### graph (3) Saskatchewan - Daily cases or infections, reference scenarios, all time
   
 ****
 ****
@@ -405,7 +405,7 @@
 
 
 
-#### graph (6) Saskatchewan - Daily cases or infections, 3 scenarios, 2021 on
+#### graph (4) Saskatchewan - Daily cases or infections, 3 scenarios, 2021 on
   
 ****
 ****
