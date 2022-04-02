@@ -3,8 +3,28 @@
 **** 
 ****  
 
-
 ### (a) [Reported deaths and cases via JOHN](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS%20CANADA,%20provinces%202022/README.md#a-reported-deaths-and-cases-via-john-1)
+
+Daily reported deaths:
+
+graph (1) Canada, provinces - [Daily reported deaths, JOHN, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS%20CANADA,%20provinces%202022/README.md#graph-1-canada-provinces---daily-reported-deaths-john-2020-on)
+
+graph (2) Canada, provinces - [Daily reported deaths, JOHN, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS%20CANADA,%20provinces%202022/README.md#graph-2-canada-provinces---daily-reported-deaths-john-2021-on)
+
+graph (3) Canada, provinces - [Daily reported deaths, JOHN, 2022](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS%20CANADA,%20provinces%202022/README.md#graph-3-canada-provinces---daily-reported-deaths-john-2022)
+
+graph (4) Canada, provinces - [Daily reported deaths, without National, Ontario, and Quebec, JOHN, 2022](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS%20CANADA,%20provinces%202022/README.md#graph-4-canada-provinces---daily-reported-deaths-without-national-ontario-and-quebec-john-2022)
+
+Daily reported cases:
+
+graph (5) Canada, provinces - [Daily reported cases, JOHN, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS%20CANADA,%20provinces%202022/README.md#graph-5-canada-provinces---daily-reported-cases-john-2020-on)
+
+graph (6) Canada, provinces - [Daily reported cases, JOHN, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS%20CANADA,%20provinces%202022/README.md#graph-6-canada-provinces---daily-reported-cases-john-2021-on)
+
+
+
+
+<br/><br/>
 
 ### (b) [IHME model’s predictions for provinces together](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS%20CANADA,%20provinces%202022/README.md#b-ihme-models-predictions-for-provinces-together-1)
 
@@ -171,6 +191,14 @@
 
 
 
+**** 
+****
+
+#### graph (7) Canada, provinces - Daily reported cases, JOHN, 2022
+
+
+
+
 *
 
 **uptake 20220401**: **_DELP 20220328_**, **_IHME 20220322_**, **_IMPE 20220131_**, **_SRIV 20220401_**
@@ -186,6 +214,16 @@
 
 
 
+
+
+
+
+
+
+**** 
+****
+
+#### graph (8) Canada, provinces - Daily reported cases, without National, Ontario, and Quebec, JOHN, 2022
 
 
 
