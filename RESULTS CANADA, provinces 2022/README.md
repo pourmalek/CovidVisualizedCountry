@@ -33,8 +33,23 @@ graph (8) Canada, provinces - [Daily reported cases, without National, Ontario, 
 
 ### (b) [IHME model’s predictions for provinces together](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS%20CANADA,%20provinces%202022/README.md#b-ihme-models-predictions-for-provinces-together-1)
 
+Predicted daily deaths:
 
+graph (9) Canada, provinces - [Daily deaths, reference scenarios, IHME, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS%20CANADA,%20provinces%202022/README.md#graph-9-canada-provinces---daily-deaths-reference-scenarios-ihme-2020-on)
 
+graph (10) Canada, provinces - [Daily reported deaths, reference scenarios, IHME, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS%20CANADA,%20provinces%202022/README.md#graph-10-canada-provinces---daily-reported-deaths-reference-scenarios-ihme-2021-on)
+
+graph (11) Canada, provinces - [Daily reported deaths, reference scenarios, IHME, 2022](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS%20CANADA,%20provinces%202022/README.md#graph-11-canada-provinces---daily-reported-deaths-reference-scenarios-ihme-2022)
+
+<br/><br/>
+
+Predicted daily infections:
+
+graph (12) Canada, provinces - [Daily infections, reference scenarios, IHME, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS%20CANADA,%20provinces%202022/README.md#graph-12-canada-provinces---daily-infections-reference-scenarios-ihme-2020-on)
+
+graph (13) Canada, provinces - [Daily infections, reference scenarios, IHME, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS%20CANADA,%20provinces%202022/README.md#graph-13-canada-provinces---daily-infections-reference-scenarios-ihme-2021-on)
+
+graph (14) Canada, provinces - [Daily infections, reference scenarios, IHME, 2022](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS%20CANADA,%20provinces%202022/README.md#graph-14-canada-provinces---daily-infections-reference-scenarios-ihme-2022)
 
 
 **** 
