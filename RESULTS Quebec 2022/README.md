@@ -152,7 +152,7 @@ graph (4) Quebec - [Daily cases or infections, 3 scenarios, 2021 on](https://git
 ****
 ****
     
-#### graph (3) Quebec - Daily deaths, 3 scenarios, 2021 on
+#### graph (2) Quebec - Daily deaths, 3 scenarios, 2021 on
   
   
   
@@ -281,7 +281,7 @@ graph (4) Quebec - [Daily cases or infections, 3 scenarios, 2021 on](https://git
 ****
 ****
     
-#### graph (4) Quebec - Daily cases or infections, reference scenarios, all time
+#### graph (3) Quebec - Daily cases or infections, reference scenarios, all time
   
   
   
@@ -415,7 +415,7 @@ graph (4) Quebec - [Daily cases or infections, 3 scenarios, 2021 on](https://git
 ****
 ****
     
-#### graph (6) Quebec - Daily cases or infections, 3 scenarios, 2021 on
+#### graph (4) Quebec - Daily cases or infections, 3 scenarios, 2021 on
   
   
   
