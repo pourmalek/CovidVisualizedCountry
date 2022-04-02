@@ -2,6 +2,35 @@
   
 **** 
 ****  
+
+graph (1) Canada - [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20CANADA%2C%20national%202022#graph-1-canada---daily-deaths-reference-scenarios-all-time)
+
+graph (2) Canada - [Daily deaths, reference scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20CANADA%2C%20national%202022#graph-2-canada---daily-deaths-reference-scenarios-2021)
+
+graph (3) Canada - [Daily deaths, reference and alternate scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20CANADA%2C%20national%202022#graph-3-canada---daily-deaths-reference-and-alternate-scenarios-2021-on)
+
+graph (4) Canada - [Daily cases or infections, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20CANADA%2C%20national%202022#graph-4-canada---daily-cases-or-infections-reference-scenarios-all-time)
+
+graph (5) Canada - [Daily cases or infections, reference scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20CANADA%2C%20national%202022#graph-5-canada---daily-cases-or-infections-reference-scenarios-2021-on)
+
+graph (6) Canada - [Daily cases or infections, reference and alternate scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20CANADA%2C%20national%202022#graph-6-canada---daily-cases-or-infections-reference-and-alternate-scenarios-2021-on)
+
+graph (7) Canada - [Hospital-related outcomes, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20CANADA%2C%20national%202022#graph-7-canada---hospital-related-outcomes-reference-scenarios-all-time)
+
+graph (8) Canada - [Hospital-related outcomes, reference scenarios, 2021 on, without IHME Bed need and IMPE Hospital demand](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20CANADA%2C%20national%202022#graph-8-canada---hospital-related-outcomes-reference-scenarios-2021-on-without-ihme-bed-need-and-impe-hospital-demand)
+
+graph (9) Canada - [Daily deaths estimated to reported, reference scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20CANADA%2C%20national%202022#graph-9-canada---daily-deaths-estimated-to-reported-reference-scenarios-2021-on)
+
+graph (10) Canada - [Daily cases or infections estimated to reported, reference scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20CANADA%2C%20national%202022#graph-10-canada---daily-cases-or-infections-estimated-to-reported-reference-scenarios-2021-on)
+
+graph (11) Canada - [Daily Infection-outcomes ratios, IHME, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20CANADA%2C%20national%202022#graph-11-canada---daily-infection-outcomes-ratios-ihme-2021-on)
+
+graph (12) Canada - [Daily mask use, reference and alternate scenarios, all time, IHME](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20CANADA%2C%20national%202022#graph-12-canada---daily-mask-use-reference-and-alternate-scenarios-all-time-ihme)
+
+graph (13) Canada - [Percent cumulative vaccinated, reference scenario, 2021 on, IHME](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20CANADA%2C%20national%202022#graph-13-canada---percent-cumulative-vaccinated-reference-scenario-2021-on-ihme)
+
+**** 
+****  
   
 #### graph (1) Canada - Daily deaths, reference scenarios, all time
   
