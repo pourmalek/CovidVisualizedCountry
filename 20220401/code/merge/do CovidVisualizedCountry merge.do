@@ -706,7 +706,7 @@ twoway ///
 (line DayDeXMeSmA02S01 date, sort lcolor(brown) lwidth(medthick)) /// 5 "IHME excess"
 (line DayDeaMeRaA03S02 date, sort lcolor(magenta)) /// 6 "IMPE"
 (line DayDeaMeRaA05S00 date, sort lcolor(green)) /// 7 "SRIV"
-if date >= td(01jan2020) & provincestate == " National" & DayDeaMeSmA00S00 >= 0 ///
+if date >= td(01jan2020) & provincestate == " National" & DayDeaMeRaA00S00 >= 0 ///
 , xtitle(Date) xlabel(#$monthspast01jan2020merge, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily deaths) title("COVID-19 daily deaths, $country, National", size(medium)) /// 
@@ -732,7 +732,7 @@ twoway ///
 (line DayDeaMeSmA01S00 date, sort lcolor(red) lwidth(medthick)) /// 4 "DELP smooth"
 (line DayDeaMeSmA02S01 date, sort lcolor(black)) /// 5 "IHME"
 (line DayDeXMeSmA02S01 date, sort lcolor(brown) lwidth(medthick)) /// 6 "IHME excess"
-if date >= td(01jan2020) & provincestate == "`l'" & DayDeaMeSmA00S00 >= 0 ///
+if date >= td(01jan2020) & provincestate == "`l'" & DayDeaMeRaA00S00 >= 0 ///
 , xtitle(Date) xlabel(#$monthspast01jan2020merge, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily deaths) title("COVID-19 daily deaths, $country, `l'", size(medium)) /// 
@@ -754,7 +754,7 @@ twoway ///
 (line DayDeaMeSmA00S00XNB date, sort lcolor(cyan*1.2) lwidth(thick)) /// 2 "JOHN smooth"
 (line DayDeaMeRaA01S00XNB date, sort lcolor(red*0.3) lwidth(medium) lpattern(tight_dot)) /// 3 "DELP raw"
 (line DayDeaMeSmA01S00XNB date, sort lcolor(red) lwidth(medthick)) /// 4 "DELP smooth"
-if date >= td(01jan2020) & provincestate == "New Brunswick" & DayDeaMeSmA00S00XNB >= 0 ///
+if date >= td(01jan2020) & provincestate == "New Brunswick" & DayDeaMeRaA00S00XNB >= 0 ///
 , xtitle(Date) xlabel(#$monthspast01jan2020merge, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.1fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily deaths) title("COVID-19 daily deaths, $country, New Brunswick", size(medium)) /// 
@@ -775,7 +775,7 @@ twoway ///
 (line DayDeaMeSmA00S00XNL date, sort lcolor(cyan*1.2) lwidth(thick)) /// 2 "JOHN smooth"
 (line DayDeaMeRaA01S00XNL date, sort lcolor(red*0.3) lwidth(medium) lpattern(tight_dot)) /// 3 "DELP raw"
 (line DayDeaMeSmA01S00XNL date, sort lcolor(red) lwidth(medthick)) /// 4 "DELP smooth"
-if date >= td(01jan2020) & provincestate == "Newfoundland and Labrador"  & DayDeaMeSmA00S00XNL >= 0 ///
+if date >= td(01jan2020) & provincestate == "Newfoundland and Labrador"  & DayDeaMeRaA00S00XNL >= 0 ///
 , xtitle(Date) xlabel(#$monthspast01jan2020merge, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.1fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily deaths) title("COVID-19 daily deaths, $country, Newfoundland and Labrador", size(medium)) /// 
@@ -801,7 +801,7 @@ twoway ///
 (line DayDeXMeSmA02S01 date, sort lcolor(brown) lwidth(medthick)) /// 5 "IHME excess"
 (line DayDeaMeRaA03S02 date, sort lcolor(magenta)) /// 6 "IMPE"
 (line DayDeaMeRaA05S00 date, sort lcolor(green)) /// 7 "SRIV"
-if date >= td(01jan2021) & provincestate == " National" & DayDeaMeSmA00S00 >= 0 ///
+if date >= td(01jan2021) & provincestate == " National" & DayDeaMeRaA00S00 >= 0 ///
 , xtitle(Date) xlabel(#$monthspast01jan2021merge, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily deaths) title("COVID-19 daily deaths, $country, National", size(medium)) /// 
@@ -829,7 +829,7 @@ twoway ///
 (line DayDeaMeSmA01S00 date, sort lcolor(red) lwidth(medthick)) /// 4 "DELP smooth"
 (line DayDeaMeSmA02S01 date, sort lcolor(black)) /// 5 "IHME"
 (line DayDeXMeSmA02S01 date, sort lcolor(brown) lwidth(medthick)) /// 6 "IHME excess"
-if date >= td(01jan2021) & provincestate == "`l'" & DayDeaMeSmA00S00 >= 0 ///
+if date >= td(01jan2021) & provincestate == "`l'" & DayDeaMeRaA00S00 >= 0 ///
 , xtitle(Date) xlabel(#$monthspast01jan2021merge, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily deaths) title("COVID-19 daily deaths, $country, `l'", size(medium)) /// 
@@ -864,7 +864,7 @@ twoway ///
 (line DayDeaMeRaA05S00 date, sort lcolor(green)) /// 12 "SRIV" mean
 (line DayDeaLoRaA05S00 date, sort lcolor(green) lpattern(dash)) /// 13 "SRIV" lower
 (line DayDeaUpRaA05S00 date, sort lcolor(green) lpattern(dash)) /// 14 "SRIV" upper
-if date >= td(01jan2021) & provincestate == " National" & DayDeaMeSmA00S00 >= 0 ///
+if date >= td(01jan2021) & provincestate == " National" & DayDeaMeRaA00S00 >= 0 ///
 , xtitle(Date) xlabel(#$monthspast01jan2021merge, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily deaths) title("COVID-19 daily deaths, $country, National", size(medium)) ///
@@ -900,7 +900,7 @@ twoway ///
 (line DayDeaMeRaA05S00 date, sort lcolor(green)) /// 15 "SRIV" mean
 (line DayDeaLoRaA05S00 date, sort lcolor(green) lpattern(dash)) /// 16 "SRIV" lower
 (line DayDeaUpRaA05S00 date, sort lcolor(green) lpattern(dash)) /// 17 "SRIV" upper
-if date >= td(01jan2021) & provincestate == " National" & DayDeaMeSmA00S00 >= 0 ///
+if date >= td(01jan2021) & provincestate == " National" & DayDeaMeRaA00S00 >= 0 ///
 , xtitle(Date) xlabel(#$monthspast01jan2021merge, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily deaths) title("COVID-19 daily deaths, $country, National", size(medium)) ///
@@ -933,7 +933,7 @@ twoway ///
 (line DayDeaMeSmA02S01 date, sort lcolor(black)) /// 7 IHME mean
 (line DayDeaLoSmA02S01 date, sort lcolor(black) lpattern(dash)) /// 8 IHME lower
 (line DayDeaUpSmA02S01 date, sort lcolor(black) lpattern(dash)) /// 9 IHME upper
-if date >= td(01jan2021) & provincestate == "`l'" & DayDeaMeSmA00S00 >= 0 ///
+if date >= td(01jan2021) & provincestate == "`l'" & DayDeaMeRaA00S00 >= 0 ///
 , xtitle(Date) xlabel(#$monthspast01jan2021merge, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily deaths) title("COVID-19 daily deaths, $country, `l'", size(medium)) ///
@@ -972,7 +972,7 @@ twoway ///
 (line DayDeXMeSmA02S01 date, sort lcolor(brown) lwidth(medthick)) /// 10 IHME excess mean
 (line DayDeXLoSmA02S01 date, sort lcolor(brown) lwidth(medthick) lpattern(dash)) /// 11 IHME excess lower
 (line DayDeXUpSmA02S01 date, sort lcolor(brown) lwidth(medthick) lpattern(dash)) /// 12 IHME excess upper
-if date >= td(01jan2021) & provincestate == "`l'" & DayDeaMeSmA00S00 >= 0 ///
+if date >= td(01jan2021) & provincestate == "`l'" & DayDeaMeRaA00S00 >= 0 ///
 , xtitle(Date) xlabel(#$monthspast01jan2021merge, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily deaths) title("COVID-19 daily deaths, $country, `l'", size(medium)) ///
@@ -1003,7 +1003,7 @@ twoway ///
 (line DayDeaMeRaA03S02 date, sort lcolor(magenta)) /// 6 IMPE mean, reference scenario
 (line DayDeaMeRaA03S01 date, sort lcolor(magenta) lwidth(thick) lpattern(tight_dot)) /// 7 IMPE mean, better scenario
 (line DayDeaMeRaA03S03 date, sort lcolor(magenta) lwidth(thick) lpattern(tight_dot)) /// 8 IMPE mean, worse scenario
-if date >= td(01jan2021) & provincestate == " National" & DayDeaMeSmA00S00 >= 0 ///
+if date >= td(01jan2021) & provincestate == " National" & DayDeaMeRaA00S00 >= 0 ///
 , xtitle(Date) xlabel(#$monthspast01jan2021merge, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily deaths) title("COVID-19 daily deaths, $country, National", size(medium)) ///
@@ -1033,7 +1033,7 @@ twoway ///
 (line DayDeaMeRaA03S02 date, sort lcolor(magenta)) /// 9 IMPE mean, reference scenario
 (line DayDeaMeRaA03S01 date, sort lcolor(magenta) lwidth(thick) lpattern(tight_dot)) /// 10 IMPE mean, better scenario
 (line DayDeaMeRaA03S03 date, sort lcolor(magenta) lwidth(thick) lpattern(tight_dot)) /// 11 IMPE mean, worse scenario
-if date >= td(01jan2021) & provincestate == " National" & DayDeaMeSmA00S00 >= 0 ///
+if date >= td(01jan2021) & provincestate == " National" & DayDeaMeRaA00S00 >= 0 ///
 , xtitle(Date) xlabel(#$monthspast01jan2021merge, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily deaths) title("COVID-19 daily deaths, $country, National", size(medium)) ///
@@ -1059,7 +1059,7 @@ twoway ///
 (line DayDeaMeSmA02S01 date, sort lcolor(black)) /// 3 IHME mean, reference scenario
 (line DayDeaMeSmA02S02 date, sort lcolor(black) lwidth(thick) lpattern(tight_dot)) /// 4 IHME mean, better scenario
 (line DayDeaMeSmA02S03 date, sort lcolor(black) lwidth(thick) lpattern(tight_dot)) /// 5 IHME mean, worse scenario
-if date >= td(01jan2021) & provincestate == "`l'" & DayDeaMeSmA00S00 >= 0 ///
+if date >= td(01jan2021) & provincestate == "`l'" & DayDeaMeRaA00S00 >= 0 ///
 , xtitle(Date) xlabel(#$monthspast01jan2021merge, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily deaths) title("COVID-19 daily deaths, $country, `l'", size(medium)) ///
@@ -1093,7 +1093,7 @@ twoway ///
 (line DayDeXMeSmA02S01 date, sort lcolor(brown) lwidth(medthick)) /// 6 IHME excess mean, reference scenario
 (line DayDeXMeSmA02S02 date, sort lcolor(brown) lwidth(thick) lpattern(tight_dot)) /// 7 IHME excess mean, better scenario
 (line DayDeXMeSmA02S03 date, sort lcolor(brown) lwidth(thick) lpattern(tight_dot)) /// 8 IHME excess mean, worse scenario
-if date >= td(01jan2021) & provincestate == "`l'" & DayDeaMeSmA00S00 >= 0 ///
+if date >= td(01jan2021) & provincestate == "`l'" & DayDeaMeRaA00S00 >= 0 ///
 , xtitle(Date) xlabel(#$monthspast01jan2021merge, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily deaths) title("COVID-19 daily deaths, $country, `l'", size(medium)) ///
@@ -1119,7 +1119,7 @@ twoway ///
 (line DayDeaMeSmA02S01 date, sort lcolor(black)) /// 3 IHME reference mean
 (line DayDeaLoSmA02S01 date, sort lcolor(green) lpattern(dash)) /// 4 IHME reference lower
 (line DayDeaUpSmA02S01 date, sort lcolor(red) lpattern(dash)) /// 5 IHME reference upper
-if date >= td(01jan2021) & provincestate == " National" & DayDeaMeSmA00S00 >= 0 ///
+if date >= td(01jan2021) & provincestate == " National" & DayDeaMeRaA00S00 >= 0 ///
 , xtitle(Date) xlabel(#$monthspast01jan2021merge, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%12.0fc) labsize(small)) ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily deaths) title("COVID-19 daily deaths, $country, National", size(medium)) ///
@@ -1146,7 +1146,7 @@ twoway ///
 (line DayDeXMeSmA02S01 date, sort lcolor(brown) lwidth(medthick)) /// 6 IHME excess mean, reference scenario
 (line DayDeXLoSmA02S01 date, sort lcolor(brown) lwidth(medthick) lpattern(dash)) /// 7 IHME excess lower, reference scenario
 (line DayDeXUpSmA02S01 date, sort lcolor(brown) lwidth(medthick) lpattern(dash)) /// 8 IHME excess upper, reference scenario
-if date >= td(01jan2021) & provincestate == " National" & DayDeaMeSmA00S00 >= 0 ///
+if date >= td(01jan2021) & provincestate == " National" & DayDeaMeRaA00S00 >= 0 ///
 , xtitle(Date) xlabel(#$monthspast01jan2021merge, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%12.0fc) labsize(small)) ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily deaths) title("COVID-19 daily deaths, $country, National", size(medium)) ///
@@ -1175,7 +1175,7 @@ twoway ///
 (line DayDeaMeSmA02S01 date, sort lcolor(black)) /// 3 IHME reference mean
 (line DayDeaLoSmA02S01 date, sort lcolor(green) lpattern(dash)) /// 4 IHME reference lower
 (line DayDeaUpSmA02S01 date, sort lcolor(red) lpattern(dash)) /// 5 IHME reference upper
-if date >= td(01jan2021) & provincestate == "`l'" & DayDeaMeSmA00S00 >= 0 ///
+if date >= td(01jan2021) & provincestate == "`l'" & DayDeaMeRaA00S00 >= 0 ///
 , xtitle(Date) xlabel(#$monthspast01jan2021merge, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%12.0fc) labsize(small)) ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily deaths) title("COVID-19 daily deaths, $country, `l'", size(medium)) ///
@@ -1209,7 +1209,7 @@ twoway ///
 (line DayDeXMeSmA02S01 date, sort lcolor(brown) lwidth(medthick)) /// 6 IHME excess mean, reference scenario
 (line DayDeXLoSmA02S01 date, sort lcolor(brown) lwidth(medthick) lpattern(dash)) /// 7 IHME excess lower, reference scenario
 (line DayDeXUpSmA02S01 date, sort lcolor(brown) lwidth(medthick) lpattern(dash)) /// 8 IHME excess upper, reference scenario
-if date >= td(01jan2021) & provincestate == "`l'" & DayDeaMeSmA00S00 >= 0 ///
+if date >= td(01jan2021) & provincestate == "`l'" & DayDeaMeRaA00S00 >= 0 ///
 , xtitle(Date) xlabel(#$monthspast01jan2021merge, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%12.0fc) labsize(small)) ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily deaths) title("COVID-19 daily deaths, $country, `l'", size(medium)) ///
@@ -1236,7 +1236,7 @@ twoway ///
 (line DayDeaMeSmA02S02 date, sort lcolor(green) lwidth(thick) lpattern(tight_dot)) /// 4 IHME better mean
 (line DayDeaMeSmA02S03 date, sort lcolor(red) lwidth(thick) lpattern(tight_dot)) /// 5 IHME worse mean
 (line DayDeaUpSmA02S03 date, sort lcolor(red) lpattern(dash)) /// 6 IHME worse upper
-if date >= td(01jan2021) & provincestate == " National" & DayDeaMeSmA00S00 >= 0 ///
+if date >= td(01jan2021) & provincestate == " National" & DayDeaMeRaA00S00 >= 0 ///
 , xtitle(Date) xlabel(#$monthspast01jan2021merge, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%12.0fc) labsize(small)) ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily deaths) title("COVID-19 daily deaths, $country, National", size(medium)) ///
@@ -1263,7 +1263,7 @@ twoway ///
 (line DayDeXMeSmA02S01 date, sort lcolor(brown) lwidth(medthick)) /// 6 IHME excess mean, reference scenario
 (line DayDeXMeSmA02S03 date, sort lcolor(brown) lwidth(thick) lpattern(tight_dot)) /// 7 IHME excess mean, worse scenario
 (line DayDeXUpSmA02S03 date, sort lcolor(brown) lwidth(medthick) lpattern(dash)) /// 8 IHME excess upper, worse scenario
-if date >= td(01jan2021) & provincestate == " National" & DayDeaMeSmA00S00 >= 0 ///
+if date >= td(01jan2021) & provincestate == " National" & DayDeaMeRaA00S00 >= 0 ///
 , xtitle(Date) xlabel(#$monthspast01jan2021merge, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%12.0fc) labsize(small)) ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily deaths) title("COVID-19 daily deaths, $country, National", size(medium)) ///
@@ -1294,7 +1294,7 @@ twoway ///
 (line DayDeaMeSmA02S02 date, sort lcolor(green) lwidth(thick) lpattern(tight_dot)) /// 4 IHME better mean
 (line DayDeaMeSmA02S03 date, sort lcolor(red) lwidth(thick) lpattern(tight_dot)) /// 5 IHME worse mean
 (line DayDeaUpSmA02S03 date, sort lcolor(red) lpattern(dash)) /// 6 IHME worse upper
-if date >= td(01jan2021) & provincestate == "`l'" & DayDeaMeSmA00S00 >= 0 ///
+if date >= td(01jan2021) & provincestate == "`l'" & DayDeaMeRaA00S00 >= 0 ///
 , xtitle(Date) xlabel(#$monthspast01jan2021merge, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%12.0fc) labsize(small)) ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily deaths) title("COVID-19 daily deaths, $country, `l'", size(medium)) ///
@@ -1328,7 +1328,7 @@ twoway ///
 (line DayDeXMeSmA02S01 date, sort lcolor(brown) lwidth(medthick)) /// 6 IHME excess mean, reference scenario
 (line DayDeXMeSmA02S03 date, sort lcolor(brown) lwidth(thick) lpattern(tight_dot)) /// 7 IHME excess mean, worse scenario
 (line DayDeXUpSmA02S03 date, sort lcolor(brown) lwidth(medthick) lpattern(dash)) /// 8 IHME excess upper, worse scenario
-if date >= td(01jan2021) & provincestate == "`l'" & DayDeaMeSmA00S00 >= 0 ///
+if date >= td(01jan2021) & provincestate == "`l'" & DayDeaMeRaA00S00 >= 0 ///
 , xtitle(Date) xlabel(#$monthspast01jan2021merge, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%12.0fc) labsize(small)) ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily deaths) title("COVID-19 daily deaths, $country, `l'", size(medium)) ///
@@ -1358,7 +1358,7 @@ twoway ///
 (line DayDeaMeRaA03S02 date, sort lcolor(black)) /// 3 IMPE reference mean
 (line DayDeaLoRaA03S02 date, sort lcolor(green) lpattern(dash)) /// 4 IMPE reference lower
 (line DayDeaUpRaA03S02 date, sort lcolor(red) lpattern(dash)) /// 5 IMPE reference upper
-if date >= td(01jan2021) & provincestate == " National" & DayDeaMeSmA00S00 >= 0 ///
+if date >= td(01jan2021) & provincestate == " National" & DayDeaMeRaA00S00 >= 0 ///
 , xtitle(Date) xlabel(#$monthspast01jan2021merge, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%12.0fc) labsize(small)) ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily deaths) title("COVID-19 daily deaths, $country, National", size(medium)) ///
@@ -1393,7 +1393,7 @@ twoway ///
 (line DayDeaMeRaA03S01 date, sort lcolor(green) lwidth(thick) lpattern(tight_dot)) /// 4 IMPE better mean
 (line DayDeaMeRaA03S03 date, sort lcolor(red) lwidth(thick) lpattern(tight_dot)) /// 5 IMPE worse mean
 (line DayDeaUpRaA03S03 date, sort lcolor(red) lpattern(dash)) /// 6 IMPE worse upper
-if date >= td(01jan2021) & provincestate == " National" & DayDeaMeSmA00S00 >= 0 ///
+if date >= td(01jan2021) & provincestate == " National" & DayDeaMeRaA00S00 >= 0 ///
 , xtitle(Date) xlabel(#$monthspast01jan2021merge, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%12.0fc) labsize(small)) ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily deaths) title("COVID-19 daily deaths, $country, National", size(medium)) ///
@@ -1442,7 +1442,7 @@ twoway ///
 (line DayINFMeSmA02S01 date, sort lcolor(black)) /// 4 "IHME"
 (line DayINFMeRaA03S02 date, sort lcolor(magenta)) /// 5 "IMPE"
 (line DayCasMeRaA05S00 date, sort lcolor(green)) /// 6 "SRIV"
-if date >= td(01jan2020) & provincestate == " National" & DayCasMeSmA00S00 >= 0 ///
+if date >= td(01jan2020) & provincestate == " National" & DayCasMeRaA00S00 >= 0 ///
 , xtitle(Date) xlabel(#$monthspast01jan2020merge, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily cases or infections) title("COVID-19 daily cases or infections, $country, National", size(medium)) /// 
@@ -1723,7 +1723,7 @@ twoway ///
 (line DayCasMeRaA01S00 date, sort lcolor(red*0.8) lwidth(medium) lpattern(tight_dot)) /// 3 "DELP raw"
 (line DayCasMeSmA01S00 date, sort lcolor(red) lwidth(medthick)) /// 4 "DELP smooth"
 (line DayINFMeSmA02S01 date, sort lcolor(black)) /// 5 "IHME"
-if date >= td(01jan2020) & provincestate == "`l'" & DayCasMeSmA00S00 >= 0 ///
+if date >= td(01jan2020) & provincestate == "`l'" & DayCasMeRaA00S00 >= 0 ///
 , xtitle(Date) xlabel(#$monthspast01jan2020merge, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily cases or infections) title("COVID-19 daily cases or infections, $country, `l'", size(medium)) /// 
@@ -1746,7 +1746,7 @@ twoway ///
 (line DayCasMeSmA00S00XNB date, sort lcolor(cyan*1.2) lwidth(thick)) /// 2 "JOHN smooth"
 (line DayCasMeRaA01S00XNB date, sort lcolor(red*0.3) lwidth(medium) lpattern(tight_dot)) /// 3 "DELP raw"
 (line DayCasMeSmA01S00XNB date, sort lcolor(red) lwidth(medthick)) /// 4 "DELP smooth"
-if date >= td(01jan2020) & provincestate == "New Brunswick" & DayCasMeSmA00S00XNB >= 0 ///
+if date >= td(01jan2020) & provincestate == "New Brunswick" & DayCasMeRaA00S00XNB >= 0 ///
 , xtitle(Date) xlabel(#$monthspast01jan2020merge, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily cases) title("COVID-19 daily cases, $country, New Brunswick", size(medium)) /// 
@@ -1767,7 +1767,7 @@ twoway ///
 (line DayCasMeSmA00S00XNL date, sort lcolor(cyan*1.2) lwidth(thick)) /// 2 "JOHN smooth"
 (line DayCasMeRaA01S00XNL date, sort lcolor(red*0.3) lwidth(medium) lpattern(tight_dot)) /// 3 "DELP raw"
 (line DayCasMeSmA01S00XNL date, sort lcolor(red) lwidth(medthick)) /// 4 "DELP smooth"
-if date >= td(01jan2020) & provincestate == "Newfoundland and Labrador" & DayCasMeSmA00S00XNL >= 0 ///
+if date >= td(01jan2020) & provincestate == "Newfoundland and Labrador" & DayCasMeRaA00S00XNL >= 0 ///
 , xtitle(Date) xlabel(#$monthspast01jan2020merge, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily cases) title("COVID-19 daily cases, $country, Newfoundland and Labrador", size(medium)) /// 
@@ -1794,7 +1794,7 @@ twoway ///
 (line DayINFMeSmA02S01 date, sort lcolor(black)) /// 4 "IHME"
 (line DayINFMeRaA03S02 date, sort lcolor(magenta)) /// 5 "IMPE"
 (line DayCasMeRaA05S00 date, sort lcolor(green)) /// 6 "SRIV"
-if date >= td(01jan2021) & provincestate == " National" & DayCasMeSmA00S00 >= 0 ///
+if date >= td(01jan2021) & provincestate == " National" & DayCasMeRaA00S00 >= 0 ///
 , xtitle(Date) xlabel(#$monthspast01jan2021merge, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily cases or infections) title("COVID-19 daily cases or infections, $country, National", size(medium)) /// 
@@ -1820,7 +1820,7 @@ twoway ///
 (line DayCasMeSmA00S00 date, sort lcolor(cyan*1.2) lwidth(thick)) /// 2 "JOHN smooth"
 (line DayCasMeRaA01S00 date, sort lcolor(red)) /// 3 "DELP"
 (line DayINFMeSmA02S01 date, sort lcolor(black)) /// 4 "IHME"
-if date >= td(01jan2021) & provincestate == "`l'" & DayCasMeSmA00S00 >= 0 ///
+if date >= td(01jan2021) & provincestate == "`l'" & DayCasMeRaA00S00 >= 0 ///
 , xtitle(Date) xlabel(#$monthspast01jan2021merge, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily cases or infections) title("COVID-19 daily cases or infections, $country, `l'", size(medium)) /// 
@@ -1855,7 +1855,7 @@ twoway ///
 (line DayCasMeRaA05S00 date, sort lcolor(green)) /// 12 "SRIV" mean
 (line DayCasLoRaA05S00 date, sort lcolor(green) lpattern(dash)) /// 13 "SRIV" lower
 (line DayCasUpRaA05S00 date, sort lcolor(green) lpattern(dash)) /// 14 "SRIV" upper
-if date >= td(01jan2021) & provincestate == " National" & DayCasMeSmA00S00 >= 0 ///
+if date >= td(01jan2021) & provincestate == " National" & DayCasMeRaA00S00 >= 0 ///
 , xtitle(Date) xlabel(#$monthspast01jan2021merge, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily cases or infections) title("COVID-19 daily cases or infections, $country, National", size(medium)) ///
@@ -1887,7 +1887,7 @@ twoway ///
 (line DayINFMeSmA02S01 date, sort lcolor(black)) /// 6 IHME mean
 (line DayINFLoSmA02S01 date, sort lcolor(black) lpattern(dash)) /// 7 IHME lower
 (line DayINFUpSmA02S01 date, sort lcolor(black) lpattern(dash)) /// 8 IHME upper
-if date >= td(01jan2021) & provincestate == "`l'" & DayCasMeSmA00S00 >= 0 ///
+if date >= td(01jan2021) & provincestate == "`l'" & DayCasMeRaA00S00 >= 0 ///
 , xtitle(Date) xlabel(#$monthspast01jan2021merge, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily cases or infections) title("COVID-19 daily cases or infections, $country, `l'", size(medium)) ///
@@ -1917,7 +1917,7 @@ twoway ///
 (line DayINFMeRaA03S02 date, sort lcolor(magenta)) /// 6 IMPE mean, reference scenario
 (line DayINFMeRaA03S01 date, sort lcolor(magenta) lwidth(thick) lpattern(tight_dot)) /// 7 IMPE mean, better scenario
 (line DayINFMeRaA03S03 date, sort lcolor(magenta) lwidth(thick) lpattern(tight_dot)) /// 8 IMPE mean, worse scenario
-if date >= td(01jan2021) & provincestate == " National" & DayCasMeSmA00S00 >= 0 ///
+if date >= td(01jan2021) & provincestate == " National" & DayCasMeRaA00S00 >= 0 ///
 , xtitle(Date) xlabel(#$monthspast01jan2021merge, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily cases or infections) title("COVID-19 daily cases or infections, $country, National", size(medium)) ///
@@ -1946,7 +1946,7 @@ twoway ///
 (line DayINFMeSmA02S01 date, sort lcolor(black)) /// 3 IHME mean, reference scenario
 (line DayINFMeSmA02S02 date, sort lcolor(green) lwidth(thick) lpattern(tight_dot)) /// 4 IHME mean, better scenario
 (line DayINFMeSmA02S03 date, sort lcolor(red) lwidth(thick) lpattern(tight_dot)) /// 5 IHME mean, worse scenario
-if date >= td(01jan2021) & provincestate == "`l'" & DayCasMeSmA00S00 >= 0 ///
+if date >= td(01jan2021) & provincestate == "`l'" & DayCasMeRaA00S00 >= 0 ///
 , xtitle(Date) xlabel(#$monthspast01jan2021merge, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily cases or infections) title("COVID-19 daily cases or infections, $country, `l'", size(medium)) ///
