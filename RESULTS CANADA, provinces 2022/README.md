@@ -4,9 +4,9 @@
 ****  
 
 
-### (a) Reported deaths and cases via JOHN
+### [(a) Reported deaths and cases via] JOHN(https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS%20CANADA,%20provinces%202022/README.md#a-reported-deaths-and-cases-via-john-1)
 
-### (b) IHME model’s predictions for provinces together
+### [(b) IHME model’s predictions for provinces together]()
 
 
 **** 
