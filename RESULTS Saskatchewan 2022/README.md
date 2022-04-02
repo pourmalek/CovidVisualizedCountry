@@ -5,7 +5,18 @@
 **** 
 ****  
 
+
+graph (1) Saskatchewan - [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS%20Saskatchewan%202022/README.md#graph-1-saskatchewan---daily-deaths-reference-scenarios-all-time)
+
+graph (2) Saskatchewan - [Daily deaths, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS%20Saskatchewan%202022/README.md#graph-2-saskatchewan---daily-deaths-3-scenarios-2021-on)
   
+graph (3) Saskatchewan - [Daily cases or infections, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS%20Saskatchewan%202022/README.md#graph-3-saskatchewan---daily-cases-or-infections-reference-scenarios-all-time)  
+  
+graph (4) Saskatchewan - [Daily cases or infections, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS%20Saskatchewan%202022/README.md#graph-4-saskatchewan---daily-cases-or-infections-3-scenarios-2021-on)  
+  
+  
+****
+****  
   
 #### graph (1) Saskatchewan - Daily deaths, reference scenarios, all time
   
