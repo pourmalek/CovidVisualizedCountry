@@ -21,7 +21,7 @@ di "$country"                                                                   
 
 * To change uptake date in individual do files for models, change the following dates:
 
-global DELPdate 20220401
+global DELPdate 20220328
 *            2/ --------
 
 global IHMEdate 20220322
