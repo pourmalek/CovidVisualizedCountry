@@ -8,6 +8,19 @@ Note that the latest available update of IMPE (20220131) is more than 2 months o
 
 <br/><br/>
 
+**Summary 20220401:**
+
+Reported cases and deaths are on increase at the national and provincial levels of Canada. **_This might signify a new surge – 7th wave at the national level._**
+
+Saskatchewan’s reporting of COVID-19 deaths and cases was interrupted recently. Seems that Nova Scotia is experiencing the same problem in reporting. In recent weeks, the official reports of daily deaths from Canada to the World Health Organization indicate that the Ministry of Health of Canada thought twice, and they say they did not have that many deaths they had reported before, i.e., reports of negative number of daily deaths.
+
+Models’ predictions are divergent about the current and the next surge. IMPE model is functionally next to retirement: their latest predictions as of 2022-04-01 dates back to 2022-01-31.
+
+The ongoing seeable and sizable decrease in mask use is not well-captured by the models. For instance, graph (9) "Canada National Daily mask use, IHME, 2020 on" shows IHME model’s assumption that the population mask use level of early March 2022 (e.g., 66% at the national level) will continue at the same value until July 1st. However, there has been considerable decrease in mask use in March after provincial governments’ release of mask mandates. 
+
+Premature release of mandates for using masks and physical distancing serves the political and economic purposes of the governments, not the public health and survival needs of the populations.
+
+Strengths and weakness of the international and periodically update COVID-19 pandemic models are discussed [here](https://github.com/pourmalek/CovidVisualizedMethodology#characteristics-of-the-models).
 
 
 
