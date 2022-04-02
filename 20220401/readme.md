@@ -53,6 +53,7 @@ Note that the latest available update of IMPE (20220131) is more than 2 months o
 
 (1) Canada [Daily deaths, Reference scenarios, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220401/output/CAN1%2011aDayDeaMERGnat%20alltime%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/161362664-fe6abc5f-9463-4dad-b835-dc43c476f1cc.png)
  
 ****
 
