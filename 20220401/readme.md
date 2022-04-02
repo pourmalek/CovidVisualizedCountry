@@ -16,7 +16,7 @@ Saskatchewan's reporting of COVID-19 deaths and cases was interrupted recently. 
 
 International and periodically updated models' predictions are divergent about the current and the next surges. IMPE model is functionally next to retirement: their latest predictions as of 2022-04-01 dates back to 2022-01-31.
 
-The latest update of the [PHAC-McMaster model]( https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/epidemiological-economic-research-data/mathematical-modelling.html) dated back to 2022-02-18 as of 2022-04-01. 
+The latest update of the [PHAC-McMaster model](https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/epidemiological-economic-research-data/mathematical-modelling.html) dates back to 2022-02-18 as of 2022-04-01. 
 
 [Canada’s government “Update on COVID-19 in Canada: Epidemiology and Preparedness, April 1, 2022”]( https://www.canada.ca/content/dam/phac-aspc/documents/services/diseases-maladies/coronavirus-disease-covid-19/epidemiological-economic-research-data/update-covid-19-canada-epidemiology-modelling-20220401-en.pdf) does not contain any quantitative predictions for the future of the epidemic in Canada. They have two narrative scenarios for future, named “Realistic Scenario: Ongoing transmission with intermittent waves” and “Worst-case Scenario: Emergence of an immune evasive and severe VOC”. These two scenarios might be summarized as bad and worse. 
 
