@@ -15,18 +15,26 @@ graph (3) Canada, provinces - [Daily reported deaths, JOHN, 2022](https://github
 
 graph (4) Canada, provinces - [Daily reported deaths, without National, Ontario, and Quebec, JOHN, 2022](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS%20CANADA,%20provinces%202022/README.md#graph-4-canada-provinces---daily-reported-deaths-without-national-ontario-and-quebec-john-2022)
 
+<br/><br/>
+
 Daily reported cases:
 
 graph (5) Canada, provinces - [Daily reported cases, JOHN, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS%20CANADA,%20provinces%202022/README.md#graph-5-canada-provinces---daily-reported-cases-john-2020-on)
 
 graph (6) Canada, provinces - [Daily reported cases, JOHN, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS%20CANADA,%20provinces%202022/README.md#graph-6-canada-provinces---daily-reported-cases-john-2021-on)
 
+graph (7) Canada, provinces - [Daily reported cases, JOHN, 2022](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS%20CANADA,%20provinces%202022/README.md#graph-7-canada-provinces---daily-reported-cases-john-2022)
+
+graph (8) Canada, provinces - [Daily reported cases, without National, Ontario, and Quebec, JOHN, 2022](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS%20CANADA,%20provinces%202022/README.md#graph-8-canada-provinces---daily-reported-cases-without-national-ontario-and-quebec-john-2022)
 
 
 
 <br/><br/>
 
 ### (b) [IHME model’s predictions for provinces together](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS%20CANADA,%20provinces%202022/README.md#b-ihme-models-predictions-for-provinces-together-1)
+
+
+
 
 
 **** 
@@ -258,7 +266,7 @@ The IHME and DELP models provide predictions for subnational levels. Below are t
 
 
   
-#### graph (1) Canada, provinces - Daily deaths, reference scenarios, all time, IHME
+#### graph (9) Canada, provinces - Daily deaths, reference scenarios, IHME, 2020 on
   
   
   
@@ -386,7 +394,7 @@ The IHME and DELP models provide predictions for subnational levels. Below are t
 **** 
 ****  
 
-#### graph (1b) Canada, provinces - Daily reported deaths, reference scenarios, all time, IHME, 2021 on
+#### graph (10) Canada, provinces - Daily reported deaths, reference scenarios, IHME, 2021 on
   
   
   
@@ -515,7 +523,7 @@ This graph was not generated for this uptake.
 **** 
 ****  
   
-#### graph (1c) Canada, provinces - Daily reported deaths, reference scenarios, all time, IHME, 2022
+#### graph (11) Canada, provinces - Daily reported deaths, reference scenarios, IHME, 2022
   
   
   
@@ -719,7 +727,7 @@ This graph was not generated for this uptake.
 **** 
 ****  
   
-#### graph (3a) Canada, provinces - Daily infections, reference scenarios, all time, IHME, all time
+#### graph (12) Canada, provinces - Daily infections, reference scenarios, IHME, 2020 on
   
   
   
@@ -852,7 +860,7 @@ This graph was not generated for this uptake.
 **** 
 ****  
 
-#### graph (3b) Canada, provinces - Daily infections, reference scenarios, all time, IHME, 2021 on
+#### graph (13) Canada, provinces - Daily infections, reference scenarios, IHME, 2021 on
   
   
   
@@ -987,7 +995,7 @@ This graph was not generated for this uptake.
 **** 
 ****  
 
-#### graph (3c) Canada, provinces - Daily infections, reference scenarios, all time, IHME, 2022
+#### graph (14) Canada, provinces - Daily infections, reference scenarios, IHME, 2022
   
   
   
