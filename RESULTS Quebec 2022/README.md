@@ -1,7 +1,21 @@
 ### Selected graphs - Quebec 2022
   
+**** 
+****  
+
+
+graph (1) Quebec - [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS%20Quebec%202022/README.md#graph-1-quebec---daily-deaths-reference-scenarios-all-time)
+
+graph (2) Quebec - [Daily deaths, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS%20Quebec%202022/README.md#graph-2-quebec---daily-deaths-3-scenarios-2021-on)
+  
+graph (3) Quebec - [Daily cases or infections, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS%20Quebec%202022/README.md#graph-3-quebec---daily-cases-or-infections-reference-scenarios-all-time)  
+  
+graph (4) Quebec - [Daily cases or infections, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS%20Quebec%202022/README.md#graph-4-quebec---daily-cases-or-infections-3-scenarios-2021-on)  
+  
+  
 ****
-****
+****  
+  
     
 #### graph (1) Quebec - Daily deaths, reference scenarios, all time
   
