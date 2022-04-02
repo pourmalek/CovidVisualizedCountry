@@ -16,6 +16,8 @@ Saskatchewan's reporting of COVID-19 deaths and cases was interrupted recently. 
 
 Models' predictions are divergent about the current and the next surges. IMPE model is functionally next to retirement: their latest predictions as of 2022-04-01 dates back to 2022-01-31.
 
+The latest update of the [PHAC-McMaster model]( https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/epidemiological-economic-research-data/mathematical-modelling.html) dated back to 2022-02-18 as of 2022-04-01. Their  2022-04-01 was released on 2022-04-02. 
+
 The ongoing seeable and sizable decrease in mask use is not well-captured by the models. For instance, graph (9) "Canada National Daily mask use, IHME, 2020 on" shows the IHME model's assumption that the population mask use level of early March 2022 (e.g., 66% at the national level) will continue at the same value until July 1st. However, there has been a considerable decrease in mask use in March after provincial governments released the mask mandates. This untrue assumption is among the reasons why the reported cases and deaths do not follow the trajectories predicted by the models. 
 
 Premature release of mandates for using masks and physical distancing serves the political and economic purposes of the governments, not the public health and survival needs of the populations.
@@ -300,16 +302,19 @@ The strengths and weaknesses of the international and periodically updated COVID
 
 (1) British Columbia [Daily deaths, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220401/output/SUB1%2011bDayDeaMERGsub%20alltime%20British%20Columbia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/161385391-0ff7e846-7ca9-4bf8-aeb5-bd1903814dab.png)
  
 ****
 
 (2) British Columbia [Daily deaths, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220401/output/SUB2%2012bDayDeaMERGsub%202021%20British%20Columbia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/161385409-5089a8c4-52ae-4bac-ac31-2e9c2355acf5.png)
  
 ****
 
 (3) British Columbia [Daily cases or infections, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220401/output/SUB4%2031bDayCasMERGsub%20alltime%20British%20Columbia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/161385445-5f4e00e8-92b2-40e1-af64-117e97e646ae.png)
  
 ****
 
