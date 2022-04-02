@@ -7,6 +7,20 @@
 **** 
 ****  
 
+
+graph (1) Alberta - [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS%20Alberta%202022/README.md#graph-1-alberta---daily-deaths-reference-scenarios-all-time)
+
+graph (2) Alberta - [Daily deaths, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS%20Alberta%202022/README.md#graph-2-alberta---daily-deaths-3-scenarios-2021-on)
+  
+graph (3) Alberta - [Daily cases or infections, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS%20Alberta%202022/README.md#graph-3-alberta---daily-cases-or-infections-reference-scenarios-all-time)  
+  
+graph (4) Alberta - [Daily cases or infections, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS%20Alberta%202022/README.md#graph-4-alberta---daily-cases-or-infections-3-scenarios-2021-on)  
+  
+  
+****
+****  
+   
+
   
   
 #### graph (1) Alberta - Daily deaths, reference scenarios, all time
@@ -147,7 +161,7 @@
 ****
 ****
   
-#### graph (3) Alberta - Daily deaths, 3 scenarios, 2021 
+#### graph (2) Alberta - Daily deaths, 3 scenarios, 2021 
   
   
   
@@ -275,7 +289,7 @@
 ****
 ****
   
-#### graph (4) Alberta - Daily cases or infections, reference scenarios, all time
+#### graph (3) Alberta - Daily cases or infections, reference scenarios, all time
   
   
   
@@ -408,7 +422,7 @@
 ****
 ****
   
-#### graph (6) Alberta - Daily cases or infections, 3 scenarios, 2021
+#### graph (4) Alberta - Daily cases or infections, 3 scenarios, 2021
   
   
   
