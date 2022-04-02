@@ -5,6 +5,20 @@
 **** 
 ****  
 
+
+graph (1) Manitoba - [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS%20Manitoba%202022/README.md#graph-1-manitoba---daily-deaths-reference-scenarios-all-time)
+
+graph (2) Manitoba - [Daily deaths, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS%20Manitoba%202022/README.md#graph-2-manitoba---daily-deaths-3-scenarios-2021-on)
+  
+graph (3) Manitoba - [Daily cases or infections, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS%20Manitoba%202022/README.md#graph-3-manitoba---daily-cases-or-infections-reference-scenarios-all-time)  
+  
+graph (4) Manitoba - [Daily cases or infections, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS%20Manitoba%202022/README.md#graph-4-manitoba---daily-cases-or-infections-3-scenarios-2021-on)  
+  
+  
+****
+****  
+   
+
   
   
   
