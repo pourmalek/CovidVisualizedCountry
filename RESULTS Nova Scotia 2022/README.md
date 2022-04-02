@@ -158,7 +158,7 @@ graph (4) Nova Scotia - [Daily cases or infections, 3 scenarios, 2021 on](https:
 
 
 
-#### graph (3) Nova Scotia - Daily deaths, 3 scenarios, 2021 on
+#### graph (2) Nova Scotia - Daily deaths, 3 scenarios, 2021 on
   
 ****
 ****
@@ -288,7 +288,7 @@ graph (4) Nova Scotia - [Daily cases or infections, 3 scenarios, 2021 on](https:
 
 
 
-#### graph (4) Nova Scotia - Daily cases or infections, reference scenarios, all time
+#### graph (3) Nova Scotia - Daily cases or infections, reference scenarios, all time
   
 ****
 ****
@@ -424,7 +424,7 @@ graph (4) Nova Scotia - [Daily cases or infections, 3 scenarios, 2021 on](https:
 
 
 
-#### graph (6) Nova Scotia - Daily cases or infections, 3 scenarios, 2021 on
+#### graph (4) Nova Scotia - Daily cases or infections, 3 scenarios, 2021 on
   
 ****
 ****
