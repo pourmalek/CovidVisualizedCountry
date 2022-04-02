@@ -2,7 +2,7 @@
 
 ## ! THE MOST RECENT WEEKLY SITUATION REPORT, EVERY MONDAY MORNING, HERE:
 
-! Read the Canada COVID-19 epidemic models situation report No 40 - 2022-03-25 [here](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/40%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2040%20-%202022-03-25.pdf).
+! Read the Canada COVID-19 epidemic models situation report No 41 - 2022-04-01 [here](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/40%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2040%20-%202022-03-25.pdf).
 
 
 <br/><br/>
@@ -170,7 +170,7 @@ The strengths and weaknesses of the international and periodically updated COVID
 
  
   
-# :eyes: SEE: See Canada COVID-19 epidemic models situation report No 40 - 2022-03-25, [here](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/40%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2040%20-%202022-03-25.pdf)
+# :eyes: SEE: See Canada COVID-19 epidemic models situation report No 41 - 2022-04-01, [here](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/40%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2040%20-%202022-03-25.pdf)
 
 <br/><br/>
   
