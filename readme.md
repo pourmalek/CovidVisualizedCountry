@@ -26,9 +26,22 @@
   
 ### <div align="center"> [`Alberta`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20Alberta%202022) [`British Columbia`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20British%20Columbia%202022) [`Manitoba`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20Manitoba%202022) [`New Brunswick`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20New%20Brunswick%202022) [`Newfoundland and Labrador`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20Newfoundland%20and%20Labrador%202022) [`Nova Scotia`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20Nova%20Scotia%202022) [`Ontario`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20Ontario%202022) [`Quebec`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20Quebec%202022) [`Saskatchewan`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20Saskatchewan%202022)
 
+********************************************************************************************************************************************
+********************************************************************************************************************************************
+ 
+Published journal article for this work:
+
+Pourmalek, F. CovidVisualized: Visualized compilation of international updated models’ estimates of COVID-19 pandemic at global and country levels. _BMC Res Notes_ **15**, 136 (2022). https://doi.org/10.1186/s13104-022-06020-4 
+
+[link](https://bmcresnotes.biomedcentral.com/articles/10.1186/s13104-022-06020-4)
+
+[PDF](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/CovidVisualized%20BMC%20Research%20Notes%20article.pdf) 
+ 
+********************************************************************************************************************************************
+********************************************************************************************************************************************   
 
   
-*****************************
+
   
 ## Table of Contents
 
@@ -58,6 +71,8 @@
   
   [![ORCIDID](https://user-images.githubusercontent.com/30849720/127926326-89321742-cb08-4c18-bbdd-9b0c12e4ab2f.png)](https://orcid.org/0000-0002-2134-0771) || [`PubMed`](https://pubmed.ncbi.nlm.nih.gov/?term=Pourmalek+F&sort=pubdate&size=200)  ||  [![global_reach](https://github.com/pourmalek/covir2/blob/main/sandbox/global_reach.png?raw=true)](https://profiles.impactstory.org/u/0000-0002-2134-0771/achievements) [`Global Reach Top 10%`](https://profiles.impactstory.org/u/0000-0002-2134-0771/achievements)  || [UBC SPPH](https://www.spph.ubc.ca/person/farshad-pourmalek/) || [UW IHME](http://www.healthdata.org/about/farshad-pourmalek) || [YouCheck](https://youcheck.ca)  
 * Time (initial): 2021-02-10
+  
+* [Research Article](https://bmcresnotes.biomedcentral.com/articles/10.1186/s13104-022-06020-4)  
 
 ********************************************************************************************************************************************
 ******************************************************************************************************************************************** 
@@ -105,26 +120,6 @@ SRIV: Srivastava, Ajitesh. COVID-19 pandemic model developed by Ajitesh Srivasta
 
 JOHN: Johns Hopkins. The coronavirus resource center, Johns Hopkins University, Baltimore. https://www.arcgis.com/apps/dashboards/bda7594740fd40299423467b48e9ecf6 (Official reports of the countries to the World Health Organization; benchmark)
 
-*****
-*****
-
-  <br/><br/>
-  
-Accepted for publication in BMC Research Notes for this project: 
- 
- https://europepmc.org/article/PPR/PPR377517
-   
- [Pourmalek F. CovidVisualized: Visualized compilation of international updating models’ estimates of COVID-19 pandemic at global and country levels. Research Square; 2021. DOI: 10.21203/rs.3.rs-768714/v1.](https://www.researchsquare.com/article/rs-768714/v1)
-
- [PDF](https://github.com/pourmalek/covir2/blob/main/journal%20articles%2C%20this%20work/Pourmalek%20F%20-%20CovidVisualized-%20Visualized%20compilation%20of%20international%20updating%20models’%20estimates%20of%20COVID-19%20pandemic%20at%20global%20and%20country%20levels%20-%20PREPRINT%20%20Research%20Square%2020210802.pdf)
-
- <br/><br/>
- 
- 
-
-<br/><br/>  
-  
-  
 
 
 
@@ -681,21 +676,6 @@ The strengths and weaknesses of the international and periodically updated COVID
 
 ## II. METHODS AND RESULTS OF THIS WORK
  
- 
-
-  
-<br/><br/>
- 
- *
-  
-Pre-print for this project: 
- 
-[Farshad Pourmalek. CovidVisualized: Visualized compilation of international updating models’ estimates of COVID-19 pandemic at global and country levels, 02 August 2021, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-768714/v1]](https://www.researchsquare.com/article/rs-768714/v1)
-
-[PDF](https://github.com/pourmalek/covir2/blob/main/journal%20articles%2C%20this%20work/Pourmalek%20F%20-%20CovidVisualized-%20Visualized%20compilation%20of%20international%20updating%20models’%20estimates%20of%20COVID-19%20pandemic%20at%20global%20and%20country%20levels%20-%20PREPRINT%20%20Research%20Square%2020210802.pdf)
-
-<br/><br/> 
-
  
 ********************************************************************************************************************************************
  
