@@ -101,11 +101,13 @@ Days old: DELP 0, IHME 18, IMPE 68, SRIV 0
 
 (9) Canada National [Daily mask use, IHME, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/graph%2093a%20COVID-19%20daily%20mask_use%2C%20Canada%2C%20National%2C%203%20scenarios.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/162557564-42a5d7f6-4a7e-4361-94b7-89560ebd55d1.png)
  
 ****
 
 (10) Canada National [Percent cumulative vaccinated, IHME, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/graph%2094a%20COVID-19%20percent%20cumulative%20vaccinated%2C%20Canada%2C%20National.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/162557592-8cb1a768-7f5f-4379-8074-3a53b82bb26a.png)
  
 ****
 
