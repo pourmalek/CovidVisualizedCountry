@@ -258,12 +258,13 @@ Days old: DELP 0, IHME 18, IMPE 68, SRIV 0
 
 (3) Alberta [Daily cases or infections, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/SUB4%2031bDayCasMERGsub%20alltime%20Alberta%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/162583135-5cdb8b39-4dd5-41e5-99d0-96b67a37f0c5.png)
+![image](https://user-images.githubusercontent.com/30849720/162584825-30f6be78-ed18-45c3-bf88-3aaa69b531c3.png)
  
 ****
 
 (4) Alberta [Daily cases or infections, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/SUB5%2032bDayCasMERGsub%202021%20Alberta%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/162584842-21aee621-c9f6-4cb2-9320-05ee563fea97.png)
  
 ****
 
