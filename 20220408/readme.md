@@ -77,21 +77,25 @@ Days old: DELP 0, IHME 18, IMPE 68, SRIV 0
 
 (5) Canada National [Daily hospital-related outcomes, Reference scenarios, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/CAN7%2071a1DayHosMERGnat%20%20alltime%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20National.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/162557459-f5c283b7-2b62-43f2-98c1-bb4f9adc2dc0.png)
  
 ****
 
 (6) Canada National [Daily hospital-related outcomes, without IHME Bed need, IMPE Hospital demand, Reference scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/CAN8%2073aDayHosMERGnat%202021%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20National%2C%20wo%20extremes%2C%202021.pdf)
 
- 
+ ![image](https://user-images.githubusercontent.com/30849720/162557475-216b11a5-bbd3-4311-a34f-ad120984ac34.png)
+
 ****
 
 (7) Canada National [Daily Infection hospitalization and fatality ratios, Reference scenario, IHME, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/graph%2091a2%20COVID-19%20daily%20Infection%20outcomes%20ratios%2C%20Canada%2C%20National%203%20scenarios%2C%20IHME.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/162557495-2d631879-cb7b-4108-a0c1-28f45b52438b.png)
  
 ****
 
 (8) Canada National [Daily percent change in mobility, IHME, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/graph%2092a%20COVID-19%20daily%20mobility%2C%20Canada%2C%20National%2C%203%20scenarios.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/162557512-206b96b7-ac5f-460b-a638-d6573041e575.png)
  
 ****
 
