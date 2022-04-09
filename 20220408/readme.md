@@ -252,6 +252,7 @@ Days old: DELP 0, IHME 18, IMPE 68, SRIV 0
 
 (2) Alberta [Daily deaths, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/SUB2%2012bDayDeaMERGsub%202021%20Alberta%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/162578015-258c5b9a-31a8-40e8-b8dc-8210c6a9e491.png)
  
 ****
 
