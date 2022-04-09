@@ -830,6 +830,35 @@ qui graph export "CAN2 12aDayDeaMERGnat 2021 - COVID-19 daily deaths, $country, 
 
 
 
+****
+* daily deaths, reference scenarios, 2022, National
+
+twoway ///
+(line DayDeaMeRaA00S00 date, sort lcolor(cyan) lwidth(medium) lpattern(tight_dot)) /// 1 "JOHN raw"
+(line DayDeaMeSmA00S00 date, sort lcolor(cyan*1.2) lwidth(thick)) /// 2 "JOHN smooth"
+(line DayDeaMeRaA01S00 date, sort lcolor(red)) /// 3 "DELP"
+(line DayDeaFOREA01S00 date, sort lcolor(red) lpattern(tight_dot) lwidth(vthick)) /// 4 "DELP" Forecast only
+(line DayDeaMeSmA02S01 date, sort lcolor(black)) /// 5 "IHME"
+(line DayDeaFOREA02S01 date, sort lcolor(black) lpattern(tight_dot) lwidth(vthick)) /// 6 "IHME" Forecast only
+(line DayDeXMeSmA02S01 date, sort lcolor(brown) lwidth(medthick)) /// 7 "IHME excess"
+(line DayDeaMeRaA03S02 date, sort lcolor(magenta)) /// 8 "IMPE"
+(line DayDeaFOREA03S02 date, sort lcolor(magenta) lpattern(tight_dot) lwidth(vthick)) /// 9 "IMPE" Forecast only
+(line DayDeaMeRaA05S00 date, sort lcolor(green)) /// 10 "SRIV"
+(line DayDeaFOREA05S00 date, sort lcolor(green) lpattern(tight_dot) lwidth(vthick)) /// 11 "SRIV" Forecast only
+if date >= td(01jan2022) & provincestate == " National" & DayDeaMeRaA00S00 >= 0 ///
+, xtitle(Date) xlabel(#$monthspast01jan2022merge, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
+ytitle(Daily deaths) title("COVID-19 daily deaths, $country, National", size(medium)) /// 
+xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
+legend(order(1 "JOHN raw" 2 "JOHN smooth" 3 "DELP" 5 "IHME" 7 "IHME excess" 8 "IMPE" 10 "SRIV") size(small) row(2)) ///
+subtitle("reference scenarios, after 2022-01-01", size(small)) ///
+note("Reference scenario forecasts are marked with |||||||||||| " , size(small))
+
+qui graph export "CAN2 12aaDayDeaMERGnat 2022 - COVID-19 daily deaths, $country, National, reference scenarios, 2022.pdf", replace
+
+
+
+
 
 ****
 * daily deaths, reference scenarios, 2021, by province
@@ -853,7 +882,7 @@ xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, l
 ytitle(Daily deaths) title("COVID-19 daily deaths, $country, `l'", size(medium)) /// 
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
 legend(order(1 "JOHN raw" 2 "JOHN smooth" 3 "DELP raw" 4 "DELP smooth" 6 "IHME" 8 "IHME excess") size(small) row(2)) ///
-subtitle("reference scenarios, after 2021-01-01", size(small)) ///
+subtitle("reference scenarios, after 2022-01-01", size(small)) ///
 note("Reference scenario forecasts are marked with |||||||||||| " , size(small))
 
 qui graph export "SUB2 12bDayDeaMERGsub 2021 `l' - COVID-19 daily deaths, $country, `l', reference scenarios, 2021.pdf", replace
@@ -861,6 +890,37 @@ qui graph export "SUB2 12bDayDeaMERGsub 2021 `l' - COVID-19 daily deaths, $count
 }
 *
 
+
+
+****
+* daily deaths, reference scenarios, 2022, by province
+
+levelsof provincestate_mostaffected, local(levels)
+
+foreach l of local levels {
+
+twoway ///
+(line DayDeaMeRaA00S00 date, sort lcolor(cyan) lwidth(medium) lpattern(tight_dot)) /// 1 "JOHN raw"
+(line DayDeaMeSmA00S00 date, sort lcolor(cyan*1.2) lwidth(thick)) /// 2 "JOHN smooth"
+(line DayDeaMeRaA01S00 date, sort lcolor(red*0.3) lwidth(medium) lpattern(tight_dot)) /// 3 "DELP raw"
+(line DayDeaMeSmA01S00 date, sort lcolor(red) lwidth(medthick)) /// 4 "DELP smooth"
+(line DayDeaFOREA01S00 date, sort lcolor(red) lpattern(tight_dot) lwidth(vthick)) /// 5 "DELP" Forecast only
+(line DayDeaMeSmA02S01 date, sort lcolor(black)) /// 6 "IHME"
+(line DayDeaFOREA02S01 date, sort lcolor(black) lpattern(tight_dot) lwidth(vthick)) /// 7 "IHME" Forecast only
+(line DayDeXMeSmA02S01 date, sort lcolor(brown) lwidth(medthick)) /// 8 "IHME excess"
+if date >= td(01jan2022) & provincestate == "`l'" & DayDeaMeRaA00S00 >= 0 ///
+, xtitle(Date) xlabel(#$monthspast01jan2022merge, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
+ytitle(Daily deaths) title("COVID-19 daily deaths, $country, `l'", size(medium)) /// 
+xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
+legend(order(1 "JOHN raw" 2 "JOHN smooth" 3 "DELP raw" 4 "DELP smooth" 6 "IHME" 8 "IHME excess") size(small) row(2)) ///
+subtitle("reference scenarios, after 2021-01-01", size(small)) ///
+note("Reference scenario forecasts are marked with |||||||||||| " , size(small))
+
+qui graph export "SUB2 12cDayDeaMERGsub 2021 `l' - COVID-19 daily deaths, $country, `l', reference scenarios, 2022.pdf", replace
+
+}
+*
 
 
 
@@ -1887,6 +1947,36 @@ qui graph export "SUB5 32bDayCasMERGsub 2021 `l' - COVID-19 daily cases, $countr
 
 
 
+****
+* daily cases or infections, reference scenarios, 2022, by province
+
+levelsof provincestate_mostaffected, local(levels)
+
+foreach l of local levels {
+
+twoway ///
+(line DayCasMeRaA00S00 date, sort lcolor(cyan) lwidth(medium) lpattern(tight_dot)) /// 1 "JOHN raw"
+(line DayCasMeSmA00S00 date, sort lcolor(cyan*1.2) lwidth(thick)) /// 2 "JOHN smooth"
+(line DayCasMeRaA01S00 date, sort lcolor(red)) /// 3 "DELP"
+(line DayCasFOREA01S00 date, sort lcolor(red) lpattern(tight_dot) lwidth(vthick)) /// 4 "DELP" Forecast only
+(line DayINFMeSmA02S01 date, sort lcolor(black)) /// 5 "IHME"
+(line DayINFFOREA02S01 date, sort lcolor(black) lpattern(tight_dot) lwidth(vthick)) /// 6 "IHME" Forecast only
+if date >= td(01jan2022) & provincestate == "`l'" & DayCasMeRaA00S00 >= 0 ///
+, xtitle(Date) xlabel(#$monthspast01jan2022merge, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
+ytitle(Daily cases or infections) title("COVID-19 daily cases or infections, $country, `l'", size(medium)) /// 
+xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
+legend(order(1 "JOHN cases raw" 2 "JOHN cases smooth" 3 "DELP cases" 5 "IHME infections") size(small) row(2)) ///
+subtitle("reference scenarios, after 2022-01-01", size(small)) ///
+note("Reference scenario forecasts are marked with |||||||||||| " , size(small))
+
+qui graph export "SUB5 32cDayCasMERGsub 2021 `l' - COVID-19 daily cases, $country, `l', reference scenarios, 2022.pdf", replace
+
+}
+*
+
+
+
 
 ****
 * daily cases or infections, reference scenario, 2021, uncertainty, National
@@ -1982,6 +2072,31 @@ note("Better and worse scenarios: tight dot (|||||) curves; IHME and IMPE")
 
 qui graph export "CAN6 34aDayCasMERGnat 2021 3scen - COVID-19 daily cases, $country, National, 3 scenarios, 2021, uncertainty.pdf", replace
 
+
+
+
+****
+* daily cases or infections, 3 scenarios, 2022, National
+
+twoway ///
+(line DayCasMeRaA00S00 date, sort lcolor(cyan) lwidth(medium) lpattern(tight_dot)) /// 1 "JOHN raw"
+(line DayCasMeSmA00S00 date, sort lcolor(cyan*1.2) lwidth(thick)) /// 2 "JOHN smooth"
+(line DayINFMeSmA02S01 date, sort lcolor(black)) /// 3 IHME mean, reference scenario
+(line DayINFMeSmA02S02 date, sort lcolor(black) lwidth(thick) lpattern(tight_dot)) /// 4 IHME mean, better scenario
+(line DayINFMeSmA02S03 date, sort lcolor(black) lwidth(thick) lpattern(tight_dot)) /// 5 IHME mean, worse scenario
+(line DayINFMeRaA03S02 date, sort lcolor(magenta)) /// 6 IMPE mean, reference scenario
+(line DayINFMeRaA03S01 date, sort lcolor(magenta) lwidth(thick) lpattern(tight_dot)) /// 7 IMPE mean, better scenario
+(line DayINFMeRaA03S03 date, sort lcolor(magenta) lwidth(thick) lpattern(tight_dot)) /// 8 IMPE mean, worse scenario
+if date >= td(01jan2022) & provincestate == " National" & DayCasMeRaA00S00 >= 0 ///
+, xtitle(Date) xlabel(#$monthspast01jan2022merge, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
+ytitle(Daily cases or infections) title("COVID-19 daily cases or infections, $country, National", size(medium)) ///
+xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
+legend(order(1 "JOHN cases raw" 2 "JOHN cases smooth" 3 "IHME infections" 6 "IMPE infections") size(small) row(2)) ///
+subtitle("IHME and IMPE 3 scenarios, after 2022-01-01", size(small)) ///
+note("Better and worse scenarios: tight dot (|||||) curves; IHME and IMPE") 
+
+qui graph export "CAN6 34aaDayCasMERGnat 2021 3scen - COVID-19 daily cases, $country, National, 3 scenarios, 2022, uncertainty.pdf", replace
 
 
 
