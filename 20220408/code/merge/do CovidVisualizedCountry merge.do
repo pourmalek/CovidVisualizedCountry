@@ -914,10 +914,10 @@ xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, l
 ytitle(Daily deaths) title("COVID-19 daily deaths, $country, `l'", size(medium)) /// 
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
 legend(order(1 "JOHN raw" 2 "JOHN smooth" 3 "DELP raw" 4 "DELP smooth" 6 "IHME" 8 "IHME excess") size(small) row(2)) ///
-subtitle("reference scenarios, after 2021-01-01", size(small)) ///
+subtitle("reference scenarios, after 2022-01-01", size(small)) ///
 note("Reference scenario forecasts are marked with |||||||||||| " , size(small))
 
-qui graph export "SUB2 12cDayDeaMERGsub 2021 `l' - COVID-19 daily deaths, $country, `l', reference scenarios, 2022.pdf", replace
+qui graph export "SUB2 12cDayDeaMERGsub 2022 `l' - COVID-19 daily deaths, $country, `l', reference scenarios, 2022.pdf", replace
 
 }
 *
@@ -1970,7 +1970,7 @@ legend(order(1 "JOHN cases raw" 2 "JOHN cases smooth" 3 "DELP cases" 5 "IHME inf
 subtitle("reference scenarios, after 2022-01-01", size(small)) ///
 note("Reference scenario forecasts are marked with |||||||||||| " , size(small))
 
-qui graph export "SUB5 32cDayCasMERGsub 2021 `l' - COVID-19 daily cases, $country, `l', reference scenarios, 2022.pdf", replace
+qui graph export "SUB5 32cDayCasMERGsub 2022 `l' - COVID-19 daily cases, $country, `l', reference scenarios, 2022.pdf", replace
 
 }
 *

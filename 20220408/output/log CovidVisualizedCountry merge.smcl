@@ -3,7 +3,7 @@
       name:  {res}<unnamed>
        {txt}log:  {res}/Users/farshadpourmalek/Downloads/CovidVisualizedCountry-main/20220408/code/merge/log CovidVisualizedCountry merge.smcl
   {txt}log type:  {res}smcl
- {txt}opened on:  {res} 9 Apr 2022, 10:33:41
+ {txt}opened on:  {res} 9 Apr 2022, 10:50:22
 {txt}
 {com}. 
 . 
@@ -973,7 +973,7 @@ now 732
 
 {txt}Contains data from {res}CovidVisualizedCountry merge.dta
 {txt}  obs:{res}        12,323                          
-{txt} vars:{res}         2,161                          9 Apr 2022 10:34
+{txt} vars:{res}         2,161                          9 Apr 2022 10:50
 {txt} size:{res}    92,052,810                          
 {txt}{hline}
               storage   display    value
@@ -5564,10 +5564,10 @@ Sorted by: {res}loc_grand_name  provincestate  date
 > ytitle(Daily deaths) title("COVID-19 daily deaths, $country, `l'", size(medium)) /// 
 > xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
 > legend(order(1 "JOHN raw" 2 "JOHN smooth" 3 "DELP raw" 4 "DELP smooth" 6 "IHME" 8 "IHME excess") size(small) row(2)) ///
-> subtitle("reference scenarios, after 2021-01-01", size(small)) ///
+> subtitle("reference scenarios, after 2022-01-01", size(small)) ///
 > note("Reference scenario forecasts are marked with |||||||||||| " , size(small))
 {txt}  3{com}. 
-. qui graph export "SUB2 12cDayDeaMERGsub 2021 `l' - COVID-19 daily deaths, $country, `l', reference scenarios, 2022.pdf", replace
+. qui graph export "SUB2 12cDayDeaMERGsub 2022 `l' - COVID-19 daily deaths, $country, `l', reference scenarios, 2022.pdf", replace
 {txt}  4{com}. 
 . {c )-}
 {res}{txt}
@@ -6744,7 +6744,7 @@ Sorted by: {res}loc_grand_name  provincestate  date
 > subtitle("reference scenarios, after 2022-01-01", size(small)) ///
 > note("Reference scenario forecasts are marked with |||||||||||| " , size(small))
 {txt}  3{com}. 
-. qui graph export "SUB5 32cDayCasMERGsub 2021 `l' - COVID-19 daily cases, $country, `l', reference scenarios, 2022.pdf", replace
+. qui graph export "SUB5 32cDayCasMERGsub 2022 `l' - COVID-19 daily cases, $country, `l', reference scenarios, 2022.pdf", replace
 {txt}  4{com}. 
 . {c )-}
 {res}{txt}
@@ -9421,7 +9421,7 @@ Sorted by: {res}loc_grand_name  provincestate  date
       {txt}name:  {res}<unnamed>
        {txt}log:  {res}/Users/farshadpourmalek/Downloads/CovidVisualizedCountry-main/20220408/code/merge/log CovidVisualizedCountry merge.smcl
   {txt}log type:  {res}smcl
- {txt}closed on:  {res} 9 Apr 2022, 10:42:20
+ {txt}closed on:  {res} 9 Apr 2022, 10:58:16
 {txt}{.-}
 {smcl}
 {txt}{sf}{ul off}
