@@ -83,7 +83,7 @@ Days old: DELP 0, IHME 18, IMPE 68, SRIV 0
 
 (6) Canada National [Daily hospital-related outcomes, without IHME Bed need, IMPE Hospital demand, Reference scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/CAN8%2073aDayHosMERGnat%202021%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20National%2C%20wo%20extremes%2C%202021.pdf)
 
- ![image](https://user-images.githubusercontent.com/30849720/162557475-216b11a5-bbd3-4311-a34f-ad120984ac34.png)
+![image](https://user-images.githubusercontent.com/30849720/162557475-216b11a5-bbd3-4311-a34f-ad120984ac34.png)
 
 ****
 
@@ -176,7 +176,7 @@ Days old: DELP 0, IHME 18, IMPE 68, SRIV 0
 
 (7) Canada Provinces [Daily reported cases, JOHN, 2022](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/graph%2007%20provinces%20C-19%20daily%20cases%2C%20Canada%2C%20JOHN%202022.pdf)
 
- ![image](https://user-images.githubusercontent.com/30849720/162557742-adf921a9-3740-4fae-acff-836ea832e995.png)
+![image](https://user-images.githubusercontent.com/30849720/162557742-adf921a9-3740-4fae-acff-836ea832e995.png)
 
 ****
 
@@ -258,11 +258,13 @@ Days old: DELP 0, IHME 18, IMPE 68, SRIV 0
 
 (3) Alberta [Daily cases or infections, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/SUB4%2031bDayCasMERGsub%20alltime%20Alberta%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/162580761-a41d8771-7261-447b-ba68-2479f438e429.png)
  
 ****
 
 (4) Alberta [Daily cases or infections, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/SUB5%2032bDayCasMERGsub%202021%20Alberta%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/162580816-6b43de3b-f829-47b9-b1bf-66173fb06ac2.png)
  
 ****
 
