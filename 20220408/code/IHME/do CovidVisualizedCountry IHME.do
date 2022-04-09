@@ -1325,6 +1325,18 @@ label var DayINFFatUpSmA02S01 "Daily Fatal Infections Upper smoothed IHME S1"
 
 
 
+* Forecast start date (as per https://covid19.healthdata.org/iran-(islamic-republic-of)?view=daily-deaths&tab=trend)
+gen epoch_IHME = td(11Mar2022)
+label var epoch_IHME "IHME Forecast start date"
+
+gen DayDeaFOREA02S01 = DayDeaMeSmA02S01
+replace DayDeaFOREA02S01 = . if date < td(11Mar2022)
+label var DayDeaFOREA02S01 "Daily Forecasted Deaths Mean smoothed IHME S1"
+
+gen DayINFFOREA02S01 = DayINFMeSmA02S01
+replace DayINFFOREA02S01 = . if date < td(11Mar2022)
+label var DayINFFOREA02S01 "Daily Forecasted infections Mean smoothed IHME S1"
+
 
 
 
@@ -1363,7 +1375,8 @@ DayDeMMeSmA02S01 DayCaMMeSmA02S01 DayCbDMeSmA02S01 DayDMuMeSmA02S01 ///
 cumul_vax_pct cumul_effective_vax_pct cumul_fully_vax_pct ///
 DayINFDetMeSmA02S01 DayINFDetLoSmA02S01 DayINFDetUpSmA02S01 ///
 DayINFHosMeSmA02S01 DayINFHosLoSmA02S01 DayINFHosUpSmA02S01 ///
-DayINFFatMeSmA02S01 DayINFFatLoSmA02S01 DayINFFatUpSmA02S01 {
+DayINFFatMeSmA02S01 DayINFFatLoSmA02S01 DayINFFatUpSmA02S01 ///
+DayDeaFOREA02S01 DayINFFOREA02S01 {
 
 	 
 	qui gen `var'XAB = `var' 

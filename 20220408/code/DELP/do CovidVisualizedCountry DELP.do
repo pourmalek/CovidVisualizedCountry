@@ -260,7 +260,18 @@ label var DayDMuMeRaA01S00 "Daily deaths scaled (times means of cases by deaths)
 summ DayDMuMeRaA01S00	
 
 
+* Forecast start date 
 
+gen epoch_DELP = td(08Apr2022) // update release date
+label var epoch_DELP "DELP Forecast start date"
+
+gen DayDeaFOREA01S00 = DayDeaMeRaA01S00
+replace DayDeaFOREA01S00 = . if date < td(08Apr2022)
+label var DayDeaFOREA01S00 "Daily Forecasted Deaths Mean smoothed DELP"
+
+gen DayCasFOREA01S00 = DayCasMeRaA01S00
+replace DayCasFOREA01S00 = . if date < td(08Apr2022)
+label var DayCasFOREA01S00 "Daily Forecasted Cases Mean smoothed DELP"
 
 
 
@@ -271,7 +282,8 @@ DayDeaMeRaA01S00 DayDeaLoRaA01S00 DayDeaUpRaA01S00 DayCasMeRaA01S00 DayCasLoRaA0
 TotDeaMeRaA01S00 TotDeaLoRaA01S00 TotDeaUpRaA01S00 TotCasMeRaA01S00 TotCasLoRaA01S00 TotCasUpRaA01S00 ///
 DayActMeRaA01S00 DayHosMeRaA01S00 DayVenMeRaA01S00 TotHosMeRaA01S00 ///
 DayCfrMeRaA01S00 DayCfrLoRaA01S00 DayCfrUpRaA01S00 ///
-DayDeMMeRaA01S00 DayCaMMeRaA01S00 DayCbDMeRaA01S00 DayDMuMeRaA01S00 {
+DayDeMMeRaA01S00 DayCaMMeRaA01S00 DayCbDMeRaA01S00 DayDMuMeRaA01S00 ///
+DayDeaFOREA01S00 DayCasFOREA01S00 {
 
 *
 			 
