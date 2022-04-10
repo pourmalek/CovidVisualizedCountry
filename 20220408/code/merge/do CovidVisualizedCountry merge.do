@@ -870,18 +870,17 @@ foreach l of local levels {
 twoway ///
 (line DayDeaMeRaA00S00 date, sort lcolor(cyan) lwidth(medium) lpattern(tight_dot)) /// 1 "JOHN raw"
 (line DayDeaMeSmA00S00 date, sort lcolor(cyan*1.2) lwidth(thick)) /// 2 "JOHN smooth"
-(line DayDeaMeRaA01S00 date, sort lcolor(red*0.3) lwidth(medium) lpattern(tight_dot)) /// 3 "DELP raw"
-(line DayDeaMeSmA01S00 date, sort lcolor(red) lwidth(medthick)) /// 4 "DELP smooth"
-(line DayDeaFOREA01S00 date, sort lcolor(red) lpattern(tight_dot) lwidth(medium)) /// 5 "DELP" Forecast only
-(line DayDeaMeSmA02S01 date, sort lcolor(black)) /// 6 "IHME"
-(line DayDeaFOREA02S01 date, sort lcolor(black) lpattern(tight_dot) lwidth(vthick)) /// 7 "IHME" Forecast only
-(line DayDeXMeSmA02S01 date, sort lcolor(brown) lwidth(medthick)) /// 8 "IHME excess"
+(line DayDeaMeSmA01S00 date, sort lcolor(red) lwidth(medthick)) /// 3 "DELP smooth"
+(line DayDeaFOREA01S00 date, sort lcolor(red) lpattern(tight_dot) lwidth(medium)) /// 4 "DELP" Forecast only
+(line DayDeaMeSmA02S01 date, sort lcolor(black)) /// 5 "IHME"
+(line DayDeaFOREA02S01 date, sort lcolor(black) lpattern(tight_dot) lwidth(vthick)) /// 6 "IHME" Forecast only
+(line DayDeXMeSmA02S01 date, sort lcolor(brown) lwidth(medthick)) /// 7 "IHME excess"
 if date >= td(01jan2021) & provincestate == "`l'" & DayDeaMeRaA00S00 >= 0 ///
 , xtitle(Date) xlabel(#$monthspast01jan2021merge, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily deaths) title("COVID-19 daily deaths, $country, `l'", size(medium)) /// 
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
-legend(order(1 "JOHN raw" 2 "JOHN smooth" 3 "DELP raw" 4 "DELP smooth" 6 "IHME" 8 "IHME excess") size(small) row(2)) ///
+legend(order(1 "JOHN raw" 2 "JOHN smooth" 3 "DELP smooth" 5 "IHME" 7 "IHME excess") size(small) row(2)) ///
 subtitle("reference scenarios, after 2022-01-01", size(small)) ///
 note("Reference scenario forecasts are marked with |||||||||||| " , size(small))
 
