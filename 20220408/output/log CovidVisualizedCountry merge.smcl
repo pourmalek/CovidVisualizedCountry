@@ -3,7 +3,7 @@
       name:  {res}<unnamed>
        {txt}log:  {res}/Users/farshadpourmalek/Downloads/CovidVisualizedCountry-main/20220408/code/merge/log CovidVisualizedCountry merge.smcl
   {txt}log type:  {res}smcl
- {txt}opened on:  {res} 9 Apr 2022, 17:15:26
+ {txt}opened on:  {res} 9 Apr 2022, 18:14:21
 {txt}
 {com}. 
 . 
@@ -973,7 +973,7 @@ now 732
 
 {txt}Contains data from {res}CovidVisualizedCountry merge.dta
 {txt}  obs:{res}        12,323                          
-{txt} vars:{res}         2,161                          9 Apr 2022 17:15
+{txt} vars:{res}         2,161                          9 Apr 2022 18:14
 {txt} size:{res}    92,052,810                          
 {txt}{hline}
               storage   display    value
@@ -6732,7 +6732,7 @@ Sorted by: {res}loc_grand_name  provincestate  date
 > (line DayCasMeRaA00S00 date, sort lcolor(cyan) lwidth(medium) lpattern(tight_dot)) /// 1 "JOHN raw"
 > (line DayCasMeSmA00S00 date, sort lcolor(cyan*1.2) lwidth(thick)) /// 2 "JOHN smooth"
 > (line DayCasMeRaA01S00 date, sort lcolor(red)) /// 3 "DELP"
-> (line DayCasFOREA01S00 date, sort lcolor(red) lpattern(tight_dot) lwidth(medium)) /// 4 "DELP" Forecast only
+> (line DayCasFOREA01S00 date, sort lcolor(red) lpattern(tight_dot) lwidth(vthick)) /// 4 "DELP" Forecast only
 > (line DayINFMeSmA02S01 date, sort lcolor(black)) /// 5 "IHME"
 > (line DayINFFOREA02S01 date, sort lcolor(black) lpattern(tight_dot) lwidth(vthick)) /// 6 "IHME" Forecast only
 > if date >= td(01jan2022) & provincestate == "`l'" & DayCasMeRaA00S00 >= 0 ///
@@ -9421,7 +9421,7 @@ Sorted by: {res}loc_grand_name  provincestate  date
       {txt}name:  {res}<unnamed>
        {txt}log:  {res}/Users/farshadpourmalek/Downloads/CovidVisualizedCountry-main/20220408/code/merge/log CovidVisualizedCountry merge.smcl
   {txt}log type:  {res}smcl
- {txt}closed on:  {res} 9 Apr 2022, 17:24:21
+ {txt}closed on:  {res} 9 Apr 2022, 18:23:31
 {txt}{.-}
 {smcl}
 {txt}{sf}{ul off}
