@@ -702,7 +702,7 @@ twoway ///
 (line DayDeaMeRaA00S00 date, sort lcolor(cyan) lwidth(medium) lpattern(tight_dot)) /// 1 "JOHN raw"
 (line DayDeaMeSmA00S00 date, sort lcolor(cyan*1.2) lwidth(vthick)) /// 2 "JOHN smooth"
 (line DayDeaMeRaA01S00 date, sort lcolor(red)) /// 3 "DELP"
-(line DayDeaFOREA01S00 date, sort lcolor(red) lpattern(tight_dot) lwidth(vthick)) /// 4 "DELP" Forecast only
+(line DayDeaFOREA01S00 date, sort lcolor(red) lpattern(tight_dot) lwidth(medium)) /// 4 "DELP" Forecast only
 (line DayDeaMeSmA02S01 date, sort lcolor(black)) /// 5 "IHME"
 (line DayDeaFOREA02S01 date, sort lcolor(black) lpattern(tight_dot) lwidth(vthick)) /// 6 "IHME" Forecast only
 (line DayDeXMeSmA02S01 date, sort lcolor(brown) lwidth(medthick)) /// 7 "IHME excess"
@@ -735,7 +735,7 @@ twoway ///
 (line DayDeaMeSmA00S00 date, sort lcolor(cyan*1.2) lwidth(vthick)) /// 2 "JOHN smooth"
 (line DayDeaMeRaA01S00 date, sort lcolor(red*0.3) lwidth(medium) lpattern(tight_dot)) /// 3 "DELP raw"
 (line DayDeaMeSmA01S00 date, sort lcolor(red) lwidth(medthick)) /// 4 "DELP smooth"
-(line DayDeaFOREA01S00 date, sort lcolor(red) lpattern(tight_dot) lwidth(vthick)) /// 5 "DELP" Forecast only
+(line DayDeaFOREA01S00 date, sort lcolor(red) lpattern(tight_dot) lwidth(medium)) /// 5 "DELP" Forecast only
 (line DayDeaMeSmA02S01 date, sort lcolor(black)) /// 6 "IHME"
 (line DayDeaFOREA02S01 date, sort lcolor(black) lpattern(tight_dot) lwidth(vthick)) /// 7 "IHME" Forecast only
 (line DayDeXMeSmA02S01 date, sort lcolor(brown) lwidth(medthick)) /// 8 "IHME excess"
@@ -808,7 +808,7 @@ twoway ///
 (line DayDeaMeRaA00S00 date, sort lcolor(cyan) lwidth(medium) lpattern(tight_dot)) /// 1 "JOHN raw"
 (line DayDeaMeSmA00S00 date, sort lcolor(cyan*1.2) lwidth(thick)) /// 2 "JOHN smooth"
 (line DayDeaMeRaA01S00 date, sort lcolor(red)) /// 3 "DELP"
-(line DayDeaFOREA01S00 date, sort lcolor(red) lpattern(tight_dot) lwidth(vthick)) /// 4 "DELP" Forecast only
+(line DayDeaFOREA01S00 date, sort lcolor(red) lpattern(tight_dot) lwidth(medium)) /// 4 "DELP" Forecast only
 (line DayDeaMeSmA02S01 date, sort lcolor(black)) /// 5 "IHME"
 (line DayDeaFOREA02S01 date, sort lcolor(black) lpattern(tight_dot) lwidth(vthick)) /// 6 "IHME" Forecast only
 (line DayDeXMeSmA02S01 date, sort lcolor(brown) lwidth(medthick)) /// 7 "IHME excess"
@@ -837,7 +837,7 @@ twoway ///
 (line DayDeaMeRaA00S00 date, sort lcolor(cyan) lwidth(medium) lpattern(tight_dot)) /// 1 "JOHN raw"
 (line DayDeaMeSmA00S00 date, sort lcolor(cyan*1.2) lwidth(thick)) /// 2 "JOHN smooth"
 (line DayDeaMeRaA01S00 date, sort lcolor(red)) /// 3 "DELP"
-(line DayDeaFOREA01S00 date, sort lcolor(red) lpattern(tight_dot) lwidth(vthick)) /// 4 "DELP" Forecast only
+(line DayDeaFOREA01S00 date, sort lcolor(red) lpattern(tight_dot) lwidth(medium)) /// 4 "DELP" Forecast only
 (line DayDeaMeSmA02S01 date, sort lcolor(black)) /// 5 "IHME"
 (line DayDeaFOREA02S01 date, sort lcolor(black) lpattern(tight_dot) lwidth(vthick)) /// 6 "IHME" Forecast only
 (line DayDeXMeSmA02S01 date, sort lcolor(brown) lwidth(medthick)) /// 7 "IHME excess"
@@ -872,7 +872,7 @@ twoway ///
 (line DayDeaMeSmA00S00 date, sort lcolor(cyan*1.2) lwidth(thick)) /// 2 "JOHN smooth"
 (line DayDeaMeRaA01S00 date, sort lcolor(red*0.3) lwidth(medium) lpattern(tight_dot)) /// 3 "DELP raw"
 (line DayDeaMeSmA01S00 date, sort lcolor(red) lwidth(medthick)) /// 4 "DELP smooth"
-(line DayDeaFOREA01S00 date, sort lcolor(red) lpattern(tight_dot) lwidth(vthick)) /// 5 "DELP" Forecast only
+(line DayDeaFOREA01S00 date, sort lcolor(red) lpattern(tight_dot) lwidth(medium)) /// 5 "DELP" Forecast only
 (line DayDeaMeSmA02S01 date, sort lcolor(black)) /// 6 "IHME"
 (line DayDeaFOREA02S01 date, sort lcolor(black) lpattern(tight_dot) lwidth(vthick)) /// 7 "IHME" Forecast only
 (line DayDeXMeSmA02S01 date, sort lcolor(brown) lwidth(medthick)) /// 8 "IHME excess"
@@ -904,7 +904,7 @@ twoway ///
 (line DayDeaMeSmA00S00 date, sort lcolor(cyan*1.2) lwidth(thick)) /// 2 "JOHN smooth"
 (line DayDeaMeRaA01S00 date, sort lcolor(red*0.3) lwidth(medium) lpattern(tight_dot)) /// 3 "DELP raw"
 (line DayDeaMeSmA01S00 date, sort lcolor(red) lwidth(medthick)) /// 4 "DELP smooth"
-(line DayDeaFOREA01S00 date, sort lcolor(red) lpattern(tight_dot) lwidth(vthick)) /// 5 "DELP" Forecast only
+(line DayDeaFOREA01S00 date, sort lcolor(red) lpattern(tight_dot) lwidth(medium)) /// 5 "DELP" Forecast only
 (line DayDeaMeSmA02S01 date, sort lcolor(black)) /// 6 "IHME"
 (line DayDeaFOREA02S01 date, sort lcolor(black) lpattern(tight_dot) lwidth(vthick)) /// 7 "IHME" Forecast only
 (line DayDeXMeSmA02S01 date, sort lcolor(brown) lwidth(medthick)) /// 8 "IHME excess"
@@ -932,7 +932,7 @@ twoway ///
 (line DayDeaMeRaA00S00 date, sort lcolor(cyan) lwidth(medium) lpattern(tight_dot)) /// 1 "JOHN raw"
 (line DayDeaMeSmA00S00 date, sort lcolor(cyan*1.2) lwidth(vthick)) /// 2 "JOHN smooth"
 (line DayDeaMeRaA01S00 date, sort lcolor(red)) /// 3 "DELP" mean
-(line DayDeaFOREA01S00 date, sort lcolor(red) lpattern(tight_dot) lwidth(vthick)) /// 4 "DELP" Forecast only
+(line DayDeaFOREA01S00 date, sort lcolor(red) lpattern(tight_dot) lwidth(medium)) /// 4 "DELP" Forecast only
 (line DayDeaLoRaA01S00 date, sort lcolor(red) lpattern(dash)) /// 5 "DELP" lower
 (line DayDeaUpRaA01S00 date, sort lcolor(red) lpattern(dash)) /// 6 "DELP" upper
 (line DayDeaMeSmA02S01 date, sort lcolor(black)) /// 7 IHME mean
@@ -1012,7 +1012,7 @@ twoway ///
 (line DayDeaMeSmA00S00 date, sort lcolor(cyan*1.2) lwidth(vthick)) /// 2 "JOHN smooth"
 (line DayDeaMeRaA01S00 date, sort lcolor(red*0.2) lwidth(medium) lpattern(tight_dot)) /// 3 "DELP mean raw"
 (line DayDeaMeSmA01S00 date, sort lcolor(red) lwidth(medthick)) /// 4 "DELP mean smooth"
-(line DayDeaFOREA01S00 date, sort lcolor(red) lpattern(tight_dot) lwidth(vthick)) /// 5 "DELP" Forecast only
+(line DayDeaFOREA01S00 date, sort lcolor(red) lpattern(tight_dot) lwidth(medium)) /// 5 "DELP" Forecast only
 (line DayDeaLoSmA01S00 date, sort lcolor(red) lpattern(dash)) /// 6 "DELP" lower
 (line DayDeaUpSmA01S00 date, sort lcolor(red) lpattern(dash)) /// 7 "DELP" upper
 (line DayDeaMeSmA02S01 date, sort lcolor(black)) /// 8 IHME mean
@@ -1530,7 +1530,7 @@ twoway ///
 (line DayCasMeRaA00S00 date, sort lcolor(cyan) lwidth(medium) lpattern(tight_dot)) /// 1 "JOHN raw"
 (line DayCasMeSmA00S00 date, sort lcolor(cyan*1.2) lwidth(thick)) /// 2 "JOHN smooth"
 (line DayCasMeRaA01S00 date, sort lcolor(red)) /// 3 "DELP"
-(line DayCasFOREA01S00 date, sort lcolor(red) lpattern(tight_dot) lwidth(vthick)) /// 4 "DELP" Forecast only
+(line DayCasFOREA01S00 date, sort lcolor(red) lpattern(tight_dot) lwidth(medium)) /// 4 "DELP" Forecast only
 (line DayINFMeSmA02S01 date, sort lcolor(black)) /// 5 "IHME"
 (line DayINFFOREA02S01 date, sort lcolor(black) lpattern(tight_dot) lwidth(vthick)) /// 6 "IHME" Forecast only
 (line DayINFMeRaA03S02 date, sort lcolor(magenta)) /// 7 "IMPE"
@@ -1818,7 +1818,7 @@ twoway ///
 (line DayCasMeSmA00S00 date, sort lcolor(cyan*1.2) lwidth(thick)) /// 2 "JOHN smooth"
 (line DayCasMeRaA01S00 date, sort lcolor(red*0.8) lwidth(medium) lpattern(tight_dot)) /// 3 "DELP raw"
 (line DayCasMeSmA01S00 date, sort lcolor(red) lwidth(medthick)) /// 4 "DELP smooth"
-(line DayCasFOREA01S00 date, sort lcolor(red) lpattern(tight_dot) lwidth(vthick)) /// 5 "DELP" Forecast only
+(line DayCasFOREA01S00 date, sort lcolor(red) lpattern(tight_dot) lwidth(medium)) /// 5 "DELP" Forecast only
 (line DayINFMeSmA02S01 date, sort lcolor(black)) /// 6 "IHME"
 (line DayINFFOREA02S01 date, sort lcolor(black) lpattern(tight_dot) lwidth(vthick)) /// 7 "IHME" Forecast only
 if date >= td(01jan2020) & provincestate == "`l'" & DayCasMeRaA00S00 >= 0 ///
@@ -1893,7 +1893,7 @@ twoway ///
 (line DayCasMeRaA00S00 date, sort lcolor(cyan) lwidth(medium) lpattern(tight_dot)) /// 1 "JOHN raw"
 (line DayCasMeSmA00S00 date, sort lcolor(cyan*1.2) lwidth(thick)) /// 2 "JOHN smooth"
 (line DayCasMeRaA01S00 date, sort lcolor(red)) /// 3 "DELP"
-(line DayCasFOREA01S00 date, sort lcolor(red) lpattern(tight_dot) lwidth(vthick)) /// 4 "DELP" Forecast only
+(line DayCasFOREA01S00 date, sort lcolor(red) lpattern(tight_dot) lwidth(medium)) /// 4 "DELP" Forecast only
 (line DayINFMeSmA02S01 date, sort lcolor(black)) /// 5 "IHME"
 (line DayINFFOREA02S01 date, sort lcolor(black) lpattern(tight_dot) lwidth(vthick)) /// 6 "IHME" Forecast only
 (line DayINFFOREA03S02 date, sort lcolor(magenta) lpattern(tight_dot) lwidth(vthick)) /// 7 "IMPE" Forecast only
@@ -1927,7 +1927,7 @@ twoway ///
 (line DayCasMeRaA00S00 date, sort lcolor(cyan) lwidth(medium) lpattern(tight_dot)) /// 1 "JOHN raw"
 (line DayCasMeSmA00S00 date, sort lcolor(cyan*1.2) lwidth(thick)) /// 2 "JOHN smooth"
 (line DayCasMeRaA01S00 date, sort lcolor(red)) /// 3 "DELP"
-(line DayCasFOREA01S00 date, sort lcolor(red) lpattern(tight_dot) lwidth(vthick)) /// 4 "DELP" Forecast only
+(line DayCasFOREA01S00 date, sort lcolor(red) lpattern(tight_dot) lwidth(medium)) /// 4 "DELP" Forecast only
 (line DayINFMeSmA02S01 date, sort lcolor(black)) /// 5 "IHME"
 (line DayINFFOREA02S01 date, sort lcolor(black) lpattern(tight_dot) lwidth(vthick)) /// 6 "IHME" Forecast only
 if date >= td(01jan2021) & provincestate == "`l'" & DayCasMeRaA00S00 >= 0 ///
@@ -1958,7 +1958,7 @@ twoway ///
 (line DayCasMeRaA00S00 date, sort lcolor(cyan) lwidth(medium) lpattern(tight_dot)) /// 1 "JOHN raw"
 (line DayCasMeSmA00S00 date, sort lcolor(cyan*1.2) lwidth(thick)) /// 2 "JOHN smooth"
 (line DayCasMeRaA01S00 date, sort lcolor(red)) /// 3 "DELP"
-(line DayCasFOREA01S00 date, sort lcolor(red) lpattern(tight_dot) lwidth(vthick)) /// 4 "DELP" Forecast only
+(line DayCasFOREA01S00 date, sort lcolor(red) lpattern(tight_dot) lwidth(medium)) /// 4 "DELP" Forecast only
 (line DayINFMeSmA02S01 date, sort lcolor(black)) /// 5 "IHME"
 (line DayINFFOREA02S01 date, sort lcolor(black) lpattern(tight_dot) lwidth(vthick)) /// 6 "IHME" Forecast only
 if date >= td(01jan2022) & provincestate == "`l'" & DayCasMeRaA00S00 >= 0 ///
@@ -2023,7 +2023,7 @@ twoway ///
 (line DayCasMeRaA00S00 date, sort lcolor(cyan) lwidth(medium) lpattern(tight_dot)) /// 1 "JOHN raw"
 (line DayCasMeSmA00S00 date, sort lcolor(cyan*1.2) lwidth(thick)) /// 2 "JOHN smooth"
 (line DayCasMeRaA01S00 date, sort lcolor(red)) /// 3 DELP mean
-(line DayCasFOREA01S00 date, sort lcolor(red) lpattern(tight_dot) lwidth(vthick)) /// 4 "DELP" Forecast only
+(line DayCasFOREA01S00 date, sort lcolor(red) lpattern(tight_dot) lwidth(medium)) /// 4 "DELP" Forecast only
 (line DayCasLoRaA01S00 date, sort lcolor(red) lpattern(dash)) /// 5 DELP lower
 (line DayCasUpRaA01S00 date, sort lcolor(red) lpattern(dash)) /// 6 DELP upper
 (line DayINFMeSmA02S01 date, sort lcolor(black)) /// 7 IHME mean
