@@ -59,31 +59,31 @@ Days old: DELP 0, IHME 18, IMPE 68, SRIV 0
 
 (2) Canada National [Daily deaths, All scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/CAN2%2012aDayDeaMERGnat%202021%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%202021.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/162613698-48d66b4f-a4ea-46df-bf19-1668eba15efa.png)
+![image](https://user-images.githubusercontent.com/30849720/162753911-a571e5b4-805e-4a3c-b557-9f9c9cb59413.png)
 
 ****
 
 (2b) Canada National [Daily deaths, All scenarios, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/CAN2%2012aaDayDeaMERGnat%202022%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%202022.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/162613722-77728c4f-57c6-4a69-a794-ee89547beed7.png)
+![image](https://user-images.githubusercontent.com/30849720/162754068-0aa98756-4c03-43d6-949f-623bdf11d05c.png)
 
 ****
 
 (3) Canada National [Daily cases or infections, Reference scenarios, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/CAN4%2031aDayCasMERGnat%20alltime%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20National%2C%20reference%20scenarios.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/162613755-b591edca-e3f4-42a6-826a-c1bb549f9cf4.png)
+![image](https://user-images.githubusercontent.com/30849720/162754237-60e8fe7d-fb2e-4594-8c98-dbe0d4acf841.png)
  
 ****
 
 (4) Canada National [Daily cases or infections, All scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/CAN6%2034aDayCasMERGnat%202021%203scen%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20National%2C%203%20scenarios%2C%202021%2C%20uncertainty.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/162557426-d292c8c8-0336-4d79-b9a6-178b245b9b2b.png)
+![image](https://user-images.githubusercontent.com/30849720/162754381-e5faf2c7-94a1-4cec-9a54-ce06530248cf.png)
  
 ****
 
 (4b) Canada National [Daily cases or infections, All scenarios, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/CAN6%2034aaDayCasMERGnat%202021%203scen%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20National%2C%203%20scenarios%2C%202022%2C%20uncertainty.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/162585556-80f84d76-72a6-4c98-96ab-4d99427045bc.png)
+![image](https://user-images.githubusercontent.com/30849720/162754495-89f997f7-39ef-40a4-8605-56143b05f75c.png)
  
 ****
 
