@@ -71,13 +71,11 @@ Days old: DELP 0, IHME 18, IMPE 68, SRIV 0
 
 (3) Canada National [Daily cases or infections, Reference scenarios, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/CAN4%2031aDayCasMERGnat%20alltime%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20National%2C%20reference%20scenarios.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/162754237-60e8fe7d-fb2e-4594-8c98-dbe0d4acf841.png)
  
 ****
 
 (4) Canada National [Daily cases or infections, All scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/CAN6%2034aDayCasMERGnat%202021%203scen%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20National%2C%203%20scenarios%2C%202021%2C%20uncertainty.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/162754381-e5faf2c7-94a1-4cec-9a54-ce06530248cf.png)
  
 ****
 
