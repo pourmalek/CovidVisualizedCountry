@@ -258,7 +258,6 @@ Days old: DELP 0, IHME 18, IMPE 68, SRIV 0
 
 (1) Alberta [Daily deaths, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/SUB1%2011bDayDeaMERGsub%20alltime%20Alberta%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/162758370-7ff56449-646d-4116-9150-3b8c76dfe4e8.png)
  
 ****
 
@@ -282,7 +281,7 @@ Days old: DELP 0, IHME 18, IMPE 68, SRIV 0
  
 ****
 
-(b) Alberta [Daily cases or infections, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/SUB5%2032cDayCasMERGsub%202021%20Alberta%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios%2C%202022.pdf)
+(4b) Alberta [Daily cases or infections, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/SUB5%2032cDayCasMERGsub%202021%20Alberta%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios%2C%202022.pdf)
 
  
 ****
