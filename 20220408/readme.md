@@ -53,7 +53,7 @@ Days old: DELP 0, IHME 18, IMPE 68, SRIV 0
 
 (1) Canada [Daily deaths, Reference scenarios, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/CAN1%2011aDayDeaMERGnat%20alltime%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/162613668-ca230a74-f61e-475f-9a9e-c89e4fd193ae.png)
+![image](https://user-images.githubusercontent.com/30849720/162753719-1fe5b7d1-04d3-4253-b1fe-3161bdddd503.png)
  
 ****
 
