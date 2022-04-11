@@ -1911,7 +1911,7 @@ if date >= td(01jan2022) & provincestate == "`l'" & DayCasMeRaA00S00 >= 0 ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily cases or infections) title("COVID-19 daily cases or infections, $country, `l'", size(medium)) /// 
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
-legend(order(1 "JOHN cases" 3 "DELP cases" 5 "IHME infections") size(small) row(2)) ///
+legend(order(1 "JOHN cases" 3 "DELP cases" 5 "IHME infections") size(small) row(1)) ///
 subtitle("reference scenarios, 2022 on", size(small)) ///
 note("Reference scenario forecasts are marked with |||||||||||| " , size(small))
 
