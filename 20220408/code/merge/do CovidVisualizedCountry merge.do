@@ -731,7 +731,7 @@ foreach l of local levels {
 
 twoway ///
 (line DayDeaMeSmA00S00 date, sort lcolor(cyan) lwidth(vthick)) /// 1 "JOHN smooth"
-(line DayDeaFOREA01S00 date, sort lcolor(red*0.7) lpattern(tight_dot) lwidth(thick)) /// 2 "DELP" Forecast only
+(line DayDeaFOREA01S00 date, sort lcolor(red) lpattern(tight_dot) lwidth(vthick)) /// 2 "DELP" Forecast only
 (line DayDeaMeSmA01S00 date, sort lcolor(red) lwidth(medthick)) /// 3 "DELP smooth"
 (line DayDeaFOREA02S01 date, sort lcolor(black) lpattern(tight_dot) lwidth(vthick)) /// 4 "IHME" Forecast only
 (line DayDeaMeSmA02S01 date, sort lcolor(black)) /// 5 "IHME"
