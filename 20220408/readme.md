@@ -24,7 +24,7 @@ Interpretation:
 
 Science: Premature release of mandates for using masks and physical distancing serves more the political and economic purposes of the governments than the public health and survival needs of the populations and individuals. The governments have chosen to pay the price of the current levels of daily deaths, cases, and the burden of long-COVID out of people’s pockets to gain more political and economic calm. 
 
-Politics: Let people die at the current rates, prevent further riots and secure party seats. Set the level of deaths where it maximizes the party’s power. The gravity of one more death or one less death seems to not be equally weighted in public health and in politics. The objectives of politics and public health are not the same. Not fair enough. Public Health Officers are on which side? 
+Politics: Let people die at the current rates, prevent further riots and secure party seats. Set the level of deaths where it maximizes the party’s power. The gravity of one more death or one less death seems to not be equally weighted in public health and in politics. The objectives of politics and public health are not the same. Not fair enough. Public Health Officers are on: which side.
 
 
 <br/><br/>
@@ -340,7 +340,7 @@ Politics: Let people die at the current rates, prevent further riots and secure 
  
 ****
 
-(2b) British Columbia [Daily deaths, Reference scenario, 2022 on]()
+(2b) British Columbia [Daily deaths, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/SUB2%2012bDayDeaMERGsub%202021%20British%20Columbia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%British%20Columbia%2C%20reference%20scenarios%2C%202021.pdf)
 
  
 ****
@@ -389,7 +389,7 @@ Politics: Let people die at the current rates, prevent further riots and secure 
   
 ****
 
-(2b) Manitoba [Daily deaths, Reference scenario, 2022 on]()
+(2b) Manitoba [Daily deaths, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/SUB2%2012bDayDeaMERGsub%202021%20Manitoba%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios%2C%202021.pdf)
 
  
 ****
@@ -448,7 +448,7 @@ Politics: Let people die at the current rates, prevent further riots and secure 
  
 ****
 
-(2b) Nova Scotia [Daily deaths, Reference scenario, 2022 on]()
+(2b) Nova Scotia [Daily deaths, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/SUB2%2012bDayDeaMERGsub%202021%20Nova%20Scotia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Nova%20Scotia%2C%20reference%20scenarios%2C%202021.pdf)
 
  
 ****
@@ -497,7 +497,7 @@ Politics: Let people die at the current rates, prevent further riots and secure 
 
 ****
 
-(2b) Ontario [Daily deaths, Reference scenario, 2022 on]()
+(2b) Ontario [Daily deaths, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/SUB2%2012bDayDeaMERGsub%202021%20Ontario%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202021.pdf)
 
  
 ****
@@ -547,7 +547,7 @@ Politics: Let people die at the current rates, prevent further riots and secure 
  
 ****
 
-(2b) Ontario [Daily deaths, Reference scenario, 2022 on]()
+(2b) Ontario [Daily deaths, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/SUB2%2012bDayDeaMERGsub%202021%20Ontario%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202021.pdf)
 
  
 ****
@@ -598,7 +598,7 @@ Politics: Let people die at the current rates, prevent further riots and secure 
  
 ****
 
-(2b) Saskatchewan [Daily deaths, Reference scenario, 2022 on]()
+(2b) Saskatchewan [Daily deaths, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/SUB2%2012bDayDeaMERGsub%202021%20Saskatchewan%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Saskatchewan%2C%20reference%20scenarios%2C%202021.pdf)
 
  
 ****
