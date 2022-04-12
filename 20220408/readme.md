@@ -12,7 +12,7 @@ Days old: DELP 0, IHME 0, IMPE 68, SRIV 0
 
 Observations:
 
-The officially reported daily cases and deaths do not show upward trends at the national and province levels, with two exceptions. (1) The trajectory of reported daily deaths in Saskatchewan looks like a rollercoaster since February 2022 – that is, the net effect of the underlying truth plus how the truth is handled. (2) Reported daily cases increased, plateaued, and are rising again in Nova Scotia since mid-March 2002. 
+The officially reported daily cases and deaths do not show upward trends at the national and province levels, with two exceptions. (1) TThe trajectory of reported daily deaths in Saskatchewan has had a lot of fluctuations since February 2022 – that is, the net effect of the underlying truth plus how the truth is handled. (2) Reported daily cases increased, plateaued, and are rising again in Nova Scotia since mid-March 2002. 
 
 If people continue to use masks at the levels observed in late March for the next four months and there is no considerable spread after a potential emergence of more fatal variants, the IHME model predicts decreasing daily infections and deaths until October 1st, 2022 – after an increase in daily infections and deaths in Ontario in early-April 2022 that is reflected at the national level. 
 
