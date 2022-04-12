@@ -16,13 +16,15 @@ The officially reported daily cases and deaths do not show upward trends at the 
 
 If people continue to use masks at the levels observed in late March for the next four months and there is no considerable spread after a potential emergence of more fatal variants, the IHME model predicts decreasing daily infections and deaths until October 1st, 2022 – after an increase in daily infections and deaths in Ontario in early-April 2022 that is reflected at the national level. 
 
-The DELP model predicts decreasing levels of daily deaths and daily cases at the national level through May 2022. The SRIV model predicts decreasing daily deaths and cases in early April 2022, but their levels of daily outcomes are significantly overestimated. The latest available IMPE model update (20220131) is more than three months old and shows their predictions as of early winter 2022.
+The DELP model predicts decreasing levels of daily deaths and daily cases at the national level through May 2022. The predicted trajectory of the DELP model varies at the province level. The SRIV model predicts decreasing daily deaths and cases in early April 2022, but their levels of daily outcomes are significantly overestimated. The latest available IMPE model update (20220131) is more than three months old and shows their predictions as of early winter 2022.
 
 The main (reference or status quo) scenario of IHME includes the assumption that the level of mask use will continue unchanged for the four months of April to July 2022. There is no alternative scenario that includes declining levels of mask use – that is actually happening on the ground. As such, none of the IHME model scenarios incorporate the currently declining use of masks and therefore tend to underestimate the future trajectories of infections and deaths. By default, no considerable spread after a potential emergence of more fatal variants is assumed in the models. 
 
 Interpretation:
 
-Premature release of mandates for using masks and physical distancing serves more the political and economic purposes of the governments than the public health and survival needs of the populations and individuals. The governments have chosen to pay the price of the current levels of daily deaths, cases, and the burden of long-COVID out of people’s pockets to gain more political and economic calm. Let people die at the current rates, prevent further riots and secure party seats. 
+Premature release of mandates for using masks and physical distancing serves more the political and economic purposes of the governments than the public health and survival needs of the populations and individuals. The governments have chosen to pay the price of the current levels of daily deaths, cases, and the burden of long-COVID out of people’s pockets to gain more political and economic calm. 
+
+Let people die at the current rates, prevent further riots and secure party seats. Set the level of deaths where it maximizes the party’s power. The gravity of one more death or one less death seems to not be equally weighted in public health and in politics. The objectives are not the same. 
 
 
 <br/><br/>
@@ -367,21 +369,25 @@ Premature release of mandates for using masks and physical distancing serves mor
 
 (1) Manitoba [Daily deaths, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/SUB1%2011bDayDeaMERGsub%20alltime%20Manitoba%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/162991289-13e79589-bd4f-448d-aa92-782234977ce7.png)
  
 ****
 
 (2) Manitoba [Daily deaths, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/SUB2%2012bDayDeaMERGsub%202021%20Manitoba%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/162991448-f649c547-171a-40aa-a077-5d9d1444406a.png)
   
 ****
 
 (3) Manitoba [Daily cases or infections, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/SUB4%2031bDayCasMERGsub%20alltime%20Manitoba%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/162991584-a025a582-ffcb-4274-ac08-2205de7d91ce.png)
  
 ****
 
 (4) Manitoba [Daily cases or infections, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/SUB5%2032bDayCasMERGsub%202021%20Manitoba%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/162991730-f9c21a05-86c3-4c2f-971f-106f04e270aa.png)
  
 ****
 
@@ -412,21 +418,25 @@ Premature release of mandates for using masks and physical distancing serves mor
 
 (1) Nova Scotia [Daily deaths, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/SUB1%2011bDayDeaMERGsub%20alltime%20Nova%20Scotia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Nova%20Scotia%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/162992513-865c807f-a094-458b-9251-99df675bd577.png)
  
 ****
 
 (2) Nova Scotia [Daily deaths, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/SUB2%2012bDayDeaMERGsub%202021%20Nova%20Scotia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Nova%20Scotia%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/162992645-76a9dcda-32ce-4391-b37b-a4694b868d2f.png)
  
 ****
 
 (3) Nova Scotia [Daily cases or infections, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/SUB4%2031bDayCasMERGsub%20alltime%20Nova%20Scotia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Nova%20Scotia%2C%20reference%20scenarios.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/162993114-397927ac-466f-4118-91c7-f1c3ba216486.png)
  
 ****
 
 (4) Nova Scotia [Daily cases or infections, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/SUB5%2032bDayCasMERGsub%202021%20Nova%20Scotia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Nova%20Scotia%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/162993238-5330f16f-6783-4d9e-9ec3-7cca310bcf8f.png)
  
 ****
 
@@ -447,11 +457,13 @@ Premature release of mandates for using masks and physical distancing serves mor
 
 (1) Ontario [Daily deaths, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/SUB1%2011bDayDeaMERGsub%20alltime%20Ontario%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/162993425-ff276f4f-1add-4ff1-9bae-0767e2454033.png)
  
 ****
 
 (2) Ontario [Daily deaths, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/SUB2%2012bDayDeaMERGsub%202021%20Ontario%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/162993556-0f3d2bef-e77c-43d5-b9b3-ba656e4fce71.png)
 
 ****
 
