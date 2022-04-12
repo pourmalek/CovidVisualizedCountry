@@ -152,6 +152,7 @@ Days old: DELP 0, IHME 0, IMPE 68, SRIV 0
 
 (1) Canada Provinces [Daily reported deaths, JOHN, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/graph%2001%20provinces%20C-19%20daily%20deaths%2C%20Canada%2C%20JOHN%202020.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/162972165-b5719852-7306-4212-b668-35caa401d7d5.png)
  
 ****
 
