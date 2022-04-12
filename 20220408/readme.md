@@ -8,6 +8,17 @@ Days old: DELP 0, IHME 0, IMPE 68, SRIV 0
 
 <br/><br/>
 
+**Summary 20220408:**
+
+The officially reported daily cases and deaths do not show upward trends at the national and province levels, with two exceptions. (1) The trajectory of reported daily deaths in Saskatchewan looks like a rollercoaster since February 2022 – that is, the net effect of the underlying truth plus how the truth is handled. (2) Reported daily cases increased, plateaued, and are rising again in Nova Scotia since mid-March 2002. 
+
+If people continue to use masks at the levels observed in late March for the next four months and there is no considerable spread after a potential emergence of more fatal variants, the IHME model predicts decreasing daily infections and deaths until October 1st, 2022. The DELP model predicts decreasing levels of daily deaths and daily cases through May 2022. The SRIV model predicts decreasing daily deaths and cases in early April 2022, but their levels of daily outcomes are significantly overestimated. The latest available IMPE model update (20220131) is more than three months old and shows their predictions as of early winter 2022. 
+
+The main (reference or status quo) scenario of IHME includes the assumption that the level of mask use will continue unchanged for the four months of April to July 2022. There is no alternative scenario that includes declining levels of mask use – that is actually happening on the ground. As such, none of the IHME model scenarios incorporate the currently declining use of masks and therefore tend to underestimate the future trajectories of infections and deaths. By default, no considerable spread after a potential emergence of more fatal variants is assumed in the models. 
+
+Premature release of mandates for using masks and physical distancing serves more the political and economic purposes of the governments than the public health and survival needs of the populations an individual. The governments have chosen to pay the price of the current levels of daily deaths, cases, and the burden of long-COVID out of people’s pockets to gain more political and economic calm. 
+
+
 <br/><br/>
 
 
