@@ -342,7 +342,7 @@ Politics: Let people die at the current rates, prevent further riots and secure 
 
 (2b) British Columbia [Daily deaths, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/SUB2%2012cDayDeaMERGsub%202022%20British%20Columbia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%202022.pdf)
 
-
+![image](https://user-images.githubusercontent.com/30849720/163001659-856aa0b5-9075-4d49-b110-a474b9aa2b1e.png)
  
 ****
 
@@ -392,6 +392,7 @@ Politics: Let people die at the current rates, prevent further riots and secure 
 
 (2b) Manitoba [Daily deaths, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/SUB2%2012cDayDeaMERGsub%202022%20Manitoba%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios%2C%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/163001846-7ec2444f-0fcd-49b2-ad1b-405e1f5d8610.png)
  
 ****
 
@@ -451,6 +452,7 @@ Politics: Let people die at the current rates, prevent further riots and secure 
 
 (2b) Nova Scotia [Daily deaths, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/SUB2%2012cDayDeaMERGsub%202022%20Nova%20Scotia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Nova%20Scotia%2C%20reference%20scenarios%2C%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/163002026-8c6f4875-0b9c-466b-9c02-5cc2e4666914.png)
  
 ****
 
