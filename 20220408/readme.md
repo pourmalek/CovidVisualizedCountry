@@ -628,8 +628,9 @@ Politics: Let people die at the current rates, prevent further riots and secure 
  
 ****
 
-(4b) Saskatchewan [Daily cases or infections, Reference scenario, 2022 on]()
+(4b) Saskatchewan [Daily cases or infections, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/SUB5%2032cDayCasMERGsub%202021%20Saskatchewan%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Saskatchewan%2C%20reference%20scenarios%2C%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/163006022-9acf5c9c-3407-4c35-bcd4-d72dd2ea747b.png)
 
 ****
 
