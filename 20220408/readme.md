@@ -10,7 +10,7 @@ Days old: DELP 0, IHME 0, IMPE 68, SRIV 0
 
 **Summary 20220408:**
 
-Observations:
+**Observations:**
 
 The officially reported daily cases and deaths do not show upward trends at the national and province levels, except that the reported daily cases increased, plateaued, and are rising again in Nova Scotia since mid-March 2002. 
 
@@ -24,7 +24,7 @@ Canada: The latest update of the [PHAC-McMaster model](https://www.canada.ca/en/
 
 .
 
-Interpretation:
+**Interpretations:**
 
 Science: Premature release of mandates for using masks and physical distancing serves more the political and economic purposes of the governments than the public health and survival needs of the populations and individuals. The governments have chosen to pay the price of the current levels of daily deaths, cases, and the burden of long-COVID out of people’s pockets to gain more political and economic calm. 
 
