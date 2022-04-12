@@ -317,6 +317,7 @@ Days old: DELP 0, IHME 18, IMPE 68, SRIV 0
 
 (2) British Columbia [Daily deaths, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/SUB2%2012bDayDeaMERGsub%202021%20British%20Columbia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/162875293-0c2b08d4-5dfb-4b62-8fd1-dad8a282858c.png)
  
 ****
 
