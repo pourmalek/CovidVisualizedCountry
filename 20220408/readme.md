@@ -358,8 +358,9 @@ Politics: Let people die at the current rates, prevent further riots and secure 
  
 ****
 
-(4b) British Columbia [Daily cases or infections, Reference scenario, 2022 on]()
+(4b) British Columbia [Daily cases or infections, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/SUB5%2032cDayCasMERGsub%202021%20British%20Columbia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/163003690-b7b09cad-3a4e-4308-acd9-500d78ccbf95.png)
 
 ****
 
@@ -408,8 +409,9 @@ Politics: Let people die at the current rates, prevent further riots and secure 
  
 ****
 
-(4b) Manitoba [Daily cases or infections, Reference scenario, 2022 on]()
+(4b) Manitoba [Daily cases or infections, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/SUB5%2032cDayCasMERGsub%202021%20Manitoba%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios%2C%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/163003897-56161cc8-0ce4-4cc7-bc53-6ef4a4d5d7b4.png)
 
 ****
 
@@ -468,8 +470,9 @@ Politics: Let people die at the current rates, prevent further riots and secure 
  
 ****
 
-(4b) Nova Scotia [Daily cases or infections, Reference scenario, 2022 on]()
+(4b) Nova Scotia [Daily cases or infections, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/SUB5%2032cDayCasMERGsub%202021%20Nova%20Scotia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Nova%20Scotia%2C%20reference%20scenarios%2C%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/163004085-6de02157-5033-4939-a6d9-b62da86a8310.png)
 
 ****
 
@@ -518,8 +521,9 @@ Politics: Let people die at the current rates, prevent further riots and secure 
  
 ****
 
-(4b) Ontario [Daily cases or infections, Reference scenario, 2022 on]()
+(4b) Ontario [Daily cases or infections, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/SUB5%2032cDayCasMERGsub%202021%20Ontario%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/163004274-b6cb4b5c-5e67-49c5-83b7-f493ff0c6955.png)
 
 ****
 
