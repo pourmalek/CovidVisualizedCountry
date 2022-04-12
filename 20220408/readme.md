@@ -59,7 +59,6 @@ Days old: DELP 0, IHME 18, IMPE 68, SRIV 0
 
 (2) Canada National [Daily deaths, All scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/CAN2%2012aDayDeaMERGnat%202021%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%202021.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/162862293-84018065-503a-477a-96ee-104b6b572846.png)
 
 ****
 
@@ -264,7 +263,7 @@ Days old: DELP 0, IHME 18, IMPE 68, SRIV 0
 
 (2) Alberta [Daily deaths, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/SUB2%2012bDayDeaMERGsub%202021%20Alberta%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios%2C%202021.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/162825142-3b408616-4f1f-44a2-8619-9313ec6d0a15.png)
+![image](https://user-images.githubusercontent.com/30849720/162862293-84018065-503a-477a-96ee-104b6b572846.png)
  
 ****
 
