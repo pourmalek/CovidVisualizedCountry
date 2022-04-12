@@ -10,17 +10,15 @@ Days old: DELP 0, IHME 0, IMPE 68, SRIV 0
 
 **Summary 20220408:**
 
+.
+
 **Observations:**
 
-The officially reported daily cases and deaths do not show upward trends at the national and province levels, except that the reported daily cases increased, plateaued, and are rising again in Nova Scotia since mid-March 2002. 
+IHME: If people continue to use masks at the levels observed in late March for the next four months and there is no considerable spread after a potential emergence of more fatal variants, the IHME model predicts decreasing daily infections and deaths until October 1st, 2022 – after an increase in daily infections and deaths in Ontario in early-April 2022 that is reflected at the national level. The main (reference or status quo) scenario of IHME includes the assumption that the level of mask use will continue unchanged for the four months of April to July 2022. There is no alternative scenario that includes declining levels of mask use – that is actually happening on the ground. As such, none of the IHME model scenarios incorporate the currently declining use of masks and therefore tend to underestimate the future trajectories of infections and deaths. By default, no considerable spread after a potential emergence of more fatal variants is assumed in the models. 
 
-If people continue to use masks at the levels observed in late March for the next four months and there is no considerable spread after a potential emergence of more fatal variants, the IHME model predicts decreasing daily infections and deaths until October 1st, 2022 – after an increase in daily infections and deaths in Ontario in early-April 2022 that is reflected at the national level. 
+Other models: The DELP model predicts decreasing levels of daily deaths and daily cases at the national level through May 2022. The predicted trajectory of the DELP model varies at the province level. The SRIV model predicts decreasing daily deaths and cases in early April 2022, but their levels of daily outcomes are significantly overestimated. The latest available IMPE model update (20220131) is more than three months old and shows their predictions as of early winter 2022.
 
-The DELP model predicts decreasing levels of daily deaths and daily cases at the national level through May 2022. The predicted trajectory of the DELP model varies at the province level. The SRIV model predicts decreasing daily deaths and cases in early April 2022, but their levels of daily outcomes are significantly overestimated. The latest available IMPE model update (20220131) is more than three months old and shows their predictions as of early winter 2022.
-
-The main (reference or status quo) scenario of IHME includes the assumption that the level of mask use will continue unchanged for the four months of April to July 2022. There is no alternative scenario that includes declining levels of mask use – that is actually happening on the ground. As such, none of the IHME model scenarios incorporate the currently declining use of masks and therefore tend to underestimate the future trajectories of infections and deaths. By default, no considerable spread after a potential emergence of more fatal variants is assumed in the models. 
-
-Canada: The latest update of the [PHAC-McMaster model](https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/epidemiological-economic-research-data/mathematical-modelling.html) dates back to 2022-02-18 (as of 2022-04-08). [Canada’s government “Update on COVID-19 in Canada: Epidemiology and Preparedness, April 1, 2022”]( https://www.canada.ca/content/dam/phac-aspc/documents/services/diseases-maladies/coronavirus-disease-covid-19/epidemiological-economic-research-data/update-covid-19-canada-epidemiology-modelling-20220401-en.pdf) does not contain any _quantitative_ predictions for the future of the epidemic in Canada. They have two _narrative_ scenarios for future, named “Realistic Scenario: Ongoing transmission with intermittent waves” and “Worst-case Scenario: Emergence of an immune evasive and severe VOC”. 
+Canada’s government: The latest update of the [PHAC-McMaster model](https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/epidemiological-economic-research-data/mathematical-modelling.html) dates back to 2022-02-18 (as of 2022-04-08). [Canada’s government “Update on COVID-19 in Canada: Epidemiology and Preparedness, April 1, 2022”]( https://www.canada.ca/content/dam/phac-aspc/documents/services/diseases-maladies/coronavirus-disease-covid-19/epidemiological-economic-research-data/update-covid-19-canada-epidemiology-modelling-20220401-en.pdf) does not contain any _quantitative_ predictions for the future of the epidemic in Canada. They have two _narrative_ scenarios for future, named “Realistic Scenario: Ongoing transmission with intermittent waves” and “Worst-case Scenario: Emergence of an immune evasive and severe VOC”. 
 
 .
 
@@ -577,8 +575,9 @@ Politics: Let people die at the current rates, prevent further riots and secure 
  
 ****
 
-(4b) Quebec [Daily cases or infections, Reference scenario, 2022 on]()
+(4b) Quebec [Daily cases or infections, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/SUB5%2032cDayCasMERGsub%202021%20Quebec%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/163005425-1b96e553-9380-400d-be2a-1a5ecac0b389.png)
 
 ****
 
