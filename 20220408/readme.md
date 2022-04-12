@@ -22,7 +22,7 @@ The main (reference or status quo) scenario of IHME includes the assumption that
 
 Canada: The latest update of the [PHAC-McMaster model](https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/epidemiological-economic-research-data/mathematical-modelling.html) dates back to 2022-02-18 (as of 2022-04-08). [Canada’s government “Update on COVID-19 in Canada: Epidemiology and Preparedness, April 1, 2022”]( https://www.canada.ca/content/dam/phac-aspc/documents/services/diseases-maladies/coronavirus-disease-covid-19/epidemiological-economic-research-data/update-covid-19-canada-epidemiology-modelling-20220401-en.pdf) does not contain any _quantitative_ predictions for the future of the epidemic in Canada. They have two _narrative_ scenarios for future, named “Realistic Scenario: Ongoing transmission with intermittent waves” and “Worst-case Scenario: Emergence of an immune evasive and severe VOC”. 
 
-<br/><br/>
+.
 
 Interpretation:
 
