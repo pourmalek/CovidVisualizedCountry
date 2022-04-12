@@ -12,7 +12,7 @@ Days old: DELP 0, IHME 0, IMPE 68, SRIV 0
 
 Observations:
 
-The officially reported daily cases and deaths do not show upward trends at the national and province levels, with two exceptions. (1) TThe trajectory of reported daily deaths in Saskatchewan has had a lot of fluctuations since February 2022 – that is, the net effect of the underlying truth plus how the truth is handled. (2) Reported daily cases increased, plateaued, and are rising again in Nova Scotia since mid-March 2002. 
+The officially reported daily cases and deaths do not show upward trends at the national and province levels, except that the reported daily cases increased, plateaued, and are rising again in Nova Scotia since mid-March 2002. 
 
 If people continue to use masks at the levels observed in late March for the next four months and there is no considerable spread after a potential emergence of more fatal variants, the IHME model predicts decreasing daily infections and deaths until October 1st, 2022 – after an increase in daily infections and deaths in Ontario in early-April 2022 that is reflected at the national level. 
 
@@ -502,6 +502,7 @@ Politics: Let people die at the current rates, prevent further riots and secure 
 
 (2b) Ontario [Daily deaths, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/SUB2%2012cDayDeaMERGsub%202022%20Ontario%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/163002719-4fce8ecb-f9bf-4719-b0e6-b13e781670ce.png)
  
 ****
 
@@ -552,6 +553,7 @@ Politics: Let people die at the current rates, prevent further riots and secure 
 
 (2b) Quebec [Daily deaths, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/SUB2%2012cDayDeaMERGsub%202022%20Quebec%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/163002911-8c993f99-bfb2-4f60-83c8-cf086c842ddb.png)
  
 ****
 
@@ -603,6 +605,7 @@ Politics: Let people die at the current rates, prevent further riots and secure 
 
 (2b) Saskatchewan [Daily deaths, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/SUB2%2012cDayDeaMERGsub%202022%20Saskatchewan%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Saskatchewan%2C%20reference%20scenarios%2C%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/163003096-2ebdff63-6aeb-4719-95b3-4b2cf3f9f0f1.png)
  
 ****
 
