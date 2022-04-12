@@ -2,7 +2,7 @@
 
 ## ! THE MOST RECENT WEEKLY SITUATION REPORT, EVERY MONDAY MORNING, HERE:
 
-! Read the Canada COVID-19 epidemic models situation report No 41 - 2022-04-01 [here](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/41%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2041%20-%202022-04-31.pdf).
+! Read the Canada COVID-19 epidemic models situation report No 42 - 2022-04-08 [here](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/42%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2042%20-%202022-04-08.pdf)
 
 
 <br/><br/>
