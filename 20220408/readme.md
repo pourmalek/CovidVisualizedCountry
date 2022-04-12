@@ -10,11 +10,17 @@ Days old: DELP 0, IHME 0, IMPE 68, SRIV 0
 
 **Summary 20220408:**
 
+Observations:
+
 The officially reported daily cases and deaths do not show upward trends at the national and province levels, with two exceptions. (1) The trajectory of reported daily deaths in Saskatchewan looks like a rollercoaster since February 2022 – that is, the net effect of the underlying truth plus how the truth is handled. (2) Reported daily cases increased, plateaued, and are rising again in Nova Scotia since mid-March 2002. 
 
-If people continue to use masks at the levels observed in late March for the next four months and there is no considerable spread after a potential emergence of more fatal variants, the IHME model predicts decreasing daily infections and deaths until October 1st, 2022. The DELP model predicts decreasing levels of daily deaths and daily cases through May 2022. The SRIV model predicts decreasing daily deaths and cases in early April 2022, but their levels of daily outcomes are significantly overestimated. The latest available IMPE model update (20220131) is more than three months old and shows their predictions as of early winter 2022. 
+If people continue to use masks at the levels observed in late March for the next four months and there is no considerable spread after a potential emergence of more fatal variants, the IHME model predicts decreasing daily infections and deaths until October 1st, 2022 – after an increase in daily infections and deaths in Ontario in early-April 2022 that is reflected at the national level. 
+
+The DELP model predicts decreasing levels of daily deaths and daily cases through May 2022. The SRIV model predicts decreasing daily deaths and cases in early April 2022, but their levels of daily outcomes are significantly overestimated. The latest available IMPE model update (20220131) is more than three months old and shows their predictions as of early winter 2022.
 
 The main (reference or status quo) scenario of IHME includes the assumption that the level of mask use will continue unchanged for the four months of April to July 2022. There is no alternative scenario that includes declining levels of mask use – that is actually happening on the ground. As such, none of the IHME model scenarios incorporate the currently declining use of masks and therefore tend to underestimate the future trajectories of infections and deaths. By default, no considerable spread after a potential emergence of more fatal variants is assumed in the models. 
+
+Interpretation:
 
 Premature release of mandates for using masks and physical distancing serves more the political and economic purposes of the governments than the public health and survival needs of the populations an individual. The governments have chosen to pay the price of the current levels of daily deaths, cases, and the burden of long-COVID out of people’s pockets to gain more political and economic calm. 
 
@@ -233,16 +239,19 @@ Premature release of mandates for using masks and physical distancing serves mor
 
 (12) Canada Provinces [Daily infections, Reference scenario, IHME, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/graph%2025%20provinces%20C-19%20daily%20infections%2C%20Canada%2C%20IHME%2C%202020%20on.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/162987191-72f27099-7603-4213-a0aa-667c64a60bde.png)
  
 ****
 
 (13) Canada Provinces [Daily infections, Reference scenario, IHME, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/graph%2026%20provinces%20C-19%20daily%20infections%2C%20Canada%2C%20IHME%2C%202021%20on.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/162987361-1b224d6b-f31f-458c-acb5-9ed317984c5f.png)
   
 ****
 
 (14) Canada Provinces [Daily infections, Reference scenario, IHME, 2022](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/graph%2027%20provinces%20C-19%20daily%20infections%2C%20Canada%2C%20IHME%2C%202022%20on.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/162987772-9a0fd114-b519-4407-8547-7c12b478655b.png)
  
 ****
 
