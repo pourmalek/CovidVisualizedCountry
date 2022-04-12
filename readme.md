@@ -152,9 +152,10 @@ Days old: DELP 0, IHME 0, IMPE 68, SRIV 0
 
 **Other models**: The DELP model predicts decreasing levels of daily deaths and daily cases at the national level through May 2022. The predicted trajectory of the DELP model varies at the province level. The SRIV model predicts decreasing daily deaths and cases in early April 2022, but their levels of daily outcomes are significantly overestimated. The latest available IMPE model update (20220131) is more than three months old and shows their predictions as of early winter 2022.
 
+The **strengths and weaknesses** of the international and periodically updated COVID-19 pandemic models are discussed [here](https://github.com/pourmalek/CovidVisualizedMethodology#characteristics-of-the-models).
+
 **Canada’s government**: The latest update of the [PHAC-McMaster model](https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/epidemiological-economic-research-data/mathematical-modelling.html) dates back to 2022-02-18 (as of 2022-04-08). [Canada’s government “Update on COVID-19 in Canada: Epidemiology and Preparedness, April 1, 2022”]( https://www.canada.ca/content/dam/phac-aspc/documents/services/diseases-maladies/coronavirus-disease-covid-19/epidemiological-economic-research-data/update-covid-19-canada-epidemiology-modelling-20220401-en.pdf) does not contain any _quantitative_ predictions for the future of the epidemic in Canada. They have two _narrative_ scenarios for future, named “Realistic Scenario: Ongoing transmission with intermittent waves” and “Worst-case Scenario: Emergence of an immune evasive and severe VOC”. 
 
-The **strengths and weaknesses** of the international and periodically updated COVID-19 pandemic models are discussed [here](https://github.com/pourmalek/CovidVisualizedMethodology#characteristics-of-the-models).
 
 .
 
