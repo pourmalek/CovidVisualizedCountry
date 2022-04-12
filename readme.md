@@ -136,9 +136,12 @@ JOHN: Johns Hopkins. The coronavirus resource center, Johns Hopkins University, 
 
 ### LATEST UPTAKE: uptake [`20220408`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20220408)
   
-**_DELP 20220408_**, **_IHME 20220408_**, **_IMPE 20220131_**, **_SRIV 20220408_**
+**_DELP 20220408_**, **_IHME 20220408_**, **_IMPE 20220131_**, **_SRIV 20220408_**, No PHAC
 
 Days old: DELP 0, IHME 0, IMPE 68, SRIV 0
+
+The [latest update of the PHAC-McMaster model](https://www.canada.ca/content/dam/phac-aspc/documents/services/diseases-maladies/coronavirus-disease-covid-19/epidemiological-economic-research-data/update-covid-19-canada-epidemiology-modelling-20220218-en.pdf) is 50 days old.
+
 
 <br/><br/>
 
@@ -154,8 +157,7 @@ Days old: DELP 0, IHME 0, IMPE 68, SRIV 0
 
 The **strengths and weaknesses** of the international and periodically updated COVID-19 pandemic models are discussed [here](https://github.com/pourmalek/CovidVisualizedMethodology#characteristics-of-the-models).
 
-**Canada’s government**: The latest update of the [PHAC-McMaster model](https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/epidemiological-economic-research-data/mathematical-modelling.html) dates back to 2022-02-18 (as of 2022-04-08). [Canada’s government “Update on COVID-19 in Canada: Epidemiology and Preparedness, April 1, 2022”]( https://www.canada.ca/content/dam/phac-aspc/documents/services/diseases-maladies/coronavirus-disease-covid-19/epidemiological-economic-research-data/update-covid-19-canada-epidemiology-modelling-20220401-en.pdf) does not contain any _quantitative_ predictions for the future of the epidemic in Canada. They have two _narrative_ scenarios for future, named “Realistic Scenario: Ongoing transmission with intermittent waves” and “Worst-case Scenario: Emergence of an immune evasive and severe VOC”. 
-
+**Canada’s government**: The [latest update of the PHAC-McMaster model](https://www.canada.ca/content/dam/phac-aspc/documents/services/diseases-maladies/coronavirus-disease-covid-19/epidemiological-economic-research-data/update-covid-19-canada-epidemiology-modelling-20220218-en.pdf) dates back to 2022-02-18 (as of 2022-04-08). The latest available [Canada’s government “Update on COVID-19 in Canada: Epidemiology and Preparedness, April 1, 2022”]( https://www.canada.ca/content/dam/phac-aspc/documents/services/diseases-maladies/coronavirus-disease-covid-19/epidemiological-economic-research-data/update-covid-19-canada-epidemiology-modelling-20220401-en.pdf) does not contain any _quantitative_ predictions for the future of the epidemic in Canada. They have two _narrative_ scenarios for future, named “Realistic Scenario: Ongoing transmission with intermittent waves” and “Worst-case Scenario: Emergence of an immune evasive and severe VOC”. 
 
 .
 
@@ -165,12 +167,11 @@ The **strengths and weaknesses** of the international and periodically updated C
 
 **Politics**: Let people die at the current rates, prevent further riots and secure party seats. Set the level of deaths where it maximizes the party’s power. The gravity of one more death or one less death seems to not be equally weighted in public health and in politics. The objectives of politics and public health are not the same. Not fair enough. Public Health Officers are on: which side.
 
-  ******
-
 <br/><br/>
+  
+  
+******
 
-
- 
   
 # :eyes: SEE: See Canada COVID-19 epidemic models situation report No 41 - 2022-04-01, [here](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/41%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2041%20-%202022-04-31.pdf)
 
