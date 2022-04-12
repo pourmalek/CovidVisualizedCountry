@@ -24,7 +24,7 @@ Interpretation:
 
 Science: Premature release of mandates for using masks and physical distancing serves more the political and economic purposes of the governments than the public health and survival needs of the populations and individuals. The governments have chosen to pay the price of the current levels of daily deaths, cases, and the burden of long-COVID out of people’s pockets to gain more political and economic calm. 
 
-Politics: Let people die at the current rates, prevent further riots and secure party seats. Set the level of deaths where it maximizes the party’s power. The gravity of one more death or one less death seems to not be equally weighted in public health and in politics. The objectives are not the same. Not fair enough. 
+Politics: Let people die at the current rates, prevent further riots and secure party seats. Set the level of deaths where it maximizes the party’s power. The gravity of one more death or one less death seems to not be equally weighted in public health and in politics. The objectives of politics and public health are not the same. Not fair enough. Public Health Officers are on which side? 
 
 
 <br/><br/>
@@ -340,6 +340,11 @@ Politics: Let people die at the current rates, prevent further riots and secure 
  
 ****
 
+(2b) British Columbia [Daily deaths, Reference scenario, 2022 on]()
+
+ 
+****
+
 (3) British Columbia [Daily cases or infections, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/SUB4%2031bDayCasMERGsub%20alltime%20British%20Columbia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios.pdf)
 
 ![image](https://user-images.githubusercontent.com/30849720/162989970-ae2191f2-1854-43b8-b995-7b3518724577.png)
@@ -350,6 +355,11 @@ Politics: Let people die at the current rates, prevent further riots and secure 
 
 ![image](https://user-images.githubusercontent.com/30849720/162990099-594260c4-8811-4911-a934-5bfba1ead8db.png)
  
+****
+
+(4b) British Columbia [Daily cases or infections, Reference scenario, 2022 on]()
+
+
 ****
 
 
@@ -379,6 +389,11 @@ Politics: Let people die at the current rates, prevent further riots and secure 
   
 ****
 
+(2b) Manitoba [Daily deaths, Reference scenario, 2022 on]()
+
+ 
+****
+
 (3) Manitoba [Daily cases or infections, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/SUB4%2031bDayCasMERGsub%20alltime%20Manitoba%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios.pdf)
 
 ![image](https://user-images.githubusercontent.com/30849720/162991584-a025a582-ffcb-4274-ac08-2205de7d91ce.png)
@@ -389,6 +404,11 @@ Politics: Let people die at the current rates, prevent further riots and secure 
 
 ![image](https://user-images.githubusercontent.com/30849720/162991730-f9c21a05-86c3-4c2f-971f-106f04e270aa.png)
  
+****
+
+(4b) Manitoba [Daily cases or infections, Reference scenario, 2022 on]()
+
+
 ****
 
 
@@ -428,6 +448,11 @@ Politics: Let people die at the current rates, prevent further riots and secure 
  
 ****
 
+(2b) Nova Scotia [Daily deaths, Reference scenario, 2022 on]()
+
+ 
+****
+
 (3) Nova Scotia [Daily cases or infections, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/SUB4%2031bDayCasMERGsub%20alltime%20Nova%20Scotia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Nova%20Scotia%2C%20reference%20scenarios.pdf)
 
 ![image](https://user-images.githubusercontent.com/30849720/162993114-397927ac-466f-4118-91c7-f1c3ba216486.png)
@@ -438,6 +463,11 @@ Politics: Let people die at the current rates, prevent further riots and secure 
 
 ![image](https://user-images.githubusercontent.com/30849720/162993238-5330f16f-6783-4d9e-9ec3-7cca310bcf8f.png)
  
+****
+
+(4b) Nova Scotia [Daily cases or infections, Reference scenario, 2022 on]()
+
+
 ****
 
 
@@ -467,6 +497,11 @@ Politics: Let people die at the current rates, prevent further riots and secure 
 
 ****
 
+(2b) Ontario [Daily deaths, Reference scenario, 2022 on]()
+
+ 
+****
+
 (3) Ontario [Daily cases or infections, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/SUB4%2031bDayCasMERGsub%20alltime%20Ontario%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios.pdf)
 
 ![image](https://user-images.githubusercontent.com/30849720/162994932-f67ea299-7d84-4476-961c-df217b673cf0.png)
@@ -477,6 +512,11 @@ Politics: Let people die at the current rates, prevent further riots and secure 
 
 ![image](https://user-images.githubusercontent.com/30849720/162995060-fbc6e4c4-1daf-479a-9f0b-0ddfd91757ad.png)
  
+****
+
+(4b) Ontario [Daily cases or infections, Reference scenario, 2022 on]()
+
+
 ****
 
 
@@ -507,6 +547,11 @@ Politics: Let people die at the current rates, prevent further riots and secure 
  
 ****
 
+(2b) Ontario [Daily deaths, Reference scenario, 2022 on]()
+
+ 
+****
+
 (3) Quebec [Daily cases or infections, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/SUB4%2031bDayCasMERGsub%20alltime%20Quebec%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios.pdf)
 
 ![image](https://user-images.githubusercontent.com/30849720/162996086-bab1fdb8-4242-44a6-bc56-259fa8684ed0.png)
@@ -517,6 +562,11 @@ Politics: Let people die at the current rates, prevent further riots and secure 
 
 ![image](https://user-images.githubusercontent.com/30849720/162996235-e1078cb4-297d-494c-b66a-c5b1b670a9de.png)
  
+****
+
+(4b) Quebec [Daily cases or infections, Reference scenario, 2022 on]()
+
+
 ****
 
 
@@ -548,6 +598,11 @@ Politics: Let people die at the current rates, prevent further riots and secure 
  
 ****
 
+(2b) Saskatchewan [Daily deaths, Reference scenario, 2022 on]()
+
+ 
+****
+
 (3) Saskatchewan [Daily cases or infections, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/SUB4%2031bDayCasMERGsub%20alltime%20Saskatchewan%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Saskatchewan%2C%20reference%20scenarios.pdf)
 
 ![image](https://user-images.githubusercontent.com/30849720/162996705-e052368c-e5d8-43d2-bce7-d73f70d05999.png)
@@ -558,6 +613,11 @@ Politics: Let people die at the current rates, prevent further riots and secure 
 
 ![image](https://user-images.githubusercontent.com/30849720/162996843-d461d540-7e4a-4a8a-800b-0f9aa1c25bb1.png)
  
+****
+
+(4b) Saskatchewan [Daily cases or infections, Reference scenario, 2022 on]()
+
+
 ****
 
  
