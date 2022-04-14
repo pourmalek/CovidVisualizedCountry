@@ -17,7 +17,7 @@ graph (3) British Columbia - [Daily cases or infections, reference scenarios, al
   
 graph (4) British Columbia - [Daily cases or infections, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS%20British%20Columbia%202022/README.md#graph-4-british-columbia---daily-cases-or-infections-3-scenarios-2021-on)  
   
-graph (4b) British Columbia - [Daily cases or infections, Reference scenario, 2022 on]()
+graph (4b) British Columbia - [Daily cases or infections, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS%20British%20Columbia%202022/README.md#graph-4b-british-columbia---daily-cases-or-infections-reference-scenario-2022-on)
 
 ****
 ****  
