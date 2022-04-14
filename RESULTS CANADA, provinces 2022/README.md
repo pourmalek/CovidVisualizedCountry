@@ -5,7 +5,7 @@
 
 ### (a) [Reported deaths and cases via JOHN](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS%20CANADA,%20provinces%202022/README.md#a-reported-deaths-and-cases-via-john-1)
 
-Daily reported deaths:
+_Daily reported deaths:_
 
 graph (1) Canada, provinces - [Daily reported deaths, JOHN, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS%20CANADA,%20provinces%202022/README.md#graph-1-canada-provinces---daily-reported-deaths-john-2020-on)
 
@@ -17,7 +17,7 @@ graph (4) Canada, provinces - [Daily reported deaths, without National, Ontario,
 
 <br/><br/>
 
-Daily reported cases:
+_Daily reported cases:_
 
 graph (5) Canada, provinces - [Daily reported cases, JOHN, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS%20CANADA,%20provinces%202022/README.md#graph-5-canada-provinces---daily-reported-cases-john-2020-on)
 
@@ -33,7 +33,7 @@ graph (8) Canada, provinces - [Daily reported cases, without National, Ontario, 
 
 ### (b) [IHME model’s predictions for provinces together](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS%20CANADA,%20provinces%202022/README.md#b-ihme-models-predictions-for-provinces-together-1)
 
-Predicted daily deaths:
+_Predicted daily deaths:_
 
 graph (9) Canada, provinces - [Daily deaths, reference scenarios, IHME, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS%20CANADA,%20provinces%202022/README.md#graph-9-canada-provinces---daily-deaths-reference-scenarios-ihme-2020-on)
 
@@ -43,7 +43,7 @@ graph (11) Canada, provinces - [Daily reported deaths, reference scenarios, IHME
 
 <br/><br/>
 
-Predicted daily infections:
+_Predicted daily infections:_
 
 graph (12) Canada, provinces - [Daily infections, reference scenarios, IHME, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS%20CANADA,%20provinces%202022/README.md#graph-12-canada-provinces---daily-infections-reference-scenarios-ihme-2020-on)
 
@@ -61,6 +61,16 @@ graph (14) Canada, provinces - [Daily infections, reference scenarios, IHME, 202
 ****
 
 #### graph (1) Canada, provinces - Daily reported deaths, JOHN, 2020 on
+
+
+
+
+
+*
+
+**uptake 20220408**: **_DELP 20220408_**, **_IHME 20220408_**, **_IMPE 20220131_**, **_SRIV 20220408_**, No PHAC
+
+
 
 *
 
@@ -85,6 +95,12 @@ graph (14) Canada, provinces - [Daily infections, reference scenarios, IHME, 202
 
 #### graph (2) Canada, provinces - Daily reported deaths, JOHN, 2021 on
 
+
+
+
+*
+
+**uptake 20220408**: **_DELP 20220408_**, **_IHME 20220408_**, **_IMPE 20220131_**, **_SRIV 20220408_**, No PHAC
 
 
 
@@ -118,6 +134,12 @@ graph (14) Canada, provinces - [Daily infections, reference scenarios, IHME, 202
 
 *
 
+**uptake 20220408**: **_DELP 20220408_**, **_IHME 20220408_**, **_IMPE 20220131_**, **_SRIV 20220408_**, No PHAC
+
+
+
+*
+
 **uptake 20220401**: **_DELP 20220328_**, **_IHME 20220322_**, **_IMPE 20220131_**, **_SRIV 20220401_**
 
 (3) Canada Provinces [Daily reported deaths, JOHN, 2022](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220401/output/graph%2003%20provinces%20C-19%20daily%20deaths%2C%20Canada%2C%20JOHN%202022.pdf)
@@ -140,6 +162,12 @@ graph (14) Canada, provinces - [Daily infections, reference scenarios, IHME, 202
 #### graph (4) Canada, provinces - Daily reported deaths, without National, Ontario, and Quebec, JOHN, 2022
 
 
+
+
+
+*
+
+**uptake 20220408**: **_DELP 20220408_**, **_IHME 20220408_**, **_IMPE 20220131_**, **_SRIV 20220408_**, No PHAC
 
 
 
@@ -172,6 +200,12 @@ graph (14) Canada, provinces - [Daily infections, reference scenarios, IHME, 202
 
 *
 
+**uptake 20220408**: **_DELP 20220408_**, **_IHME 20220408_**, **_IMPE 20220131_**, **_SRIV 20220408_**, No PHAC
+
+
+
+*
+
 **uptake 20220401**: **_DELP 20220328_**, **_IHME 20220322_**, **_IMPE 20220131_**, **_SRIV 20220401_**
 
 (5) Canada Provinces [Daily reported cases, JOHN, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220401/output/graph%2005%20provinces%20C-19%20daily%20cases%2C%20Canada%2C%20JOHN%202020.pdf)
@@ -194,6 +228,12 @@ graph (14) Canada, provinces - [Daily infections, reference scenarios, IHME, 202
 
 #### graph (6) Canada, provinces - Daily reported cases, JOHN, 2021 on
 
+
+
+
+*
+
+**uptake 20220408**: **_DELP 20220408_**, **_IHME 20220408_**, **_IMPE 20220131_**, **_SRIV 20220408_**, No PHAC
 
 
 
@@ -224,6 +264,12 @@ graph (14) Canada, provinces - [Daily infections, reference scenarios, IHME, 202
 
 *
 
+**uptake 20220408**: **_DELP 20220408_**, **_IHME 20220408_**, **_IMPE 20220131_**, **_SRIV 20220408_**, No PHAC
+
+
+
+*
+
 **uptake 20220401**: **_DELP 20220328_**, **_IHME 20220322_**, **_IMPE 20220131_**, **_SRIV 20220401_**
 
 (7) Canada Provinces [Daily reported cases, JOHN, 2022](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220401/output/graph%2007%20provinces%20C-19%20daily%20cases%2C%20Canada%2C%20JOHN%202022.pdf)
@@ -247,6 +293,13 @@ graph (14) Canada, provinces - [Daily infections, reference scenarios, IHME, 202
 ****
 
 #### graph (8) Canada, provinces - Daily reported cases, without National, Ontario, and Quebec, JOHN, 2022
+
+
+
+
+*
+
+**uptake 20220408**: **_DELP 20220408_**, **_IHME 20220408_**, **_IMPE 20220131_**, **_SRIV 20220408_**, No PHAC
 
 
 
@@ -285,6 +338,12 @@ The IHME and DELP models provide predictions for subnational levels. Below are t
   
   
   
+
+*
+
+**uptake 20220408**: **_DELP 20220408_**, **_IHME 20220408_**, **_IMPE 20220131_**, **_SRIV 20220408_**, No PHAC
+
+
 
 *
 
@@ -416,6 +475,12 @@ The IHME and DELP models provide predictions for subnational levels. Below are t
 
 *
 
+**uptake 20220408**: **_DELP 20220408_**, **_IHME 20220408_**, **_IMPE 20220131_**, **_SRIV 20220408_**, No PHAC
+
+
+
+*
+
 **uptake 20220401**: **_DELP 20220328_**, **_IHME 20220322_**, **_IMPE 20220131_**, **_SRIV 20220401_**
 
 (10) Canada Provinces [Daily deaths, Reference scenario, IHME, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220401/output/graph%2023%20provinces%20C-19%20daily%20deaths%2C%20Canada%2C%20IHME%2C%202021%20on.pdf)
@@ -542,6 +607,12 @@ This graph was not generated for this uptake.
   
   
   
+
+*
+
+**uptake 20220408**: **_DELP 20220408_**, **_IHME 20220408_**, **_IMPE 20220131_**, **_SRIV 20220408_**, No PHAC
+
+
 
 *
 
@@ -746,8 +817,12 @@ This graph was not generated for this uptake.
   
   
   
-  
-  
+
+*
+
+**uptake 20220408**: **_DELP 20220408_**, **_IHME 20220408_**, **_IMPE 20220131_**, **_SRIV 20220408_**, No PHAC
+
+
 
 *
 
@@ -879,8 +954,12 @@ This graph was not generated for this uptake.
   
   
   
-  
-  
+ 
+*
+
+**uptake 20220408**: **_DELP 20220408_**, **_IHME 20220408_**, **_IMPE 20220131_**, **_SRIV 20220408_**, No PHAC
+
+
 
 *
 
@@ -1014,7 +1093,11 @@ This graph was not generated for this uptake.
   
   
   
-  
+
+*
+
+**uptake 20220408**: **_DELP 20220408_**, **_IHME 20220408_**, **_IMPE 20220131_**, **_SRIV 20220408_**, No PHAC
+
 
 
 *
