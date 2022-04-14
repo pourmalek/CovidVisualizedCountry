@@ -29,6 +29,12 @@ graph (4) British Columbia - [Daily cases or infections, 3 scenarios, 2021 on](h
 
 *
 
+**uptake 20220408**: **_DELP 20220408_**, **_IHME 20220408_**, **_IMPE 20220131_**, **_SRIV 20220408_**, No PHAC
+
+
+
+*
+
 **uptake 20220325**: **_DELP 20220325_**, **_IHME 20220322_**, IMPE 20220120, **_SRIV 20220325_**
 
 (1) British Columbia [Daily deaths, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220325/output/SUB1%2011bDayDeaMERGsub%20alltime%20British%20Columbia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%20all%20time.pdf)
@@ -151,6 +157,12 @@ graph (4) British Columbia - [Daily cases or infections, 3 scenarios, 2021 on](h
 #### graph (2) British Columbia - Daily deaths, 3 scenarios, 2021 on
 
   
+
+
+
+*
+
+**uptake 20220408**: **_DELP 20220408_**, **_IHME 20220408_**, **_IMPE 20220131_**, **_SRIV 20220408_**, No PHAC
 
 
 
@@ -281,6 +293,12 @@ graph (4) British Columbia - [Daily cases or infections, 3 scenarios, 2021 on](h
 
 *
 
+**uptake 20220408**: **_DELP 20220408_**, **_IHME 20220408_**, **_IMPE 20220131_**, **_SRIV 20220408_**, No PHAC
+
+
+
+*
+
 **uptake 20220325**: **_DELP 20220325_**, **_IHME 20220322_**, IMPE 20220120, **_SRIV 20220325_**
 
 (3) British Columbia [Daily cases or infections, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220325/output/SUB4%2031bDayCasMERGsub%20alltime%20British%20Columbia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios.pdf)
@@ -401,6 +419,12 @@ graph (4) British Columbia - [Daily cases or infections, 3 scenarios, 2021 on](h
 
   
 
+
+
+
+*
+
+**uptake 20220408**: **_DELP 20220408_**, **_IHME 20220408_**, **_IMPE 20220131_**, **_SRIV 20220408_**, No PHAC
 
 
 
