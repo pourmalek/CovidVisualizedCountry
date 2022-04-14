@@ -24,7 +24,7 @@ di "$country"                                                                   
 global DELPdate 20220415
 *            2/ --------
 
-global IHMEdate 20220322
+global IHMEdate 2022-04-08
 *            3/ --------
 
 global IMPEdate 2022-01-31_v9 
@@ -131,7 +131,7 @@ do "$pathCovidVisualizedCountry/SRIV/do CovidVisualizedCountry SRIV.do"
 
 do "$pathCovidVisualizedCountry/merge/do CovidVisualizedCountry merge.do" 
 
-
+// do "$pathCovidVisualizedCountry/merge/do CovidVisualizedCountry cleanup.do" 
 
 
 
