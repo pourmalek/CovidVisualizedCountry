@@ -17,7 +17,7 @@ graph (3) Nova Scotia - [Daily cases or infections, reference scenarios, all tim
   
 graph (4) Nova Scotia - [Daily cases or infections, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS%20Nova%20Scotia%202022/README.md#graph-4-nova-Scotia---daily-cases-or-infections-3-scenarios-2021-on)  
   
-graph (4b) Nova Scotia - [Daily cases or infections, Reference scenario, 2022 on]()
+graph (4b) Nova Scotia - [Daily cases or infections, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS%20Nova%20Scotia%202022/README.md#graph-4b-nova-scotia---daily-cases-or-infections-reference-scenario-2022-on)
 
 
 ****
