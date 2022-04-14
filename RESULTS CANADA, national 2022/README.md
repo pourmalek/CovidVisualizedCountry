@@ -3,7 +3,7 @@
 **** 
 ****  
 
-Predicted daily deaths:
+_Predicted daily deaths:_
 
 graph (1) Canada - [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20CANADA%2C%20national%202022#graph-1-canada---daily-deaths-reference-scenarios-all-time)
 
@@ -11,7 +11,7 @@ graph (2) Canada - [Daily deaths, reference scenarios, 2021](https://github.com/
 
 graph (3) Canada - [Daily deaths, reference and alternate scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20CANADA%2C%20national%202022#graph-3-canada---daily-deaths-reference-and-alternate-scenarios-2021-on)
 
-Predicted daily cases or infections:
+_Predicted daily cases or infections:_
 
 graph (4) Canada - [Daily cases or infections, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20CANADA%2C%20national%202022#graph-4-canada---daily-cases-or-infections-reference-scenarios-all-time)
 
@@ -19,7 +19,7 @@ graph (5) Canada - [Daily cases or infections, reference scenarios, 2021 on](htt
 
 graph (6) Canada - [Daily cases or infections, reference and alternate scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20CANADA%2C%20national%202022#graph-6-canada---daily-cases-or-infections-reference-and-alternate-scenarios-2021-on)
 
-Predicted daily hospital-related outcomes:
+_Predicted daily hospital-related outcomes:_
 
 graph (7) Canada - [Hospital-related outcomes, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20CANADA%2C%20national%202022#graph-7-canada---hospital-related-outcomes-reference-scenarios-all-time)
 
@@ -31,7 +31,7 @@ graph (9) Canada - [Daily deaths estimated to reported, reference scenarios, 202
 
 graph (10) Canada - [Daily cases or infections estimated to reported, reference scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20CANADA%2C%20national%202022#graph-10-canada---daily-cases-or-infections-estimated-to-reported-reference-scenarios-2021-on)
 
-Outcomes predicted by IHME:
+_Outcomes predicted by IHME:_
 
 graph (11) Canada - [Daily Infection-outcomes ratios, IHME, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20CANADA%2C%20national%202022#graph-11-canada---daily-infection-outcomes-ratios-ihme-2021-on)
 
@@ -47,6 +47,12 @@ graph (13) Canada - [Percent cumulative vaccinated, reference scenario, 2021 on,
   
   
   
+
+*
+
+**uptake 20220408**: **_DELP 20220408_**, **_IHME 20220408_**, **_IMPE 20220131_**, **_SRIV 20220408_**, No PHAC
+
+
 
 *
 
@@ -173,6 +179,12 @@ This graph was not generated for this uptake.
   
   
   
+
+
+
+*
+
+**uptake 20220408**: **_DELP 20220408_**, **_IHME 20220408_**, **_IMPE 20220131_**, **_SRIV 20220408_**, No PHAC
 
 
 
@@ -388,6 +400,12 @@ This graph was not generated for this uptake.
 
 *
 
+**uptake 20220408**: **_DELP 20220408_**, **_IHME 20220408_**, **_IMPE 20220131_**, **_SRIV 20220408_**, No PHAC
+
+
+
+*
+
 **uptake 20220401**: **_DELP 20220328_**, **_IHME 20220322_**, **_IMPE 20220131_**, **_SRIV 20220401_**
 
 (3) Canada National [Daily cases or infections, Reference scenarios, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220401/output/CAN4%2031aDayCasMERGnat%20alltime%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20National%2C%20reference%20scenarios.pdf)
@@ -515,6 +533,12 @@ This graph was not generated for this uptake.
   
   
   
+
+
+
+*
+
+**uptake 20220408**: **_DELP 20220408_**, **_IHME 20220408_**, **_IMPE 20220131_**, **_SRIV 20220408_**, No PHAC
 
 
 
@@ -1045,6 +1069,12 @@ This graph was not generated for this uptake.
 
 *
 
+**uptake 20220408**: **_DELP 20220408_**, **_IHME 20220408_**, **_IMPE 20220131_**, **_SRIV 20220408_**, No PHAC
+
+
+
+*
+
 **uptake 20220401**: **_DELP 20220328_**, **_IHME 20220322_**, **_IMPE 20220131_**, **_SRIV 20220401_**
 
 (5) Canada National [Daily hospital-related outcomes, Reference scenarios, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220401/output/CAN7%2071a1DayHosMERGnat%20%20alltime%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20National.pdf)
@@ -1174,6 +1204,12 @@ This graph was not generated for this uptake.
   
   
   
+
+
+
+*
+
+**uptake 20220408**: **_DELP 20220408_**, **_IHME 20220408_**, **_IMPE 20220131_**, **_SRIV 20220408_**, No PHAC
 
 
 
@@ -1467,6 +1503,12 @@ This graph was not generated for this uptake.
 
 *
 
+**uptake 20220408**: **_DELP 20220408_**, **_IHME 20220408_**, **_IMPE 20220131_**, **_SRIV 20220408_**, No PHAC
+
+
+
+*
+
 **uptake 20220401**: **_DELP 20220328_**, **_IHME 20220322_**, **_IMPE 20220131_**, **_SRIV 20220401_**
 
 (7) Canada National [Daily Infection hospitalization and fatality ratios, Reference scenario, IHME, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220401/output/graph%2091a2%20COVID-19%20daily%20Infection%20outcomes%20ratios%2C%20Canada%2C%20National%203%20scenarios%2C%20IHME.pdf)
@@ -1578,6 +1620,12 @@ This graph was not generated for this uptake.
   
   
   
+
+
+
+*
+
+**uptake 20220408**: **_DELP 20220408_**, **_IHME 20220408_**, **_IMPE 20220131_**, **_SRIV 20220408_**, No PHAC
 
 
 
@@ -1714,6 +1762,12 @@ This graph was not generated for this uptake.
   
   
   
+
+
+
+*
+
+**uptake 20220408**: **_DELP 20220408_**, **_IHME 20220408_**, **_IMPE 20220131_**, **_SRIV 20220408_**, No PHAC
 
 
 
