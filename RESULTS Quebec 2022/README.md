@@ -8,11 +8,15 @@ graph (1) Quebec - [Daily deaths, reference scenarios, all time](https://github.
 
 graph (2) Quebec - [Daily deaths, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS%20Quebec%202022/README.md#graph-2-quebec---daily-deaths-3-scenarios-2021-on)
   
+graph (2b) Quebec - [Daily deaths, Reference scenario, 2022 on]()
+
 graph (3) Quebec - [Daily cases or infections, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS%20Quebec%202022/README.md#graph-3-quebec---daily-cases-or-infections-reference-scenarios-all-time)  
   
 graph (4) Quebec - [Daily cases or infections, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS%20Quebec%202022/README.md#graph-4-quebec---daily-cases-or-infections-3-scenarios-2021-on)  
   
-  
+graph (4b) Quebec - [Daily cases or infections, Reference scenario, 2022 on]()
+
+
 ****
 ****  
   
@@ -26,7 +30,9 @@ graph (4) Quebec - [Daily cases or infections, 3 scenarios, 2021 on](https://git
 
 **uptake 20220408**: **_DELP 20220408_**, **_IHME 20220408_**, **_IMPE 20220131_**, **_SRIV 20220408_**, No PHAC
 
+(1) Quebec [Daily deaths, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/SUB1%2011bDayDeaMERGsub%20alltime%20Quebec%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/162995839-43267e7a-7152-4e75-a08c-e491659df571.png)
 
 *
 
@@ -167,7 +173,9 @@ graph (4) Quebec - [Daily cases or infections, 3 scenarios, 2021 on](https://git
 
 **uptake 20220408**: **_DELP 20220408_**, **_IHME 20220408_**, **_IMPE 20220131_**, **_SRIV 20220408_**, No PHAC
 
+(2) Quebec [Daily deaths, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/SUB2%2012bDayDeaMERGsub%202021%20Quebec%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/162995953-e1b7de11-8522-4564-95bc-2a54f8850fde.png)
 
 *
 
@@ -288,6 +296,38 @@ graph (4) Quebec - [Daily cases or infections, 3 scenarios, 2021 on](https://git
 
 
 
+****
+****
+    
+#### graph (2b) Quebec - Daily deaths, Reference scenario, 2022 on
+  
+  
+  
+  
+*
+
+**uptake 20220408**: **_DELP 20220408_**, **_IHME 20220408_**, **_IMPE 20220131_**, **_SRIV 20220408_**, No PHAC
+
+(2b) Quebec [Daily deaths, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/SUB2%2012cDayDeaMERGsub%202022%20Quebec%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%202022.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/163002911-8c993f99-bfb2-4f60-83c8-cf086c842ddb.png)
+
+*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ****
@@ -302,7 +342,9 @@ graph (4) Quebec - [Daily cases or infections, 3 scenarios, 2021 on](https://git
 
 **uptake 20220408**: **_DELP 20220408_**, **_IHME 20220408_**, **_IMPE 20220131_**, **_SRIV 20220408_**, No PHAC
 
+(3) Quebec [Daily cases or infections, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/SUB4%2031bDayCasMERGsub%20alltime%20Quebec%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/162996086-bab1fdb8-4242-44a6-bc56-259fa8684ed0.png)
 
 *
 
@@ -442,7 +484,9 @@ graph (4) Quebec - [Daily cases or infections, 3 scenarios, 2021 on](https://git
 
 **uptake 20220408**: **_DELP 20220408_**, **_IHME 20220408_**, **_IMPE 20220131_**, **_SRIV 20220408_**, No PHAC
 
+(4) Quebec [Daily cases or infections, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/SUB5%2032bDayCasMERGsub%202021%20Quebec%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/162996235-e1078cb4-297d-494c-b66a-c5b1b670a9de.png)
 
 *
 
@@ -558,6 +602,38 @@ graph (4) Quebec - [Daily cases or infections, 3 scenarios, 2021 on](https://git
  
 *
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+****
+****
+    
+#### graph (4b) Quebec - Daily cases or infections, Reference scenario, 2022 on
+  
+  
+  
+  
+*
+
+**uptake 20220408**: **_DELP 20220408_**, **_IHME 20220408_**, **_IMPE 20220131_**, **_SRIV 20220408_**, No PHAC
+
+(4b) Quebec [Daily cases or infections, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/SUB5%2032cDayCasMERGsub%202021%20Quebec%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%202022.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/163005425-1b96e553-9380-400d-be2a-1a5ecac0b389.png)
+
+*
 
 
 
