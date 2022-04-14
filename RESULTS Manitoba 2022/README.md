@@ -34,7 +34,9 @@ graph (4) Manitoba - [Daily cases or infections, 3 scenarios, 2021 on](https://g
 
 **uptake 20220408**: **_DELP 20220408_**, **_IHME 20220408_**, **_IMPE 20220131_**, **_SRIV 20220408_**, No PHAC
 
+(1) Manitoba [Daily deaths, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/SUB1%2011bDayDeaMERGsub%20alltime%20Manitoba%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/162991289-13e79589-bd4f-448d-aa92-782234977ce7.png)
 
 *
 
@@ -172,7 +174,9 @@ graph (4) Manitoba - [Daily cases or infections, 3 scenarios, 2021 on](https://g
 
 **uptake 20220408**: **_DELP 20220408_**, **_IHME 20220408_**, **_IMPE 20220131_**, **_SRIV 20220408_**, No PHAC
 
+(2) Manitoba [Daily deaths, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/SUB2%2012bDayDeaMERGsub%202021%20Manitoba%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/162991448-f649c547-171a-40aa-a077-5d9d1444406a.png)
 
 *
 
@@ -294,6 +298,39 @@ graph (4) Manitoba - [Daily cases or infections, 3 scenarios, 2021 on](https://g
 
 
 
+
+
+
+
+#### graph (2b) Manitoba - Daily deaths, Reference scenario, 2022 on
+  
+****
+****
+  
+  
+ 
+  
+*
+
+**uptake 20220408**: **_DELP 20220408_**, **_IHME 20220408_**, **_IMPE 20220131_**, **_SRIV 20220408_**, No PHAC
+
+(2b) Manitoba [Daily deaths, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/SUB2%2012cDayDeaMERGsub%202022%20Manitoba%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios%2C%202022.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/163001846-7ec2444f-0fcd-49b2-ad1b-405e1f5d8610.png)
+
+*
+
+
+
+
+
+
+
+
+
+
+
+
 #### graph (4) Manitoba - Daily cases or infections, reference scenarios, all time
   
 ****
@@ -306,7 +343,9 @@ graph (4) Manitoba - [Daily cases or infections, 3 scenarios, 2021 on](https://g
 
 **uptake 20220408**: **_DELP 20220408_**, **_IHME 20220408_**, **_IMPE 20220131_**, **_SRIV 20220408_**, No PHAC
 
+(3) Manitoba [Daily cases or infections, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/SUB4%2031bDayCasMERGsub%20alltime%20Manitoba%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/162991584-a025a582-ffcb-4274-ac08-2205de7d91ce.png)
 
 *
 
@@ -445,7 +484,9 @@ graph (4) Manitoba - [Daily cases or infections, 3 scenarios, 2021 on](https://g
 
 **uptake 20220408**: **_DELP 20220408_**, **_IHME 20220408_**, **_IMPE 20220131_**, **_SRIV 20220408_**, No PHAC
 
+(4) Manitoba [Daily cases or infections, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/SUB5%2032bDayCasMERGsub%202021%20Manitoba%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/162991730-f9c21a05-86c3-4c2f-971f-106f04e270aa.png)
 
 *
 
@@ -561,6 +602,33 @@ graph (4) Manitoba - [Daily cases or infections, 3 scenarios, 2021 on](https://g
  
 *
 
+
+
+
+
+
+
+
+
+
+
+#### graph (4b) Manitoba - Daily cases or infections, Reference scenario, 2022 on
+  
+****
+****
+  
+  
+ 
+  
+*
+
+**uptake 20220408**: **_DELP 20220408_**, **_IHME 20220408_**, **_IMPE 20220131_**, **_SRIV 20220408_**, No PHAC
+
+(4b) Manitoba [Daily cases or infections, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/SUB5%2032cDayCasMERGsub%202021%20Manitoba%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios%2C%202022.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/163003897-56161cc8-0ce4-4cc7-bc53-6ef4a4d5d7b4.png)
+
+*
 
 
 
