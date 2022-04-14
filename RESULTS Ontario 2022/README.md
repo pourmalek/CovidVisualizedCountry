@@ -8,7 +8,7 @@ graph (1) Ontario - [Daily deaths, reference scenarios, all time](https://github
 
 graph (2) Ontario - [Daily deaths, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS%20Ontario%202022/README.md#graph-2-ontario---daily-deaths-3-scenarios-2021-on)
   
-graph (2b) Ontario - [Daily deaths, Reference scenario, 2022 on]()
+graph (2b) Ontario - [Daily deaths, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS%20Ontario%202022/README.md#graph-2b-ontario---daily-deaths-reference-scenario-2022-on)
 
 graph (3) Ontario - [Daily cases or infections, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS%20Ontario%202022/README.md#graph-3-ontario---daily-cases-or-infections-reference-scenarios-all-time)  
   
