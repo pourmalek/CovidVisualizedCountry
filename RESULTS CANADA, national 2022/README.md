@@ -15,7 +15,7 @@ graph (3b) Canada - [Daily deaths, All scenarios, 2022 on](https://github.com/po
 
 
 
-_Predicted daily cases or infections:_
+#### _Predicted daily cases or infections:_
 
 graph (4) Canada - [Daily cases or infections, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20CANADA%2C%20national%202022#graph-4-canada---daily-cases-or-infections-reference-scenarios-all-time)
 
@@ -27,7 +27,7 @@ graph (6b) Canada - [Daily cases or infections, All scenarios, 2022 on](https://
 
 
 
-_Predicted daily hospital-related outcomes:_
+#### _Predicted daily hospital-related outcomes:_
 
 graph (7) Canada - [Hospital-related outcomes, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20CANADA%2C%20national%202022#graph-7-canada---hospital-related-outcomes-reference-scenarios-all-time)
 
@@ -35,7 +35,7 @@ graph (8) Canada - [Hospital-related outcomes, reference scenarios, 2021 on, wit
 
 
 
-_Calculated daily outcomes, predicted to reported:_
+#### _Calculated daily outcomes, predicted to reported:_
 
 graph (9) Canada - [Daily deaths estimated to reported, reference scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20CANADA%2C%20national%202022#graph-9-canada---daily-deaths-estimated-to-reported-reference-scenarios-2021-on)
 
@@ -43,7 +43,7 @@ graph (10) Canada - [Daily cases or infections estimated to reported, reference 
 
 
 
-_Outcomes predicted by IHME:_
+#### _Outcomes predicted by IHME:_
 
 graph (11) Canada - [Daily Infection-outcomes ratios, IHME, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20CANADA%2C%20national%202022#graph-11-canada---daily-infection-outcomes-ratios-ihme-2021-on)
 
