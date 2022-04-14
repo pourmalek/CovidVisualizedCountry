@@ -14,7 +14,7 @@ graph (3) Ontario - [Daily cases or infections, reference scenarios, all time](h
   
 graph (4) Ontario - [Daily cases or infections, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS%20Ontario%202022/README.md#graph-4-ontario---daily-cases-or-infections-3-scenarios-2021-on)  
 
-graph (4b) Ontario - [Daily cases or infections, Reference scenario, 2022 on]()
+graph (4b) Ontario - [Daily cases or infections, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS%20Ontario%202022/README.md#graph-4b-ontario---daily-cases-or-infections-reference-scenario-2022-on)
   
   
 ****
