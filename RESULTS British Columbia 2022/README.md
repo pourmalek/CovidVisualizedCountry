@@ -11,7 +11,7 @@ graph (1) British Columbia - [Daily deaths, reference scenarios, all time](https
 
 graph (2) British Columbia - [Daily deaths, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS%20British%20Columbia%202022/README.md#graph-2-british-columbia---daily-deaths-3-scenarios-2021-on)
 
-graph (2b) British Columbia - [Daily deaths, Reference scenario, 2022 on]()
+graph (2b) British Columbia - [Daily deaths, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS%20British%20Columbia%202022/README.md#graph-2b-british-columbia---daily-deaths-reference-scenario-2022-on)
   
 graph (3) British Columbia - [Daily cases or infections, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS%20British%20Columbia%202022/README.md#graph-3-british-columbia---daily-cases-or-infections-reference-scenarios-all-time)  
   
