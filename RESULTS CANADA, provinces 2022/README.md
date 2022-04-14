@@ -5,6 +5,8 @@
 
 ### (a) [Reported deaths and cases via JOHN](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS%20CANADA,%20provinces%202022/README.md#a-reported-deaths-and-cases-via-john-1)
 
+<br/><br/>
+
 _Daily reported deaths:_
 
 graph (1) Canada, provinces - [Daily reported deaths, JOHN, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS%20CANADA,%20provinces%202022/README.md#graph-1-canada-provinces---daily-reported-deaths-john-2020-on)
