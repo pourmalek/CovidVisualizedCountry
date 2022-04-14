@@ -52,7 +52,9 @@ graph (13) Canada - [Percent cumulative vaccinated, reference scenario, 2021 on,
 
 **uptake 20220408**: **_DELP 20220408_**, **_IHME 20220408_**, **_IMPE 20220131_**, **_SRIV 20220408_**, No PHAC
 
+(1) Canada [Daily deaths, Reference scenarios, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/CAN1%2011aDayDeaMERGnat%20alltime%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/162962675-091cad83-e1f5-4ca7-b30a-e06158a92b98.png)
 
 *
 
@@ -175,7 +177,7 @@ This graph was not generated for this uptake.
 ****
 ****  
  
-#### graph (2) Canada - Daily deaths, reference scenarios, 2021  
+#### graph (2) Canada - Daily deaths, All scenarios, 2021  
   
   
   
@@ -186,7 +188,9 @@ This graph was not generated for this uptake.
 
 **uptake 20220408**: **_DELP 20220408_**, **_IHME 20220408_**, **_IMPE 20220131_**, **_SRIV 20220408_**, No PHAC
 
+(2) Canada National [Daily deaths, All scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/CAN2%2012aDayDeaMERGnat%202021%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/162962786-9dfb307c-74e3-49ce-8b19-09b7db7023bd.png)
 
 *
 
@@ -388,6 +392,42 @@ This graph was not generated for this uptake.
 
 
 
+
+
+
+
+
+****
+****  
+ 
+#### graph (2b) Canada - Daily deaths, All scenarios, 2022 on
+  
+  
+  
+
+
+
+*
+
+**uptake 20220408**: **_DELP 20220408_**, **_IHME 20220408_**, **_IMPE 20220131_**, **_SRIV 20220408_**, No PHAC
+
+(2b) Canada National [Daily deaths, All scenarios, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/CAN2%2012aaDayDeaMERGnat%202022%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%202022.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/162962972-dc0997b6-58cc-494a-95e2-324b8299e427.png)
+
+*
+
+
+
+
+
+
+
+
+
+
+
+
 ****
 ****  
  
@@ -402,7 +442,9 @@ This graph was not generated for this uptake.
 
 **uptake 20220408**: **_DELP 20220408_**, **_IHME 20220408_**, **_IMPE 20220131_**, **_SRIV 20220408_**, No PHAC
 
+(3) Canada National [Daily cases or infections, Reference scenarios, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/CAN4%2031aDayCasMERGnat%20alltime%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20National%2C%20reference%20scenarios.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/162965878-1df2ac6e-cc75-42ff-9c90-ca5fe894779e.png)
 
 *
 
@@ -540,7 +582,9 @@ This graph was not generated for this uptake.
 
 **uptake 20220408**: **_DELP 20220408_**, **_IHME 20220408_**, **_IMPE 20220131_**, **_SRIV 20220408_**, No PHAC
 
+(4) Canada National [Daily cases or infections, All scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/CAN6%2034aDayCasMERGnat%202021%203scen%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20National%2C%203%20scenarios%2C%202021%2C%20uncertainty.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/162966014-4eb6fcbc-51a5-45c3-bcaa-a878e0a5d3c1.png)
 
 *
 
@@ -653,6 +697,37 @@ This graph was not generated for this uptake.
 ![image](https://user-images.githubusercontent.com/30849720/148161318-64877330-2f8d-4283-86f1-57848c2a47c2.png)
 
 *
+
+
+
+
+
+
+
+****
+****  
+ 
+#### graph (4b) Canada - Daily cases or infections, All scenarios, 2022 on
+  
+  
+  
+
+
+
+*
+
+**uptake 20220408**: **_DELP 20220408_**, **_IHME 20220408_**, **_IMPE 20220131_**, **_SRIV 20220408_**, No PHAC
+
+(4b) Canada National [Daily cases or infections, All scenarios, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/CAN6%2034aaDayCasMERGnat%202021%203scen%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20National%2C%203%20scenarios%2C%202022%2C%20uncertainty.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/162966223-bd28bfcf-3a20-4e77-9711-dbe788391f52.png)
+
+*
+
+
+
+
+
 
 
 
@@ -812,14 +887,6 @@ This graph was not generated for this uptake.
 
 *
 
-
-
-
-
-
-
-
-
 ****
 ****  
  
@@ -891,14 +958,6 @@ This graph was not generated for this uptake.
 
 *
 
-
-
-
-
-
-
-
-
 ****
 ****  
  
@@ -969,14 +1028,6 @@ This graph was not generated for this uptake.
 ![image](https://user-images.githubusercontent.com/30849720/148168913-d44afce8-9dda-4f1d-8a53-23fa062d8e47.png)
 
 *
-
-
-
-
-
-
-
-
 
 ****
 ****  
@@ -1071,7 +1122,9 @@ This graph was not generated for this uptake.
 
 **uptake 20220408**: **_DELP 20220408_**, **_IHME 20220408_**, **_IMPE 20220131_**, **_SRIV 20220408_**, No PHAC
 
+(5) Canada National [Daily hospital-related outcomes, Reference scenarios, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/CAN7%2071a1DayHosMERGnat%20%20alltime%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20National.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/162966347-8e889940-0812-4d72-8b9c-26332f76efca.png)
 
 *
 
@@ -1211,7 +1264,9 @@ This graph was not generated for this uptake.
 
 **uptake 20220408**: **_DELP 20220408_**, **_IHME 20220408_**, **_IMPE 20220131_**, **_SRIV 20220408_**, No PHAC
 
+(6) Canada National [Daily hospital-related outcomes, without IHME Bed need, IMPE Hospital demand, Reference scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/CAN8%2073aDayHosMERGnat%202021%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20National%2C%20wo%20extremes%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/162966487-2480d199-5cce-4c08-8377-a6cd552e38c3.png)
 
 *
 
@@ -1390,15 +1445,6 @@ This graph was not generated for this uptake.
 
 *
 
-
-
-
-
-
-
-
-
-
 ****
 ****  
  
@@ -1482,15 +1528,6 @@ This graph was not generated for this uptake.
 
 
 
-
-
-
-
-
-
-
-
-
 ****
 ****  
  
@@ -1505,7 +1542,9 @@ This graph was not generated for this uptake.
 
 **uptake 20220408**: **_DELP 20220408_**, **_IHME 20220408_**, **_IMPE 20220131_**, **_SRIV 20220408_**, No PHAC
 
+(7) Canada National [Daily Infection hospitalization and fatality ratios, Reference scenario, IHME, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/graph%2091a2%20COVID-19%20daily%20Infection%20outcomes%20ratios%2C%20Canada%2C%20National%203%20scenarios%2C%20IHME.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/162966637-751aaff0-8d06-400e-af70-3b6009fdc33e.png)
 
 *
 
@@ -1613,6 +1652,41 @@ This graph was not generated for this uptake.
 
 
 
+
+****
+****  
+ 
+#### graph (11b) Canada - Daily percent change in mobility, IHME, 2020 on
+  
+  
+  
+
+
+
+*
+
+**uptake 20220408**: **_DELP 20220408_**, **_IHME 20220408_**, **_IMPE 20220131_**, **_SRIV 20220408_**, No PHAC
+
+(8) Canada National [Daily percent change in mobility, IHME, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/graph%2092a%20COVID-19%20daily%20mobility%2C%20Canada%2C%20National%2C%203%20scenarios.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/162966779-e184a411-9dfa-4a97-bb90-df4129748589.png)
+
+*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ****
 ****  
  
@@ -1627,7 +1701,9 @@ This graph was not generated for this uptake.
 
 **uptake 20220408**: **_DELP 20220408_**, **_IHME 20220408_**, **_IMPE 20220131_**, **_SRIV 20220408_**, No PHAC
 
+(9) Canada National [Daily mask use, IHME, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/graph%2093a%20COVID-19%20daily%20mask_use%2C%20Canada%2C%20National%2C%203%20scenarios.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/162966975-c7d0cb1d-40bf-4ae2-b6f0-42364b70e894.png)
 
 *
 
@@ -1769,7 +1845,9 @@ This graph was not generated for this uptake.
 
 **uptake 20220408**: **_DELP 20220408_**, **_IHME 20220408_**, **_IMPE 20220131_**, **_SRIV 20220408_**, No PHAC
 
+(10) Canada National [Percent cumulative vaccinated, IHME, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/graph%2094a%20COVID-19%20percent%20cumulative%20vaccinated%2C%20Canada%2C%20National.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/162967122-d905342e-4e2b-437d-8d1d-fbcb16a1e300.png)
 
 *
 
