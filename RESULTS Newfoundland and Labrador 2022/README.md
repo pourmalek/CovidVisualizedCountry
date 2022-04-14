@@ -1,6 +1,6 @@
 ### Selected graphs - Newfoundland and Labrador 2022
 
-Newfoundland and Labrador only predicted in DELP model.
+_Newfoundland and Labrador only predicted in DELP model._
 
 
 ****  
@@ -10,6 +10,12 @@ Newfoundland and Labrador only predicted in DELP model.
 #### graph (1) Newfoundland and Labrador - Daily deaths, reference scenarios, all time
  
 
+
+
+
+*
+
+**uptake 20220408**: **_DELP 20220408_**, **_IHME 20220408_**, **_IMPE 20220131_**, **_SRIV 20220408_**, No PHAC
 
 
 
@@ -68,6 +74,12 @@ Newfoundland and Labrador only predicted in DELP model.
  
 
 
+
+
+
+*
+
+**uptake 20220408**: **_DELP 20220408_**, **_IHME 20220408_**, **_IMPE 20220131_**, **_SRIV 20220408_**, No PHAC
 
 
 
