@@ -9,13 +9,15 @@ graph (1) Canada - [Daily deaths, reference scenarios, all time](https://github.
 
 graph (2) Canada - [Daily deaths, all scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20CANADA%2C%20national%202022#graph-2-canada---daily-deaths-all-scenarios-2021)
 
-graph (2b) Canada - [Daily deaths, All scenarios, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20CANADA%2C%20national%202022#graph-2b-canada---daily-deaths-all-scenarios-2022-on)
-
 graph (3) Canada - [Daily deaths, reference and alternate scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20CANADA%2C%20national%202022#graph-3-canada---daily-deaths-reference-and-alternate-scenarios-2021-on)
+
+graph (3b) Canada - [Daily deaths, All scenarios, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20CANADA%2C%20national%202022#graph-2b-canada---daily-deaths-all-scenarios-2022-on)
 
 _Predicted daily cases or infections:_
 
 graph (4) Canada - [Daily cases or infections, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20CANADA%2C%20national%202022#graph-4-canada---daily-cases-or-infections-reference-scenarios-all-time)
+
+graph (4b) Canada - [Daily cases or infections, All scenarios, 2022] on(https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20CANADA%2C%20national%202022#graph-4b-canada---daily-cases-or-infections-all-scenarios-2022-on_
 
 graph (5) Canada - [Daily cases or infections, reference scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20CANADA%2C%20national%202022#graph-5-canada---daily-cases-or-infections-reference-scenarios-2021-on)
 
