@@ -8,9 +8,13 @@ graph (1) Ontario - [Daily deaths, reference scenarios, all time](https://github
 
 graph (2) Ontario - [Daily deaths, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS%20Ontario%202022/README.md#graph-2-ontario---daily-deaths-3-scenarios-2021-on)
   
+graph (2b) Ontario - [Daily deaths, Reference scenario, 2022 on]()
+
 graph (3) Ontario - [Daily cases or infections, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS%20Ontario%202022/README.md#graph-3-ontario---daily-cases-or-infections-reference-scenarios-all-time)  
   
 graph (4) Ontario - [Daily cases or infections, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS%20Ontario%202022/README.md#graph-4-ontario---daily-cases-or-infections-3-scenarios-2021-on)  
+
+graph (4b) Ontario - [Daily cases or infections, Reference scenario, 2022 on]()
   
   
 ****
@@ -28,7 +32,9 @@ graph (4) Ontario - [Daily cases or infections, 3 scenarios, 2021 on](https://gi
 
 **uptake 20220408**: **_DELP 20220408_**, **_IHME 20220408_**, **_IMPE 20220131_**, **_SRIV 20220408_**, No PHAC
 
+(1) Ontario [Daily deaths, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/SUB1%2011bDayDeaMERGsub%20alltime%20Ontario%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/162993425-ff276f4f-1add-4ff1-9bae-0767e2454033.png)
 
 *
 
@@ -168,7 +174,9 @@ graph (4) Ontario - [Daily cases or infections, 3 scenarios, 2021 on](https://gi
 
 **uptake 20220408**: **_DELP 20220408_**, **_IHME 20220408_**, **_IMPE 20220131_**, **_SRIV 20220408_**, No PHAC
 
+(2) Ontario [Daily deaths, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/SUB2%2012bDayDeaMERGsub%202021%20Ontario%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/162993556-0f3d2bef-e77c-43d5-b9b3-ba656e4fce71.png)
 
 *
 
@@ -290,6 +298,43 @@ graph (4) Ontario - [Daily cases or infections, 3 scenarios, 2021 on](https://gi
 
 
 
+
+
+
+
+****
+****
+  
+#### graph (2b) Ontario - Daily deaths, Reference scenario, 2022 on
+ 
+  
+  
+  
+  
+  
+*
+
+**uptake 20220408**: **_DELP 20220408_**, **_IHME 20220408_**, **_IMPE 20220131_**, **_SRIV 20220408_**, No PHAC
+
+(2b) Ontario [Daily deaths, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/SUB2%2012cDayDeaMERGsub%202022%20Ontario%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202022.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/163002719-4fce8ecb-f9bf-4719-b0e6-b13e781670ce.png)
+
+*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ****
 ****
   
@@ -304,7 +349,9 @@ graph (4) Ontario - [Daily cases or infections, 3 scenarios, 2021 on](https://gi
 
 **uptake 20220408**: **_DELP 20220408_**, **_IHME 20220408_**, **_IMPE 20220131_**, **_SRIV 20220408_**, No PHAC
 
+(3) Ontario [Daily cases or infections, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/SUB4%2031bDayCasMERGsub%20alltime%20Ontario%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/162994932-f67ea299-7d84-4476-961c-df217b673cf0.png)
 
 *
 
@@ -447,7 +494,9 @@ graph (4) Ontario - [Daily cases or infections, 3 scenarios, 2021 on](https://gi
 
 **uptake 20220408**: **_DELP 20220408_**, **_IHME 20220408_**, **_IMPE 20220131_**, **_SRIV 20220408_**, No PHAC
 
+(4) Ontario [Daily cases or infections, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/SUB5%2032bDayCasMERGsub%202021%20Ontario%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/162995060-fbc6e4c4-1daf-479a-9f0b-0ddfd91757ad.png)
 
 *
 
@@ -562,6 +611,37 @@ graph (4) Ontario - [Daily cases or infections, 3 scenarios, 2021 on](https://gi
 ![image](https://user-images.githubusercontent.com/30849720/148273995-753b2bff-58b4-4ed7-8f6a-9f31d36082ab.png)
  
 *
+
+
+
+
+
+
+
+
+****
+****
+  
+#### graph (4b) Ontario - Daily cases or infections, Reference scenario, 2022 on
+
+  
+  
+  
+  
+  
+*
+
+**uptake 20220408**: **_DELP 20220408_**, **_IHME 20220408_**, **_IMPE 20220131_**, **_SRIV 20220408_**, No PHAC
+
+(4b) Ontario [Daily cases or infections, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/SUB5%2032cDayCasMERGsub%202021%20Ontario%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202022.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/163004274-b6cb4b5c-5e67-49c5-83b7-f493ff0c6955.png)
+
+*
+
+
+
+
 
 
 
