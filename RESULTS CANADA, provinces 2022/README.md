@@ -7,7 +7,7 @@
 
 <br/><br/>
 
-_Daily reported deaths:_
+#### _Daily reported deaths:_
 
 graph (1) Canada, provinces - [Daily reported deaths, JOHN, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS%20CANADA,%20provinces%202022/README.md#graph-1-canada-provinces---daily-reported-deaths-john-2020-on)
 
@@ -19,7 +19,7 @@ graph (4) Canada, provinces - [Daily reported deaths, without National, Ontario,
 
 <br/><br/>
 
-_Daily reported cases:_
+#### _Daily reported cases:_
 
 graph (5) Canada, provinces - [Daily reported cases, JOHN, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS%20CANADA,%20provinces%202022/README.md#graph-5-canada-provinces---daily-reported-cases-john-2020-on)
 
@@ -37,7 +37,7 @@ graph (8) Canada, provinces - [Daily reported cases, without National, Ontario, 
 
 <br/><br/>
 
-_Predicted daily deaths:_
+#### _Predicted daily deaths:_
 
 graph (9) Canada, provinces - [Daily deaths, reference scenarios, IHME, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS%20CANADA,%20provinces%202022/README.md#graph-9-canada-provinces---daily-deaths-reference-scenarios-ihme-2020-on)
 
@@ -47,7 +47,7 @@ graph (11) Canada, provinces - [Daily reported deaths, reference scenarios, IHME
 
 <br/><br/>
 
-_Predicted daily infections:_
+#### _Predicted daily infections:_
 
 graph (12) Canada, provinces - [Daily infections, reference scenarios, IHME, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS%20CANADA,%20provinces%202022/README.md#graph-12-canada-provinces---daily-infections-reference-scenarios-ihme-2020-on)
 
@@ -61,10 +61,12 @@ graph (14) Canada, provinces - [Daily infections, reference scenarios, IHME, 202
 **** 
 **** 
 
+.
 
 **** 
 **** 
 
+.
 
 **** 
 **** 
