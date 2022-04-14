@@ -11,7 +11,7 @@ graph (1) Nova Scotia - [Daily deaths, reference scenarios, all time](https://gi
 
 graph (2) Nova Scotia - [Daily deaths, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS%20Nova%20Scotia%202022/README.md#graph-2-nova-Scotia---daily-deaths-3-scenarios-2021-on)
   
-graph (2b) Nova Scotia - [Daily deaths, Reference scenario, 2022 on]()
+graph (2b) Nova Scotia - [Daily deaths, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS%20Nova%20Scotia%202022/README.md#graph-2b-nova-scotia---daily-deaths-reference-scenario-2022-on)
 
 graph (3) Nova Scotia - [Daily cases or infections, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS%20Nova%20Scotia%202022/README.md#graph-3-nova-Scotia---daily-cases-or-infections-reference-scenarios-all-time)  
   
