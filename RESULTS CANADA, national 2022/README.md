@@ -717,7 +717,7 @@ This graph was not generated for this uptake.
 ****
 ****  
  
-#### graph (4b) Canada - Daily cases or infections, All scenarios, 2022 on
+#### graph (5b) Canada - Daily cases or infections, All scenarios, 2022 on
   
   
   
