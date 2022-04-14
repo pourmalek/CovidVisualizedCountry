@@ -714,33 +714,6 @@ This graph was not generated for this uptake.
 
 
 
-****
-****  
- 
-#### graph (5b) Canada - Daily cases or infections, All scenarios, 2022 on
-  
-  
-  
-
-
-
-*
-
-**uptake 20220408**: **_DELP 20220408_**, **_IHME 20220408_**, **_IMPE 20220131_**, **_SRIV 20220408_**, No PHAC
-
-(4b) Canada National [Daily cases or infections, All scenarios, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/CAN6%2034aaDayCasMERGnat%202021%203scen%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20National%2C%203%20scenarios%2C%202022%2C%20uncertainty.pdf)
-
-![image](https://user-images.githubusercontent.com/30849720/162966223-bd28bfcf-3a20-4e77-9711-dbe788391f52.png)
-
-*
-
-
-
-
-
-
-
-
 
 
 
@@ -819,6 +792,47 @@ This graph was not generated for this uptake.
 ![image](https://user-images.githubusercontent.com/30849720/148161372-b2801368-a6c6-44d7-8d9c-515ace4086bf.png)
 
 *
+
+
+
+
+
+
+
+
+
+
+
+****
+****  
+ 
+#### graph (6a) Canada - Daily cases or infections, All scenarios, 2022 on
+  
+  
+  
+
+
+
+*
+
+**uptake 20220408**: **_DELP 20220408_**, **_IHME 20220408_**, **_IMPE 20220131_**, **_SRIV 20220408_**, No PHAC
+
+(4b) Canada National [Daily cases or infections, All scenarios, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/CAN6%2034aaDayCasMERGnat%202021%203scen%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20National%2C%203%20scenarios%2C%202022%2C%20uncertainty.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/162966223-bd28bfcf-3a20-4e77-9711-dbe788391f52.png)
+
+*
+
+
+
+
+
+
+
+
+
+
+
 
 
 
