@@ -162,7 +162,7 @@ graph (4) Manitoba - [Daily cases or infections, 3 scenarios, 2021 on](https://g
 
 
 
-#### graph (3) Manitoba - Daily deaths, 3 scenarios, 2021 on
+#### graph (2) Manitoba - Daily deaths, 3 scenarios, 2021 on
   
 ****
 ****
@@ -331,7 +331,7 @@ graph (4) Manitoba - [Daily cases or infections, 3 scenarios, 2021 on](https://g
 
 
 
-#### graph (4) Manitoba - Daily cases or infections, reference scenarios, all time
+#### graph (3) Manitoba - Daily cases or infections, reference scenarios, all time
   
 ****
 ****
@@ -472,7 +472,7 @@ graph (4) Manitoba - [Daily cases or infections, 3 scenarios, 2021 on](https://g
 
 
 
-#### graph (6) Manitoba - Daily cases or infections, 3 scenarios, 2021 on
+#### graph (4) Manitoba - Daily cases or infections, 3 scenarios, 2021 on
   
 ****
 ****
