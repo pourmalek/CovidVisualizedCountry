@@ -404,7 +404,7 @@ This graph was not generated for this uptake.
 ****
 ****  
  
-#### graph (2b) Canada - Daily deaths, All scenarios, 2022 on
+#### graph (3b) Canada - Daily deaths, All scenarios, 2022 on
   
   
   
