@@ -7,7 +7,7 @@ _Predicted daily deaths:_
 
 graph (1) Canada - [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20CANADA%2C%20national%202022#graph-1-canada---daily-deaths-reference-scenarios-all-time)
 
-graph (2) Canada - [Daily deaths, all scenarios, 2021]https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20CANADA%2C%20national%202022#graph-2-canada---daily-deaths-all-scenarios-2021)
+graph (2) Canada - [Daily deaths, all scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20CANADA%2C%20national%202022#graph-2-canada---daily-deaths-all-scenarios-2021)
 
 graph (3) Canada - [Daily deaths, reference and alternate scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20CANADA%2C%20national%202022#graph-3-canada---daily-deaths-reference-and-alternate-scenarios-2021-on)
 
