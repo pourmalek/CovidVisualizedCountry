@@ -23,7 +23,7 @@ graph (5) Canada - [Daily cases or infections, reference scenarios, 2021 on](htt
 
 graph (6) Canada - [Daily cases or infections, reference and alternate scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/RESULTS%20CANADA%2C%20national%202022#graph-6-canada---daily-cases-or-infections-reference-and-alternate-scenarios-2021-on)
 
-graph (6b) Canada - [Daily cases or infections, All scenarios, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS%20CANADA,%20national%202022/README.md#graph-6a-canada---daily-cases-or-infections-all-scenarios-2022-on)
+graph (6a) Canada - [Daily cases or infections, All scenarios, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS%20CANADA,%20national%202022/README.md#graph-6a-canada---daily-cases-or-infections-all-scenarios-2022-on)
 
 
 
