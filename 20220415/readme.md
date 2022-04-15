@@ -6,7 +6,7 @@
 
 Days old: DELP 0, IHME 7, no IMPE, SRIV 0
 
-The latest available IMPE update (i.e., 2022-01-31) is 68 days old on 2022-04-08. Not included.
+The latest available IMPE update (i.e., 2022-01-31) is 75 days old on 2022-04-15. Not included.
 
 The [latest update of the PHAC-McMaster model](https://www.canada.ca/content/dam/phac-aspc/documents/services/diseases-maladies/coronavirus-disease-covid-19/epidemiological-economic-research-data/update-covid-19-canada-epidemiology-modelling-20220218-en.pdf) is 50 days old.
 <br/><br/>
