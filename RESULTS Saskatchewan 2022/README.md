@@ -9,12 +9,16 @@
 graph (1) Saskatchewan - [Daily deaths, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS%20Saskatchewan%202022/README.md#graph-1-saskatchewan---daily-deaths-reference-scenarios-all-time)
 
 graph (2) Saskatchewan - [Daily deaths, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS%20Saskatchewan%202022/README.md#graph-2-saskatchewan---daily-deaths-3-scenarios-2021-on)
+
+graph (2b) Saskatchewan - [Daily deaths, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS%20Saskatchewan%202022/README.md#graph-2b-saskatchewan---daily-deaths-reference-scenario-2022-on)
   
 graph (3) Saskatchewan - [Daily cases or infections, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS%20Saskatchewan%202022/README.md#graph-3-saskatchewan---daily-cases-or-infections-reference-scenarios-all-time)  
   
 graph (4) Saskatchewan - [Daily cases or infections, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS%20Saskatchewan%202022/README.md#graph-4-saskatchewan---daily-cases-or-infections-3-scenarios-2021-on)  
   
-  
+graph (4b) Saskatchewan - [Daily cases or infections, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS%20Saskatchewan%202022/README.md#graph-4b-saskatchewan---daily-cases-or-infections-reference-scenario-2022-on)
+
+
 ****
 ****  
   
@@ -27,11 +31,19 @@ graph (4) Saskatchewan - [Daily cases or infections, 3 scenarios, 2021 on](https
   
   
   
+*  
+
+**uptake 20220415**: **_DELP 20220415_**, IHME 20220408, no IMPE, **_SRIV 20220415_**, No PHAC || Days old: DELP 0, IHME 7, no IMPE, SRIV 0
+
+
+
 *
 
 **uptake 20220408**: **_DELP 20220408_**, **_IHME 20220408_**, **_IMPE 20220131_**, **_SRIV 20220408_**, No PHAC
 
+(1) Saskatchewan [Daily deaths, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/SUB1%2011bDayDeaMERGsub%20alltime%20Saskatchewan%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Saskatchewan%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/162996419-13526a5e-3d65-4c0e-875e-19e1ea7b8b93.png)
 
 *
 
@@ -167,11 +179,19 @@ graph (4) Saskatchewan - [Daily cases or infections, 3 scenarios, 2021 on](https
   
   
   
+*  
+
+**uptake 20220415**: **_DELP 20220415_**, IHME 20220408, no IMPE, **_SRIV 20220415_**, No PHAC || Days old: DELP 0, IHME 7, no IMPE, SRIV 0
+
+
+
 *
 
 **uptake 20220408**: **_DELP 20220408_**, **_IHME 20220408_**, **_IMPE 20220131_**, **_SRIV 20220408_**, No PHAC
 
+(2) Saskatchewan [Daily deaths, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/SUB2%2012bDayDeaMERGsub%202021%20Saskatchewan%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Saskatchewan%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/162996575-41627590-37b7-4507-a3df-1e9671c644b3.png)
 
 *
 
@@ -294,6 +314,42 @@ graph (4) Saskatchewan - [Daily cases or infections, 3 scenarios, 2021 on](https
 
 
 
+#### graph (2b) Saskatchewan - Daily deaths, Reference scenario, 2022 on
+  
+****
+****
+  
+  
+  
+  
+  
+*  
+
+**uptake 20220415**: **_DELP 20220415_**, IHME 20220408, no IMPE, **_SRIV 20220415_**, No PHAC || Days old: DELP 0, IHME 7, no IMPE, SRIV 0
+
+
+
+*
+
+**uptake 20220408**: **_DELP 20220408_**, **_IHME 20220408_**, **_IMPE 20220131_**, **_SRIV 20220408_**, No PHAC
+
+(2b) Saskatchewan [Daily deaths, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/SUB2%2012cDayDeaMERGsub%202022%20Saskatchewan%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Saskatchewan%2C%20reference%20scenarios%2C%202022.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/163003096-2ebdff63-6aeb-4719-95b3-4b2cf3f9f0f1.png)
+
+*
+
+
+
+
+
+
+
+
+
+
+
+
 
 #### graph (3) Saskatchewan - Daily cases or infections, reference scenarios, all time
   
@@ -304,11 +360,19 @@ graph (4) Saskatchewan - [Daily cases or infections, 3 scenarios, 2021 on](https
   
   
   
+*  
+
+**uptake 20220415**: **_DELP 20220415_**, IHME 20220408, no IMPE, **_SRIV 20220415_**, No PHAC || Days old: DELP 0, IHME 7, no IMPE, SRIV 0
+
+
+
 *
 
 **uptake 20220408**: **_DELP 20220408_**, **_IHME 20220408_**, **_IMPE 20220131_**, **_SRIV 20220408_**, No PHAC
 
+(3) Saskatchewan [Daily cases or infections, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/SUB4%2031bDayCasMERGsub%20alltime%20Saskatchewan%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Saskatchewan%2C%20reference%20scenarios.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/162996705-e052368c-e5d8-43d2-bce7-d73f70d05999.png)
 
 *
 
@@ -443,11 +507,19 @@ graph (4) Saskatchewan - [Daily cases or infections, 3 scenarios, 2021 on](https
   
   
   
+*  
+
+**uptake 20220415**: **_DELP 20220415_**, IHME 20220408, no IMPE, **_SRIV 20220415_**, No PHAC || Days old: DELP 0, IHME 7, no IMPE, SRIV 0
+
+
+
 *
 
 **uptake 20220408**: **_DELP 20220408_**, **_IHME 20220408_**, **_IMPE 20220131_**, **_SRIV 20220408_**, No PHAC
 
+(4) Saskatchewan [Daily cases or infections, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/SUB5%2032bDayCasMERGsub%202021%20Saskatchewan%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Saskatchewan%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/162996843-d461d540-7e4a-4a8a-800b-0f9aa1c25bb1.png)
 
 *
 
@@ -563,6 +635,41 @@ graph (4) Saskatchewan - [Daily cases or infections, 3 scenarios, 2021 on](https
  
 *
 
+
+
+
+
+
+
+
+
+
+
+
+#### graph (4b) Saskatchewan - Daily cases or infections, Reference scenario, 2022 on
+  
+****
+****
+  
+  
+  
+  
+  
+*  
+
+**uptake 20220415**: **_DELP 20220415_**, IHME 20220408, no IMPE, **_SRIV 20220415_**, No PHAC || Days old: DELP 0, IHME 7, no IMPE, SRIV 0
+
+
+
+*
+
+**uptake 20220408**: **_DELP 20220408_**, **_IHME 20220408_**, **_IMPE 20220131_**, **_SRIV 20220408_**, No PHAC
+
+(4b) Saskatchewan [Daily cases or infections, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/SUB5%2032cDayCasMERGsub%202021%20Saskatchewan%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Saskatchewan%2C%20reference%20scenarios%2C%202022.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/163006022-9acf5c9c-3407-4c35-bcd4-d72dd2ea747b.png)
+
+*
 
 
 

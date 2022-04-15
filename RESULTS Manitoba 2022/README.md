@@ -35,6 +35,12 @@ graph (4b) Manitoba - [Daily cases or infections, Reference scenario, 2022 on](h
   
  
   
+*  
+
+**uptake 20220415**: **_DELP 20220415_**, IHME 20220408, no IMPE, **_SRIV 20220415_**, No PHAC || Days old: DELP 0, IHME 7, no IMPE, SRIV 0
+
+
+
 *
 
 **uptake 20220408**: **_DELP 20220408_**, **_IHME 20220408_**, **_IMPE 20220131_**, **_SRIV 20220408_**, No PHAC
@@ -175,6 +181,12 @@ graph (4b) Manitoba - [Daily cases or infections, Reference scenario, 2022 on](h
   
  
   
+*  
+
+**uptake 20220415**: **_DELP 20220415_**, IHME 20220408, no IMPE, **_SRIV 20220415_**, No PHAC || Days old: DELP 0, IHME 7, no IMPE, SRIV 0
+
+
+
 *
 
 **uptake 20220408**: **_DELP 20220408_**, **_IHME 20220408_**, **_IMPE 20220131_**, **_SRIV 20220408_**, No PHAC
@@ -315,6 +327,12 @@ graph (4b) Manitoba - [Daily cases or infections, Reference scenario, 2022 on](h
   
  
   
+*  
+
+**uptake 20220415**: **_DELP 20220415_**, IHME 20220408, no IMPE, **_SRIV 20220415_**, No PHAC || Days old: DELP 0, IHME 7, no IMPE, SRIV 0
+
+
+
 *
 
 **uptake 20220408**: **_DELP 20220408_**, **_IHME 20220408_**, **_IMPE 20220131_**, **_SRIV 20220408_**, No PHAC
@@ -344,6 +362,12 @@ graph (4b) Manitoba - [Daily cases or infections, Reference scenario, 2022 on](h
   
  
   
+*  
+
+**uptake 20220415**: **_DELP 20220415_**, IHME 20220408, no IMPE, **_SRIV 20220415_**, No PHAC || Days old: DELP 0, IHME 7, no IMPE, SRIV 0
+
+
+
 *
 
 **uptake 20220408**: **_DELP 20220408_**, **_IHME 20220408_**, **_IMPE 20220131_**, **_SRIV 20220408_**, No PHAC
@@ -485,6 +509,12 @@ graph (4b) Manitoba - [Daily cases or infections, Reference scenario, 2022 on](h
   
  
   
+*  
+
+**uptake 20220415**: **_DELP 20220415_**, IHME 20220408, no IMPE, **_SRIV 20220415_**, No PHAC || Days old: DELP 0, IHME 7, no IMPE, SRIV 0
+
+
+
 *
 
 **uptake 20220408**: **_DELP 20220408_**, **_IHME 20220408_**, **_IMPE 20220131_**, **_SRIV 20220408_**, No PHAC
@@ -625,6 +655,12 @@ graph (4b) Manitoba - [Daily cases or infections, Reference scenario, 2022 on](h
   
  
   
+*  
+
+**uptake 20220415**: **_DELP 20220415_**, IHME 20220408, no IMPE, **_SRIV 20220415_**, No PHAC || Days old: DELP 0, IHME 7, no IMPE, SRIV 0
+
+
+
 *
 
 **uptake 20220408**: **_DELP 20220408_**, **_IHME 20220408_**, **_IMPE 20220131_**, **_SRIV 20220408_**, No PHAC
