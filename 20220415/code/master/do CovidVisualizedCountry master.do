@@ -30,7 +30,7 @@ global IHMEdate 2022-04-08
 global IMPEdate 2022-01-31_v9 
 *            4/ -------------
 
-global SRIVdate 2022-04-15
+global SRIVdate 2022-04-13
 *            5/ ----------
 
 
@@ -48,7 +48,7 @@ global IHMEepoch 01Apr2022 // as per https://covid19.healthdata.org/canada?view=
 global IMPEepoch 31Jan2022 // update release date																		 
 *            8/ ----------
 
-global SRIVepoch 15Apr2022 // update release date																		 
+global SRIVepoch 13Apr2022 // update release date																		 
 *            9/ ----------
 
 
