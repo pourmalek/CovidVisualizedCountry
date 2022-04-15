@@ -131,7 +131,6 @@ do "$pathCovidVisualizedCountry/SRIV/do CovidVisualizedCountry SRIV.do"
 
 do "$pathCovidVisualizedCountry/merge/do CovidVisualizedCountry merge.do" 
 
-// do "$pathCovidVisualizedCountry/merge/do CovidVisualizedCountry cleanup.do" 
 
 
 
