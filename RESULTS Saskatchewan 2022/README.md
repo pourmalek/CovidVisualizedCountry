@@ -16,7 +16,7 @@ graph (3) Saskatchewan - [Daily cases or infections, reference scenarios, all ti
   
 graph (4) Saskatchewan - [Daily cases or infections, 3 scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS%20Saskatchewan%202022/README.md#graph-4-saskatchewan---daily-cases-or-infections-3-scenarios-2021-on)  
   
-graph (4b) Saskatchewan - [Daily cases or infections, Reference scenario, 2022 on]()
+graph (4b) Saskatchewan - [Daily cases or infections, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS%20Saskatchewan%202022/README.md#graph-4b-saskatchewan---daily-cases-or-infections-reference-scenario-2022-on)
 
 
 ****
@@ -326,6 +326,12 @@ graph (4b) Saskatchewan - [Daily cases or infections, Reference scenario, 2022 o
 *  
 
 **uptake 20220415**: **_DELP 20220415_**, IHME 20220408, no IMPE, **_SRIV 20220415_**, No PHAC || Days old: DELP 0, IHME 7, no IMPE, SRIV 0
+
+
+
+*
+
+**uptake 20220408**: **_DELP 20220408_**, **_IHME 20220408_**, **_IMPE 20220131_**, **_SRIV 20220408_**, No PHAC
 
 (2b) Saskatchewan [Daily deaths, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/SUB2%2012cDayDeaMERGsub%202022%20Saskatchewan%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Saskatchewan%2C%20reference%20scenarios%2C%202022.pdf)
 
@@ -652,6 +658,12 @@ graph (4b) Saskatchewan - [Daily cases or infections, Reference scenario, 2022 o
 *  
 
 **uptake 20220415**: **_DELP 20220415_**, IHME 20220408, no IMPE, **_SRIV 20220415_**, No PHAC || Days old: DELP 0, IHME 7, no IMPE, SRIV 0
+
+
+
+*
+
+**uptake 20220408**: **_DELP 20220408_**, **_IHME 20220408_**, **_IMPE 20220131_**, **_SRIV 20220408_**, No PHAC
 
 (4b) Saskatchewan [Daily cases or infections, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220408/output/SUB5%2032cDayCasMERGsub%202021%20Saskatchewan%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Saskatchewan%2C%20reference%20scenarios%2C%202022.pdf)
 
