@@ -68,7 +68,9 @@ graph (13) Canada - [Percent cumulative vaccinated, reference scenario, 2021 on,
 
 **uptake 20220415**: **_DELP 20220415_**, IHME 20220408, no IMPE, **_SRIV 20220413_**, No PHAC || Days old: DELP 0, IHME 7, no IMPE, SRIV 2
 
+(1) Canada [Daily deaths, Reference scenarios, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220415/output/CAN1%2011aDayDeaMERGnat%20alltime%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/163655658-423aa330-6382-4af5-a596-9f605fb24885.png)
 
 *
 
@@ -210,7 +212,9 @@ This graph was not generated for this uptake.
 
 **uptake 20220415**: **_DELP 20220415_**, IHME 20220408, no IMPE, **_SRIV 20220413_**, No PHAC || Days old: DELP 0, IHME 7, no IMPE, SRIV 2
 
+(2) Canada National [Daily deaths, All scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220415/output/CAN2%2012aDayDeaMERGnat%202021%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/163655676-4562686f-53f2-4a01-88bf-1c7014b7fb48.png)
 
 *
 
@@ -439,7 +443,9 @@ This graph was not generated for this uptake.
 
 **uptake 20220415**: **_DELP 20220415_**, IHME 20220408, no IMPE, **_SRIV 20220413_**, No PHAC || Days old: DELP 0, IHME 7, no IMPE, SRIV 2
 
+(2b) Canada National [Daily deaths, All scenarios, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220415/output/CAN2%2012aaDayDeaMERGnat%202022%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/163655702-f62a377c-7843-4c65-8b8c-dc06c2702eab.png)
 
 *
 
@@ -476,7 +482,9 @@ This graph was not generated for this uptake.
 
 **uptake 20220415**: **_DELP 20220415_**, IHME 20220408, no IMPE, **_SRIV 20220413_**, No PHAC || Days old: DELP 0, IHME 7, no IMPE, SRIV 2
 
+(3) Canada National [Daily cases or infections, Reference scenarios, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220415/output/CAN4%2031aDayCasMERGnat%20alltime%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20National%2C%20reference%20scenarios.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/163655721-ad26ae91-d5f3-4546-b95c-e25878c9f5b4.png)
 
 *
 
@@ -622,7 +630,9 @@ This graph was not generated for this uptake.
 
 **uptake 20220415**: **_DELP 20220415_**, IHME 20220408, no IMPE, **_SRIV 20220413_**, No PHAC || Days old: DELP 0, IHME 7, no IMPE, SRIV 2
 
+(4) Canada National [Daily cases or infections, All scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220415/output/CAN6%2034aDayCasMERGnat%202021%203scen%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20National%2C%203%20scenarios%2C%202021%2C%20uncertainty.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/163655745-c8944dff-aefd-45e5-9fd9-c0fd3f0a6782.png)
 
 *
 
@@ -853,7 +863,9 @@ This graph was not generated for this uptake.
 
 **uptake 20220415**: **_DELP 20220415_**, IHME 20220408, no IMPE, **_SRIV 20220413_**, No PHAC || Days old: DELP 0, IHME 7, no IMPE, SRIV 2
 
+(4b) Canada National [Daily cases or infections, All scenarios, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220415/output/CAN6%2034aaDayCasMERGnat%202021%203scen%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20National%2C%203%20scenarios%2C%202022%2C%20uncertainty.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/163655763-ab567d1f-e47c-42bc-943f-9e20e2ab7013.png)
 
 *
 
@@ -1188,7 +1200,9 @@ This graph was not generated for this uptake.
 
 **uptake 20220415**: **_DELP 20220415_**, IHME 20220408, no IMPE, **_SRIV 20220413_**, No PHAC || Days old: DELP 0, IHME 7, no IMPE, SRIV 2
 
+(5) Canada National [Daily hospital-related outcomes, Reference scenarios, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220415/output/CAN7%2071a1DayHosMERGnat%20%20alltime%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20National.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/163656167-dba216fe-e960-4f90-abd0-d8a6bb0b5aad.png)
 
 *
 
@@ -1336,7 +1350,9 @@ This graph was not generated for this uptake.
 
 **uptake 20220415**: **_DELP 20220415_**, IHME 20220408, no IMPE, **_SRIV 20220413_**, No PHAC || Days old: DELP 0, IHME 7, no IMPE, SRIV 2
 
+(6) Canada National [Daily hospital-related outcomes, without IHME Bed need, IMPE Hospital demand, Reference scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220415/output/CAN8%2073aDayHosMERGnat%202021%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20National%2C%20wo%20extremes%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/163656184-95904acb-5e0d-4a62-b3d3-7c12b9c563c8.png)
 
 *
 
@@ -1390,7 +1406,7 @@ This graph was not generated for this uptake.
 
 **uptake 20220218**: **_DELP 20220218_**, **_IHME 20220218_**, NO IMPE, NO SRIV
 
-
+.
 
 *
 
