@@ -86,6 +86,7 @@ The [latest update of the PHAC-McMaster model](https://www.canada.ca/content/dam
 
 (4b) Canada National [Daily cases or infections, All scenarios, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220415/output/CAN6%2034aaDayCasMERGnat%202021%203scen%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20National%2C%203%20scenarios%2C%202022%2C%20uncertainty.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/163655763-ab567d1f-e47c-42bc-943f-9e20e2ab7013.png)
  
 ****
 
