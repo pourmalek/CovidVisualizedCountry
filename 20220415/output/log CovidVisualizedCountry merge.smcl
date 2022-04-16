@@ -1,9 +1,9 @@
 {smcl}
-{txt}{sf}{ul off}{.-}
+{com}{sf}{ul off}{txt}{.-}
       name:  {res}<unnamed>
        {txt}log:  {res}/Users/farshadpourmalek/Downloads/CovidVisualizedCountry-main/20220415/code/merge/log CovidVisualizedCountry merge.smcl
   {txt}log type:  {res}smcl
- {txt}opened on:  {res}15 Apr 2022, 13:41:59
+ {txt}opened on:  {res}15 Apr 2022, 17:35:26
 {txt}
 {com}. 
 . 
@@ -562,7 +562,7 @@ all files already exist and are up to date.
 {com}. 
 . 
 . gen DayDERMeRaA05S00  = DayDeaMeRaA05S00 / DayDeaMeRaA00S00
-{txt}(12,356 missing values generated)
+{txt}(12,451 missing values generated)
 
 {com}. 
 . label var DayDERMeRaA05S00 "Daily Deaths estim to reported S0 SRIV"
@@ -641,7 +641,7 @@ all files already exist and are up to date.
 {com}. 
 . 
 . gen DayCERMeRaA05S00  = DayCasMeRaA05S00 / DayCasMeRaA00S00
-{txt}(12,356 missing values generated)
+{txt}(12,451 missing values generated)
 
 {com}. 
 . label var DayCERMeRaA05S00 "Daily Cases estim to reported S0 SRIV"
@@ -719,7 +719,7 @@ all files already exist and are up to date.
 {com}. 
 . 
 . gen TotDERMeRaA05S00  = TotDeaMeRaA05S00 / TotDeaMeRaA00S00
-{txt}(12,351 missing values generated)
+{txt}(12,450 missing values generated)
 
 {com}. 
 . label var TotDERMeRaA05S00 "Total Deaths estim to reported S0 SRIV"
@@ -798,7 +798,7 @@ all files already exist and are up to date.
 {com}. 
 . 
 . gen TotCERMeRaA05S00  = TotCasMeRaA05S00 / TotCasMeRaA00S00
-{txt}(12,351 missing values generated)
+{txt}(12,450 missing values generated)
 
 {com}. 
 . label var TotCERMeRaA05S00 "Total Cases estim to reported S0 SRIV"
@@ -850,8 +850,7 @@ all files already exist and are up to date.
 {txt}
 {com}. 
 . save "CovidVisualizedCountry merge.dta", replace
-{txt}(note: file CovidVisualizedCountry merge.dta not found)
-file CovidVisualizedCountry merge.dta saved
+{txt}file CovidVisualizedCountry merge.dta saved
 
 {com}. 
 . 
@@ -974,7 +973,7 @@ now 732
 
 {txt}Contains data from {res}CovidVisualizedCountry merge.dta
 {txt}  obs:{res}        12,473                          
-{txt} vars:{res}         2,161                          15 Apr 2022 13:42
+{txt} vars:{res}         2,161                          15 Apr 2022 17:35
 {txt} size:{res}    93,934,163                          
 {txt}{hline}
               storage   display    value
@@ -9268,7 +9267,7 @@ color,  default attributes used)
       {txt}name:  {res}<unnamed>
        {txt}log:  {res}/Users/farshadpourmalek/Downloads/CovidVisualizedCountry-main/20220415/code/merge/log CovidVisualizedCountry merge.smcl
   {txt}log type:  {res}smcl
- {txt}closed on:  {res}15 Apr 2022, 13:48:25
+ {txt}closed on:  {res}15 Apr 2022, 17:45:26
 {txt}{.-}
 {smcl}
 {txt}{sf}{ul off}
