@@ -12,6 +12,11 @@ The [latest update of the PHAC-McMaster model](https://www.canada.ca/content/dam
 
 <br/><br/>
 
+**Summary 20220415:**
+
+Though the models’ results are divergent about the future trajectory of cases (or infections) and deaths, the official reported cases and deaths are on the rise at the national and provinces levels, at a rate faster than whet the models predict. 
+
+<br/><br/>
 
 
 ****
@@ -261,11 +266,13 @@ The [latest update of the PHAC-McMaster model](https://www.canada.ca/content/dam
 
 (1) Alberta [Daily deaths, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220415/output/SUB1%2011bDayDeaMERGsub%20alltime%20Alberta%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/163659277-ace8e46c-eb28-466e-9fb2-78d28cdc2d80.png)
  
 ****
 
 (2) Alberta [Daily deaths, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220415/output/SUB2%2012bDayDeaMERGsub%202021%20Alberta%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/163659409-c470cf85-93e7-4a9a-8604-5ce02da1c7fa.png)
  
 ****
 
