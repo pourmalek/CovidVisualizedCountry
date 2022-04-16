@@ -46,21 +46,9 @@ Third vaccine dose scenario 2022
 Checksum (sha-256)
 */
 
-copy https://ihmecovid19storage.blob.core.windows.net/latest/data_dictionary.csv data_dictionary.csv 
-copy https://ihmecovid19storage.blob.core.windows.net/latest/IHME_COVID_19_Data_Release_Information_Sheet.pdf IHME_COVID_19_Data_Release_Information_Sheet.pdf 
-
-copy https://ihmecovid19storage.blob.core.windows.net/latest/data_download_file_reference_2020.csv data_download_file_reference_2020.csv 
-copy https://ihmecovid19storage.blob.core.windows.net/latest/data_download_file_reference_2021.csv data_download_file_reference_2021.csv 
-copy https://ihmecovid19storage.blob.core.windows.net/latest/data_download_file_reference_2022.csv data_download_file_reference_2022.csv 
-
-copy https://ihmecovid19storage.blob.core.windows.net/latest/data_download_file_best_masks_2020.csv data_download_file_best_masks_2020.csv 
-copy https://ihmecovid19storage.blob.core.windows.net/latest/data_download_file_best_masks_2021.csv data_download_file_best_masks_2021.csv 
-copy https://ihmecovid19storage.blob.core.windows.net/latest/data_download_file_best_masks_2022.csv data_download_file_best_masks_2022.csv 
-
-copy https://ihmecovid19storage.blob.core.windows.net/latest/data_download_file_third_dose_2020.csv data_download_file_third_dose_2020.csv 
-copy https://ihmecovid19storage.blob.core.windows.net/latest/data_download_file_third_dose_2021.csv data_download_file_third_dose_2021.csv 
-copy https://ihmecovid19storage.blob.core.windows.net/latest/data_download_file_third_dose_2022.csv data_download_file_third_dose_2022.csv 
-
+copy https://ihmecovid19storage.blob.core.windows.net/archive/$IHMEdate/ihme-covid19.zip ihme-covid19.zip
+unzipfile ihme-covid19.zip, replace
+erase ihme-covid19.zip
 
 ******************************
 
@@ -1325,6 +1313,18 @@ label var DayINFFatUpSmA02S01 "Daily Fatal Infections Upper smoothed IHME S1"
 
 
 
+* Forecast start date (as per https://covid19.healthdata.org/canada?view=daily-deaths&tab=trend)
+gen epoch_IHME = td($IHMEepoch)
+label var epoch_IHME "IHME Forecast start date"
+
+gen DayDeaFOREA02S01 = DayDeaMeSmA02S01
+replace DayDeaFOREA02S01 = . if date < td($IHMEepoch)
+label var DayDeaFOREA02S01 "Daily Forecasted Deaths Mean smoothed IHME S1"
+
+gen DayINFFOREA02S01 = DayINFMeSmA02S01
+replace DayINFFOREA02S01 = . if date < td($IHMEepoch)
+label var DayINFFOREA02S01 "Daily Forecasted infections Mean smoothed IHME S1"
+
 
 
 
@@ -1363,7 +1363,8 @@ DayDeMMeSmA02S01 DayCaMMeSmA02S01 DayCbDMeSmA02S01 DayDMuMeSmA02S01 ///
 cumul_vax_pct cumul_effective_vax_pct cumul_fully_vax_pct ///
 DayINFDetMeSmA02S01 DayINFDetLoSmA02S01 DayINFDetUpSmA02S01 ///
 DayINFHosMeSmA02S01 DayINFHosLoSmA02S01 DayINFHosUpSmA02S01 ///
-DayINFFatMeSmA02S01 DayINFFatLoSmA02S01 DayINFFatUpSmA02S01 {
+DayINFFatMeSmA02S01 DayINFFatLoSmA02S01 DayINFFatUpSmA02S01 ///
+DayDeaFOREA02S01 DayINFFOREA02S01 {
 
 	 
 	qui gen `var'XAB = `var' 
