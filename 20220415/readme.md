@@ -325,25 +325,29 @@ Though the models’ results are divergent regarding the future trajectory of ca
 
 (2) British Columbia [Daily deaths, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220415/output/SUB2%2012bDayDeaMERGsub%202021%20British%20Columbia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/163661569-6dc58eeb-3b12-4e52-b39e-5b9405538445.png)
  
 ****
 
 (2b) British Columbia [Daily deaths, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220415/output/SUB2%2012cDayDeaMERGsub%202022%20British%20Columbia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/163661583-0b509819-1cf1-43cb-a45f-b47c88e5a955.png)
  
 ****
 
 (3) British Columbia [Daily cases or infections, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220415/output/SUB4%2031bDayCasMERGsub%20alltime%20British%20Columbia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/163661609-158fa176-c71d-4845-948f-77ffdc3eb5fb.png)
  
 ****
 
 (4) British Columbia [Daily cases or infections, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220415/output/SUB5%2032bDayCasMERGsub%202021%20British%20Columbia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/163661623-f375cbd1-05fa-48d5-932c-e141a6e35eb3.png)
  
 ****
 
-(4b) British Columbia [Daily cases or infections, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220415/output/SUB5%2032cDayCasMERGsub%202021%20British%20Columbia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%202022.pdf)
+(4b) British Columbia [Daily cases or infections, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220415/output/SUB5%2032cDayCasMERGsub%202022%British%20Columbia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios%2C%202022.pdf)
 
 
 ****
