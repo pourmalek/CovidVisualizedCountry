@@ -9,32 +9,50 @@
 ***************************************************************************
 
 
-* This is uptake 20220428 *****************
+* This is uptake 20220429 *****************
 
 
 global country Canada // <<-- set here the country of choice - countries without subnational estimates     
                                                                                                          ***************************
 di "$country"                                                                                  // <<<--- *   change country here   *
                                                                                                          ***************************
-* To change uptake date, find and replace all, 20220428 (old), with 20220428 (new) <<--           <<<--- * change uptake date here *
+* To change uptake date, find and replace all, 20220429 (old), with 20220429 (new) <<--           <<<--- * change uptake date here *
 *                                           1/ --------                                                  ***************************
 
 * To change uptake date in individual do files for models, change the following dates:
 
-global DELPdate 20220428
+global DELPdate 20220429
 *            2/ --------
 
-global IHMEdate 20220322
+global IHMEdate 2022-04-08
 *            3/ --------
 
 global IMPEdate 2022-01-31_v9 
 *            4/ -------------
 
-global SRIVdate 2022-04-28
+global SRIVdate 2022-04-29
 *            5/ ----------
 
 
 
+***************************************
+
+* set epoch for marking forecasts with ||||||||||
+
+global DELPepoch 29Apr2022 // update release date
+*            6/ ----------
+
+global IHMEepoch 01Apr2022 // as per https://covid19.healthdata.org/canada?view=daily-deaths&tab=trend
+*            7/ ----------
+
+global IMPEepoch 31Jan2022 // update release date																		 
+*            8/ ----------
+
+global SRIVepoch 29Apr2022 // update release date																		 
+*            9/ ----------
+
+
+*****************************************
 
 
 
@@ -56,10 +74,10 @@ di "`usrnam'"
 ****** set path based on local operating system ******
 
 if regexm(c(os),"Mac") == 1 {
-	global pathCovidVisualizedCountry "/Users/`usrnam'/Downloads/CovidVisualizedCountry-main/20220428/code/" 
+	global pathCovidVisualizedCountry "/Users/`usrnam'/Downloads/CovidVisualizedCountry-main/20220429/code/" 
 }
 else if regexm(c(os),"Windows") {
-	global pathCovidVisualizedCountry = "C:\Users\\`usrnam'\Downloads\CovidVisualizedCountry-main\20220428\code\"
+	global pathCovidVisualizedCountry = "C:\Users\\`usrnam'\Downloads\CovidVisualizedCountry-main\20220429\code\"
 }
 *
 
@@ -130,7 +148,6 @@ do "$pathCovidVisualizedCountry/SRIV/do CovidVisualizedCountry SRIV.do"
 // do "$pathCovidVisualizedCountry/PHAC/do CovidVisualizedCountry PHAC.do" // PHAC not in this uptake
 
 do "$pathCovidVisualizedCountry/merge/do CovidVisualizedCountry merge.do" 
-
 
 
 

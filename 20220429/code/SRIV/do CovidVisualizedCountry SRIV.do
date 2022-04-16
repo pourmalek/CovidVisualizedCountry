@@ -88,7 +88,7 @@ label var TotCasUpRaA05S00 "Total Cases Upper SRIV"
 
 rename date date_original
 gen date = .
-replace date = td(03jan2022) in 1
+replace date = td($SRIVepoch) in 1
 replace date = date[_n-1] + 1 in 2/l
 format date %tdDDMonCCYY
 codebook date
@@ -161,6 +161,23 @@ sort date loc_grand_name
 
 order date loc_grand_name
 
+
+
+
+* Forecast start date 
+
+gen epoch_SRIV = td($SRIVepoch) // update release date
+label var epoch_SRIV "SRIV Forecast start date"
+
+gen DayDeaFOREA05S00 = DayDeaMeRaA05S00
+replace DayDeaFOREA05S00 = . if date < td($SRIVepoch)
+label var DayDeaFOREA05S00 "Daily Forecasted Deaths Mean smoothed SRIV"
+
+gen DayCasFOREA05S00 = DayCasMeRaA05S00
+replace DayCasFOREA05S00 = . if date < td($SRIVepoch)
+label var DayCasFOREA05S00 "Daily Forecasted Cases Mean smoothed SRIV"
+
+
 qui compress
 
 
@@ -169,209 +186,6 @@ save "CovidVisualizedCountry SRIV.dta", replace
 	
 	
 	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-****************************
-
-* graphs 
-
-grstyle init
-
-grstyle color background white
-
-
-
-* daily deaths 
-
-twoway ///
-(line DayDeaMeRaA05S00 date, sort lcolor(black)) ///
-, xtitle(Date) xlabel(#5, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
-xlabel(, angle(forty_five)) ylabel(, format(%9.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
-ytitle(Daily deaths) title("COVID-19 daily deaths, $country, SRIV, default scenario", size(medium)) ///
-xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) 
-
-qui graph save "graph 1 COVID-19 daily deaths, default scenario, $country, SRIV.gph", replace
-qui graph export "graph 1 COVID-19 daily deaths, default scenario, $country, SRIV.pdf", replace
-
-
-
-
-* daily deaths CI
-
-twoway ///
-(rarea DayDeaLoRaA05S00 DayDeaUpRaA05S00 date, sort color(black*.2)) ///
-(line DayDeaMeRaA05S00 date, sort lcolor(black)) ///
-, xtitle(Date) xlabel(#5, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
-xlabel(, angle(forty_five)) ylabel(, format(%9.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
-ytitle(Daily deaths) title("COVID-19 daily deaths, $country, SRIV, default scenario", size(medium)) ///
-xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(off) ///
-subtitle("with confidence limits", size(small))
-
-qui graph save "graph 2 COVID-19 daily deaths, default scenario, $country, SRIV.gph", replace
-qui graph export "graph 2 COVID-19 daily deaths, default scenario, $country, SRIV.pdf", replace
-
-
-
-
-* daily cases 
-
-twoway ///
-(line DayCasMeRaA05S00 date, sort lcolor(black)) ///
-, xtitle(Date) xlabel(#5, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
-xlabel(, angle(forty_five)) ylabel(, format(%9.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
-ytitle(Daily cases) title("COVID-19 daily cases, $country, SRIV, default scenario", size(medium)) ///
-xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) 
-
-qui graph save "graph 3 COVID-19 daily cases, default scenario, $country, SRIV.gph", replace
-qui graph export "graph 3 COVID-19 daily cases, default scenario, $country, SRIV.pdf", replace
-
-
-
-
-* daily cases CI
-
-twoway ///
-(rarea DayCasLoRaA05S00 DayCasUpRaA05S00 date, sort color(black*.2)) ///
-(line DayCasMeRaA05S00 date, sort lcolor(black)) ///
-, xtitle(Date) xlabel(#5, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
-xlabel(, angle(forty_five)) ylabel(, format(%9.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
-ytitle(Daily cases) title("COVID-19 daily cases, $country, SRIV, default scenario", size(medium)) ///
-xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(off) ///
-subtitle("with confidence limits", size(small))
-
-qui graph save "graph 4 COVID-19 daily cases, default scenario, $country, SRIV.gph", replace
-qui graph export "graph 4 COVID-19 daily cases, default scenario, $country, SRIV.pdf", replace
-
-
-
-
-* total deaths 
-
-twoway ///
-(line TotDeaMeRaA05S00 date, sort lcolor(black)) ///
-, xtitle(Date) xlabel(#5, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
-xlabel(, angle(forty_five)) ylabel(, format(%9.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
-ytitle(Total deaths) title("COVID-19 total deaths, $country, SRIV, default scenario", size(medium)) ///
-xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) 
-
-qui graph save "graph 5 COVID-19 total deaths, default scenario, $country, SRIV.gph", replace
-qui graph export "graph 5 COVID-19 total deaths, default scenario, $country, SRIV.pdf", replace
-
-
-
-
-* total deaths CI
-
-twoway ///
-(rarea TotDeaLoRaA05S00 TotDeaUpRaA05S00 date, sort color(black*.2)) ///
-(line TotDeaMeRaA05S00 date, sort lcolor(black)) ///
-, xtitle(Date) xlabel(#5, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
-xlabel(, angle(forty_five)) ylabel(, format(%9.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
-ytitle(Total deaths) title("COVID-19 total deaths, $country, SRIV, default scenario", size(medium)) ///
-xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(off) ///
-subtitle("with confidence limits", size(small))
-
-qui graph save "graph 6 COVID-19 total deaths, default scenario, $country, SRIV.gph", replace
-qui graph export "graph 6 COVID-19 total deaths, default scenario, $country, SRIV.pdf", replace
-
-
-
-
-* total cases 
-
-twoway ///
-(line TotCasMeRaA05S00 date, sort lcolor(black)) ///
-, xtitle(Date) xlabel(#5, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
-xlabel(, angle(forty_five)) ylabel(, format(%9.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
-ytitle(Total cases) title("COVID-19 total cases, $country, SRIV, default scenario", size(medium)) ///
-xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) 
-
-qui graph save "graph 7 COVID-19 total cases, default scenario, $country, SRIV.gph", replace
-qui graph export "graph 7 COVID-19 total cases, default scenario, $country, SRIV.pdf", replace
-
-
-
-
-* total cases CI
-
-twoway ///
-(rarea TotCasLoRaA05S00 TotCasUpRaA05S00 date, sort color(black*.2)) ///
-(line TotCasMeRaA05S00 date, sort lcolor(black)) ///
-, xtitle(Date) xlabel(#5, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
-xlabel(, angle(forty_five)) ylabel(, format(%9.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
-ytitle(Total cases) title("COVID-19 total cases, $country, SRIV, default scenario", size(medium)) ///
-xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(off) ///
-subtitle("with confidence limits", size(small))
-
-qui graph save "graph 8 COVID-19 total cases, default scenario, $country, SRIV.gph", replace
-qui graph export "graph 8 COVID-19 total cases, default scenario, $country, SRIV.pdf", replace
-
-
-
-
-* daily CFR 
-
-twoway ///
-(line DayCfrMeRaA05S00 date, sort lcolor(black)) ///
-, xtitle(Date) xlabel(#5, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
-xlabel(, angle(forty_five)) ylabel(, format(%9.2fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
-ytitle(Daily CFR) title("COVID-19 daily CFR, $country, SRIV, default scenario", size(medium)) ///
-xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) 
-
-qui graph save "graph 9 COVID-19 daily CFR, default scenario, $country, SRIV.gph", replace
-qui graph export "graph 9 COVID-19 daily CFR, default scenario, $country, SRIV.pdf", replace
-
-
-
-
-* daily CFR CI
-
-twoway ///
-(rarea DayCfrLoRaA05S00 DayCfrUpRaA05S00 date, sort color(black*.2)) ///
-(line DayCfrMeRaA05S00 date, sort lcolor(black)) ///
-, xtitle(Date) xlabel(#5, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
-xlabel(, angle(forty_five)) ylabel(, format(%9.2fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
-ytitle(Daily CFR) title("COVID-19 daily CFR, $country, SRIV, default scenario", size(medium)) ///
-xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(off) ///
-subtitle("with confidence limits", size(small))
-
-qui graph save "graph 10 COVID-19 daily CFR, default scenario, $country, SRIV.gph", replace
-qui graph export "graph 10 COVID-19 daily CFR, default scenario, $country, SRIV.pdf", replace
-
-
-
-
-* DayCas DayDeaDay Dea_multip
-
-twoway ///
-(line DayCasMeRaA05S00 date, sort lcolor(blue)) ///
-(line DayDeaMeRaA05S00 date, sort lcolor(red)) ///
-(line DayDMuMeRaA05S00 date, sort lpattern(dot) lcolor(red)) ///
-if date > td(01jan2020) ///
-, xtitle(Date) xlabel(, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
-xlabel(, angle(forty_five)) ylabel(, format(%12.0fc) labsize(small)) ylabel(, labsize(small) angle(horizontal)) ///
-ytitle(Daily cases and deaths) title("COVID-19 daily cases and deaths, $country, SRIV ", size(medium)) ///
-xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) yscale(titlegap(4)) legend(region(lcolor(none)))  ///
-legend(order(1 "Daily cases" 2 "Daily deaths" 3 "Daily deaths scaled for visualization") size(small)) ///
-subtitle("Daily deaths, scaled = times (means of cases divided by deaths) for visualization only", size(small)) ///
-note("Current scenario, mean estimate")
-
-qui qui graph save "graph 10 COVID-19 daily deaths and cases $country, SRIV.gph", replace
-qui qui graph export "graph 10 COVID-19 daily deaths and cases $country, SRIV.pdf", replace
-
-
-********************
-
-
-
 
 
 
