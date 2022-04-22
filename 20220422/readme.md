@@ -106,21 +106,25 @@ The [latest update of the PHAC-McMaster model](https://www.canada.ca/content/dam
 
 (7) Canada National [Daily Infection hospitalization and fatality ratios, Reference scenario, IHME, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220422/output/graph%2091a2%20COVID-19%20daily%20Infection%20outcomes%20ratios%2C%20Canada%2C%20National%203%20scenarios%2C%20IHME.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/164786635-d927bc8a-a704-4874-a2fc-ead893ba0837.png)
  
 ****
 
 (8) Canada National [Daily percent change in mobility, IHME, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220422/output/graph%2092a%20COVID-19%20daily%20mobility%2C%20Canada%2C%20National%2C%203%20scenarios.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/164786751-60478b35-a3d9-4ff0-93d2-4be071a96b76.png)
  
 ****
 
 (9) Canada National [Daily mask use, IHME, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220422/output/graph%2093a%20COVID-19%20daily%20mask_use%2C%20Canada%2C%20National%2C%203%20scenarios.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/164786832-fac00567-4d4c-4f49-943f-239009955503.png)
  
 ****
 
 (10) Canada National [Percent cumulative vaccinated, IHME, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220422/output/graph%2094a%20COVID-19%20percent%20cumulative%20vaccinated%2C%20Canada%2C%20National.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/164786910-e1cf6756-0f8b-4ee3-aa65-10982d560a6e.png)
  
 ****
 
