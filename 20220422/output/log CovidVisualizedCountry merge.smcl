@@ -1,9 +1,9 @@
 {smcl}
-{txt}{sf}{ul off}{.-}
+{com}{sf}{ul off}{txt}{.-}
       name:  {res}<unnamed>
        {txt}log:  {res}/Users/farshadpourmalek/Downloads/CovidVisualizedCountry-main/20220422/code/merge/log CovidVisualizedCountry merge.smcl
   {txt}log type:  {res}smcl
- {txt}opened on:  {res}22 Apr 2022, 12:32:24
+ {txt}opened on:  {res}22 Apr 2022, 16:28:28
 {txt}
 {com}. 
 . 
@@ -850,8 +850,7 @@ all files already exist and are up to date.
 {txt}
 {com}. 
 . save "CovidVisualizedCountry merge.dta", replace
-{txt}(note: file CovidVisualizedCountry merge.dta not found)
-file CovidVisualizedCountry merge.dta saved
+{txt}file CovidVisualizedCountry merge.dta saved
 
 {com}. 
 . 
@@ -974,7 +973,7 @@ now 732
 
 {txt}Contains data from {res}CovidVisualizedCountry merge.dta
 {txt}  obs:{res}        12,501                          
-{txt} vars:{res}         2,161                          22 Apr 2022 12:32
+{txt} vars:{res}         2,161                          22 Apr 2022 16:29
 {txt} size:{res}    94,032,522                          
 {txt}{hline}
               storage   display    value
@@ -5365,7 +5364,7 @@ Sorted by: {res}loc_grand_name  provincestate  date
 . foreach l of local levels {c -(}
 {txt}  2{com}. 
 . twoway ///
-> (line DayDeaMeSmA00S00 date, sort lcolor(cyan) lwidth(vthick)) /// 1 "JOHN smooth"
+> (line DayDeaMeSmA00S00 date, sort lcolor(cyan) lwidth(thick)) /// 1 "JOHN smooth"
 > (line DayDeaFOREA01S00 date, sort lcolor(red) lpattern(tight_dot) lwidth(vthick)) /// 2 "DELP" Forecast only
 > (line DayDeaMeSmA01S00 date, sort lcolor(red) lwidth(medthick)) /// 3 "DELP smooth"
 > (line DayDeaFOREA02S01 date, sort lcolor(black) lpattern(tight_dot) lwidth(vthick)) /// 4 "IHME" Forecast only
@@ -9266,7 +9265,7 @@ color,  default attributes used)
       {txt}name:  {res}<unnamed>
        {txt}log:  {res}/Users/farshadpourmalek/Downloads/CovidVisualizedCountry-main/20220422/code/merge/log CovidVisualizedCountry merge.smcl
   {txt}log type:  {res}smcl
- {txt}closed on:  {res}22 Apr 2022, 12:39:18
+ {txt}closed on:  {res}22 Apr 2022, 16:36:04
 {txt}{.-}
 {smcl}
 {txt}{sf}{ul off}
