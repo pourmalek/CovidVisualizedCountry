@@ -316,31 +316,37 @@ The [latest update of the PHAC-McMaster model](https://www.canada.ca/content/dam
 
 (1) British Columbia [Daily deaths, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220422/output/SUB1%2011bDayDeaMERGsub%20alltime%20British%20Columbia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/164803371-bbe86e4c-69a5-4ea3-9736-01a59699bcbe.png)
  
 ****
 
 (2) British Columbia [Daily deaths, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220422/output/SUB2%2012bDayDeaMERGsub%202021%20British%20Columbia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/164803513-669e7eaa-9eb3-4eab-871b-f5d500bbe6c0.png)
  
 ****
 
 (2b) British Columbia [Daily deaths, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220422/output/SUB2%2012cDayDeaMERGsub%202022%20British%20Columbia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/164805128-5f39fc2d-b671-4fe8-9265-44ef0882534a.png)
  
 ****
 
 (3) British Columbia [Daily cases or infections, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220422/output/SUB4%2031bDayCasMERGsub%20alltime%20British%20Columbia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/164805621-13c45103-599a-4857-80c8-3c481fa47144.png)
  
 ****
 
 (4) British Columbia [Daily cases or infections, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220422/output/SUB5%2032bDayCasMERGsub%202021%20British%20Columbia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/164806095-72dffda6-75c5-4ab9-b18a-7b3486522583.png)
  
 ****
 
 (4b) British Columbia [Daily cases or infections, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220422/output/SUB5%2032cDayCasMERGsub%202022%20British%20Columbia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/164806595-cd576b7d-b030-4bb7-9768-e1d94f10919e.png)
 
 ****
 
@@ -361,31 +367,37 @@ The [latest update of the PHAC-McMaster model](https://www.canada.ca/content/dam
 
 (1) Manitoba [Daily deaths, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220422/output/SUB1%2011bDayDeaMERGsub%20alltime%20Manitoba%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/164807085-34375322-5598-4104-9463-736c3891b34a.png)
  
 ****
 
 (2) Manitoba [Daily deaths, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220422/output/SUB2%2012bDayDeaMERGsub%202021%20Manitoba%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/164807537-d00df653-0264-476d-be3c-2a3da5c0bdca.png)
   
 ****
 
 (2b) Manitoba [Daily deaths, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220422/output/SUB2%2012cDayDeaMERGsub%202022%20Manitoba%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios%2C%202022.pdf)
 
- 
+ ![image](https://user-images.githubusercontent.com/30849720/164808136-01a017b8-22aa-4ff0-ba84-127437097a54.png)
+
 ****
 
 (3) Manitoba [Daily cases or infections, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220422/output/SUB4%2031bDayCasMERGsub%20alltime%20Manitoba%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/164808662-b7f6bba5-4139-4568-8a71-e703b9691216.png)
  
 ****
 
 (4) Manitoba [Daily cases or infections, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220422/output/SUB5%2032bDayCasMERGsub%202021%20Manitoba%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/164809137-4275b503-051b-42b5-86f2-2d002efec235.png)
  
 ****
 
 (4b) Manitoba [Daily cases or infections, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220422/output/SUB5%2032cDayCasMERGsub%202022%20Manitoba%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios%2C%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/164809627-0fb42d4d-f2b7-4388-82b5-e042fbf0ee35.png)
 
 ****
 
