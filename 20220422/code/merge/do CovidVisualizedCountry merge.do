@@ -728,7 +728,7 @@ levelsof provincestate_mostaffected, local(levels)
 foreach l of local levels {
 
 twoway ///
-(line DayDeaMeSmA00S00 date, sort lcolor(cyan) lwidth(vthick)) /// 1 "JOHN smooth"
+(line DayDeaMeSmA00S00 date, sort lcolor(cyan) lwidth(thick)) /// 1 "JOHN smooth"
 (line DayDeaFOREA01S00 date, sort lcolor(red) lpattern(tight_dot) lwidth(vthick)) /// 2 "DELP" Forecast only
 (line DayDeaMeSmA01S00 date, sort lcolor(red) lwidth(medthick)) /// 3 "DELP smooth"
 (line DayDeaFOREA02S01 date, sort lcolor(black) lpattern(tight_dot) lwidth(vthick)) /// 4 "IHME" Forecast only
