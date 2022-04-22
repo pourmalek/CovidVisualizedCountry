@@ -58,6 +58,7 @@ The [latest update of the PHAC-McMaster model](https://www.canada.ca/content/dam
 
 (1) Canada [Daily deaths, Reference scenarios, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220422/output/CAN1%2011aDayDeaMERGnat%20alltime%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/164783629-09da62cf-519b-41ba-bce4-024c8b71d34b.png)
  
 ****
 
