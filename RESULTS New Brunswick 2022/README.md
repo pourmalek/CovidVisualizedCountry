@@ -3,6 +3,8 @@
 _New Brunswick only predicted in DELP model._
 
 
+Uptaking New Brunswick graphs discontinued after uptake 20220104.
+
   
 **** 
 ****  
@@ -15,12 +17,6 @@ _New Brunswick only predicted in DELP model._
 ****
 ****  
 
-
-
-
-*
-
-**uptake 20220408**: **_DELP 20220408_**, **_IHME 20220408_**, **_IMPE 20220131_**, **_SRIV 20220408_**, No PHAC
 
 
 
@@ -87,11 +83,6 @@ _New Brunswick only predicted in DELP model._
 ****  
 
 
-
-
-*
-
-**uptake 20220408**: **_DELP 20220408_**, **_IHME 20220408_**, **_IMPE 20220131_**, **_SRIV 20220408_**, No PHAC
 
 
 
