@@ -12,6 +12,9 @@ The [latest update of the PHAC-McMaster model](https://www.canada.ca/content/dam
 
 <br/><br/>
 
+**Summary 20220422:**
+
+Though the models’ results are divergent regarding the future trajectory of cases (or infections) and deaths, the official reported cases and deaths are on the rise at the national and provincial levels, sooner and at a rate faster (worse) than what the models predicted (or did not predict).
 
 <br/><br/>
 
