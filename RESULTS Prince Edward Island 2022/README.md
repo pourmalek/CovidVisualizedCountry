@@ -2,7 +2,7 @@
 
 Prince Edward Island predicted by none of the models. Reports to WHO available.
 
-
+Uptaking Prince Edward Island graphs discontinued after uptake 20220104.
   
 **** 
 ****  
