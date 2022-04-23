@@ -30,7 +30,15 @@ graph (4b) Alberta - [Daily cases or infections, Reference scenario, 2022 on](ht
 
   
   
-*  
+
+*
+
+**uptake 20220415**: **_DELP 20220422_**, IHME 20220408, no IMPE, **_SRIV 20220422_**, No PHAC || Days old: DELP 0, IHME 14, no IMPE, SRIV 0
+
+
+
+
+*
 
 **uptake 20220415**: **_DELP 20220415_**, IHME 20220408, no IMPE, **_SRIV 20220413_**, No PHAC || Days old: DELP 0, IHME 7, no IMPE, SRIV 2
 
@@ -185,7 +193,14 @@ graph (4b) Alberta - [Daily cases or infections, Reference scenario, 2022 on](ht
 
 
 
-*  
+*
+
+**uptake 20220415**: **_DELP 20220422_**, IHME 20220408, no IMPE, **_SRIV 20220422_**, No PHAC || Days old: DELP 0, IHME 14, no IMPE, SRIV 0
+
+
+
+
+*
 
 **uptake 20220415**: **_DELP 20220415_**, IHME 20220408, no IMPE, **_SRIV 20220413_**, No PHAC || Days old: DELP 0, IHME 7, no IMPE, SRIV 2
 
@@ -332,7 +347,14 @@ graph (4b) Alberta - [Daily cases or infections, Reference scenario, 2022 on](ht
 
 
 
-*  
+*
+
+**uptake 20220415**: **_DELP 20220422_**, IHME 20220408, no IMPE, **_SRIV 20220422_**, No PHAC || Days old: DELP 0, IHME 14, no IMPE, SRIV 0
+
+
+
+
+*
 
 **uptake 20220415**: **_DELP 20220415_**, IHME 20220408, no IMPE, **_SRIV 20220413_**, No PHAC || Days old: DELP 0, IHME 7, no IMPE, SRIV 2
 
@@ -373,7 +395,14 @@ graph (4b) Alberta - [Daily cases or infections, Reference scenario, 2022 on](ht
   
 
 
-*  
+*
+
+**uptake 20220415**: **_DELP 20220422_**, IHME 20220408, no IMPE, **_SRIV 20220422_**, No PHAC || Days old: DELP 0, IHME 14, no IMPE, SRIV 0
+
+
+
+
+*
 
 **uptake 20220415**: **_DELP 20220415_**, IHME 20220408, no IMPE, **_SRIV 20220413_**, No PHAC || Days old: DELP 0, IHME 7, no IMPE, SRIV 2
 
@@ -523,7 +552,14 @@ graph (4b) Alberta - [Daily cases or infections, Reference scenario, 2022 on](ht
 
 
 
-*  
+*
+
+**uptake 20220415**: **_DELP 20220422_**, IHME 20220408, no IMPE, **_SRIV 20220422_**, No PHAC || Days old: DELP 0, IHME 14, no IMPE, SRIV 0
+
+
+
+
+*
 
 **uptake 20220415**: **_DELP 20220415_**, IHME 20220408, no IMPE, **_SRIV 20220413_**, No PHAC || Days old: DELP 0, IHME 7, no IMPE, SRIV 2
 
@@ -667,6 +703,13 @@ graph (4b) Alberta - [Daily cases or infections, Reference scenario, 2022 on](ht
   
   
   
+
+
+
+*
+
+**uptake 20220415**: **_DELP 20220422_**, IHME 20220408, no IMPE, **_SRIV 20220422_**, No PHAC || Days old: DELP 0, IHME 14, no IMPE, SRIV 0
+
 
 
 
