@@ -34,8 +34,9 @@ graph (4b) British Columbia - [Daily cases or infections, Reference scenario, 20
 
 **uptake 20220422**: **_DELP 20220422_**, IHME 20220408, no IMPE, **_SRIV 20220422_**, No PHAC || Days old: DELP 0, IHME 14, no IMPE, SRIV 0
 
+(1) British Columbia [Daily deaths, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220422/output/SUB1%2011bDayDeaMERGsub%20alltime%20British%20Columbia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
-
+![image](https://user-images.githubusercontent.com/30849720/164837605-46ee745c-ffe6-469d-8d6d-fc4f21168402.png)
 
 *
 
@@ -184,8 +185,9 @@ graph (4b) British Columbia - [Daily cases or infections, Reference scenario, 20
 
 **uptake 20220422**: **_DELP 20220422_**, IHME 20220408, no IMPE, **_SRIV 20220422_**, No PHAC || Days old: DELP 0, IHME 14, no IMPE, SRIV 0
 
+(2) British Columbia [Daily deaths, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220422/output/SUB2%2012bDayDeaMERGsub%202021%20British%20Columbia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%202021.pdf)
 
-
+![image](https://user-images.githubusercontent.com/30849720/164803513-669e7eaa-9eb3-4eab-871b-f5d500bbe6c0.png)
 
 *
 
@@ -329,8 +331,9 @@ graph (4b) British Columbia - [Daily cases or infections, Reference scenario, 20
 
 **uptake 20220422**: **_DELP 20220422_**, IHME 20220408, no IMPE, **_SRIV 20220422_**, No PHAC || Days old: DELP 0, IHME 14, no IMPE, SRIV 0
 
+(2b) British Columbia [Daily deaths, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220422/output/SUB2%2012cDayDeaMERGsub%202022%20British%20Columbia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%202022.pdf)
 
-
+![image](https://user-images.githubusercontent.com/30849720/164805128-5f39fc2d-b671-4fe8-9265-44ef0882534a.png)
 
 *
 
@@ -376,8 +379,9 @@ graph (4b) British Columbia - [Daily cases or infections, Reference scenario, 20
 
 **uptake 20220422**: **_DELP 20220422_**, IHME 20220408, no IMPE, **_SRIV 20220422_**, No PHAC || Days old: DELP 0, IHME 14, no IMPE, SRIV 0
 
+(3) British Columbia [Daily cases or infections, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220422/output/SUB4%2031bDayCasMERGsub%20alltime%20British%20Columbia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios.pdf)
 
-
+![image](https://user-images.githubusercontent.com/30849720/164805621-13c45103-599a-4857-80c8-3c481fa47144.png)
 
 * 
 
@@ -524,8 +528,9 @@ graph (4b) British Columbia - [Daily cases or infections, Reference scenario, 20
 
 **uptake 20220422**: **_DELP 20220422_**, IHME 20220408, no IMPE, **_SRIV 20220422_**, No PHAC || Days old: DELP 0, IHME 14, no IMPE, SRIV 0
 
+(4) British Columbia [Daily cases or infections, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220422/output/SUB5%2032bDayCasMERGsub%202021%20British%20Columbia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%202021.pdf)
 
-
+![image](https://user-images.githubusercontent.com/30849720/164806095-72dffda6-75c5-4ab9-b18a-7b3486522583.png)
 
 *
 
@@ -674,8 +679,9 @@ graph (4b) British Columbia - [Daily cases or infections, Reference scenario, 20
 
 **uptake 20220422**: **_DELP 20220422_**, IHME 20220408, no IMPE, **_SRIV 20220422_**, No PHAC || Days old: DELP 0, IHME 14, no IMPE, SRIV 0
 
+(4b) British Columbia [Daily cases or infections, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220422/output/SUB5%2032cDayCasMERGsub%202022%20British%20Columbia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%202022.pdf)
 
-
+![image](https://user-images.githubusercontent.com/30849720/164806595-cd576b7d-b030-4bb7-9768-e1d94f10919e.png)
 
 *  
 
