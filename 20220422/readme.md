@@ -263,7 +263,7 @@ The [latest update of the PHAC-McMaster model](https://www.canada.ca/content/dam
 
 (1) Alberta [Daily deaths, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220422/output/SUB1%2011bDayDeaMERGsub%20alltime%20Alberta%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/164836690-77064994-50ac-44bf-9b8d-a3b18fe3aa9c.png)
+![image](https://user-images.githubusercontent.com/30849720/164836935-1181c6a0-d50f-41d9-9673-3a666d065aff.png)
  
 ****
 
@@ -316,7 +316,6 @@ The [latest update of the PHAC-McMaster model](https://www.canada.ca/content/dam
 
 (1) British Columbia [Daily deaths, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220422/output/SUB1%2011bDayDeaMERGsub%20alltime%20British%20Columbia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/164803371-bbe86e4c-69a5-4ea3-9736-01a59699bcbe.png)
  
 ****
 
@@ -367,7 +366,6 @@ The [latest update of the PHAC-McMaster model](https://www.canada.ca/content/dam
 
 (1) Manitoba [Daily deaths, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220422/output/SUB1%2011bDayDeaMERGsub%20alltime%20Manitoba%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/164807085-34375322-5598-4104-9463-736c3891b34a.png)
  
 ****
 
@@ -428,7 +426,6 @@ The [latest update of the PHAC-McMaster model](https://www.canada.ca/content/dam
 
 (1) Nova Scotia [Daily deaths, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220422/output/SUB1%2011bDayDeaMERGsub%20alltime%20Nova%20Scotia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Nova%20Scotia%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/164814303-3a03e3eb-e089-4834-a79b-69cb37e1ccc3.png)
  
 ****
 
@@ -479,7 +476,6 @@ The [latest update of the PHAC-McMaster model](https://www.canada.ca/content/dam
 
 (1) Ontario [Daily deaths, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220422/output/SUB1%2011bDayDeaMERGsub%20alltime%20Ontario%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/164814725-545dc6de-457f-4aa8-8653-3adffc5a6e09.png)
  
 ****
 
@@ -531,7 +527,6 @@ The [latest update of the PHAC-McMaster model](https://www.canada.ca/content/dam
 
 (1) Quebec [Daily deaths, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220422/output/SUB1%2011bDayDeaMERGsub%20alltime%20Quebec%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/164815250-13ea0c64-89a9-4bff-9454-c43d10d56ffa.png)
   
 ****
 
@@ -584,7 +579,6 @@ The [latest update of the PHAC-McMaster model](https://www.canada.ca/content/dam
 
 (1) Saskatchewan [Daily deaths, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220422/output/SUB1%2011bDayDeaMERGsub%20alltime%20Saskatchewan%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Saskatchewan%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/164816830-b2e88ab0-4f85-4a5d-83ed-cf4046435c42.png)
  
 ****
 
