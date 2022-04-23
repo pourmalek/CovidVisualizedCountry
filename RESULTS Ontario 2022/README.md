@@ -32,8 +32,9 @@ graph (4b) Ontario - [Daily cases or infections, Reference scenario, 2022 on](ht
 
 **uptake 20220422**: **_DELP 20220422_**, IHME 20220408, no IMPE, **_SRIV 20220422_**, No PHAC || Days old: DELP 0, IHME 14, no IMPE, SRIV 0
 
+(1) Ontario [Daily deaths, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220422/output/SUB1%2011bDayDeaMERGsub%20alltime%20Ontario%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
-
+![image](https://user-images.githubusercontent.com/30849720/164837890-fedc8a2a-11f8-454c-99c7-84de88c460c5.png)
 
 *
 
@@ -189,8 +190,9 @@ graph (4b) Ontario - [Daily cases or infections, Reference scenario, 2022 on](ht
 
 **uptake 20220422**: **_DELP 20220422_**, IHME 20220408, no IMPE, **_SRIV 20220422_**, No PHAC || Days old: DELP 0, IHME 14, no IMPE, SRIV 0
 
+(2) Ontario [Daily deaths, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220422/output/SUB2%2012bDayDeaMERGsub%202021%20Ontario%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202021.pdf)
 
-
+![image](https://user-images.githubusercontent.com/30849720/164814782-3263af8d-9e1f-4a50-9098-2fdc5bd0262f.png)
 
 * 
 
@@ -346,8 +348,9 @@ graph (4b) Ontario - [Daily cases or infections, Reference scenario, 2022 on](ht
 
 **uptake 20220422**: **_DELP 20220422_**, IHME 20220408, no IMPE, **_SRIV 20220422_**, No PHAC || Days old: DELP 0, IHME 14, no IMPE, SRIV 0
 
+(2b) Ontario [Daily deaths, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220422/output/SUB2%2012cDayDeaMERGsub%202022%20Ontario%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202022.pdf)
 
-
+![image](https://user-images.githubusercontent.com/30849720/164814844-c1c0af81-0a8e-4290-8350-28fee9cbb478.png)
 
 *
 
@@ -394,8 +397,9 @@ graph (4b) Ontario - [Daily cases or infections, Reference scenario, 2022 on](ht
 
 **uptake 20220422**: **_DELP 20220422_**, IHME 20220408, no IMPE, **_SRIV 20220422_**, No PHAC || Days old: DELP 0, IHME 14, no IMPE, SRIV 0
 
+(3) Ontario [Daily cases or infections, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220422/output/SUB4%2031bDayCasMERGsub%20alltime%20Ontario%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios.pdf)
 
-
+![image](https://user-images.githubusercontent.com/30849720/164815100-4a7e663a-f559-4cd1-ae04-2f0f7b57c8d5.png)
 
 *
 
@@ -554,8 +558,9 @@ graph (4b) Ontario - [Daily cases or infections, Reference scenario, 2022 on](ht
 
 **uptake 20220422**: **_DELP 20220422_**, IHME 20220408, no IMPE, **_SRIV 20220422_**, No PHAC || Days old: DELP 0, IHME 14, no IMPE, SRIV 0
 
+(4) Ontario [Daily cases or infections, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220422/output/SUB5%2032bDayCasMERGsub%202021%20Ontario%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202021.pdf)
 
-
+![image](https://user-images.githubusercontent.com/30849720/164815151-018fb706-cbee-48a5-8988-3124f6f10dac.png)
 
 *
 
@@ -708,8 +713,9 @@ graph (4b) Ontario - [Daily cases or infections, Reference scenario, 2022 on](ht
 
 **uptake 20220422**: **_DELP 20220422_**, IHME 20220408, no IMPE, **_SRIV 20220422_**, No PHAC || Days old: DELP 0, IHME 14, no IMPE, SRIV 0
 
+(4b) Ontario [Daily cases or infections, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220422/output/SUB5%2032cDayCasMERGsub%202022%20Ontario%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202022.pdf)
 
-
+![image](https://user-images.githubusercontent.com/30849720/164815199-7c2da104-c745-4846-9bfc-5dd54d96fa78.png)
 
 *
 
