@@ -2,7 +2,7 @@
 
 Northwest Territories predicted by none of the models. Reports to WHO available.
 
-Uptaking New Brunswick graphs discontinued after uptake 20211221.
+Uptaking Northwest Territories graphs discontinued after uptake 20211221.
 
 Graphs for Northwest Territories were added here starting from uptake 20211105 onwards.   
 
