@@ -263,7 +263,7 @@ The [latest update of the PHAC-McMaster model](https://www.canada.ca/content/dam
 
 (1) Alberta [Daily deaths, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220422/output/SUB1%2011bDayDeaMERGsub%20alltime%20Alberta%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/164802855-7e6eec71-2c3c-4476-9dc3-4db8c4c59c19.png)
+![image](https://user-images.githubusercontent.com/30849720/164836690-77064994-50ac-44bf-9b8d-a3b18fe3aa9c.png)
  
 ****
 
