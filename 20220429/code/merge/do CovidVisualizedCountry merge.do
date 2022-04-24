@@ -69,7 +69,7 @@ drop _merge
 
 
 
-* IMPE
+/* IMPE
 
 if regexm(c(os),"Mac") == 1 {
 
@@ -77,7 +77,7 @@ if regexm(c(os),"Mac") == 1 {
 }
 else if regexm(c(os),"Windows") == 1 merge 1:1 date using "$pathCovidVisualizedCountry\IMPE\CovidVisualizedCountry IMPE.dta"
 
-drop _merge
+drop _merge */
 
 
 
@@ -176,7 +176,7 @@ label var TotITDMeSmA02S03  "Total infections to Deaths S3 IHME"
 
 
 
-
+/*
 gen DayITDMeRaA03S01  = DayINFMeRaA03S01  / DayDeaMeRaA03S01   
 
 label var DayITDMeRaA03S01  "Daily infections to Deaths S1 IMPE"
@@ -206,7 +206,7 @@ label var DayITDMeRaA03S03  "Daily infections to Deaths S3 IMPE"
 gen TotITDMeRaA03S03  = TotINFMeRaA03S03  / TotDeaMeRaA03S03   
 
 label var TotITDMeRaA03S03  "Total infections to Deaths S3 IMPE"
-
+*/
 
 
 gen DayCTDMeRaA05S00  = DayCasMeRaA05S00  / DayDeaMeRaA05S00   
@@ -272,11 +272,11 @@ gen DayITCMeSmA02S01XSK =  DayINFMeSmA02S01XSK / DayCasMeRaA00S00
 label var DayITCMeSmA02S01XSK  "Daily Infections IHME to cases JOHN Saskatchewan"
 
 
-
+/*
 gen DayITCMeRaA03S02 =  DayINFMeRaA03S02 / DayCasMeRaA00S00
 
 label var DayITCMeRaA03S02  "Daily Infections IMPE to cases JOHN National"
-          
+*/ 
 
 
 
@@ -289,8 +289,7 @@ tsset provincestate_encoded date, daily
 
 foreach var of varlist ///
 DayITCMeSmA02S01XXX DayITCMeSmA02S01XAB DayITCMeSmA02S01XBC DayITCMeSmA02S01XMB ///
-DayITCMeSmA02S01XNS DayITCMeSmA02S01XON DayITCMeSmA02S01XQC DayITCMeSmA02S01XSK ///
-DayITCMeRaA03S02 {
+DayITCMeSmA02S01XNS DayITCMeSmA02S01XON DayITCMeSmA02S01XQC DayITCMeSmA02S01XSK {
 
 
 tssmooth ma `var'_window = `var', window(3 1 3)
@@ -308,8 +307,7 @@ tsset, clear
 ssc install labutil2
 
 labvars DayITCMeSmA02S01XXXsm DayITCMeSmA02S01XABsm DayITCMeSmA02S01XBCsm DayITCMeSmA02S01XMBsm ///
-DayITCMeSmA02S01XNSsm DayITCMeSmA02S01XONsm DayITCMeSmA02S01XQCsm DayITCMeSmA02S01XSKsm ///
-DayITCMeRaA03S02sm ,names
+DayITCMeSmA02S01XNSsm DayITCMeSmA02S01XONsm DayITCMeSmA02S01XQCsm DayITCMeSmA02S01XSKsm ,names
 
 ***********************
 
@@ -340,7 +338,7 @@ gen DayDERMeSmA02S03 = DayDeaMeSmA02S03 / DayDeaMeRaA00S00
 
 label var DayDERMeSmA02S03 "Daily Deaths estim to reported Mean not smoothed IHME S3"
 
-
+/*
 gen DayDERMeRaA03S01 = DayDeaMeRaA03S01 / DayDeaMeRaA00S00
 
 label var DayDERMeRaA03S01 "Daily Deaths estim to reported Mean S1 IMPE"
@@ -354,7 +352,7 @@ label var DayDERMeRaA03S02 "Daily Deaths estim to reported Mean S2 IMPE"
 gen DayDERMeRaA03S03 = DayDeaMeRaA03S03 / DayDeaMeRaA00S00
 
 label var DayDERMeRaA03S03 "Daily Deaths estim to reported Mean S3 IMPE"
-
+*/
 
 gen DayDERMeRaA05S00  = DayDeaMeRaA05S00 / DayDeaMeRaA00S00
 
@@ -392,7 +390,7 @@ gen DayIERMeSmA02S03 = DayINFMeSmA02S03 / DayCasMeRaA00S00
 
 label var DayIERMeSmA02S03 "Daily infections estim to reported cases Mean not smoothed IHME S3"
 
-
+/*
 gen DayIERMeRaA03S01 = DayINFMeRaA03S01 / DayCasMeRaA00S00
 
 label var DayIERMeRaA03S01 "Daily infections estim to reported cases Mean S1 IMPE"
@@ -406,7 +404,7 @@ label var DayIERMeRaA03S02 "Daily infections estim to reported cases Mean S2 IMP
 gen DayIERMeRaA03S03 = DayINFMeRaA03S03 / DayCasMeRaA00S00
 
 label var DayIERMeRaA03S03 "Daily infections estim to reported cases Mean S3 IMPE"
-
+*/
 
 gen DayCERMeRaA05S00  = DayCasMeRaA05S00 / DayCasMeRaA00S00
 
@@ -443,7 +441,7 @@ gen TotDERMeSmA02S03 = TotDeaMeSmA02S03 / TotDeaMeRaA00S00
 
 label var TotDERMeSmA02S03 "Total Deaths estim to reported Mean not smoothed IHME S3"
 
-
+/*
 gen TotDERMeRaA03S01 = TotDeaMeRaA03S01 / TotDeaMeRaA00S00
 
 label var TotDERMeRaA03S01 "Total Deaths estim to reported Mean S1 IMPE"
@@ -457,7 +455,7 @@ label var TotDERMeRaA03S02 "Total Deaths estim to reported Mean S2 IMPE"
 gen TotDERMeRaA03S03 = TotDeaMeRaA03S03 / TotDeaMeRaA00S00
 
 label var TotDERMeRaA03S03 "Total Deaths estim to reported Mean S3 IMPE"
-
+*/
 
 gen TotDERMeRaA05S00  = TotDeaMeRaA05S00 / TotDeaMeRaA00S00
 
@@ -495,7 +493,7 @@ gen TotIERMeSmA02S03 = TotINFMeSmA02S03 / TotCasMeRaA00S00
 
 label var TotIERMeSmA02S03 "Total infections estim to reported cases Mean not smoothed IHME S3"
 
-
+/*
 gen TotIERMeRaA03S01 = TotINFMeRaA03S01 / TotCasMeRaA00S00
 
 label var TotIERMeRaA03S01 "Total infections estim to reported cases Mean S1 IMPE"
@@ -509,7 +507,7 @@ label var TotIERMeRaA03S02 "Total infections estim to reported cases Mean S2 IMP
 gen TotIERMeRaA03S03 = TotINFMeRaA03S03 / TotCasMeRaA00S00
 
 label var TotIERMeRaA03S03 "Total infections estim to reported cases Mean S3 IMPE"
-
+*/
 
 gen TotCERMeRaA05S00  = TotCasMeRaA05S00 / TotCasMeRaA00S00
 
@@ -1516,7 +1514,7 @@ replace DayITCMeSmA02S01XXXsm_median = round(DayITCMeSmA02S01XXXsm_median)
 
 local DayITCMeSmA02S01XXXsm_median = DayITCMeSmA02S01XXXsm_median
 
-
+/*
 qui summ DayITCMeRaA03S02sm if date >= td(01jan2021) , detail
 
 gen DayITCMeRaA03S02sm_median = r(p50)
@@ -1524,6 +1522,7 @@ gen DayITCMeRaA03S02sm_median = r(p50)
 replace DayITCMeRaA03S02sm_median = round(DayITCMeRaA03S02sm_median)
 
 local DayITCMeRaA03S02sm_median = DayITCMeRaA03S02sm_median
+*/
 
 twoway ///
 (line DayITCMeSmA02S01XXX date, sort lcolor(black*0.2)) /// 1 "IHME"
