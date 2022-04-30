@@ -263,31 +263,37 @@ The [latest update of the PHAC-McMaster model](https://www.canada.ca/content/dam
 
 (1) Alberta [Daily deaths, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220429/output/SUB1%2011bDayDeaMERGsub%20alltime%20Alberta%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/166090713-10c81c24-fa52-4b37-b575-0ae844cb1705.png)
  
 ****
 
 (2) Alberta [Daily deaths, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220429/output/SUB2%2012bDayDeaMERGsub%202021%20Alberta%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/166090744-f3d0ccc4-9d12-40fb-ae37-0f8bcefb7062.png)
  
 ****
 
 (2b) Alberta [Daily deaths, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220429/output/SUB2%2012cDayDeaMERGsub%202022%20Alberta%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios%2C%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/166090766-36d94a95-6f6a-42d5-ae3e-7e7c3a6de600.png)
  
 ****
 
 (3) Alberta [Daily cases or infections, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220429/output/SUB4%2031bDayCasMERGsub%20alltime%20Alberta%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/166090790-95f64a38-ec20-4838-931d-c6496a700c67.png)
  
 ****
 
 (4) Alberta [Daily cases or infections, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220429/output/SUB5%2032bDayCasMERGsub%202021%20Alberta%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/166090806-a0ba3137-a7b1-4545-a917-b97be0321cfa.png)
  
 ****
 
 (4b) Alberta [Daily cases or infections, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220429/output/SUB5%2032cDayCasMERGsub%202022%20Alberta%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios%2C%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/166090823-0def7520-ad50-4798-8a62-36edbf1201d6.png)
  
 ****
 
