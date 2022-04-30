@@ -12,6 +12,9 @@ The [latest update of the PHAC-McMaster model](https://www.canada.ca/content/dam
 
 <br/><br/>
 
+**Summary 20220429:**
+
+Reported daily deaths and cases are rising in British Columbia, Alberta, and Manitoba.
 
 <br/><br/>
 
