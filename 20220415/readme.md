@@ -1,6 +1,6 @@
 ! Read the Canada COVID-19 epidemic models situation report No 43 - 2022-04-15 [here](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/43%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2043%20-%202022-04-15.pdf).
 
-### Study update dates in uptake 20220415  
+### Study update dates in uptake 20220415   
 
 **_DELP 20220415_**, IHME 20220408, no IMPE, **_SRIV 20220413_**, No PHAC
 
