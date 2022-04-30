@@ -42,7 +42,9 @@ graph (4b) Nova Scotia - [Daily cases or infections, Reference scenario, 2022 on
 
 **uptake 20220429**: **_DELP 20220429_**, IHME 20220408, no IMPE, **_SRIV 20220429_**, No PHAC || Days old: DELP 0, IHME 21, no IMPE, SRIV 0
 
+(1) Nova Scotia [Daily deaths, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220429/output/SUB1%2011bDayDeaMERGsub%20alltime%20Nova%20Scotia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Nova%20Scotia%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/166092007-d2944629-e849-4529-ae98-da45699be059.png)
 
 *
 
@@ -205,7 +207,9 @@ graph (4b) Nova Scotia - [Daily cases or infections, Reference scenario, 2022 on
 
 **uptake 20220429**: **_DELP 20220429_**, IHME 20220408, no IMPE, **_SRIV 20220429_**, No PHAC || Days old: DELP 0, IHME 21, no IMPE, SRIV 0
 
+(2) Nova Scotia [Daily deaths, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220429/output/SUB2%2012bDayDeaMERGsub%202021%20Nova%20Scotia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Nova%20Scotia%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/166092030-74d26860-4677-4c72-b95e-38e0096738ea.png)
 
 *
 
@@ -366,7 +370,9 @@ graph (4b) Nova Scotia - [Daily cases or infections, Reference scenario, 2022 on
 
 **uptake 20220429**: **_DELP 20220429_**, IHME 20220408, no IMPE, **_SRIV 20220429_**, No PHAC || Days old: DELP 0, IHME 21, no IMPE, SRIV 0
 
+(2b) Nova Scotia [Daily deaths, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220429/output/SUB2%2012cDayDeaMERGsub%202022%20Nova%20Scotia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Nova%20Scotia%2C%20reference%20scenarios%2C%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/166092046-b65a5f95-edf3-405e-b9a9-bd116f645233.png)
 
 *
 
@@ -418,7 +424,9 @@ graph (4b) Nova Scotia - [Daily cases or infections, Reference scenario, 2022 on
 
 **uptake 20220429**: **_DELP 20220429_**, IHME 20220408, no IMPE, **_SRIV 20220429_**, No PHAC || Days old: DELP 0, IHME 21, no IMPE, SRIV 0
 
+(3) Nova Scotia [Daily cases or infections, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220429/output/SUB4%2031bDayCasMERGsub%20alltime%20Nova%20Scotia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Nova%20Scotia%2C%20reference%20scenarios.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/166092072-61a02386-39e8-4ecb-94f3-c60237971541.png)
 
 *
 
@@ -584,7 +592,9 @@ graph (4b) Nova Scotia - [Daily cases or infections, Reference scenario, 2022 on
 
 **uptake 20220429**: **_DELP 20220429_**, IHME 20220408, no IMPE, **_SRIV 20220429_**, No PHAC || Days old: DELP 0, IHME 21, no IMPE, SRIV 0
 
+(4) Nova Scotia [Daily cases or infections, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220429/output/SUB5%2032bDayCasMERGsub%202021%20Nova%20Scotia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Nova%20Scotia%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/166092095-dacaf2f8-7861-4f96-b841-b7ff59b62a10.png)
 
 *
 
@@ -747,7 +757,9 @@ graph (4b) Nova Scotia - [Daily cases or infections, Reference scenario, 2022 on
 
 **uptake 20220429**: **_DELP 20220429_**, IHME 20220408, no IMPE, **_SRIV 20220429_**, No PHAC || Days old: DELP 0, IHME 21, no IMPE, SRIV 0
 
+(4b) Nova Scotia [Daily cases or infections, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220429/output/SUB5%2032cDayCasMERGsub%202022%20Nova%20Scotia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Nova%20Scotia%2C%20reference%20scenarios%2C%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/166092127-83623b28-64a3-4544-95f4-c8b0c5568f90.png)
 
 *
 
