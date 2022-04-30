@@ -198,10 +198,17 @@ graph (14) Canada, provinces - [Daily infections, reference scenarios, IHME, 202
 
 *
 
+**uptake 20220429**: **_DELP 20220429_**, IHME 20220408, no IMPE, **_SRIV 20220429_**, No PHAC || Days old: DELP 0, IHME 21, no IMPE, SRIV 0
+
+
+
+*
+
 **uptake 20220422**: **_DELP 20220422_**, IHME 20220408, no IMPE, **_SRIV 20220422_**, No PHAC || Days old: DELP 0, IHME 14, no IMPE, SRIV 0
 
+(3) Canada Provinces [Daily reported deaths, JOHN, 2022](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220422/output/graph%2003%20provinces%20C-19%20daily%20deaths%2C%20Canada%2C%20JOHN%202022.pdf)
 
-
+![image](https://user-images.githubusercontent.com/30849720/164801777-b18b37a1-c418-4d8b-981b-311f97d56c03.png)
 
 * 
 
@@ -256,8 +263,9 @@ graph (14) Canada, provinces - [Daily infections, reference scenarios, IHME, 202
 
 **uptake 20220422**: **_DELP 20220422_**, IHME 20220408, no IMPE, **_SRIV 20220422_**, No PHAC || Days old: DELP 0, IHME 14, no IMPE, SRIV 0
 
+(4) Canada Provinces [Daily reported deaths, without National, Ontario, and Quebec, JOHN, 2022](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220422/output/graph%2004%20provinces%20C-19%20daily%20deaths%2C%20Canada%2C%20JOHN%202022.pdf)
 
-
+![image](https://user-images.githubusercontent.com/30849720/164801860-5ca2808b-0ad8-44ba-92a7-836eadbd5375.png)
 
 *
 
@@ -312,8 +320,9 @@ graph (14) Canada, provinces - [Daily infections, reference scenarios, IHME, 202
 
 **uptake 20220422**: **_DELP 20220422_**, IHME 20220408, no IMPE, **_SRIV 20220422_**, No PHAC || Days old: DELP 0, IHME 14, no IMPE, SRIV 0
 
+(5) Canada Provinces [Daily reported cases, JOHN, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220422/output/graph%2005%20provinces%20C-19%20daily%20cases%2C%20Canada%2C%20JOHN%202020.pdf)
 
-
+![image](https://user-images.githubusercontent.com/30849720/164801942-89cf9687-bc5f-4416-aa88-a0eab8ff6c90.png)
 
 *
 
@@ -368,8 +377,9 @@ graph (14) Canada, provinces - [Daily infections, reference scenarios, IHME, 202
 
 **uptake 20220422**: **_DELP 20220422_**, IHME 20220408, no IMPE, **_SRIV 20220422_**, No PHAC || Days old: DELP 0, IHME 14, no IMPE, SRIV 0
 
+(6) Canada Provinces [Daily reported cases, JOHN, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220422/output/graph%2006%20provinces%20C-19%20daily%20cases%2C%20Canada%2C%20JOHN%202021.pdf)
 
-
+![image](https://user-images.githubusercontent.com/30849720/164802005-1421da49-29af-4f26-b6c3-f3f70140f859.png)
 
 *
 
@@ -422,8 +432,9 @@ graph (14) Canada, provinces - [Daily infections, reference scenarios, IHME, 202
 
 **uptake 20220422**: **_DELP 20220422_**, IHME 20220408, no IMPE, **_SRIV 20220422_**, No PHAC || Days old: DELP 0, IHME 14, no IMPE, SRIV 0
 
+(7) Canada Provinces [Daily reported cases, JOHN, 2022](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220422/output/graph%2007%20provinces%20C-19%20daily%20cases%2C%20Canada%2C%20JOHN%202022.pdf)
 
-
+![image](https://user-images.githubusercontent.com/30849720/164802050-9cf1ea79-8e4f-47eb-8e12-c4c8562cb452.png)
 
 * 
 
@@ -480,8 +491,9 @@ graph (14) Canada, provinces - [Daily infections, reference scenarios, IHME, 202
 
 **uptake 20220422**: **_DELP 20220422_**, IHME 20220408, no IMPE, **_SRIV 20220422_**, No PHAC || Days old: DELP 0, IHME 14, no IMPE, SRIV 0
 
+(8) Canada Provinces [Daily reported cases, without National, Ontario, and Quebec, JOHN, 2022](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220422/output/graph%2008%20provinces%20C-19%20daily%20cases%2C%20Canada%2C%20JOHN%202022.pdf)
 
-
+![image](https://user-images.githubusercontent.com/30849720/164802122-31c6f36b-1bab-4d2b-b224-3e0aaddd2c71.png)
 
 * 
 
