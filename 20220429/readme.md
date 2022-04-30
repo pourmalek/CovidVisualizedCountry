@@ -70,6 +70,7 @@ The [latest update of the PHAC-McMaster model](https://www.canada.ca/content/dam
 
 (2b) Canada National [Daily deaths, All scenarios, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220429/output/CAN2%2012aaDayDeaMERGnat%202022%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/166089714-667ca902-9c3e-41db-9c92-65368aecc905.png)
 
 ****
 
