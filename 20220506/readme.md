@@ -217,16 +217,19 @@ PHAC: The [latest update of the PHAC-McMaster model](https://www.canada.ca/conte
 
 (9) Canada Provinces [Daily deaths, Reference scenario, IHME, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220506/output/graph%2022%20provinces%20C-19%20daily%20deaths%2C%20Canada%2C%20IHME%2C%202020%20on.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/167313905-b4be2d51-b73f-4cf8-9e21-e0bccff3d4ce.png)
   
 ****
 
 (10) Canada Provinces [Daily deaths, Reference scenario, IHME, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220506/output/graph%2023%20provinces%20C-19%20daily%20deaths%2C%20Canada%2C%20IHME%2C%202021%20on.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/167313932-158d0ba4-54aa-4b30-b691-4e436fac1569.png)
  
 ****
 
 (11) Canada Provinces [Daily deaths, Reference scenario, IHME, 2022](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220506/output/graph%2024%20provinces%20C-19%20daily%20deaths%2C%20Canada%2C%20IHME%2C%202022%20on.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/167313957-86e4d96c-1d1e-4d64-904f-b5821e77c684.png)
  
 ****
 
