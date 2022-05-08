@@ -106,21 +106,25 @@ PHAC: The [latest update of the PHAC-McMaster model](https://www.canada.ca/conte
 
 (6) Canada National [Daily hospital-related outcomes, without IHME Bed need, Reference scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220506/output/CAN8%2073aDayHosMERGnat%202021%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20National%2C%20wo%20extremes%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/167311687-5cb9df3b-e9f0-43bf-b932-c4ca0dfec61c.png)
 
 ****
 
 (7) Canada National [Daily Infection hospitalization and fatality ratios, Reference scenario, IHME, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220506/output/graph%2091a2%20COVID-19%20daily%20Infection%20outcomes%20ratios%2C%20Canada%2C%20National%203%20scenarios%2C%20IHME.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/167311745-3306149f-143e-4b29-bd6f-a1e5a306147a.png)
  
 ****
 
 (8) Canada National [Daily percent change in mobility, IHME, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220506/output/graph%2092a%20COVID-19%20daily%20mobility%2C%20Canada%2C%20National%2C%203%20scenarios.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/167311782-8ca8a71a-4a46-4073-a5cf-d854b18429cc.png)
  
 ****
 
 (9) Canada National [Daily mask use, IHME, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220506/output/graph%2093a%20COVID-19%20daily%20mask_use%2C%20Canada%2C%20National%2C%203%20scenarios.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/167311814-494468a4-0c26-44e5-b970-0fe0dfe6e030.png)
  
 ****
 
