@@ -329,6 +329,7 @@ PHAC: The [latest update of the PHAC-McMaster model](https://www.canada.ca/conte
 
 (1) British Columbia [Daily deaths, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220506/output/SUB1%2011bDayDeaMERGsub%20alltime%20British%20Columbia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/167319330-fde57302-bd95-4e02-8592-0404d4b9a3e0.png)
  
 ****
 
@@ -353,6 +354,11 @@ PHAC: The [latest update of the PHAC-McMaster model](https://www.canada.ca/conte
 ****
 
 (4b) British Columbia [Daily cases or infections, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220506/output/SUB5%2032cDayCasMERGsub%202022%20British%20Columbia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%202022.pdf)
+
+
+****
+
+(4c) British Columbia [Daily cases, Reference scenario, 2022 on]()
 
 
 ****
@@ -398,6 +404,11 @@ PHAC: The [latest update of the PHAC-McMaster model](https://www.canada.ca/conte
 ****
 
 (4b) Manitoba [Daily cases or infections, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220506/output/SUB5%2032cDayCasMERGsub%202022%20Manitoba%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios%2C%202022.pdf)
+
+
+****
+
+(4c) Manitoba [Daily cases, Reference scenario, 2022 on]()
 
 
 ****
@@ -457,6 +468,11 @@ PHAC: The [latest update of the PHAC-McMaster model](https://www.canada.ca/conte
 
 ****
 
+(4c) Nova Scotia [Daily cases, Reference scenario, 2022 on]()
+
+
+****
+
 
 
 
@@ -498,6 +514,11 @@ PHAC: The [latest update of the PHAC-McMaster model](https://www.canada.ca/conte
 ****
 
 (4b) Ontario [Daily cases or infections, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220506/output/SUB5%2032cDayCasMERGsub%202022%20Ontario%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202022.pdf)
+
+
+****
+
+(4c) Ontario [Daily cases, Reference scenario, 2022 on]()
 
 
 ****
@@ -548,6 +569,12 @@ PHAC: The [latest update of the PHAC-McMaster model](https://www.canada.ca/conte
 
 ****
 
+(4c) Quebec [Daily cases, Reference scenario, 2022 on]()
+
+
+****
+
+
 
 
  
@@ -591,6 +618,11 @@ PHAC: The [latest update of the PHAC-McMaster model](https://www.canada.ca/conte
 ****
 
 (4b) Saskatchewan [Daily cases or infections, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220506/output/SUB5%2032cDayCasMERGsub%202022%20Saskatchewan%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Saskatchewan%2C%20reference%20scenarios%2C%202022.pdf)
+
+
+****
+
+(4c) Saskatchewan [Daily cases, Reference scenario, 2022 on]()
 
 
 ****
