@@ -3,7 +3,7 @@
       name:  {res}<unnamed>
        {txt}log:  {res}/Users/farshadpourmalek/Downloads/CovidVisualizedCountry-main/20220506/code/merge/log CovidVisualizedCountry merge.smcl
   {txt}log type:  {res}smcl
- {txt}opened on:  {res} 8 May 2022, 11:39:30
+ {txt}opened on:  {res} 8 May 2022, 12:14:30
 {txt}
 {com}. 
 . 
@@ -877,7 +877,8 @@ all files already exist and are up to date.
 {txt}
 {com}. 
 . save "CovidVisualizedCountry merge.dta", replace
-{txt}file CovidVisualizedCountry merge.dta saved
+{txt}(note: file CovidVisualizedCountry merge.dta not found)
+file CovidVisualizedCountry merge.dta saved
 
 {com}. 
 . 
@@ -1000,7 +1001,7 @@ now 732
 
 {txt}Contains data from {res}CovidVisualizedCountry merge.dta
 {txt}  obs:{res}        12,813                          
-{txt} vars:{res}         2,190                          8 May 2022 11:39
+{txt} vars:{res}         2,190                          8 May 2022 12:14
 {txt} size:{res}    97,968,198                          
 {txt}{hline}
               storage   display    value
@@ -6777,8 +6778,8 @@ color,  default attributes used)
 > (line DayINFMeSmA02S02 date, sort lcolor(black) lwidth(thick) lpattern(tight_dot)) /// 3 IHME mean, better scenario
 > (line DayINFMeSmA02S03 date, sort lcolor(black) lwidth(thick) lpattern(tight_dot)) /// 4 IHME mean, worse scenario
 > (line DayINFMeSmA03S02 date, sort lcolor(magenta)) /// 5 IMPE mean, reference scenario
-> (line DayINFMeSmA03S01 date, sort lcolor(magenta) lpattern(dash)) /// 6 IMPE  mean, better scenario
-> (line DayINFMeSmA03S03 date, sort lcolor(magenta) lpattern(dash)) /// 7 IMPE mean, worse scenario
+> (line DayINFMeSmA03S01 date, sort lcolor(magenta) lwidth(thick) lpattern(tight_dot)) /// 6 IMPE  mean, better scenario
+> (line DayINFMeSmA03S03 date, sort lcolor(magenta)lwidth(thick) lpattern(tight_dot)) /// 7 IMPE mean, worse scenario
 > if date >= td(01jan2021) & provincestate == " National" & DayCasMeRaA00S00 >= 0 ///
 > , xtitle(Date) xlabel(#$monthspast01jan2021merge, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 > xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
@@ -6786,7 +6787,7 @@ color,  default attributes used)
 > xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
 > legend(order(1 "JOHN cases" 2 "IHME infections" 5 "IMPE infections") size(small) rows(1)) ///
 > subtitle("IHME scenarios, 2021 on", size(small)) ///
-> note("Alternate scenarios: tight dot (|||||) curves; IHME") 
+> note("Alternate scenarios: tight dot (|||||) curves") 
 {res}{txt}
 {com}. 
 . qui graph export "CAN6 34aDayCasMERGnat 2021 3scen - COVID-19 daily cases, $country, National, 3 scenarios, 2021, uncertainty.pdf", replace
@@ -6804,8 +6805,8 @@ color,  default attributes used)
 > (line DayINFMeSmA02S02 date, sort lcolor(black) lwidth(thick) lpattern(tight_dot)) /// 3 IHME mean, better scenario
 > (line DayINFMeSmA02S03 date, sort lcolor(black) lwidth(thick) lpattern(tight_dot)) /// 4 IHME mean, worse scenario
 > (line DayINFMeSmA03S02 date, sort lcolor(magenta)) /// 5 IMPE mean, reference scenario
-> (line DayINFMeSmA03S01 date, sort lcolor(magenta) lpattern(dash)) /// 6 IMPE  mean, better scenario
-> (line DayINFMeSmA03S03 date, sort lcolor(magenta) lpattern(dash)) /// 7 IMPE mean, worse scenario
+> (line DayINFMeSmA03S01 date, sort lcolor(magenta) lwidth(thick) lpattern(tight_dot)) /// 6 IMPE  mean, better scenario
+> (line DayINFMeSmA03S03 date, sort lcolor(magenta) lwidth(thick) lpattern(tight_dot)) /// 7 IMPE mean, worse scenario
 > if date >= td(01jan2022) & provincestate == " National" & DayCasMeRaA00S00 >= 0 ///
 > , xtitle(Date) xlabel(#$monthspast01jan2022merge, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 > xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
@@ -6813,7 +6814,7 @@ color,  default attributes used)
 > xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
 > legend(order(1 "JOHN cases" 2 "IHME infections" 5 "IMPE infections") size(small) rows(1)) ///
 > subtitle("IHME scenarios, 2022 on", size(small)) ///
-> note("Alternate scenarios: tight dot (|||||) curves; IHME") 
+> note("Alternate scenarios: tight dot (|||||) curves") 
 {res}{txt}
 {com}. 
 . qui graph export "CAN6 34aaDayCasMERGnat 2021 3scen - COVID-19 daily cases, $country, National, 3 scenarios, 2022, uncertainty.pdf", replace
@@ -9307,7 +9308,7 @@ color,  default attributes used)
       {txt}name:  {res}<unnamed>
        {txt}log:  {res}/Users/farshadpourmalek/Downloads/CovidVisualizedCountry-main/20220506/code/merge/log CovidVisualizedCountry merge.smcl
   {txt}log type:  {res}smcl
- {txt}closed on:  {res} 8 May 2022, 11:47:07
+ {txt}closed on:  {res} 8 May 2022, 12:20:48
 {txt}{.-}
 {smcl}
 {txt}{sf}{ul off}

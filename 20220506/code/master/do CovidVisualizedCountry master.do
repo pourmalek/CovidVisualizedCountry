@@ -164,7 +164,7 @@ do "$pathCovidVisualizedCountry/SRIV/do CovidVisualizedCountry SRIV.do"
 
 // do "$pathCovidVisualizedCountry/PHAC/do CovidVisualizedCountry PHAC.do" // PHAC not in this uptake
 
-do "$pathcovir2/WHO/do country WHO.do"   
+do "$pathcovir2/pathCovidVisualizedCountry/do country WHO.do"   
 
 do "$pathCovidVisualizedCountry/merge/do CovidVisualizedCountry merge.do" 
 
