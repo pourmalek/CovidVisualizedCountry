@@ -69,11 +69,13 @@ PHAC: The [latest update of the PHAC-McMaster model](https://www.canada.ca/conte
 
 (2) Canada National [Daily deaths, All scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220506/output/CAN2%2012aDayDeaMERGnat%202021%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/167320383-da2bacee-e068-4b91-8bf2-550aebf65a3b.png)
 
 ****
 
 (2b) Canada National [Daily deaths, All scenarios, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220506/output/CAN2%2012aaDayDeaMERGnat%202022%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/167320421-2b160e7e-ccf4-4e99-b3cd-385532230a22.png)
 
 ****
 
