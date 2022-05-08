@@ -1930,8 +1930,8 @@ twoway ///
 (line DayINFMeSmA02S02 date, sort lcolor(black) lwidth(thick) lpattern(tight_dot)) /// 3 IHME mean, better scenario
 (line DayINFMeSmA02S03 date, sort lcolor(black) lwidth(thick) lpattern(tight_dot)) /// 4 IHME mean, worse scenario
 (line DayINFMeSmA03S02 date, sort lcolor(magenta)) /// 5 IMPE mean, reference scenario
-(line DayINFMeSmA03S01 date, sort lcolor(magenta) lpattern(dash)) /// 6 IMPE  mean, better scenario
-(line DayINFMeSmA03S03 date, sort lcolor(magenta) lpattern(dash)) /// 7 IMPE mean, worse scenario
+(line DayINFMeSmA03S01 date, sort lcolor(magenta) lwidth(thick) lpattern(tight_dot)) /// 6 IMPE  mean, better scenario
+(line DayINFMeSmA03S03 date, sort lcolor(magenta)lwidth(thick) lpattern(tight_dot)) /// 7 IMPE mean, worse scenario
 if date >= td(01jan2021) & provincestate == " National" & DayCasMeRaA00S00 >= 0 ///
 , xtitle(Date) xlabel(#$monthspast01jan2021merge, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
@@ -1939,7 +1939,7 @@ ytitle(Daily cases or infections) title("COVID-19 daily cases or infections, $co
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
 legend(order(1 "JOHN cases" 2 "IHME infections" 5 "IMPE infections") size(small) rows(1)) ///
 subtitle("IHME scenarios, 2021 on", size(small)) ///
-note("Alternate scenarios: tight dot (|||||) curves; IHME") 
+note("Alternate scenarios: tight dot (|||||) curves") 
 
 qui graph export "CAN6 34aDayCasMERGnat 2021 3scen - COVID-19 daily cases, $country, National, 3 scenarios, 2021, uncertainty.pdf", replace
 
