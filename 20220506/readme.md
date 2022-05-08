@@ -90,11 +90,13 @@ PHAC: The [latest update of the PHAC-McMaster model](https://www.canada.ca/conte
 
 (4) Canada National [Daily cases or infections, All scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220506/output/CAN6%2034aDayCasMERGnat%202021%203scen%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20National%2C%203%20scenarios%2C%202021%2C%20uncertainty.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/167312442-d4d4c05a-864c-4b3a-849d-b2daf60bbef6.png)
  
 ****
 
 (4b) Canada National [Daily cases or infections, All scenarios, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220506/output/CAN6%2034aaDayCasMERGnat%202021%203scen%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20National%2C%203%20scenarios%2C%202022%2C%20uncertainty.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/167312462-e8188d3a-e270-4d34-a454-33c910c6c870.png)
  
 ****
 
@@ -130,6 +132,7 @@ PHAC: The [latest update of the PHAC-McMaster model](https://www.canada.ca/conte
 
 (10) Canada National [Percent cumulative vaccinated, IHME, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220506/output/graph%2094a%20COVID-19%20percent%20cumulative%20vaccinated%2C%20Canada%2C%20National.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/167312497-ac4950a8-b08a-42da-b06e-45c48963b08e.png)
  
 ****
 
