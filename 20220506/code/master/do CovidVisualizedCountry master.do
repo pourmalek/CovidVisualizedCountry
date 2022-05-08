@@ -27,7 +27,7 @@ di "$country"                                                                   
 global DELPepoch 02May2022 // update release date
 *            2/ ----------
 
-global IHMEepoch 29Apr2022 // as per https://covid19.healthdata.org/canada?view=daily-deaths&tab=trend
+global IHMEepoch 30Apr2022 // as per https://covid19.healthdata.org/canada?view=daily-deaths&tab=trend
 
 *            3/ ----------
 
