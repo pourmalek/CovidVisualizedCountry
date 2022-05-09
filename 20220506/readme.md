@@ -348,8 +348,9 @@ PHAC: The [latest update of the PHAC-McMaster model](https://www.canada.ca/conte
  
 ****
 
-(2b) British Columbia [Daily deaths, Reference scenario, 2022 on, hout JOHN raw]()
+(2b) British Columbia [Daily deaths, Reference scenario, 2022 on, hout JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220506/output/SUB2%2012cDayDeaMERGsub%202022%20British%20Columbia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/167408210-4421fee8-6d0f-411a-8ca9-a93ebd4cf0d8.png)
  
 ****
 
@@ -408,9 +409,10 @@ PHAC: The [latest update of the PHAC-McMaster model](https://www.canada.ca/conte
   
 ****
 
-(2b) Manitoba [Daily deaths, Reference scenario, 2022 on, hout JOHN raw]()
+(2b) Manitoba [Daily deaths, Reference scenario, 2022 on, hout JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220506/output/SUB2%2012cDayDeaMERGsub%202022%20Manitoba%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios%2C%202022.pdf)
 
- 
+![image](https://user-images.githubusercontent.com/30849720/167408337-31fc7c0c-9dc9-4f8c-a9ef-236a5ed47573.png)
+  
 ****
 
 (2c) Manitoba [Daily deaths, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220506/output/SUB2%2012cDayDeaMERGsub%202022%20Manitoba%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios%2C%202022.pdf)
@@ -474,8 +476,9 @@ PHAC: The [latest update of the PHAC-McMaster model](https://www.canada.ca/conte
  
 ****
 
-(2b) Nova Scotia [Daily deaths, Reference scenario, 2022 on, hout JOHN raw]()
+(2b) Nova Scotia [Daily deaths, Reference scenario, 2022 on, hout JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220506/output/SUB2%2012cDayDeaMERGsub%202022%20Nova%20Scotia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Nova%20Scotia%2C%20reference%20scenarios%2C%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/167408497-2b3240f9-c5ca-4c5e-a65b-6db6adc9dfad.png)
  
 ****
 
