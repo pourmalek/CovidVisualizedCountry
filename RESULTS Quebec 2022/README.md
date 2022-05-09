@@ -28,6 +28,11 @@ graph (4b) Quebec - [Daily cases or infections, Reference scenario, 2022 on](htt
   
 *
 
+**uptake 20220506**: **_DELP 20220502_**, **_IHME 20220506_**, **_IMPE 20220315_**, **_SRIV 20220502_**, **_WHO 20220505_** || Days old: DELP 4, IHME 0, IMPE 53, SRIV 4, WHO 1, No PHAC
+
+
+*
+
 **uptake 20220429**: **_DELP 20220429_**, IHME 20220408, no IMPE, **_SRIV 20220429_**, No PHAC || Days old: DELP 0, IHME 21, no IMPE, SRIV 0
 
 (1) Quebec [Daily deaths, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220429/output/SUB1%2011bDayDeaMERGsub%20alltime%20Quebec%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%20all%20time.pdf)
@@ -195,6 +200,11 @@ graph (4b) Quebec - [Daily cases or infections, Reference scenario, 2022 on](htt
   
 *
 
+**uptake 20220506**: **_DELP 20220502_**, **_IHME 20220506_**, **_IMPE 20220315_**, **_SRIV 20220502_**, **_WHO 20220505_** || Days old: DELP 4, IHME 0, IMPE 53, SRIV 4, WHO 1, No PHAC
+
+
+*
+
 **uptake 20220429**: **_DELP 20220429_**, IHME 20220408, no IMPE, **_SRIV 20220429_**, No PHAC || Days old: DELP 0, IHME 21, no IMPE, SRIV 0
 
 (2) Quebec [Daily deaths, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220429/output/SUB2%2012bDayDeaMERGsub%202021%20Quebec%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%202021.pdf)
@@ -354,6 +364,11 @@ graph (4b) Quebec - [Daily cases or infections, Reference scenario, 2022 on](htt
   
 *
 
+**uptake 20220506**: **_DELP 20220502_**, **_IHME 20220506_**, **_IMPE 20220315_**, **_SRIV 20220502_**, **_WHO 20220505_** || Days old: DELP 4, IHME 0, IMPE 53, SRIV 4, WHO 1, No PHAC
+
+
+*
+
 **uptake 20220429**: **_DELP 20220429_**, IHME 20220408, no IMPE, **_SRIV 20220429_**, No PHAC || Days old: DELP 0, IHME 21, no IMPE, SRIV 0
 
 (2b) Quebec [Daily deaths, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220429/output/SUB2%2012cDayDeaMERGsub%202022%20Quebec%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%202022.pdf)
@@ -410,6 +425,11 @@ graph (4b) Quebec - [Daily cases or infections, Reference scenario, 2022 on](htt
   
   
   
+*
+
+**uptake 20220506**: **_DELP 20220502_**, **_IHME 20220506_**, **_IMPE 20220315_**, **_SRIV 20220502_**, **_WHO 20220505_** || Days old: DELP 4, IHME 0, IMPE 53, SRIV 4, WHO 1, No PHAC
+
+
 *
 
 **uptake 20220429**: **_DELP 20220429_**, IHME 20220408, no IMPE, **_SRIV 20220429_**, No PHAC || Days old: DELP 0, IHME 21, no IMPE, SRIV 0
@@ -576,6 +596,11 @@ graph (4b) Quebec - [Daily cases or infections, Reference scenario, 2022 on](htt
   
   
   
+*
+
+**uptake 20220506**: **_DELP 20220502_**, **_IHME 20220506_**, **_IMPE 20220315_**, **_SRIV 20220502_**, **_WHO 20220505_** || Days old: DELP 4, IHME 0, IMPE 53, SRIV 4, WHO 1, No PHAC
+
+
 *
 
 **uptake 20220429**: **_DELP 20220429_**, IHME 20220408, no IMPE, **_SRIV 20220429_**, No PHAC || Days old: DELP 0, IHME 21, no IMPE, SRIV 0
@@ -745,6 +770,11 @@ graph (4b) Quebec - [Daily cases or infections, Reference scenario, 2022 on](htt
   
   
   
+*
+
+**uptake 20220506**: **_DELP 20220502_**, **_IHME 20220506_**, **_IMPE 20220315_**, **_SRIV 20220502_**, **_WHO 20220505_** || Days old: DELP 4, IHME 0, IMPE 53, SRIV 4, WHO 1, No PHAC
+
+
 *
 
 **uptake 20220429**: **_DELP 20220429_**, IHME 20220408, no IMPE, **_SRIV 20220429_**, No PHAC || Days old: DELP 0, IHME 21, no IMPE, SRIV 0
