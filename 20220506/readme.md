@@ -452,7 +452,7 @@ PHAC: The [latest update of the PHAC-McMaster model](https://www.canada.ca/conte
 
 ****
 
-(4e) Manitoba [Daily cases, Reference scenario, 2022 on, without JOHN raw]()
+(4e) Manitoba [Daily cases, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220506/output/SUB5%2032eDayCasMERGsub%202022%20Manitoba%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios%2C%202022.pdf)
 
 
 ****
@@ -529,8 +529,9 @@ PHAC: The [latest update of the PHAC-McMaster model](https://www.canada.ca/conte
 
 ****
 
-(4e) Nova Scotia [Daily cases, Reference scenario, 2022 on, without JOHN raw]()
+(4e) Nova Scotia [Daily cases, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220506/output/SUB5%2032eDayCasMERGsub%202022%20Nova%20Scotia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Nova%20Scotia%2C%20reference%20scenarios%2C%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/167426339-6848412e-3b2e-4b4f-a60c-7d2b32a116a8.png)
 
 ****
 
