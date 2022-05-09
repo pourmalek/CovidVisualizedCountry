@@ -12,7 +12,7 @@ graph (1) Alberta - [Daily deaths, reference scenarios, all time](https://github
 
 graph (2) Alberta - [Daily deaths, 3 scenarios, 2021](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS%20Alberta%202022/README.md#graph-2-alberta---daily-deaths-3-scenarios-2021)
   
-graph (2b) Alberta - [Daily deaths, Reference scenario, 2022 on, with JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS%20Alberta%202022/README.md#graph-2b-alberta---daily-deaths-reference-scenario-2022-on--with-john-raw)
+graph (2b) Alberta - [Daily deaths, Reference scenario, 2022 on, with JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS%20Alberta%202022/README.md#graph-2b-alberta---daily-deaths-reference-scenario-2022-on-with-john-raw)
 
 graph (3) Alberta - [Daily cases or infections, reference scenarios, all time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/RESULTS%20Alberta%202022/README.md#graph-3-alberta---daily-cases-or-infections-reference-scenarios-all-time)  
   
