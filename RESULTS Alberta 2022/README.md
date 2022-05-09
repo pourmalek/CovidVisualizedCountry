@@ -410,7 +410,7 @@ graph (4b) Alberta - [Daily cases or infections, Reference scenario, 2022 on](ht
 ****
 ****
   
-#### graph (2c) Alberta - Daily deaths, Reference scenario, 2022 on, , without JOHN raw
+#### graph (2c) Alberta - Daily deaths, Reference scenario, 2022 on, without JOHN raw
   
   
   
