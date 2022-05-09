@@ -310,7 +310,7 @@ PHAC: The [latest update of the PHAC-McMaster model](https://www.canada.ca/conte
 
 (4c) Alberta [Daily cases, Reference scenario, 2022 on, with JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220506/output/SUB5%2032dDayCasMERGsub%202022%20Alberta%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios%2C%202022.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/167325108-b19ae51c-ae26-4a7b-b708-c7ff61d00002.png)
+![image](https://user-images.githubusercontent.com/30849720/167329987-9c1ba628-262c-4070-b200-7cad6a9eb555.png)
  
 ****
 
