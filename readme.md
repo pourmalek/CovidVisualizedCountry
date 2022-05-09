@@ -143,21 +143,23 @@ JOHN: Johns Hopkins. The coronavirus resource center, Johns Hopkins University, 
 ********************************************************************************************************************************************
 ********************************************************************************************************************************************
 
-### LATEST UPTAKE: uptake [`20220429`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20220429)
+### LATEST UPTAKE: uptake [`2022050`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/2022050)
   
-**_DELP 20220429_**, IHME 20220408, no IMPE, **_SRIV 20220429_**, No PHAC
+**_DELP 20220502_**, **_IHME 20220506_**, **_IMPE 20220315_**, **_SRIV 20220502_**, **_WHO 20220505_**
 
-Days old: DELP 0, IHME 21, no IMPE, SRIV 0
+Days old: DELP 4, IHME 0, IMPE 53, SRIV 4, WHO 1, No PHAC
 
-The latest available IMPE update (i.e., 2022-01-31) is 89 days old on 2022-04-29. Not included.
+IMPE update 20220315 was released on 20220505.
 
-The [latest update of the PHAC-McMaster model](https://www.canada.ca/content/dam/phac-aspc/documents/services/diseases-maladies/coronavirus-disease-covid-19/epidemiological-economic-research-data/update-covid-19-canada-epidemiology-modelling-20220218-en.pdf) is 72 days old. Not included.
+WHO	: Global excess deaths associated with COVID-19 (modelled estimates) 
+Most recent update: 5 May 2022 // Temporal coverage	1 January 2020 - 31 December 2021 //
+Source web page:
+https://www.who.int/data/sets/global-excess-deaths-associated-with-covid-19-modelled-estimates
+
+PHAC: The [latest update of the PHAC-McMaster model](https://www.canada.ca/content/dam/phac-aspc/documents/services/diseases-maladies/coronavirus-disease-covid-19/epidemiological-economic-research-data/update-covid-19-canada-epidemiology-modelling-20220218-en.pdf) is 79 days old. Not included.
 
 <br/><br/>
 
-**Summary 20220422:**
-
-Though the models’ results are divergent regarding the future trajectory of cases (or infections) and deaths, the official reported cases and deaths are on the rise at the national and provincial levels, sooner and at a rate faster (worse) than what the models predicted (or did not predict).
 
 
 <br/><br/>
@@ -1129,9 +1131,11 @@ and /20220318/ denotes the date of uptake.
 
 . 
   
- 
 
 
+
+
+(60) uptake [`20220506`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20220506):   **_DELP 20220502_**, **_IHME 20220506_**, **_IMPE 20220315_**, **_SRIV 20220502_**, **_WHO 20220505_** || Days old: DELP 4, IHME 0, IMPE 53, SRIV 4, WHO 1, No PHAC
 
 (59) uptake [`20220429`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20220429):  **_DELP 20220429_**, IHME 20220408, no IMPE, **_SRIV 20220429_**, No PHAC || Days old: Days old: DELP 0, IHME 21, no IMPE, SRIV 0 
 
