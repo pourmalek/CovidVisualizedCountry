@@ -348,7 +348,7 @@ PHAC: The [latest update of the PHAC-McMaster model](https://www.canada.ca/conte
  
 ****
 
-(2b) British Columbia [Daily deaths, Reference scenario, 2022 on, hout JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220506/output/SUB2%2012cDayDeaMERGsub%202022%20British%20Columbia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%202022.pdf)
+(2b) British Columbia [Daily deaths, Reference scenario, 2022 on, with JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220506/output/SUB2%2012cDayDeaMERGsub%202022%20British%20Columbia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%202022.pdf)
 
 ![image](https://user-images.githubusercontent.com/30849720/167408210-4421fee8-6d0f-411a-8ca9-a93ebd4cf0d8.png)
  
@@ -409,7 +409,7 @@ PHAC: The [latest update of the PHAC-McMaster model](https://www.canada.ca/conte
   
 ****
 
-(2b) Manitoba [Daily deaths, Reference scenario, 2022 on, hout JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220506/output/SUB2%2012cDayDeaMERGsub%202022%20Manitoba%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios%2C%202022.pdf)
+(2b) Manitoba [Daily deaths, Reference scenario, 2022 on, with JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220506/output/SUB2%2012cDayDeaMERGsub%202022%20Manitoba%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios%2C%202022.pdf)
 
 ![image](https://user-images.githubusercontent.com/30849720/167408337-31fc7c0c-9dc9-4f8c-a9ef-236a5ed47573.png)
   
@@ -476,7 +476,7 @@ PHAC: The [latest update of the PHAC-McMaster model](https://www.canada.ca/conte
  
 ****
 
-(2b) Nova Scotia [Daily deaths, Reference scenario, 2022 on, hout JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220506/output/SUB2%2012cDayDeaMERGsub%202022%20Nova%20Scotia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Nova%20Scotia%2C%20reference%20scenarios%2C%202022.pdf)
+(2b) Nova Scotia [Daily deaths, Reference scenario, 2022 on, with JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220506/output/SUB2%2012cDayDeaMERGsub%202022%20Nova%20Scotia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Nova%20Scotia%2C%20reference%20scenarios%2C%202022.pdf)
 
 ![image](https://user-images.githubusercontent.com/30849720/167408497-2b3240f9-c5ca-4c5e-a65b-6db6adc9dfad.png)
  
@@ -533,7 +533,7 @@ PHAC: The [latest update of the PHAC-McMaster model](https://www.canada.ca/conte
 
 ****
 
-(2b) Ontario [Daily deaths, Reference scenario, 2022 on, hout JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220506/output/SUB2%2012cDayDeaMERGsub%202022%20Ontario%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202022.pdf)
+(2b) Ontario [Daily deaths, Reference scenario, 2022 on, with JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220506/output/SUB2%2012cDayDeaMERGsub%202022%20Ontario%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202022.pdf)
 
 ![image](https://user-images.githubusercontent.com/30849720/167408728-a006caf6-8973-4ed5-a2e5-c5a203c2ae5d.png)
  
@@ -591,7 +591,7 @@ PHAC: The [latest update of the PHAC-McMaster model](https://www.canada.ca/conte
  
 ****
 
-(2b) Quebec [Daily deaths, Reference scenario, 2022 on, hout JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220506/output/SUB2%2012cDayDeaMERGsub%202022%20Quebec%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%202022.pdf)
+(2b) Quebec [Daily deaths, Reference scenario, 2022 on, with JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220506/output/SUB2%2012cDayDeaMERGsub%202022%20Quebec%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%202022.pdf)
 
 ![image](https://user-images.githubusercontent.com/30849720/167408905-52853213-71d8-4167-a40c-0c94f5f389e5.png)
  
@@ -650,7 +650,7 @@ PHAC: The [latest update of the PHAC-McMaster model](https://www.canada.ca/conte
  
 ****
 
-(2b) Saskatchewan [Daily deaths, Reference scenario, 2022 on, hout JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220506/output/SUB2%2012cDayDeaMERGsub%202022%20Saskatchewan%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Saskatchewan%2C%20reference%20scenarios%2C%202022.pdf)
+(2b) Saskatchewan [Daily deaths, Reference scenario, 2022 on, with JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220506/output/SUB2%2012cDayDeaMERGsub%202022%20Saskatchewan%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Saskatchewan%2C%20reference%20scenarios%2C%202022.pdf)
 
  
 ****
