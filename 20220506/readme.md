@@ -443,6 +443,7 @@ PHAC: The [latest update of the PHAC-McMaster model](https://www.canada.ca/conte
 
 (4b) Manitoba [Daily cases or infections, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220506/output/SUB5%2032cDayCasMERGsub%202022%20Manitoba%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios%2C%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/167427664-cb36d7c0-509e-4337-8a86-e4d4b2a1a5a5.png)
 
 ****
 
