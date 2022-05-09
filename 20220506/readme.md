@@ -401,11 +401,13 @@ PHAC: The [latest update of the PHAC-McMaster model](https://www.canada.ca/conte
 
 (1) Manitoba [Daily deaths, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220506/output/SUB1%2011bDayDeaMERGsub%20alltime%20Manitoba%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
- 
+![image](https://user-images.githubusercontent.com/30849720/167411621-84371bd5-e096-4746-963e-25087fdc9df5.png)
+  
 ****
 
 (2) Manitoba [Daily deaths, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220506/output/SUB2%2012bDayDeaMERGsub%202021%20Manitoba%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/167411806-851927a3-6f49-41cd-a8a5-c5e85a422ae5.png)
   
 ****
 
@@ -423,11 +425,13 @@ PHAC: The [latest update of the PHAC-McMaster model](https://www.canada.ca/conte
 
 (3) Manitoba [Daily cases or infections, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220506/output/SUB4%2031bDayCasMERGsub%20alltime%20Manitoba%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/167411937-2d035c16-c6ab-4f80-940a-888c083db949.png)
  
 ****
 
 (4) Manitoba [Daily cases or infections, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220506/output/SUB5%2032bDayCasMERGsub%202021%20Manitoba%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/167412053-db86aac2-9462-49c4-ad4d-83f172c62539.png)
  
 ****
 
@@ -469,11 +473,13 @@ PHAC: The [latest update of the PHAC-McMaster model](https://www.canada.ca/conte
 
 (1) Nova Scotia [Daily deaths, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220506/output/SUB1%2011bDayDeaMERGsub%20alltime%20Nova%20Scotia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Nova%20Scotia%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/167412254-69cfb2ab-2e8b-43c4-9c59-98d40df36361.png)
  
 ****
 
 (2) Nova Scotia [Daily deaths, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220506/output/SUB2%2012bDayDeaMERGsub%202021%20Nova%20Scotia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Nova%20Scotia%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/167412413-8d801908-2337-4fc3-bb20-b0a3ab348b93.png)
  
 ****
 
@@ -491,11 +497,13 @@ PHAC: The [latest update of the PHAC-McMaster model](https://www.canada.ca/conte
 
 (3) Nova Scotia [Daily cases or infections, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220506/output/SUB4%2031bDayCasMERGsub%20alltime%20Nova%20Scotia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Nova%20Scotia%2C%20reference%20scenarios.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/167412560-711a96a0-7ddf-4e08-8340-82ecd09f0b16.png)
  
 ****
 
 (4) Nova Scotia [Daily cases or infections, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220506/output/SUB5%2032bDayCasMERGsub%202021%20Nova%20Scotia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Nova%20Scotia%2C%20reference%20scenarios%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/167412683-1be81c95-cf8e-441f-98ef-77e6af130cba.png)
  
 ****
 
