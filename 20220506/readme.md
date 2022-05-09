@@ -528,7 +528,7 @@ PHAC: The [latest update of the PHAC-McMaster model](https://www.canada.ca/conte
 
 (4c) Nova Scotia [Daily cases, Reference scenario, 2022 on, with JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220506/output/SUB5%2032dDayCasMERGsub%202022%20Nova%20Scotia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Nova%20Scotia%2C%20reference%20scenarios%2C%202022.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/167325671-7ab4bda5-55fe-4bc6-baa3-afd8db70572f.png)
+![image](https://user-images.githubusercontent.com/30849720/167429115-65a59671-ff94-4074-99a3-67e8c4c56f26.png)
 
 ****
 
