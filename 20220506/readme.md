@@ -384,8 +384,9 @@ PHAC: The [latest update of the PHAC-McMaster model](https://www.canada.ca/conte
 
 ****
 
-(4e) British Columbia [Daily cases, Reference scenario, 2022 on, without JOHN raw]()
+(4e) British Columbia [Daily cases, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220506/output/SUB5%2032eDayCasMERGsub%202022%20British%20Columbia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/167425893-93dfebb2-eca2-4205-a4ba-49d7df0a4f23.png)
 
 ****
 
