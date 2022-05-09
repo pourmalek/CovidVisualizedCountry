@@ -380,7 +380,7 @@ PHAC: The [latest update of the PHAC-McMaster model](https://www.canada.ca/conte
 
 (4c) British Columbia [Daily cases, Reference scenario, 2022 on with JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220506/output/SUB5%2032dDayCasMERGsub%202022%20British%20Columbia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%202022.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/167325505-8b635a67-019e-4818-aff4-1fe9cbcdc2f6.png)
+![image](https://user-images.githubusercontent.com/30849720/167427380-1f9e1226-706c-41fa-8df8-317b51600a0e.png)
 
 ****
 
