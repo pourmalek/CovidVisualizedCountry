@@ -2,7 +2,7 @@
 
 ## ! THE MOST RECENT WEEKLY SITUATION REPORT, EVERY MONDAY MORNING, HERE:
 
-! Read the Canada COVID-19 epidemic models situation report No 45 - 2022-04-29 [here](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/45%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2045%20-%202022-04-29.pdf)
+! Read the Canada COVID-19 epidemic models situation report No 46 - 2022-05-06 [here](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/46%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2046%20-%202022-05-06.pdf)
 
 
 <br/><br/>
@@ -168,7 +168,7 @@ PHAC: The [latest update of the PHAC-McMaster model](https://www.canada.ca/conte
 ******
 
   
-# :eyes: SEE: See Canada COVID-19 epidemic models situation report No 45 - 2022-04-29, [here](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/45%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2045%20-%202022-04-29.pdf)
+# :eyes: SEE: See Canada COVID-19 epidemic models situation report No 46 - 2022-05-06, [here](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/46%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2046%20-%202022-05-06.pdf)
 
 <br/><br/>
   
