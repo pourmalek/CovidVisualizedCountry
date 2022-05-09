@@ -280,12 +280,13 @@ PHAC: The [latest update of the PHAC-McMaster model](https://www.canada.ca/conte
 
 (2b) Alberta [Daily deaths, Reference scenario, 2022 on, with JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220506/output/SUB2%2012cDayDeaMERGsub%202022%20Alberta%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios%2C%202022.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/167322255-69a98454-b4ab-4f29-9293-8886d83068e3.png)
+![image](https://user-images.githubusercontent.com/30849720/167329518-497af140-3253-48e6-99f9-5476812f714c.png)
  
 ****
 
-(2c) Alberta [Daily deaths, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220506/output/SUB2%2012cDayDeaMERGsub%202022%20Alberta%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios%2C%202022.pdf)
+(2c) Alberta [Daily deaths, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220506/output/SUB2%2012dDayDeaMERGsub%202022%20Alberta%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios%2C%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/167329776-0eda915d-cdbe-4e4b-b716-d8dd8f8e658c.png)
  
 ****
 
