@@ -1862,7 +1862,8 @@ levelsof provincestate_mostaffected, local(levels)
 foreach l of local levels {
 
 twoway ///
-(line DayCasMeSmA00S00 date, sort lcolor(cyan) lwidth(thick)) /// 1 "JOHN smooth"
+(line DayCasMeRaA00S00 date, sort lcolor(cyan) lwidth(thin)) /// 1 "JOHN raw"
+(line DayCasMeSmA00S00 date, sort lcolor(cyan*1.2) lwidth(thick)) /// 2 "JOHN smooth"
 (line DayCasFOREA01S00 date, sort lcolor(red) lpattern(tight_dot) lwidth(vthick)) /// 2 "DELP" Forecast only
 (line DayCasMeRaA01S00 date, sort lcolor(red)) /// 3 "DELP" mean
 if date >= td(01jan2022) & provincestate == "`l'" & DayCasMeRaA00S00 >= 0 ///
@@ -1870,7 +1871,7 @@ if date >= td(01jan2022) & provincestate == "`l'" & DayCasMeRaA00S00 >= 0 ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily cases) title("COVID-19 daily cases, $country, `l'", size(medium)) /// 
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
-legend(order(1 "JOHN cases" 3 "DELP cases") size(small) rows(1)) ///
+legend(order(1 "JOHN raw" 2 "JOHN smooth" 3 "DELP") size(small) rows(1)) ///
 subtitle("reference scenarios, 2022 on", size(small)) ///
 note("Reference scenario forecasts are marked with |||||||||||| " , size(small))
 
