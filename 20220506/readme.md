@@ -378,9 +378,14 @@ PHAC: The [latest update of the PHAC-McMaster model](https://www.canada.ca/conte
 
 ****
 
-(4c) British Columbia [Daily cases, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220506/output/SUB5%2032dDayCasMERGsub%202022%20British%20Columbia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%202022.pdf)
+(4c) British Columbia [Daily cases, Reference scenario, 2022 on with JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220506/output/SUB5%2032dDayCasMERGsub%202022%20British%20Columbia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%202022.pdf)
 
 ![image](https://user-images.githubusercontent.com/30849720/167325505-8b635a67-019e-4818-aff4-1fe9cbcdc2f6.png)
+
+****
+
+(4e) British Columbia [Daily cases, Reference scenario, 2022 on, without JOHN raw]()
+
 
 ****
 
@@ -440,9 +445,14 @@ PHAC: The [latest update of the PHAC-McMaster model](https://www.canada.ca/conte
 
 ****
 
-(4c) Manitoba [Daily cases, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220506/output/SUB5%2032dDayCasMERGsub%202022%20Manitoba%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios%2C%202022.pdf)
+(4c) Manitoba [Daily cases, Reference scenario, 2022 on, with JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220506/output/SUB5%2032dDayCasMERGsub%202022%20Manitoba%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios%2C%202022.pdf)
 
 ![image](https://user-images.githubusercontent.com/30849720/167325583-8524b5b0-60ee-4c52-ac9f-18700b5a8aae.png)
+
+****
+
+(4e) Manitoba [Daily cases, Reference scenario, 2022 on, without JOHN raw]()
+
 
 ****
 
@@ -512,9 +522,14 @@ PHAC: The [latest update of the PHAC-McMaster model](https://www.canada.ca/conte
 
 ****
 
-(4c) Nova Scotia [Daily cases, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220506/output/SUB5%2032dDayCasMERGsub%202022%20Nova%20Scotia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Nova%20Scotia%2C%20reference%20scenarios%2C%202022.pdf)
+(4c) Nova Scotia [Daily cases, Reference scenario, 2022 on, with JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220506/output/SUB5%2032dDayCasMERGsub%202022%20Nova%20Scotia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Nova%20Scotia%2C%20reference%20scenarios%2C%202022.pdf)
 
 ![image](https://user-images.githubusercontent.com/30849720/167325671-7ab4bda5-55fe-4bc6-baa3-afd8db70572f.png)
+
+****
+
+(4e) Nova Scotia [Daily cases, Reference scenario, 2022 on, without JOHN raw]()
+
 
 ****
 
@@ -584,6 +599,7 @@ PHAC: The [latest update of the PHAC-McMaster model](https://www.canada.ca/conte
 
 
 ****
+
 
 
 
