@@ -472,8 +472,9 @@ PHAC: The [latest update of the PHAC-McMaster model](https://www.canada.ca/conte
 
 ****
 
-(4c) Nova Scotia [Daily cases, Reference scenario, 2022 on]()
+(4c) Nova Scotia [Daily cases, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220506/output/SUB5%2032dDayCasMERGsub%202022%20Nova%20Scotia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Nova%20Scotia%2C%20reference%20scenarios%2C%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/167325671-7ab4bda5-55fe-4bc6-baa3-afd8db70572f.png)
 
 ****
 
@@ -522,8 +523,9 @@ PHAC: The [latest update of the PHAC-McMaster model](https://www.canada.ca/conte
 
 ****
 
-(4c) Ontario [Daily cases, Reference scenario, 2022 on]()
+(4c) Ontario [Daily cases, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220506/output/SUB5%2032dDayCasMERGsub%202022%20Ontario%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/167325720-67577c4e-3bab-4ac1-8688-1da33f68d41f.png)
 
 ****
 
@@ -573,7 +575,7 @@ PHAC: The [latest update of the PHAC-McMaster model](https://www.canada.ca/conte
 
 ****
 
-(4c) Quebec [Daily cases, Reference scenario, 2022 on]()
+(4c) Quebec [Daily cases, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220506/output/SUB5%2032dDayCasMERGsub%202022%20Quebec%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%202022.pdf)
 
 
 ****
@@ -626,7 +628,7 @@ PHAC: The [latest update of the PHAC-McMaster model](https://www.canada.ca/conte
 
 ****
 
-(4c) Saskatchewan [Daily cases, Reference scenario, 2022 on]()
+(4c) Saskatchewan [Daily cases, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220506/output/SUB5%2032dDayCasMERGsub%202022%20Saskatchewan%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Saskatchewan%2C%20reference%20scenarios%2C%202022.pdf)
 
 
 ****
