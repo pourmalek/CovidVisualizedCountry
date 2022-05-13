@@ -205,6 +205,7 @@ IMPE update 20220315 was released on 20220505 and is 60 days old on 20220513. No
 
 (11) Canada Provinces [Daily deaths, Reference scenario, IHME, 2022](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220513/output/graph%2024%20provinces%20C-19%20daily%20deaths%2C%20Canada%2C%20IHME%2C%202022%20on.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/168316573-2c5eb6cd-9b6d-4a39-9b96-73498f7aacee.png)
  
 ****
 
@@ -220,6 +221,7 @@ IMPE update 20220315 was released on 20220505 and is 60 days old on 20220513. No
 
 (14) Canada Provinces [Daily infections, Reference scenario, IHME, 2022](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220513/output/graph%2027%20provinces%20C-19%20daily%20infections%2C%20Canada%2C%20IHME%2C%202022%20on.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/168316712-26933da5-6853-40a9-ad0b-88939359209f.png)
  
 ****
 
@@ -258,6 +260,7 @@ IMPE update 20220315 was released on 20220505 and is 60 days old on 20220513. No
 
 (2c) Alberta [Daily deaths, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220513/output/SUB2%2012dDayDeaMERGsub%202022%20Alberta%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios%2C%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/168316874-cc1389d7-df31-4f6d-abed-cb338b252b35.png)
  
 ****
 
@@ -283,6 +286,7 @@ IMPE update 20220315 was released on 20220505 and is 60 days old on 20220513. No
 
 (4e) Alberta [Daily cases, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220513/output/SUB5%2032eDayCasMERGsub%202022%20Alberta%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios%2C%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/168317004-8db67e96-2f30-47f2-82e5-fdd060f79aec.png)
  
 ****
 
