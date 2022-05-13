@@ -56,6 +56,7 @@ IMPE update 20220315 was released on 20220505 and is 60 days old on 20220513. No
 
 (1) Canada [Daily deaths, Reference scenarios, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220513/output/CAN1%2011aDayDeaMERGnat%20alltime%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/168314959-f34e295a-b47e-4367-a8e6-68e7e26bb54d.png)
  
 ****
 
@@ -66,6 +67,7 @@ IMPE update 20220315 was released on 20220505 and is 60 days old on 20220513. No
 
 (2b) Canada National [Daily deaths, All scenarios, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220513/output/CAN2%2012aaDayDeaMERGnat%202022%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/168315186-fece2f68-3695-4c00-a066-7231531a0357.png)
 
 ****
 
