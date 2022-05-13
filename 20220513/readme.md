@@ -519,6 +519,7 @@ IMPE update 20220315 was released on 20220505 and is 60 days old on 20220513. No
 
 (2c) Ontario [Daily deaths, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220513/output/SUB2%2012dDayDeaMERGsub%202022%20Ontario%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/168318864-380943db-7cc2-473c-9411-b27ba7a52756.png)
  
 ****
 
@@ -544,6 +545,7 @@ IMPE update 20220315 was released on 20220505 and is 60 days old on 20220513. No
 
 (4d) Ontario [Daily cases, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220513/output/SUB5%2032eDayCasMERGsub%202022%20Ontario%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/168319005-18a4de1d-72e4-4a8b-8415-f652e39b7f91.png)
 
 ****
 
