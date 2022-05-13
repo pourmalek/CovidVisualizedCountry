@@ -2,7 +2,7 @@
 
 ## ! THE MOST RECENT WEEKLY SITUATION REPORT, EVERY MONDAY MORNING, HERE:
 
-! Read the Canada COVID-19 epidemic models situation report No 46 - 2022-05-06 [here](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/46%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2046%20-%202022-05-06.pdf)
+! Read the Canada COVID-19 epidemic models situation report No 47 - 2022-05-13 [here](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/47%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2047%20-%202022-05-13.pdf)
 
 
 <br/><br/>
@@ -163,7 +163,7 @@ IMPE update 20220315 was released on 20220505 and is 60 days old on 20220513. No
 ******
 
   
-# :eyes: SEE: See Canada COVID-19 epidemic models situation report No 46 - 2022-05-06, [here](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/46%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2046%20-%202022-05-06.pdf)
+# :eyes: SEE: See Canada COVID-19 epidemic models situation report No 47 - 2022-05-13, [here](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/47%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2047%20-%202022-05-13.pdf)
 
 <br/><br/>
   
