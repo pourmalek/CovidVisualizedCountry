@@ -482,6 +482,7 @@ IMPE update 20220315 was released on 20220505 and is 60 days old on 20220513. No
 
 (4d) Nova Scotia [Daily cases, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220513/output/SUB5%2032eDayCasMERGsub%202022%20Nova%20Scotia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Nova%20Scotia%2C%20reference%20scenarios%2C%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/168318596-875b3f1f-0c59-431b-a301-c49144531597.png)
 
 ****
 
