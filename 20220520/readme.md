@@ -158,16 +158,19 @@ IMPE update 20220315 was released on 20220505 and is > 60 days old on 20220520. 
 
 (3) Canada Provinces [Daily reported deaths, JOHN, 2022](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220520/output/graph%2003%20provinces%20C-19%20daily%20deaths%2C%20Canada%2C%20JOHN%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/169606847-734b0f5e-a6ea-45e4-aa9b-de6b0e074999.png)
  
 ****
 
 (4) Canada Provinces [Daily reported deaths, without National, Ontario, and Quebec, JOHN, 2022](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220520/output/graph%2004%20provinces%20C-19%20daily%20deaths%2C%20Canada%2C%20JOHN%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/169606995-0c9583d6-54bb-40fb-a018-ca5cf1b1d981.png)
  
 ****
 
 (5) Canada Provinces [Daily reported cases, JOHN, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220520/output/graph%2005%20provinces%20C-19%20daily%20cases%2C%20Canada%2C%20JOHN%202020.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/169607105-542242b3-2ded-4234-be15-b96f61ca9d71.png)
   
 ****
 
@@ -178,12 +181,14 @@ IMPE update 20220315 was released on 20220505 and is > 60 days old on 20220520. 
 
 (7) Canada Provinces [Daily reported cases, JOHN, 2022](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220520/output/graph%2007%20provinces%20C-19%20daily%20cases%2C%20Canada%2C%20JOHN%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/169607174-6327430c-7b48-41f8-b24f-6944ac518324.png)
 
 ****
 
 (8) Canada Provinces [Daily reported cases, without National, Ontario, and Quebec, JOHN, 2022](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220520/output/graph%2008%20provinces%20C-19%20daily%20cases%2C%20Canada%2C%20JOHN%202022.pdf)
 
- 
+ ![image](https://user-images.githubusercontent.com/30849720/169607247-42541810-2eb6-4c08-904f-18d5ad3232ce.png)
+
 ****
 
 #### _(b) Models: IHME_
