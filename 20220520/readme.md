@@ -197,7 +197,8 @@ IMPE update 20220315 was released on 20220505 and is > 60 days old on 20220520. 
 
 (9) Canada Provinces [Daily deaths, Reference scenario, IHME, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220520/output/graph%2022%20provinces%20C-19%20daily%20deaths%2C%20Canada%2C%20IHME%2C%202020%20on.pdf)
 
-  
+ ![image](https://user-images.githubusercontent.com/30849720/169607388-1b10e73f-ce86-480d-a7ac-67da180038e4.png)
+ 
 ****
 
 (10) Canada Provinces [Daily deaths, Reference scenario, IHME, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220520/output/graph%2023%20provinces%20C-19%20daily%20deaths%2C%20Canada%2C%20IHME%2C%202021%20on.pdf)
@@ -222,6 +223,7 @@ IMPE update 20220315 was released on 20220505 and is > 60 days old on 20220520. 
 
 (14) Canada Provinces [Daily infections, Reference scenario, IHME, 2022](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220520/output/graph%2027%20provinces%20C-19%20daily%20infections%2C%20Canada%2C%20IHME%2C%202022%20on.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/169607556-bd339219-21d4-401b-b1eb-eaeb00295631.png)
  
 ****
 
