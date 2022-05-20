@@ -1,9 +1,9 @@
 {smcl}
-{com}{sf}{ul off}{txt}{.-}
+{txt}{sf}{ul off}{.-}
       name:  {res}<unnamed>
-       {txt}log:  {res}/Users/farshadpourmalek/Downloads/CovidVisualizedCountry-main/20220513/code/merge/log CovidVisualizedCountry merge.smcl
+       {txt}log:  {res}/Users/farshadpourmalek/Downloads/CovidVisualizedCountry-main/20220520/code/merge/log CovidVisualizedCountry merge.smcl
   {txt}log type:  {res}smcl
- {txt}opened on:  {res}13 May 2022, 07:58:21
+ {txt}opened on:  {res}20 May 2022, 12:51:37
 {txt}
 {com}. 
 . 
@@ -53,11 +53,11 @@
 {res}
 {txt}{col 5}Result{col 38}# of obs.
 {col 5}{hline 41}
-{col 5}not matched{col 30}{res}          10,938
-{txt}{col 9}from master{col 30}{res}          10,298{txt}  (_merge==1)
-{col 9}from using{col 30}{res}             640{txt}  (_merge==2)
+{col 5}not matched{col 30}{res}          10,896
+{txt}{col 9}from master{col 30}{res}          10,326{txt}  (_merge==1)
+{col 9}from using{col 30}{res}             570{txt}  (_merge==2)
 
-{col 5}matched{col 30}{res}           1,490{txt}  (_merge==3)
+{col 5}matched{col 30}{res}           1,560{txt}  (_merge==3)
 {col 5}{hline 41}
 {com}. {c )-}
 {txt}
@@ -77,8 +77,8 @@
 {res}
 {txt}{col 5}Result{col 38}# of obs.
 {col 5}{hline 41}
-{col 5}not matched{col 30}{res}           5,668
-{txt}{col 9}from master{col 30}{res}           5,284{txt}  (_merge==1)
+{col 5}not matched{col 30}{res}           5,696
+{txt}{col 9}from master{col 30}{res}           5,312{txt}  (_merge==1)
 {col 9}from using{col 30}{res}             384{txt}  (_merge==2)
 
 {col 5}matched{col 30}{res}           7,144{txt}  (_merge==3)
@@ -101,8 +101,8 @@
 {res}
 {txt}{col 5}Result{col 38}# of obs.
 {col 5}{hline 41}
-{col 5}not matched{col 30}{res}          11,944
-{txt}{col 9}from master{col 30}{res}          11,939{txt}  (_merge==1)
+{col 5}not matched{col 30}{res}          11,972
+{txt}{col 9}from master{col 30}{res}          11,967{txt}  (_merge==1)
 {col 9}from using{col 30}{res}               5{txt}  (_merge==2)
 
 {col 5}matched{col 30}{res}             873{txt}  (_merge==3)
@@ -125,8 +125,8 @@
 {res}
 {txt}{col 5}Result{col 38}# of obs.
 {col 5}{hline 41}
-{col 5}not matched{col 30}{res}          12,716
-{txt}{col 9}from master{col 30}{res}          12,716{txt}  (_merge==1)
+{col 5}not matched{col 30}{res}          12,744
+{txt}{col 9}from master{col 30}{res}          12,744{txt}  (_merge==1)
 {col 9}from using{col 30}{res}               0{txt}  (_merge==2)
 
 {col 5}matched{col 30}{res}             101{txt}  (_merge==3)
@@ -163,14 +163,14 @@
 . 
 . 
 . gen DayCTDMeRaA00S00 =  DayCasMeRaA00S00 / DayDeaMeRaA00S00
-{txt}(8,493 missing values generated)
+{txt}(8,494 missing values generated)
 
 {com}. 
 . label var DayCTDMeRaA00S00  "Daily Cases to Deaths S0 JOHN"
 {txt}
 {com}. 
 . gen TotCTDMeRaA00S00 =  TotCasMeRaA00S00 / TotDeaMeRaA00S00
-{txt}(3,612 missing values generated)
+{txt}(3,542 missing values generated)
 
 {com}. 
 . label var TotCTDMeRaA00S00  "Total Cases to Deaths S0 JOHN"
@@ -180,14 +180,14 @@
 . 
 . 
 . gen DayCTDMeRaA01S00 =  DayCasMeRaA01S00 / DayDeaMeRaA01S00
-{txt}(10,923 missing values generated)
+{txt}(10,948 missing values generated)
 
 {com}. 
 . label var DayCTDMeRaA01S00  "Daily Cases to Deaths S0 DELP"
 {txt}
 {com}. 
 . gen TotCTDMeRaA01S00 =  TotCasMeRaA01S00 / TotDeaMeRaA01S00
-{txt}(10,687 missing values generated)
+{txt}(10,715 missing values generated)
 
 {com}. 
 . label var TotCTDMeRaA01S00  "Total Cases to Deaths S0 DELP"  
@@ -196,14 +196,14 @@
 . 
 . 
 . gen DayITDMeSmA02S01  =  DayINFMeSmA02S01  / DayDeaMeSmA02S01 
-{txt}(5,601 missing values generated)
+{txt}(5,629 missing values generated)
 
 {com}. 
 . label var DayITDMeSmA02S01   "Daily infections to Deaths S1 IHME"
 {txt}
 {com}. 
 . gen TotITDMeSmA02S01  =  TotINFMeSmA02S01  / TotDeaMeSmA02S01 
-{txt}(5,599 missing values generated)
+{txt}(5,627 missing values generated)
 
 {com}. 
 . label var TotITDMeSmA02S01   "Total infections to Deaths S1 IHME"
@@ -213,14 +213,14 @@
 . 
 . 
 . gen DayITDMeSmA02S02 = DayINFMeSmA02S02 / DayDeaMeSmA02S02  
-{txt}(5,617 missing values generated)
+{txt}(5,645 missing values generated)
 
 {com}. 
 . label var DayITDMeSmA02S02 "Daily infections to Deaths S2 IHME"
 {txt}
 {com}. 
 . gen TotITDMeSmA02S02 = TotINFMeSmA02S02 / TotDeaMeSmA02S02  
-{txt}(5,599 missing values generated)
+{txt}(5,627 missing values generated)
 
 {com}. 
 . label var TotITDMeSmA02S02 "Total infections to Deaths S2 IHME"
@@ -230,14 +230,14 @@
 . 
 . 
 . gen DayITDMeSmA02S03  = DayINFMeSmA02S03  / DayDeaMeSmA02S03   
-{txt}(5,601 missing values generated)
+{txt}(5,629 missing values generated)
 
 {com}. 
 . label var DayITDMeSmA02S03  "Daily infections to Deaths S3 IHME"
 {txt}
 {com}. 
 . gen TotITDMeSmA02S03  = TotINFMeSmA02S03  / TotDeaMeSmA02S03   
-{txt}(5,599 missing values generated)
+{txt}(5,627 missing values generated)
 
 {com}. 
 . label var TotITDMeSmA02S03  "Total infections to Deaths S3 IHME"
@@ -247,14 +247,14 @@
 . 
 . 
 . gen DayITDMeRaA03S01  = DayINFMeRaA03S01  / DayDeaMeRaA03S01   
-{txt}(11,960 missing values generated)
+{txt}(11,988 missing values generated)
 
 {com}. 
 . label var DayITDMeRaA03S01  "Daily infections to Deaths S1 IMPE"
 {txt}
 {com}. 
 . gen TotITDMeRaA03S01  = TotINFMeRaA03S01  / TotDeaMeRaA03S01   
-{txt}(11,954 missing values generated)
+{txt}(11,982 missing values generated)
 
 {com}. 
 . label var TotITDMeRaA03S01  "Total infections to Deaths S1 IMPE"
@@ -264,14 +264,14 @@
 . 
 . 
 . gen DayITDMeRaA03S02  = DayINFMeRaA03S02  / DayDeaMeRaA03S02   
-{txt}(11,960 missing values generated)
+{txt}(11,988 missing values generated)
 
 {com}. 
 . label var DayITDMeRaA03S02  "Daily infections to Deaths S2 IMPE"
 {txt}
 {com}. 
 . gen TotITDMeRaA03S02  = TotINFMeRaA03S02  / TotDeaMeRaA03S02   
-{txt}(11,954 missing values generated)
+{txt}(11,982 missing values generated)
 
 {com}. 
 . label var TotITDMeRaA03S02  "Total infections to Deaths S2 IMPE"
@@ -281,14 +281,14 @@
 . 
 . 
 . gen DayITDMeRaA03S03  = DayINFMeRaA03S03  / DayDeaMeRaA03S03   
-{txt}(11,960 missing values generated)
+{txt}(11,988 missing values generated)
 
 {com}. 
 . label var DayITDMeRaA03S03  "Daily infections to Deaths S3 IMPE"
 {txt}
 {com}. 
 . gen TotITDMeRaA03S03  = TotINFMeRaA03S03  / TotDeaMeRaA03S03   
-{txt}(11,954 missing values generated)
+{txt}(11,982 missing values generated)
 
 {com}. 
 . label var TotITDMeRaA03S03  "Total infections to Deaths S3 IMPE"
@@ -297,14 +297,14 @@
 . 
 . 
 . gen DayCTDMeRaA05S00  = DayCasMeRaA05S00  / DayDeaMeRaA05S00   
-{txt}(12,717 missing values generated)
+{txt}(12,745 missing values generated)
 
 {com}. 
 . label var DayCTDMeRaA05S00  "Daily Cases to Deaths S0 SRIV"
 {txt}
 {com}. 
 . gen TotCTDMeRaA05S00  = TotCasMeRaA05S00  / TotDeaMeRaA05S00   
-{txt}(12,716 missing values generated)
+{txt}(12,744 missing values generated)
 
 {com}. 
 . label var TotCTDMeRaA05S00  "Total Cases to Deaths S0 SRIV"
@@ -326,7 +326,7 @@
 . 
 . 
 . gen DayITCMeSmA02S01XXX =  DayINFMeSmA02S01XXX / DayCasMeRaA00S00
-{txt}(12,003 missing values generated)
+{txt}(12,024 missing values generated)
 
 {com}. 
 . label var DayITCMeSmA02S01XXX  "Daily Infections IHME to cases JOHN National"
@@ -334,7 +334,7 @@
 {com}. 
 . 
 . gen DayITCMeSmA02S01XAB =  DayINFMeSmA02S01XAB / DayCasMeRaA00S00
-{txt}(12,218 missing values generated)
+{txt}(12,245 missing values generated)
 
 {com}. 
 . label var DayITCMeSmA02S01XAB  "Daily Infections IHME to cases JOHN Alberta"
@@ -342,7 +342,7 @@
 {com}. 
 . 
 . gen DayITCMeSmA02S01XBC =  DayINFMeSmA02S01XBC / DayCasMeRaA00S00
-{txt}(12,281 missing values generated)
+{txt}(12,308 missing values generated)
 
 {com}. 
 . label var DayITCMeSmA02S01XBC  "Daily Infections IHME to cases JOHN British Columbia"
@@ -350,7 +350,7 @@
 {com}. 
 . 
 . gen DayITCMeSmA02S01XMB =  DayINFMeSmA02S01XMB / DayCasMeRaA00S00
-{txt}(12,204 missing values generated)
+{txt}(12,231 missing values generated)
 
 {com}. 
 . label var DayITCMeSmA02S01XMB  "Daily Infections IHME to cases JOHN Manitoba"
@@ -358,7 +358,7 @@
 {com}. 
 . 
 . gen DayITCMeSmA02S01XNS =  DayINFMeSmA02S01XNS / DayCasMeRaA00S00
-{txt}(12,290 missing values generated)
+{txt}(12,317 missing values generated)
 
 {com}. 
 . label var DayITCMeSmA02S01XNS  "Daily Infections IHME to cases JOHN Nova Scotia"
@@ -366,7 +366,7 @@
 {com}. 
 . 
 . gen DayITCMeSmA02S01XON =  DayINFMeSmA02S01XON / DayCasMeRaA00S00
-{txt}(12,017 missing values generated)
+{txt}(12,040 missing values generated)
 
 {com}. 
 . label var DayITCMeSmA02S01XON  "Daily Infections IHME to cases JOHN Ontario"
@@ -374,7 +374,7 @@
 {com}. 
 . 
 . gen DayITCMeSmA02S01XQC =  DayINFMeSmA02S01XQC / DayCasMeRaA00S00
-{txt}(12,027 missing values generated)
+{txt}(12,048 missing values generated)
 
 {com}. 
 . label var DayITCMeSmA02S01XQC  "Daily Infections IHME to cases JOHN Quebec"
@@ -382,7 +382,7 @@
 {com}. 
 . 
 . gen DayITCMeSmA02S01XSK =  DayINFMeSmA02S01XSK / DayCasMeRaA00S00
-{txt}(12,128 missing values generated)
+{txt}(12,155 missing values generated)
 
 {com}. 
 . label var DayITCMeSmA02S01XSK  "Daily Infections IHME to cases JOHN Saskatchewan"
@@ -391,7 +391,7 @@
 . 
 . 
 . gen DayITCMeRaA03S02 =  DayINFMeRaA03S02 / DayCasMeRaA00S00
-{txt}(12,000 missing values generated)
+{txt}(12,021 missing values generated)
 
 {com}. 
 . label var DayITCMeRaA03S02  "Daily Infections IMPE to cases JOHN National"
@@ -489,7 +489,7 @@ all files already exist and are up to date.
 . 
 .     
 . gen DayDERMeRaA00S00 = DayDeaMeRaA00S00 / DayDeaMeRaA00S00
-{txt}(8,493 missing values generated)
+{txt}(8,494 missing values generated)
 
 {com}. 
 . label var DayDERMeRaA00S00 "Daily Deaths estim to reported JOHN = 1" 
@@ -497,7 +497,7 @@ all files already exist and are up to date.
 {com}. 
 . 
 . gen DayDERMeRaA01S00 = DayDeaMeRaA01S00 / DayDeaMeRaA00S00
-{txt}(12,002 missing values generated)
+{txt}(12,004 missing values generated)
 
 {com}. 
 . label var DayDERMeRaA01S00 "Daily Deaths estim to reported Mean DELP S0"
@@ -505,7 +505,7 @@ all files already exist and are up to date.
 {com}. 
 . 
 . gen DayDERMeSmA02S01 = DayDeaMeSmA02S01 / DayDeaMeRaA00S00
-{txt}(8,789 missing values generated)
+{txt}(8,793 missing values generated)
 
 {com}. 
 . label var DayDERMeSmA02S01 "Daily Deaths estim to reported Mean not smoothed IHME S1"
@@ -513,7 +513,7 @@ all files already exist and are up to date.
 {com}. 
 . 
 . gen DayDERMeSmA02S02 = DayDeaMeSmA02S02 / DayDeaMeRaA00S00
-{txt}(8,789 missing values generated)
+{txt}(8,793 missing values generated)
 
 {com}. 
 . label var DayDERMeSmA02S02 "Daily Deaths estim to reported Mean not smoothed IHME S2"
@@ -521,7 +521,7 @@ all files already exist and are up to date.
 {com}. 
 . 
 . gen DayDERMeSmA02S03 = DayDeaMeSmA02S03 / DayDeaMeRaA00S00
-{txt}(8,789 missing values generated)
+{txt}(8,793 missing values generated)
 
 {com}. 
 . label var DayDERMeSmA02S03 "Daily Deaths estim to reported Mean not smoothed IHME S3"
@@ -530,7 +530,7 @@ all files already exist and are up to date.
 . 
 . 
 . gen DayDERMeRaA03S01 = DayDeaMeRaA03S01 / DayDeaMeRaA00S00
-{txt}(12,035 missing values generated)
+{txt}(12,056 missing values generated)
 
 {com}. 
 . label var DayDERMeRaA03S01 "Daily Deaths estim to reported Mean S1 IMPE"
@@ -538,7 +538,7 @@ all files already exist and are up to date.
 {com}. 
 . 
 . gen DayDERMeRaA03S02 = DayDeaMeRaA03S02 / DayDeaMeRaA00S00
-{txt}(12,035 missing values generated)
+{txt}(12,056 missing values generated)
 
 {com}. 
 . label var DayDERMeRaA03S02 "Daily Deaths estim to reported Mean S2 IMPE"
@@ -546,7 +546,7 @@ all files already exist and are up to date.
 {com}. 
 . 
 . gen DayDERMeRaA03S03 = DayDeaMeRaA03S03 / DayDeaMeRaA00S00
-{txt}(12,035 missing values generated)
+{txt}(12,056 missing values generated)
 
 {com}. 
 . label var DayDERMeRaA03S03 "Daily Deaths estim to reported Mean S3 IMPE"
@@ -555,7 +555,7 @@ all files already exist and are up to date.
 . 
 . 
 . gen DayDERMeRaA05S00  = DayDeaMeRaA05S00 / DayDeaMeRaA00S00
-{txt}(12,813 missing values generated)
+{txt}(12,845 missing values generated)
 
 {com}. 
 . label var DayDERMeRaA05S00 "Daily Deaths estim to reported S0 SRIV"
@@ -570,7 +570,7 @@ all files already exist and are up to date.
 . 
 . 
 . gen DayCERMeRaA00S00 = DayCasMeRaA00S00 / DayCasMeRaA00S00
-{txt}(5,709 missing values generated)
+{txt}(5,703 missing values generated)
 
 {com}. 
 . label var DayCERMeRaA00S00 "Daily Cases estim to reported JOHN = 1" 
@@ -578,7 +578,7 @@ all files already exist and are up to date.
 {com}. 
 . 
 . gen DayCERMeRaA01S00 = DayCasMeRaA01S00 / DayCasMeRaA00S00
-{txt}(11,855 missing values generated)
+{txt}(11,856 missing values generated)
 
 {com}. 
 . label var DayCERMeRaA01S00 "Daily Cases estim to reported Mean DELP S0"
@@ -586,7 +586,7 @@ all files already exist and are up to date.
 {com}. 
 . 
 . gen DayIERMeSmA02S01 = DayINFMeSmA02S01 / DayCasMeRaA00S00
-{txt}(7,449 missing values generated)
+{txt}(7,453 missing values generated)
 
 {com}. 
 . label var DayIERMeSmA02S01 "Daily infections estim to reported cases Mean not smoothed IHME S1"
@@ -594,7 +594,7 @@ all files already exist and are up to date.
 {com}. 
 . 
 . gen DayIERMeSmA02S02 = DayINFMeSmA02S02 / DayCasMeRaA00S00
-{txt}(7,449 missing values generated)
+{txt}(7,453 missing values generated)
 
 {com}. 
 . label var DayIERMeSmA02S02 "Daily infections estim to reported cases Mean not smoothed IHME S2"
@@ -602,7 +602,7 @@ all files already exist and are up to date.
 {com}. 
 . 
 . gen DayIERMeSmA02S03 = DayINFMeSmA02S03 / DayCasMeRaA00S00
-{txt}(7,449 missing values generated)
+{txt}(7,453 missing values generated)
 
 {com}. 
 . label var DayIERMeSmA02S03 "Daily infections estim to reported cases Mean not smoothed IHME S3"
@@ -612,7 +612,7 @@ all files already exist and are up to date.
 . 
 . 
 . gen DayIERMeRaA03S01 = DayINFMeRaA03S01 / DayCasMeRaA00S00
-{txt}(12,000 missing values generated)
+{txt}(12,021 missing values generated)
 
 {com}. 
 . label var DayIERMeRaA03S01 "Daily infections estim to reported cases Mean S1 IMPE"
@@ -620,7 +620,7 @@ all files already exist and are up to date.
 {com}. 
 . 
 . gen DayIERMeRaA03S02 = DayINFMeRaA03S02 / DayCasMeRaA00S00
-{txt}(12,000 missing values generated)
+{txt}(12,021 missing values generated)
 
 {com}. 
 . label var DayIERMeRaA03S02 "Daily infections estim to reported cases Mean S2 IMPE"
@@ -628,7 +628,7 @@ all files already exist and are up to date.
 {com}. 
 . 
 . gen DayIERMeRaA03S03 = DayINFMeRaA03S03 / DayCasMeRaA00S00
-{txt}(12,000 missing values generated)
+{txt}(12,021 missing values generated)
 
 {com}. 
 . label var DayIERMeRaA03S03 "Daily infections estim to reported cases Mean S3 IMPE"
@@ -637,7 +637,7 @@ all files already exist and are up to date.
 . 
 . 
 . gen DayCERMeRaA05S00  = DayCasMeRaA05S00 / DayCasMeRaA00S00
-{txt}(12,813 missing values generated)
+{txt}(12,845 missing values generated)
 
 {com}. 
 . label var DayCERMeRaA05S00 "Daily Cases estim to reported S0 SRIV"
@@ -651,7 +651,7 @@ all files already exist and are up to date.
 . 
 . 
 . gen TotDERMeRaA00S00 = TotDeaMeRaA00S00 / TotDeaMeRaA00S00
-{txt}(3,612 missing values generated)
+{txt}(3,542 missing values generated)
 
 {com}. 
 . label var TotDERMeRaA00S00 "Total Deaths estim to reported JOHN = 1" 
@@ -659,7 +659,7 @@ all files already exist and are up to date.
 {com}. 
 . 
 . gen TotDERMeRaA01S00 = TotDeaMeRaA01S00 / TotDeaMeRaA00S00
-{txt}(11,327 missing values generated)
+{txt}(11,285 missing values generated)
 
 {com}. 
 . label var TotDERMeRaA01S00 "Total Deaths estim to reported Mean DELP S0"
@@ -667,7 +667,7 @@ all files already exist and are up to date.
 {com}. 
 . 
 . gen TotDERMeSmA02S01 = TotDeaMeSmA02S01 / TotDeaMeRaA00S00
-{txt}(6,543 missing values generated)
+{txt}(6,515 missing values generated)
 
 {com}. 
 . label var TotDERMeSmA02S01 "Total Deaths estim to reported Mean not smoothed IHME S1"
@@ -675,7 +675,7 @@ all files already exist and are up to date.
 {com}. 
 . 
 . gen TotDERMeSmA02S02 = TotDeaMeSmA02S02 / TotDeaMeRaA00S00
-{txt}(6,543 missing values generated)
+{txt}(6,515 missing values generated)
 
 {com}. 
 . label var TotDERMeSmA02S02 "Total Deaths estim to reported Mean not smoothed IHME S2"
@@ -683,7 +683,7 @@ all files already exist and are up to date.
 {com}. 
 . 
 . gen TotDERMeSmA02S03 = TotDeaMeSmA02S03 / TotDeaMeRaA00S00
-{txt}(6,543 missing values generated)
+{txt}(6,515 missing values generated)
 
 {com}. 
 . label var TotDERMeSmA02S03 "Total Deaths estim to reported Mean not smoothed IHME S3"
@@ -691,7 +691,7 @@ all files already exist and are up to date.
 {com}. 
 . 
 . gen TotDERMeRaA03S01 = TotDeaMeRaA03S01 / TotDeaMeRaA00S00
-{txt}(12,021 missing values generated)
+{txt}(12,042 missing values generated)
 
 {com}. 
 . label var TotDERMeRaA03S01 "Total Deaths estim to reported Mean S1 IMPE"
@@ -699,7 +699,7 @@ all files already exist and are up to date.
 {com}. 
 . 
 . gen TotDERMeRaA03S02 = TotDeaMeRaA03S02 / TotDeaMeRaA00S00
-{txt}(12,021 missing values generated)
+{txt}(12,042 missing values generated)
 
 {com}. 
 . label var TotDERMeRaA03S02 "Total Deaths estim to reported Mean S2 IMPE"
@@ -707,7 +707,7 @@ all files already exist and are up to date.
 {com}. 
 . 
 . gen TotDERMeRaA03S03 = TotDeaMeRaA03S03 / TotDeaMeRaA00S00
-{txt}(12,021 missing values generated)
+{txt}(12,042 missing values generated)
 
 {com}. 
 . label var TotDERMeRaA03S03 "Total Deaths estim to reported Mean S3 IMPE"
@@ -715,7 +715,7 @@ all files already exist and are up to date.
 {com}. 
 . 
 . gen TotDERMeRaA05S00  = TotDeaMeRaA05S00 / TotDeaMeRaA00S00
-{txt}(12,812 missing values generated)
+{txt}(12,845 missing values generated)
 
 {com}. 
 . label var TotDERMeRaA05S00 "Total Deaths estim to reported S0 SRIV"
@@ -730,7 +730,7 @@ all files already exist and are up to date.
 . 
 . 
 . gen TotCERMeRaA00S00 = TotCasMeRaA00S00 / TotCasMeRaA00S00
-{txt}(1,843 missing values generated)
+{txt}(1,773 missing values generated)
 
 {com}. 
 . label var TotCERMeRaA00S00 "Total Cases estim to reported JOHN = 1" 
@@ -738,7 +738,7 @@ all files already exist and are up to date.
 {com}. 
 . 
 . gen TotCERMeRaA01S00 = TotCasMeRaA01S00 / TotCasMeRaA00S00
-{txt}(11,327 missing values generated)
+{txt}(11,285 missing values generated)
 
 {com}. 
 . label var TotCERMeRaA01S00 "Total Cases estim to reported Mean DELP S0"
@@ -746,7 +746,7 @@ all files already exist and are up to date.
 {com}. 
 . 
 . gen TotIERMeSmA02S01 = TotINFMeSmA02S01 / TotCasMeRaA00S00
-{txt}(6,354 missing values generated)
+{txt}(6,326 missing values generated)
 
 {com}. 
 . label var TotIERMeSmA02S01 "Total infections estim to reported cases Mean not smoothed IHME S1"
@@ -754,7 +754,7 @@ all files already exist and are up to date.
 {com}. 
 . 
 . gen TotIERMeSmA02S02 = TotINFMeSmA02S02 / TotCasMeRaA00S00
-{txt}(6,354 missing values generated)
+{txt}(6,326 missing values generated)
 
 {com}. 
 . label var TotIERMeSmA02S02 "Total infections estim to reported cases Mean not smoothed IHME S2"
@@ -762,7 +762,7 @@ all files already exist and are up to date.
 {com}. 
 . 
 . gen TotIERMeSmA02S03 = TotINFMeSmA02S03 / TotCasMeRaA00S00
-{txt}(6,354 missing values generated)
+{txt}(6,326 missing values generated)
 
 {com}. 
 . label var TotIERMeSmA02S03 "Total infections estim to reported cases Mean not smoothed IHME S3"
@@ -770,7 +770,7 @@ all files already exist and are up to date.
 {com}. 
 . 
 . gen TotIERMeRaA03S01 = TotINFMeRaA03S01 / TotCasMeRaA00S00
-{txt}(11,976 missing values generated)
+{txt}(11,997 missing values generated)
 
 {com}. 
 . label var TotIERMeRaA03S01 "Total infections estim to reported cases Mean S1 IMPE"
@@ -778,7 +778,7 @@ all files already exist and are up to date.
 {com}. 
 . 
 . gen TotIERMeRaA03S02 = TotINFMeRaA03S02 / TotCasMeRaA00S00
-{txt}(11,976 missing values generated)
+{txt}(11,997 missing values generated)
 
 {com}. 
 . label var TotIERMeRaA03S02 "Total infections estim to reported cases Mean S2 IMPE"
@@ -786,7 +786,7 @@ all files already exist and are up to date.
 {com}. 
 . 
 . gen TotIERMeRaA03S03 = TotINFMeRaA03S03 / TotCasMeRaA00S00
-{txt}(11,976 missing values generated)
+{txt}(11,997 missing values generated)
 
 {com}. 
 . label var TotIERMeRaA03S03 "Total infections estim to reported cases Mean S3 IMPE"
@@ -795,7 +795,7 @@ all files already exist and are up to date.
 . 
 . 
 . gen TotCERMeRaA05S00  = TotCasMeRaA05S00 / TotCasMeRaA00S00
-{txt}(12,812 missing values generated)
+{txt}(12,845 missing values generated)
 
 {com}. 
 . label var TotCERMeRaA05S00 "Total Cases estim to reported S0 SRIV"
@@ -819,19 +819,19 @@ all files already exist and are up to date.
 
 {com}. 
 . replace provincestate_mostaffected = "" if provincestate_mostaffected == "Northwest Territories"
-{txt}(842 real changes made)
+{txt}(849 real changes made)
 
 {com}. 
 . replace provincestate_mostaffected = "" if provincestate_mostaffected == "Nunavut"
-{txt}(842 real changes made)
+{txt}(849 real changes made)
 
 {com}. 
 . replace provincestate_mostaffected = "" if provincestate_mostaffected == "Prince Edward Island"
-{txt}(842 real changes made)
+{txt}(849 real changes made)
 
 {com}. 
 . replace provincestate_mostaffected = "" if provincestate_mostaffected == "Yukon"
-{txt}(842 real changes made)
+{txt}(849 real changes made)
 
 {com}. 
 . replace provincestate_mostaffected = "" if provincestate_mostaffected == " National"
@@ -847,7 +847,8 @@ all files already exist and are up to date.
 {txt}
 {com}. 
 . save "CovidVisualizedCountry merge.dta", replace
-{txt}file CovidVisualizedCountry merge.dta saved
+{txt}(note: file CovidVisualizedCountry merge.dta not found)
+file CovidVisualizedCountry merge.dta saved
 
 {com}. 
 . 
@@ -925,9 +926,9 @@ now 732
 {res}
 {txt}{col 5}Result{col 38}# of obs.
 {col 5}{hline 41}
-{col 5}not matched{col 30}{res}           2,874
+{col 5}not matched{col 30}{res}           2,902
 {txt}{col 9}from master{col 30}{res}              16{txt}  (_merge==1)
-{col 9}from using{col 30}{res}           2,858{txt}  (_merge==2)
+{col 9}from using{col 30}{res}           2,886{txt}  (_merge==2)
 
 {col 5}matched{col 30}{res}           9,959{txt}  (_merge==3)
 {col 5}{hline 41}
@@ -969,9 +970,9 @@ now 732
 . desc, fullnames
 
 {txt}Contains data from {res}CovidVisualizedCountry merge.dta
-{txt}  obs:{res}        12,833                          
-{txt} vars:{res}         2,188                          13 May 2022 07:58
-{txt} size:{res}    97,954,289                          
+{txt}  obs:{res}        12,861                          
+{txt} vars:{res}         2,188                          20 May 2022 12:52
+{txt} size:{res}    98,026,542                          
 {txt}{hline}
               storage   display    value
 variable name   type    format     label      variable label
@@ -1491,7 +1492,7 @@ variable name   type    format     label      variable label
 {p 0 48}DayDeaUpRaA01S00XON{p_end}
 {p 0 48}{space 15}{txt}{bind: int     }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}DayDeaUpRaA01S00 Ontario{p_end}
 {p 0 48}DayDeaUpRaA01S00XQC{p_end}
-{p 0 48}{space 15}{txt}{bind: byte    }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}DayDeaUpRaA01S00 Quebec{p_end}
+{p 0 48}{space 15}{txt}{bind: int     }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}DayDeaUpRaA01S00 Quebec{p_end}
 {p 0 48}DayDeaUpRaA01S00XSK{p_end}
 {p 0 48}{space 15}{txt}{bind: byte    }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}DayDeaUpRaA01S00 Saskatchewan{p_end}
 {p 0 48}DayCasMeRaA01S00XAB{p_end}
@@ -5196,7 +5197,7 @@ variable name   type    format     label      variable label
 {p 0 48}DayDERMeRaA03S03{p_end}
 {p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}Daily Deaths estim to reported Mean S3 IMPE{p_end}
 {p 0 48}DayDERMeRaA05S00{p_end}
-{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}Daily Deaths estim to reported S0 SRIV{p_end}
+{p 0 48}{space 15}{txt}{bind: byte    }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}Daily Deaths estim to reported S0 SRIV{p_end}
 {p 0 48}DayCERMeRaA00S00{p_end}
 {p 0 48}{space 15}{txt}{bind: byte    }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}Daily Cases estim to reported JOHN = 1{p_end}
 {p 0 48}DayCERMeRaA01S00{p_end}
@@ -5214,7 +5215,7 @@ variable name   type    format     label      variable label
 {p 0 48}DayIERMeRaA03S03{p_end}
 {p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}Daily infections estim to reported cases Mean S3 IMPE{p_end}
 {p 0 48}DayCERMeRaA05S00{p_end}
-{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}Daily Cases estim to reported S0 SRIV{p_end}
+{p 0 48}{space 15}{txt}{bind: byte    }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}Daily Cases estim to reported S0 SRIV{p_end}
 {p 0 48}TotDERMeRaA00S00{p_end}
 {p 0 48}{space 15}{txt}{bind: byte    }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}Total Deaths estim to reported JOHN = 1{p_end}
 {p 0 48}TotDERMeRaA01S00{p_end}
@@ -5232,7 +5233,7 @@ variable name   type    format     label      variable label
 {p 0 48}TotDERMeRaA03S03{p_end}
 {p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}Total Deaths estim to reported Mean S3 IMPE{p_end}
 {p 0 48}TotDERMeRaA05S00{p_end}
-{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}Total Deaths estim to reported S0 SRIV{p_end}
+{p 0 48}{space 15}{txt}{bind: byte    }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}Total Deaths estim to reported S0 SRIV{p_end}
 {p 0 48}TotCERMeRaA00S00{p_end}
 {p 0 48}{space 15}{txt}{bind: byte    }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}Total Cases estim to reported JOHN = 1{p_end}
 {p 0 48}TotCERMeRaA01S00{p_end}
@@ -5250,7 +5251,7 @@ variable name   type    format     label      variable label
 {p 0 48}TotIERMeRaA03S03{p_end}
 {p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}Total infections estim to reported cases Mean S3 IMPE{p_end}
 {p 0 48}TotCERMeRaA05S00{p_end}
-{p 0 48}{space 15}{txt}{bind: float   }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}Total Cases estim to reported S0 SRIV{p_end}
+{p 0 48}{space 15}{txt}{bind: byte    }{bind:{txt}%9.0g     }{space 1}{bind:         }{bind:  }{res}{res}Total Cases estim to reported S0 SRIV{p_end}
 {p 0 48}provincestate_mostaffected{p_end}
 {p 0 48}{space 15}{txt}{bind: str16   }{bind:{txt}%16s      }{space 1}{bind:         }{bind:  }{res}{res}{p_end}
 {txt}{hline}
@@ -5274,7 +5275,7 @@ Sorted by: {res}loc_grand_name  provincestate  date
 
 {txt}    Variable {c |}        Obs        Mean    Std. Dev.       Min        Max
 {hline 13}{c +}{hline 57}
-{space 8}date {c |}{res}     12,833    22393.62    266.8543      21915      22889
+{space 8}date {c |}{res}     12,861    22394.46    267.1745      21915      22889
 {txt}
 {com}. 
 . gen mergemaxdate = r(max)
@@ -5285,7 +5286,7 @@ Sorted by: {res}loc_grand_name  provincestate  date
 {txt}
 {com}. 
 . replace monthspast01jan2020merge = round(monthspast01jan2020merge)
-{txt}(12,833 real changes made)
+{txt}(12,861 real changes made)
 
 {com}. 
 . global monthspast01jan2020merge = monthspast01jan2020merge
@@ -5301,7 +5302,7 @@ Sorted by: {res}loc_grand_name  provincestate  date
 {txt}
 {com}. 
 . replace monthspast01jan2021merge = round(monthspast01jan2021merge)
-{txt}(12,833 real changes made)
+{txt}(12,861 real changes made)
 
 {com}. 
 . global monthspast01jan2021merge = monthspast01jan2021merge
@@ -5317,7 +5318,7 @@ Sorted by: {res}loc_grand_name  provincestate  date
 {txt}
 {com}. 
 . replace monthspast01jan2022merge = round(monthspast01jan2022merge)
-{txt}(12,833 real changes made)
+{txt}(12,861 real changes made)
 
 {com}. 
 . global monthspast01jan2022merge = monthspast01jan2022merge
@@ -6230,7 +6231,7 @@ color,  default attributes used)
 {txt}
 {com}. 
 . replace DayITCMeSmA02S01XXXsm_median = round(DayITCMeSmA02S01XXXsm_median)
-{txt}(12,833 real changes made)
+{txt}(12,861 real changes made)
 
 {com}. 
 . local DayITCMeSmA02S01XXXsm_median = DayITCMeSmA02S01XXXsm_median
@@ -6268,7 +6269,7 @@ color,  default attributes used)
 {txt}
 {com}. 
 . replace DayITCMeSmA02S01XABsm_median = round(DayITCMeSmA02S01XABsm_median)
-{txt}(12,833 real changes made)
+{txt}(12,861 real changes made)
 
 {com}. 
 . local DayITCMeSmA02S01XABsm_median = DayITCMeSmA02S01XABsm_median
@@ -6302,7 +6303,7 @@ color,  default attributes used)
 {txt}
 {com}. 
 . replace DayITCMeSmA02S01XBCsm_median = round(DayITCMeSmA02S01XBCsm_median)
-{txt}(12,833 real changes made)
+{txt}(12,861 real changes made)
 
 {com}. 
 . local DayITCMeSmA02S01XBCsm_median = DayITCMeSmA02S01XBCsm_median
@@ -6336,7 +6337,7 @@ color,  default attributes used)
 {txt}
 {com}. 
 . replace DayITCMeSmA02S01XMBsm_median = round(DayITCMeSmA02S01XMBsm_median)
-{txt}(12,833 real changes made)
+{txt}(12,861 real changes made)
 
 {com}. 
 . local DayITCMeSmA02S01XMBsm_median = DayITCMeSmA02S01XMBsm_median
@@ -6370,7 +6371,7 @@ color,  default attributes used)
 {txt}
 {com}. 
 . replace DayITCMeSmA02S01XNSsm_median = round(DayITCMeSmA02S01XNSsm_median)
-{txt}(12,833 real changes made)
+{txt}(12,861 real changes made)
 
 {com}. 
 . local DayITCMeSmA02S01XNSsm_median = DayITCMeSmA02S01XNSsm_median
@@ -6405,7 +6406,7 @@ color,  default attributes used)
 {txt}
 {com}. 
 . replace DayITCMeSmA02S01XONsm_median = round(DayITCMeSmA02S01XONsm_median)
-{txt}(12,833 real changes made)
+{txt}(12,861 real changes made)
 
 {com}. 
 . local DayITCMeSmA02S01XONsm_median = DayITCMeSmA02S01XONsm_median
@@ -6439,7 +6440,7 @@ color,  default attributes used)
 {txt}
 {com}. 
 . replace DayITCMeSmA02S01XQCsm_median = round(DayITCMeSmA02S01XQCsm_median)
-{txt}(12,833 real changes made)
+{txt}(12,861 real changes made)
 
 {com}. 
 . local DayITCMeSmA02S01XQCsm_median = DayITCMeSmA02S01XQCsm_median
@@ -6473,7 +6474,7 @@ color,  default attributes used)
 {txt}
 {com}. 
 . replace DayITCMeSmA02S01XSKsm_median = round(DayITCMeSmA02S01XSKsm_median)
-{txt}(12,833 real changes made)
+{txt}(12,861 real changes made)
 
 {com}. 
 . local DayITCMeSmA02S01XSKsm_median = DayITCMeSmA02S01XSKsm_median
@@ -9332,9 +9333,9 @@ color,  default attributes used)
 {com}. 
 . log close
       {txt}name:  {res}<unnamed>
-       {txt}log:  {res}/Users/farshadpourmalek/Downloads/CovidVisualizedCountry-main/20220513/code/merge/log CovidVisualizedCountry merge.smcl
+       {txt}log:  {res}/Users/farshadpourmalek/Downloads/CovidVisualizedCountry-main/20220520/code/merge/log CovidVisualizedCountry merge.smcl
   {txt}log type:  {res}smcl
- {txt}closed on:  {res}13 May 2022, 08:05:03
+ {txt}closed on:  {res}20 May 2022, 13:07:27
 {txt}{.-}
 {smcl}
 {txt}{sf}{ul off}
