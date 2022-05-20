@@ -485,6 +485,7 @@ IMPE update 20220315 was released on 20220505 and is > 60 days old on 20220520. 
 
 (4d) Nova Scotia [Daily cases, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220520/output/SUB5%2032eDayCasMERGsub%202022%20Nova%20Scotia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Nova%20Scotia%2C%20reference%20scenarios%2C%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/169624721-a15bf18e-312d-4e99-8d9d-8dfad3f79e03.png)
 
 ****
 
@@ -546,6 +547,7 @@ IMPE update 20220315 was released on 20220505 and is > 60 days old on 20220520. 
 
 (4d) Ontario [Daily cases, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220520/output/SUB5%2032eDayCasMERGsub%202022%20Ontario%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/169624757-c13611fb-d4a7-4cff-bbe2-31d526e409d5.png)
 
 ****
 
@@ -609,6 +611,7 @@ IMPE update 20220315 was released on 20220505 and is > 60 days old on 20220520. 
 
 (4d) Quebec [Daily cases, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220520/output/SUB5%2032eDayCasMERGsub%202022%20Quebec%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/169624810-5954f115-4ada-479c-8f84-0cde009d0a85.png)
 
 ****
 
