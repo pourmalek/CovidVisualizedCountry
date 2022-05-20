@@ -385,6 +385,7 @@ IMPE update 20220315 was released on 20220505 and is > 60 days old on 20220520. 
 
 (2c) Manitoba [Daily deaths, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220520/output/SUB2%2012dDayDeaMERGsub%202022%20Manitoba%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios%2C%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/169624301-f90e7b5d-5327-4354-8161-0efeade90ebe.png)
  
 ****
 
