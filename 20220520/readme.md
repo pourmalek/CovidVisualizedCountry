@@ -325,6 +325,7 @@ IMPE update 20220315 was released on 20220505 and is > 60 days old on 20220520. 
 
 (2c) British Columbia [Daily deaths, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220520/output/SUB2%2012dDayDeaMERGsub%202022%20British%20Columbia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/169624332-bfbdc569-9e41-456b-9b13-1e98383725f9.png)
  
 ****
 
