@@ -645,6 +645,7 @@ IMPE update 20220315 was released on 20220505 and is > 60 days old on 20220520. 
 
 (2c) Saskatchewan [Daily deaths, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220520/output/SUB2%2012dDayDeaMERGsub%202022%20Saskatchewan%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Saskatchewan%2C%20reference%20scenarios%2C%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/169624568-ef726b22-316a-414f-8a2a-cd754e12d2ee.png)
  
 ****
 
