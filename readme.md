@@ -4,6 +4,10 @@
 
 ! Read the Canada COVID-19 epidemic models situation report No 48 - 2022-05-20 [here](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/48%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2048%20-%202022-05-20.pdf)
 
+<br/><br/>
+
+![image](https://user-images.githubusercontent.com/30849720/169627616-b3e51a9b-4c37-46fc-9086-e3e72d559099.png)
+
 
 <br/><br/>
 
