@@ -175,7 +175,7 @@ The SRIV model predicts rise in daily deaths at the national level starting from
 
 (1) **MONKEY POX:** Status uncertain. 
 
-(2) **FOOD SCARCITY** and malnutrition plus additional unaffordability of health services culminate in epidemics of nutritional, infectious, and non-communicable diseases in many countries, probably resulting in a new pandemic. 
+(2) **FOOD SCARCITY** and malnutrition plus **WATER SCARCITY** and **WEATHER CALAMITIES** culminate in epidemics of nutritional, infectious, and non-communicable diseases in many countries, probably resulting in a new pandemic.  
 
 <br/><br/>
 
