@@ -6,8 +6,7 @@
 
 <br/><br/>
 
-![image](https://user-images.githubusercontent.com/30849720/169627616-b3e51a9b-4c37-46fc-9086-e3e72d559099.png)
-
+![image](https://user-images.githubusercontent.com/30849720/169627841-ac36c58e-cc72-411c-8bc9-8c4e14ec0b42.png)
 
 <br/><br/>
 
