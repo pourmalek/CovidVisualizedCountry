@@ -32,8 +32,17 @@ graph (4c) Alberta - [Daily cases, Reference scenario, 2022 on, with JOHN raw](h
   
 #### graph (1) Alberta - Daily deaths, reference scenarios, all time
 
+ 
+
+
+
   
-  
+
+*
+
+**uptake 20220513**: **_DELP 20220512_**, IHME 20220506, No IMPE, **_SRIV 20220508_** || Days old: DELP 1, IHME 7, IMPE 60, SRIV 5
+
+
 
 *
 
@@ -216,6 +225,12 @@ graph (4c) Alberta - [Daily cases, Reference scenario, 2022 on, with JOHN raw](h
 
 *
 
+**uptake 20220513**: **_DELP 20220512_**, IHME 20220506, No IMPE, **_SRIV 20220508_** || Days old: DELP 1, IHME 7, IMPE 60, SRIV 5
+
+
+
+*
+
 **uptake 20220506**: **_DELP 20220502_**, **_IHME 20220506_**, **_IMPE 20220315_**, **_SRIV 20220502_**, **_WHO 20220505_** || Days old: DELP 4, IHME 0, IMPE 53, SRIV 4, WHO 1, No PHAC
 
 (2) Alberta [Daily deaths, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220506/output/SUB2%2012bDayDeaMERGsub%202021%20Alberta%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios%2C%202021.pdf)
@@ -387,6 +402,12 @@ graph (4c) Alberta - [Daily cases, Reference scenario, 2022 on, with JOHN raw](h
 
 *
 
+**uptake 20220513**: **_DELP 20220512_**, IHME 20220506, No IMPE, **_SRIV 20220508_** || Days old: DELP 1, IHME 7, IMPE 60, SRIV 5
+
+
+
+*
+
 (2b) Alberta [Daily deaths, Reference scenario, 2022 on, with JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220506/output/SUB2%2012cDayDeaMERGsub%202022%20Alberta%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios%2C%202022.pdf)
 
 ![image](https://user-images.githubusercontent.com/30849720/167329518-497af140-3253-48e6-99f9-5476812f714c.png)
@@ -417,6 +438,12 @@ graph (4c) Alberta - [Daily cases, Reference scenario, 2022 on, with JOHN raw](h
   
   
   
+
+
+*
+
+**uptake 20220513**: **_DELP 20220512_**, IHME 20220506, No IMPE, **_SRIV 20220508_** || Days old: DELP 1, IHME 7, IMPE 60, SRIV 5
+
 
 
 *
@@ -482,6 +509,12 @@ graph (4c) Alberta - [Daily cases, Reference scenario, 2022 on, with JOHN raw](h
   
   
   
+
+
+*
+
+**uptake 20220513**: **_DELP 20220512_**, IHME 20220506, No IMPE, **_SRIV 20220508_** || Days old: DELP 1, IHME 7, IMPE 60, SRIV 5
+
 
 
 *
@@ -660,6 +693,12 @@ graph (4c) Alberta - [Daily cases, Reference scenario, 2022 on, with JOHN raw](h
 
 *
 
+**uptake 20220513**: **_DELP 20220512_**, IHME 20220506, No IMPE, **_SRIV 20220508_** || Days old: DELP 1, IHME 7, IMPE 60, SRIV 5
+
+
+
+*
+
 **uptake 20220506**: **_DELP 20220502_**, **_IHME 20220506_**, **_IMPE 20220315_**, **_SRIV 20220502_**, **_WHO 20220505_** || Days old: DELP 4, IHME 0, IMPE 53, SRIV 4, WHO 1, No PHAC
 
 (4) Alberta [Daily cases or infections, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220506/output/SUB5%2032bDayCasMERGsub%202021%20Alberta%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios%2C%202021.pdf)
@@ -831,6 +870,12 @@ graph (4c) Alberta - [Daily cases, Reference scenario, 2022 on, with JOHN raw](h
 
 *
 
+**uptake 20220513**: **_DELP 20220512_**, IHME 20220506, No IMPE, **_SRIV 20220508_** || Days old: DELP 1, IHME 7, IMPE 60, SRIV 5
+
+
+
+*
+
 **uptake 20220506**: **_DELP 20220502_**, **_IHME 20220506_**, **_IMPE 20220315_**, **_SRIV 20220502_**, **_WHO 20220505_** || Days old: DELP 4, IHME 0, IMPE 53, SRIV 4, WHO 1, No PHAC
 
 (4b) Alberta [Daily cases or infections, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220506/output/SUB5%2032cDayCasMERGsub%202022%20Alberta%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios%2C%202022.pdf)
@@ -894,6 +939,12 @@ graph (4c) Alberta - [Daily cases, Reference scenario, 2022 on, with JOHN raw](h
 
 *
 
+**uptake 20220513**: **_DELP 20220512_**, IHME 20220506, No IMPE, **_SRIV 20220508_** || Days old: DELP 1, IHME 7, IMPE 60, SRIV 5
+
+
+
+*
+
 **uptake 20220506**: **_DELP 20220502_**, **_IHME 20220506_**, **_IMPE 20220315_**, **_SRIV 20220502_**, **_WHO 20220505_** || Days old: DELP 4, IHME 0, IMPE 53, SRIV 4, WHO 1, No PHAC
 
 (4c) Alberta [Daily cases, Reference scenario, 2022 on, with JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220506/output/SUB5%2032dDayCasMERGsub%202022%20Alberta%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios%2C%202022.pdf)
@@ -924,6 +975,12 @@ graph (4c) Alberta - [Daily cases, Reference scenario, 2022 on, with JOHN raw](h
   
   
   
+
+
+
+*
+
+**uptake 20220513**: **_DELP 20220512_**, IHME 20220506, No IMPE, **_SRIV 20220508_** || Days old: DELP 1, IHME 7, IMPE 60, SRIV 5
 
 
 
