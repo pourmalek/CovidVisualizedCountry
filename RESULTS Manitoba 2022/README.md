@@ -39,6 +39,9 @@ graph (4b) Manitoba - [Daily cases or infections, Reference scenario, 2022 on](h
 
 **uptake 20220506**: **_DELP 20220502_**, **_IHME 20220506_**, **_IMPE 20220315_**, **_SRIV 20220502_**, **_WHO 20220505_** || Days old: DELP 4, IHME 0, IMPE 53, SRIV 4, WHO 1, No PHAC
 
+(1) Manitoba [Daily deaths, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220506/output/SUB1%2011bDayDeaMERGsub%20alltime%20Manitoba%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios%2C%20all%20time.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/167411621-84371bd5-e096-4746-963e-25087fdc9df5.png)
 
 *
 
@@ -208,6 +211,9 @@ graph (4b) Manitoba - [Daily cases or infections, Reference scenario, 2022 on](h
 
 **uptake 20220506**: **_DELP 20220502_**, **_IHME 20220506_**, **_IMPE 20220315_**, **_SRIV 20220502_**, **_WHO 20220505_** || Days old: DELP 4, IHME 0, IMPE 53, SRIV 4, WHO 1, No PHAC
 
+(2) Manitoba [Daily deaths, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220506/output/SUB2%2012bDayDeaMERGsub%202021%20Manitoba%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios%2C%202021.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/167411806-851927a3-6f49-41cd-a8a5-c5e85a422ae5.png)
 
 *
 
@@ -377,6 +383,9 @@ graph (4b) Manitoba - [Daily cases or infections, Reference scenario, 2022 on](h
 
 **uptake 20220506**: **_DELP 20220502_**, **_IHME 20220506_**, **_IMPE 20220315_**, **_SRIV 20220502_**, **_WHO 20220505_** || Days old: DELP 4, IHME 0, IMPE 53, SRIV 4, WHO 1, No PHAC
 
+(2b) Manitoba [Daily deaths, Reference scenario, 2022 on, with JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220506/output/SUB2%2012cDayDeaMERGsub%202022%20Manitoba%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios%2C%202022.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/167408337-31fc7c0c-9dc9-4f8c-a9ef-236a5ed47573.png)
 
 *
 
@@ -435,6 +444,9 @@ graph (4b) Manitoba - [Daily cases or infections, Reference scenario, 2022 on](h
 
 **uptake 20220506**: **_DELP 20220502_**, **_IHME 20220506_**, **_IMPE 20220315_**, **_SRIV 20220502_**, **_WHO 20220505_** || Days old: DELP 4, IHME 0, IMPE 53, SRIV 4, WHO 1, No PHAC
 
+(3) Manitoba [Daily cases or infections, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220506/output/SUB4%2031bDayCasMERGsub%20alltime%20Manitoba%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/167411937-2d035c16-c6ab-4f80-940a-888c083db949.png)
 
 *
 
@@ -605,6 +617,9 @@ graph (4b) Manitoba - [Daily cases or infections, Reference scenario, 2022 on](h
 
 **uptake 20220506**: **_DELP 20220502_**, **_IHME 20220506_**, **_IMPE 20220315_**, **_SRIV 20220502_**, **_WHO 20220505_** || Days old: DELP 4, IHME 0, IMPE 53, SRIV 4, WHO 1, No PHAC
 
+(4) Manitoba [Daily cases or infections, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220506/output/SUB5%2032bDayCasMERGsub%202021%20Manitoba%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios%2C%202021.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/167412053-db86aac2-9462-49c4-ad4d-83f172c62539.png)
 
 *
 
@@ -774,6 +789,9 @@ graph (4b) Manitoba - [Daily cases or infections, Reference scenario, 2022 on](h
 
 **uptake 20220506**: **_DELP 20220502_**, **_IHME 20220506_**, **_IMPE 20220315_**, **_SRIV 20220502_**, **_WHO 20220505_** || Days old: DELP 4, IHME 0, IMPE 53, SRIV 4, WHO 1, No PHAC
 
+(4b) Manitoba [Daily cases or infections, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220506/output/SUB5%2032cDayCasMERGsub%202022%20Manitoba%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios%2C%202022.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/167427664-cb36d7c0-509e-4337-8a86-e4d4b2a1a5a5.png)
 
 *
 
