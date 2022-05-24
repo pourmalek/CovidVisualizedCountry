@@ -32,6 +32,9 @@ graph (4b) Ontario - [Daily cases or infections, Reference scenario, 2022 on](ht
 
 **uptake 20220506**: **_DELP 20220502_**, **_IHME 20220506_**, **_IMPE 20220315_**, **_SRIV 20220502_**, **_WHO 20220505_** || Days old: DELP 4, IHME 0, IMPE 53, SRIV 4, WHO 1, No PHAC
 
+(1) Ontario [Daily deaths, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220506/output/SUB1%2011bDayDeaMERGsub%20alltime%20Ontario%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%20all%20time.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/167421044-2b316687-bee1-4f0a-acbf-5b4c58ab71dc.png)
 
 *
 
@@ -203,6 +206,9 @@ graph (4b) Ontario - [Daily cases or infections, Reference scenario, 2022 on](ht
 
 **uptake 20220506**: **_DELP 20220502_**, **_IHME 20220506_**, **_IMPE 20220315_**, **_SRIV 20220502_**, **_WHO 20220505_** || Days old: DELP 4, IHME 0, IMPE 53, SRIV 4, WHO 1, No PHAC
 
+(2) Ontario [Daily deaths, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220506/output/SUB2%2012bDayDeaMERGsub%202021%20Ontario%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202021.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/167421178-c42fc450-54ab-4eb3-ab3f-8112f4a5361a.png)
 
 *
 
@@ -374,6 +380,9 @@ graph (4b) Ontario - [Daily cases or infections, Reference scenario, 2022 on](ht
 
 **uptake 20220506**: **_DELP 20220502_**, **_IHME 20220506_**, **_IMPE 20220315_**, **_SRIV 20220502_**, **_WHO 20220505_** || Days old: DELP 4, IHME 0, IMPE 53, SRIV 4, WHO 1, No PHAC
 
+(2b) Ontario [Daily deaths, Reference scenario, 2022 on, with JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220506/output/SUB2%2012cDayDeaMERGsub%202022%20Ontario%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202022.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/167408728-a006caf6-8973-4ed5-a2e5-c5a203c2ae5d.png)
 
 *
 
@@ -436,6 +445,9 @@ graph (4b) Ontario - [Daily cases or infections, Reference scenario, 2022 on](ht
 
 **uptake 20220506**: **_DELP 20220502_**, **_IHME 20220506_**, **_IMPE 20220315_**, **_SRIV 20220502_**, **_WHO 20220505_** || Days old: DELP 4, IHME 0, IMPE 53, SRIV 4, WHO 1, No PHAC
 
+(3) Ontario [Daily cases or infections, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220506/output/SUB4%2031bDayCasMERGsub%20alltime%20Ontario%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/167421321-d5903e25-1f2f-4e2c-8776-3515cb93deda.png)
 
 *
 
@@ -610,6 +622,9 @@ graph (4b) Ontario - [Daily cases or infections, Reference scenario, 2022 on](ht
 
 **uptake 20220506**: **_DELP 20220502_**, **_IHME 20220506_**, **_IMPE 20220315_**, **_SRIV 20220502_**, **_WHO 20220505_** || Days old: DELP 4, IHME 0, IMPE 53, SRIV 4, WHO 1, No PHAC
 
+(4) Ontario [Daily cases or infections, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220506/output/SUB5%2032bDayCasMERGsub%202021%20Ontario%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202021.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/167421458-1bb68670-9ae0-4770-b8d3-2dc5b14b1209.png)
 
 *
 
@@ -778,6 +793,9 @@ graph (4b) Ontario - [Daily cases or infections, Reference scenario, 2022 on](ht
 
 **uptake 20220506**: **_DELP 20220502_**, **_IHME 20220506_**, **_IMPE 20220315_**, **_SRIV 20220502_**, **_WHO 20220505_** || Days old: DELP 4, IHME 0, IMPE 53, SRIV 4, WHO 1, No PHAC
 
+(4b) Ontario [Daily cases or infections, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220506/output/SUB5%2032cDayCasMERGsub%202022%20Ontario%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202022.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/167430015-d66b11f6-8a6a-4942-acb0-480a81d53ecb.png)
 
 *
 
