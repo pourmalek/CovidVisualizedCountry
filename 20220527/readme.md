@@ -14,7 +14,10 @@ IMPE update 20220315 was released on 20220505 and is > 60 days old on 20220527. 
 
 **REPORTED DEATHS:**
 
-The current level of reported daily deaths at the national level has been around 70 since mid-April, composed of declining daily deaths in Ontario of Quebec, and rising daily deaths in Alberta and British Columbia. This high level of reported daily deaths since mid-April was seen only during the first wave of omicron (January 2022), the second national wave in winter 2021, and the first national wave spring 2000. In short, daily deaths are high. They are increasing in Alberta, British Columbia, and Manitoba. 
+Reported daily deaths are increasing in Alberta and British Columbia. 
+
+The current level of reported daily deaths at the national level has been around 70 since mid-April, composed of declining daily deaths in Ontario of Quebec, and rising daily deaths in Alberta and British Columbia. This high level of reported daily deaths since mid-April was seen only during the first wave of omicron (January 2022), the second national wave in winter 2021, and the first national wave spring 2000. In short, daily deaths are high. 
+
 
 **PREDICTED DEATHS:**
 
