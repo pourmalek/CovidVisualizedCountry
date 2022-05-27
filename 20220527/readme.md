@@ -277,6 +277,7 @@ The SRIV model predicts rise in daily deaths at the national level starting from
 
 (2c) Alberta [Daily deaths, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220527/output/SUB2%2012dDayDeaMERGsub%202022%20Alberta%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios%2C%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/170800579-66ddb677-2a9d-4a6a-9c84-b33669d5c46c.png)
  
 ****
 
@@ -302,6 +303,7 @@ The SRIV model predicts rise in daily deaths at the national level starting from
 
 (4e) Alberta [Daily cases, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220527/output/SUB5%2032eDayCasMERGsub%202022%20Alberta%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios%2C%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/170800607-106927dc-558f-4117-bdeb-2382eb349669.png)
  
 ****
 
