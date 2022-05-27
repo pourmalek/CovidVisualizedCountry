@@ -32,6 +32,12 @@ graph (4b) British Columbia - [Daily cases or infections, Reference scenario, 20
 
 *
 
+**uptake 20220513**: **_DELP 20220512_**, IHME 20220506, No IMPE, **_SRIV 20220508_** || Days old: DELP 1, IHME 7, IMPE 60, SRIV 5
+
+
+
+*
+
 **uptake 20220506**: **_DELP 20220502_**, **_IHME 20220506_**, **_IMPE 20220315_**, **_SRIV 20220502_**, **_WHO 20220505_** || Days old: DELP 4, IHME 0, IMPE 53, SRIV 4, WHO 1, No PHAC
 
 
@@ -194,7 +200,7 @@ graph (4b) British Columbia - [Daily cases or infections, Reference scenario, 20
 
 
 
-*
+
 
 **uptake 20220506**: **_DELP 20220502_**, **_IHME 20220506_**, **_IMPE 20220315_**, **_SRIV 20220502_**, **_WHO 20220505_** || Days old: DELP 4, IHME 0, IMPE 53, SRIV 4, WHO 1, No PHAC
 
