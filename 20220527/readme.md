@@ -21,7 +21,7 @@ The current level of reported daily deaths at the national level has been around
 
 **PREDICTED DEATHS:**
 
-The SRIV model predicts rise in daily deaths at the national level starting from July 2022, with levels above 100 in late August. 
+The SRIV model predicts rise in daily deaths at the national level starting from July 2022, with levels short of 200 in late August. 
 
 <br/><br/>
 
