@@ -536,6 +536,7 @@ The SRIV model predicts rise in daily deaths at the national level starting from
 
 (2c) Ontario [Daily deaths, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220527/output/SUB2%2012dDayDeaMERGsub%202022%20Ontario%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/170800903-97a09760-79b7-4cfa-97b8-84091c64080e.png)
  
 ****
 
@@ -561,6 +562,7 @@ The SRIV model predicts rise in daily deaths at the national level starting from
 
 (4d) Ontario [Daily cases, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220527/output/SUB5%2032eDayCasMERGsub%202022%20Ontario%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/170800931-46a6ce6f-8d0c-4fc9-b298-12e68f55719f.png)
 
 ****
 
@@ -598,6 +600,7 @@ The SRIV model predicts rise in daily deaths at the national level starting from
 
 (2c) Quebec [Daily deaths, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220527/output/SUB2%2012dDayDeaMERGsub%202022%20Quebec%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/170800961-9a4409db-46ec-41ce-aaa0-a88068ee117a.png)
  
 ****
 
@@ -623,6 +626,7 @@ The SRIV model predicts rise in daily deaths at the national level starting from
 
 (4d) Quebec [Daily cases, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220527/output/SUB5%2032eDayCasMERGsub%202022%20Quebec%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/170800988-5d936b10-10bb-4a89-9240-69a51d42ae00.png)
 
 ****
 
