@@ -146,35 +146,38 @@ JOHN: Johns Hopkins. The coronavirus resource center, Johns Hopkins University, 
 ********************************************************************************************************************************************
 ********************************************************************************************************************************************
 
-### LATEST UPTAKE: uptake [`20220520`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20220520)
+### LATEST UPTAKE: uptake [`20220527`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20220527)
   
-### Study update dates in uptake 20220520  
+### Study update dates in uptake 20220527  
 
-**_DELP 20220520_**, IHME 20220506, No IMPE, **_SRIV 20220520_**  
+**_DELP 20220527_**, IHME 20220506, No IMPE, **_SRIV 20220522_**  
 
-Days old: DELP 0, IHME 14, IMPE 67, SRIV 0
+Days old: DELP 0, IHME 14, IMPE 67, SRIV 5
 
-IMPE update 20220315 was released on 20220505 and is > 60 days old on 20220520. Not included. 
+IMPE update 20220315 was released on 20220505 and is > 60 days old on 20220527. Not included. 
 
 <br/><br/>
 
-### Summary 20220520:
+<br/><br/>
+
+### Summary 20220527:
 
 **REPORTED DEATHS:**
 
-The current level of reported daily deaths at the national level has been around 70 since mid-April, composed of declining daily deaths in Ontario of Quebec, and rising daily deaths in Alberta and British Columbia. This high level of reported daily deaths since mid-April was seen only during the first wave of omicron (January 2022), the second national wave in winter 2021, and the first national wave spring 2000. In short, daily deaths are high. They are increasing in Alberta, British Columbia, and Manitoba. 
+Reported daily deaths are increasing in _Alberta_ and _British Columbia_. 
+
+The current level of reported daily deaths at the national level has been around 70 since mid-April, composed of declining daily deaths in Ontario of Quebec, and rising daily deaths in Alberta and British Columbia. This high level of reported daily deaths since mid-April was seen only during the first wave of omicron (January 2022), the second national wave in winter 2021, and the first national wave spring 2000. In short, daily deaths are high. 
+
 
 **PREDICTED DEATHS:**
 
-The SRIV model predicts rise in daily deaths at the national level starting from July 2022, with levels above 100 in late August. 
+The SRIV model predicts rise in daily deaths at the national level starting from July 2022, with levels short of 200 in late August. 
 
 <br/><br/>
 
 ### NEXT-DEMICS:
 
-(1) **MONKEY POX:** Status uncertain. 
-
-(2) **FOOD SCARCITY** and malnutrition plus **WATER SCARCITY** and **WEATHER CALAMITIES** culminate in epidemics of nutritional, infectious, and non-communicable diseases in many countries, probably resulting in a new pandemic.  
+![image](https://user-images.githubusercontent.com/30849720/169635515-332fb64e-ce9a-4cd2-b4b7-bb840f1bc01f.png)
 
 <br/><br/>
 
