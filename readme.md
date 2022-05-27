@@ -1213,14 +1213,17 @@ and /20220318/ denotes the date of uptake.
 . 
   
 
-### Study update dates in uptake 20220513 
 
-
-### Study update dates in uptake 20220520  
 
   
 
 
+
+
+
+
+  
+(63) uptake [`20220527`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20220527): **_DELP 20220527_**, IHME 20220506, No IMPE, **_SRIV 20220522_**   || Days old: DELP 0, IHME 14, IMPE 67, SRIV 5
   
 (62) uptake [`20220520`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20220520): **_DELP 20220520_**, IHME 20220506, No IMPE, **_SRIV 20220520_** || Days old: DELP 0, IHME 14, IMPE 67, SRIV 0
   
