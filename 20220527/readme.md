@@ -402,6 +402,7 @@ The SRIV model predicts rise in daily deaths at the national level starting from
 
 (2c) Manitoba [Daily deaths, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220527/output/SUB2%2012dDayDeaMERGsub%202022%20Manitoba%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios%2C%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/170800754-c010d8d8-941c-48f7-bdef-f3a31319a0a8.png)
  
 ****
 
@@ -427,6 +428,7 @@ The SRIV model predicts rise in daily deaths at the national level starting from
 
 (4d) Manitoba [Daily cases, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220527/output/SUB5%2032eDayCasMERGsub%202022%20Manitoba%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios%2C%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/170800783-7679cadc-c4f9-4dfb-b847-defbbf1c0832.png)
 
 ****
 
@@ -472,6 +474,7 @@ The SRIV model predicts rise in daily deaths at the national level starting from
 
 (2c) Nova Scotia [Daily deaths, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220527/output/SUB2%2012dDayDeaMERGsub%202022%20Nova%20Scotia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Nova%20Scotia%2C%20reference%20scenarios%2C%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/170800822-9341befd-a594-4a9d-ba69-71d988067f05.png)
  
 ****
 
@@ -497,6 +500,7 @@ The SRIV model predicts rise in daily deaths at the national level starting from
 
 (4d) Nova Scotia [Daily cases, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220527/output/SUB5%2032eDayCasMERGsub%202022%20Nova%20Scotia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Nova%20Scotia%2C%20reference%20scenarios%2C%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/170800851-07bfe56f-ef3d-4e07-994b-9c51dbdfffb0.png)
 
 ****
 
