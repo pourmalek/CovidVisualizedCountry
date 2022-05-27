@@ -212,6 +212,7 @@ The SRIV model predicts rise in daily deaths at the national level starting from
 
 (9) Canada Provinces [Daily deaths, Reference scenario, IHME, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220527/output/graph%2022%20provinces%20C-19%20daily%20deaths%2C%20Canada%2C%20IHME%2C%202020%20on.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/170800462-d45ccf4f-86ca-4645-a8f5-fb249a6056ff.png)
  
 ****
 
@@ -237,6 +238,7 @@ The SRIV model predicts rise in daily deaths at the national level starting from
 
 (14) Canada Provinces [Daily infections, Reference scenario, IHME, 2022](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220527/output/graph%2027%20provinces%20C-19%20daily%20infections%2C%20Canada%2C%20IHME%2C%202022%20on.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/170800513-e1be6fa3-17ef-4411-a8c8-d93b1745381d.png)
  
 ****
 
