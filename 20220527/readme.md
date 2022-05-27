@@ -162,6 +162,7 @@ The SRIV model predicts rise in daily deaths at the national level starting from
 
 (1) Canada Provinces [Daily reported deaths, JOHN, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220527/output/graph%2001%20provinces%20C-19%20daily%20deaths%2C%20Canada%2C%20JOHN%202020.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/170800240-048c0470-5df0-42fd-a365-5e8eae00c143.png)
  
 ****
 
@@ -172,11 +173,13 @@ The SRIV model predicts rise in daily deaths at the national level starting from
 
 (3) Canada Provinces [Daily reported deaths, JOHN, 2022](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220527/output/graph%2003%20provinces%20C-19%20daily%20deaths%2C%20Canada%2C%20JOHN%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/170800276-e87645a2-d4c7-489e-9f18-c3331a4413ba.png)
  
 ****
 
 (4) Canada Provinces [Daily reported deaths, without National, Ontario, and Quebec, JOHN, 2022](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220527/output/graph%2004%20provinces%20C-19%20daily%20deaths%2C%20Canada%2C%20JOHN%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/170800303-93ccc4d8-7130-4f3f-9b95-b083e3e113dc.png)
  
 ****
 
