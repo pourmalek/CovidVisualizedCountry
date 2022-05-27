@@ -88,6 +88,7 @@ The SRIV model predicts rise in daily deaths at the national level starting from
 
 (3) Canada National [Daily cases or infections, Reference scenarios, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220527/output/CAN4%2031aDayCasMERGnat%20alltime%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20National%2C%20reference%20scenarios.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/170800143-8db5d8a1-43f3-4508-ab11-fb5fd09eeeb2.png)
  
 ****
 
@@ -98,6 +99,7 @@ The SRIV model predicts rise in daily deaths at the national level starting from
 
 (4b) Canada National [Daily cases or infections, All scenarios, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220527/output/CAN6%2034aaDayCasMERGnat%202021%203scen%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20National%2C%203%20scenarios%2C%202022%2C%20uncertainty.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/170800196-e3120f62-7ff2-4ff7-8d22-e7a972459ade.png)
  
 ****
 
