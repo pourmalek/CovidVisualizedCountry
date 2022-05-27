@@ -665,6 +665,7 @@ The SRIV model predicts rise in daily deaths at the national level starting from
 
 (2c) Saskatchewan [Daily deaths, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220527/output/SUB2%2012dDayDeaMERGsub%202022%20Saskatchewan%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Saskatchewan%2C%20reference%20scenarios%2C%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/170801040-da5a3b8e-f9fe-4f24-8673-0a27019e1ad8.png)
  
 ****
 
@@ -690,6 +691,7 @@ The SRIV model predicts rise in daily deaths at the national level starting from
 
 (4d) Saskatchewan [Daily cases, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220527/output/SUB5%2032eDayCasMERGsub%202022%20Saskatchewan%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Saskatchewan%2C%20reference%20scenarios%2C%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/170801078-5c1db9cd-93e4-472e-934a-b82fb388f7a5.png)
 
 ****
 
