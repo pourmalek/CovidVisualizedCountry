@@ -2,7 +2,7 @@
 
 ## ! THE MOST RECENT WEEKLY SITUATION REPORT, EVERY MONDAY MORNING, HERE:
 
-! Read the Canada COVID-19 epidemic models situation report No 48 - 2022-05-20 [here](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/48%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2048%20-%202022-05-20.pdf)
+! Read the Canada COVID-19 epidemic models situation report No 49 - 2022-05-27 [here](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/49%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2049%20-%202022-05-27.pdf)
 
 <br/><br/>
 
@@ -186,7 +186,7 @@ The SRIV model predicts rise in daily deaths at the national level starting from
 ******
 
   
-# :eyes: SEE: See Canada COVID-19 epidemic models situation report No 48 - 2022-05-20, [here](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/48%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2048%20-%202022-05-20.pdf)
+# :eyes: SEE: See Canada COVID-19 epidemic models situation report No 49 - 2022-05-27, [here](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/49%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2049%20-%202022-05-27.pdf)
 
 <br/><br/>
   
