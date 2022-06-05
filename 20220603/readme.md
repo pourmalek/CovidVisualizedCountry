@@ -2,17 +2,11 @@
 
 ### Study update dates in uptake 20220603  
 
-copy from covir2
+**_DELP 20220529_**, IHME 20220506, No IMPE, **_SRIV 20220603_** 
 
-<br/><br/>
+Days old: DELP 5, IHME 29, no IMPE, SRIV 0
 
-### Summary 20220603:
-
-<br/><br/>
-
-### NEXT-DEMICS:
-
-![image](https://user-images.githubusercontent.com/30849720/169635515-332fb64e-ce9a-4cd2-b4b7-bb840f1bc01f.png)
+IMPE update 20220315 was released on 20220505 and is > 60 days old on 20220603. Not included. 
 
 <br/><br/>
 
