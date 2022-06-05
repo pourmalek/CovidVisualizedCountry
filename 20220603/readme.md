@@ -579,6 +579,7 @@ IMPE update 20220315 was released on 20220505 and is > 60 days old on 20220603. 
 
 (2c) Quebec [Daily deaths, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220603/output/SUB2%2012dDayDeaMERGsub%202022%20Quebec%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/172033642-98e5f1d8-0fbf-4006-b139-c06715654c5f.png)
  
 ****
 
@@ -604,6 +605,7 @@ IMPE update 20220315 was released on 20220505 and is > 60 days old on 20220603. 
 
 (4d) Quebec [Daily cases, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220603/output/SUB5%2032eDayCasMERGsub%202022%20Quebec%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/172033661-e3674090-fb2f-4393-98ce-6d43c7ed99de.png)
 
 ****
 
@@ -642,6 +644,7 @@ IMPE update 20220315 was released on 20220505 and is > 60 days old on 20220603. 
 
 (2c) Saskatchewan [Daily deaths, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220603/output/SUB2%2012dDayDeaMERGsub%202022%20Saskatchewan%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Saskatchewan%2C%20reference%20scenarios%2C%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/172033691-cb50e1b3-8786-414e-a645-501d9f1b81e2.png)
  
 ****
 
@@ -667,6 +670,7 @@ IMPE update 20220315 was released on 20220505 and is > 60 days old on 20220603. 
 
 (4d) Saskatchewan [Daily cases, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220603/output/SUB5%2032eDayCasMERGsub%202022%20Saskatchewan%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Saskatchewan%2C%20reference%20scenarios%2C%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/172033711-4ca637b4-595e-4b6d-966d-235654e2a32c.png)
 
 ****
 
