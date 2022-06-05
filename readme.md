@@ -6,9 +6,6 @@
 
 <br/><br/>
 
-![image](https://user-images.githubusercontent.com/30849720/169628054-b972f5b8-f486-4fde-bfe6-8ae5b0901174.png)
-
-<br/><br/>
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5019482.svg)](https://doi.org/10.5281/zenodo.5019482)
@@ -146,42 +143,19 @@ JOHN: Johns Hopkins. The coronavirus resource center, Johns Hopkins University, 
 ********************************************************************************************************************************************
 ********************************************************************************************************************************************
 
-### LATEST UPTAKE: uptake [`20220527`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20220527)
+### LATEST UPTAKE: uptake [`20220603`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20220603)
   
-### Study update dates in uptake 20220527  
+### Study update dates in uptake 20220603  
 
-**_DELP 20220527_**, IHME 20220506, No IMPE, **_SRIV 20220522_**  
+**_DELP 20220529_**, IHME 20220506, No IMPE, **_SRIV 20220603_** 
 
-Days old: DELP 0, IHME 14, IMPE 67, SRIV 5
+Days old: DELP 5, IHME 29, no IMPE, SRIV 0
 
-IMPE update 20220315 was released on 20220505 and is > 60 days old on 20220527. Not included. 
-
-<br/><br/>
+IMPE update 20220315 was released on 20220505 and is > 60 days old on 20220603. Not included. 
 
 <br/><br/>
 
-### Summary 20220527:
 
-**REPORTED DEATHS:**
-
-Reported daily deaths are increasing in _Alberta_ and _British Columbia_. 
-
-The current level of reported daily deaths at the national level has been around 70 since mid-April, composed of declining daily deaths in Ontario of Quebec, and rising daily deaths in Alberta and British Columbia. This high level of reported daily deaths since mid-April was seen only during the first wave of omicron (January 2022), the second national wave in winter 2021, and the first national wave spring 2000. In short, daily deaths are high. 
-
-
-**PREDICTED DEATHS:**
-
-The SRIV model predicts rise in daily deaths at the national level starting from July 2022, with levels short of 200 in late August. 
-
-<br/><br/>
-
-### NEXT-DEMICS:
-
-![image](https://user-images.githubusercontent.com/30849720/169635515-332fb64e-ce9a-4cd2-b4b7-bb840f1bc01f.png)
-
-<br/><br/>
-
-  
   
 ******
 
@@ -1216,15 +1190,9 @@ and /20220318/ denotes the date of uptake.
 
 
 
-  
+(64) uptake [`20220603`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20220603): **_DELP 20220529_**, IHME 20220506, No IMPE, **_SRIV 20220603_** || Days old: DELP 5, IHME 29, no IMPE, SRIV 0
 
-
-
-
-
-
-  
-(63) uptake [`20220527`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20220527): **_DELP 20220527_**, IHME 20220506, No IMPE, **_SRIV 20220522_**   || Days old: DELP 0, IHME 14, IMPE 67, SRIV 5
+(63) uptake [`20220527`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20220527): **_DELP 20220527_**, IHME 20220506, No IMPE, **_SRIV 20220522_** || Days old: DELP 0, IHME 14, IMPE 67, SRIV 5
   
 (62) uptake [`20220520`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20220520): **_DELP 20220520_**, IHME 20220506, No IMPE, **_SRIV 20220520_** || Days old: DELP 0, IHME 14, IMPE 67, SRIV 0
   
