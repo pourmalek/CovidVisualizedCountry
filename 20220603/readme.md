@@ -319,6 +319,7 @@ IMPE update 20220315 was released on 20220505 and is > 60 days old on 20220603. 
 
 (2c) British Columbia [Daily deaths, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220603/output/SUB2%2012dDayDeaMERGsub%202022%20British%20Columbia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/172033484-63f40e09-75a1-46b5-8d83-6444b76b1c67.png)
  
 ****
 
@@ -344,6 +345,7 @@ IMPE update 20220315 was released on 20220505 and is > 60 days old on 20220603. 
 
 (4d) British Columbia [Daily cases, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220603/output/SUB5%2032eDayCasMERGsub%202022%20British%20Columbia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/172033502-5bf361d3-83fd-46b2-adcd-a59976aa28d0.png)
 
 ****
 
@@ -379,6 +381,7 @@ IMPE update 20220315 was released on 20220505 and is > 60 days old on 20220603. 
 
 (2c) Manitoba [Daily deaths, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220603/output/SUB2%2012dDayDeaMERGsub%202022%20Manitoba%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios%2C%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/172033519-425dc42d-38ef-4c16-99e6-a771b65f20e7.png)
  
 ****
 
@@ -404,6 +407,7 @@ IMPE update 20220315 was released on 20220505 and is > 60 days old on 20220603. 
 
 (4d) Manitoba [Daily cases, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220603/output/SUB5%2032eDayCasMERGsub%202022%20Manitoba%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios%2C%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/172033537-9464baa7-2855-4a15-b655-7c0d3f8f37df.png)
 
 ****
 
@@ -449,6 +453,7 @@ IMPE update 20220315 was released on 20220505 and is > 60 days old on 20220603. 
 
 (2c) Nova Scotia [Daily deaths, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220603/output/SUB2%2012dDayDeaMERGsub%202022%20Nova%20Scotia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Nova%20Scotia%2C%20reference%20scenarios%2C%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/172033567-6399fcda-1c46-4104-8e95-8a52bf2b8424.png)
  
 ****
 
@@ -474,6 +479,7 @@ IMPE update 20220315 was released on 20220505 and is > 60 days old on 20220603. 
 
 (4d) Nova Scotia [Daily cases, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220603/output/SUB5%2032eDayCasMERGsub%202022%20Nova%20Scotia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Nova%20Scotia%2C%20reference%20scenarios%2C%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/172033590-5616e2f6-2bfb-48bd-a349-8d6488ff6e54.png)
 
 ****
 
@@ -509,6 +515,7 @@ IMPE update 20220315 was released on 20220505 and is > 60 days old on 20220603. 
 
 (2c) Ontario [Daily deaths, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220603/output/SUB2%2012dDayDeaMERGsub%202022%20Ontario%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/172033600-3af0239b-e9a8-4b9c-bee3-58529e5b493a.png)
  
 ****
 
@@ -534,6 +541,7 @@ IMPE update 20220315 was released on 20220505 and is > 60 days old on 20220603. 
 
 (4d) Ontario [Daily cases, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220603/output/SUB5%2032eDayCasMERGsub%202022%20Ontario%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/172033614-29c1f339-6a0c-4f1f-b566-d116803c9812.png)
 
 ****
 
