@@ -256,6 +256,7 @@ IMPE update 20220315 was released on 20220505 and is > 60 days old on 20220603. 
 
 (2c) Alberta [Daily deaths, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220603/output/SUB2%2012dDayDeaMERGsub%202022%20Alberta%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios%2C%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/172033431-627d6c6f-44fa-4264-9ec9-365a391358bd.png)
  
 ****
 
@@ -281,6 +282,7 @@ IMPE update 20220315 was released on 20220505 and is > 60 days old on 20220603. 
 
 (4e) Alberta [Daily cases, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220603/output/SUB5%2032eDayCasMERGsub%202022%20Alberta%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios%2C%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/172033452-3b8ae055-baa6-452f-894a-7c96d9ef38a7.png)
  
 ****
 
