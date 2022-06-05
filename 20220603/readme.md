@@ -177,11 +177,13 @@ IMPE update 20220315 was released on 20220505 and is > 60 days old on 20220603. 
 
 (7) Canada Provinces [Daily reported cases, JOHN, 2022](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220603/output/graph%2007%20provinces%20C-19%20daily%20cases%2C%20Canada%2C%20JOHN%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/172030868-6beae30e-03db-4897-8b0e-90d43f196d21.png)
 
 ****
 
 (8) Canada Provinces [Daily reported cases, without National, Ontario, and Quebec, JOHN, 2022](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220603/output/graph%2008%20provinces%20C-19%20daily%20cases%2C%20Canada%2C%20JOHN%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/172030881-dd774ee9-caca-4d65-845a-89a2bc872c4c.png)
 
 ****
 
