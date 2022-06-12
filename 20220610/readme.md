@@ -330,6 +330,7 @@ A new IHME scenario, “Global antivirals”, has replaced the old scenario “V
 
 (2c) British Columbia [Daily deaths, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220610/output/SUB2%2012dDayDeaMERGsub%202022%20British%20Columbia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/173242152-9b8716b9-999d-4d72-9f10-b36aaff83d5a.png)
  
 ****
 
@@ -390,6 +391,7 @@ A new IHME scenario, “Global antivirals”, has replaced the old scenario “V
 
 (2c) Manitoba [Daily deaths, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220610/output/SUB2%2012dDayDeaMERGsub%202022%20Manitoba%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios%2C%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/173242190-dbe71920-d018-4a57-9bcf-47a87fb949fd.png)
  
 ****
 
@@ -460,6 +462,7 @@ A new IHME scenario, “Global antivirals”, has replaced the old scenario “V
 
 (2c) Nova Scotia [Daily deaths, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220610/output/SUB2%2012dDayDeaMERGsub%202022%20Nova%20Scotia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Nova%20Scotia%2C%20reference%20scenarios%2C%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/173242234-954c2a04-1089-44a7-b79c-f99b55b233e7.png)
  
 ****
 
