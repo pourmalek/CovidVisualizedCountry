@@ -10,7 +10,7 @@ IMPE update 20220315 was released on 20220505 and is > 120 days old on 20220610.
 
 <br/><br/> 
 
-A new IHME scenario, “Global antivirals”, has replaced the old scenario “Vaccine 3rd dose”. “Global antivirals” = Globally distributed antivirals extends coverage to all LMICs over the period of July 15, 2022, to September 15, 2022. 
+A new IHME scenario, “Global antivirals”, has replaced the old scenario “Vaccine 3rd dose”. “Global antivirals” = Globally distributed antivirals extends coverage to all LMICs over the period of July 15, 2022, to September 15, 2022.  
 
 
 <br/><br/> 
