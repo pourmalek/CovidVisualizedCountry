@@ -266,6 +266,7 @@ A new IHME scenario, “Global antivirals”, has replaced the old scenario “V
 
 (2c) Alberta [Daily deaths, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220610/output/SUB2%2012dDayDeaMERGsub%202022%20Alberta%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios%2C%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/173241915-b9adf6ce-0ea5-4de9-8935-4c8965d75c72.png)
  
 ****
 
@@ -281,6 +282,7 @@ A new IHME scenario, “Global antivirals”, has replaced the old scenario “V
 
 (4b) Alberta [Daily cases or infections, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220610/output/SUB5%2032cDayCasMERGsub%202022%20Alberta%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios%2C%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/173242018-1ea7f0ce-7926-4de9-b7ca-edb9619ebbbe.png)
  
 ****
 
@@ -291,6 +293,7 @@ A new IHME scenario, “Global antivirals”, has replaced the old scenario “V
 
 (4e) Alberta [Daily cases, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220610/output/SUB5%2032eDayCasMERGsub%202022%20Alberta%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios%2C%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/173241983-49f4c6fc-18a0-494c-a99d-0c3f5ba39d46.png)
  
 ****
 
