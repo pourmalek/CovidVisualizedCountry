@@ -606,6 +606,8 @@ A new IHME scenario, “Global antivirals”, has replaced the old scenario “V
 
 (4b) Quebec [Daily cases or infections, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220610/output/SUB5%2032cDayCasMERGsub%202022%20Quebec%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/173242583-8b4bc670-9440-4e2e-be3b-56333cb6dcc9.png)
+
 
 ****
 
@@ -670,6 +672,7 @@ A new IHME scenario, “Global antivirals”, has replaced the old scenario “V
 
 (4b) Saskatchewan [Daily cases or infections, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220610/output/SUB5%2032cDayCasMERGsub%202022%20Saskatchewan%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Saskatchewan%2C%20reference%20scenarios%2C%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/173242616-98a93ed9-4e3b-4031-b0ed-74a15e917371.png)
 
 ****
 
