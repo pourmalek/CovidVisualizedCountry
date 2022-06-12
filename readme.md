@@ -2,7 +2,7 @@
 
 ## ! THE MOST RECENT WEEKLY SITUATION REPORT, EVERY MONDAY MORNING, HERE:
 
-! Read the Canada COVID-19 epidemic models situation report No 50 - 2022-06-03 [here](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/50%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2050%20-%202022-06-03.pdf)
+! Read the Canada COVID-19 epidemic models situation report No 51 - 2022-06-10 [here](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/51%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2051%20-%202022-06-10.pdf)
 
 <br/><br/>
 
@@ -165,7 +165,7 @@ A new IHME scenario, “Global antivirals”, has replaced the old scenario “V
 ******
 
   
-# :eyes: SEE: See Canada COVID-19 epidemic models situation report No 50 - 2022-06-03, [here](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/50%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2050%20-%202022-06-03.pdf)
+# :eyes: SEE: See Canada COVID-19 epidemic models situation report No 51 - 2022-06-10, [here](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/51%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2051%20-%202022-06-10.pdf)
 
 <br/><br/>
   
