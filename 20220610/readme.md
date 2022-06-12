@@ -199,6 +199,7 @@ A new IHME scenario, “Global antivirals”, has replaced the old scenario “V
 
 (9) Canada Provinces [Daily deaths, Reference scenario, IHME, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220610/output/graph%2022%20provinces%20C-19%20daily%20deaths%2C%20Canada%2C%20IHME%2C%202020%20on.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/173241747-8434487e-950e-4984-b169-68b4dd8a3abe.png)
  
 ****
 
@@ -209,11 +210,13 @@ A new IHME scenario, “Global antivirals”, has replaced the old scenario “V
 
 (11) Canada Provinces [Daily deaths, Reference scenario, IHME, 2022](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220610/output/graph%2024%20provinces%20C-19%20daily%20deaths%2C%20Canada%2C%20IHME%2C%202022%20on.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/173241786-5f462347-39b2-422f-8db6-edc6678bf347.png)
  
 ****
 
 (12) Canada Provinces [Daily infections, Reference scenario, IHME, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220610/output/graph%2025%20provinces%20C-19%20daily%20infections%2C%20Canada%2C%20IHME%2C%202020%20on.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/173241818-70521b67-61d6-4e43-9596-808434703316.png)
  
 ****
 
@@ -224,6 +227,7 @@ A new IHME scenario, “Global antivirals”, has replaced the old scenario “V
 
 (14) Canada Provinces [Daily infections, Reference scenario, IHME, 2022](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220610/output/graph%2027%20provinces%20C-19%20daily%20infections%2C%20Canada%2C%20IHME%2C%202022%20on.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/173241862-8fcbf9c3-3771-45ed-bed6-64aa3b4c1e3f.png)
  
 ****
 
