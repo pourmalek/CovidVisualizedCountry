@@ -493,6 +493,7 @@ A new IHME scenario, “Global antivirals”, has replaced the old scenario “V
 
 (4d) Nova Scotia [Daily cases, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220610/output/SUB5%2032eDayCasMERGsub%202022%20Nova%20Scotia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Nova%20Scotia%2C%20reference%20scenarios%2C%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/173242798-e1cb1c14-5650-4aee-9b9e-7f16628da651.png)
 
 ****
 
@@ -555,6 +556,7 @@ A new IHME scenario, “Global antivirals”, has replaced the old scenario “V
 
 (4d) Ontario [Daily cases, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220610/output/SUB5%2032eDayCasMERGsub%202022%20Ontario%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/173242835-939159a5-c225-461b-a76f-666812f46766.png)
 
 ****
 
@@ -620,6 +622,7 @@ A new IHME scenario, “Global antivirals”, has replaced the old scenario “V
 
 (4d) Quebec [Daily cases, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220610/output/SUB5%2032eDayCasMERGsub%202022%20Quebec%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/173242923-7d285a80-b08a-431a-b493-88f041c91e48.png)
 
 ****
 
@@ -685,6 +688,7 @@ A new IHME scenario, “Global antivirals”, has replaced the old scenario “V
 
 (4d) Saskatchewan [Daily cases, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220610/output/SUB5%2032eDayCasMERGsub%202022%20Saskatchewan%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Saskatchewan%2C%20reference%20scenarios%2C%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/173242971-90168d3b-d8c9-407d-a7f1-3309c1e20886.png)
 
 ****
 
