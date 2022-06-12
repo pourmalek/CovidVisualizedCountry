@@ -149,6 +149,7 @@ A new IHME scenario, “Global antivirals”, has replaced the old scenario “V
 
 (1) Canada Provinces [Daily reported deaths, JOHN, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220610/output/graph%2001%20provinces%20C-19%20daily%20deaths%2C%20Canada%2C%20JOHN%202020.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/173241401-c73caf7d-c026-4388-812b-ddd4a0a080a8.png)
  
 ****
 
@@ -159,6 +160,7 @@ A new IHME scenario, “Global antivirals”, has replaced the old scenario “V
 
 (3) Canada Provinces [Daily reported deaths, JOHN, 2022](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220610/output/graph%2003%20provinces%20C-19%20daily%20deaths%2C%20Canada%2C%20JOHN%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/173241478-cdf259f5-7202-4732-99f0-b9119cd4ead6.png)
 
 ****
 
