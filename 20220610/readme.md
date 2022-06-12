@@ -357,6 +357,7 @@ A new IHME scenario, “Global antivirals”, has replaced the old scenario “V
 
 (4d) British Columbia [Daily cases, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220610/output/SUB5%2032eDayCasMERGsub%202022%20British%20Columbia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/173242724-8ec11a3c-b27e-4e4c-9e64-6bea15c3f049.png)
 
 ****
 
@@ -419,6 +420,7 @@ A new IHME scenario, “Global antivirals”, has replaced the old scenario “V
 
 (4d) Manitoba [Daily cases, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220610/output/SUB5%2032eDayCasMERGsub%202022%20Manitoba%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios%2C%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/173242754-1b338eb2-41ad-4dc9-98a8-a330537af977.png)
 
 ****
 
