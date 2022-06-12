@@ -346,6 +346,7 @@ A new IHME scenario, “Global antivirals”, has replaced the old scenario “V
 
 (4b) British Columbia [Daily cases or infections, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220610/output/SUB5%2032cDayCasMERGsub%202022%20British%20Columbia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/173242395-a6a88918-b6fd-4752-b6d2-8fad08cea42b.png)
 
 ****
 
@@ -407,6 +408,7 @@ A new IHME scenario, “Global antivirals”, has replaced the old scenario “V
 
 (4b) Manitoba [Daily cases or infections, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220610/output/SUB5%2032cDayCasMERGsub%202022%20Manitoba%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios%2C%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/173242424-91a269ed-fcde-41a4-9534-380e7db7a292.png)
 
 ****
 
@@ -478,6 +480,7 @@ A new IHME scenario, “Global antivirals”, has replaced the old scenario “V
 
 (4b) Nova Scotia [Daily cases or infections, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220610/output/SUB5%2032cDayCasMERGsub%202022%20Nova%20Scotia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Nova%20Scotia%2C%20reference%20scenarios%2C%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/173242473-3b091454-31d3-471a-88f8-3383a5d8e7b0.png)
 
 ****
 
@@ -539,6 +542,7 @@ A new IHME scenario, “Global antivirals”, has replaced the old scenario “V
 
 (4b) Ontario [Daily cases or infections, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220610/output/SUB5%2032cDayCasMERGsub%202022%20Ontario%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/173242520-27d4308d-6740-4510-93d3-537850eb8a9a.png)
 
 ****
 
