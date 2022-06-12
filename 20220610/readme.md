@@ -523,6 +523,7 @@ A new IHME scenario, “Global antivirals”, has replaced the old scenario “V
 
 (2c) Ontario [Daily deaths, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220610/output/SUB2%2012dDayDeaMERGsub%202022%20Ontario%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/173242284-e0cba0ef-8075-4833-a6bc-ab0d560dda77.png)
  
 ****
 
@@ -585,6 +586,7 @@ A new IHME scenario, “Global antivirals”, has replaced the old scenario “V
 
 (2c) Quebec [Daily deaths, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220610/output/SUB2%2012dDayDeaMERGsub%202022%20Quebec%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/173242317-0592922a-2c44-4c20-ab0a-719b11c1bd57.png)
  
 ****
 
@@ -648,6 +650,7 @@ A new IHME scenario, “Global antivirals”, has replaced the old scenario “V
 
 (2c) Saskatchewan [Daily deaths, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220610/output/SUB2%2012dDayDeaMERGsub%202022%20Saskatchewan%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Saskatchewan%2C%20reference%20scenarios%2C%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/173242338-20774ef3-48be-4a8a-9740-f0700a0c43c4.png)
  
 ****
 
