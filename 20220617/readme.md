@@ -198,7 +198,7 @@ IMPE update 20220530 was released on 20220617.
 
 (9) Canada Provinces [Daily deaths, Reference scenario, IHME, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220617/output/graph%2022%20provinces%20C-19%20daily%20deaths%2C%20Canada%2C%20IHME%2C%202020%20on.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/173241747-8434487e-950e-4984-b169-68b4dd8a3abe.png)
+![image](https://user-images.githubusercontent.com/30849720/175079166-ca5631ca-5671-4be8-8dfb-b5e96d1f1fed.png)
  
 ****
 
@@ -209,13 +209,13 @@ IMPE update 20220530 was released on 20220617.
 
 (11) Canada Provinces [Daily deaths, Reference scenario, IHME, 2022](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220617/output/graph%2024%20provinces%20C-19%20daily%20deaths%2C%20Canada%2C%20IHME%2C%202022%20on.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/173241786-5f462347-39b2-422f-8db6-edc6678bf347.png)
+![image](https://user-images.githubusercontent.com/30849720/175079425-8276c000-9297-43d4-860d-b9aea01ebfac.png)
  
 ****
 
 (12) Canada Provinces [Daily infections, Reference scenario, IHME, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220617/output/graph%2025%20provinces%20C-19%20daily%20infections%2C%20Canada%2C%20IHME%2C%202020%20on.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/173241818-70521b67-61d6-4e43-9596-808434703316.png)
+![image](https://user-images.githubusercontent.com/30849720/175079794-9e4f390a-9155-4d79-befa-3168c5994ef0.png)
  
 ****
 
@@ -226,7 +226,7 @@ IMPE update 20220530 was released on 20220617.
 
 (14) Canada Provinces [Daily infections, Reference scenario, IHME, 2022](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220617/output/graph%2027%20provinces%20C-19%20daily%20infections%2C%20Canada%2C%20IHME%2C%202022%20on.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/173241862-8fcbf9c3-3771-45ed-bed6-64aa3b4c1e3f.png)
+![image](https://user-images.githubusercontent.com/30849720/175079974-dd10a9b8-de87-48a0-a8f3-ea74d34209c3.png)
  
 ****
 
