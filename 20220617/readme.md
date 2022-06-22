@@ -9,6 +9,8 @@ Days old: DELP 20, IHME 7, IMPE 19, SRIV 0
 
 IMPE update 20220530 was released on 20220617. 
 
+The PHAC model released its latest update on 2022-02-18.
+
 <br/><br/> 
 
 
