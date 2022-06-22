@@ -265,7 +265,7 @@ IMPE update 20220530 was released on 20220617.
 
 (2c) Alberta [Daily deaths, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220617/output/SUB2%2012dDayDeaMERGsub%202022%20Alberta%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios%2C%202022.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/173241915-b9adf6ce-0ea5-4de9-8935-4c8965d75c72.png)
+![image](https://user-images.githubusercontent.com/30849720/175080307-16549404-f6df-46da-bb8a-a90a5bef9d8e.png)
  
 ****
 
@@ -281,7 +281,7 @@ IMPE update 20220530 was released on 20220617.
 
 (4b) Alberta [Daily cases or infections, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220617/output/SUB5%2032cDayCasMERGsub%202022%20Alberta%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios%2C%202022.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/173242018-1ea7f0ce-7926-4de9-b7ca-edb9619ebbbe.png)
+![image](https://user-images.githubusercontent.com/30849720/175080578-56a174c7-3074-47ed-8243-0766ecefea82.png)
  
 ****
 
@@ -292,7 +292,7 @@ IMPE update 20220530 was released on 20220617.
 
 (4d) Alberta [Daily cases, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220617/output/SUB5%2032eDayCasMERGsub%202022%20Alberta%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios%2C%202022.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/173241983-49f4c6fc-18a0-494c-a99d-0c3f5ba39d46.png)
+![image](https://user-images.githubusercontent.com/30849720/175080806-35059b6d-5717-4a91-ac2c-c554896aeb57.png)
  
 ****
 
@@ -329,7 +329,7 @@ IMPE update 20220530 was released on 20220617.
 
 (2c) British Columbia [Daily deaths, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220617/output/SUB2%2012dDayDeaMERGsub%202022%20British%20Columbia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%202022.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/173242152-9b8716b9-999d-4d72-9f10-b36aaff83d5a.png)
+![image](https://user-images.githubusercontent.com/30849720/175081117-22cf5fbd-c0b8-45e7-8dda-696335d45fbf.png)
  
 ****
 
@@ -345,7 +345,7 @@ IMPE update 20220530 was released on 20220617.
 
 (4b) British Columbia [Daily cases or infections, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220617/output/SUB5%2032cDayCasMERGsub%202022%20British%20Columbia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%202022.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/173242395-a6a88918-b6fd-4752-b6d2-8fad08cea42b.png)
+![image](https://user-images.githubusercontent.com/30849720/175081355-0df5ad41-cd37-4bfc-9228-911e0347670d.png)
 
 ****
 
@@ -356,7 +356,7 @@ IMPE update 20220530 was released on 20220617.
 
 (4d) British Columbia [Daily cases, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220617/output/SUB5%2032eDayCasMERGsub%202022%20British%20Columbia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%202022.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/173242724-8ec11a3c-b27e-4e4c-9e64-6bea15c3f049.png)
+![image](https://user-images.githubusercontent.com/30849720/175081581-22eb10e6-7e8d-4c03-9028-66f73d337521.png)
 
 ****
 
