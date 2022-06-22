@@ -467,7 +467,7 @@ The PHAC model released its latest update on 2022-02-18.
 
 (2c) Nova Scotia [Daily deaths, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220617/output/SUB2%2012dDayDeaMERGsub%202022%20Nova%20Scotia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Nova%20Scotia%2C%20reference%20scenarios%2C%202022.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/175082764-21cdcbff-b384-4e8f-bb93-4a7c17584ea1.png)
+![image](https://user-images.githubusercontent.com/30849720/175093917-b92128c3-f50d-4e05-a13d-f65eab7c4754.png)
  
 ****
 
