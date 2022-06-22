@@ -392,7 +392,7 @@ IMPE update 20220530 was released on 20220617.
 
 (2c) Manitoba [Daily deaths, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220617/output/SUB2%2012dDayDeaMERGsub%202022%20Manitoba%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios%2C%202022.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/173242190-dbe71920-d018-4a57-9bcf-47a87fb949fd.png)
+![image](https://user-images.githubusercontent.com/30849720/175081791-e3d5e83f-23d0-4131-9cbc-a05f0f968336.png)
  
 ****
 
@@ -408,7 +408,7 @@ IMPE update 20220530 was released on 20220617.
 
 (4b) Manitoba [Daily cases or infections, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220617/output/SUB5%2032cDayCasMERGsub%202022%20Manitoba%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios%2C%202022.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/173242424-91a269ed-fcde-41a4-9534-380e7db7a292.png)
+![image](https://user-images.githubusercontent.com/30849720/175082056-e092a63f-c87e-4785-8946-23b8a97b41a0.png)
 
 ****
 
@@ -419,7 +419,7 @@ IMPE update 20220530 was released on 20220617.
 
 (4d) Manitoba [Daily cases, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220617/output/SUB5%2032eDayCasMERGsub%202022%20Manitoba%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios%2C%202022.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/173242754-1b338eb2-41ad-4dc9-98a8-a330537af977.png)
+![image](https://user-images.githubusercontent.com/30849720/175082463-cc61afbc-8a1f-49d1-916c-3bb65748e058.png)
 
 ****
 
@@ -465,7 +465,7 @@ IMPE update 20220530 was released on 20220617.
 
 (2c) Nova Scotia [Daily deaths, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220617/output/SUB2%2012dDayDeaMERGsub%202022%20Nova%20Scotia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Nova%20Scotia%2C%20reference%20scenarios%2C%202022.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/173242234-954c2a04-1089-44a7-b79c-f99b55b233e7.png)
+![image](https://user-images.githubusercontent.com/30849720/175082764-21cdcbff-b384-4e8f-bb93-4a7c17584ea1.png)
  
 ****
 
@@ -481,7 +481,7 @@ IMPE update 20220530 was released on 20220617.
 
 (4b) Nova Scotia [Daily cases or infections, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220617/output/SUB5%2032cDayCasMERGsub%202022%20Nova%20Scotia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Nova%20Scotia%2C%20reference%20scenarios%2C%202022.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/173242473-3b091454-31d3-471a-88f8-3383a5d8e7b0.png)
+![image](https://user-images.githubusercontent.com/30849720/175083149-9dffc367-bbd0-4a52-9d0d-04ed94f98046.png)
 
 ****
 
@@ -492,7 +492,7 @@ IMPE update 20220530 was released on 20220617.
 
 (4d) Nova Scotia [Daily cases, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220617/output/SUB5%2032eDayCasMERGsub%202022%20Nova%20Scotia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Nova%20Scotia%2C%20reference%20scenarios%2C%202022.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/173242798-e1cb1c14-5650-4aee-9b9e-7f16628da651.png)
+![image](https://user-images.githubusercontent.com/30849720/175083499-df2d7af5-c16e-4926-bbed-fce76c0f9120.png)
 
 ****
 
@@ -528,7 +528,7 @@ IMPE update 20220530 was released on 20220617.
 
 (2c) Ontario [Daily deaths, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220617/output/SUB2%2012dDayDeaMERGsub%202022%20Ontario%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202022.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/173242284-e0cba0ef-8075-4833-a6bc-ab0d560dda77.png)
+![image](https://user-images.githubusercontent.com/30849720/175084082-cc7218f3-065c-4112-8307-c358d1d771f2.png)
  
 ****
 
