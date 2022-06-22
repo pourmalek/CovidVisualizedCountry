@@ -544,7 +544,7 @@ IMPE update 20220530 was released on 20220617.
 
 (4b) Ontario [Daily cases or infections, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220617/output/SUB5%2032cDayCasMERGsub%202022%20Ontario%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202022.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/173242520-27d4308d-6740-4510-93d3-537850eb8a9a.png)
+![image](https://user-images.githubusercontent.com/30849720/175085335-2968f4e2-dfac-460e-8df9-445bdd2c4bfb.png)
 
 ****
 
@@ -555,7 +555,6 @@ IMPE update 20220530 was released on 20220617.
 
 (4d) Ontario [Daily cases, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220617/output/SUB5%2032eDayCasMERGsub%202022%20Ontario%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202022.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/173242835-939159a5-c225-461b-a76f-666812f46766.png)
 
 ****
 
