@@ -57,7 +57,7 @@ IMPE update 20220530 was released on 20220617.
 
 (1) Canada [Daily deaths, Reference scenarios, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220617/output/CAN1%2011aDayDeaMERGnat%20alltime%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/173195317-b9fa582a-0861-4718-bcdb-855b27025f4a.png)
+![image](https://user-images.githubusercontent.com/30849720/175076158-d4e9a644-46db-4c1d-96af-fb0b5b06e616.png)
   
 ****
 
