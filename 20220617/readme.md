@@ -68,13 +68,13 @@ IMPE update 20220530 was released on 20220617.
 
 (2b) Canada National [Daily deaths, All scenarios, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220617/output/CAN2%2012aaDayDeaMERGnat%202022%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%202022.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/173195335-3244ca49-942b-43d2-bbd1-6fd3bfdcbb6d.png)
+![image](https://user-images.githubusercontent.com/30849720/175076477-8972a5ae-cb2e-4e7b-bea9-cf51f693d37e.png)
 
 ****
 
 (3) Canada National [Daily cases or infections, Reference scenarios, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220617/output/CAN4%2031aDayCasMERGnat%20alltime%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20National%2C%20reference%20scenarios.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/173195359-9bdd322c-76e2-4c7b-b908-bfcfe0a364a6.png)
+![image](https://user-images.githubusercontent.com/30849720/175076718-2e89fa5f-0d9e-46d6-8502-514307a1f6b8.png)
  
 ****
 
@@ -85,7 +85,7 @@ IMPE update 20220530 was released on 20220617.
 
 (4b) Canada National [Daily cases or infections, All scenarios, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220617/output/CAN6%2034aaDayCasMERGnat%202021%203scen%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20National%2C%203%20scenarios%2C%202022%2C%20uncertainty.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/173195378-f1403a5c-2d52-44df-8606-41adff87d476.png)
+![image](https://user-images.githubusercontent.com/30849720/175077118-a30ad482-954a-421c-884e-1f11d83466ca.png)
  
 ****
 
