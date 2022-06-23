@@ -13,6 +13,16 @@ The PHAC model released its latest update on 2022-02-18.
 
 <br/><br/> 
 
+**Summary 20220617:**
+
+The frequency of official reporting of deaths and cases by provinces and at the national level has become even more hectic than before. 
+
+Reported deaths and reported cases are low and going further down at province and national levels. 
+
+The SRIV model predicts an **extreme rise in national deaths.** The IHME model predicts an extremely low trajectory of deaths at national and provincial levels.
+
+The IHME model predicts **rise in national and provincial infections** starting from August 2022, reaching up to 30,000 national daily infections by the end of October 2022. Such levels of predicted daily infections have not been seen before December 2021, meaning that the Omicron is still causing multitudes of infections and cases. 
+
 
 <br/><br/> 
 
