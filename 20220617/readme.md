@@ -546,7 +546,7 @@ The PHAC model released its latest update on 2022-02-18.
 
 (4b) Ontario [Daily cases or infections, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220617/output/SUB5%2032cDayCasMERGsub%202022%20Ontario%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202022.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/175085335-2968f4e2-dfac-460e-8df9-445bdd2c4bfb.png)
+![image](https://user-images.githubusercontent.com/30849720/175185088-fd846782-7606-4099-b4e4-5a0f7eafd37f.png)
 
 ****
 
