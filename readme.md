@@ -143,25 +143,29 @@ JOHN: Johns Hopkins. The coronavirus resource center, Johns Hopkins University, 
 ********************************************************************************************************************************************
 ********************************************************************************************************************************************
 
-### LATEST UPTAKE: uptake [`20220610`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20220610)
+### LATEST UPTAKE: uptake [`20220617`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20220617)
   
-### Study update dates in uptake 20220610  
+### Study update dates in uptake 20220617
 
-DELP 20220529, **_IHME 20220610_**, No IMPE, **_SRIV 20220610_** 
+DELP 20220529, IHME 20220610, **_IMPE 20220530_**, **_SRIV 20220617_** 
 
-Days old: DELP 13, IHME 0, no IMPE, SRIV 0
+Days old: DELP 20, IHME 7, IMPE 19, SRIV 0
 
-IMPE update 20220315 was released on 20220505 and is > 120 days old on 20220610. Not included. 
+IMPE update 20220530 was released on 20220617. 
+
+The PHAC model released its latest update on 2022-02-18.
 
 <br/><br/> 
 
-#### IHME update 20220610: 
+**Summary 20220617:**
 
-Global infections are increasing: Secondary Omicron waves are hitting parts of sub-Saharan Africa, Latin America, Portugal, and the United States. We expect a peak in June, but another surge in the northern hemisphere in September, leading to an additional 120,000 deaths by October.
+The frequency of official reporting of deaths and cases by provinces and at the national level has become even more hectic than before. 
 
-https://www.healthdata.org/covid/video/insights-ihmes-latest-covid-19-model-run
+Reported deaths and reported cases are low and going further down at province and national levels. 
 
-A new IHME scenario, “Global antivirals”, has replaced the old scenario “Vaccine 3rd dose”. “Global antivirals” = Globally distributed antivirals extends coverage to all LMICs over the period of July 15, 2022, to September 15, 2022. 
+The SRIV model predicts an **extreme rise in national deaths.** The IHME model predicts an extremely low trajectory of deaths at national and provincial levels.
+
+The IHME model predicts **rise in national and provincial infections** starting from August 2022, reaching up to 30,000 national daily infections by the end of October 2022. Such levels of predicted daily infections have not been seen before December 2021, meaning that the Omicron is still causing multitudes of infections and cases. 
 
 
 <br/><br/> 
@@ -1211,10 +1215,11 @@ and /20220318/ denotes the date of uptake.
   
 
 
- 
 
 
-  
+
+
+(66) uptake [`20220617`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20220617): DELP 20220529, IHME 20220610, **_IMPE 20220530_**, **_SRIV 20220617_**  || Days old: DELP 20, IHME 7, IMPE 19, SRIV 0 
 
 (65) uptake [`20220610`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20220610): DELP 20220529, **_IHME 20220610_**, No IMPE, **_SRIV 20220610_** || Days old: DELP 13, IHME 0, no IMPE, SRIV 0
 
