@@ -557,6 +557,7 @@ The PHAC model released its latest update on 2022-02-18.
 
 (4d) Ontario [Daily cases, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220617/output/SUB5%2032eDayCasMERGsub%202022%20Ontario%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/175185245-43c82e0e-9d31-4e39-812d-be56f8b2c55f.png)
 
 ****
 
@@ -594,7 +595,7 @@ The PHAC model released its latest update on 2022-02-18.
 
 (2c) Quebec [Daily deaths, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220617/output/SUB2%2012dDayDeaMERGsub%202022%20Quebec%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%202022.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/173242317-0592922a-2c44-4c20-ab0a-719b11c1bd57.png)
+![image](https://user-images.githubusercontent.com/30849720/175185340-ac6f4da3-e698-407a-99dc-93a067995cc9.png)
  
 ****
 
@@ -610,8 +611,7 @@ The PHAC model released its latest update on 2022-02-18.
 
 (4b) Quebec [Daily cases or infections, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220617/output/SUB5%2032cDayCasMERGsub%202022%20Quebec%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%202022.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/173242583-8b4bc670-9440-4e2e-be3b-56333cb6dcc9.png)
-
+![image](https://user-images.githubusercontent.com/30849720/175185434-75bd62a5-ac73-4ea2-be59-6b7a5b554e00.png)
 
 ****
 
@@ -622,7 +622,7 @@ The PHAC model released its latest update on 2022-02-18.
 
 (4d) Quebec [Daily cases, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220617/output/SUB5%2032eDayCasMERGsub%202022%20Quebec%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%202022.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/173242923-7d285a80-b08a-431a-b493-88f041c91e48.png)
+![image](https://user-images.githubusercontent.com/30849720/175185509-1c21930d-0d82-4c6a-a70f-1213656f51f9.png)
 
 ****
 
@@ -661,7 +661,7 @@ The PHAC model released its latest update on 2022-02-18.
 
 (2c) Saskatchewan [Daily deaths, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220617/output/SUB2%2012dDayDeaMERGsub%202022%20Saskatchewan%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Saskatchewan%2C%20reference%20scenarios%2C%202022.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/173242338-20774ef3-48be-4a8a-9740-f0700a0c43c4.png)
+![image](https://user-images.githubusercontent.com/30849720/175185606-4b9d1e66-e64b-4543-8561-6aff71411ff9.png)
  
 ****
 
@@ -677,7 +677,7 @@ The PHAC model released its latest update on 2022-02-18.
 
 (4b) Saskatchewan [Daily cases or infections, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220617/output/SUB5%2032cDayCasMERGsub%202022%20Saskatchewan%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Saskatchewan%2C%20reference%20scenarios%2C%202022.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/173242616-98a93ed9-4e3b-4031-b0ed-74a15e917371.png)
+![image](https://user-images.githubusercontent.com/30849720/175185677-1f0c4774-47ea-4698-99ae-ac60f1b779e0.png)
 
 ****
 
@@ -688,7 +688,7 @@ The PHAC model released its latest update on 2022-02-18.
 
 (4d) Saskatchewan [Daily cases, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220617/output/SUB5%2032eDayCasMERGsub%202022%20Saskatchewan%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Saskatchewan%2C%20reference%20scenarios%2C%202022.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/173242971-90168d3b-d8c9-407d-a7f1-3309c1e20886.png)
+![image](https://user-images.githubusercontent.com/30849720/175185786-f8159c50-29ba-4397-9291-ff49df483b42.png)
 
 ****
 
