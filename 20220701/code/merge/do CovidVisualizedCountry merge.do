@@ -3965,6 +3965,34 @@ qui graph export "graph 03 provinces C-19 daily deaths, $country, JOHN 2022.pdf"
 
 
 
+
+*******************************************************
+* 3 b daily deaths, provinces, 2022 June
+
+twoway ///
+(line DayDeaMeSmA00S00XXX date, sort lwidth(medthick) lcolor(black)) /// 1 "CAN" 
+(line DayDeaMeSmA00S00XAB date, sort lwidth(medium) lcolor(cyan)) /// 2 "AB" cyan
+(line DayDeaMeSmA00S00XBC date, sort lwidth(medium) lcolor(blue)) /// 3 "BC" blue
+(line DayDeaMeSmA00S00XMB date, sort lwidth(medium) lcolor(lime)) /// 4 "MB" lime
+(line DayDeaMeSmA00S00XNL date, sort lwidth(medium) lcolor(gold)) /// 5 "NL" gold
+(line DayDeaMeSmA00S00XNS date, sort lwidth(medium) lcolor(magenta)) /// 6 "NS" magenta
+(line DayDeaMeSmA00S00XON date, sort lwidth(medium) lcolor(red)) /// 7 "ON" red
+(line DayDeaMeSmA00S00XQC date, sort lwidth(medium) lcolor(green)) /// 9 "QC" green
+(line DayDeaMeSmA00S00XSK date, sort lwidth(medium) lcolor(brown)) /// 8 "SK" orange
+if date >= td(01jun2022) & date <= td(01jul2022) ///
+, xtitle(Date) xlabel(, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(forty_five)) ///
+ytitle(Daily deaths) title("C-19 daily deaths, smooth, $country provinces, JOHN, 2022 June", size(medium)) ///
+xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
+legend(order(1 "CAN" 2 "AB" 3 "BC" 4 "MB" 5 "NL" 6 "NS" 7 "ON" 8 "QC" 9 "SK" ) rows(2) size(small))  
+
+qui graph export "graph 03 b provinces C-19 daily deaths, $country, JOHN 2022.pdf", replace
+
+
+
+
+
+
 *******************************************************
 * 4 daily deaths, provinces, 2022 on, Without National, Ontario, and Quebec
 
@@ -3984,6 +4012,32 @@ legend(order(1 "AB" 2 "BC" 3 "MB" 4 "NL" 5 "NS" 6 "SK" ) rows(1) size(small)) //
 subtitle("Without National, Ontario, and Quebec", size(small))
 
 qui graph export "graph 04 provinces C-19 daily deaths, $country, JOHN 2022.pdf", replace
+
+
+
+
+
+
+*******************************************************
+* 4 b daily deaths, provinces, 2022 June, Without National, Ontario, and Quebec
+
+twoway ///
+(line DayDeaMeSmA00S00XAB date, sort lwidth(medium) lcolor(cyan)) /// 1 "AB" cyan
+(line DayDeaMeSmA00S00XBC date, sort lwidth(medium) lcolor(blue)) /// 2 "BC" blue
+(line DayDeaMeSmA00S00XMB date, sort lwidth(medium) lcolor(lime)) /// 3 "MB" lime
+(line DayDeaMeSmA00S00XNL date, sort lwidth(medium) lcolor(gold)) /// 4 "NL" gold
+(line DayDeaMeSmA00S00XNS date, sort lwidth(medium) lcolor(magenta)) /// 5 "NS" magenta
+(line DayDeaMeSmA00S00XSK date, sort lwidth(medium) lcolor(brown)) /// 6 "SK" orange
+if date >= td(01jun2022) & date <= td(01jul2022) ///
+, xtitle(Date) xlabel(, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(forty_five)) ///
+ytitle(Daily deaths) title("C-19 daily deaths, smooth, $country provinces, JOHN, 2022 June", size(medium)) ///
+xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
+legend(order(1 "AB" 2 "BC" 3 "MB" 4 "NL" 5 "NS" 6 "SK" ) rows(1) size(small)) ///
+subtitle("Without National, Ontario, and Quebec", size(small))
+
+qui graph export "graph 04 b provinces C-19 daily deaths, $country, JOHN 2022.pdf", replace
+
 
 
 
@@ -4070,6 +4124,32 @@ qui graph export "graph 07 provinces C-19 daily cases, $country, JOHN 2022.pdf",
 
 
 *******************************************************
+* 7 b daily cases, provinces, 2022 on
+
+twoway ///
+(line DayCasMeSmA00S00XXX date, sort lwidth(medthick) lcolor(black)) /// 1 "CAN" 
+(line DayCasMeSmA00S00XAB date, sort lwidth(medium) lcolor(cyan)) /// 2 "AB" cyan
+(line DayCasMeSmA00S00XBC date, sort lwidth(medium) lcolor(blue)) /// 3 "BC" blue
+(line DayCasMeSmA00S00XMB date, sort lwidth(medium) lcolor(lime)) /// 4 "MB" lime
+(line DayCasMeSmA00S00XNL date, sort lwidth(medium) lcolor(gold)) /// 5 "NL" gold
+(line DayCasMeSmA00S00XNS date, sort lwidth(medium) lcolor(magenta)) /// 6 "NS" magenta
+(line DayCasMeSmA00S00XON date, sort lwidth(medium) lcolor(red)) /// 7 "ON" red
+(line DayCasMeSmA00S00XQC date, sort lwidth(medium) lcolor(green)) /// 8 "QC" green
+(line DayCasMeSmA00S00XSK date, sort lwidth(medium) lcolor(brown)) /// 9 "SK" orange
+if date >= td(01jun2022) & date <= td(01jul2022) ///
+, xtitle(Date) xlabel(, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(forty_five)) ///
+ytitle(Daily cases) title("C-19 daily cases, smooth, $country provinces, JOHN, 2022 June", size(medium)) ///
+xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
+legend(order(1 "CAN" 2 "AB" 3 "BC" 4 "MB" 5 "NL" 6 "NS" 7 "ON" 8 "QC" 9 "SK" ) rows(2) size(small)) 
+
+qui graph export "graph 07 b provinces C-19 daily cases, $country, JOHN 2022.pdf", replace
+
+
+
+
+
+*******************************************************
 * 8 daily cases, provinces, 2022 on, Without National, Ontario, and Quebec
 
 twoway ///
@@ -4090,14 +4170,45 @@ subtitle("Without National, Ontario, and Quebec", size(small))
 qui graph export "graph 08 provinces C-19 daily cases, $country, JOHN 2022.pdf", replace
 
 
+
+
+
+
+*******************************************************
+* 8 b daily cases, provinces, 2022 on, Without National, Ontario, and Quebec
+
+twoway ///
+(line DayCasMeSmA00S00XAB date, sort lwidth(medium) lcolor(cyan)) /// 1 "AB" cyan
+(line DayCasMeSmA00S00XBC date, sort lwidth(medium) lcolor(blue)) /// 2 "BC" blue
+(line DayCasMeSmA00S00XMB date, sort lwidth(medium) lcolor(lime)) /// 3 "MB" lime
+(line DayCasMeSmA00S00XNL date, sort lwidth(medium) lcolor(gold)) /// 4 "NL" gold
+(line DayCasMeSmA00S00XNS date, sort lwidth(medium) lcolor(magenta)) /// 5 "NS" magenta
+(line DayCasMeSmA00S00XSK date, sort lwidth(medium) lcolor(brown)) /// 6 "SK" orange
+if date >= td(01jun2022) & date <= td(01jul2022) ///
+, xtitle(Date) xlabel(, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(forty_five)) ///
+ytitle(Daily cases) title("C-19 daily cases, smooth, $country provinces, JOHN, 2022 June", size(medium)) ///
+xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
+legend(order(1 "AB" 2 "BC" 3 "MB" 4 "NL" 5 "NS" 6 "SK" ) rows(1) size(small)) ///
+subtitle("Without National, Ontario, and Quebec", size(small))
+
+qui graph export "graph 08 b provinces C-19 daily cases, $country, JOHN 2022.pdf", replace
+
+
+
+
+
+
+
+
+
+
+
 *******************************************************
 
-
-
-
-
-
 * Selected graphs - Canada, provinces --- IHME
+
+
 
 
 
