@@ -269,7 +269,8 @@ The PHAC model released its latest update on 2022-02-18.
 
 (2c) Alberta [Daily deaths, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220701/output/SUB2%2012dDayDeaMERGsub%202022%20Alberta%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios%2C%202022.pdf)
 
-book 
+![image](https://user-images.githubusercontent.com/30849720/176952521-cbd4b746-c49a-4a2b-8790-a9355d039e59.png)
+
 ****
 
 (3) Alberta [Daily cases or infections, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220701/output/SUB4%2031bDayCasMERGsub%20alltime%20Alberta%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios.pdf)
@@ -284,7 +285,8 @@ book
 
 (4b) Alberta [Daily cases or infections, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220701/output/SUB5%2032cDayCasMERGsub%202022%20Alberta%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios%2C%202022.pdf)
 
-book 
+![image](https://user-images.githubusercontent.com/30849720/176952601-a3477466-f763-4d03-8c5a-c9b45b7aa94d.png)
+
 ****
 
 (4c) Alberta [Daily cases, Reference scenario, 2022 on, with JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220701/output/SUB5%2032dDayCasMERGsub%202022%20Alberta%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios%2C%202022.pdf)
@@ -294,7 +296,8 @@ book
 
 (4d) Alberta [Daily cases, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220701/output/SUB5%2032eDayCasMERGsub%202022%20Alberta%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios%2C%202022.pdf)
 
-book 
+![image](https://user-images.githubusercontent.com/30849720/176952703-d316d36f-93c1-4dc6-96c8-806149e8fc0d.png)
+
 ****
 
 
