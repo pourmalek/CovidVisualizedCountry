@@ -72,7 +72,7 @@ The PHAC model released its latest update on 2022-02-18.
 
 (2b) Canada National [Daily deaths, All scenarios, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220701/output/CAN2%2012aaDayDeaMERGnat%202022%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%202022.pdf)
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/30849720/176944012-8d32c798-6a2b-435a-89ad-f3fd54373269.png)
 
 ****
 
