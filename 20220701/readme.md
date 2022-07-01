@@ -202,7 +202,8 @@ The PHAC model released its latest update on 2022-02-18.
 
 (9) Canada Provinces [Daily deaths, Reference scenario, IHME, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220701/output/graph%2022%20provinces%20C-19%20daily%20deaths%2C%20Canada%2C%20IHME%2C%202020%20on.pdf)
 
-book 
+![image](https://user-images.githubusercontent.com/30849720/176947967-9f61394f-3d95-4051-b2d5-d18d52984c04.png)
+
 ****
 
 (10) Canada Provinces [Daily deaths, Reference scenario, IHME, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220701/output/graph%2023%20provinces%20C-19%20daily%20deaths%2C%20Canada%2C%20IHME%2C%202021%20on.pdf)
@@ -212,12 +213,14 @@ book
 
 (11) Canada Provinces [Daily deaths, Reference scenario, IHME, 2022](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220701/output/graph%2024%20provinces%20C-19%20daily%20deaths%2C%20Canada%2C%20IHME%2C%202022%20on.pdf)
 
-book 
+![image](https://user-images.githubusercontent.com/30849720/176948102-c197212e-d2fc-431a-9398-caa4a5e1d5f7.png)
+
 ****
 
 (12) Canada Provinces [Daily infections, Reference scenario, IHME, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220701/output/graph%2025%20provinces%20C-19%20daily%20infections%2C%20Canada%2C%20IHME%2C%202020%20on.pdf)
 
-book 
+![image](https://user-images.githubusercontent.com/30849720/176948439-7c7e3eb7-1799-417f-8b27-2dd2e29cf7bd.png)
+
 ****
 
 (13) Canada Provinces [Daily infections, Reference scenario, IHME, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220701/output/graph%2026%20provinces%20C-19%20daily%20infections%2C%20Canada%2C%20IHME%2C%202021%20on.pdf)
@@ -227,7 +230,8 @@ book
 
 (14) Canada Provinces [Daily infections, Reference scenario, IHME, 2022](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220701/output/graph%2027%20provinces%20C-19%20daily%20infections%2C%20Canada%2C%20IHME%2C%202022%20on.pdf)
 
-book 
+![image](https://user-images.githubusercontent.com/30849720/176948547-b051cfb8-e894-4eb9-8d00-b19ee6c70383.png)
+
 ****
 
 
