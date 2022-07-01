@@ -219,7 +219,8 @@ The PHAC model released its latest update on 2022-02-18.
 
 (12) Canada Provinces [Daily infections, Reference scenario, IHME, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220701/output/graph%2025%20provinces%20C-19%20daily%20infections%2C%20Canada%2C%20IHME%2C%202020%20on.pdf)
 
-book 
+![image](https://user-images.githubusercontent.com/30849720/176948439-7c7e3eb7-1799-417f-8b27-2dd2e29cf7bd.png)
+
 ****
 
 (13) Canada Provinces [Daily infections, Reference scenario, IHME, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220701/output/graph%2026%20provinces%20C-19%20daily%20infections%2C%20Canada%2C%20IHME%2C%202021%20on.pdf)
@@ -229,7 +230,8 @@ book
 
 (14) Canada Provinces [Daily infections, Reference scenario, IHME, 2022](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220701/output/graph%2027%20provinces%20C-19%20daily%20infections%2C%20Canada%2C%20IHME%2C%202022%20on.pdf)
 
-book 
+![image](https://user-images.githubusercontent.com/30849720/176948547-b051cfb8-e894-4eb9-8d00-b19ee6c70383.png)
+
 ****
 
 
