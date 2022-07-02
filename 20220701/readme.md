@@ -58,6 +58,26 @@ The PHAC model released its latest update on 2022-02-18.
 ### Selected graphs - Canada, National
 
 ****
+  
+(0c) Canada [Variants composition, Ending 27 June 2022, CoVariants by Emma B. Hodcroft](https://covariants.org/per-country?country=Canada)
+  
+![image](https://user-images.githubusercontent.com/30849720/176985614-b514152f-e137-447e-8456-abf2b6b29290.png)
+  
+<br/><br/> 
+  
+Legend (Number sequenced and Frequency as of 1 July 2022) :
+  
+![image](https://user-images.githubusercontent.com/30849720/176985713-ea8bfec6-803c-4a26-9f66-326ae66aefef.png)
+  
+SOURCE CITATION: Emma B. Hodcroft. 2021. "CoVariants: SARS-CoV-2 Mutations and Variants of Interest." https://covariants.org/
+
+SOURCE WEB PAGE: https://covariants.org/per-country 
+
+DATE ACCESED: June 24, 2022
+  
+SOURCE LICENSE: This CoVariants code and work is licensed under a [GNU Affero General Public License (AGPL)](https://www.gnu.org/licenses/agpl-3.0.en.html). You can view this license [here](https://github.com/hodcroftlab/covariants/blob/master/LICENSE.md)
+  
+****
 
 (1) Canada [Daily deaths, Reference scenarios, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220701/output/CAN1%2011aDayDeaMERGnat%20alltime%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
