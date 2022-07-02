@@ -202,6 +202,13 @@ The PHAC model released its latest update on 2022-02-18.
 
 ****
 
+(8) Canada Provinces [Daily reported cases, without National, Ontario, and Quebec, JOHN, 2022](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220701/output/graph%2008%20b%20provinces%20C-19%20daily%20cases%2C%20Canada%2C%20JOHN%202022.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/176984967-4dc4b242-eb7e-44d2-9cf3-faacb797b047.png)
+
+****
+![image](https://user-images.githubusercontent.com/30849720/176945935-a9505dd1-773b-4dff-9c6f-7c9fd9ae680a.png)
+
 #### _(b) Models: IHME_
 
 ****
