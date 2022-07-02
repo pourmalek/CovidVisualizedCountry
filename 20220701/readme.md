@@ -204,6 +204,7 @@ The PHAC model released its latest update on 2022-02-18.
 
 (8b) Canada Provinces [Daily reported cases, without National, Ontario, and Quebec, JOHN, 2022 June](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220701/output/graph%2008%20b%20provinces%20C-19%20daily%20cases%2C%20Canada%2C%20JOHN%202022.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/176985029-7fb24c49-0873-427d-9d2a-d943726cf77b.png)
 
 ****
 
@@ -344,7 +345,8 @@ The PHAC model released its latest update on 2022-02-18.
 
 (2c) British Columbia [Daily deaths, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220701/output/SUB2%2012dDayDeaMERGsub%202022%20British%20Columbia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%202022.pdf)
 
-book 
+![image](https://user-images.githubusercontent.com/30849720/176985058-09af42a6-b2fe-41c2-8324-d59bb52610d0.png)
+
 ****
 
 (3) British Columbia [Daily cases or infections, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220701/output/SUB4%2031bDayCasMERGsub%20alltime%20British%20Columbia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios.pdf)
