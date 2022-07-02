@@ -68,6 +68,20 @@ The PHAC model released its latest update on 2022-02-18.
 Legend (Number sequenced and Frequency as of 1 July 2022) :
   
 ![image](https://user-images.githubusercontent.com/30849720/176985713-ea8bfec6-803c-4a26-9f66-326ae66aefef.png)
+
+<br/><br/> 
+
+Mapping of variants nomenclature schemes 
+
+![image](https://user-images.githubusercontent.com/30849720/176985924-4b25c6b7-efd1-4d50-8add-ae476c83bcbb.png)
+
+https://covariants.org
+
+CoVariants uses the Nextstrain naming system for variants ([here](https://nextstrain.org/blog/2021-01-06-updated-SARS-CoV-2-clade-naming)). 
+
+WHO variants nomenclature scheme ([here](https://www.who.int/en/activities/tracking-SARS-CoV-2-variants/)).
+
+<br/><br/> 
   
 SOURCE CITATION: Emma B. Hodcroft. 2021. "CoVariants: SARS-CoV-2 Mutations and Variants of Interest." https://covariants.org/
 
