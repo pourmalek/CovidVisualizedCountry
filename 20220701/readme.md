@@ -28,6 +28,8 @@ Zero reported cases since 2022-06-17 in Newfoundland and Labrador, Nova Scotia, 
 
 The IHME model (update 2022-06-10) predicted rise in national and provincial infections starting from August 2022, reaching up to 30,000 national daily infections by the end of October 2022. Such levels of predicted daily infections have not been seen before December 2021, meaning that the Omicron is still causing multitudes of infections and cases.
 
+Reported daily deaths surpass the IHME predictions (since release of IHME’s latest update on update 2022-06-10 till the date of this uptake, i.e., update 2022-07-01), at the national and province levels (except for Newfoundland and Labrador, Nova Scotia, and Saskatchewan, in which the reporting is on vacation). 
+
 The SRIV model (update 2022-07-01) predicts a rise in daily deaths at the national level, reaching 50 about early September and more than 200 daily deaths in about early October 2022. Their prediction of daily cases at these dates is about 20,000 about early September and about 80,000 in about early October 2022.
 
 
