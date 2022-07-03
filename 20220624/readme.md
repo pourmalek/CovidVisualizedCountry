@@ -532,7 +532,8 @@ The PHAC model released its latest update on 2022-02-18.
 
 (2c) Ontario [Daily deaths, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220624/output/SUB2%2012dDayDeaMERGsub%202022%20Ontario%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202022.pdf)
 
-book 
+![image](https://user-images.githubusercontent.com/30849720/177050757-132f80de-f11a-4875-9513-c8f4a6a20ffe.png)
+
 ****
 
 (3) Ontario [Daily cases or infections, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220624/output/SUB4%2031bDayCasMERGsub%20alltime%20Ontario%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios.pdf)
@@ -547,7 +548,8 @@ book
 
 (4b) Ontario [Daily cases or infections, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220624/output/SUB5%2032cDayCasMERGsub%202022%20Ontario%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202022.pdf)
 
-book
+![image](https://user-images.githubusercontent.com/30849720/177050791-560ac6b2-d3dc-4cf9-bd4c-011c2abe3c57.png)
+
 ****
 
 (4c) Ontario [Daily cases, Reference scenario, 2022 on, with JOHN raw ](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220624/output/SUB5%2032dDayCasMERGsub%202022%20Ontario%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202022.pdf)
@@ -557,7 +559,8 @@ book
 
 (4d) Ontario [Daily cases, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220624/output/SUB5%2032eDayCasMERGsub%202022%20Ontario%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202022.pdf)
 
-book
+![image](https://user-images.githubusercontent.com/30849720/177050817-27e14232-ee77-44d9-bc4f-38fdde0e715b.png)
+
 ****
 
 
@@ -594,7 +597,8 @@ book
 
 (2c) Quebec [Daily deaths, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220624/output/SUB2%2012dDayDeaMERGsub%202022%20Quebec%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%202022.pdf)
 
-book 
+![image](https://user-images.githubusercontent.com/30849720/177050841-0e556bb6-b485-48f3-99e1-dafed9c2e383.png)
+
 ****
 
 (3) Quebec [Daily cases or infections, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220624/output/SUB4%2031bDayCasMERGsub%20alltime%20Quebec%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios.pdf)
@@ -609,7 +613,8 @@ book
 
 (4b) Quebec [Daily cases or infections, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220624/output/SUB5%2032cDayCasMERGsub%202022%20Quebec%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%202022.pdf)
 
-book
+![image](https://user-images.githubusercontent.com/30849720/177050870-6662b365-e399-4873-86d9-d632f403d131.png)
+
 ****
 
 (4c) Quebec [Daily cases, Reference scenario, 2022 on, with JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220624/output/SUB5%2032dDayCasMERGsub%202022%20Quebec%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%202022.pdf)
@@ -619,7 +624,8 @@ book
 
 (4d) Quebec [Daily cases, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220624/output/SUB5%2032eDayCasMERGsub%202022%20Quebec%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%202022.pdf)
 
-book
+![image](https://user-images.githubusercontent.com/30849720/177050901-75d8a1cf-3c34-47d9-8fc2-9da0a5757ddb.png)
+
 ****
 
 
