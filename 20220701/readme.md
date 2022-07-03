@@ -13,7 +13,7 @@ The PHAC model released its latest update on 2022-02-18.
 
 <br/><br/> 
 
-**Summary 20220617:**
+**Summary 20220701:**
 
 **Official reports:**
 
