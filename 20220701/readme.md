@@ -1,4 +1,4 @@
-! Read the Canada COVID-19 epidemic models situation report No 54 - 2022-07-01 [here](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/54%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2054%20-%202022-07-01.pdf).
+! Read the Canada COVID-19 epidemic models situation report No 53 - 2022-07-01 [here](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/53%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2053%20-%202022-07-01.pdf).
 
 
 ### Study update dates in uptake 20220701
