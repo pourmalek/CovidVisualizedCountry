@@ -2,7 +2,7 @@
 
 ## ! THE MOST RECENT WEEKLY SITUATION REPORT, EVERY MONDAY MORNING, HERE:
 
-! Read the Canada COVID-19 epidemic models situation report No 52 - 2022-06-17 [here](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/52%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2052%20-%202022-06-17.pdf)
+! Read the Canada COVID-19 epidemic models situation report No 53 - 2022-07-01 [here](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/53%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2053%20-%202022-07-01.pdf)
 
 <br/><br/>
 
@@ -196,7 +196,7 @@ SOURCE WEB PAGE: https://covariants.org/per-country
 ******
 
   
-# :eyes: SEE: See Canada COVID-19 epidemic models situation report No 52 - 2022-06-17, [here](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/52%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2052%20-%202022-06-17.pdf)
+# :eyes: SEE: See Canada COVID-19 epidemic models situation report No 53 - 2022-07-01, [here](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/53%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2053%20-%202022-07-01.pdf)
 
 <br/><br/>
   
