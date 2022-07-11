@@ -163,7 +163,7 @@ do "$pathCovidVisualizedCountry/IHME/do CovidVisualizedCountry IHME.do"
 
 // do "$pathCovidVisualizedCountry/IMPE/do CovidVisualizedCountry IMPE.do" 
 
-do "$pathCovidVisualizedCountry/LANL/do CovidVisualizedCountry LANL.do" 
+// do "$pathCovidVisualizedCountry/LANL/do CovidVisualizedCountry LANL.do" 
 
 do "$pathCovidVisualizedCountry/SRIV/do CovidVisualizedCountry SRIV.do" 
 

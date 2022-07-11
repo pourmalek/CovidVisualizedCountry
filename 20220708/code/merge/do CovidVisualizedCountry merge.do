@@ -69,7 +69,7 @@ drop _merge
 
 
 
-* IMPE
+/* IMPE
 
 if regexm(c(os),"Mac") == 1 {
 
@@ -78,7 +78,7 @@ if regexm(c(os),"Mac") == 1 {
 else if regexm(c(os),"Windows") == 1 merge 1:1 date using "$pathCovidVisualizedCountry\IMPE\CovidVisualizedCountry IMPE.dta"
 
 drop _merge
-
+*/
 
 
 * SRIV
@@ -164,7 +164,7 @@ label var TotITDMeSmA02S03  "Total infections to Deaths S3 IHME"
 
 
 
-
+/*
 gen DayITDMeRaA03S01  = DayINFMeRaA03S01  / DayDeaMeRaA03S01   
 
 label var DayITDMeRaA03S01  "Daily infections to Deaths S1 IMPE"
@@ -194,7 +194,7 @@ label var DayITDMeRaA03S03  "Daily infections to Deaths S3 IMPE"
 gen TotITDMeRaA03S03  = TotINFMeRaA03S03  / TotDeaMeRaA03S03   
 
 label var TotITDMeRaA03S03  "Total infections to Deaths S3 IMPE"
-
+*/
 
 
 gen DayCTDMeRaA05S00  = DayCasMeRaA05S00  / DayDeaMeRaA05S00   
@@ -333,7 +333,7 @@ gen DayDERMeSmA02S03 = DayDeaMeSmA02S03 / DayDeaMeRaA00S00
 label var DayDERMeSmA02S03 "Daily Deaths estim to reported Mean not smoothed IHME S3"
 
 
-
+/*
 gen DayDERMeRaA03S01 = DayDeaMeRaA03S01 / DayDeaMeRaA00S00
 
 label var DayDERMeRaA03S01 "Daily Deaths estim to reported Mean S1 IMPE"
@@ -347,7 +347,7 @@ label var DayDERMeRaA03S02 "Daily Deaths estim to reported Mean S2 IMPE"
 gen DayDERMeRaA03S03 = DayDeaMeRaA03S03 / DayDeaMeRaA00S00
 
 label var DayDERMeRaA03S03 "Daily Deaths estim to reported Mean S3 IMPE"
-
+*/
 
 
 gen DayDERMeRaA05S00  = DayDeaMeRaA05S00 / DayDeaMeRaA00S00
@@ -381,14 +381,14 @@ gen DayIERMeSmA02S02 = DayINFMeSmA02S02 / DayCasMeRaA00S00
 
 label var DayIERMeSmA02S02 "Daily infections estim to reported cases Mean not smoothed IHME S2"
 
-
+/*
 gen DayIERMeSmA02S03 = DayINFMeSmA02S03 / DayCasMeRaA00S00
 
 label var DayIERMeSmA02S03 "Daily infections estim to reported cases Mean not smoothed IHME S3"
+*/
 
 
-
-
+/*
 gen DayIERMeRaA03S01 = DayINFMeRaA03S01 / DayCasMeRaA00S00
 
 label var DayIERMeRaA03S01 "Daily infections estim to reported cases Mean S1 IMPE"
@@ -402,7 +402,7 @@ label var DayIERMeRaA03S02 "Daily infections estim to reported cases Mean S2 IMP
 gen DayIERMeRaA03S03 = DayINFMeRaA03S03 / DayCasMeRaA00S00
 
 label var DayIERMeRaA03S03 "Daily infections estim to reported cases Mean S3 IMPE"
-
+*/
 
 
 gen DayCERMeRaA05S00  = DayCasMeRaA05S00 / DayCasMeRaA00S00
@@ -440,7 +440,7 @@ gen TotDERMeSmA02S03 = TotDeaMeSmA02S03 / TotDeaMeRaA00S00
 
 label var TotDERMeSmA02S03 "Total Deaths estim to reported Mean not smoothed IHME S3"
 
-
+/*
 gen TotDERMeRaA03S01 = TotDeaMeRaA03S01 / TotDeaMeRaA00S00
 
 label var TotDERMeRaA03S01 "Total Deaths estim to reported Mean S1 IMPE"
@@ -454,7 +454,7 @@ label var TotDERMeRaA03S02 "Total Deaths estim to reported Mean S2 IMPE"
 gen TotDERMeRaA03S03 = TotDeaMeRaA03S03 / TotDeaMeRaA00S00
 
 label var TotDERMeRaA03S03 "Total Deaths estim to reported Mean S3 IMPE"
-
+*/
 
 gen TotDERMeRaA05S00  = TotDeaMeRaA05S00 / TotDeaMeRaA00S00
 
@@ -492,7 +492,7 @@ gen TotIERMeSmA02S03 = TotINFMeSmA02S03 / TotCasMeRaA00S00
 
 label var TotIERMeSmA02S03 "Total infections estim to reported cases Mean not smoothed IHME S3"
 
-
+/*
 gen TotIERMeRaA03S01 = TotINFMeRaA03S01 / TotCasMeRaA00S00
 
 label var TotIERMeRaA03S01 "Total infections estim to reported cases Mean S1 IMPE"
@@ -506,7 +506,7 @@ label var TotIERMeRaA03S02 "Total infections estim to reported cases Mean S2 IMP
 gen TotIERMeRaA03S03 = TotINFMeRaA03S03 / TotCasMeRaA00S00
 
 label var TotIERMeRaA03S03 "Total infections estim to reported cases Mean S3 IMPE"
-
+*/
 
 
 gen TotCERMeRaA05S00  = TotCasMeRaA05S00 / TotCasMeRaA00S00
