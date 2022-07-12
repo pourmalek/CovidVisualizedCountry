@@ -91,7 +91,7 @@ SOURCE WEB PAGE: https://covariants.org/per-country
   
 <br/><br/> 
   
-Legend (Number sequenced and Frequency as of 20220708) :
+Legend (Number sequenced and Frequency as of 20220711) :
   
 ![image](https://user-images.githubusercontent.com/30849720/178399165-a966d100-35da-4c84-8ee2-8803b6770b70.png)
 
