@@ -229,19 +229,19 @@ SOURCE LICENSE: This CoVariants code and work is licensed under a [GNU Affero Ge
 
 (4) Canada Provinces [Daily reported deaths, without National, Ontario, and Quebec, JOHN, 2022](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220708/output/graph%2004%20provinces%20C-19%20daily%20deaths%2C%20Canada%2C%20JOHN%202022.pdf)
 
-book
+![image](https://user-images.githubusercontent.com/30849720/178504203-7f9df5e0-1541-4f46-9c8b-448d3f46379e.png)
 
 ****
 
-(4b) Canada Provinces [Daily reported deaths, without National, Ontario, and Quebec, JOHN, 2022 June](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220708/output/graph%2004%20b%20provinces%20C-19%20daily%20deaths%2C%20Canada%2C%20JOHN%202022.pdf)
+(4b) Canada Provinces [Daily reported deaths, without National, Ontario, and Quebec, JOHN, 2022 June on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220708/output/graph%2004%20b%20provinces%20C-19%20daily%20deaths%2C%20Canada%2C%20JOHN%202022.pdf)
 
-book
+![image](https://user-images.githubusercontent.com/30849720/178504611-145c81da-22fc-4ff0-aab0-7a58872dc0af.png)
 
 ****
 
 (5) Canada Provinces [Daily reported cases, JOHN, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220708/output/graph%2005%20provinces%20C-19%20daily%20cases%2C%20Canada%2C%20JOHN%202020.pdf)
 
-book
+![image](https://user-images.githubusercontent.com/30849720/178504841-6486ac75-5b4f-4547-9c07-3d54d60c226b.png)
 
 ****
 
