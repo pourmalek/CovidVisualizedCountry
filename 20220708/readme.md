@@ -302,7 +302,7 @@ SOURCE LICENSE: This CoVariants code and work is licensed under a [GNU Affero Ge
 
 (14) Canada Provinces [Daily infections, Reference scenario, IHME, 2022](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220708/output/graph%2027%20provinces%20C-19%20daily%20infections%2C%20Canada%2C%20IHME%2C%202022%20on.pdf)
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/30849720/178521063-3d785378-57a3-43cb-88e3-8cbc5cc4e660.png)
 
 ****
 
