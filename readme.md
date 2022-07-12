@@ -143,53 +143,17 @@ JOHN: Johns Hopkins. The coronavirus resource center, Johns Hopkins University, 
 ********************************************************************************************************************************************
 ********************************************************************************************************************************************
 
-### LATEST UPTAKE: uptake [`20220701`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20220701)
+### LATEST UPTAKE: uptake [`20220708`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20220708)
   
-### Study update dates in uptake 20220701
+### Study update dates in uptake 20220708
 
-DELP 20220618, IHME 20220610, No IMPE 20220530, **_SRIV 20220701_** 
+DELP 20220618, IHME 20220610, **_IMPE 20220620_**, **_SRIV 20220708_** 
 
-Days old: DELP 14, IHME 22, IMPE 33, SRIV 0
+Days old: DELP 21, IHME 29, IMPE 19, SRIV 0
 
-The latest IMPE update 20220530 was released on 20220624. Not included.
-
-The PHAC model released its latest update on 2022-02-18.
+The latest IMPE update 20220620 was released on 20220704.
 
 <br/><br/> 
-
-**Summary 20220701:**
-
-**Official reports:**
-
-Officially reported daily deaths are rising in Canada at the national and province levels since 2022-06-25, except in Newfoundland and Labrador, Nova Scotia, and Saskatchewan that reported zero deaths since 2022-06-17. 
-
-Officially reported daily cases are rising in Canada at the national and province levels since 2022-06-28, except in Newfoundland and Labrador, Nova Scotia, and Saskatchewan that reported zero cases since 2022-06-17.
-
-Zero reported cases since 2022-06-17 in Newfoundland and Labrador, Nova Scotia, and Saskatchewan means that reporting has shut down in these provinces. 
-
-
-**Models’ predictions:**
-
-The IHME model (update 2022-06-10) predicted rise in national and provincial infections starting from August 2022, reaching up to 30,000 national daily infections by the end of October 2022. Such levels of predicted daily infections have not been seen before December 2021, meaning that the Omicron is still causing multitudes of infections and cases.
-
-Reported daily deaths surpass the IHME predictions (since release of IHME’s latest update on update 2022-06-10 till the date of this uptake, i.e., update 2022-07-01), at the national and province levels (except for Newfoundland and Labrador, Nova Scotia, and Saskatchewan, in which the reporting is on vacation). 
-
-The SRIV model (update 2022-07-01) predicts a rise in daily deaths at the national level, reaching 50 about early September and more than 200 daily deaths in about early October 2022. Their prediction of daily cases at these dates is about 20,000 about early September and about 80,000 in about early October 2022.
-
-
-**Variants:**
-
-According to CoVariants by Emma B. Hodcroft, on April 4, 2022, 87% of variants sequenced in Canada were Omicron 21 L (BA.2). On June 27, 2002, composition of subvariants, all Omicron, were BA.2.12.1 (22 C) 43%, BA.2)(21 L) 34%, BA.5 (22 B) 21%, and BA.4 (22 A) 2% (out of 47 sequences). 
-
-
-SOURCE CITATION: Emma B. Hodcroft. 2021. "CoVariants: SARS-CoV-2 Mutations and Variants of Interest." https://covariants.org/
-
-SOURCE WEB PAGE: https://covariants.org/per-country
-
-<br/><br/> 
-
-
-
 
 
   
@@ -1286,7 +1250,7 @@ and /20220318/ denotes the date of uptake.
 
 
 
-
+(69) uptake [`20220708`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20220708): DELP 20220618, IHME 20220610, **_IMPE 20220620_**, **_SRIV 20220708_**  || Days old: DELP 21, IHME 29, IMPE 19, SRIV 0
 
 (68) uptake [`20220701`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20220701): DELP 20220618, IHME 20220610, No IMPE 20220530, **_SRIV 20220701_**  || Days old: DELP 14, IHME 22, IMPE 33, SRIV 0
 
