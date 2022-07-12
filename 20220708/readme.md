@@ -589,7 +589,7 @@ SOURCE LICENSE: This CoVariants code and work is licensed under a [GNU Affero Ge
 
 (4b) Ontario [Daily cases or infections, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220708/output/SUB5%2032cDayCasMERGsub%202022%20Ontario%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202022.pdf)
 
-book
+![image](https://user-images.githubusercontent.com/30849720/178533048-901d7a7d-1228-430c-80d4-e9b165dfe6aa.png)
 
 ****
 
@@ -600,7 +600,7 @@ book
 
 (4d) Ontario [Daily cases, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220708/output/SUB5%2032eDayCasMERGsub%202022%20Ontario%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202022.pdf)
 
-book
+![image](https://user-images.githubusercontent.com/30849720/178533914-37722bc2-f5e1-4c54-9c09-71acdcfd36fa.png)
 
 ****
 
