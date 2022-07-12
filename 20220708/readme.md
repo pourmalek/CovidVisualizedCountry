@@ -374,7 +374,7 @@ SOURCE LICENSE: This CoVariants code and work is licensed under a [GNU Affero Ge
 
 (2c) British Columbia [Daily deaths, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220708/output/SUB2%2012dDayDeaMERGsub%202022%20British%20Columbia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%202022.pdf)
 
-book
+![image](https://user-images.githubusercontent.com/30849720/178527019-48f08c04-5757-464d-b865-276f59a57152.png)
 
 ****
 
@@ -390,7 +390,7 @@ book
 
 (4b) British Columbia [Daily cases or infections, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220708/output/SUB5%2032cDayCasMERGsub%202022%20British%20Columbia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%202022.pdf)
 
-book
+![image](https://user-images.githubusercontent.com/30849720/178527167-74399ab4-8f8e-414b-97b7-dc21eb02bfdf.png)
 
 ****
 
@@ -401,7 +401,7 @@ book
 
 (4d) British Columbia [Daily cases, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220708/output/SUB5%2032eDayCasMERGsub%202022%20British%20Columbia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%202022.pdf)
 
-book
+![image](https://user-images.githubusercontent.com/30849720/178527354-4b2a1c8d-e723-42d3-8b72-cd149235caba.png)
 
 ****
 
