@@ -381,11 +381,11 @@ gen DayIERMeSmA02S02 = DayINFMeSmA02S02 / DayCasMeRaA00S00
 
 label var DayIERMeSmA02S02 "Daily infections estim to reported cases Mean not smoothed IHME S2"
 
-/*
+
 gen DayIERMeSmA02S03 = DayINFMeSmA02S03 / DayCasMeRaA00S00
 
 label var DayIERMeSmA02S03 "Daily infections estim to reported cases Mean not smoothed IHME S3"
-*/
+
 
 
 /*
@@ -3898,7 +3898,7 @@ twoway ///
 (line DayDeaMeSmA00S00XON date, sort lwidth(medium) lcolor(red)) /// 7 "ON" red
 (line DayDeaMeSmA00S00XQC date, sort lwidth(medium) lcolor(green)) /// 9 "QC" green
 (line DayDeaMeSmA00S00XSK date, sort lwidth(medium) lcolor(brown)) /// 8 "SK" orange
-if date >= td(01jan2020) & date <= td(01jul2022) ///
+if date >= td(01jan2020) & date <= td(01aug2022) ///
 , xtitle(Date) xlabel(#$monthspast01jan2020JOHN, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(forty_five)) ///
 ytitle(Daily deaths) title("C-19 daily deaths, smooth, $country provinces, JOHN, 2020 on", size(medium)) ///
@@ -3924,7 +3924,7 @@ twoway ///
 (line DayDeaMeSmA00S00XON date, sort lwidth(medium) lcolor(red)) /// 7 "ON" red
 (line DayDeaMeSmA00S00XQC date, sort lwidth(medium) lcolor(green)) /// 9 "QC" green
 (line DayDeaMeSmA00S00XSK date, sort lwidth(medium) lcolor(brown)) /// 8 "SK" orange
-if date >= td(01jan2021) & date <= td(01jul2022) ///
+if date >= td(01jan2021) & date <= td(01aug2022) ///
 , xtitle(Date) xlabel(#$monthspast01jan2021JOHN, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(forty_five)) ///
 ytitle(Daily deaths) title("C-19 daily deaths, smooth, $country provinces, JOHN, 2021 on", size(medium)) ///
@@ -3951,7 +3951,7 @@ twoway ///
 (line DayDeaMeSmA00S00XON date, sort lwidth(medium) lcolor(red)) /// 7 "ON" red
 (line DayDeaMeSmA00S00XQC date, sort lwidth(medium) lcolor(green)) /// 9 "QC" green
 (line DayDeaMeSmA00S00XSK date, sort lwidth(medium) lcolor(brown)) /// 8 "SK" orange
-if date >= td(01jan2022) & date <= td(01jul2022) ///
+if date >= td(01jan2022) & date <= td(01aug2022) ///
 , xtitle(Date) xlabel(#$monthspast01jan2022JOHN, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(forty_five)) ///
 ytitle(Daily deaths) title("C-19 daily deaths, smooth, $country provinces, JOHN, 2022", size(medium)) ///
@@ -3979,7 +3979,7 @@ twoway ///
 (line DayDeaMeSmA00S00XON date, sort lwidth(medium) lcolor(red)) /// 7 "ON" red
 (line DayDeaMeSmA00S00XQC date, sort lwidth(medium) lcolor(green)) /// 9 "QC" green
 (line DayDeaMeSmA00S00XSK date, sort lwidth(medium) lcolor(brown)) /// 8 "SK" orange
-if date >= td(01jun2022) & date <= td(01jul2022) ///
+if date >= td(01jun2022) & date <= td(01aug2022) ///
 , xtitle(Date) xlabel(, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(forty_five)) ///
 ytitle(Daily deaths) title("C-19 daily deaths, smooth, $country provinces, JOHN, 2022 June", size(medium)) ///
@@ -4003,7 +4003,7 @@ twoway ///
 (line DayDeaMeSmA00S00XNL date, sort lwidth(medium) lcolor(gold)) /// 4 "NL" gold
 (line DayDeaMeSmA00S00XNS date, sort lwidth(medium) lcolor(magenta)) /// 5 "NS" magenta
 (line DayDeaMeSmA00S00XSK date, sort lwidth(medium) lcolor(brown)) /// 6 "SK" orange
-if date >= td(01jan2022) & date <= td(01jul2022) ///
+if date >= td(01jan2022) & date <= td(01aug2022) ///
 , xtitle(Date) xlabel(#$monthspast01jan2022JOHN, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(forty_five)) ///
 ytitle(Daily deaths) title("C-19 daily deaths, smooth, $country provinces, JOHN, 2022", size(medium)) ///
@@ -4028,7 +4028,7 @@ twoway ///
 (line DayDeaMeSmA00S00XNL date, sort lwidth(medium) lcolor(gold)) /// 4 "NL" gold
 (line DayDeaMeSmA00S00XNS date, sort lwidth(medium) lcolor(magenta)) /// 5 "NS" magenta
 (line DayDeaMeSmA00S00XSK date, sort lwidth(medium) lcolor(brown)) /// 6 "SK" orange
-if date >= td(01jun2022) & date <= td(01jul2022) ///
+if date >= td(01jun2022) & date <= td(01aug2022) ///
 , xtitle(Date) xlabel(, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(forty_five)) ///
 ytitle(Daily deaths) title("C-19 daily deaths, smooth, $country provinces, JOHN, 2022 June", size(medium)) ///
@@ -4056,7 +4056,7 @@ twoway ///
 (line DayCasMeSmA00S00XON date, sort lwidth(medium) lcolor(red)) /// 7 "ON" red
 (line DayCasMeSmA00S00XQC date, sort lwidth(medium) lcolor(green)) /// 8 "QC" green
 (line DayCasMeSmA00S00XSK date, sort lwidth(medium) lcolor(brown)) /// 9 "SK" orange
-if date >= td(01jan2020) & date <= td(01jul2022) ///
+if date >= td(01jan2020) & date <= td(01aug2022) ///
 , xtitle(Date) xlabel(#$monthspast01jan2020JOHN, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(forty_five)) ///
 ytitle(Daily cases) title("C-19 daily cases, smooth, $country provinces, JOHN, 2020 on", size(medium)) ///
@@ -4082,7 +4082,7 @@ twoway ///
 (line DayCasMeSmA00S00XON date, sort lwidth(medium) lcolor(red)) /// 7 "ON" red
 (line DayCasMeSmA00S00XQC date, sort lwidth(medium) lcolor(green)) /// 8 "QC" green
 (line DayCasMeSmA00S00XSK date, sort lwidth(medium) lcolor(brown)) /// 9 "SK" orange
-if date >= td(01jan2021) & date <= td(01jul2022) ///
+if date >= td(01jan2021) & date <= td(01aug2022) ///
 , xtitle(Date) xlabel(#$monthspast01jan2021JOHN, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(forty_five)) ///
 ytitle(Daily cases) title("C-19 daily cases, smooth, $country provinces, JOHN, 2021 on", size(medium)) ///
@@ -4109,7 +4109,7 @@ twoway ///
 (line DayCasMeSmA00S00XON date, sort lwidth(medium) lcolor(red)) /// 7 "ON" red
 (line DayCasMeSmA00S00XQC date, sort lwidth(medium) lcolor(green)) /// 8 "QC" green
 (line DayCasMeSmA00S00XSK date, sort lwidth(medium) lcolor(brown)) /// 9 "SK" orange
-if date >= td(01jan2022) & date <= td(01jul2022) ///
+if date >= td(01jan2022) & date <= td(01aug2022) ///
 , xtitle(Date) xlabel(#$monthspast01jan2022JOHN, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(forty_five)) ///
 ytitle(Daily cases) title("C-19 daily cases, smooth, $country provinces, JOHN, 2022", size(medium)) ///
@@ -4136,7 +4136,7 @@ twoway ///
 (line DayCasMeSmA00S00XON date, sort lwidth(medium) lcolor(red)) /// 7 "ON" red
 (line DayCasMeSmA00S00XQC date, sort lwidth(medium) lcolor(green)) /// 8 "QC" green
 (line DayCasMeSmA00S00XSK date, sort lwidth(medium) lcolor(brown)) /// 9 "SK" orange
-if date >= td(01jun2022) & date <= td(01jul2022) ///
+if date >= td(01jun2022) & date <= td(01aug2022) ///
 , xtitle(Date) xlabel(, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(forty_five)) ///
 ytitle(Daily cases) title("C-19 daily cases, smooth, $country provinces, JOHN, 2022 June", size(medium)) ///
@@ -4159,7 +4159,7 @@ twoway ///
 (line DayCasMeSmA00S00XNL date, sort lwidth(medium) lcolor(gold)) /// 4 "NL" gold
 (line DayCasMeSmA00S00XNS date, sort lwidth(medium) lcolor(magenta)) /// 5 "NS" magenta
 (line DayCasMeSmA00S00XSK date, sort lwidth(medium) lcolor(brown)) /// 6 "SK" orange
-if date >= td(01jan2022) & date <= td(01jul2022) ///
+if date >= td(01jan2022) & date <= td(01aug2022) ///
 , xtitle(Date) xlabel(#$monthspast01jan2022JOHN, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(forty_five)) ///
 ytitle(Daily cases) title("C-19 daily cases, smooth, $country provinces, JOHN, 2022", size(medium)) ///
@@ -4184,7 +4184,7 @@ twoway ///
 (line DayCasMeSmA00S00XNL date, sort lwidth(medium) lcolor(gold)) /// 4 "NL" gold
 (line DayCasMeSmA00S00XNS date, sort lwidth(medium) lcolor(magenta)) /// 5 "NS" magenta
 (line DayCasMeSmA00S00XSK date, sort lwidth(medium) lcolor(brown)) /// 6 "SK" orange
-if date >= td(01jun2022) & date <= td(01jul2022) ///
+if date >= td(01jun2022) & date <= td(01aug2022) ///
 , xtitle(Date) xlabel(, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(forty_five)) ///
 ytitle(Daily cases) title("C-19 daily cases, smooth, $country provinces, JOHN, 2022 June", size(medium)) ///
