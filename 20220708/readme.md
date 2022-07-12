@@ -87,19 +87,19 @@ SOURCE WEB PAGE: https://covariants.org/per-country
   
 (000) Canada [Variants composition, Ending 27 June 2022, CoVariants by Emma B. Hodcroft](https://covariants.org/per-country?country=Canada)
   
-book
+![image](https://user-images.githubusercontent.com/30849720/178399000-4ba782a1-0c81-4f06-916a-e692c494021a.png)
   
 <br/><br/> 
   
 Legend (Number sequenced and Frequency as of 20220708) :
   
-book
+![image](https://user-images.githubusercontent.com/30849720/178399165-a966d100-35da-4c84-8ee2-8803b6770b70.png)
 
 <br/><br/> 
 
 Mapping of variants nomenclature schemes 
 
-book
+![image](https://user-images.githubusercontent.com/30849720/178399252-54ae1961-6be5-4e87-9e8e-95cb7cc79cfa.png)
 
 https://covariants.org
 
