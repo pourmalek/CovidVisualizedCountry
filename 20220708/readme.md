@@ -437,7 +437,7 @@ SOURCE LICENSE: This CoVariants code and work is licensed under a [GNU Affero Ge
 
 (2c) Manitoba [Daily deaths, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220708/output/SUB2%2012dDayDeaMERGsub%202022%20Manitoba%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios%2C%202022.pdf)
 
-book
+![image](https://user-images.githubusercontent.com/30849720/178527942-10aa35d6-9b10-41b6-97b6-d55b95e19381.png)
 
 ****
 
@@ -453,7 +453,7 @@ book
 
 (4b) Manitoba [Daily cases or infections, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220708/output/SUB5%2032cDayCasMERGsub%202022%20Manitoba%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios%2C%202022.pdf)
 
-book
+![image](https://user-images.githubusercontent.com/30849720/178528177-1d6faab1-1b2a-413c-97a8-ba3a904dbeaf.png)
 
 ****
 
@@ -464,7 +464,7 @@ book
 
 (4d) Manitoba [Daily cases, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220708/output/SUB5%2032eDayCasMERGsub%202022%20Manitoba%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios%2C%202022.pdf)
 
-book
+![image](https://user-images.githubusercontent.com/30849720/178528364-51f04d4c-dbb9-4498-b3a1-eff4359b686f.png)
 
 ****
 
