@@ -510,7 +510,7 @@ SOURCE LICENSE: This CoVariants code and work is licensed under a [GNU Affero Ge
 
 (2c) Nova Scotia [Daily deaths, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220708/output/SUB2%2012dDayDeaMERGsub%202022%20Nova%20Scotia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Nova%20Scotia%2C%20reference%20scenarios%2C%202022.pdf)
 
-book
+![image](https://user-images.githubusercontent.com/30849720/178528677-afc1f80f-fbc1-4377-84b6-7ab6171c5128.png)
 
 ****
 
@@ -526,7 +526,7 @@ book
 
 (4b) Nova Scotia [Daily cases or infections, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220708/output/SUB5%2032cDayCasMERGsub%202022%20Nova%20Scotia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Nova%20Scotia%2C%20reference%20scenarios%2C%202022.pdf)
 
-book
+![image](https://user-images.githubusercontent.com/30849720/178529013-82429094-56c3-4aaf-99e4-c9ede0a9a14a.png)
 
 ****
 
@@ -537,7 +537,7 @@ book
 
 (4d) Nova Scotia [Daily cases, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220708/output/SUB5%2032eDayCasMERGsub%202022%20Nova%20Scotia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Nova%20Scotia%2C%20reference%20scenarios%2C%202022.pdf)
 
-book
+![image](https://user-images.githubusercontent.com/30849720/178529408-d5534a83-deba-48b8-839b-f1ff82258f94.png)
 
 ****
 
