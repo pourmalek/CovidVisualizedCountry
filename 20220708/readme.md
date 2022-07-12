@@ -82,7 +82,7 @@ SOURCE CITATION: Emma B. Hodcroft. 2021. "CoVariants: SARS-CoV-2 Mutations and V
 
 SOURCE WEB PAGE: https://covariants.org/per-country 
 
-DATE ACCESED: 20220708
+DATE ACCESED: 20220711
   
 SOURCE LICENSE: This CoVariants code and work is licensed under a [GNU Affero General Public License (AGPL)](https://www.gnu.org/licenses/agpl-3.0.en.html). You can view this license [here](https://github.com/hodcroftlab/covariants/blob/master/LICENSE.md)
   
