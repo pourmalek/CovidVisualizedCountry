@@ -4019,7 +4019,7 @@ qui graph export "graph 04 provinces C-19 daily deaths, $country, JOHN 2022.pdf"
 
 
 *******************************************************
-* 4 b daily deaths, provinces, 2022 June, Without National, Ontario, and Quebec
+* 4 b daily deaths, provinces, 2022 June on, Without National, Ontario, and Quebec
 
 twoway ///
 (line DayDeaMeSmA00S00XAB date, sort lwidth(medium) lcolor(cyan)) /// 1 "AB" cyan
