@@ -2,7 +2,7 @@
 
 ## ! THE MOST RECENT WEEKLY SITUATION REPORT, EVERY MONDAY MORNING, HERE:
 
-! Read the Canada COVID-19 epidemic models situation report No 54 - 2022-07-08 [here](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/54%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2054%20-%202022-07-08.pdf)
+! Read the Canada COVID-19 epidemic models situation report No 55 - 2022-07-15 [here](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/55%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2055%20-%202022-07-15.pdf)
 
 <br/><br/>
 
@@ -167,7 +167,7 @@ Ontario reported all-time-high 1,153 COVID-19 deaths on 14 Jul 2022, resulting i
 ******
 
   
-# :eyes: SEE: See Canada COVID-19 epidemic models situation report No 54 - 2022-07-08, [here](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/54%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2054%20-%202022-07-08.pdf)
+# :eyes: SEE: See Canada COVID-19 epidemic models situation report No 55 - 2022-07-15, [here](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/55%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2055%20-%202022-07-15.pdf)
 
 <br/><br/>
   
