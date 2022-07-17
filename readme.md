@@ -143,15 +143,22 @@ JOHN: Johns Hopkins. The coronavirus resource center, Johns Hopkins University, 
 ********************************************************************************************************************************************
 ********************************************************************************************************************************************
 
-### LATEST UPTAKE: uptake [`20220708`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20220708)
+### LATEST UPTAKE: uptake [`20220715`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20220715)
   
-### Study update dates in uptake 20220708
+### Study update dates in uptake 20220715
 
-DELP 20220618, IHME 20220610, **_IMPE 20220620_**, **_SRIV 20220708_** 
+DELP 20220618, IHME 20220610, **_IMPE 20220703_**, **_SRIV 20220715_** 
 
-Days old: DELP 21, IHME 29, IMPE 19, SRIV 0
+Days old: DELP 28, IHME 36, IMPE 13, SRIV 0
 
-The latest IMPE update 20220620 was released on 20220704.
+The latest IMPE update 20220703 was released on 20220711.
+
+<br/><br/> 
+
+
+**Summary 20220715:**
+
+Ontario reported all-time-high 1,153 COVID-19 deaths on 14 Jul 2022, resulting in Ontario smoothed daily deaths of 240 and Canada smoothed daily deaths of 270 on 15 Jul 2022.
 
 <br/><br/> 
 
@@ -1249,6 +1256,8 @@ and /20220318/ denotes the date of uptake.
 
 
 
+
+(70) uptake [`20220715`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20220715): DELP 20220618, IHME 20220610, **_IMPE 20220703_**, **_SRIV 20220715_**  || Days old: DELP 28, IHME 36, IMPE 13, SRIV 0
 
 (69) uptake [`20220708`](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20220708): DELP 20220618, IHME 20220610, **_IMPE 20220620_**, **_SRIV 20220708_**  || Days old: DELP 21, IHME 29, IMPE 19, SRIV 0
 
