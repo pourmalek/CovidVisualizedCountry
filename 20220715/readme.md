@@ -54,21 +54,21 @@ The latest IMPE update 20220703 was released on 20220711.
 
 ****
   
-(000) Canada [Variants composition, Ending 11mmmmm July 2022, CoVariants by Emma B. Hodcroft](https://covariants.org/per-country?country=Canada)
+(000) Canada [Variants composition, Ending 11 July 2022, CoVariants by Emma B. Hodcroft](https://covariants.org/per-country?country=Canada)
   
-book
+![image](https://user-images.githubusercontent.com/30849720/179416149-a66896af-dcfa-4275-8040-117af0a77094.png)
   
 <br/><br/> 
   
-Legend (Number sequenced and Frequency as of 20220715) :
+Legend (Number sequenced and Frequency as of 20220717) :
   
-book
+![image](https://user-images.githubusercontent.com/30849720/179416174-907d9abd-3c83-49e4-bf66-bcf5f8b6a046.png)
 
 <br/><br/> 
 
 Mapping of variants nomenclature schemes 
 
-book
+![image](https://user-images.githubusercontent.com/30849720/179416190-f91d1c80-c2dd-4367-be90-10df956293d7.png)
 
 https://covariants.org
 
@@ -82,7 +82,7 @@ SOURCE CITATION: Emma B. Hodcroft. 2021. "CoVariants: SARS-CoV-2 Mutations and V
 
 SOURCE WEB PAGE: https://covariants.org/per-country 
 
-DATE ACCESED: 20220715
+DATE ACCESED: 20220717
   
 SOURCE LICENSE: This CoVariants code and work is licensed under a [GNU Affero General Public License (AGPL)](https://www.gnu.org/licenses/agpl-3.0.en.html). You can view this license [here](https://github.com/hodcroftlab/covariants/blob/master/LICENSE.md)
   
@@ -90,7 +90,7 @@ SOURCE LICENSE: This CoVariants code and work is licensed under a [GNU Affero Ge
 
 (1) Canada [Daily deaths, Reference scenarios, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220715/output/CAN1%2011aDayDeaMERGnat%20alltime%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
-book
+![image](https://user-images.githubusercontent.com/30849720/179416244-ca56f205-5442-42d0-900b-cb38b183b815.png)
 
 ****
 
@@ -101,13 +101,13 @@ book
 
 (2b) Canada National [Daily deaths, All scenarios, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220715/output/CAN2%2012aaDayDeaMERGnat%202022%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%202022.pdf)
 
-book
+![image](https://user-images.githubusercontent.com/30849720/179416272-8872a05a-bd0e-4b5e-b7a4-8657e1bcfbad.png)
 
 ****
 
 (3) Canada National [Daily cases or infections, Reference scenarios, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220715/output/CAN4%2031aDayCasMERGnat%20alltime%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20National%2C%20reference%20scenarios.pdf)
 
-book
+![image](https://user-images.githubusercontent.com/30849720/179416310-0b65b785-cdef-4edb-a063-2eaf50b7ab16.png)
 
 ****
 
@@ -118,7 +118,7 @@ book
 
 (4b) Canada National [Daily cases or infections, All scenarios, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220715/output/CAN6%2034aaDayCasMERGnat%202021%203scen%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20National%2C%203%20scenarios%2C%202022%2C%20uncertainty.pdf)
 
-book
+![image](https://user-images.githubusercontent.com/30849720/179416348-574aca76-61a1-46d2-bbde-0d99289c77de.png)
 
 ****
 
