@@ -12,6 +12,11 @@ The latest IMPE update 20220703 was released on 20220711.
 <br/><br/> 
 
 
+**Summary 20220715:**
+
+Ontario reported all-time-high 1,153 COVID-19 deaths on 14 Jul 2022, resulting in Ontario smoothed daily deaths of 240 and Canada smoothed daily deaths of 270 on 15 Jul 2022.
+
+<br/><br/> 
 
 
 ****
