@@ -38,15 +38,16 @@ di "$country"                                                                   
 global DELPepoch 19Jun2022 // update release date
 *            2/ ----------
 
-global IHMEepoch 10Jul2022 // as per https://covid19.healthdata.org/canada?view=daily-deaths&tab=trend
+global IHMEepochXXX 10Jul2022 // as per https://covid19.healthdata.org/canada?view=daily-deaths&tab=trend
 *            3/ ----------
-* Alberta 			29Jun2022
-* British Columbia	29Jun2022
-* Manitoba 			29Jun2022
-* Nova Scotia		29Jun2022
-* Ontario 			29Jun2022
-* Quebec			29Jun2022
-* Saskatchewan		22Jun2022
+global IHMEepochXAB 29Jun2022 // Alberta 	
+global IHMEepochXBC 29Jun2022 // British Columbia 	
+global IHMEepochXMB 29Jun2022 // Manitoba 	
+global IHMEepochXNS 29Jun2022 // Nova Scotia 	
+global IHMEepochXON 29Jun2022 // Ontario 	
+global IHMEepochXQC 29Jun2022 // Quebec 	
+global IHMEepochXSK 22Jun2022 // Saskatchewan 	
+
 
 global IMPEdate 2022-07-03_v9 
 *            4/ -------------

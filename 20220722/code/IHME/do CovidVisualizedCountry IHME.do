@@ -1312,15 +1312,15 @@ label var DayINFFatUpSmA02S01 "Daily Fatal Infections Upper smoothed IHME S1"
 
 
 * Forecast start date (as per https://covid19.healthdata.org/canada?view=daily-deaths&tab=trend)
-gen epoch_IHME = td($IHMEepoch)
+gen epoch_IHME = td($IHMEepochXXX)
 label var epoch_IHME "IHME Forecast start date"
 
 gen DayDeaFOREA02S01 = DayDeaMeSmA02S01
-replace DayDeaFOREA02S01 = . if date < td($IHMEepoch)
+replace DayDeaFOREA02S01 = . if date < td($IHMEepochXXX)
 label var DayDeaFOREA02S01 "Daily Forecasted Deaths Mean smoothed IHME S1"
 
 gen DayINFFOREA02S01 = DayINFMeSmA02S01
-replace DayINFFOREA02S01 = . if date < td($IHMEepoch)
+replace DayINFFOREA02S01 = . if date < td($IHMEepochXXX)
 label var DayINFFOREA02S01 "Daily Forecasted infections Mean smoothed IHME S1"
 
 
@@ -1409,6 +1409,20 @@ DayDeaFOREA02S01 DayINFFOREA02S01 {
 					
 }
 *
+
+
+replace DayDeaFOREA02S01XAB = . if date < td($IHMEepochXAB)
+replace DayDeaFOREA02S01XBC = . if date < td($IHMEepochXBC)
+replace DayDeaFOREA02S01XMB = . if date < td($IHMEepochXMB)
+replace DayDeaFOREA02S01XNB = . if date < td($IHMEepochXXX)
+replace DayDeaFOREA02S01XNL = . if date < td($IHMEepochXXX)
+replace DayDeaFOREA02S01XNS = . if date < td($IHMEepochXNS)
+replace DayDeaFOREA02S01XON = . if date < td($IHMEepochXON)
+replace DayDeaFOREA02S01XQC = . if date < td($IHMEepochXQC)
+replace DayDeaFOREA02S01XSK = . if date < td($IHMEepochXSK)
+
+
+
 
 
 
