@@ -52,40 +52,6 @@ Latest models' updates > 2 weeks are not included.
 ### Selected graphs - Canada, National
 
 ****
-  
-(000) Canada [Variants composition, Ending 11 July 2022, CoVariants by Emma B. Hodcroft](https://covariants.org/per-country?country=Canada)
-  
-book
-  
-<br/><br/> 
-  
-Legend (Number sequenced and Frequency as of 20220717) :
-  
-book
-
-<br/><br/> 
-
-Mapping of variants nomenclature schemes 
-
-book
-
-https://covariants.org
-
-CoVariants uses the Nextstrain naming system for variants ([here](https://nextstrain.org/blog/2021-01-06-updated-SARS-CoV-2-clade-naming)). 
-
-WHO variants nomenclature scheme ([here](https://www.who.int/en/activities/tracking-SARS-CoV-2-variants/)).
-
-<br/><br/> 
-  
-SOURCE CITATION: Emma B. Hodcroft. 2021. "CoVariants: SARS-CoV-2 Mutations and Variants of Interest." https://covariants.org/
-
-SOURCE WEB PAGE: https://covariants.org/per-country 
-
-DATE ACCESED: 20220717
-  
-SOURCE LICENSE: This CoVariants code and work is licensed under a [GNU Affero General Public License (AGPL)](https://www.gnu.org/licenses/agpl-3.0.en.html). You can view this license [here](https://github.com/hodcroftlab/covariants/blob/master/LICENSE.md)
-  
-****
 
 (1) Canada [Daily deaths, Reference scenarios, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220722/output/CAN1%2011aDayDeaMERGnat%20alltime%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
