@@ -593,7 +593,7 @@ book
 
 (1) Quebec [Daily deaths, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220722/output/SUB1%2011bDayDeaMERGsub%20alltime%20Quebec%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
-book
+![image](https://user-images.githubusercontent.com/30849720/180626269-ef44d676-4815-409c-bc76-0487fc8f0be5.png)
   
 ****
 
@@ -609,7 +609,7 @@ book
 
 (2c) Quebec [Daily deaths, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220722/output/SUB2%2012dDayDeaMERGsub%202022%20Quebec%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%202022.pdf)
 
-book
+![image](https://user-images.githubusercontent.com/30849720/180626281-99795e09-dcc0-4535-97ff-3a051c9dd987.png)
 
 ****
 
@@ -625,7 +625,7 @@ book
 
 (4b) Quebec [Daily cases or infections, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220722/output/SUB5%2032cDayCasMERGsub%202022%20Quebec%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%202022.pdf)
 
-book
+![image](https://user-images.githubusercontent.com/30849720/180626300-40bd2af2-1d0c-4af1-91ee-10a9c35f342b.png)
 
 ****
 
@@ -636,7 +636,7 @@ book
 
 (4d) Quebec [Daily cases, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220722/output/SUB5%2032eDayCasMERGsub%202022%20Quebec%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%202022.pdf)
 
-book
+![image](https://user-images.githubusercontent.com/30849720/180626318-224306aa-328f-4df2-8798-86b42c0a04e0.png)
 
 ****
 
