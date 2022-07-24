@@ -2470,7 +2470,7 @@ if date >= td(01jan2022) & provincestate == " National" & DayCasMeRaA00S00 >= 0 
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
 ytitle(Daily cases or infections) title("COVID-19 daily cases or infections, $country, National", size(medium)) ///
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
-legend(order(1 "JOHN cases" 2 "IHME infections" 5 "IMPE infections") size(small) rows(1)) ///
+legend(order(1 "JOHN cases" 2 "IHME infections") size(small) rows(1)) ///
 subtitle("IHME and IMPE 3 scenarios, 2022 on", size(small)) ///
 note("Alternate scenarios: tight dot (|||||) curves; IHME")  
 
