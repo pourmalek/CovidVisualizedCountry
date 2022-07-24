@@ -186,106 +186,81 @@ Latest models' updates > 2 weeks are not included.
 ****
   
 
-
-
 ### Selected graphs - Canada, National
 
 ****
-  
-(000) Canada [Variants composition, Ending 11 July 2022, CoVariants by Emma B. Hodcroft](https://covariants.org/per-country?country=Canada)
-  
-![image](https://user-images.githubusercontent.com/30849720/179416149-a66896af-dcfa-4275-8040-117af0a77094.png)
-  
-<br/><br/> 
-  
-Legend (Number sequenced and Frequency as of 20220717) :
-  
-![image](https://user-images.githubusercontent.com/30849720/179416174-907d9abd-3c83-49e4-bf66-bcf5f8b6a046.png)
 
-<br/><br/> 
+(1) Canada [Daily deaths, Reference scenarios, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220722/output/CAN1%2011aDayDeaMERGnat%20alltime%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
-Mapping of variants nomenclature schemes 
-
-![image](https://user-images.githubusercontent.com/30849720/179416190-f91d1c80-c2dd-4367-be90-10df956293d7.png)
-
-https://covariants.org
-
-CoVariants uses the Nextstrain naming system for variants ([here](https://nextstrain.org/blog/2021-01-06-updated-SARS-CoV-2-clade-naming)). 
-
-WHO variants nomenclature scheme ([here](https://www.who.int/en/activities/tracking-SARS-CoV-2-variants/)).
-
-<br/><br/> 
-  
-SOURCE CITATION: Emma B. Hodcroft. 2021. "CoVariants: SARS-CoV-2 Mutations and Variants of Interest." https://covariants.org/
-
-SOURCE WEB PAGE: https://covariants.org/per-country 
-
-DATE ACCESED: 20220717
-  
-SOURCE LICENSE: This CoVariants code and work is licensed under a [GNU Affero General Public License (AGPL)](https://www.gnu.org/licenses/agpl-3.0.en.html). You can view this license [here](https://github.com/hodcroftlab/covariants/blob/master/LICENSE.md)
-  
-****
-
-(1) Canada [Daily deaths, Reference scenarios, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220715/output/CAN1%2011aDayDeaMERGnat%20alltime%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%20all%20time.pdf)
-
-![image](https://user-images.githubusercontent.com/30849720/179416244-ca56f205-5442-42d0-900b-cb38b183b815.png)
+![image](https://user-images.githubusercontent.com/30849720/180616409-dcf57605-25bd-4b67-bbd1-44e4e649823c.png)
 
 ****
 
-(2) Canada National [Daily deaths, All scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220715/output/CAN2%2012aDayDeaMERGnat%202021%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%202021.pdf)
+(2) Canada National [Daily deaths, All scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220722/output/CAN2%2012aDayDeaMERGnat%202021%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%202021.pdf)
 
 
 ****
 
-(2b) Canada National [Daily deaths, All scenarios, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220715/output/CAN2%2012aaDayDeaMERGnat%202022%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%202022.pdf)
+(2b) Canada National [Daily deaths, All scenarios, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220722/output/CAN2%2012aaDayDeaMERGnat%202022%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%202022.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/179416272-8872a05a-bd0e-4b5e-b7a4-8657e1bcfbad.png)
-
-****
-
-(3) Canada National [Daily cases or infections, Reference scenarios, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220715/output/CAN4%2031aDayCasMERGnat%20alltime%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20National%2C%20reference%20scenarios.pdf)
-
-![image](https://user-images.githubusercontent.com/30849720/179416310-0b65b785-cdef-4edb-a063-2eaf50b7ab16.png)
+![image](https://user-images.githubusercontent.com/30849720/180616429-d6b48bfe-6848-4feb-ad1c-746d264e5583.png)
 
 ****
 
-(4) Canada National [Daily cases or infections, All scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220715/output/CAN6%2034aDayCasMERGnat%202021%203scen%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20National%2C%203%20scenarios%2C%202021%2C%20uncertainty.pdf)
+(3) Canada National [Daily cases or infections, Reference scenarios, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220722/output/CAN4%2031aDayCasMERGnat%20alltime%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20National%2C%20reference%20scenarios.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/180616470-5863ea2b-49c5-46db-b8b4-4c7ab306c1cd.png)
+
+****
+
+(4) Canada National [Daily cases or infections, All scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220722/output/CAN6%2034aDayCasMERGnat%202021%203scen%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20National%2C%203%20scenarios%2C%202021%2C%20uncertainty.pdf)
 
  
 ****
 
-(4b) Canada National [Daily cases or infections, All scenarios, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220715/output/CAN6%2034aaDayCasMERGnat%202021%203scen%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20National%2C%203%20scenarios%2C%202022%2C%20uncertainty.pdf)
+(4b) Canada National [Daily cases or infections, All scenarios, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220722/output/CAN6%2034aaDayCasMERGnat%202021%203scen%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20National%2C%203%20scenarios%2C%202022%2C%20uncertainty.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/179416348-574aca76-61a1-46d2-bbde-0d99289c77de.png)
+![image](https://user-images.githubusercontent.com/30849720/180626990-b2da2cc3-74b3-4e42-8d16-42e72c63ec44.png)
 
 ****
 
-(5) Canada National [Daily hospital-related outcomes, Reference scenarios, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220715/output/CAN7%2071a1DayHosMERGnat%20%20alltime%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20National.pdf)
+(4b2) Canada National [Daily cases, All scenarios, DELP and SRIV, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220722/output/CAN6%2034aaaDayCasMERGnat%202021%203scen%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20National%2C%203%20scenarios%2C%202022%2C%20uncertainty.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/180627083-4e543af8-52e3-415c-8230-7e4ecdedfa8e.png)
+
+****
+
+(5) Canada National [Daily hospital-related outcomes, Reference scenarios, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220722/output/CAN7%2071a1DayHosMERGnat%20%20alltime%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20National.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/180627103-e9b1a626-ea44-4805-b0a8-edaadf872431.png)
  
 ****
 
-(6) Canada National [Daily hospital-related outcomes, without IHME Bed need, Reference scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220715/output/CAN8%2073aDayHosMERGnat%202021%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20National%2C%20wo%20extremes%2C%202021.pdf)
+(6) Canada National [Daily hospital-related outcomes, without IHME Bed need, Reference scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220722/output/CAN8%2073aDayHosMERGnat%202021%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20National%2C%20wo%20extremes%2C%202021.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/180627114-05bf00be-edd5-4063-a423-f27c24cfe89f.png)
 
 ****
 
-(7) Canada National [Daily Infection hospitalization and fatality ratios, Reference scenario, IHME, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220715/output/graph%2091a2%20COVID-19%20daily%20Infection%20outcomes%20ratios%2C%20Canada%2C%20National%203%20scenarios%2C%20IHME.pdf)
+(7) Canada National [Daily Infection hospitalization and fatality ratios, Reference scenario, IHME, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220722/output/graph%2091a2%20COVID-19%20daily%20Infection%20outcomes%20ratios%2C%20Canada%2C%20National%203%20scenarios%2C%20IHME.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/180627130-6d84bb10-9337-4026-bdf0-8778e767e6aa.png)
  
 ****
 
-(8) Canada National [Daily percent change in mobility, IHME, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220715/output/graph%2092a%20COVID-19%20daily%20mobility%2C%20Canada%2C%20National%2C%203%20scenarios.pdf)
+(8) Canada National [Daily percent change in mobility, IHME, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220722/output/graph%2092a%20COVID-19%20daily%20mobility%2C%20Canada%2C%20National%2C%203%20scenarios.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/180627154-578b1418-ff37-4a36-88f1-5e20b4fd6cc9.png)
  
 ****
 
-(9) Canada National [Daily mask use, IHME, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220715/output/graph%2093a%20COVID-19%20daily%20mask_use%2C%20Canada%2C%20National%2C%203%20scenarios.pdf)
+(9) Canada National [Daily mask use, IHME, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220722/output/graph%2093a%20COVID-19%20daily%20mask_use%2C%20Canada%2C%20National%2C%203%20scenarios.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/180627167-71ed456e-6834-48e9-9e60-269ebd6e704f.png)
  
 ****
 
-(10) Canada National [Percent cumulative vaccinated, IHME, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220715/output/graph%2094a%20COVID-19%20percent%20cumulative%20vaccinated%2C%20Canada%2C%20National.pdf)
+(10) Canada National [Percent cumulative vaccinated, IHME, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220722/output/graph%2094a%20COVID-19%20percent%20cumulative%20vaccinated%2C%20Canada%2C%20National.pdf)
 
  
 ****
@@ -317,61 +292,61 @@ SOURCE LICENSE: This CoVariants code and work is licensed under a [GNU Affero Ge
 
 ****
 
-(1) Canada Provinces [Daily reported deaths, JOHN, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220715/output/graph%2001%20provinces%20C-19%20daily%20deaths%2C%20Canada%2C%20JOHN%202020.pdf)
+(1) Canada Provinces [Daily reported deaths, JOHN, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220722/output/graph%2001%20provinces%20C-19%20daily%20deaths%2C%20Canada%2C%20JOHN%202020.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/179416425-0e5a5209-75c5-4fa1-9aec-d6a3e879932e.png)
+![image](https://user-images.githubusercontent.com/30849720/180619116-640cc5df-669c-4fdf-8df7-5e0114ab7799.png)
 
 ****
 
-(2) Canada Provinces [Daily reported deaths, JOHN, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220715/output/graph%2002%20provinces%20C-19%20daily%20deaths%2C%20Canada%2C%20JOHN%202021.pdf)
+(2) Canada Provinces [Daily reported deaths, JOHN, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220722/output/graph%2002%20provinces%20C-19%20daily%20deaths%2C%20Canada%2C%20JOHN%202021.pdf)
 
  
 ****
 
-(3) Canada Provinces [Daily reported deaths, JOHN, 2022](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220715/output/graph%2003%20provinces%20C-19%20daily%20deaths%2C%20Canada%2C%20JOHN%202022.pdf)
+(3) Canada Provinces [Daily reported deaths, JOHN, 2022](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220722/output/graph%2003%20provinces%20C-19%20daily%20deaths%2C%20Canada%2C%20JOHN%202022.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/179416460-ae827c22-6470-423a-b64d-4cd2794df624.png)
-
-****
-
-(4) Canada Provinces [Daily reported deaths, without National, Ontario, and Quebec, JOHN, 2022](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220715/output/graph%2004%20provinces%20C-19%20daily%20deaths%2C%20Canada%2C%20JOHN%202022.pdf)
-
-![image](https://user-images.githubusercontent.com/30849720/179416518-e171f2d5-1ace-4deb-95d6-516cf6e5240a.png)
+![image](https://user-images.githubusercontent.com/30849720/180619205-92a4d938-5a77-41f7-b612-47873112b9ee.png)
 
 ****
 
-(4b) Canada Provinces [Daily reported deaths, without National, Ontario, and Quebec, JOHN, 2022 June on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220715/output/graph%2004%20b%20provinces%20C-19%20daily%20deaths%2C%20Canada%2C%20JOHN%202022.pdf)
+(4) Canada Provinces [Daily reported deaths, without National, Ontario, and Quebec, JOHN, 2022](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220722/output/graph%2004%20provinces%20C-19%20daily%20deaths%2C%20Canada%2C%20JOHN%202022.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/179416656-63cdae65-b289-49c7-8e98-9fb20cc805eb.png)
-
-****
-
-(5) Canada Provinces [Daily reported cases, JOHN, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220715/output/graph%2005%20provinces%20C-19%20daily%20cases%2C%20Canada%2C%20JOHN%202020.pdf)
-
-![image](https://user-images.githubusercontent.com/30849720/179416692-5b99dbfc-1e8c-4961-8eef-277c371c1e59.png)
+![image](https://user-images.githubusercontent.com/30849720/180619282-c61d724c-e3f4-4da6-95ad-02342e462ecd.png)
 
 ****
 
-(6) Canada Provinces [Daily reported cases, JOHN, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220715/output/graph%2006%20provinces%20C-19%20daily%20cases%2C%20Canada%2C%20JOHN%202021.pdf)
+(4b) Canada Provinces [Daily reported deaths, without National, Ontario, and Quebec, JOHN, 2022 June on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220722/output/graph%2004%20b%20provinces%20C-19%20daily%20deaths%2C%20Canada%2C%20JOHN%202022.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/180619351-19c3c4c4-2d11-4e4e-ae60-ba28386c1c69.png)
+
+****
+
+(5) Canada Provinces [Daily reported cases, JOHN, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220722/output/graph%2005%20provinces%20C-19%20daily%20cases%2C%20Canada%2C%20JOHN%202020.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/180625792-69d16be4-ce8e-4284-880a-9744f1d92a3d.png)
+
+****
+
+(6) Canada Provinces [Daily reported cases, JOHN, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220722/output/graph%2006%20provinces%20C-19%20daily%20cases%2C%20Canada%2C%20JOHN%202021.pdf)
 
  
 ****
 
-(7) Canada Provinces [Daily reported cases, JOHN, 2022](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220715/output/graph%2007%20provinces%20C-19%20daily%20cases%2C%20Canada%2C%20JOHN%202022.pdf)
+(7) Canada Provinces [Daily reported cases, JOHN, 2022](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220722/output/graph%2007%20provinces%20C-19%20daily%20cases%2C%20Canada%2C%20JOHN%202022.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/179416718-0ae8b970-f92e-4023-a060-e60f7d1750a8.png)
-
-****
-
-(8) Canada Provinces [Daily reported cases, without National, Ontario, and Quebec, JOHN, 2022](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220715/output/graph%2008%20provinces%20C-19%20daily%20cases%2C%20Canada%2C%20JOHN%202022.pdf)
-
-book
+![image](https://user-images.githubusercontent.com/30849720/180625802-2063ca94-11a8-4f89-84cd-63a93c1d3f16.png)
 
 ****
 
-(8b) Canada Provinces [Daily reported cases, without National, Ontario, and Quebec, JOHN, 2022 June on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220715/output/graph%2008%20b%20provinces%20C-19%20daily%20cases%2C%20Canada%2C%20JOHN%202022.pdf)
+(8) Canada Provinces [Daily reported cases, without National, Ontario, and Quebec, JOHN, 2022](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220722/output/graph%2008%20provinces%20C-19%20daily%20cases%2C%20Canada%2C%20JOHN%202022.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/179416735-8871e976-fa58-4d78-966f-cfeb3275e0b2.png)
+![image](https://user-images.githubusercontent.com/30849720/180625821-dea5aa36-ff95-424f-aed4-5ae892ec4bc2.png)
+
+****
+
+(8b) Canada Provinces [Daily reported cases, without National, Ontario, and Quebec, JOHN, 2022 June on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220722/output/graph%2008%20b%20provinces%20C-19%20daily%20cases%2C%20Canada%2C%20JOHN%202022.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/180625838-92556f48-5cf3-4a40-bfbe-83ca331b8429.png)
 
 ****
 
@@ -379,37 +354,37 @@ book
 
 ****
 
-(9) Canada Provinces [Daily deaths, Reference scenario, IHME, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220715/output/graph%2022%20provinces%20C-19%20daily%20deaths%2C%20Canada%2C%20IHME%2C%202020%20on.pdf)
+(9) Canada Provinces [Daily deaths, Reference scenario, IHME, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220722/output/graph%2022%20provinces%20C-19%20daily%20deaths%2C%20Canada%2C%20IHME%2C%202020%20on.pdf)
 
-.
+![image](https://user-images.githubusercontent.com/30849720/180625853-d7142dc1-9e7f-49e1-99f7-4a335c59d90e.png)
 
 ****
 
-(10) Canada Provinces [Daily deaths, Reference scenario, IHME, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220715/output/graph%2023%20provinces%20C-19%20daily%20deaths%2C%20Canada%2C%20IHME%2C%202021%20on.pdf)
+(10) Canada Provinces [Daily deaths, Reference scenario, IHME, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220722/output/graph%2023%20provinces%20C-19%20daily%20deaths%2C%20Canada%2C%20IHME%2C%202021%20on.pdf)
 
  
 ****
 
-(11) Canada Provinces [Daily deaths, Reference scenario, IHME, 2022](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220715/output/graph%2024%20provinces%20C-19%20daily%20deaths%2C%20Canada%2C%20IHME%2C%202022%20on.pdf)
+(11) Canada Provinces [Daily deaths, Reference scenario, IHME, 2022](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220722/output/graph%2024%20provinces%20C-19%20daily%20deaths%2C%20Canada%2C%20IHME%2C%202022%20on.pdf)
 
-.
-
-****
-
-(12) Canada Provinces [Daily infections, Reference scenario, IHME, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220715/output/graph%2025%20provinces%20C-19%20daily%20infections%2C%20Canada%2C%20IHME%2C%202020%20on.pdf)
-
-.
+![image](https://user-images.githubusercontent.com/30849720/180625868-02ef950d-4c6b-495f-bc74-77bc1595a6b4.png)
 
 ****
 
-(13) Canada Provinces [Daily infections, Reference scenario, IHME, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220715/output/graph%2026%20provinces%20C-19%20daily%20infections%2C%20Canada%2C%20IHME%2C%202021%20on.pdf)
+(12) Canada Provinces [Daily infections, Reference scenario, IHME, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220722/output/graph%2025%20provinces%20C-19%20daily%20infections%2C%20Canada%2C%20IHME%2C%202020%20on.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/180625876-acb1b152-4c25-4e8f-b210-6a8f9c3dd702.png)
+
+****
+
+(13) Canada Provinces [Daily infections, Reference scenario, IHME, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220722/output/graph%2026%20provinces%20C-19%20daily%20infections%2C%20Canada%2C%20IHME%2C%202021%20on.pdf)
 
   
 ****
 
-(14) Canada Provinces [Daily infections, Reference scenario, IHME, 2022](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220715/output/graph%2027%20provinces%20C-19%20daily%20infections%2C%20Canada%2C%20IHME%2C%202022%20on.pdf)
+(14) Canada Provinces [Daily infections, Reference scenario, IHME, 2022](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220722/output/graph%2027%20provinces%20C-19%20daily%20infections%2C%20Canada%2C%20IHME%2C%202022%20on.pdf)
 
-.
+![image](https://user-images.githubusercontent.com/30849720/180625919-fb77a0b5-f564-4df5-a557-5155a3b65285.png)
 
 ****
 
@@ -431,51 +406,52 @@ book
 
 ****
 
-(1) Alberta [Daily deaths, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220715/output/SUB1%2011bDayDeaMERGsub%20alltime%20Alberta%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios%2C%20all%20time.pdf)
+(1) Alberta [Daily deaths, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220722/output/SUB1%2011bDayDeaMERGsub%20alltime%20Alberta%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios%2C%20all%20time.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/180626085-4e6a8a3e-fbbd-47f9-a045-e51f6b51f3dd.png)
+ 
+****
+
+(2) Alberta [Daily deaths, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220722/output/SUB2%2012bDayDeaMERGsub%202021%20Alberta%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios%2C%202021.pdf)
 
  
 ****
 
-(2) Alberta [Daily deaths, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220715/output/SUB2%2012bDayDeaMERGsub%202021%20Alberta%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios%2C%202021.pdf)
+(2b) Alberta [Daily deaths, Reference scenario, 2022 on, with JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220722/output/SUB2%2012cDayDeaMERGsub%202022%20Alberta%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios%2C%202022.pdf)
 
  
 ****
 
-(2b) Alberta [Daily deaths, Reference scenario, 2022 on, with JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220715/output/SUB2%2012cDayDeaMERGsub%202022%20Alberta%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios%2C%202022.pdf)
+(2c) Alberta [Daily deaths, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220722/output/SUB2%2012dDayDeaMERGsub%202022%20Alberta%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios%2C%202022.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/180625936-4a436c0d-905c-4ee0-8cb6-77b900fa3453.png)
+
+****
+
+(3) Alberta [Daily cases or infections, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220722/output/SUB4%2031bDayCasMERGsub%20alltime%20Alberta%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios.pdf)
 
  
 ****
 
-(2c) Alberta [Daily deaths, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220715/output/SUB2%2012dDayDeaMERGsub%202022%20Alberta%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios%2C%202022.pdf)
-
-![image](https://user-images.githubusercontent.com/30849720/179416825-7e2fcf8b-33c3-4942-9d74-90c0713a6482.png)
-
-****
-
-(3) Alberta [Daily cases or infections, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220715/output/SUB4%2031bDayCasMERGsub%20alltime%20Alberta%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios.pdf)
+(4) Alberta [Daily cases or infections, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220722/output/SUB5%2032bDayCasMERGsub%202021%20Alberta%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios%2C%202021.pdf)
 
  
 ****
 
-(4) Alberta [Daily cases or infections, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220715/output/SUB5%2032bDayCasMERGsub%202021%20Alberta%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios%2C%202021.pdf)
+(4b) Alberta [Daily cases or infections, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220722/output/SUB5%2032cDayCasMERGsub%202022%20Alberta%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios%2C%202022.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/180625947-8f137c8d-689e-4c55-b5cb-b186206c63bc.png)
+
+****
+
+(4c) Alberta [Daily cases, Reference scenario, 2022 on, with JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220722/output/SUB5%2032dDayCasMERGsub%202022%20Alberta%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios%2C%202022.pdf)
 
  
 ****
 
-(4b) Alberta [Daily cases or infections, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220715/output/SUB5%2032cDayCasMERGsub%202022%20Alberta%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios%2C%202022.pdf)
+(4d) Alberta [Daily cases, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220722/output/SUB5%2032eDayCasMERGsub%202022%20Alberta%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios%2C%202022.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/179416862-042bc524-1bdb-4fbf-9e31-b3a7197b76e0.png)
-
-****
-
-(4c) Alberta [Daily cases, Reference scenario, 2022 on, with JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220715/output/SUB5%2032dDayCasMERGsub%202022%20Alberta%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios%2C%202022.pdf)
-
- 
-****
-
-(4d) Alberta [Daily cases, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220715/output/SUB5%2032eDayCasMERGsub%202022%20Alberta%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Alberta%2C%20reference%20scenarios%2C%202022.pdf)
-
-![image](https://user-images.githubusercontent.com/30849720/179416896-28c1a215-6f68-4116-8444-d7d8060b34b9.png)
+![image](https://user-images.githubusercontent.com/30849720/180625959-b4a89909-a899-489a-873d-c91000b923a9.png)
 
 ****
 
@@ -495,51 +471,52 @@ book
 
 ****
 
-(1) British Columbia [Daily deaths, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220715/output/SUB1%2011bDayDeaMERGsub%20alltime%20British%20Columbia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%20all%20time.pdf)
+(1) British Columbia [Daily deaths, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220722/output/SUB1%2011bDayDeaMERGsub%20alltime%20British%20Columbia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%20all%20time.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/180626104-925130ec-68e8-42a6-bd73-0102f33893e2.png)
+ 
+****
+
+(2) British Columbia [Daily deaths, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220722/output/SUB2%2012bDayDeaMERGsub%202021%20British%20Columbia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%202021.pdf)
 
  
 ****
 
-(2) British Columbia [Daily deaths, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220715/output/SUB2%2012bDayDeaMERGsub%202021%20British%20Columbia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%202021.pdf)
+(2b) British Columbia [Daily deaths, Reference scenario, 2022 on, with JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220722/output/SUB2%2012cDayDeaMERGsub%202022%20British%20Columbia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%202022.pdf)
 
  
 ****
 
-(2b) British Columbia [Daily deaths, Reference scenario, 2022 on, with JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220715/output/SUB2%2012cDayDeaMERGsub%202022%20British%20Columbia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%202022.pdf)
+(2c) British Columbia [Daily deaths, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220722/output/SUB2%2012dDayDeaMERGsub%202022%20British%20Columbia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%202022.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/180625975-39ad1d94-f539-4381-aac9-2775b8d50e1e.png)
+
+****
+
+(3) British Columbia [Daily cases or infections, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220722/output/SUB4%2031bDayCasMERGsub%20alltime%20British%20Columbia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios.pdf)
 
  
 ****
 
-(2c) British Columbia [Daily deaths, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220715/output/SUB2%2012dDayDeaMERGsub%202022%20British%20Columbia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%202022.pdf)
-
-![image](https://user-images.githubusercontent.com/30849720/179416930-3d8fdc6d-62b6-42bb-bf31-3d998931de83.png)
-
-****
-
-(3) British Columbia [Daily cases or infections, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220715/output/SUB4%2031bDayCasMERGsub%20alltime%20British%20Columbia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios.pdf)
+(4) British Columbia [Daily cases or infections, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220722/output/SUB5%2032bDayCasMERGsub%202021%20British%20Columbia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%202021.pdf)
 
  
 ****
 
-(4) British Columbia [Daily cases or infections, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220715/output/SUB5%2032bDayCasMERGsub%202021%20British%20Columbia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%202021.pdf)
+(4b) British Columbia [Daily cases or infections, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220722/output/SUB5%2032cDayCasMERGsub%202022%20British%20Columbia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%202022.pdf)
 
- 
-****
-
-(4b) British Columbia [Daily cases or infections, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220715/output/SUB5%2032cDayCasMERGsub%202022%20British%20Columbia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%202022.pdf)
-
-![image](https://user-images.githubusercontent.com/30849720/179416966-3f92a3b3-3642-4d3e-af9e-862a3edf1371.png)
+![image](https://user-images.githubusercontent.com/30849720/180625988-a80ab3ba-ef0d-4665-a4c8-020ba0b63319.png)
 
 ****
 
-(4c) British Columbia [Daily cases, Reference scenario, 2022 on with JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220715/output/SUB5%2032dDayCasMERGsub%202022%20British%20Columbia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%202022.pdf)
+(4c) British Columbia [Daily cases, Reference scenario, 2022 on with JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220722/output/SUB5%2032dDayCasMERGsub%202022%20British%20Columbia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%202022.pdf)
 
 
 ****
 
-(4d) British Columbia [Daily cases, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220715/output/SUB5%2032eDayCasMERGsub%202022%20British%20Columbia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%202022.pdf)
+(4d) British Columbia [Daily cases, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220722/output/SUB5%2032eDayCasMERGsub%202022%20British%20Columbia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%202022.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/179417004-64fae710-e061-4d87-9e43-29d2bb17815e.png)
+![image](https://user-images.githubusercontent.com/30849720/180626000-45cd3ca9-1f4b-4bd3-95a8-599583ccc460.png)
 
 ****
 
@@ -558,51 +535,52 @@ book
 
 ****
 
-(1) Manitoba [Daily deaths, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220715/output/SUB1%2011bDayDeaMERGsub%20alltime%20Manitoba%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios%2C%20all%20time.pdf)
+(1) Manitoba [Daily deaths, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220722/output/SUB1%2011bDayDeaMERGsub%20alltime%20Manitoba%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios%2C%20all%20time.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/180626124-670bd738-2842-44a6-be79-63713e399b3a.png)
+  
+****
+
+(2) Manitoba [Daily deaths, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220722/output/SUB2%2012bDayDeaMERGsub%202021%20Manitoba%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios%2C%202021.pdf)
 
   
 ****
 
-(2) Manitoba [Daily deaths, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220715/output/SUB2%2012bDayDeaMERGsub%202021%20Manitoba%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios%2C%202021.pdf)
+(2b) Manitoba [Daily deaths, Reference scenario, 2022 on, with JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220722/output/SUB2%2012cDayDeaMERGsub%202022%20Manitoba%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios%2C%202022.pdf)
 
   
 ****
 
-(2b) Manitoba [Daily deaths, Reference scenario, 2022 on, with JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220715/output/SUB2%2012cDayDeaMERGsub%202022%20Manitoba%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios%2C%202022.pdf)
+(2c) Manitoba [Daily deaths, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220722/output/SUB2%2012dDayDeaMERGsub%202022%20Manitoba%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios%2C%202022.pdf)
 
-  
-****
-
-(2c) Manitoba [Daily deaths, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220715/output/SUB2%2012dDayDeaMERGsub%202022%20Manitoba%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios%2C%202022.pdf)
-
-![image](https://user-images.githubusercontent.com/30849720/179417046-2d6d17e8-0d86-4ea0-b990-264ed09f876c.png)
+![image](https://user-images.githubusercontent.com/30849720/180626020-dce582e6-dfda-44db-a80a-a8a400e1e0a8.png)
 
 ****
 
-(3) Manitoba [Daily cases or infections, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220715/output/SUB4%2031bDayCasMERGsub%20alltime%20Manitoba%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios.pdf)
+(3) Manitoba [Daily cases or infections, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220722/output/SUB4%2031bDayCasMERGsub%20alltime%20Manitoba%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios.pdf)
 
  
 ****
 
-(4) Manitoba [Daily cases or infections, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220715/output/SUB5%2032bDayCasMERGsub%202021%20Manitoba%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios%2C%202021.pdf)
+(4) Manitoba [Daily cases or infections, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220722/output/SUB5%2032bDayCasMERGsub%202021%20Manitoba%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios%2C%202021.pdf)
 
  
 ****
 
-(4b) Manitoba [Daily cases or infections, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220715/output/SUB5%2032cDayCasMERGsub%202022%20Manitoba%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios%2C%202022.pdf)
+(4b) Manitoba [Daily cases or infections, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220722/output/SUB5%2032cDayCasMERGsub%202022%20Manitoba%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios%2C%202022.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/179417092-ac43beda-df7e-4ddc-a2dc-772bf02d99a8.png)
-
-****
-
-(4c) Manitoba [Daily cases, Reference scenario, 2022 on, with JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220715/output/SUB5%2032dDayCasMERGsub%202022%20Manitoba%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios%2C%202022.pdf)
-
+![image](https://user-images.githubusercontent.com/30849720/180626034-7dbf3d1b-2e91-4e35-b7c6-8ba9cf277f18.png)
 
 ****
 
-(4d) Manitoba [Daily cases, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220715/output/SUB5%2032eDayCasMERGsub%202022%20Manitoba%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios%2C%202022.pdf)
+(4c) Manitoba [Daily cases, Reference scenario, 2022 on, with JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220722/output/SUB5%2032dDayCasMERGsub%202022%20Manitoba%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios%2C%202022.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/179417138-03b26e08-8ddc-4ffc-aebb-b739254a8fbe.png)
+
+****
+
+(4d) Manitoba [Daily cases, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220722/output/SUB5%2032eDayCasMERGsub%202022%20Manitoba%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Manitoba%2C%20reference%20scenarios%2C%202022.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/180626047-ae2471d0-61c3-4871-819f-5c97c174c37d.png)
 
 ****
 
@@ -631,51 +609,52 @@ book
 
 ****
 
-(1) Nova Scotia [Daily deaths, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220715/output/SUB1%2011bDayDeaMERGsub%20alltime%20Nova%20Scotia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Nova%20Scotia%2C%20reference%20scenarios%2C%20all%20time.pdf)
+(1) Nova Scotia [Daily deaths, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220722/output/SUB1%2011bDayDeaMERGsub%20alltime%20Nova%20Scotia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Nova%20Scotia%2C%20reference%20scenarios%2C%20all%20time.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/180626070-def128d9-000c-4aa5-a344-0ada0f31e3ee.png)
+ 
+****
+
+(2) Nova Scotia [Daily deaths, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220722/output/SUB2%2012bDayDeaMERGsub%202021%20Nova%20Scotia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Nova%20Scotia%2C%20reference%20scenarios%2C%202021.pdf)
 
  
 ****
 
-(2) Nova Scotia [Daily deaths, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220715/output/SUB2%2012bDayDeaMERGsub%202021%20Nova%20Scotia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Nova%20Scotia%2C%20reference%20scenarios%2C%202021.pdf)
+(2b) Nova Scotia [Daily deaths, Reference scenario, 2022 on, with JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220722/output/SUB2%2012cDayDeaMERGsub%202022%20Nova%20Scotia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Nova%20Scotia%2C%20reference%20scenarios%2C%202022.pdf)
 
  
 ****
 
-(2b) Nova Scotia [Daily deaths, Reference scenario, 2022 on, with JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220715/output/SUB2%2012cDayDeaMERGsub%202022%20Nova%20Scotia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Nova%20Scotia%2C%20reference%20scenarios%2C%202022.pdf)
+(2c) Nova Scotia [Daily deaths, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220722/output/SUB2%2012dDayDeaMERGsub%202022%20Nova%20Scotia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Nova%20Scotia%2C%20reference%20scenarios%2C%202022.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/180626146-46d78fc2-7fd2-4e9a-8d2e-de8456c59119.png)
+
+****
+
+(3) Nova Scotia [Daily cases or infections, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220722/output/SUB4%2031bDayCasMERGsub%20alltime%20Nova%20Scotia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Nova%20Scotia%2C%20reference%20scenarios.pdf)
 
  
 ****
 
-(2c) Nova Scotia [Daily deaths, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220715/output/SUB2%2012dDayDeaMERGsub%202022%20Nova%20Scotia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Nova%20Scotia%2C%20reference%20scenarios%2C%202022.pdf)
-
-![image](https://user-images.githubusercontent.com/30849720/179417173-0d6231c6-8f5f-4251-8265-bdf69831fd1c.png)
-
-****
-
-(3) Nova Scotia [Daily cases or infections, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220715/output/SUB4%2031bDayCasMERGsub%20alltime%20Nova%20Scotia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Nova%20Scotia%2C%20reference%20scenarios.pdf)
+(4) Nova Scotia [Daily cases or infections, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220722/output/SUB5%2032bDayCasMERGsub%202021%20Nova%20Scotia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Nova%20Scotia%2C%20reference%20scenarios%2C%202021.pdf)
 
  
 ****
 
-(4) Nova Scotia [Daily cases or infections, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220715/output/SUB5%2032bDayCasMERGsub%202021%20Nova%20Scotia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Nova%20Scotia%2C%20reference%20scenarios%2C%202021.pdf)
+(4b) Nova Scotia [Daily cases or infections, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220722/output/SUB5%2032cDayCasMERGsub%202022%20Nova%20Scotia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Nova%20Scotia%2C%20reference%20scenarios%2C%202022.pdf)
 
- 
-****
-
-(4b) Nova Scotia [Daily cases or infections, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220715/output/SUB5%2032cDayCasMERGsub%202022%20Nova%20Scotia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Nova%20Scotia%2C%20reference%20scenarios%2C%202022.pdf)
-
-![image](https://user-images.githubusercontent.com/30849720/179417210-69190acc-fd71-49db-97f1-8c7753f9fcd9.png)
+![image](https://user-images.githubusercontent.com/30849720/180626163-fe8556e3-b002-47f5-8630-3bff8a067316.png)
 
 ****
 
-(4c) Nova Scotia [Daily cases, Reference scenario, 2022 on, with JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220715/output/SUB5%2032dDayCasMERGsub%202022%20Nova%20Scotia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Nova%20Scotia%2C%20reference%20scenarios%2C%202022.pdf)
+(4c) Nova Scotia [Daily cases, Reference scenario, 2022 on, with JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220722/output/SUB5%2032dDayCasMERGsub%202022%20Nova%20Scotia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Nova%20Scotia%2C%20reference%20scenarios%2C%202022.pdf)
 
 
 ****
 
-(4d) Nova Scotia [Daily cases, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220715/output/SUB5%2032eDayCasMERGsub%202022%20Nova%20Scotia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Nova%20Scotia%2C%20reference%20scenarios%2C%202022.pdf)
+(4d) Nova Scotia [Daily cases, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220722/output/SUB5%2032eDayCasMERGsub%202022%20Nova%20Scotia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Nova%20Scotia%2C%20reference%20scenarios%2C%202022.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/179417233-6fb58caa-7a50-45b6-baf9-2bf227f9ed51.png)
+![image](https://user-images.githubusercontent.com/30849720/180626184-18ee0da4-da3e-4ff4-a260-029672377bf0.png)
 
 ****
 
@@ -694,51 +673,52 @@ book
 
 ****
 
-(1) Ontario [Daily deaths, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220715/output/SUB1%2011bDayDeaMERGsub%20alltime%20Ontario%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%20all%20time.pdf)
+(1) Ontario [Daily deaths, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220722/output/SUB1%2011bDayDeaMERGsub%20alltime%20Ontario%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%20all%20time.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/180626197-240a7989-15fd-4c7d-b6bd-a69290d140a8.png)
+ 
+****
+
+(2) Ontario [Daily deaths, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220722/output/SUB2%2012bDayDeaMERGsub%202021%20Ontario%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202021.pdf)
+
+
+****
+
+(2b) Ontario [Daily deaths, Reference scenario, 2022 on, with JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220722/output/SUB2%2012cDayDeaMERGsub%202022%20Ontario%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202022.pdf)
 
  
 ****
 
-(2) Ontario [Daily deaths, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220715/output/SUB2%2012bDayDeaMERGsub%202021%20Ontario%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202021.pdf)
+(2c) Ontario [Daily deaths, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220722/output/SUB2%2012dDayDeaMERGsub%202022%20Ontario%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202022.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/180626217-2780ffc8-ad04-4eab-bf14-d4f30333cd05.png)
+
+****
+
+(3) Ontario [Daily cases or infections, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220722/output/SUB4%2031bDayCasMERGsub%20alltime%20Ontario%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios.pdf)
 
 
 ****
 
-(2b) Ontario [Daily deaths, Reference scenario, 2022 on, with JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220715/output/SUB2%2012cDayDeaMERGsub%202022%20Ontario%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202022.pdf)
+(4) Ontario [Daily cases or infections, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220722/output/SUB5%2032bDayCasMERGsub%202021%20Ontario%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202021.pdf)
 
  
 ****
 
-(2c) Ontario [Daily deaths, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220715/output/SUB2%2012dDayDeaMERGsub%202022%20Ontario%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202022.pdf)
+(4b) Ontario [Daily cases or infections, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220722/output/SUB5%2032cDayCasMERGsub%202022%20Ontario%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202022.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/179417267-e8503c06-806f-43be-abbc-0a17c0352962.png)
-
-****
-
-(3) Ontario [Daily cases or infections, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220715/output/SUB4%2031bDayCasMERGsub%20alltime%20Ontario%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios.pdf)
-
+![image](https://user-images.githubusercontent.com/30849720/180626234-7861f416-53fc-4e22-8ac9-6743bcece8b9.png)
 
 ****
 
-(4) Ontario [Daily cases or infections, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220715/output/SUB5%2032bDayCasMERGsub%202021%20Ontario%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202021.pdf)
-
- 
-****
-
-(4b) Ontario [Daily cases or infections, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220715/output/SUB5%2032cDayCasMERGsub%202022%20Ontario%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202022.pdf)
-
-![image](https://user-images.githubusercontent.com/30849720/179417289-40fac990-c0fb-499f-9a3b-4e4d82cdf06a.png)
-
-****
-
-(4c) Ontario [Daily cases, Reference scenario, 2022 on, with JOHN raw ](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220715/output/SUB5%2032dDayCasMERGsub%202022%20Ontario%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202022.pdf)
+(4c) Ontario [Daily cases, Reference scenario, 2022 on, with JOHN raw ](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220722/output/SUB5%2032dDayCasMERGsub%202022%20Ontario%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202022.pdf)
 
 
 ****
 
-(4d) Ontario [Daily cases, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220715/output/SUB5%2032eDayCasMERGsub%202022%20Ontario%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202022.pdf)
+(4d) Ontario [Daily cases, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220722/output/SUB5%2032eDayCasMERGsub%202022%20Ontario%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Ontario%2C%20reference%20scenarios%2C%202022.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/179417309-8c246e9b-ad0e-4c8d-a4a2-a6c29249f84a.png)
+![image](https://user-images.githubusercontent.com/30849720/180626242-4f064ddb-3836-4bf8-8c10-56de0cfd18e0.png)
 
 ****
 
@@ -759,51 +739,52 @@ book
 
 ****
 
-(1) Quebec [Daily deaths, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220715/output/SUB1%2011bDayDeaMERGsub%20alltime%20Quebec%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%20all%20time.pdf)
+(1) Quebec [Daily deaths, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220722/output/SUB1%2011bDayDeaMERGsub%20alltime%20Quebec%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
+![image](https://user-images.githubusercontent.com/30849720/180626269-ef44d676-4815-409c-bc76-0487fc8f0be5.png)
   
 ****
 
-(2) Quebec [Daily deaths, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220715/output/SUB2%2012bDayDeaMERGsub%202021%20Quebec%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%202021.pdf)
+(2) Quebec [Daily deaths, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220722/output/SUB2%2012bDayDeaMERGsub%202021%20Quebec%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%202021.pdf)
 
  
 ****
 
-(2b) Quebec [Daily deaths, Reference scenario, 2022 on, with JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220715/output/SUB2%2012cDayDeaMERGsub%202022%20Quebec%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%202022.pdf)
+(2b) Quebec [Daily deaths, Reference scenario, 2022 on, with JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220722/output/SUB2%2012cDayDeaMERGsub%202022%20Quebec%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%202022.pdf)
 
  
 ****
 
-(2c) Quebec [Daily deaths, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220715/output/SUB2%2012dDayDeaMERGsub%202022%20Quebec%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%202022.pdf)
+(2c) Quebec [Daily deaths, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220722/output/SUB2%2012dDayDeaMERGsub%202022%20Quebec%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%202022.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/179417337-935b2d63-274d-47f7-9519-36479838913c.png)
-
-****
-
-(3) Quebec [Daily cases or infections, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220715/output/SUB4%2031bDayCasMERGsub%20alltime%20Quebec%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios.pdf)
-
+![image](https://user-images.githubusercontent.com/30849720/180626281-99795e09-dcc0-4535-97ff-3a051c9dd987.png)
 
 ****
 
-(4) Quebec [Daily cases or infections, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220715/output/SUB5%2032bDayCasMERGsub%202021%20Quebec%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%202021.pdf)
+(3) Quebec [Daily cases or infections, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220722/output/SUB4%2031bDayCasMERGsub%20alltime%20Quebec%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios.pdf)
+
+
+****
+
+(4) Quebec [Daily cases or infections, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220722/output/SUB5%2032bDayCasMERGsub%202021%20Quebec%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%202021.pdf)
 
  
 ****
 
-(4b) Quebec [Daily cases or infections, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220715/output/SUB5%2032cDayCasMERGsub%202022%20Quebec%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%202022.pdf)
+(4b) Quebec [Daily cases or infections, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220722/output/SUB5%2032cDayCasMERGsub%202022%20Quebec%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%202022.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/179417368-1cb50264-0e2a-43cd-9df2-e4813bb50fdb.png)
-
-****
-
-(4c) Quebec [Daily cases, Reference scenario, 2022 on, with JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220715/output/SUB5%2032dDayCasMERGsub%202022%20Quebec%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%202022.pdf)
-
+![image](https://user-images.githubusercontent.com/30849720/180626300-40bd2af2-1d0c-4af1-91ee-10a9c35f342b.png)
 
 ****
 
-(4d) Quebec [Daily cases, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220715/output/SUB5%2032eDayCasMERGsub%202022%20Quebec%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%202022.pdf)
+(4c) Quebec [Daily cases, Reference scenario, 2022 on, with JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220722/output/SUB5%2032dDayCasMERGsub%202022%20Quebec%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%202022.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/179417395-69c82445-71f3-415c-83bb-e034ff31135f.png)
+
+****
+
+(4d) Quebec [Daily cases, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220722/output/SUB5%2032eDayCasMERGsub%202022%20Quebec%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Quebec%2C%20reference%20scenarios%2C%202022.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/180626318-224306aa-328f-4df2-8798-86b42c0a04e0.png)
 
 ****
 
@@ -825,53 +806,55 @@ book
 
 ****
 
-(1) Saskatchewan [Daily deaths, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220715/output/SUB1%2011bDayDeaMERGsub%20alltime%20Saskatchewan%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Saskatchewan%2C%20reference%20scenarios%2C%20all%20time.pdf)
+(1) Saskatchewan [Daily deaths, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220722/output/SUB1%2011bDayDeaMERGsub%20alltime%20Saskatchewan%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Saskatchewan%2C%20reference%20scenarios%2C%20all%20time.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/180626345-61bfb4f7-bcec-43e7-898b-75f231ecca74.png)
+ 
+****
+
+(2) Saskatchewan [Daily deaths, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220722/output/SUB2%2012bDayDeaMERGsub%202021%20Saskatchewan%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Saskatchewan%2C%20reference%20scenarios%2C%202021.pdf)
 
  
 ****
 
-(2) Saskatchewan [Daily deaths, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220715/output/SUB2%2012bDayDeaMERGsub%202021%20Saskatchewan%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Saskatchewan%2C%20reference%20scenarios%2C%202021.pdf)
+(2b) Saskatchewan [Daily deaths, Reference scenario, 2022 on, with JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220722/output/SUB2%2012cDayDeaMERGsub%202022%20Saskatchewan%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Saskatchewan%2C%20reference%20scenarios%2C%202022.pdf)
 
  
 ****
 
-(2b) Saskatchewan [Daily deaths, Reference scenario, 2022 on, with JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220715/output/SUB2%2012cDayDeaMERGsub%202022%20Saskatchewan%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Saskatchewan%2C%20reference%20scenarios%2C%202022.pdf)
+(2c) Saskatchewan [Daily deaths, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220722/output/SUB2%2012dDayDeaMERGsub%202022%20Saskatchewan%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Saskatchewan%2C%20reference%20scenarios%2C%202022.pdf)
 
- 
-****
-
-(2c) Saskatchewan [Daily deaths, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220715/output/SUB2%2012dDayDeaMERGsub%202022%20Saskatchewan%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20Saskatchewan%2C%20reference%20scenarios%2C%202022.pdf)
-
-![image](https://user-images.githubusercontent.com/30849720/179417428-d645cdd1-53ed-48f1-9c9f-32ccc8754afc.png)
+![image](https://user-images.githubusercontent.com/30849720/180626365-b79de096-901f-4469-b361-9597e69bbaa8.png)
 
 ****
 
-(3) Saskatchewan [Daily cases or infections, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220715/output/SUB4%2031bDayCasMERGsub%20alltime%20Saskatchewan%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Saskatchewan%2C%20reference%20scenarios.pdf)
+(3) Saskatchewan [Daily cases or infections, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220722/output/SUB4%2031bDayCasMERGsub%20alltime%20Saskatchewan%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Saskatchewan%2C%20reference%20scenarios.pdf)
 
   
 ****
 
-(4) Saskatchewan [Daily cases or infections, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220715/output/SUB5%2032bDayCasMERGsub%202021%20Saskatchewan%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Saskatchewan%2C%20reference%20scenarios%2C%202021.pdf)
+(4) Saskatchewan [Daily cases or infections, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220722/output/SUB5%2032bDayCasMERGsub%202021%20Saskatchewan%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Saskatchewan%2C%20reference%20scenarios%2C%202021.pdf)
 
  
 ****
 
-(4b) Saskatchewan [Daily cases or infections, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220715/output/SUB5%2032cDayCasMERGsub%202022%20Saskatchewan%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Saskatchewan%2C%20reference%20scenarios%2C%202022.pdf)
+(4b) Saskatchewan [Daily cases or infections, Reference scenario, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220722/output/SUB5%2032cDayCasMERGsub%202022%20Saskatchewan%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Saskatchewan%2C%20reference%20scenarios%2C%202022.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/179417459-d6d33d52-2dec-4887-bd7d-c63d657f5c45.png)
-
-****
-
-(4c) Saskatchewan [Daily cases, Reference scenario, 2022 on, with JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220715/output/SUB5%2032dDayCasMERGsub%202022%20Saskatchewan%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Saskatchewan%2C%20reference%20scenarios%2C%202022.pdf)
-
+![image](https://user-images.githubusercontent.com/30849720/180626376-c681e251-8fae-4266-8e95-5c662b9ac231.png)
 
 ****
 
-(4d) Saskatchewan [Daily cases, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220715/output/SUB5%2032eDayCasMERGsub%202022%20Saskatchewan%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Saskatchewan%2C%20reference%20scenarios%2C%202022.pdf)
+(4c) Saskatchewan [Daily cases, Reference scenario, 2022 on, with JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220722/output/SUB5%2032dDayCasMERGsub%202022%20Saskatchewan%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Saskatchewan%2C%20reference%20scenarios%2C%202022.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/179417478-bea0194e-faf7-4ca3-bdcf-0f2c911c5405.png)
 
 ****
+
+(4d) Saskatchewan [Daily cases, Reference scenario, 2022 on, without JOHN raw](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220722/output/SUB5%2032eDayCasMERGsub%202022%20Saskatchewan%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20Saskatchewan%2C%20reference%20scenarios%2C%202022.pdf)
+
+![image](https://user-images.githubusercontent.com/30849720/180626386-364378e7-d7eb-4d6f-90b8-bb9c880ebbc2.png)
+
+****
+
 
  
   
