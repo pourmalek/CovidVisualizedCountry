@@ -2471,10 +2471,31 @@ xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, l
 ytitle(Daily cases or infections) title("COVID-19 daily cases or infections, $country, National", size(medium)) ///
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
 legend(order(1 "JOHN cases" 2 "IHME infections") size(small) rows(1)) ///
-subtitle("IHME and IMPE 3 scenarios, 2022 on", size(small)) ///
+subtitle("IHME 3 scenarios, 2022 on", size(small)) ///
 note("Alternate scenarios: tight dot (|||||) curves; IHME")  
 
 qui graph export "CAN6 34aaDayCasMERGnat 2021 3scen - COVID-19 daily cases, $country, National, 3 scenarios, 2022, uncertainty.pdf", replace
+
+
+
+
+
+****
+* daily cases DELP and SRIV, single scenarios, 2022, National 
+
+twoway ///
+(line DayCasMeSmA00S00 date, sort lcolor(cyan) lwidth(thick)) /// 1 "JOHN smooth"
+(line DayCasMeSmA01S00 date, sort lcolor(red)) /// 2 DELP mean, reference scenario
+(line DayCasMeRaA05S00 date, sort lcolor(green)) /// 3 SRIV mean, reference scenario
+if date >= td(01jan2022) & provincestate == " National" & DayCasMeRaA00S00 >= 0 ///
+, xtitle(Date) xlabel(#$monthspast01jan2022merge, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(horizontal)) ///
+ytitle(Daily cases ) title("COVID-19 daily cases, $country, National, DELP and SRIV, 2022", size(medium)) ///
+xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
+legend(order(1 "JOHN cases" 2 "DELP cases" 3 "SRIV cases") size(small) rows(1)) 
+
+qui graph export "CAN6 34aaaDayCasMERGnat 2021 3scen - COVID-19 daily cases, $country, National, 3 scenarios, 2022, uncertainty.pdf", replace
+
 
 
 
