@@ -2,7 +2,7 @@
 
 ## ! THE MOST RECENT WEEKLY SITUATION REPORT, EVERY MONDAY MORNING, HERE:
 
-! Read the Canada COVID-19 epidemic models situation report No 55 - 2022-07-15 [here](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/55%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2055%20-%202022-07-15.pdf)
+! Read the Canada COVID-19 epidemic models situation report No 56 - 2022-07-22 [here](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/56%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2056%20-%202022-07-22.pdf)
 
 <br/><br/>
 
@@ -159,7 +159,7 @@ Latest models' updates > 2 weeks are not included.
 ******
 
   
-# :eyes: SEE: See Canada COVID-19 epidemic models situation report No 55 - 2022-07-15, [here](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/55%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2055%20-%202022-07-15.pdf)
+# :eyes: SEE: See Canada COVID-19 epidemic models situation report No 56 - 2022-07-22, [here](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/56%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2056%20-%202022-07-22.pdf)
 
 <br/><br/>
   
