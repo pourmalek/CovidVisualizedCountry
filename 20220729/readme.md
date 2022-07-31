@@ -115,12 +115,11 @@ book
 
 (4b2) Canada National [Daily cases, All scenarios, DELP and SRIV, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220729/output/CAN6%2034aaaDayCasMERGnat%202021%203scen%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20National%2C%203%20scenarios%2C%202022%2C%20uncertainty.pdf)
 
-book
+![image](https://user-images.githubusercontent.com/30849720/182043334-4846d3c0-b5c0-4859-bb21-c1d241b0b9fa.png)
 
 ****
 
 (5) Canada National [Daily hospital-related outcomes, Reference scenarios, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220729/output/CAN7%2071a1DayHosMERGnat%20%20alltime%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20National.pdf)
-
 
  
 ****
@@ -181,7 +180,7 @@ book
 
 (1) Canada Provinces [Daily reported deaths, JOHN, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220729/output/graph%2001%20provinces%20C-19%20daily%20deaths%2C%20Canada%2C%20JOHN%202020.pdf)
 
-book
+![image](https://user-images.githubusercontent.com/30849720/182043374-c36dfdd5-b3df-4db2-8875-23b872d48cc1.png)
 
 ****
 
@@ -192,25 +191,25 @@ book
 
 (3) Canada Provinces [Daily reported deaths, JOHN, 2022](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220729/output/graph%2003%20provinces%20C-19%20daily%20deaths%2C%20Canada%2C%20JOHN%202022.pdf)
 
-book
+![image](https://user-images.githubusercontent.com/30849720/182043399-ea714235-27e3-4ba0-a8ea-91afdc2f0a0d.png)
 
 ****
 
 (4) Canada Provinces [Daily reported deaths, without National, Ontario, and Quebec, JOHN, 2022](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220729/output/graph%2004%20provinces%20C-19%20daily%20deaths%2C%20Canada%2C%20JOHN%202022.pdf)
 
-book
+![image](https://user-images.githubusercontent.com/30849720/182043439-641f4af7-f7e9-41be-9f4e-c49ade69934e.png)
 
 ****
 
 (4b) Canada Provinces [Daily reported deaths, without National, Ontario, and Quebec, JOHN, 2022 June on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220729/output/graph%2004%20b%20provinces%20C-19%20daily%20deaths%2C%20Canada%2C%20JOHN%202022.pdf)
 
-book
+![image](https://user-images.githubusercontent.com/30849720/182043486-316745b3-bc30-4411-9cca-c30a4b86f72a.png)
 
 ****
 
 (5) Canada Provinces [Daily reported cases, JOHN, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220729/output/graph%2005%20provinces%20C-19%20daily%20cases%2C%20Canada%2C%20JOHN%202020.pdf)
 
-book
+![image](https://user-images.githubusercontent.com/30849720/182044119-ba0e92aa-a4f4-468b-bf08-d90270399862.png)
 
 ****
 
@@ -221,7 +220,7 @@ book
 
 (7) Canada Provinces [Daily reported cases, JOHN, 2022](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220729/output/graph%2007%20provinces%20C-19%20daily%20cases%2C%20Canada%2C%20JOHN%202022.pdf)
 
-book
+![image](https://user-images.githubusercontent.com/30849720/182044156-2b3edb95-cd62-476e-91cf-85378344ae21.png)
 
 ****
 
