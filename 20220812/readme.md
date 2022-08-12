@@ -197,7 +197,7 @@ Carl Sagan testifying before Congress in 1985 on climate change || https://www.y
 
 (4) Canada Provinces [Daily reported deaths, without National, Ontario, and Quebec, JOHN, 2022](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220812/output/graph%2004%20provinces%20C-19%20daily%20deaths%2C%20Canada%2C%20JOHN%202022.pdf)
 
-book
+![image](https://user-images.githubusercontent.com/30849720/184430044-87087518-0983-48f2-8a3f-1f728720c800.png)
 
 ****
 
