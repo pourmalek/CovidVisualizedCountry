@@ -109,7 +109,6 @@ Carl Sagan testifying before Congress in 1985 on climate change || https://www.y
 
 (4b) Canada National [Daily cases or infections, All scenarios, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220812/output/CAN6%2034aaDayCasMERGnat%202021%203scen%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20National%2C%203%20scenarios%2C%202022%2C%20uncertainty.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/184429633-1cb386f5-54d3-4174-a83d-f36bd22ac20e.png)
 
 ****
 
