@@ -5226,7 +5226,7 @@ twoway ///
 (line DayDeaMeSmA00S00XQC date, sort lwidth(medium) lcolor(green)) /// 9 "QC" green
 (line DayDeaMeSmA00S00XSK date, sort lwidth(medium) lcolor(brown)) /// 8 "SK" orange
 if date >= td(01jun2022) & date <= td(01sep2022) ///
-, xtitle(Date) xlabel(22797 22803 22810 22817 22824 22827 22834 22841 22848 22858, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+, xtitle(Date) xlabel(22797 22803 22810 22817 22824 22827 22833 22840 22847 22854 22858 22864 22871 22878 22885 22889, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(forty_five)) ///
 ytitle(Daily deaths) title("C-19 daily deaths, smooth, $country provinces, JOHN, 2022 June on", size(medium)) ///
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
@@ -5275,7 +5275,7 @@ twoway ///
 (line DayDeaMeSmA00S00XNS date, sort lwidth(medium) lcolor(magenta)) /// 5 "NS" magenta
 (line DayDeaMeSmA00S00XSK date, sort lwidth(medium) lcolor(brown)) /// 6 "SK" orange
 if date >= td(01jun2022) & date <= td(01sep2022) ///
-, xtitle(Date) xlabel(22797 22803 22810 22817 22824 22827 22834 22841 22848 22858, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+, xtitle(Date) xlabel(22797 22803 22810 22817 22824 22827 22833 22840 22847 22854 22858 22864 22871 22878 22885 22889, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(forty_five)) ///
 ytitle(Daily deaths) title("C-19 daily deaths, smooth, $country provinces, JOHN, 2022 June on", size(medium)) ///
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
@@ -5383,7 +5383,7 @@ twoway ///
 (line DayCasMeSmA00S00XQC date, sort lwidth(medium) lcolor(green)) /// 8 "QC" green
 (line DayCasMeSmA00S00XSK date, sort lwidth(medium) lcolor(brown)) /// 9 "SK" orange
 if date >= td(01jun2022) & date <= td(01sep2022) ///
-, xtitle(Date) xlabel(22797 22803 22810 22817 22824 22827 22834 22841 22848 22858, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
+, xtitle(Date) xlabel(22797 22803 22810 22817 22824 22827 22833 22840 22847 22854 22858 22864 22871 22878 22885 22889, format(%tdYY-NN-DD) labsize(small)) xlabel(, grid) xlabel(, grid) ///
 xlabel(, angle(forty_five)) ylabel(, format(%15.0fc) labsize(small))  ylabel(, labsize(small) angle(forty_five)) ///
 ytitle(Daily cases) title("C-19 daily cases, smooth, $country provinces, JOHN, 2022 June on", size(medium)) ///
 xscale(lwidth(vthin) lcolor(gray*.2)) yscale(lwidth(vthin) lcolor(gray*.2)) legend(region(lcolor(none))) legend(bexpand) ///
