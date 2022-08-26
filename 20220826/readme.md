@@ -83,7 +83,7 @@ Carl Sagan testifying before Congress in 1985 on climate change || https://www.y
 
 (1) Canada [Daily deaths, Reference scenarios, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220826/output/CAN1%2011aDayDeaMERGnat%20alltime%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%20all%20time.pdf)
 
-![image](https://user-images.githubusercontent.com/30849720/184429226-9706f89b-5c25-43dc-b577-42939a97c6ac.png)
+![image](https://user-images.githubusercontent.com/30849720/186999789-1d80035a-937a-4c91-a7cb-932c4425d51d.png)
 
 ****
 
@@ -94,13 +94,13 @@ Carl Sagan testifying before Congress in 1985 on climate change || https://www.y
 
 (2b) Canada National [Daily deaths, All scenarios, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220826/output/CAN2%2012aaDayDeaMERGnat%202022%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%202022.pdf)
 
-book new
+![image](https://user-images.githubusercontent.com/30849720/186999847-38fbb88e-2ff5-403e-9d9f-082e0cfc26f0.png)
 
 ****
 
 (3) Canada National [Daily cases or infections, Reference scenarios, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220826/output/CAN4%2031aDayCasMERGnat%20alltime%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20National%2C%20reference%20scenarios.pdf)
 
-book new
+![image](https://user-images.githubusercontent.com/30849720/186999904-fda35318-f085-4e43-add8-00a6dbbca63d.png)
 
 ****
 
@@ -111,13 +111,12 @@ book new
 
 (4b) Canada National [Daily cases or infections, All scenarios, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220826/output/CAN6%2034aaDayCasMERGnat%202021%203scen%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20National%2C%203%20scenarios%2C%202022%2C%20uncertainty.pdf)
 
-book new
 
 ****
 
 (4b2) Canada National [Daily cases, All scenarios, DELP and SRIV, 2022 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220826/output/CAN6%2034aaaDayCasMERGnat%202021%203scen%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20National%2C%203%20scenarios%2C%202022%2C%20uncertainty.pdf)
 
-book new
+![image](https://user-images.githubusercontent.com/30849720/186999994-27f0972e-5417-494b-b0ae-879d775bcf25.png)
 
 ****
 
@@ -129,13 +128,11 @@ book new
 (6) Canada National [Daily hospital-related outcomes, without IHME Bed need, Reference scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220826/output/CAN8%2073aDayHosMERGnat%202021%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20National%2C%20wo%20extremes%2C%202021.pdf)
 
 
-
 ****
 
 (7) Canada National [Daily Infection hospitalization and fatality ratios, Reference scenario, IHME, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220826/output/graph%2091a2%20COVID-19%20daily%20Infection%20outcomes%20ratios%2C%20Canada%2C%20National%203%20scenarios%2C%20IHME.pdf)
 
 
- 
 ****
 
 (8) Canada National [Daily percent change in mobility, IHME, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220826/output/graph%2092a%20COVID-19%20daily%20mobility%2C%20Canada%2C%20National%2C%203%20scenarios.pdf)
@@ -182,7 +179,7 @@ book new
 
 (1) Canada Provinces [Daily reported deaths, JOHN, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220826/output/graph%2001%20provinces%20C-19%20daily%20deaths%2C%20Canada%2C%20JOHN%202020.pdf)
 
-book new
+![image](https://user-images.githubusercontent.com/30849720/187000094-ff8ef897-1641-4654-9d9f-33dd13cceb0d.png)
 
 ****
 
@@ -193,25 +190,25 @@ book new
 
 (3) Canada Provinces [Daily reported deaths, JOHN, 2022](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220826/output/graph%2003%20provinces%20C-19%20daily%20deaths%2C%20Canada%2C%20JOHN%202022.pdf)
 
-book new
+![image](https://user-images.githubusercontent.com/30849720/187000168-e8778737-5b95-4de5-971e-eaca4c80f384.png)
 
 ****
 
 (4) Canada Provinces [Daily reported deaths, without National, Ontario, and Quebec, JOHN, 2022](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220826/output/graph%2004%20provinces%20C-19%20daily%20deaths%2C%20Canada%2C%20JOHN%202022.pdf)
 
-book new
+![image](https://user-images.githubusercontent.com/30849720/187000229-754f40de-da5d-46f5-8fd6-9adc776676e1.png)
 
 ****
 
 (4b) Canada Provinces [Daily reported deaths, without National, Ontario, and Quebec, JOHN, 2022 June on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220826/output/graph%2004%20b%20provinces%20C-19%20daily%20deaths%2C%20Canada%2C%20JOHN%202022.pdf)
 
-book new
+![image](https://user-images.githubusercontent.com/30849720/187000324-745f369f-f9f0-4044-abfc-4d59a69652b0.png)
 
 ****
 
 (5) Canada Provinces [Daily reported cases, JOHN, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220826/output/graph%2005%20provinces%20C-19%20daily%20cases%2C%20Canada%2C%20JOHN%202020.pdf)
 
-book new
+![image](https://user-images.githubusercontent.com/30849720/187000395-c5533078-5669-4439-87a7-5af02c9acbf2.png)
 
 ****
 
@@ -222,13 +219,13 @@ book new
 
 (7) Canada Provinces [Daily reported cases, JOHN, 2022](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220826/output/graph%2007%20provinces%20C-19%20daily%20cases%2C%20Canada%2C%20JOHN%202022.pdf)
 
-book new
+![image](https://user-images.githubusercontent.com/30849720/187000458-ca48ca23-4d8f-46de-8ba6-2db5ffb8e610.png)
 
 ****
 
 (8) Canada Provinces [Daily reported cases, without National, Ontario, and Quebec, JOHN, 2022](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220826/output/graph%2008%20provinces%20C-19%20daily%20cases%2C%20Canada%2C%20JOHN%202022.pdf)
 
-book new
+![image](https://user-images.githubusercontent.com/30849720/187000511-7b616443-cea2-4937-a3f2-858c2e46a324.png)
 
 ****
 
