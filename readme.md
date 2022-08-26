@@ -2,7 +2,7 @@
 
 ## ! THE MOST RECENT WEEKLY SITUATION REPORT, EVERY MONDAY MORNING, HERE:
 
-! Read the Canada COVID-19 epidemic models situation report No 58 - 2022-08-12 [here](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/58%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%20589%20-%202022-08-12.pdf)
+! Read the Canada COVID-19 epidemic models situation report No 59 - 2022-08-26 [here](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/59%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2059%20-%202022-08-26.pdf)
 
 <br/><br/>
 
